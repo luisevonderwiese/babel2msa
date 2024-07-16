@@ -1,0 +1,1722 @@
+	ID	DOCULECT	CONCEPT	Segments	GLOTTOCODE	ISO_CODE	CONCEPTICON_ID	CONCEPTICON_GLOSS	COGNATES	FORM
+0	Badga-100_yellow-1	Badga	100_yellow	m a n dʒ e	bada1257	bfq	1424	YELLOW	yellow-A	
+1	Badga-10_blood-1	Badga	10_blood	r a tː ə	bada1257	bfq	946	BLOOD	blood-A	
+2	Badga-10_blood-2	Badga	10_blood	n e tː u ɾ u	bada1257	bfq	946	BLOOD	blood-B	
+3	Badga-11_bone-1	Badga	11_bone	i l ə	bada1257	bfq	1394	BONE	bone-A	
+7	Badga-15_cloud-1	Badga	15_cloud	m a n dʒ u	bada1257	bfq	1489	CLOUD	cloud-E	
+9	Badga-17_come-1	Badga	17_come	p a pː a	bada1257	bfq	1446	COME	come-A	
+10	Badga-18_die-1	Badga	18_die	s aː ʋ a d ə	bada1257	bfq	1494	DIE	die-A	
+11	Badga-19_dog-1	Badga	19_dog	n e	bada1257	bfq	2009	DOG	dog-A	
+12	Badga-1_i-1	Badga	1_i	n a	bada1257	bfq	1209	I	I-B	
+13	Badga-20_drink-1	Badga	20_drink	k u ɖ a p ə	bada1257	bfq	1401	DRINK	drink-A	
+14	Badga-21_dry-1	Badga	21_dry	o ɳ i k i l a d ə	bada1257	bfq	1398	DRY	dry-F	
+15	Badga-22_ear-1	Badga	22_ear	k i ʋ i	bada1257	bfq	1247	EAR	ear-A	
+16	Badga-24_eat-1	Badga	24_eat	t i m b ə	bada1257	bfq	1336	EAT	eat-A	
+17	Badga-25_egg-1	Badga	25_egg	m o ʈː e	bada1257	bfq	744	EGG	egg-A	
+18	Badga-26_eye-1	Badga	26_eye	k a ɳ ɳ ə	bada1257	bfq	1248	EYE	eye-A	
+20	Badga-28_feather-1	Badga	28_feather	ɾ a kː e	bada1257	bfq	1201	FEATHER	feather-A	
+21	Badga-29_fire-1	Badga	29_fire	k i tʃː ə	bada1257	bfq	221	FIRE	fire-E	
+22	Badga-2_all-1	Badga	2_all	e lː a	bada1257	bfq	98	ALL	all-A	
+23	Badga-30_fish-1	Badga	30_fish	m iː n ə	bada1257	bfq	227	FISH	fish-A	
+24	Badga-31_fly-1	Badga	31_fly	p a ɾ a pː ə	bada1257	bfq	1441	FLY (MOVE THROUGH AIR)	fly-A	
+25	Badga-32_foot-1	Badga	32_foot	a n g aː l ə	bada1257	bfq	1301	FOOT	foot-E	
+27	Badga-34_give-1	Badga	34_give	k o ɖ u	bada1257	bfq	1447	GIVE	give-A	
+28	Badga-35_good-1	Badga	35_good	o ɭː a j a d ə	bada1257	bfq	1035	GOOD	good-B	
+29	Badga-36_green-1	Badga	36_green	p a tʃː e	bada1257	bfq	1425	GREEN	green-A	
+31	Badga-38_hand-1	Badga	38_hand	k a j	bada1257	bfq	1277	HAND	hand-A	
+32	Badga-39_head-1	Badga	39_head	m a n ɖ e	bada1257	bfq	1256	HEAD	head-B	
+33	Badga-3_ashes-1	Badga	3_ashes	k o l a b uː d i	bada1257	bfq	646	ASH	ashes-B	
+34	Badga-40_hear-1	Badga	40_hear	k eː p ə	bada1257	bfq	1408	HEAR	hear-A	
+36	Badga-43_kill-1	Badga	43_kill	k o pː ə	bada1257	bfq	1417	KILL	kill-D	
+39	Badga-46_leaf-1	Badga	46_leaf	e l ə	bada1257	bfq	628	LEAF	leaf-A	
+40	Badga-47_lie-1	Badga	47_lie	h a ɖ a ʋ ə	bada1257	bfq	1411	LIE (REST)	lie-E	
+41	Badga-49_long-1	Badga	49_long	u tː a	bada1257	bfq	1203	LONG	long-B	
+42	Badga-4_bark-1	Badga	4_bark	p a ʈː e	bada1257	bfq	1204	BARK	bark-A	
+46	Badga-52_many-1	Badga	52_many	a pː a ɾ a	bada1257	bfq	1198	MANY	many-F	
+50	Badga-55_mountain-1	Badga	55_mountain	m a l e	bada1257	bfq	639	MOUNTAIN	mountain-D	
+51	Badga-56_mouth-1	Badga	56_mouth	p e	bada1257	bfq	674	MOUTH	mouth-D	
+52	Badga-57_name-1	Badga	57_name	e s a ɾ ə	bada1257	bfq	1405	NAME	name-A	
+53	Badga-58_neck-1	Badga	58_neck	k a t ə	bada1257	bfq	1333	NECK	neck-A	
+54	Badga-59_new-1	Badga	59_new	o s t ə	bada1257	bfq	1231	NEW	new-A	
+55	Badga-5_belly-1	Badga	5_belly	o ʈː e	bada1257	bfq	1251	BELLY	belly-B	
+56	Badga-60_night-1	Badga	60_night	i ɾ ə	bada1257	bfq	1233	NIGHT	night-A	
+57	Badga-61_nose-1	Badga	61_nose	m uː k ə	bada1257	bfq	1221	NOSE	nose-A	
+58	Badga-62_not-1	Badga	62_not	k u lː e	bada1257	bfq	1240	NOT	not-D	
+59	Badga-63_one-1	Badga	63_one	o n d ə	bada1257	bfq	1493	ONE	one-A	
+60	Badga-64_person-1	Badga	64_person	k a n ɖ ə	bada1257	bfq	683	PERSON	person-B	
+62	Badga-66_red-1	Badga	66_red	k e pː ə	bada1257	bfq	156	RED	red-A	
+63	Badga-67_road-1	Badga	67_road	t aː ɾ i	bada1257	bfq	667	ROAD	road-D	
+64	Badga-68_root-1	Badga	68_root	p eː ɾ ə	bada1257	bfq	670	ROOT	root-A	
+65	Badga-6_big-1	Badga	6_big	d o ɖː a d ə	bada1257	bfq	1202	BIG	big-C	
+66	Badga-70_sand-1	Badga	70_sand	p a kː e	bada1257	bfq	671	SAND	sand-D	
+67	Badga-71_say-1	Badga	71_say	e g ə ʋ ə	bada1257	bfq	1458	SAY	say-H	
+68	Badga-72_see-1	Badga	72_see	n oː ɖ ə	bada1257	bfq	1409	SEE	see-B	
+69	Badga-73_seed-1	Badga	73_seed	p i tː ə	bada1257	bfq	714	SEED	seed-A	
+70	Badga-74_sit-1	Badga	74_sit	k u ɭ ə ʋ ə	bada1257	bfq	1416	SIT	sit-C	
+72	Badga-76_sleep-1	Badga	76_sleep	o ɾ ə g ə d ə	bada1257	bfq	1585	SLEEP	sleep-A	
+73	Badga-77_small-1	Badga	77_small	k u nː a d ə	bada1257	bfq	1246	SMALL	small-D	
+74	Badga-77_small-2	Badga	77_small	k i ʈː iː ʈ	bada1257	bfq	1246	SMALL	small-E	
+75	Badga-78_smoke-1	Badga	78_smoke	h o g e	bada1257	bfq	778	SMOKE (EXHAUST)	smoke-A	
+76	Badga-79_stand-1	Badga	79_stand	n i pː ə	bada1257	bfq	1442	STAND	stand-A	
+77	Badga-80_star-1	Badga	80_star	n a tʃː a t ɾ a	bada1257	bfq	1430	STAR	star-C	
+78	Badga-80_star-2	Badga	80_star	p aː n d m iː n ə	bada1257	bfq	1430	STAR	star-F	
+79	Badga-81_stone-1	Badga	81_stone	k a lː ə	bada1257	bfq	857	STONE	stone-A	
+80	Badga-82_sun-1	Badga	82_sun	o tː ə	bada1257	bfq	1343	SUN	sun-D	
+81	Badga-83_swim-1	Badga	83_swim	n iː n d ə	bada1257	bfq	1439	SWIM	swim-A	
+82	Badga-84_tail-1	Badga	84_tail	p aː l ə	bada1257	bfq	1220	TAIL	tail-A	
+83	Badga-85_that-1	Badga	85_that	a d ə	bada1257	bfq	78	THAT	that-A	
+84	Badga-86_this-1	Badga	86_this	i d ə	bada1257	bfq	1214	THIS	this-A	
+85	Badga-87_thou-1	Badga	87_thou	n i	bada1257	bfq	1215	THOU	thou-A	
+86	Badga-88_tongue-1	Badga	88_tongue	n aː l a n g e	bada1257	bfq	1205	TONGUE	tongue-A	
+87	Badga-89_tooth-1	Badga	89_tooth	h a lː ə	bada1257	bfq	1380	TOOTH	tooth-A	
+88	Badga-8_bite-1	Badga	8_bite	k a tʃː ə	bada1257	bfq	1403	BITE	bite-F	
+89	Badga-90_tree-1	Badga	90_tree	m o ɾ a	bada1257	bfq	906	TREE	tree-A	
+90	Badga-91_two-1	Badga	91_two	e ɾ a ɖ ə	bada1257	bfq	1498	TWO	two-A	
+91	Badga-92_walk-1	Badga	92_walk	n a ɖ ə ʋ a d ə	bada1257	bfq	1443	WALK	walk-A	
+94	Badga-94_water-1	Badga	94_water	n iː ɾ ə	bada1257	bfq	948	WATER	water-E	
+95	Badga-95_we-1	Badga	95_we	n a n g a	bada1257	bfq	1212	WE	we-A	
+96	Badga-96_what-1	Badga	96_what	eː n ə	bada1257	bfq	1236	WHAT	what-A	
+97	Badga-97_white-1	Badga	97_white	ʋ e ɭː e	bada1257	bfq	1335	WHITE	white-A	
+98	Badga-98_who-1	Badga	98_who	t aː ɾ a	bada1257	bfq	1235	WHO	who-B	
+99	Badga-99_woman-1	Badga	99_woman	e mː aː t i	bada1257	bfq	962	WOMAN	woman-I	
+100	Badga-9_black-1	Badga	9_black	k a pː ə	bada1257	bfq	163	BLACK	black-A	
+101	Betta_Kurumba-100_yellow-1	Betta_Kurumba	100_yellow	m a n dʒ ə l aː n g i	bett1235	xub	1424	YELLOW	yellow-A	
+102	Betta_Kurumba-10_blood-1	Betta_Kurumba	10_blood	n ə tː ə ɾ ə	bett1235	xub	946	BLOOD	blood-B	
+103	Betta_Kurumba-11_bone-1	Betta_Kurumba	11_bone	j a l ə ʋ ə	bett1235	xub	1394	BONE	bone-A	
+110	Betta_Kurumba-15_cloud-1	Betta_Kurumba	15_cloud	m oː ɖ ə	bett1235	xub	1489	CLOUD	cloud-D	
+112	Betta_Kurumba-17_come-1	Betta_Kurumba	17_come	b aː ɾ	bett1235	xub	1446	COME	come-A	
+115	Betta_Kurumba-18_die-1	Betta_Kurumba	18_die	m a ɾ d oː g	bett1235	xub	1494	DIE	die-B	
+116	Betta_Kurumba-19_dog-1	Betta_Kurumba	19_dog	n aː j ə	bett1235	xub	2009	DOG	dog-A	
+117	Betta_Kurumba-1_i-1	Betta_Kurumba	1_i	n aː ʋ ə	bett1235	xub	1209	I	I-B	
+118	Betta_Kurumba-20_drink-1	Betta_Kurumba	20_drink	k u ɖ i	bett1235	xub	1401	DRINK	drink-A	
+120	Betta_Kurumba-21_dry-1	Betta_Kurumba	21_dry	a j n g ə n u + i p ə d ə	bett1235	xub	1398	DRY	dry-H	
+121	Betta_Kurumba-22_ear-1	Betta_Kurumba	22_ear	k i ʋ i j a	bett1235	xub	1247	EAR	ear-A	
+122	Betta_Kurumba-23_earth-1	Betta_Kurumba	23_earth	b uː m i	bett1235	xub	1228	EARTH (SOIL)	earth-F	
+123	Betta_Kurumba-24_eat-1	Betta_Kurumba	24_eat	t i nː	bett1235	xub	1336	EAT	eat-A	
+124	Betta_Kurumba-25_egg-1	Betta_Kurumba	25_egg	m u j ɾ g i	bett1235	xub	744	EGG	egg-E	
+125	Betta_Kurumba-26_eye-1	Betta_Kurumba	26_eye	k a ɳ ɳ u	bett1235	xub	1248	EYE	eye-A	
+128	Betta_Kurumba-28_feather-1	Betta_Kurumba	28_feather	t i ʋ i j a	bett1235	xub	1201	FEATHER	feather-H	
+129	Betta_Kurumba-29_fire-1	Betta_Kurumba	29_fire	t i sː ə	bett1235	xub	221	FIRE	fire-B	
+131	Betta_Kurumba-2_all-1	Betta_Kurumba	2_all	oː ʈ ə j a	bett1235	xub	98	ALL	all-H	
+132	Betta_Kurumba-30_fish-1	Betta_Kurumba	30_fish	m iː n u	bett1235	xub	227	FISH	fish-A	
+133	Betta_Kurumba-31_fly-1	Betta_Kurumba	31_fly	p aː ɾ	bett1235	xub	1441	FLY (MOVE THROUGH AIR)	fly-A	
+135	Betta_Kurumba-32_foot-1	Betta_Kurumba	32_foot	k aː l ə	bett1235	xub	1301	FOOT	foot-C	
+137	Betta_Kurumba-34_give-1	Betta_Kurumba	34_give	k o ɖ	bett1235	xub	1447	GIVE	give-A	
+138	Betta_Kurumba-35_good-1	Betta_Kurumba	35_good	n a lː	bett1235	xub	1035	GOOD	good-A	
+139	Betta_Kurumba-36_green-1	Betta_Kurumba	36_green	p a sː l aː n g i	bett1235	xub	1425	GREEN	green-A	
+142	Betta_Kurumba-38_hand-1	Betta_Kurumba	38_hand	k iː j a	bett1235	xub	1277	HAND	hand-A	
+143	Betta_Kurumba-39_head-1	Betta_Kurumba	39_head	m a ɳ ɖ i	bett1235	xub	1256	HEAD	head-B	
+144	Betta_Kurumba-3_ashes-1	Betta_Kurumba	3_ashes	p iː d i	bett1235	xub	646	ASH	ashes-B	
+145	Betta_Kurumba-40_hear-1	Betta_Kurumba	40_hear	k əː ɭ	bett1235	xub	1408	HEAR	hear-A	
+146	Betta_Kurumba-41_heart-1	Betta_Kurumba	41_heart	j a d d i	bett1235	xub	1223	HEART	heart-E	
+148	Betta_Kurumba-43_kill-1	Betta_Kurumba	43_kill	k e n g aː ɭ	bett1235	xub	1417	KILL	kill-F	
+152	Betta_Kurumba-46_leaf-1	Betta_Kurumba	46_leaf	j a l i	bett1235	xub	628	LEAF	leaf-A	
+153	Betta_Kurumba-47_lie-1	Betta_Kurumba	47_lie	b aː ɖ	bett1235	xub	1411	LIE (REST)	lie-I	
+154	Betta_Kurumba-47_lie-2	Betta_Kurumba	47_lie	b aː ʈ ɳ u + iː ɾ	bett1235	xub	1411	LIE (REST)	lie-I	
+155	Betta_Kurumba-48_liver-1	Betta_Kurumba	48_liver	t ə d l ə	bett1235	xub	1224	LIVER	liver-G	
+156	Betta_Kurumba-49_long-1	Betta_Kurumba	49_long	u d d u	bett1235	xub	1203	LONG	long-B	
+157	Betta_Kurumba-4_bark-1	Betta_Kurumba	4_bark	m e ɾ t oː l ə	bett1235	xub	1204	BARK	bark-K	
+160	Betta_Kurumba-52_many-1	Betta_Kurumba	52_many	k a j ɾ i j ə	bett1235	xub	1198	MANY	many-K	
+163	Betta_Kurumba-55_mountain-1	Betta_Kurumba	55_mountain	b ə ʈː ə	bett1235	xub	639	MOUNTAIN	mountain-B	
+164	Betta_Kurumba-56_mouth-1	Betta_Kurumba	56_mouth	b aː j ə	bett1235	xub	674	MOUTH	mouth-A	
+165	Betta_Kurumba-57_name-1	Betta_Kurumba	57_name	p j aː ɾ ə	bett1235	xub	1405	NAME	name-A	
+166	Betta_Kurumba-58_neck-1	Betta_Kurumba	58_neck	k pː m aː ɭ i	bett1235	xub	1333	NECK	neck-G	
+167	Betta_Kurumba-59_new-1	Betta_Kurumba	59_new	p ə j j m ə n	bett1235	xub	1231	NEW	new-D	
+168	Betta_Kurumba-5_belly-1	Betta_Kurumba	5_belly	p o ʈː i	bett1235	xub	1251	BELLY	belly-B	
+169	Betta_Kurumba-60_night-1	Betta_Kurumba	60_night	ə d l ə	bett1235	xub	1233	NIGHT	night-G	
+170	Betta_Kurumba-61_nose-1	Betta_Kurumba	61_nose	m uː kː ə	bett1235	xub	1221	NOSE	nose-A	
+171	Betta_Kurumba-62_not-1	Betta_Kurumba	62_not	i l a	bett1235	xub	1240	NOT	not-A	
+172	Betta_Kurumba-62_not-2	Betta_Kurumba	62_not	a l a	bett1235	xub	1240	NOT	not-C	
+173	Betta_Kurumba-63_one-1	Betta_Kurumba	63_one	ʋ a n d ə	bett1235	xub	1493	ONE	one-A	
+174	Betta_Kurumba-64_person-1	Betta_Kurumba	64_person	aː ɭ ə	bett1235	xub	683	PERSON	person-D	
+177	Betta_Kurumba-66_red-1	Betta_Kurumba	66_red	t i sː ə g a ɳ ɖ aː n g i	bett1235	xub	156	RED	red-C	
+178	Betta_Kurumba-67_road-1	Betta_Kurumba	67_road	b a ʈː i	bett1235	xub	667	ROAD	road-E	
+179	Betta_Kurumba-68_root-1	Betta_Kurumba	68_root	b j aː ɾ ə	bett1235	xub	670	ROOT	root-A	
+181	Betta_Kurumba-6_big-1	Betta_Kurumba	6_big	d a pː u	bett1235	xub	1202	BIG	big-F	
+182	Betta_Kurumba-70_sand-1	Betta_Kurumba	70_sand	m a ɳ a l ə	bett1235	xub	671	SAND	sand-A	
+183	Betta_Kurumba-71_say-1	Betta_Kurumba	71_say	p əː ɭ	bett1235	xub	1458	SAY	say-F	
+184	Betta_Kurumba-72_see-1	Betta_Kurumba	72_see	n oː ɖ	bett1235	xub	1409	SEE	see-B	
+186	Betta_Kurumba-73_seed-1	Betta_Kurumba	73_seed	b i sː ə	bett1235	xub	714	SEED	seed-A	
+188	Betta_Kurumba-74_sit-1	Betta_Kurumba	74_sit	k uː ɾ s u	bett1235	xub	1416	SIT	sit-D	
+189	Betta_Kurumba-74_sit-2	Betta_Kurumba	74_sit	k uː t n u + iː ɾ	bett1235	xub	1416	SIT	sit-F	
+191	Betta_Kurumba-76_sleep-1	Betta_Kurumba	76_sleep	a ɾ g u	bett1235	xub	1585	SLEEP	sleep-A	
+193	Betta_Kurumba-77_small-1	Betta_Kurumba	77_small	k i ɾ i	bett1235	xub	1246	SMALL	small-F	
+194	Betta_Kurumba-78_smoke-1	Betta_Kurumba	78_smoke	p ə gː i	bett1235	xub	778	SMOKE (EXHAUST)	smoke-A	
+195	Betta_Kurumba-79_stand-1	Betta_Kurumba	79_stand	əː ɭ	bett1235	xub	1442	STAND	stand-C	
+196	Betta_Kurumba-79_stand-2	Betta_Kurumba	79_stand	ə d d ə n u + iː ɾ	bett1235	xub	1442	STAND	stand-D	
+197	Betta_Kurumba-7_bird-1	Betta_Kurumba	7_bird	p i kː i	bett1235	xub	937	BIRD	bird-B	
+198	Betta_Kurumba-80_star-1	Betta_Kurumba	80_star	m iː n u	bett1235	xub	1430	STAR	star-A	
+199	Betta_Kurumba-81_stone-1	Betta_Kurumba	81_stone	k a lː ə	bett1235	xub	857	STONE	stone-A	
+200	Betta_Kurumba-82_sun-1	Betta_Kurumba	82_sun	p o tː ə	bett1235	xub	1343	SUN	sun-B	
+201	Betta_Kurumba-83_swim-1	Betta_Kurumba	83_swim	n iː n ɖ ʒ u	bett1235	xub	1439	SWIM	swim-A	
+202	Betta_Kurumba-84_tail-1	Betta_Kurumba	84_tail	b aː l ə	bett1235	xub	1220	TAIL	tail-A	
+203	Betta_Kurumba-85_that-1	Betta_Kurumba	85_that	a d ə	bett1235	xub	78	THAT	that-A	
+204	Betta_Kurumba-86_this-1	Betta_Kurumba	86_this	i d ə	bett1235	xub	1214	THIS	this-A	
+205	Betta_Kurumba-87_thou-1	Betta_Kurumba	87_thou	n iː j ə	bett1235	xub	1215	THOU	thou-A	
+206	Betta_Kurumba-88_tongue-1	Betta_Kurumba	88_tongue	n e l g i	bett1235	xub	1205	TONGUE	tongue-A	
+207	Betta_Kurumba-89_tooth-1	Betta_Kurumba	89_tooth	p a lː ə	bett1235	xub	1380	TOOTH	tooth-A	
+208	Betta_Kurumba-8_bite-1	Betta_Kurumba	8_bite	k a ɖ i	bett1235	xub	1403	BITE	bite-A	
+210	Betta_Kurumba-90_tree-1	Betta_Kurumba	90_tree	m e ɾ i	bett1235	xub	906	TREE	tree-A	
+211	Betta_Kurumba-91_two-1	Betta_Kurumba	91_two	ə d d u	bett1235	xub	1498	TWO	two-A	
+212	Betta_Kurumba-92_walk-1	Betta_Kurumba	92_walk	n a ɖ i	bett1235	xub	1443	WALK	walk-A	
+214	Betta_Kurumba-94_water-1	Betta_Kurumba	94_water	n iː ɾ ə	bett1235	xub	948	WATER	water-E	
+215	Betta_Kurumba-95_we-1	Betta_Kurumba	95_we	n a ɳ g ə	bett1235	xub	1212	WE	we-B	
+216	Betta_Kurumba-95_we-2	Betta_Kurumba	95_we	j a ɳ g ə	bett1235	xub	1212	WE	we-B	
+217	Betta_Kurumba-96_what-1	Betta_Kurumba	96_what	a j i n d i	bett1235	xub	1236	WHAT	what-A	
+218	Betta_Kurumba-97_white-1	Betta_Kurumba	97_white	b ə ɭː u	bett1235	xub	1335	WHITE	white-A	
+219	Betta_Kurumba-98_who-1	Betta_Kurumba	98_who	d aː ɾ ə	bett1235	xub	1235	WHO	who-A	
+220	Betta_Kurumba-99_woman-1	Betta_Kurumba	99_woman	p ə ɳ a kː ə n	bett1235	xub	962	WOMAN	woman-A	
+221	Betta_Kurumba-9_black-1	Betta_Kurumba	9_black	k a ɾ t ə n u + i p ə d ə	bett1235	xub	163	BLACK	black-A	
+222	Brahui-100_yellow-1	Brahui	100_yellow	p uː ʃ k u n	brah1256	brh	1424	YELLOW	yellow-G	
+223	Brahui-10_blood-1	Brahui	10_blood	d i t a ɾ	brah1256	brh	946	BLOOD	blood-B	
+224	Brahui-11_bone-1	Brahui	11_bone	a ɖː ə	brah1256	brh	1394	BONE	bone-G	
+229	Brahui-15_cloud-1	Brahui	15_cloud	dʒ a mː a ɾ	brah1256	brh	1489	CLOUD	cloud-G	
+232	Brahui-17_come-1	Brahui	17_come	b a nː i n g	brah1256	brh	1446	COME	come-A	
+233	Brahui-18_die-1	Brahui	18_die	k a h i n g	brah1256	brh	1494	DIE	die-A	
+234	Brahui-19_dog-1	Brahui	19_dog	k u tʃ a k	brah1256	brh	2009	DOG	dog-E	
+235	Brahui-1_i-1	Brahui	1_i	iː	brah1256	brh	1209	I	I-B	
+236	Brahui-20_drink-1	Brahui	20_drink	k u n i n g	brah1256	brh	1401	DRINK	drink-C	
+237	Brahui-21_dry-1	Brahui	21_dry	b aː ɾ u n	brah1256	brh	1398	DRY	dry-E	
+238	Brahui-22_ear-1	Brahui	22_ear	x a f	brah1256	brh	1247	EAR	ear-A	
+239	Brahui-23_earth-1	Brahui	23_earth	ɖ a g aː ɾ	brah1256	brh	1228	EARTH (SOIL)	earth-H	
+240	Brahui-24_eat-1	Brahui	24_eat	k u n i n g	brah1256	brh	1336	EAT	eat-F	
+241	Brahui-25_egg-1	Brahui	25_egg	x u a h a e	brah1256	brh	744	EGG	egg-F	
+242	Brahui-25_egg-2	Brahui	25_egg	b a ɛ d ɛ	brah1256	brh	744	EGG	egg-G	
+243	Brahui-26_eye-1	Brahui	26_eye	x a n	brah1256	brh	1248	EYE	eye-A	
+245	Brahui-28_feather-1	Brahui	28_feather	p a ɾ ɾ ɛ	brah1256	brh	1201	FEATHER	feather-J	
+246	Brahui-29_fire-1	Brahui	29_fire	x aː x a ɾ	brah1256	brh	221	FIRE	fire-I	
+247	Brahui-2_all-1	Brahui	2_all	k u lː	brah1256	brh	98	ALL	all-J	
+248	Brahui-30_fish-1	Brahui	30_fish	m a tʃː iː	brah1256	brh	227	FISH	fish-D	
+249	Brahui-31_fly-1	Brahui	31_fly	b aː l + k a nː i n g	brah1256	brh	1441	FLY (MOVE THROUGH AIR)	fly-G	
+250	Brahui-32_foot-1	Brahui	32_foot	n a t	brah1256	brh	1301	FOOT	foot-F	
+252	Brahui-34_give-1	Brahui	34_give	t i nː i n g	brah1256	brh	1447	GIVE	give-B	
+253	Brahui-35_good-1	Brahui	35_good	dʒ u aː n	brah1256	brh	1035	GOOD	good-G	
+254	Brahui-36_green-1	Brahui	36_green	g u a n a kː i	brah1256	brh	1425	GREEN	green-C	
+256	Brahui-38_hand-1	Brahui	38_hand	ɖ uː	brah1256	brh	1277	HAND	hand-B	
+257	Brahui-39_head-1	Brahui	39_head	k aː ʈ u m	brah1256	brh	1256	HEAD	head-E	
+258	Brahui-3_ashes-1	Brahui	3_ashes	h i s	brah1256	brh	646	ASH	ashes-F	
+259	Brahui-40_hear-1	Brahui	40_hear	b i n i n g	brah1256	brh	1408	HEAR	hear-D	
+260	Brahui-41_heart-1	Brahui	41_heart	u s t	brah1256	brh	1223	HEART	heart-H	
+262	Brahui-43_kill-1	Brahui	43_kill	k a s f i n g	brah1256	brh	1417	KILL	kill-B	
+265	Brahui-46_leaf-1	Brahui	46_leaf	p a nː	brah1256	brh	628	LEAF	leaf-G	
+266	Brahui-47_lie-1	Brahui	47_lie	d ɾ o gʱ + t a ɖ i n g	brah1256	brh	1411	LIE (REST)	lie-J	
+267	Brahui-48_liver-1	Brahui	48_liver	dʒ a g a ɾ	brah1256	brh	1224	LIVER	liver-H	
+268	Brahui-49_long-1	Brahui	49_long	m u ɾ g u n	brah1256	brh	1203	LONG	long-E	
+269	Brahui-4_bark-1	Brahui	4_bark	b u n d	brah1256	brh	1204	BARK	bark-L	
+272	Brahui-52_many-1	Brahui	52_many	b aː z	brah1256	brh	1198	MANY	many-M	
+275	Brahui-55_mountain-1	Brahui	55_mountain	m a ʃ	brah1256	brh	639	MOUNTAIN	mountain-D	
+276	Brahui-56_mouth-1	Brahui	56_mouth	b aː	brah1256	brh	674	MOUTH	mouth-A	
+277	Brahui-57_name-1	Brahui	57_name	p i n	brah1256	brh	1405	NAME	name-A	
+278	Brahui-58_neck-1	Brahui	58_neck	l e x	brah1256	brh	1333	NECK	neck-I	
+279	Brahui-59_new-1	Brahui	59_new	p uː s k u n	brah1256	brh	1231	NEW	new-C	
+280	Brahui-5_belly-1	Brahui	5_belly	p e ɖʰ	brah1256	brh	1251	BELLY	belly-H	
+281	Brahui-60_night-1	Brahui	60_night	n a m	brah1256	brh	1233	NIGHT	night-J	
+282	Brahui-61_nose-1	Brahui	61_nose	b aː m u s	brah1256	brh	1221	NOSE	nose-E	
+283	Brahui-62_not-1	Brahui	62_not	aː x a	brah1256	brh	1240	NOT	not-G	
+284	Brahui-62_not-2	Brahui	62_not	n ɛ	brah1256	brh	1240	NOT	not-H	
+285	Brahui-63_one-1	Brahui	63_one	a s i t	brah1256	brh	1493	ONE	one-A	
+286	Brahui-64_person-1	Brahui	64_person	b a n d a g	brah1256	brh	683	PERSON	person-G	
+288	Brahui-66_red-1	Brahui	66_red	x iː s u n	brah1256	brh	156	RED	red-A	
+289	Brahui-67_road-1	Brahui	67_road	s a ɖ a k	brah1256	brh	667	ROAD	road-I	
+290	Brahui-68_root-1	Brahui	68_root	ɾ oː t ɛ	brah1256	brh	670	ROOT	root-E	
+292	Brahui-6_big-1	Brahui	6_big	b a lː u n	brah1256	brh	1202	BIG	big-G	
+293	Brahui-70_sand-1	Brahui	70_sand	ɾ eː k	brah1256	brh	671	SAND	sand-E	
+294	Brahui-71_say-1	Brahui	71_say	p aː n i n g	brah1256	brh	1458	SAY	say-K	
+295	Brahui-72_see-1	Brahui	72_see	u nː i n g	brah1256	brh	1409	SEE	see-I	
+296	Brahui-73_seed-1	Brahui	73_seed	b e dʒː	brah1256	brh	714	SEED	seed-A	
+297	Brahui-74_sit-1	Brahui	74_sit	t uː l i n g	brah1256	brh	1416	SIT	sit-I	
+298	Brahui-74_sit-2	Brahui	74_sit	z u n ɖ i n g	brah1256	brh	1416	SIT	sit-J	
+300	Brahui-76_sleep-1	Brahui	76_sleep	x a tʃ i n g	brah1256	brh	1585	SLEEP	sleep-J	
+301	Brahui-77_small-1	Brahui	77_small	tʃ u n a k	brah1256	brh	1246	SMALL	small-C	
+302	Brahui-78_smoke-1	Brahui	78_smoke	m oː ʃ	brah1256	brh	778	SMOKE (EXHAUST)	smoke-C	
+303	Brahui-79_stand-1	Brahui	79_stand	s a l i n g	brah1256	brh	1442	STAND	stand-G	
+304	Brahui-79_stand-2	Brahui	79_stand	dʒ eː k + s a l i n g	brah1256	brh	1442	STAND	stand-G	
+305	Brahui-7_bird-1	Brahui	7_bird	tʃ o k	brah1256	brh	937	BIRD	bird-G	
+306	Brahui-80_star-1	Brahui	80_star	i s ʈ aː ɾ	brah1256	brh	1430	STAR	star-B	
+307	Brahui-81_stone-1	Brahui	81_stone	x a l	brah1256	brh	857	STONE	stone-A	
+308	Brahui-82_sun-1	Brahui	82_sun	d e	brah1256	brh	1343	SUN	sun-E	
+309	Brahui-83_swim-1	Brahui	83_swim	b e ʂ o l i n g	brah1256	brh	1439	SWIM	swim-I	
+310	Brahui-84_tail-1	Brahui	84_tail	l i ʈː i k	brah1256	brh	1220	TAIL	tail-E	
+311	Brahui-85_that-1	Brahui	85_that	a e	brah1256	brh	78	THAT	that-B	
+312	Brahui-86_this-1	Brahui	86_this	d aː	brah1256	brh	1214	THIS	this-C	
+313	Brahui-87_thou-1	Brahui	87_thou	n iː	brah1256	brh	1215	THOU	thou-A	
+314	Brahui-88_tongue-1	Brahui	88_tongue	d u ʋ iː	brah1256	brh	1205	TONGUE	tongue-D	
+315	Brahui-89_tooth-1	Brahui	89_tooth	d a n d aː n	brah1256	brh	1380	TOOTH	tooth-C	
+316	Brahui-89_tooth-2	Brahui	89_tooth	d a n t aː n	brah1256	brh	1380	TOOTH	tooth-C	
+317	Brahui-8_bite-1	Brahui	8_bite	k a a t + k a nː i n g	brah1256	brh	1403	BITE	bite-A	
+318	Brahui-90_tree-1	Brahui	90_tree	d ɾ a h kʰ t	brah1256	brh	906	TREE	tree-D	
+319	Brahui-91_two-1	Brahui	91_two	i ɾ a t	brah1256	brh	1498	TWO	two-A	
+320	Brahui-92_walk-1	Brahui	92_walk	tʃ e ɾ ɾ i n g	brah1256	brh	1443	WALK	walk-E	
+322	Brahui-94_water-1	Brahui	94_water	d iː r	brah1256	brh	948	WATER	water-E	
+323	Brahui-95_we-1	Brahui	95_we	n a n	brah1256	brh	1212	WE	we-A	
+324	Brahui-96_what-1	Brahui	96_what	a n t ə	brah1256	brh	1236	WHAT	what-A	
+325	Brahui-97_white-1	Brahui	97_white	p iː u n	brah1256	brh	1335	WHITE	white-D	
+326	Brahui-98_who-1	Brahui	98_who	d eː ɾ	brah1256	brh	1235	WHO	who-A	
+327	Brahui-99_woman-1	Brahui	99_woman	n j a a ɽ i	brah1256	brh	962	WOMAN	woman-K	
+328	Brahui-9_black-1	Brahui	9_black	m aː o n	brah1256	brh	163	BLACK	black-D	
+329	Gondi-100_yellow-1	Gondi	100_yellow	p i v aː dʱ	nort2702	gno	1424	YELLOW	yellow-I	
+330	Gondi-100_yellow-2	Gondi	100_yellow	k a m p a l	nort2702	gno	1424	YELLOW	yellow-J	
+331	Gondi-10_blood-1	Gondi	10_blood	n e tː u ɾ	nort2702	gno	946	BLOOD	blood-B	
+332	Gondi-11_bone-1	Gondi	11_bone	b o kː a	nort2702	gno	1394	BONE	bone-B	
+336	Gondi-15_cloud-1	Gondi	15_cloud	m a bː u	nort2702	gno	1489	CLOUD	cloud-C	
+338	Gondi-17_come-1	Gondi	17_come	ʋ a	nort2702	gno	1446	COME	come-A	
+339	Gondi-18_die-1	Gondi	18_die	h aː	nort2702	gno	1494	DIE	die-A	
+340	Gondi-19_dog-1	Gondi	19_dog	n e j	nort2702	gno	2009	DOG	dog-A	
+341	Gondi-1_i-1	Gondi	1_i	n a nː a	nort2702	gno	1209	I	I-B	
+342	Gondi-20_drink-1	Gondi	20_drink	u n	nort2702	gno	1401	DRINK	drink-C	
+343	Gondi-21_dry-1	Gondi	21_dry	ʋ a ʈː a	nort2702	gno	1398	DRY	dry-E	
+344	Gondi-22_ear-1	Gondi	22_ear	k e ʋ u	nort2702	gno	1247	EAR	ear-A	
+345	Gondi-23_earth-1	Gondi	23_earth	m a nː ə	nort2702	gno	1228	EARTH (SOIL)	earth-A	
+346	Gondi-24_eat-1	Gondi	24_eat	dʒ e ʋ i	nort2702	gno	1336	EAT	eat-K	
+347	Gondi-25_egg-1	Gondi	25_egg	m iː n dʒ	nort2702	gno	744	EGG	egg-K	
+348	Gondi-26_eye-1	Gondi	26_eye	k ə ɖ ə	nort2702	gno	1248	EYE	eye-C	
+350	Gondi-28_feather-1	Gondi	28_feather	b u ɾ a	nort2702	gno	1201	FEATHER	feather-I	
+351	Gondi-29_fire-1	Gondi	29_fire	t a ɖ m i	nort2702	gno	221	FIRE	fire-J	
+352	Gondi-2_all-1	Gondi	2_all	b o tː i g	nort2702	gno	98	ALL	all-O	
+353	Gondi-30_fish-1	Gondi	30_fish	m iː n	nort2702	gno	227	FISH	fish-A	
+354	Gondi-31_fly-1	Gondi	31_fly	p a ɾ i	nort2702	gno	1441	FLY (MOVE THROUGH AIR)	fly-A	
+355	Gondi-32_foot-1	Gondi	32_foot	k aː l	nort2702	gno	1301	FOOT	foot-C	
+357	Gondi-34_give-1	Gondi	34_give	h i	nort2702	gno	1447	GIVE	give-C	
+358	Gondi-35_good-1	Gondi	35_good	a sː a l	nort2702	gno	1035	GOOD	good-K	
+359	Gondi-36_green-1	Gondi	36_green	p a tʃː a d	nort2702	gno	1425	GREEN	green-A	
+360	Gondi-36_green-2	Gondi	36_green	h iː	nort2702	gno	1425	GREEN	green-F	
+362	Gondi-38_hand-1	Gondi	38_hand	k a j	nort2702	gno	1277	HAND	hand-A	
+363	Gondi-39_head-1	Gondi	39_head	t a lː a	nort2702	gno	1256	HEAD	head-A	
+364	Gondi-3_ashes-1	Gondi	3_ashes	n iː ɾ	nort2702	gno	646	ASH	ashes-D	
+365	Gondi-40_hear-1	Gondi	40_hear	k e n dʒ	nort2702	gno	1408	HEAR	hear-A	
+366	Gondi-41_heart-1	Gondi	41_heart	g u ɳ ɖ e	nort2702	gno	1223	HEART	heart-B	
+368	Gondi-43_kill-1	Gondi	43_kill	h a ʋ k a	nort2702	gno	1417	KILL	kill-E	
+369	Gondi-43_kill-2	Gondi	43_kill	kʰ a t a m k i	nort2702	gno	1417	KILL	kill-K	
+372	Gondi-46_leaf-1	Gondi	46_leaf	aː k i	nort2702	gno	628	LEAF	leaf-B	
+373	Gondi-47_lie-1	Gondi	47_lie	m i ɳ ɖ s i	nort2702	gno	1411	LIE (REST)	lie-C	
+374	Gondi-47_lie-2	Gondi	47_lie	d o l s i	nort2702	gno	1411	LIE (REST)	lie-M	
+375	Gondi-48_liver-1	Gondi	48_liver	t a ɾ k i	nort2702	gno	1224	LIVER	liver-C	
+376	Gondi-49_long-1	Gondi	49_long	l aː m	nort2702	gno	1203	LONG	long-G	
+377	Gondi-4_bark-1	Gondi	4_bark	t oː l	nort2702	gno	1204	BARK	bark-J	
+380	Gondi-52_many-1	Gondi	52_many	dʒ aː s t a	nort2702	gno	1198	MANY	many-Q	
+381	Gondi-52_many-2	Gondi	52_many	ʋ e lː e n	nort2702	gno	1198	MANY	many-R	
+384	Gondi-55_mountain-1	Gondi	55_mountain	m e ʈː a	nort2702	gno	639	MOUNTAIN	mountain-E	
+385	Gondi-56_mouth-1	Gondi	56_mouth	t o ɖː i	nort2702	gno	674	MOUTH	mouth-E	
+386	Gondi-57_name-1	Gondi	57_name	p o ɾ o l	nort2702	gno	1405	NAME	name-A	
+387	Gondi-58_neck-1	Gondi	58_neck	g u ɖ u n g a	nort2702	gno	1333	NECK	neck-L	
+388	Gondi-59_new-1	Gondi	59_new	p u n a	nort2702	gno	1231	NEW	new-C	
+389	Gondi-5_belly-1	Gondi	5_belly	p iː ɾ	nort2702	gno	1251	BELLY	belly-H	
+390	Gondi-60_night-1	Gondi	60_night	n a ɾ k a ɖ	nort2702	gno	1233	NIGHT	night-I	
+391	Gondi-61_nose-1	Gondi	61_nose	m o s o ɾ	nort2702	gno	1221	NOSE	nose-B	
+392	Gondi-62_not-1	Gondi	62_not	h e lː e	nort2702	gno	1240	NOT	not-A	
+393	Gondi-63_one-1	Gondi	63_one	o n d i	nort2702	gno	1493	ONE	one-A	
+394	Gondi-64_person-1	Gondi	64_person	l o k u ɾ	nort2702	gno	683	PERSON	person-E	
+396	Gondi-66_red-1	Gondi	66_red	e ɾ ɾ a g	nort2702	gno	156	RED	red-B	
+397	Gondi-66_red-2	Gondi	66_red	j e ɾ ɾ a g	nort2702	gno	156	RED	red-B	
+398	Gondi-67_road-1	Gondi	67_road	h a ɾ ɾ i	nort2702	gno	667	ROAD	road-J	
+399	Gondi-68_root-1	Gondi	68_root	h iː ɾ	nort2702	gno	670	ROOT	root-F	
+401	Gondi-6_big-1	Gondi	6_big	p e d d a	nort2702	gno	1202	BIG	big-A	
+402	Gondi-70_sand-1	Gondi	70_sand	u s k e	nort2702	gno	671	SAND	sand-B	
+403	Gondi-71_say-1	Gondi	71_say	i n	nort2702	gno	1458	SAY	say-E	
+404	Gondi-72_see-1	Gondi	72_see	h u ɖ a	nort2702	gno	1409	SEE	see-C	
+405	Gondi-73_seed-1	Gondi	73_seed	v i dʒː a	nort2702	gno	714	SEED	seed-A	
+406	Gondi-73_seed-2	Gondi	73_seed	p e ɖ e	nort2702	gno	714	SEED	seed-F	
+407	Gondi-74_sit-1	Gondi	74_sit	u d d a	nort2702	gno	1416	SIT	sit-H	
+409	Gondi-76_sleep-1	Gondi	76_sleep	m iː ɳ ɖ a	nort2702	gno	1585	SLEEP	sleep-D	
+410	Gondi-77_small-1	Gondi	77_small	tʃ i nː a	nort2702	gno	1246	SMALL	small-C	
+411	Gondi-78_smoke-1	Gondi	78_smoke	p o j a	nort2702	gno	778	SMOKE (EXHAUST)	smoke-A	
+412	Gondi-79_stand-1	Gondi	79_stand	n i l	nort2702	gno	1442	STAND	stand-A	
+413	Gondi-7_bird-1	Gondi	7_bird	p i ʈː ə	nort2702	gno	937	BIRD	bird-C	
+414	Gondi-80_star-1	Gondi	80_star	s u kː u	nort2702	gno	1430	STAR	star-D	
+415	Gondi-81_stone-1	Gondi	81_stone	b a ɳ ɖ a	nort2702	gno	857	STONE	stone-D	
+416	Gondi-82_sun-1	Gondi	82_sun	p o ɾ ə	nort2702	gno	1343	SUN	sun-B	
+417	Gondi-83_swim-1	Gondi	83_swim	p o h e m	nort2702	gno	1439	SWIM	swim-G	
+418	Gondi-83_swim-2	Gondi	83_swim	n a ɾ i	nort2702	gno	1439	SWIM	swim-H	
+419	Gondi-84_tail-1	Gondi	84_tail	t o k o ɾ	nort2702	gno	1220	TAIL	tail-B	
+420	Gondi-85_that-1	Gondi	85_that	a d u	nort2702	gno	78	THAT	that-A	
+421	Gondi-86_this-1	Gondi	86_this	i d	nort2702	gno	1214	THIS	this-A	
+422	Gondi-87_thou-1	Gondi	87_thou	n i mː e	nort2702	gno	1215	THOU	thou-A	
+423	Gondi-88_tongue-1	Gondi	88_tongue	ʋ e n dʒ e ɾ	nort2702	gno	1205	TONGUE	tongue-C	
+424	Gondi-89_tooth-1	Gondi	89_tooth	p a l	nort2702	gno	1380	TOOTH	tooth-A	
+425	Gondi-8_bite-1	Gondi	8_bite	k a s k	nort2702	gno	1403	BITE	bite-F	
+426	Gondi-90_tree-1	Gondi	90_tree	m a ɾ a	nort2702	gno	906	TREE	tree-A	
+427	Gondi-91_two-1	Gondi	91_two	ɾ e ɳ ɖ u	nort2702	gno	1498	TWO	two-A	
+428	Gondi-92_walk-1	Gondi	92_walk	t a k a	nort2702	gno	1443	WALK	walk-D	
+430	Gondi-94_water-1	Gondi	94_water	j e ɾ	nort2702	gno	948	WATER	water-G	
+431	Gondi-95_we-1	Gondi	95_we	m a mː o ʈ	nort2702	gno	1212	WE	we-B	
+432	Gondi-96_what-1	Gondi	96_what	b a ʈː a l	nort2702	gno	1236	WHAT	what-A	
+433	Gondi-97_white-1	Gondi	97_white	t e lː a g	nort2702	gno	1335	WHITE	white-B	
+434	Gondi-98_who-1	Gondi	98_who	b o ɾ	nort2702	gno	1235	WHO	who-A	
+435	Gondi-99_woman-1	Gondi	99_woman	m u ɾ t a d	nort2702	gno	962	WOMAN	woman-P	
+436	Gondi-9_black-1	Gondi	9_black	k a ɾ ə	nort2702	gno	163	BLACK	black-A	
+437	Kannada-100_yellow-1	Kannada	100_yellow	h a l a d i	nucl1305	kan	1424	YELLOW	yellow-B	
+438	Kannada-10_blood-1	Kannada	10_blood	ɾ a k t a	nucl1305	kan	946	BLOOD	blood-A	
+439	Kannada-11_bone-1	Kannada	11_bone	j e l u b u	nucl1305	kan	1394	BONE	bone-A	
+440	Kannada-11_bone-2	Kannada	11_bone	m uː ɭ e	nucl1305	kan	1394	BONE	bone-D	
+445	Kannada-15_cloud-1	Kannada	15_cloud	m eː g h a	nucl1305	kan	1489	CLOUD	cloud-A	
+446	Kannada-15_cloud-2	Kannada	15_cloud	m oː ɖ a	nucl1305	kan	1489	CLOUD	cloud-D	
+448	Kannada-17_come-1	Kannada	17_come	b a r u	nucl1305	kan	1446	COME	come-A	
+449	Kannada-17_come-2	Kannada	17_come	b aː	nucl1305	kan	1446	COME	come-A	
+450	Kannada-18_die-1	Kannada	18_die	s aː j i	nucl1305	kan	1494	DIE	die-A	
+451	Kannada-19_dog-1	Kannada	19_dog	n aː j i	nucl1305	kan	2009	DOG	dog-A	
+452	Kannada-1_i-1	Kannada	1_i	n aː n u	nucl1305	kan	1209	I	I-B	
+453	Kannada-20_drink-1	Kannada	20_drink	k u ɖ i	nucl1305	kan	1401	DRINK	drink-A	
+454	Kannada-20_drink-2	Kannada	20_drink	k u d i j oː d u	nucl1305	kan	1401	DRINK	drink-A	
+455	Kannada-21_dry-1	Kannada	21_dry	b a tː i d a	nucl1305	kan	1398	DRY	dry-E	
+456	Kannada-21_dry-2	Kannada	21_dry	o ɳ a g i d u	nucl1305	kan	1398	DRY	dry-F	
+457	Kannada-22_ear-1	Kannada	22_ear	k i ʋ i	nucl1305	kan	1247	EAR	ear-A	
+458	Kannada-23_earth-1	Kannada	23_earth	m a ɳ ɳ u	nucl1305	kan	1228	EARTH (SOIL)	earth-A	
+459	Kannada-24_eat-1	Kannada	24_eat	t i nː u	nucl1305	kan	1336	EAT	eat-A	
+460	Kannada-25_egg-1	Kannada	25_egg	m o ʈː e	nucl1305	kan	744	EGG	egg-A	
+461	Kannada-25_egg-2	Kannada	25_egg	t a tː i	nucl1305	kan	744	EGG	egg-C	
+462	Kannada-26_eye-1	Kannada	26_eye	k a ɳ ɳ ə	nucl1305	kan	1248	EYE	eye-A	
+464	Kannada-28_feather-1	Kannada	28_feather	g a r i	nucl1305	kan	1201	FEATHER	feather-C	
+465	Kannada-28_feather-2	Kannada	28_feather	t u p a ʈ a	nucl1305	kan	1201	FEATHER	feather-E	
+466	Kannada-29_fire-1	Kannada	29_fire	b e n k i	nucl1305	kan	221	FIRE	fire-C	
+467	Kannada-2_all-1	Kannada	2_all	e lː a	nucl1305	kan	98	ALL	all-A	
+468	Kannada-30_fish-1	Kannada	30_fish	m iː n ə	nucl1305	kan	227	FISH	fish-A	
+469	Kannada-30_fish-2	Kannada	30_fish	m a ts y a	nucl1305	kan	227	FISH	fish-C	
+470	Kannada-31_fly-1	Kannada	31_fly	h aː ɾ u	nucl1305	kan	1441	FLY (MOVE THROUGH AIR)	fly-A	
+471	Kannada-32_foot-1	Kannada	32_foot	a ɖ i	nucl1305	kan	1301	FOOT	foot-A	
+472	Kannada-32_foot-2	Kannada	32_foot	p aː d a	nucl1305	kan	1301	FOOT	foot-B	
+474	Kannada-34_give-1	Kannada	34_give	k o ɖ u	nucl1305	kan	1447	GIVE	give-A	
+475	Kannada-35_good-1	Kannada	35_good	o ɭː i j a d u	nucl1305	kan	1035	GOOD	good-B	
+476	Kannada-36_green-1	Kannada	36_green	h a s i r u	nucl1305	kan	1425	GREEN	green-A	
+479	Kannada-38_hand-1	Kannada	38_hand	k a j	nucl1305	kan	1277	HAND	hand-A	
+480	Kannada-39_head-1	Kannada	39_head	t a l e	nucl1305	kan	1256	HEAD	head-A	
+481	Kannada-39_head-2	Kannada	39_head	t a l e	nucl1305	kan	1256	HEAD	head-A	
+482	Kannada-3_ashes-1	Kannada	3_ashes	b uː d i	nucl1305	kan	646	ASH	ashes-B	
+483	Kannada-40_hear-1	Kannada	40_hear	k eː ɭ u	nucl1305	kan	1408	HEAR	hear-A	
+484	Kannada-41_heart-1	Kannada	41_heart	h r u d a y a	nucl1305	kan	1223	HEART	heart-A	
+486	Kannada-43_kill-1	Kannada	43_kill	k o lː u	nucl1305	kan	1417	KILL	kill-A	
+491	Kannada-46_leaf-1	Kannada	46_leaf	j e l e	nucl1305	kan	628	LEAF	leaf-A	
+492	Kannada-47_lie-1	Kannada	47_lie	m a l a g u	nucl1305	kan	1411	LIE (REST)	lie-B	
+493	Kannada-48_liver-1	Kannada	48_liver	h iː r i	nucl1305	kan	1224	LIVER	liver-A	
+494	Kannada-48_liver-2	Kannada	48_liver	m e d a dʒ iː ɾ i k a	nucl1305	kan	1224	LIVER	liver-F	
+495	Kannada-49_long-1	Kannada	49_long	u d d a	nucl1305	kan	1203	LONG	long-B	
+496	Kannada-4_bark-1	Kannada	4_bark	n aː r u	nucl1305	kan	1204	BARK	bark-B	
+497	Kannada-4_bark-2	Kannada	4_bark	t o g a ʈ i	nucl1305	kan	1204	BARK	bark-G	
+501	Kannada-52_many-1	Kannada	52_many	h a l a ʋ u	nucl1305	kan	1198	MANY	many-A	
+506	Kannada-55_mountain-1	Kannada	55_mountain	b e ʈː a	nucl1305	kan	639	MOUNTAIN	mountain-B	
+507	Kannada-56_mouth-1	Kannada	56_mouth	b aː j i	nucl1305	kan	674	MOUTH	mouth-A	
+508	Kannada-57_name-1	Kannada	57_name	h e s a r u	nucl1305	kan	1405	NAME	name-A	
+509	Kannada-58_neck-1	Kannada	58_neck	k u tʰ i g e	nucl1305	kan	1333	NECK	neck-D	
+510	Kannada-59_new-1	Kannada	59_new	h o s a d u	nucl1305	kan	1231	NEW	new-C	
+511	Kannada-5_belly-1	Kannada	5_belly	h o ʈː e	nucl1305	kan	1251	BELLY	belly-B	
+512	Kannada-5_belly-2	Kannada	5_belly	h o ʈː a	nucl1305	kan	1251	BELLY	belly-B	
+513	Kannada-60_night-1	Kannada	60_night	ɾ aː t ɾ i	nucl1305	kan	1233	NIGHT	night-B	
+514	Kannada-61_nose-1	Kannada	61_nose	m uː g ə	nucl1305	kan	1221	NOSE	nose-A	
+515	Kannada-62_not-1	Kannada	62_not	a lː a	nucl1305	kan	1240	NOT	not-C	
+516	Kannada-63_one-1	Kannada	63_one	o n d u	nucl1305	kan	1493	ONE	one-A	
+517	Kannada-64_person-1	Kannada	64_person	m a n u s a	nucl1305	kan	683	PERSON	person-A	
+519	Kannada-66_red-1	Kannada	66_red	k e m p u	nucl1305	kan	156	RED	red-A	
+520	Kannada-67_road-1	Kannada	67_road	m aː r g a	nucl1305	kan	667	ROAD	road-B	
+521	Kannada-67_road-2	Kannada	67_road	r a s t e	nucl1305	kan	667	ROAD	road-F	
+522	Kannada-68_root-1	Kannada	68_root	b eː ɾ u	nucl1305	kan	670	ROOT	root-A	
+525	Kannada-6_big-1	Kannada	6_big	d o ɖː a d u	nucl1305	kan	1202	BIG	big-C	
+526	Kannada-70_sand-1	Kannada	70_sand	m a r a ɭ u	nucl1305	kan	671	SAND	sand-A	
+527	Kannada-70_sand-2	Kannada	70_sand	u s u b u	nucl1305	kan	671	SAND	sand-B	
+528	Kannada-71_say-1	Kannada	71_say	h e ɭ u	nucl1305	kan	1458	SAY	say-C	
+529	Kannada-72_see-1	Kannada	72_see	n oː ɖ u	nucl1305	kan	1409	SEE	see-B	
+530	Kannada-73_seed-1	Kannada	73_seed	b e d e	nucl1305	kan	714	SEED	seed-A	
+531	Kannada-73_seed-2	Kannada	73_seed	b iː dʒ a	nucl1305	kan	714	SEED	seed-A	
+532	Kannada-74_sit-1	Kannada	74_sit	k u ɭ i t i k o	nucl1305	kan	1416	SIT	sit-C	
+533	Kannada-74_sit-2	Kannada	74_sit	k uː t u k o	nucl1305	kan	1416	SIT	sit-F	
+536	Kannada-76_sleep-1	Kannada	76_sleep	m a l a g u	nucl1305	kan	1585	SLEEP	sleep-B	
+537	Kannada-76_sleep-2	Kannada	76_sleep	n i d r i s o	nucl1305	kan	1585	SLEEP	sleep-C	
+538	Kannada-77_small-1	Kannada	77_small	tʃ i kː a d u	nucl1305	kan	1246	SMALL	small-B	
+539	Kannada-78_smoke-1	Kannada	78_smoke	h o g e	nucl1305	kan	778	SMOKE (EXHAUST)	smoke-A	
+540	Kannada-79_stand-1	Kannada	79_stand	n i n t i k o	nucl1305	kan	1442	STAND	stand-A	
+541	Kannada-7_bird-1	Kannada	7_bird	h a kː i	nucl1305	kan	937	BIRD	bird-B	
+542	Kannada-7_bird-2	Kannada	7_bird	p a k ʂ i	nucl1305	kan	937	BIRD	bird-B	
+543	Kannada-80_star-1	Kannada	80_star	n a k ʂ a t ɾ	nucl1305	kan	1430	STAR	star-C	
+544	Kannada-81_stone-1	Kannada	81_stone	k a lː u	nucl1305	kan	857	STONE	stone-A	
+545	Kannada-81_stone-2	Kannada	81_stone	k a lː u	nucl1305	kan	857	STONE	stone-A	
+546	Kannada-82_sun-1	Kannada	82_sun	s uː r j a	nucl1305	kan	1343	SUN	sun-A	
+547	Kannada-83_swim-1	Kannada	83_swim	iː dʒ o	nucl1305	kan	1439	SWIM	swim-A	
+548	Kannada-84_tail-1	Kannada	84_tail	b aː l a	nucl1305	kan	1220	TAIL	tail-A	
+549	Kannada-85_that-1	Kannada	85_that	aː	nucl1305	kan	78	THAT	that-A	
+550	Kannada-85_that-2	Kannada	85_that	a dʱ u	nucl1305	kan	78	THAT	that-A	
+551	Kannada-86_this-1	Kannada	86_this	i dʱ u	nucl1305	kan	1214	THIS	this-A	
+552	Kannada-87_thou-1	Kannada	87_thou	n iː n u	nucl1305	kan	1215	THOU	thou-A	
+553	Kannada-88_tongue-1	Kannada	88_tongue	n aː l i g e	nucl1305	kan	1205	TONGUE	tongue-A	
+554	Kannada-89_tooth-1	Kannada	89_tooth	h a lː u	nucl1305	kan	1380	TOOTH	tooth-A	
+555	Kannada-8_bite-1	Kannada	8_bite	k a ɖ i	nucl1305	kan	1403	BITE	bite-A	
+556	Kannada-8_bite-2	Kannada	8_bite	k a tʃː u	nucl1305	kan	1403	BITE	bite-F	
+557	Kannada-90_tree-1	Kannada	90_tree	m a r a	nucl1305	kan	906	TREE	tree-A	
+558	Kannada-91_two-1	Kannada	91_two	j e ɾ a ɖ u	nucl1305	kan	1498	TWO	two-A	
+559	Kannada-92_walk-1	Kannada	92_walk	n a ɖ ə	nucl1305	kan	1443	WALK	walk-A	
+561	Kannada-94_water-1	Kannada	94_water	n iː ɾ u	nucl1305	kan	948	WATER	water-E	
+562	Kannada-95_we-1	Kannada	95_we	n aː ʋ u	nucl1305	kan	1212	WE	we-A	
+563	Kannada-96_what-1	Kannada	96_what	j eː n u	nucl1305	kan	1236	WHAT	what-A	
+564	Kannada-97_white-1	Kannada	97_white	b i ɭ i	nucl1305	kan	1335	WHITE	white-A	
+565	Kannada-98_who-1	Kannada	98_who	j aː ɾ u	nucl1305	kan	1235	WHO	who-A	
+566	Kannada-99_woman-1	Kannada	99_woman	h e n g a s u	nucl1305	kan	962	WOMAN	woman-A	
+567	Kannada-99_woman-2	Kannada	99_woman	s t r iː	nucl1305	kan	962	WOMAN	woman-B	
+568	Kannada-9_black-1	Kannada	9_black	k a pː u	nucl1305	kan	163	BLACK	black-A	
+569	Kannada-9_black-2	Kannada	9_black	k a r u	nucl1305	kan	163	BLACK	black-E	
+570	Kodava-100_yellow-1	Kodava	100_yellow	m a n dʒ a	koda1255	kfa	1424	YELLOW	yellow-A	
+571	Kodava-10_blood-1	Kodava	10_blood	tʃ oː ɾ ə	koda1255	kfa	946	BLOOD	blood-D	
+572	Kodava-11_bone-1	Kodava	11_bone	m uː ɭ e	koda1255	kfa	1394	BONE	bone-D	
+576	Kodava-15_cloud-1	Kodava	15_cloud	m oː ɖ a	koda1255	kfa	1489	CLOUD	cloud-D	
+579	Kodava-17_come-1	Kodava	17_come	b aː	koda1255	kfa	1446	COME	come-A	
+580	Kodava-18_die-1	Kodava	18_die	tʃː ɭ a	koda1255	kfa	1494	DIE	die-A	
+581	Kodava-19_dog-1	Kodava	19_dog	n aː j i	koda1255	kfa	2009	DOG	dog-A	
+582	Kodava-1_i-1	Kodava	1_i	n aː n ə	koda1255	kfa	1209	I	I-B	
+583	Kodava-20_drink-1	Kodava	20_drink	k u ɖ i p a	koda1255	kfa	1401	DRINK	drink-A	
+584	Kodava-21_dry-1	Kodava	21_dry	o ɳ a n g i n a	koda1255	kfa	1398	DRY	dry-F	
+585	Kodava-22_ear-1	Kodava	22_ear	k e m i	koda1255	kfa	1247	EAR	ear-A	
+586	Kodava-23_earth-1	Kodava	23_earth	m a nː ə	koda1255	kfa	1228	EARTH (SOIL)	earth-A	
+587	Kodava-24_eat-1	Kodava	24_eat	t i n ə	koda1255	kfa	1336	EAT	eat-A	
+588	Kodava-25_egg-1	Kodava	25_egg	m u ʈː e	koda1255	kfa	744	EGG	egg-A	
+589	Kodava-26_eye-1	Kodava	26_eye	k a ɳ ɳ ə	koda1255	kfa	1248	EYE	eye-A	
+591	Kodava-28_feather-1	Kodava	28_feather	t o p a ʈ a	koda1255	kfa	1201	FEATHER	feather-E	
+592	Kodava-29_fire-1	Kodava	29_fire	t i tː a	koda1255	kfa	221	FIRE	fire-E	
+593	Kodava-2_all-1	Kodava	2_all	e lː a	koda1255	kfa	98	ALL	all-A	
+594	Kodava-30_fish-1	Kodava	30_fish	m iː n ə	koda1255	kfa	227	FISH	fish-A	
+595	Kodava-31_fly-1	Kodava	31_fly	p aː ɾ a	koda1255	kfa	1441	FLY (MOVE THROUGH AIR)	fly-A	
+596	Kodava-32_foot-1	Kodava	32_foot	a n g aː l	koda1255	kfa	1301	FOOT	foot-E	
+598	Kodava-34_give-1	Kodava	34_give	k o ɖ i	koda1255	kfa	1447	GIVE	give-A	
+599	Kodava-35_good-1	Kodava	35_good	n a lː a	koda1255	kfa	1035	GOOD	good-A	
+600	Kodava-36_green-1	Kodava	36_green	p a tʃː e	koda1255	kfa	1425	GREEN	green-A	
+602	Kodava-38_hand-1	Kodava	38_hand	k a j	koda1255	kfa	1277	HAND	hand-A	
+603	Kodava-39_head-1	Kodava	39_head	m a ɳ ɖ e	koda1255	kfa	1256	HEAD	head-B	
+604	Kodava-3_ashes-1	Kodava	3_ashes	b uː d i	koda1255	kfa	646	ASH	ashes-B	
+605	Kodava-40_hear-1	Kodava	40_hear	k eː ɭ ə	koda1255	kfa	1408	HEAR	hear-A	
+606	Kodava-41_heart-1	Kodava	41_heart	h r u d a j a	koda1255	kfa	1223	HEART	heart-A	
+608	Kodava-43_kill-1	Kodava	43_kill	k o lː ə	koda1255	kfa	1417	KILL	kill-A	
+611	Kodava-46_leaf-1	Kodava	46_leaf	e l a k a ɳ ɖ a	koda1255	kfa	628	LEAF	leaf-A	
+612	Kodava-47_lie-1	Kodava	47_lie	b u d d a	koda1255	kfa	1411	LIE (REST)	lie-I	
+613	Kodava-48_liver-1	Kodava	48_liver	t o m b e	koda1255	kfa	1224	LIVER	liver-E	
+614	Kodava-49_long-1	Kodava	49_long	u d d ə	koda1255	kfa	1203	LONG	long-B	
+615	Kodava-4_bark-1	Kodava	4_bark	a ʈː e	koda1255	kfa	1204	BARK	bark-A	
+616	Kodava-4_bark-2	Kodava	4_bark	tʃ e kː e	koda1255	kfa	1204	BARK	bark-E	
+619	Kodava-52_many-1	Kodava	52_many	d u m b a	koda1255	kfa	1198	MANY	many-C	
+622	Kodava-55_mountain-1	Kodava	55_mountain	k u n d ə	koda1255	kfa	639	MOUNTAIN	mountain-C	
+623	Kodava-56_mouth-1	Kodava	56_mouth	b aː j i	koda1255	kfa	674	MOUTH	mouth-A	
+624	Kodava-57_name-1	Kodava	57_name	p e d a	koda1255	kfa	1405	NAME	name-A	
+625	Kodava-58_neck-1	Kodava	58_neck	b oː ɭ e	koda1255	kfa	1333	NECK	neck-E	
+626	Kodava-59_new-1	Kodava	59_new	p u d i j a	koda1255	kfa	1231	NEW	new-C	
+627	Kodava-5_belly-1	Kodava	5_belly	p o ʈː e	koda1255	kfa	1251	BELLY	belly-B	
+628	Kodava-60_night-1	Kodava	60_night	b a j i ʈ ə	koda1255	kfa	1233	NIGHT	night-E	
+629	Kodava-61_nose-1	Kodava	61_nose	m uː kː ə	koda1255	kfa	1221	NOSE	nose-A	
+630	Kodava-62_not-1	Kodava	62_not	i lː e	koda1255	kfa	1240	NOT	not-A	
+631	Kodava-63_one-1	Kodava	63_one	o n d ə	koda1255	kfa	1493	ONE	one-A	
+632	Kodava-64_person-1	Kodava	64_person	m a n a s a	koda1255	kfa	683	PERSON	person-A	
+634	Kodava-66_red-1	Kodava	66_red	tʃ oː p ə	koda1255	kfa	156	RED	red-A	
+635	Kodava-67_road-1	Kodava	67_road	b aː t e	koda1255	kfa	667	ROAD	road-E	
+636	Kodava-67_road-2	Kodava	67_road	ɾ a s t e	koda1255	kfa	667	ROAD	road-F	
+637	Kodava-68_root-1	Kodava	68_root	b eː ɾ ə	koda1255	kfa	670	ROOT	root-A	
+639	Kodava-6_big-1	Kodava	6_big	b a l j a d ə	koda1255	kfa	1202	BIG	big-B	
+640	Kodava-70_sand-1	Kodava	70_sand	m a ɳ a	koda1255	kfa	671	SAND	sand-A	
+641	Kodava-71_say-1	Kodava	71_say	a nː ə	koda1255	kfa	1458	SAY	say-E	
+642	Kodava-72_see-1	Kodava	72_see	n oː ʈ ə	koda1255	kfa	1409	SEE	see-B	
+643	Kodava-73_seed-1	Kodava	73_seed	k u ɾ u	koda1255	kfa	714	SEED	seed-D	
+644	Kodava-74_sit-1	Kodava	74_sit	a ɭ e	koda1255	kfa	1416	SIT	sit-G	
+646	Kodava-76_sleep-1	Kodava	76_sleep	o ɾ a	koda1255	kfa	1585	SLEEP	sleep-A	
+647	Kodava-77_small-1	Kodava	77_small	tʃ e ɾ i j a d ə	koda1255	kfa	1246	SMALL	small-A	
+648	Kodava-78_smoke-1	Kodava	78_smoke	p o g e	koda1255	kfa	778	SMOKE (EXHAUST)	smoke-A	
+649	Kodava-79_stand-1	Kodava	79_stand	n i n d ə	koda1255	kfa	1442	STAND	stand-A	
+650	Kodava-7_bird-1	Kodava	7_bird	p a k ʂ i	koda1255	kfa	937	BIRD	bird-B	
+651	Kodava-80_star-1	Kodava	80_star	n a k ʂ a t ɾ a	koda1255	kfa	1430	STAR	star-C	
+652	Kodava-81_stone-1	Kodava	81_stone	k a lː ə	koda1255	kfa	857	STONE	stone-A	
+653	Kodava-82_sun-1	Kodava	82_sun	s uː ɾ j a	koda1255	kfa	1343	SUN	sun-A	
+654	Kodava-83_swim-1	Kodava	83_swim	m iː ɾ o d u	koda1255	kfa	1439	SWIM	swim-C	
+655	Kodava-84_tail-1	Kodava	84_tail	b aː l ə	koda1255	kfa	1220	TAIL	tail-A	
+656	Kodava-85_that-1	Kodava	85_that	a d ə	koda1255	kfa	78	THAT	that-A	
+657	Kodava-86_this-1	Kodava	86_this	i d ə	koda1255	kfa	1214	THIS	this-A	
+658	Kodava-87_thou-1	Kodava	87_thou	n iː n ə	koda1255	kfa	1215	THOU	thou-A	
+659	Kodava-88_tongue-1	Kodava	88_tongue	n aː ʋ u	koda1255	kfa	1205	TONGUE	tongue-A	
+660	Kodava-89_tooth-1	Kodava	89_tooth	p a lː ə	koda1255	kfa	1380	TOOTH	tooth-A	
+661	Kodava-8_bite-1	Kodava	8_bite	k a ɖ i	koda1255	kfa	1403	BITE	bite-A	
+662	Kodava-90_tree-1	Kodava	90_tree	m a ɾ a	koda1255	kfa	906	TREE	tree-A	
+663	Kodava-91_two-1	Kodava	91_two	d a ɳ ɖ ə	koda1255	kfa	1498	TWO	two-A	
+664	Kodava-92_walk-1	Kodava	92_walk	n a ɖ a	koda1255	kfa	1443	WALK	walk-A	
+666	Kodava-94_water-1	Kodava	94_water	n iː ɾ ə	koda1255	kfa	948	WATER	water-E	
+667	Kodava-95_we-1	Kodava	95_we	n a n g a	koda1255	kfa	1212	WE	we-A	
+668	Kodava-96_what-1	Kodava	96_what	j e n t ə	koda1255	kfa	1236	WHAT	what-A	
+669	Kodava-97_white-1	Kodava	97_white	b o l t a d ə	koda1255	kfa	1335	WHITE	white-A	
+670	Kodava-98_who-1	Kodava	98_who	d aː ɾ ə	koda1255	kfa	1235	WHO	who-A	
+671	Kodava-99_woman-1	Kodava	99_woman	p o nː aː ɭ ə	koda1255	kfa	962	WOMAN	woman-A	
+672	Kodava-9_black-1	Kodava	9_black	k a ɾ t a d ə	koda1255	kfa	163	BLACK	black-A	
+673	Kolami-100_yellow-1	Kolami	100_yellow	p i j u d a	nort2699	kfb	1424	YELLOW	yellow-K	
+674	Kolami-10_blood-1	Kolami	10_blood	n e tː u ɾ	nort2699	kfb	946	BLOOD	blood-B	
+675	Kolami-11_bone-1	Kolami	11_bone	b o kː a	nort2699	kfb	1394	BONE	bone-B	
+679	Kolami-15_cloud-1	Kolami	15_cloud	aː b a r	nort2699	kfb	1489	CLOUD	cloud-H	
+681	Kolami-17_come-1	Kolami	17_come	ʋ a	nort2699	kfb	1446	COME	come-A	
+682	Kolami-18_die-1	Kolami	18_die	t i g t eː n	nort2699	kfb	1494	DIE	die-E	
+683	Kolami-19_dog-1	Kolami	19_dog	aː t e	nort2699	kfb	2009	DOG	dog-A	
+684	Kolami-1_i-1	Kolami	1_i	n eː n u	nort2699	kfb	1209	I	I-B	
+685	Kolami-20_drink-1	Kolami	20_drink	a n i ɾ u s aː t	nort2699	kfb	1401	DRINK	drink-F	
+686	Kolami-21_dry-1	Kolami	21_dry	aː t i ɾ	nort2699	kfb	1398	DRY	dry-I	
+687	Kolami-22_ear-1	Kolami	22_ear	k e ʋ	nort2699	kfb	1247	EAR	ear-A	
+688	Kolami-23_earth-1	Kolami	23_earth	bʱ uː m i	nort2699	kfb	1228	EARTH (SOIL)	earth-F	
+689	Kolami-24_eat-1	Kolami	24_eat	aː n t i s a t u n	nort2699	kfb	1336	EAT	eat-J	
+690	Kolami-25_egg-1	Kolami	25_egg	s a n k u	nort2699	kfb	744	EGG	egg-J	
+691	Kolami-26_eye-1	Kolami	26_eye	k a n	nort2699	kfb	1248	EYE	eye-A	
+692	Kolami-28_feather-1	Kolami	28_feather	b u lː	nort2699	kfb	1201	FEATHER	feather-I	
+693	Kolami-29_fire-1	Kolami	29_fire	k i sː	nort2699	kfb	221	FIRE	fire-E	
+694	Kolami-2_all-1	Kolami	2_all	m aː k	nort2699	kfb	98	ALL	all-N	
+695	Kolami-30_fish-1	Kolami	30_fish	g u ɖː i	nort2699	kfb	227	FISH	fish-E	
+696	Kolami-31_fly-1	Kolami	31_fly	t u l s aː d	nort2699	kfb	1441	FLY (MOVE THROUGH AIR)	fly-F	
+697	Kolami-32_foot-1	Kolami	32_foot	dʒ e ʈː a	nort2699	kfb	1301	FOOT	foot-H	
+699	Kolami-34_give-1	Kolami	34_give	s iː t aː n	nort2699	kfb	1447	GIVE	give-C	
+700	Kolami-35_good-1	Kolami	35_good	s o b h a t a n	nort2699	kfb	1035	GOOD	good-J	
+701	Kolami-36_green-1	Kolami	36_green	n i g u ɾ	nort2699	kfb	1425	GREEN	green-E	
+703	Kolami-38_hand-1	Kolami	38_hand	k e j u	nort2699	kfb	1277	HAND	hand-A	
+704	Kolami-39_head-1	Kolami	39_head	t a l	nort2699	kfb	1256	HEAD	head-A	
+705	Kolami-3_ashes-1	Kolami	3_ashes	b u gː i	nort2699	kfb	646	ASH	ashes-G	
+706	Kolami-40_hear-1	Kolami	40_hear	ʋ i n t i	nort2699	kfb	1408	HEAR	hear-D	
+707	Kolami-41_heart-1	Kolami	41_heart	g u n ɖ e	nort2699	kfb	1223	HEART	heart-B	
+708	Kolami-41_heart-2	Kolami	41_heart	p aː n a m	nort2699	kfb	1223	HEART	heart-G	
+710	Kolami-43_kill-1	Kolami	43_kill	a l a n g ʈ aː n	nort2699	kfb	1417	KILL	kill-I	
+713	Kolami-46_leaf-1	Kolami	46_leaf	aː k	nort2699	kfb	628	LEAF	leaf-B	
+714	Kolami-47_lie-1	Kolami	47_lie	l a b aː ɖ + m u ɖ s a t i	nort2699	kfb	1411	LIE (REST)	lie-C	
+715	Kolami-48_liver-1	Kolami	48_liver	k a l e j a	nort2699	kfb	1224	LIVER	liver-B	
+716	Kolami-49_long-1	Kolami	49_long	p o ɖ aː m	nort2699	kfb	1203	LONG	long-C	
+717	Kolami-4_bark-1	Kolami	4_bark	ɖ a n ɖ i + m a ɖː a	nort2699	kfb	1204	BARK	bark-M	
+720	Kolami-52_many-1	Kolami	52_many	p e ɾ e	nort2699	kfb	1198	MANY	many-L	
+723	Kolami-55_mountain-1	Kolami	55_mountain	d a n ɖ i m eː ʈ	nort2699	kfb	639	MOUNTAIN	mountain-K	
+724	Kolami-56_mouth-1	Kolami	56_mouth	m uː t i	nort2699	kfb	674	MOUTH	mouth-F	
+725	Kolami-57_name-1	Kolami	57_name	p eː ɾ	nort2699	kfb	1405	NAME	name-A	
+726	Kolami-58_neck-1	Kolami	58_neck	m a k	nort2699	kfb	1333	NECK	neck-H	
+727	Kolami-59_new-1	Kolami	59_new	k o t a	nort2699	kfb	1231	NEW	new-B	
+728	Kolami-5_belly-1	Kolami	5_belly	ʈ e ʈː e	nort2699	kfb	1251	BELLY	belly-J	
+729	Kolami-60_night-1	Kolami	60_night	s i ɾ b e d i n	nort2699	kfb	1233	NIGHT	night-K	
+730	Kolami-61_nose-1	Kolami	61_nose	m uː kː	nort2699	kfb	1221	NOSE	nose-A	
+731	Kolami-62_not-1	Kolami	62_not	k aː d u	nort2699	kfb	1240	NOT	not-B	
+732	Kolami-63_one-1	Kolami	63_one	o kː oː t	nort2699	kfb	1493	ONE	one-A	
+733	Kolami-64_person-1	Kolami	64_person	m a n i ʂ aː n	nort2699	kfb	683	PERSON	person-A	
+735	Kolami-66_red-1	Kolami	66_red	j e r u ɖ i	nort2699	kfb	156	RED	red-B	
+736	Kolami-67_road-1	Kolami	67_road	d a a ɾ	nort2699	kfb	667	ROAD	road-D	
+737	Kolami-67_road-2	Kolami	67_road	t aː ʋ u	nort2699	kfb	667	ROAD	road-K	
+738	Kolami-68_root-1	Kolami	68_root	ʋ eː ɾ k a m	nort2699	kfb	670	ROOT	root-A	
+740	Kolami-70_sand-1	Kolami	70_sand	u s u k a	nort2699	kfb	671	SAND	sand-B	
+741	Kolami-72_see-1	Kolami	72_see	t aː n a	nort2699	kfb	1409	SEE	see-K	
+742	Kolami-73_seed-1	Kolami	73_seed	ʋ i tː a n a m	nort2699	kfb	714	SEED	seed-A	
+743	Kolami-74_sit-1	Kolami	74_sit	u d ə	nort2699	kfb	1416	SIT	sit-H	
+745	Kolami-76_sleep-1	Kolami	76_sleep	iː m a n g s a t i	nort2699	kfb	1585	SLEEP	sleep-I	
+746	Kolami-77_small-1	Kolami	77_small	s i nː a	nort2699	kfb	1246	SMALL	small-C	
+747	Kolami-78_smoke-1	Kolami	78_smoke	p o g	nort2699	kfb	778	SMOKE (EXHAUST)	smoke-A	
+748	Kolami-79_stand-1	Kolami	79_stand	n iː m aː n	nort2699	kfb	1442	STAND	stand-A	
+749	Kolami-7_bird-1	Kolami	7_bird	p i ʈː a	nort2699	kfb	937	BIRD	bird-C	
+750	Kolami-80_star-1	Kolami	80_star	s u kː a	nort2699	kfb	1430	STAR	star-D	
+751	Kolami-81_stone-1	Kolami	81_stone	g u n ɖ ə	nort2699	kfb	857	STONE	stone-E	
+752	Kolami-82_sun-1	Kolami	82_sun	s u ɾ i j a	nort2699	kfb	1343	SUN	sun-A	
+753	Kolami-82_sun-2	Kolami	82_sun	p o d d u	nort2699	kfb	1343	SUN	sun-B	
+754	Kolami-83_swim-1	Kolami	83_swim	p oː n i m	nort2699	kfb	1439	SWIM	swim-F	
+755	Kolami-84_tail-1	Kolami	84_tail	t oː k a	nort2699	kfb	1220	TAIL	tail-B	
+756	Kolami-85_that-1	Kolami	85_that	a d	nort2699	kfb	78	THAT	that-A	
+757	Kolami-86_this-1	Kolami	86_this	i d	nort2699	kfb	1214	THIS	this-A	
+758	Kolami-87_thou-1	Kolami	87_thou	n iː n u	nort2699	kfb	1215	THOU	thou-A	
+759	Kolami-88_tongue-1	Kolami	88_tongue	n aː l k a	nort2699	kfb	1205	TONGUE	tongue-A	
+760	Kolami-89_tooth-1	Kolami	89_tooth	p a l k u	nort2699	kfb	1380	TOOTH	tooth-A	
+761	Kolami-8_bite-1	Kolami	8_bite	a t e k a ʂ i n	nort2699	kfb	1403	BITE	bite-C	
+762	Kolami-90_tree-1	Kolami	90_tree	m aː k	nort2699	kfb	906	TREE	tree-A	
+763	Kolami-91_two-1	Kolami	91_two	d u ɖ ə	nort2699	kfb	1498	TWO	two-E	
+764	Kolami-92_walk-1	Kolami	92_walk	n a ɖ u s	nort2699	kfb	1443	WALK	walk-B	
+766	Kolami-94_water-1	Kolami	94_water	iː ɾ	nort2699	kfb	948	WATER	water-E	
+767	Kolami-95_we-1	Kolami	95_we	a m d ə	nort2699	kfb	1212	WE	we-B	
+768	Kolami-96_what-1	Kolami	96_what	e m	nort2699	kfb	1236	WHAT	what-A	
+769	Kolami-97_white-1	Kolami	97_white	t e lː u ɖ i	nort2699	kfb	1335	WHITE	white-B	
+770	Kolami-99_woman-1	Kolami	99_woman	b aː j i	nort2699	kfb	962	WOMAN	woman-O	
+771	Kolami-9_black-1	Kolami	9_black	ɖ aː ɾ i a t e	nort2699	kfb	163	BLACK	black-G	
+772	Kota-100_yellow-1	Kota	100_yellow	m a n dʒ ə	kota1263	kfe	1424	YELLOW	yellow-A	
+773	Kota-10_blood-1	Kota	10_blood	n eː t u ɾ u	kota1263	kfe	946	BLOOD	blood-B	
+774	Kota-11_bone-1	Kota	11_bone	j e l u ʋ ə	kota1263	kfe	1394	BONE	bone-A	
+778	Kota-15_cloud-1	Kota	15_cloud	m eː g a m	kota1263	kfe	1489	CLOUD	cloud-A	
+780	Kota-18_die-1	Kota	18_die	t aː ʋ ə	kota1263	kfe	1494	DIE	die-F	
+781	Kota-19_dog-1	Kota	19_dog	n aː j i	kota1263	kfe	2009	DOG	dog-A	
+782	Kota-1_i-1	Kota	1_i	aː n	kota1263	kfe	1209	I	I-B	
+783	Kota-20_drink-1	Kota	20_drink	u n a t u k ə	kota1263	kfe	1401	DRINK	drink-C	
+784	Kota-21_dry-1	Kota	21_dry	k a n ʈ i k o	kota1263	kfe	1398	DRY	dry-D	
+785	Kota-22_ear-1	Kota	22_ear	k e ʋ ə	kota1263	kfe	1247	EAR	ear-A	
+786	Kota-23_earth-1	Kota	23_earth	bʱ u l oː g a m	kota1263	kfe	1228	EARTH (SOIL)	earth-F	
+787	Kota-24_eat-1	Kota	24_eat	t i n + a t e j	kota1263	kfe	1336	EAT	eat-A	
+788	Kota-25_egg-1	Kota	25_egg	m o o ʈ ə	kota1263	kfe	744	EGG	egg-A	
+789	Kota-26_eye-1	Kota	26_eye	k a ɳ ɳ ə	kota1263	kfe	1248	EYE	eye-A	
+791	Kota-28_feather-1	Kota	28_feather	ɾ eː k ə	kota1263	kfe	1201	FEATHER	feather-A	
+792	Kota-29_fire-1	Kota	29_fire	n i pː u	kota1263	kfe	221	FIRE	fire-B	
+793	Kota-2_all-1	Kota	2_all	e lː aː m	kota1263	kfe	98	ALL	all-A	
+794	Kota-30_fish-1	Kota	30_fish	m iː n ə	kota1263	kfe	227	FISH	fish-A	
+795	Kota-31_fly-1	Kota	31_fly	p aː ɾ ʋ u	kota1263	kfe	1441	FLY (MOVE THROUGH AIR)	fly-A	
+796	Kota-32_foot-1	Kota	32_foot	t a p a ɖ	kota1263	kfe	1301	FOOT	foot-I	
+797	Kota-34_give-1	Kota	34_give	t e j	kota1263	kfe	1447	GIVE	give-B	
+798	Kota-35_good-1	Kota	35_good	o l u d ə	kota1263	kfe	1035	GOOD	good-B	
+799	Kota-36_green-1	Kota	36_green	p a tʃː ə	kota1263	kfe	1425	GREEN	green-A	
+801	Kota-38_hand-1	Kota	38_hand	k a i j	kota1263	kfe	1277	HAND	hand-A	
+802	Kota-39_head-1	Kota	39_head	m a n ɖ ə	kota1263	kfe	1256	HEAD	head-B	
+803	Kota-3_ashes-1	Kota	3_ashes	p oː d u + a t u k ə	kota1263	kfe	646	ASH	ashes-B	
+804	Kota-40_hear-1	Kota	40_hear	k eː l ə	kota1263	kfe	1408	HEAR	hear-A	
+805	Kota-41_heart-1	Kota	41_heart	n e n dʒ u	kota1263	kfe	1223	HEART	heart-C	
+806	Kota-43_kill-1	Kota	43_kill	t aː ʋ i ɾ	kota1263	kfe	1417	KILL	kill-H	
+809	Kota-46_leaf-1	Kota	46_leaf	eː l u	kota1263	kfe	628	LEAF	leaf-A	
+810	Kota-48_liver-1	Kota	48_liver	iː r u	kota1263	kfe	1224	LIVER	liver-A	
+811	Kota-49_long-1	Kota	49_long	n iː t a m	kota1263	kfe	1203	LONG	long-A	
+812	Kota-4_bark-1	Kota	4_bark	k o lː u tʃ o	kota1263	kfe	1204	BARK	bark-N	
+815	Kota-52_many-1	Kota	52_many	iː dʒ oː ɖ	kota1263	kfe	1198	MANY	many-S	
+820	Kota-55_mountain-1	Kota	55_mountain	ʋ eː ʈ u m e	kota1263	kfe	639	MOUNTAIN	mountain-L	
+821	Kota-56_mouth-1	Kota	56_mouth	ʋ aː j i	kota1263	kfe	674	MOUTH	mouth-A	
+822	Kota-57_name-1	Kota	57_name	p eː ɾ	kota1263	kfe	1405	NAME	name-A	
+823	Kota-58_neck-1	Kota	58_neck	k a ɖ a t eː l	kota1263	kfe	1333	NECK	neck-A	
+824	Kota-59_new-1	Kota	59_new	p u d i j a d ə	kota1263	kfe	1231	NEW	new-C	
+825	Kota-5_belly-1	Kota	5_belly	n a ɖ p eː ʈ g u	kota1263	kfe	1251	BELLY	belly-K	
+826	Kota-60_night-1	Kota	60_night	eː l u m a ɾ a m	kota1263	kfe	1233	NIGHT	night-A	
+827	Kota-61_nose-1	Kota	61_nose	m uː k ə	kota1263	kfe	1221	NOSE	nose-A	
+828	Kota-62_not-1	Kota	62_not	i lː a	kota1263	kfe	1240	NOT	not-A	
+829	Kota-63_one-1	Kota	63_one	oː d i t	kota1263	kfe	1493	ONE	one-A	
+831	Kota-66_red-1	Kota	66_red	n e t i ɾ	kota1263	kfe	156	RED	red-D	
+832	Kota-67_road-1	Kota	67_road	t aː ɾ i	kota1263	kfe	667	ROAD	road-D	
+834	Kota-6_big-1	Kota	6_big	t o ɖ u t	kota1263	kfe	1202	BIG	big-J	
+835	Kota-71_say-1	Kota	71_say	p a i d u	kota1263	kfe	1458	SAY	say-M	
+836	Kota-72_see-1	Kota	72_see	n oː ʈ ə	kota1263	kfe	1409	SEE	see-B	
+837	Kota-73_seed-1	Kota	73_seed	ʋ i t u	kota1263	kfe	714	SEED	seed-A	
+839	Kota-76_sleep-1	Kota	76_sleep	o ɾ ə g ə	kota1263	kfe	1585	SLEEP	sleep-A	
+840	Kota-77_small-1	Kota	77_small	g u n t ə	kota1263	kfe	1246	SMALL	small-I	
+841	Kota-78_smoke-1	Kota	78_smoke	p e g u	kota1263	kfe	778	SMOKE (EXHAUST)	smoke-A	
+842	Kota-79_stand-1	Kota	79_stand	n i nː a t u k ə	kota1263	kfe	1442	STAND	stand-A	
+843	Kota-7_bird-1	Kota	7_bird	p a kː i g a ɭ	kota1263	kfe	937	BIRD	bird-B	
+844	Kota-80_star-1	Kota	80_star	n a k ʂ a ʈ i ɾ a m	kota1263	kfe	1430	STAR	star-C	
+845	Kota-81_stone-1	Kota	81_stone	k a l	kota1263	kfe	857	STONE	stone-A	
+846	Kota-82_sun-1	Kota	82_sun	s uː r i j a n	kota1263	kfe	1343	SUN	sun-A	
+847	Kota-82_sun-2	Kota	82_sun	p o ɖ u t ə	kota1263	kfe	1343	SUN	sun-B	
+848	Kota-83_swim-1	Kota	83_swim	n iː tʃ a l	kota1263	kfe	1439	SWIM	swim-A	
+849	Kota-84_tail-1	Kota	84_tail	ʋ aː l ə	kota1263	kfe	1220	TAIL	tail-A	
+850	Kota-85_that-1	Kota	85_that	a dʱ ə	kota1263	kfe	78	THAT	that-A	
+851	Kota-86_this-1	Kota	86_this	i dʱ ə	kota1263	kfe	1214	THIS	this-A	
+852	Kota-87_thou-1	Kota	87_thou	n iː j a	kota1263	kfe	1215	THOU	thou-A	
+853	Kota-88_tongue-1	Kota	88_tongue	n aː l g ə	kota1263	kfe	1205	TONGUE	tongue-A	
+854	Kota-89_tooth-1	Kota	89_tooth	p a l	kota1263	kfe	1380	TOOTH	tooth-A	
+855	Kota-8_bite-1	Kota	8_bite	k a ɖ ə	kota1263	kfe	1403	BITE	bite-A	
+856	Kota-90_tree-1	Kota	90_tree	m a ɾ a m	kota1263	kfe	906	TREE	tree-A	
+857	Kota-91_two-1	Kota	91_two	e ɖ u	kota1263	kfe	1498	TWO	two-A	
+858	Kota-92_walk-1	Kota	92_walk	n a ɖ ʋ u	kota1263	kfe	1443	WALK	walk-A	
+859	Kota-94_water-1	Kota	94_water	n iː ɾ	kota1263	kfe	948	WATER	water-E	
+860	Kota-95_we-1	Kota	95_we	a mː e	kota1263	kfe	1212	WE	we-B	
+861	Kota-96_what-1	Kota	96_what	e t aː n ə	kota1263	kfe	1236	WHAT	what-A	
+862	Kota-97_white-1	Kota	97_white	ʋ e lː ə	kota1263	kfe	1335	WHITE	white-A	
+863	Kota-98_who-1	Kota	98_who	d aː ɾ ə	kota1263	kfe	1235	WHO	who-A	
+864	Kota-99_woman-1	Kota	99_woman	p e m a g u	kota1263	kfe	962	WOMAN	woman-A	
+865	Kota-9_black-1	Kota	9_black	k a ɾ u pː ə	kota1263	kfe	163	BLACK	black-A	
+866	Koya-100_yellow-1	Koya	100_yellow	p a s a p	koya1251	kff	1424	YELLOW	yellow-C	
+867	Koya-10_blood-1	Koya	10_blood	n e tː u ɾ	koya1251	kff	946	BLOOD	blood-B	
+868	Koya-11_bone-1	Koya	11_bone	b uː l aː	koya1251	kff	1394	BONE	bone-B	
+869	Koya-11_bone-2	Koya	11_bone	b uː l k	koya1251	kff	1394	BONE	bone-B	
+873	Koya-15_cloud-1	Koya	15_cloud	m a bː u	koya1251	kff	1489	CLOUD	cloud-C	
+875	Koya-17_come-1	Koya	17_come	ʋ a	koya1251	kff	1446	COME	come-A	
+876	Koya-17_come-2	Koya	17_come	ʋ aː d a ɖ a m	koya1251	kff	1446	COME	come-A	
+877	Koya-18_die-1	Koya	18_die	ɖ o lː a t a m	koya1251	kff	1494	DIE	die-C	
+878	Koya-19_dog-1	Koya	19_dog	n e j	koya1251	kff	2009	DOG	dog-A	
+879	Koya-1_i-1	Koya	1_i	n a nː a	koya1251	kff	1209	I	I-B	
+880	Koya-20_drink-1	Koya	20_drink	u nː u	koya1251	kff	1401	DRINK	drink-C	
+881	Koya-21_dry-1	Koya	21_dry	a ɾ t aː d	koya1251	kff	1398	DRY	dry-E	
+882	Koya-21_dry-2	Koya	21_dry	p o ɖ i	koya1251	kff	1398	DRY	dry-G	
+883	Koya-22_ear-1	Koya	22_ear	k e ʋ	koya1251	kff	1247	EAR	ear-A	
+884	Koya-22_ear-2	Koya	22_ear	k e ʋ k	koya1251	kff	1247	EAR	ear-A	
+885	Koya-23_earth-1	Koya	23_earth	m a ʈː i	koya1251	kff	1228	EARTH (SOIL)	earth-E	
+886	Koya-24_eat-1	Koya	24_eat	t i nː u	koya1251	kff	1336	EAT	eat-A	
+887	Koya-25_egg-1	Koya	25_egg	g a ɾ b a m	koya1251	kff	744	EGG	egg-D	
+888	Koya-26_eye-1	Koya	26_eye	k o ɳ ɖ	koya1251	kff	1248	EYE	eye-A	
+891	Koya-28_feather-1	Koya	28_feather	g e ɾ k	koya1251	kff	1201	FEATHER	feather-F	
+892	Koya-29_fire-1	Koya	29_fire	k i s	koya1251	kff	221	FIRE	fire-E	
+893	Koya-29_fire-2	Koya	29_fire	n e gː a ɖ	koya1251	kff	221	FIRE	fire-H	
+894	Koya-2_all-1	Koya	2_all	a n t aː	koya1251	kff	98	ALL	all-B	
+895	Koya-2_all-2	Koya	2_all	m o tː a m	koya1251	kff	98	ALL	all-C	
+896	Koya-30_fish-1	Koya	30_fish	k iː k e	koya1251	kff	227	FISH	fish-B	
+897	Koya-31_fly-1	Koya	31_fly	t u lː a	koya1251	kff	1441	FLY (MOVE THROUGH AIR)	fly-C	
+898	Koya-32_foot-1	Koya	32_foot	a ɖ u g u	koya1251	kff	1301	FOOT	foot-A	
+900	Koya-34_give-1	Koya	34_give	iː m	koya1251	kff	1447	GIVE	give-C	
+901	Koya-34_give-2	Koya	34_give	iː d a t a m	koya1251	kff	1447	GIVE	give-C	
+902	Koya-35_good-1	Koya	35_good	m a n tʃ i d	koya1251	kff	1035	GOOD	good-C	
+903	Koya-36_green-1	Koya	36_green	p a tʃː a	koya1251	kff	1425	GREEN	green-A	
+906	Koya-38_hand-1	Koya	38_hand	k a j	koya1251	kff	1277	HAND	hand-A	
+907	Koya-39_head-1	Koya	39_head	t a l a k aː j	koya1251	kff	1256	HEAD	head-A	
+908	Koya-3_ashes-1	Koya	3_ashes	b uː ɖ i d a	koya1251	kff	646	ASH	ashes-B	
+909	Koya-40_hear-1	Koya	40_hear	k eː dʒ a	koya1251	kff	1408	HEAR	hear-C	
+910	Koya-41_heart-1	Koya	41_heart	g u ɳ ɖ e k aː j a	koya1251	kff	1223	HEART	heart-B	
+913	Koya-43_kill-1	Koya	43_kill	a ʋ a k aː	koya1251	kff	1417	KILL	kill-E	
+917	Koya-46_leaf-1	Koya	46_leaf	aː k iː	koya1251	kff	628	LEAF	leaf-B	
+918	Koya-47_lie-1	Koya	47_lie	u n dʒ a	koya1251	kff	1411	LIE (REST)	lie-D	
+919	Koya-48_liver-1	Koya	48_liver	k aː dʒ a m	koya1251	kff	1224	LIVER	liver-B	
+920	Koya-49_long-1	Koya	49_long	p o ɖ a ʋ u ʈ aː d u	koya1251	kff	1203	LONG	long-C	
+921	Koya-4_bark-1	Koya	4_bark	b e ɾ a ɖ u	koya1251	kff	1204	BARK	bark-D	
+922	Koya-4_bark-2	Koya	4_bark	d a n ʈ i	koya1251	kff	1204	BARK	bark-F	
+926	Koya-52_many-1	Koya	52_many	tʃ aː l a	koya1251	kff	1198	MANY	many-D	
+927	Koya-52_many-2	Koya	52_many	b e tʃː oː k o	koya1251	kff	1198	MANY	many-E	
+931	Koya-55_mountain-1	Koya	55_mountain	g u b a l	koya1251	kff	639	MOUNTAIN	mountain-A	
+932	Koya-55_mountain-2	Koya	55_mountain	m e ʈː a	koya1251	kff	639	MOUNTAIN	mountain-E	
+933	Koya-56_mouth-1	Koya	56_mouth	p a v uː ɾ	koya1251	kff	674	MOUTH	mouth-C	
+934	Koya-57_name-1	Koya	57_name	p e d e ɾ	koya1251	kff	1405	NAME	name-A	
+935	Koya-58_neck-1	Koya	58_neck	m e ɖ a k aː j a	koya1251	kff	1333	NECK	neck-B	
+936	Koya-59_new-1	Koya	59_new	k o tː a d	koya1251	kff	1231	NEW	new-B	
+937	Koya-5_belly-1	Koya	5_belly	ɖ o kː a	koya1251	kff	1251	BELLY	belly-D	
+938	Koya-60_night-1	Koya	60_night	m u l i p e	koya1251	kff	1233	NIGHT	night-D	
+939	Koya-61_nose-1	Koya	61_nose	m o sː oː ɾ	koya1251	kff	1221	NOSE	nose-B	
+940	Koya-62_not-1	Koya	62_not	i lː e	koya1251	kff	1240	NOT	not-A	
+941	Koya-63_one-1	Koya	63_one	o ɾ ɾ oː ʈ	koya1251	kff	1493	ONE	one-A	
+942	Koya-64_person-1	Koya	64_person	m a n s uː ɳ ɖ	koya1251	kff	683	PERSON	person-A	
+944	Koya-66_red-1	Koya	66_red	e ɾ ɾ a	koya1251	kff	156	RED	red-B	
+945	Koya-67_road-1	Koya	67_road	a ɾ ɾ i	koya1251	kff	667	ROAD	road-J	
+946	Koya-68_root-1	Koya	68_root	ʋ eː ɾ	koya1251	kff	670	ROOT	root-A	
+948	Koya-6_big-1	Koya	6_big	b e ɾ ɾ a	koya1251	kff	1202	BIG	big-A	
+949	Koya-70_sand-1	Koya	70_sand	i s i k e	koya1251	kff	671	SAND	sand-B	
+950	Koya-71_say-1	Koya	71_say	k e lː a	koya1251	kff	1458	SAY	say-G	
+951	Koya-72_see-1	Koya	72_see	uː ɖ a	koya1251	kff	1409	SEE	see-E	
+952	Koya-73_seed-1	Koya	73_seed	p eː ɳ ɖ k u	koya1251	kff	714	SEED	seed-F	
+953	Koya-74_sit-1	Koya	74_sit	k u d d aː	koya1251	kff	1416	SIT	sit-F	
+955	Koya-76_sleep-1	Koya	76_sleep	u n dʒ a ʈ a m	koya1251	kff	1585	SLEEP	sleep-G	
+956	Koya-77_small-1	Koya	77_small	tʃ i nː a d	koya1251	kff	1246	SMALL	small-C	
+957	Koya-78_smoke-1	Koya	78_smoke	k u m p oː ɖ	koya1251	kff	778	SMOKE (EXHAUST)	smoke-B	
+958	Koya-79_stand-1	Koya	79_stand	n i lː a	koya1251	kff	1442	STAND	stand-A	
+959	Koya-79_stand-2	Koya	79_stand	n i lː i m a n	koya1251	kff	1442	STAND	stand-A	
+960	Koya-7_bird-1	Koya	7_bird	p i ʈː eː k u	koya1251	kff	937	BIRD	bird-C	
+961	Koya-80_star-1	Koya	80_star	u kː a	koya1251	kff	1430	STAR	star-D	
+962	Koya-81_stone-1	Koya	81_stone	ɾ aː j	koya1251	kff	857	STONE	stone-B	
+963	Koya-82_sun-1	Koya	82_sun	p o ɖ u d u	koya1251	kff	1343	SUN	sun-B	
+964	Koya-83_swim-1	Koya	83_swim	iː t a	koya1251	kff	1439	SWIM	swim-A	
+965	Koya-84_tail-1	Koya	84_tail	t o k aː ɾ	koya1251	kff	1220	TAIL	tail-B	
+966	Koya-85_that-1	Koya	85_that	a d d u	koya1251	kff	78	THAT	that-A	
+967	Koya-86_this-1	Koya	86_this	i d d u	koya1251	kff	1214	THIS	this-A	
+968	Koya-87_thou-1	Koya	87_thou	n i mː a	koya1251	kff	1215	THOU	thou-A	
+969	Koya-88_tongue-1	Koya	88_tongue	n aː l i k e	koya1251	kff	1205	TONGUE	tongue-A	
+970	Koya-89_tooth-1	Koya	89_tooth	p a l k	koya1251	kff	1380	TOOTH	tooth-A	
+971	Koya-8_bite-1	Koya	8_bite	k o ɾ a k a	koya1251	kff	1403	BITE	bite-D	
+972	Koya-8_bite-2	Koya	8_bite	k a tʃː aː	koya1251	kff	1403	BITE	bite-F	
+973	Koya-90_tree-1	Koya	90_tree	m aː ɾ a	koya1251	kff	906	TREE	tree-A	
+974	Koya-91_two-1	Koya	91_two	ɾ e ɳ ɖ	koya1251	kff	1498	TWO	two-A	
+975	Koya-92_walk-1	Koya	92_walk	n a ɖ a m	koya1251	kff	1443	WALK	walk-A	
+977	Koya-94_water-1	Koya	94_water	eː ɾ u	koya1251	kff	948	WATER	water-E	
+978	Koya-95_we-1	Koya	95_we	m a n aː ɖ u	koya1251	kff	1212	WE	we-A	
+979	Koya-95_we-2	Koya	95_we	m a mː a	koya1251	kff	1212	WE	we-B	
+980	Koya-96_what-1	Koya	96_what	b aː t a	koya1251	kff	1236	WHAT	what-A	
+981	Koya-97_white-1	Koya	97_white	t e l u p	koya1251	kff	1335	WHITE	white-B	
+982	Koya-98_who-1	Koya	98_who	b eː n o n ɖ u	koya1251	kff	1235	WHO	who-C	
+983	Koya-99_woman-1	Koya	99_woman	n aː t a ʋ aː d	koya1251	kff	962	WOMAN	woman-F	
+984	Koya-99_woman-2	Koya	99_woman	p iː k iː ɖ	koya1251	kff	962	WOMAN	woman-G	
+985	Koya-9_black-1	Koya	9_black	k aː ʈ e	koya1251	kff	163	BLACK	black-A	
+986	Koya-9_black-2	Koya	9_black	n a lː a	koya1251	kff	163	BLACK	black-B	
+987	Kurukh-100_yellow-1	Kurukh	100_yellow	b aː l k a	kuru1302	kru	1424	YELLOW	yellow-E	
+988	Kurukh-10_blood-1	Kurukh	10_blood	kʰ eː n s	kuru1302	kru	946	BLOOD	blood-C	
+989	Kurukh-11_bone-1	Kurukh	11_bone	kʰ o tʃ o l	kuru1302	kru	1394	BONE	bone-F	
+993	Kurukh-15_cloud-1	Kurukh	15_cloud	b a d aː l i	kuru1302	kru	1489	CLOUD	cloud-F	
+995	Kurukh-17_come-1	Kurukh	17_come	b a ɾ n a	kuru1302	kru	1446	COME	come-A	
+996	Kurukh-18_die-1	Kurukh	18_die	kʰ e n a	kuru1302	kru	1494	DIE	die-A	
+997	Kurukh-19_dog-1	Kurukh	19_dog	a lː a	kuru1302	kru	2009	DOG	dog-D	
+998	Kurukh-1_i-1	Kurukh	1_i	a eː n	kuru1302	kru	1209	I	I-B	
+999	Kurukh-20_drink-1	Kurukh	20_drink	o nː a	kuru1302	kru	1401	DRINK	drink-C	
+1000	Kurukh-21_dry-1	Kurukh	21_dry	kʰ a j k a	kuru1302	kru	1398	DRY	dry-D	
+1001	Kurukh-22_ear-1	Kurukh	22_ear	kʰ e b d a	kuru1302	kru	1247	EAR	ear-A	
+1002	Kurukh-23_earth-1	Kurukh	23_earth	kʰ e kʰ e l	kuru1302	kru	1228	EARTH (SOIL)	earth-C	
+1003	Kurukh-24_eat-1	Kurukh	24_eat	m o kʰ n a	kuru1302	kru	1336	EAT	eat-D	
+1004	Kurukh-25_egg-1	Kurukh	25_egg	b iː	kuru1302	kru	744	EGG	egg-I	
+1005	Kurukh-26_eye-1	Kurukh	26_eye	kʰ a nː	kuru1302	kru	1248	EYE	eye-A	
+1007	Kurukh-28_feather-1	Kurukh	28_feather	p e n tʃ o	kuru1302	kru	1201	FEATHER	feather-L	
+1008	Kurukh-29_fire-1	Kurukh	29_fire	tʃ i tʃː	kuru1302	kru	221	FIRE	fire-E	
+1009	Kurukh-2_all-1	Kurukh	2_all	m a j i n	kuru1302	kru	98	ALL	all-M	
+1010	Kurukh-30_fish-1	Kurukh	30_fish	i n dʒ o	kuru1302	kru	227	FISH	fish-F	
+1011	Kurukh-31_fly-1	Kurukh	31_fly	u ɖ i j a ɾ n a	kuru1302	kru	1441	FLY (MOVE THROUGH AIR)	fly-E	
+1012	Kurukh-32_foot-1	Kurukh	32_foot	kʰ e ɖ	kuru1302	kru	1301	FOOT	foot-D	
+1014	Kurukh-34_give-1	Kurukh	34_give	tʃ i h n a	kuru1302	kru	1447	GIVE	give-C	
+1015	Kurukh-35_good-1	Kurukh	35_good	d aː ʋ	kuru1302	kru	1035	GOOD	good-I	
+1016	Kurukh-36_green-1	Kurukh	36_green	h a ɾ i j aː ɾ	kuru1302	kru	1425	GREEN	green-B	
+1018	Kurukh-38_hand-1	Kurukh	38_hand	kʰ e kʰː a	kuru1302	kru	1277	HAND	hand-A	
+1019	Kurukh-39_head-1	Kurukh	39_head	k u k	kuru1302	kru	1256	HEAD	head-C	
+1020	Kurukh-3_ashes-1	Kurukh	3_ashes	tʃ i n d	kuru1302	kru	646	ASH	ashes-H	
+1021	Kurukh-40_hear-1	Kurukh	40_hear	m e nː a	kuru1302	kru	1408	HEAR	hear-D	
+1022	Kurukh-41_heart-1	Kurukh	41_heart	b u k a	kuru1302	kru	1223	HEART	heart-I	
+1024	Kurukh-43_kill-1	Kurukh	43_kill	e ɖ a b n a	kuru1302	kru	1417	KILL	kill-J	
+1027	Kurukh-46_leaf-1	Kurukh	46_leaf	a t kʰ a	kuru1302	kru	628	LEAF	leaf-D	
+1028	Kurukh-47_lie-1	Kurukh	47_lie	p a i h a	kuru1302	kru	1411	LIE (REST)	lie-K	
+1029	Kurukh-47_lie-2	Kurukh	47_lie	f a s i j aː r	kuru1302	kru	1411	LIE (REST)	lie-L	
+1030	Kurukh-48_liver-1	Kurukh	48_liver	u m b a l kʰ o	kuru1302	kru	1224	LIVER	liver-J	
+1031	Kurukh-49_long-1	Kurukh	49_long	d i g aː h	kuru1302	kru	1203	LONG	long-F	
+1032	Kurukh-4_bark-1	Kurukh	4_bark	oː ɖ a k	kuru1302	kru	1204	BARK	bark-C	
+1035	Kurukh-52_many-1	Kurukh	52_many	b a gː e	kuru1302	kru	1198	MANY	many-P	
+1038	Kurukh-55_mountain-1	Kurukh	55_mountain	p a ɾ t a	kuru1302	kru	639	MOUNTAIN	mountain-J	
+1039	Kurukh-56_mouth-1	Kurukh	56_mouth	b a j i	kuru1302	kru	674	MOUTH	mouth-A	
+1040	Kurukh-57_name-1	Kurukh	57_name	n aː m e	kuru1302	kru	1405	NAME	name-B	
+1041	Kurukh-58_neck-1	Kurukh	58_neck	kʰ e s i r	kuru1302	kru	1333	NECK	neck-C	
+1042	Kurukh-59_new-1	Kurukh	59_new	p uː n a	kuru1302	kru	1231	NEW	new-C	
+1043	Kurukh-5_belly-1	Kurukh	5_belly	k uː l	kuru1302	kru	1251	BELLY	belly-G	
+1044	Kurukh-60_night-1	Kurukh	60_night	m aː h a	kuru1302	kru	1233	NIGHT	night-C	
+1045	Kurukh-61_nose-1	Kurukh	61_nose	m uː j i	kuru1302	kru	1221	NOSE	nose-A	
+1046	Kurukh-62_not-1	Kurukh	62_not	m a l a	kuru1302	kru	1240	NOT	not-F	
+1047	Kurukh-63_one-1	Kurukh	63_one	oː n d	kuru1302	kru	1493	ONE	one-A	
+1048	Kurukh-64_person-1	Kurukh	64_person	aː l	kuru1302	kru	683	PERSON	person-D	
+1050	Kurukh-66_red-1	Kurukh	66_red	k h e s o	kuru1302	kru	156	RED	red-A	
+1051	Kurukh-67_road-1	Kurukh	67_road	ɖ a h a ɾ e	kuru1302	kru	667	ROAD	road-D	
+1052	Kurukh-68_root-1	Kurukh	68_root	p aː d a	kuru1302	kru	670	ROOT	root-B	
+1054	Kurukh-6_big-1	Kurukh	6_big	k o h a	kuru1302	kru	1202	BIG	big-H	
+1055	Kurukh-70_sand-1	Kurukh	70_sand	tʃ a l k u ɾ u	kuru1302	kru	671	SAND	sand-F	
+1056	Kurukh-71_say-1	Kurukh	71_say	b a kʰ n a	kuru1302	kru	1458	SAY	say-L	
+1057	Kurukh-72_see-1	Kurukh	72_see	j eː ɾ n a	kuru1302	kru	1409	SEE	see-H	
+1058	Kurukh-73_seed-1	Kurukh	73_seed	b iː	kuru1302	kru	714	SEED	seed-A	
+1059	Kurukh-73_seed-2	Kurukh	73_seed	g o ʈ a	kuru1302	kru	714	SEED	seed-C	
+1060	Kurukh-74_sit-1	Kurukh	74_sit	o kʰ n a	kuru1302	kru	1416	SIT	sit-E	
+1062	Kurukh-76_sleep-1	Kurukh	76_sleep	k h a n d a ɾ n a	kuru1302	kru	1585	SLEEP	sleep-E	
+1063	Kurukh-77_small-1	Kurukh	77_small	s a nː i	kuru1302	kru	1246	SMALL	small-C	
+1064	Kurukh-78_smoke-1	Kurukh	78_smoke	m o s a g a	kuru1302	kru	778	SMOKE (EXHAUST)	smoke-C	
+1065	Kurukh-79_stand-1	Kurukh	79_stand	i dʒː n a	kuru1302	kru	1442	STAND	stand-A	
+1066	Kurukh-7_bird-1	Kurukh	7_bird	o ɖ a	kuru1302	kru	937	BIRD	bird-H	
+1067	Kurukh-80_star-1	Kurukh	80_star	b iː n k o	kuru1302	kru	1430	STAR	star-A	
+1068	Kurukh-81_stone-1	Kurukh	81_stone	p a kʰ n a	kuru1302	kru	857	STONE	stone-G	
+1069	Kurukh-82_sun-1	Kurukh	82_sun	b iː ɖ i	kuru1302	kru	1343	SUN	sun-C	
+1070	Kurukh-83_swim-1	Kurukh	83_swim	oː g n a	kuru1302	kru	1439	SWIM	swim-B	
+1071	Kurukh-84_tail-1	Kurukh	84_tail	kʰ o l a	kuru1302	kru	1220	TAIL	tail-C	
+1072	Kurukh-85_that-1	Kurukh	85_that	h uː	kuru1302	kru	78	THAT	that-A	
+1073	Kurukh-86_this-1	Kurukh	86_this	iː d	kuru1302	kru	1214	THIS	this-A	
+1074	Kurukh-87_thou-1	Kurukh	87_thou	n iː n	kuru1302	kru	1215	THOU	thou-A	
+1075	Kurukh-88_tongue-1	Kurukh	88_tongue	t a kː h a	kuru1302	kru	1205	TONGUE	tongue-B	
+1076	Kurukh-89_tooth-1	Kurukh	89_tooth	p a lː	kuru1302	kru	1380	TOOTH	tooth-A	
+1077	Kurukh-8_bite-1	Kurukh	8_bite	kʰ a tʃː n a	kuru1302	kru	1403	BITE	bite-F	
+1078	Kurukh-90_tree-1	Kurukh	90_tree	m a nː	kuru1302	kru	906	TREE	tree-A	
+1079	Kurukh-91_two-1	Kurukh	91_two	iː r ə b	kuru1302	kru	1498	TWO	two-A	
+1080	Kurukh-92_walk-1	Kurukh	92_walk	eː kʰ n a	kuru1302	kru	1443	WALK	walk-C	
+1083	Kurukh-94_water-1	Kurukh	94_water	a mː	kuru1302	kru	948	WATER	water-D	
+1084	Kurukh-95_we-1	Kurukh	95_we	n aː m	kuru1302	kru	1212	WE	we-A	
+1085	Kurukh-96_what-1	Kurukh	96_what	j eː n d r a	kuru1302	kru	1236	WHAT	what-A	
+1086	Kurukh-97_white-1	Kurukh	97_white	p a ɳ ɖ ɾ u	kuru1302	kru	1335	WHITE	white-C	
+1087	Kurukh-98_who-1	Kurukh	98_who	n e	kuru1302	kru	1235	WHO	who-A	
+1088	Kurukh-99_woman-1	Kurukh	99_woman	m u kː a	kuru1302	kru	962	WOMAN	woman-M	
+1089	Kurukh-99_woman-2	Kurukh	99_woman	aː l i	kuru1302	kru	962	WOMAN	woman-N	
+1090	Kurukh-9_black-1	Kurukh	9_black	m o kʰ a ɾ o	kuru1302	kru	163	BLACK	black-D	
+1091	Kuwi-100_yellow-1	Kuwi	100_yellow	h i n g e ɾ i	kuvi1243	kxv	1424	YELLOW	yellow-F	
+1092	Kuwi-100_yellow-2	Kuwi	100_yellow	t o g o ɾ i	kuvi1243	kxv	1424	YELLOW	yellow-H	
+1093	Kuwi-10_blood-1	Kuwi	10_blood	n e tː i r	kuvi1243	kxv	946	BLOOD	blood-B	
+1096	Kuwi-15_cloud-1	Kuwi	15_cloud	h aː g u	kuvi1243	kxv	1489	CLOUD	cloud-I	
+1097	Kuwi-15_cloud-2	Kuwi	15_cloud	d u n ɖ a ɾ a	kuvi1243	kxv	1489	CLOUD	cloud-J	
+1098	Kuwi-1_i-1	Kuwi	1_i	n aː n u	kuvi1243	kxv	1209	I	I-B	
+1099	Kuwi-1_i-2	Kuwi	1_i	m u	kuvi1243	kxv	1209	I	I-B	
+1100	Kuwi-22_ear-1	Kuwi	22_ear	k i ɾ i j u	kuvi1243	kxv	1247	EAR	ear-A	
+1101	Kuwi-23_earth-1	Kuwi	23_earth	bʱ u m i	kuvi1243	kxv	1228	EARTH (SOIL)	earth-F	
+1102	Kuwi-23_earth-2	Kuwi	23_earth	i ɾ aː	kuvi1243	kxv	1228	EARTH (SOIL)	earth-G	
+1103	Kuwi-24_eat-1	Kuwi	24_eat	t i n u	kuvi1243	kxv	1336	EAT	eat-A	
+1104	Kuwi-25_egg-1	Kuwi	25_egg	t a l a	kuvi1243	kxv	744	EGG	egg-L	
+1105	Kuwi-26_eye-1	Kuwi	26_eye	k a n u	kuvi1243	kxv	1248	EYE	eye-A	
+1106	Kuwi-29_fire-1	Kuwi	29_fire	d a n k e ɾ e	kuvi1243	kxv	221	FIRE	fire-K	
+1107	Kuwi-2_all-1	Kuwi	2_all	h a r a	kuvi1243	kxv	98	ALL	all-I	
+1108	Kuwi-32_foot-1	Kuwi	32_foot	p aː d a m i	kuvi1243	kxv	1301	FOOT	foot-B	
+1110	Kuwi-34_give-1	Kuwi	34_give	t a a	kuvi1243	kxv	1447	GIVE	give-B	
+1111	Kuwi-35_good-1	Kuwi	35_good	n e j u n	kuvi1243	kxv	1035	GOOD	good-L	
+1112	Kuwi-36_green-1	Kuwi	36_green	aː k u p a tʃː a	kuvi1243	kxv	1425	GREEN	green-A	
+1113	Kuwi-36_green-2	Kuwi	36_green	n i l i a	kuvi1243	kxv	1425	GREEN	green-G	
+1114	Kuwi-36_green-3	Kuwi	36_green	k a s u l i	kuvi1243	kxv	1425	GREEN	green-H	
+1116	Kuwi-38_hand-1	Kuwi	38_hand	k e j u	kuvi1243	kxv	1277	HAND	hand-A	
+1117	Kuwi-39_head-1	Kuwi	39_head	t ɾ a j u n	kuvi1243	kxv	1256	HEAD	head-A	
+1119	Kuwi-46_leaf-1	Kuwi	46_leaf	p a t ɾ a	kuvi1243	kxv	628	LEAF	leaf-H	
+1124	Kuwi-56_mouth-1	Kuwi	56_mouth	g u ʈ i	kuvi1243	kxv	674	MOUTH	mouth-G	
+1125	Kuwi-57_name-1	Kuwi	57_name	d o r u	kuvi1243	kxv	1405	NAME	name-A	
+1126	Kuwi-59_new-1	Kuwi	59_new	p u n i	kuvi1243	kxv	1231	NEW	new-C	
+1127	Kuwi-5_belly-1	Kuwi	5_belly	b a n ɖ i	kuvi1243	kxv	1251	BELLY	belly-I	
+1128	Kuwi-60_night-1	Kuwi	60_night	l aː n	kuvi1243	kxv	1233	NIGHT	night-J	
+1129	Kuwi-61_nose-1	Kuwi	61_nose	m u n g e l i	kuvi1243	kxv	1221	NOSE	nose-A	
+1130	Kuwi-63_one-1	Kuwi	63_one	r a n ɖ i	kuvi1243	kxv	1493	ONE	one-A	
+1132	Kuwi-66_red-1	Kuwi	66_red	n e t u ɾ i	kuvi1243	kxv	156	RED	red-D	
+1133	Kuwi-66_red-2	Kuwi	66_red	g a ɖ g a	kuvi1243	kxv	156	RED	red-E	
+1134	Kuwi-68_root-1	Kuwi	68_root	ʋ e ɾ	kuvi1243	kxv	670	ROOT	root-A	
+1135	Kuwi-6_big-1	Kuwi	6_big	b eː ɾ	kuvi1243	kxv	1202	BIG	big-A	
+1136	Kuwi-70_sand-1	Kuwi	70_sand	b a l i	kuvi1243	kxv	671	SAND	sand-F	
+1137	Kuwi-7_bird-1	Kuwi	7_bird	m i n u	kuvi1243	kxv	937	BIRD	bird-E	
+1138	Kuwi-80_star-1	Kuwi	80_star	h u k a	kuvi1243	kxv	1430	STAR	star-D	
+1139	Kuwi-81_stone-1	Kuwi	81_stone	ʋ a l i	kuvi1243	kxv	857	STONE	stone-C	
+1140	Kuwi-82_sun-1	Kuwi	82_sun	ʋ e d a	kuvi1243	kxv	1343	SUN	sun-F	
+1141	Kuwi-85_that-1	Kuwi	85_that	e t	kuvi1243	kxv	78	THAT	that-B	
+1142	Kuwi-86_this-1	Kuwi	86_this	i d u	kuvi1243	kxv	1214	THIS	this-A	
+1143	Kuwi-87_thou-1	Kuwi	87_thou	n i n u	kuvi1243	kxv	1215	THOU	thou-A	
+1144	Kuwi-88_tongue-1	Kuwi	88_tongue	ʋ e n ɖ aː ɾ u	kuvi1243	kxv	1205	TONGUE	tongue-C	
+1145	Kuwi-89_tooth-1	Kuwi	89_tooth	p a l u	kuvi1243	kxv	1380	TOOTH	tooth-A	
+1146	Kuwi-8_bite-1	Kuwi	8_bite	k a tʃ i n e	kuvi1243	kxv	1403	BITE	bite-F	
+1147	Kuwi-90_tree-1	Kuwi	90_tree	p a ʈ a	kuvi1243	kxv	906	TREE	tree-E	
+1148	Kuwi-91_two-1	Kuwi	91_two	r i n ɖ a	kuvi1243	kxv	1498	TWO	two-A	
+1149	Kuwi-94_water-1	Kuwi	94_water	e j u	kuvi1243	kxv	948	WATER	water-F	
+1150	Kuwi-95_we-1	Kuwi	95_we	m a m b u	kuvi1243	kxv	1212	WE	we-B	
+1151	Kuwi-96_what-1	Kuwi	96_what	e n a	kuvi1243	kxv	1236	WHAT	what-A	
+1152	Kuwi-97_white-1	Kuwi	97_white	p a n d i	kuvi1243	kxv	1335	WHITE	white-C	
+1153	Kuwi-97_white-2	Kuwi	97_white	d u m d a	kuvi1243	kxv	1335	WHITE	white-G	
+1154	Kuwi-97_white-3	Kuwi	97_white	k u m n ɖ i	kuvi1243	kxv	1335	WHITE	white-H	
+1155	Kuwi-98_who-1	Kuwi	98_who	d a a t	kuvi1243	kxv	1235	WHO	who-D	
+1156	Kuwi-99_woman-1	Kuwi	99_woman	ɖ o l i	kuvi1243	kxv	962	WOMAN	woman-Q	
+1157	Kuwi-99_woman-2	Kuwi	99_woman	aː n ʋ a n l i	kuvi1243	kxv	962	WOMAN	woman-R	
+1158	Kuwi-99_woman-3	Kuwi	99_woman	k o d o g i + p a d a	kuvi1243	kxv	962	WOMAN	woman-S	
+1159	Kuwi-9_black-1	Kuwi	9_black	k a d i a	kuvi1243	kxv	163	BLACK	black-C	
+1160	Malayalam-100_yellow-1	Malayalam	100_yellow	m a ɲ a	mala1464	mal	1424	YELLOW	yellow-A	
+1161	Malayalam-10_blood-1	Malayalam	10_blood	ɾ e k t a m	mala1464	mal	946	BLOOD	blood-A	
+1162	Malayalam-10_blood-2	Malayalam	10_blood	tʃ oː ɾ a	mala1464	mal	946	BLOOD	blood-D	
+1163	Malayalam-11_bone-1	Malayalam	11_bone	e lː ə	mala1464	mal	1394	BONE	bone-A	
+1164	Malayalam-11_bone-2	Malayalam	11_bone	a s t i	mala1464	mal	1394	BONE	bone-E	
+1170	Malayalam-15_cloud-1	Malayalam	15_cloud	m e kʰ a m	mala1464	mal	1489	CLOUD	cloud-A	
+1172	Malayalam-17_come-1	Malayalam	17_come	ʋ a ɾ u g a	mala1464	mal	1446	COME	come-A	
+1173	Malayalam-18_die-1	Malayalam	18_die	m a ɾ i kː u g a	mala1464	mal	1494	DIE	die-B	
+1174	Malayalam-19_dog-1	Malayalam	19_dog	n aː j a	mala1464	mal	2009	DOG	dog-A	
+1175	Malayalam-19_dog-2	Malayalam	19_dog	p a ʈː i	mala1464	mal	2009	DOG	dog-C	
+1176	Malayalam-1_i-1	Malayalam	1_i	ɲ aː n	mala1464	mal	1209	I	I-B	
+1177	Malayalam-20_drink-1	Malayalam	20_drink	k u ʈ i	mala1464	mal	1401	DRINK	drink-A	
+1178	Malayalam-20_drink-2	Malayalam	20_drink	k u d i kː u g a	mala1464	mal	1401	DRINK	drink-A	
+1179	Malayalam-21_dry-1	Malayalam	21_dry	v a r a ɳ ʈ a	mala1464	mal	1398	DRY	dry-E	
+1180	Malayalam-21_dry-2	Malayalam	21_dry	u ɳ a n g i j a	mala1464	mal	1398	DRY	dry-F	
+1181	Malayalam-22_ear-1	Malayalam	22_ear	tʃ e ʋ i	mala1464	mal	1247	EAR	ear-A	
+1182	Malayalam-22_ear-2	Malayalam	22_ear	k aː t u	mala1464	mal	1247	EAR	ear-B	
+1183	Malayalam-23_earth-1	Malayalam	23_earth	m a nː ə	mala1464	mal	1228	EARTH (SOIL)	earth-A	
+1184	Malayalam-24_eat-1	Malayalam	24_eat	t i nː u g a	mala1464	mal	1336	EAT	eat-A	
+1185	Malayalam-25_egg-1	Malayalam	25_egg	m u ʈː a	mala1464	mal	744	EGG	egg-A	
+1186	Malayalam-26_eye-1	Malayalam	26_eye	k a ɳ ɳ ə	mala1464	mal	1248	EYE	eye-A	
+1187	Malayalam-26_eye-2	Malayalam	26_eye	n eː t ɾ a m	mala1464	mal	1248	EYE	eye-B	
+1189	Malayalam-28_feather-1	Malayalam	28_feather	t uː ʋ a l ə	mala1464	mal	1201	FEATHER	feather-B	
+1190	Malayalam-29_fire-1	Malayalam	29_fire	t eː	mala1464	mal	221	FIRE	fire-B	
+1191	Malayalam-29_fire-2	Malayalam	29_fire	a g n i	mala1464	mal	221	FIRE	fire-F	
+1192	Malayalam-2_all-1	Malayalam	2_all	e lː a	mala1464	mal	98	ALL	all-A	
+1193	Malayalam-30_fish-1	Malayalam	30_fish	m iː n	mala1464	mal	227	FISH	fish-A	
+1194	Malayalam-30_fish-2	Malayalam	30_fish	m a l s j a m	mala1464	mal	227	FISH	fish-C	
+1195	Malayalam-31_fly-1	Malayalam	31_fly	p a ɾ a kː u g a	mala1464	mal	1441	FLY (MOVE THROUGH AIR)	fly-A	
+1196	Malayalam-32_foot-1	Malayalam	32_foot	a ʈ i	mala1464	mal	1301	FOOT	foot-A	
+1197	Malayalam-32_foot-2	Malayalam	32_foot	p aː d a m	mala1464	mal	1301	FOOT	foot-B	
+1199	Malayalam-34_give-1	Malayalam	34_give	k o ɖ u kː u g a	mala1464	mal	1447	GIVE	give-A	
+1200	Malayalam-35_good-1	Malayalam	35_good	n a lː a	mala1464	mal	1035	GOOD	good-A	
+1201	Malayalam-36_green-1	Malayalam	36_green	p a tʃː a	mala1464	mal	1425	GREEN	green-A	
+1204	Malayalam-38_hand-1	Malayalam	38_hand	k a j	mala1464	mal	1277	HAND	hand-A	
+1205	Malayalam-39_head-1	Malayalam	39_head	t a l a	mala1464	mal	1256	HEAD	head-A	
+1206	Malayalam-39_head-2	Malayalam	39_head	ʂ i ɾ a s ə	mala1464	mal	1256	HEAD	head-D	
+1207	Malayalam-3_ashes-1	Malayalam	3_ashes	tʃ aː m b a l	mala1464	mal	646	ASH	ashes-A	
+1208	Malayalam-3_ashes-2	Malayalam	3_ashes	tʃ aː ɾ a m	mala1464	mal	646	ASH	ashes-A	
+1209	Malayalam-40_hear-1	Malayalam	40_hear	k e l k u g a	mala1464	mal	1408	HEAR	hear-A	
+1210	Malayalam-41_heart-1	Malayalam	41_heart	h ɾ u d a j a m	mala1464	mal	1223	HEART	heart-A	
+1212	Malayalam-43_kill-1	Malayalam	43_kill	k o lː u g a	mala1464	mal	1417	KILL	kill-A	
+1216	Malayalam-46_leaf-1	Malayalam	46_leaf	i l a	mala1464	mal	628	LEAF	leaf-A	
+1217	Malayalam-47_lie-1	Malayalam	47_lie	k i ɖ a kː u g a	mala1464	mal	1411	LIE (REST)	lie-A	
+1218	Malayalam-48_liver-1	Malayalam	48_liver	iː r a l	mala1464	mal	1224	LIVER	liver-A	
+1219	Malayalam-48_liver-2	Malayalam	48_liver	k a ɾ a ɭ ə	mala1464	mal	1224	LIVER	liver-D	
+1220	Malayalam-49_long-1	Malayalam	49_long	n iː n ɖ a	mala1464	mal	1203	LONG	long-A	
+1221	Malayalam-49_long-2	Malayalam	49_long	n iː l a m u ɭː a	mala1464	mal	1203	LONG	long-A	
+1222	Malayalam-4_bark-1	Malayalam	4_bark	p a ʈː a	mala1464	mal	1204	BARK	bark-A	
+1223	Malayalam-4_bark-2	Malayalam	4_bark	m a ɾ a tː o l i	mala1464	mal	1204	BARK	bark-K	
+1227	Malayalam-52_many-1	Malayalam	52_many	p a l a	mala1464	mal	1198	MANY	many-A	
+1228	Malayalam-52_many-2	Malayalam	52_many	o tː i ɾ i	mala1464	mal	1198	MANY	many-G	
+1232	Malayalam-55_mountain-1	Malayalam	55_mountain	m a l a	mala1464	mal	639	MOUNTAIN	mountain-D	
+1233	Malayalam-55_mountain-2	Malayalam	55_mountain	p a ɾ ʋ a t a m	mala1464	mal	639	MOUNTAIN	mountain-F	
+1234	Malayalam-56_mouth-1	Malayalam	56_mouth	ʋ aː j a	mala1464	mal	674	MOUTH	mouth-A	
+1235	Malayalam-57_name-1	Malayalam	57_name	p e ɾ ə	mala1464	mal	1405	NAME	name-A	
+1236	Malayalam-58_neck-1	Malayalam	58_neck	k a ɻ u t ə	mala1464	mal	1333	NECK	neck-A	
+1237	Malayalam-59_new-1	Malayalam	59_new	p u d i j a	mala1464	mal	1231	NEW	new-C	
+1238	Malayalam-5_belly-1	Malayalam	5_belly	ʋ a j a ɾ ə	mala1464	mal	1251	BELLY	belly-A	
+1239	Malayalam-60_night-1	Malayalam	60_night	ɾ aː t ɾ i	mala1464	mal	1233	NIGHT	night-B	
+1240	Malayalam-61_nose-1	Malayalam	61_nose	m uː k ə	mala1464	mal	1221	NOSE	nose-A	
+1241	Malayalam-62_not-1	Malayalam	62_not	i lː a	mala1464	mal	1240	NOT	not-A	
+1242	Malayalam-63_one-1	Malayalam	63_one	o nː ə	mala1464	mal	1493	ONE	one-A	
+1243	Malayalam-64_person-1	Malayalam	64_person	m a n u ʂ a n	mala1464	mal	683	PERSON	person-A	
+1245	Malayalam-66_red-1	Malayalam	66_red	tʃ u m a pː ə	mala1464	mal	156	RED	red-A	
+1246	Malayalam-67_road-1	Malayalam	67_road	ʋ a ɻ i	mala1464	mal	667	ROAD	road-A	
+1247	Malayalam-68_root-1	Malayalam	68_root	ʋ eː ɾ ə	mala1464	mal	670	ROOT	root-A	
+1250	Malayalam-6_big-1	Malayalam	6_big	ʋ a l u d ə	mala1464	mal	1202	BIG	big-B	
+1251	Malayalam-70_sand-1	Malayalam	70_sand	m a ɳ a l	mala1464	mal	671	SAND	sand-A	
+1252	Malayalam-71_say-1	Malayalam	71_say	p a ɾ a j u g a	mala1464	mal	1458	SAY	say-B	
+1253	Malayalam-72_see-1	Malayalam	72_see	k aː ɳ u k a	mala1464	mal	1409	SEE	see-A	
+1254	Malayalam-73_seed-1	Malayalam	73_seed	v i t a	mala1464	mal	714	SEED	seed-A	
+1255	Malayalam-73_seed-2	Malayalam	73_seed	p a ɾ i pː ə	mala1464	mal	714	SEED	seed-G	
+1256	Malayalam-74_sit-1	Malayalam	74_sit	i ɾ i kː u g a	mala1464	mal	1416	SIT	sit-B	
+1259	Malayalam-76_sleep-1	Malayalam	76_sleep	u ɾ a n g u g a	mala1464	mal	1585	SLEEP	sleep-A	
+1260	Malayalam-77_small-1	Malayalam	77_small	tʃ e ɾ i j a	mala1464	mal	1246	SMALL	small-A	
+1261	Malayalam-78_smoke-1	Malayalam	78_smoke	p u k a	mala1464	mal	778	SMOKE (EXHAUST)	smoke-A	
+1262	Malayalam-79_stand-1	Malayalam	79_stand	n i l k u g a	mala1464	mal	1442	STAND	stand-A	
+1263	Malayalam-7_bird-1	Malayalam	7_bird	p a k ʂ i	mala1464	mal	937	BIRD	bird-B	
+1264	Malayalam-7_bird-2	Malayalam	7_bird	k i l i	mala1464	mal	937	BIRD	bird-D	
+1265	Malayalam-80_star-1	Malayalam	80_star	n a k ʂ a t ɾ a m	mala1464	mal	1430	STAR	star-C	
+1266	Malayalam-81_stone-1	Malayalam	81_stone	k a lː ə	mala1464	mal	857	STONE	stone-A	
+1267	Malayalam-82_sun-1	Malayalam	82_sun	s uː ɾ j a n	mala1464	mal	1343	SUN	sun-A	
+1268	Malayalam-83_swim-1	Malayalam	83_swim	n e e n t u g a	mala1464	mal	1439	SWIM	swim-A	
+1269	Malayalam-84_tail-1	Malayalam	84_tail	ʋ aː l ə	mala1464	mal	1220	TAIL	tail-A	
+1270	Malayalam-85_that-1	Malayalam	85_that	aː	mala1464	mal	78	THAT	that-A	
+1271	Malayalam-85_that-2	Malayalam	85_that	a d ə	mala1464	mal	78	THAT	that-A	
+1272	Malayalam-86_this-1	Malayalam	86_this	iː	mala1464	mal	1214	THIS	this-A	
+1273	Malayalam-86_this-2	Malayalam	86_this	i d ə	mala1464	mal	1214	THIS	this-A	
+1274	Malayalam-87_thou-1	Malayalam	87_thou	n i	mala1464	mal	1215	THOU	thou-A	
+1275	Malayalam-88_tongue-1	Malayalam	88_tongue	n aː k ə	mala1464	mal	1205	TONGUE	tongue-A	
+1276	Malayalam-89_tooth-1	Malayalam	89_tooth	p a lː ə	mala1464	mal	1380	TOOTH	tooth-A	
+1277	Malayalam-8_bite-1	Malayalam	8_bite	k a d i kː u g a	mala1464	mal	1403	BITE	bite-A	
+1278	Malayalam-90_tree-1	Malayalam	90_tree	m a ɾ a m	mala1464	mal	906	TREE	tree-A	
+1279	Malayalam-90_tree-2	Malayalam	90_tree	v r u k ʂ a m	mala1464	mal	906	TREE	tree-C	
+1280	Malayalam-91_two-1	Malayalam	91_two	ɾ e n d ə	mala1464	mal	1498	TWO	two-A	
+1281	Malayalam-92_walk-1	Malayalam	92_walk	n a ɖ a kː u g a	mala1464	mal	1443	WALK	walk-A	
+1284	Malayalam-94_water-1	Malayalam	94_water	ʋ e lː a m	mala1464	mal	948	WATER	water-B	
+1285	Malayalam-94_water-2	Malayalam	94_water	j a l a m	mala1464	mal	948	WATER	water-C	
+1286	Malayalam-95_we-1	Malayalam	95_we	n aː m	mala1464	mal	1212	WE	we-A	
+1287	Malayalam-95_we-2	Malayalam	95_we	n a mː a l	mala1464	mal	1212	WE	we-B	
+1288	Malayalam-96_what-1	Malayalam	96_what	e n d ə	mala1464	mal	1236	WHAT	what-A	
+1289	Malayalam-97_white-1	Malayalam	97_white	ʋ e ɭ u pː ə	mala1464	mal	1335	WHITE	white-A	
+1290	Malayalam-98_who-1	Malayalam	98_who	aː ɾ ə	mala1464	mal	1235	WHO	who-A	
+1291	Malayalam-99_woman-1	Malayalam	99_woman	p e ɳ ɳ ə	mala1464	mal	962	WOMAN	woman-A	
+1292	Malayalam-99_woman-2	Malayalam	99_woman	s t ɾ iː	mala1464	mal	962	WOMAN	woman-B	
+1293	Malayalam-9_black-1	Malayalam	9_black	k a ɾ u pː ə	mala1464	mal	163	BLACK	black-A	
+1294	Malto-100_yellow-1	Malto	100_yellow	b a l k e	saur1249	mjt	1424	YELLOW	yellow-E	
+1295	Malto-10_blood-1	Malto	10_blood	ɾ a s a d u	saur1249	mjt	946	BLOOD	blood-F	
+1296	Malto-11_bone-1	Malto	11_bone	oː tʃ u l d iː	saur1249	mjt	1394	BONE	bone-C	
+1300	Malto-15_cloud-1	Malto	15_cloud	b a d l iː	saur1249	mjt	1489	CLOUD	cloud-F	
+1303	Malto-17_come-1	Malto	17_come	b a ɾ ə aː	saur1249	mjt	1446	COME	come-A	
+1304	Malto-18_die-1	Malto	18_die	k e ə aː n aː k e ə i d aː h	saur1249	mjt	1494	DIE	die-A	
+1305	Malto-19_dog-1	Malto	19_dog	k u tʃː o	saur1249	mjt	2009	DOG	dog-E	
+1306	Malto-1_i-1	Malto	1_i	h eː n u	saur1249	mjt	1209	I	I-B	
+1307	Malto-20_drink-1	Malto	20_drink	h oː n aː	saur1249	mjt	1401	DRINK	drink-C	
+1308	Malto-21_dry-1	Malto	21_dry	aː i k aː	saur1249	mjt	1398	DRY	dry-D	
+1309	Malto-22_ear-1	Malto	22_ear	d a ɾ t iː	saur1249	mjt	1247	EAR	ear-C	
+1310	Malto-23_earth-1	Malto	23_earth	bʱ u m i	saur1249	mjt	1228	EARTH (SOIL)	earth-F	
+1311	Malto-24_eat-1	Malto	24_eat	dʒ aː g oː l p a h	saur1249	mjt	1336	EAT	eat-G	
+1312	Malto-24_eat-2	Malto	24_eat	l a p a h	saur1249	mjt	1336	EAT	eat-G	
+1313	Malto-25_egg-1	Malto	25_egg	ɾ a ɾ a p aː n d u	saur1249	mjt	744	EGG	egg-H	
+1314	Malto-26_eye-1	Malto	26_eye	aː n d u	saur1249	mjt	1248	EYE	eye-A	
+1316	Malto-28_feather-1	Malto	28_feather	p a k iː	saur1249	mjt	1201	FEATHER	feather-K	
+1317	Malto-29_fire-1	Malto	29_fire	tʃ i tʃ a d u	saur1249	mjt	221	FIRE	fire-E	
+1318	Malto-2_all-1	Malto	2_all	g oː ʈ a h iː	saur1249	mjt	98	ALL	all-K	
+1319	Malto-2_all-2	Malto	2_all	g iː ʈ e n iː	saur1249	mjt	98	ALL	all-L	
+1320	Malto-30_fish-1	Malto	30_fish	m iː n d u	saur1249	mjt	227	FISH	fish-A	
+1321	Malto-31_fly-1	Malto	31_fly	u ɖ aː ɾ i	saur1249	mjt	1441	FLY (MOVE THROUGH AIR)	fly-E	
+1322	Malto-32_foot-1	Malto	32_foot	ɾ a ɖ a d u	saur1249	mjt	1301	FOOT	foot-G	
+1324	Malto-34_give-1	Malto	34_give	tʃ i b aː h	saur1249	mjt	1447	GIVE	give-C	
+1325	Malto-35_good-1	Malto	35_good	h eː ɖ u	saur1249	mjt	1035	GOOD	good-F	
+1326	Malto-35_good-2	Malto	35_good	ɾ a ɖ u	saur1249	mjt	1035	GOOD	good-H	
+1327	Malto-36_green-1	Malto	36_green	ɾ a n a l o	saur1249	mjt	1425	GREEN	green-D	
+1329	Malto-38_hand-1	Malto	38_hand	ʈ e ʈ u	saur1249	mjt	1277	HAND	hand-C	
+1330	Malto-39_head-1	Malto	39_head	k u k u d u	saur1249	mjt	1256	HEAD	head-C	
+1331	Malto-40_hear-1	Malto	40_hear	m eː n a	saur1249	mjt	1408	HEAR	hear-D	
+1332	Malto-40_hear-2	Malto	40_hear	m eː n p o	saur1249	mjt	1408	HEAR	hear-D	
+1333	Malto-41_heart-1	Malto	41_heart	h u g l iː	saur1249	mjt	1223	HEART	heart-F	
+1335	Malto-43_kill-1	Malto	43_kill	b a dʒ p o	saur1249	mjt	1417	KILL	kill-G	
+1340	Malto-46_leaf-1	Malto	46_leaf	h aː tʰ a	saur1249	mjt	628	LEAF	leaf-F	
+1341	Malto-47_lie-1	Malto	47_lie	k oː ɖ p o	saur1249	mjt	1411	LIE (REST)	lie-A	
+1342	Malto-48_liver-1	Malto	48_liver	tʃ e d ɾ o	saur1249	mjt	1224	LIVER	liver-I	
+1343	Malto-49_long-1	Malto	49_long	d i g a ɖ o	saur1249	mjt	1203	LONG	long-F	
+1345	Malto-52_many-1	Malto	52_many	d iː k e h i	saur1249	mjt	1198	MANY	many-N	
+1346	Malto-52_many-2	Malto	52_many	g aː ɖ e h i	saur1249	mjt	1198	MANY	many-O	
+1349	Malto-55_mountain-1	Malto	55_mountain	b eː ɖ o + p a h aː ɖ i	saur1249	mjt	639	MOUNTAIN	mountain-I	
+1350	Malto-56_mouth-1	Malto	56_mouth	t o ɾ o	saur1249	mjt	674	MOUTH	mouth-E	
+1351	Malto-57_name-1	Malto	57_name	n aː m i	saur1249	mjt	1405	NAME	name-B	
+1352	Malto-58_neck-1	Malto	58_neck	a s a ɾ d u	saur1249	mjt	1333	NECK	neck-C	
+1353	Malto-58_neck-2	Malto	58_neck	ɖ oː n ɖ o	saur1249	mjt	1333	NECK	neck-J	
+1354	Malto-59_new-1	Malto	59_new	p uː n a	saur1249	mjt	1231	NEW	new-C	
+1355	Malto-5_belly-1	Malto	5_belly	p u ɖ aː	saur1249	mjt	1251	BELLY	belly-B	
+1356	Malto-60_night-1	Malto	60_night	ɾ aː t i	saur1249	mjt	1233	NIGHT	night-B	
+1357	Malto-60_night-2	Malto	60_night	m aː aː	saur1249	mjt	1233	NIGHT	night-C	
+1358	Malto-61_nose-1	Malto	61_nose	m u s oː	saur1249	mjt	1221	NOSE	nose-D	
+1359	Malto-62_not-1	Malto	62_not	m a l aː	saur1249	mjt	1240	NOT	not-F	
+1360	Malto-62_not-2	Malto	62_not	h a m b i j a	saur1249	mjt	1240	NOT	not-I	
+1361	Malto-63_one-1	Malto	63_one	oː n d	saur1249	mjt	1493	ONE	one-A	
+1362	Malto-64_person-1	Malto	64_person	m a l a h	saur1249	mjt	683	PERSON	person-F	
+1364	Malto-66_red-1	Malto	66_red	eː s o	saur1249	mjt	156	RED	red-A	
+1365	Malto-67_road-1	Malto	67_road	p aː o d u	saur1249	mjt	667	ROAD	road-C	
+1366	Malto-68_root-1	Malto	68_root	b a n d aː	saur1249	mjt	670	ROOT	root-D	
+1369	Malto-6_big-1	Malto	6_big	b eː ɖ o	saur1249	mjt	1202	BIG	big-A	
+1370	Malto-70_sand-1	Malto	70_sand	b aː l i	saur1249	mjt	671	SAND	sand-G	
+1371	Malto-71_say-1	Malto	71_say	h a u ɖ p o	saur1249	mjt	1458	SAY	say-N	
+1372	Malto-72_see-1	Malto	72_see	ʈ u n ɖ p o	saur1249	mjt	1409	SEE	see-J	
+1373	Malto-74_sit-1	Malto	74_sit	h o k p o	saur1249	mjt	1416	SIT	sit-E	
+1375	Malto-76_sleep-1	Malto	76_sleep	a n d a ɾ p o + k oː ɖ a	saur1249	mjt	1585	SLEEP	sleep-E	
+1376	Malto-76_sleep-2	Malto	76_sleep	a n ə a	saur1249	mjt	1585	SLEEP	sleep-K	
+1377	Malto-77_small-1	Malto	77_small	ɾ i k ʋ aː d i	saur1249	mjt	1246	SMALL	small-G	
+1378	Malto-77_small-2	Malto	77_small	s a ɾ ʋ e	saur1249	mjt	1246	SMALL	small-H	
+1379	Malto-78_smoke-1	Malto	78_smoke	m oː h a	saur1249	mjt	778	SMOKE (EXHAUST)	smoke-C	
+1380	Malto-79_stand-1	Malto	79_stand	h i l p o	saur1249	mjt	1442	STAND	stand-A	
+1381	Malto-7_bird-1	Malto	7_bird	p u dʒ u d u	saur1249	mjt	937	BIRD	bird-F	
+1382	Malto-80_star-1	Malto	80_star	b iː n k a	saur1249	mjt	1430	STAR	star-A	
+1383	Malto-81_stone-1	Malto	81_stone	g u g a	saur1249	mjt	857	STONE	stone-F	
+1384	Malto-82_sun-1	Malto	82_sun	b eː ɾ d u	saur1249	mjt	1343	SUN	sun-C	
+1385	Malto-83_swim-1	Malto	83_swim	h oː g p o	saur1249	mjt	1439	SWIM	swim-B	
+1386	Malto-84_tail-1	Malto	84_tail	o l i	saur1249	mjt	1220	TAIL	tail-C	
+1387	Malto-85_that-1	Malto	85_that	aː d u	saur1249	mjt	78	THAT	that-A	
+1388	Malto-85_that-2	Malto	85_that	h aː d	saur1249	mjt	78	THAT	that-A	
+1389	Malto-86_this-1	Malto	86_this	iː d u	saur1249	mjt	1214	THIS	this-A	
+1390	Malto-87_thou-1	Malto	87_thou	n iː n	saur1249	mjt	1215	THOU	thou-A	
+1391	Malto-87_thou-2	Malto	87_thou	n iː n u	saur1249	mjt	1215	THOU	thou-A	
+1392	Malto-88_tongue-1	Malto	88_tongue	t a ɖ t a	saur1249	mjt	1205	TONGUE	tongue-B	
+1393	Malto-89_tooth-1	Malto	89_tooth	p aː l d u	saur1249	mjt	1380	TOOTH	tooth-A	
+1394	Malto-8_bite-1	Malto	8_bite	k oː h i	saur1249	mjt	1403	BITE	bite-H	
+1395	Malto-91_two-1	Malto	91_two	p aː n ɖ a	saur1249	mjt	1498	TWO	two-B	
+1396	Malto-91_two-2	Malto	91_two	m a k s a	saur1249	mjt	1498	TWO	two-C	
+1397	Malto-91_two-3	Malto	91_two	dʒ oː ɖ s a	saur1249	mjt	1498	TWO	two-D	
+1398	Malto-92_walk-1	Malto	92_walk	h eː k p o	saur1249	mjt	1443	WALK	walk-C	
+1400	Malto-94_water-1	Malto	94_water	h a m d u	saur1249	mjt	948	WATER	water-D	
+1401	Malto-95_we-1	Malto	95_we	n aː m u	saur1249	mjt	1212	WE	we-A	
+1402	Malto-96_what-1	Malto	96_what	i n d i ɾ d u	saur1249	mjt	1236	WHAT	what-A	
+1403	Malto-96_what-2	Malto	96_what	i n d ɾ aː n	saur1249	mjt	1236	WHAT	what-A	
+1404	Malto-97_white-1	Malto	97_white	s a d aː	saur1249	mjt	1335	WHITE	white-E	
+1405	Malto-97_white-2	Malto	97_white	dʒ i n p ɾ o	saur1249	mjt	1335	WHITE	white-F	
+1406	Malto-98_who-1	Malto	98_who	n eː d u	saur1249	mjt	1235	WHO	who-A	
+1407	Malto-99_woman-1	Malto	99_woman	t e l d u	saur1249	mjt	962	WOMAN	woman-L	
+1408	Malto-9_black-1	Malto	9_black	m a ɖ h a ɾ o	saur1249	mjt	163	BLACK	black-F	
+1409	Ollari_Gadba-10_blood-1	Ollari_Gadba	10_blood	n e tː i ɾ	pott1240	gdb	946	BLOOD	blood-B	
+1412	Ollari_Gadba-17_come-1	Ollari_Gadba	17_come	ʋ a	pott1240	gdb	1446	COME	come-A	
+1413	Ollari_Gadba-19_dog-1	Ollari_Gadba	19_dog	n e	pott1240	gdb	2009	DOG	dog-A	
+1414	Ollari_Gadba-1_i-1	Ollari_Gadba	1_i	aː n	pott1240	gdb	1209	I	I-B	
+1415	Ollari_Gadba-20_drink-1	Ollari_Gadba	20_drink	u n	pott1240	gdb	1401	DRINK	drink-C	
+1416	Ollari_Gadba-22_ear-1	Ollari_Gadba	22_ear	k e k a l	pott1240	gdb	1247	EAR	ear-A	
+1417	Ollari_Gadba-23_earth-1	Ollari_Gadba	23_earth	t u k u d	pott1240	gdb	1228	EARTH (SOIL)	earth-B	
+1418	Ollari_Gadba-24_eat-1	Ollari_Gadba	24_eat	t i n	pott1240	gdb	1336	EAT	eat-A	
+1419	Ollari_Gadba-25_egg-1	Ollari_Gadba	25_egg	k a ɾ b ə	pott1240	gdb	744	EGG	egg-D	
+1420	Ollari_Gadba-26_eye-1	Ollari_Gadba	26_eye	k a ɳ u l	pott1240	gdb	1248	EYE	eye-A	
+1422	Ollari_Gadba-30_fish-1	Ollari_Gadba	30_fish	m iː n	pott1240	gdb	227	FISH	fish-A	
+1423	Ollari_Gadba-32_foot-1	Ollari_Gadba	32_foot	p aː d a m	pott1240	gdb	1301	FOOT	foot-B	
+1425	Ollari_Gadba-34_give-1	Ollari_Gadba	34_give	tʃ i	pott1240	gdb	1447	GIVE	give-C	
+1428	Ollari_Gadba-38_hand-1	Ollari_Gadba	38_hand	k iː	pott1240	gdb	1277	HAND	hand-A	
+1429	Ollari_Gadba-39_head-1	Ollari_Gadba	39_head	t aː l	pott1240	gdb	1256	HEAD	head-A	
+1430	Ollari_Gadba-3_ashes-1	Ollari_Gadba	3_ashes	n i ɖ	pott1240	gdb	646	ASH	ashes-D	
+1431	Ollari_Gadba-41_heart-1	Ollari_Gadba	41_heart	dʒ i b e	pott1240	gdb	1223	HEART	heart-J	
+1435	Ollari_Gadba-46_leaf-1	Ollari_Gadba	46_leaf	ʈ u n ɖ e	pott1240	gdb	628	LEAF	leaf-E	
+1436	Ollari_Gadba-48_liver-1	Ollari_Gadba	48_liver	t a ɖ i n g	pott1240	gdb	1224	LIVER	liver-C	
+1438	Ollari_Gadba-55_mountain-1	Ollari_Gadba	55_mountain	k a pː e	pott1240	gdb	639	MOUNTAIN	mountain-M	
+1439	Ollari_Gadba-56_mouth-1	Ollari_Gadba	56_mouth	tʃ aː l u	pott1240	gdb	674	MOUTH	mouth-H	
+1440	Ollari_Gadba-58_neck-1	Ollari_Gadba	58_neck	k a n ɖ	pott1240	gdb	1333	NECK	neck-K	
+1441	Ollari_Gadba-59_new-1	Ollari_Gadba	59_new	n i a	pott1240	gdb	1231	NEW	new-E	
+1442	Ollari_Gadba-5_belly-1	Ollari_Gadba	5_belly	p u d u g	pott1240	gdb	1251	BELLY	belly-H	
+1443	Ollari_Gadba-61_nose-1	Ollari_Gadba	61_nose	m u n g a n	pott1240	gdb	1221	NOSE	nose-A	
+1444	Ollari_Gadba-63_one-1	Ollari_Gadba	63_one	o k u ʈ i	pott1240	gdb	1493	ONE	one-A	
+1445	Ollari_Gadba-67_road-1	Ollari_Gadba	67_road	r a s t a	pott1240	gdb	667	ROAD	road-F	
+1446	Ollari_Gadba-68_root-1	Ollari_Gadba	68_root	k u ɾ e	pott1240	gdb	670	ROOT	root-C	
+1447	Ollari_Gadba-6_big-1	Ollari_Gadba	6_big	m u ɾ e	pott1240	gdb	1202	BIG	big-I	
+1448	Ollari_Gadba-70_sand-1	Ollari_Gadba	70_sand	m aː n	pott1240	gdb	671	SAND	sand-A	
+1449	Ollari_Gadba-72_see-1	Ollari_Gadba	72_see	tʃ u	pott1240	gdb	1409	SEE	see-C	
+1450	Ollari_Gadba-74_sit-1	Ollari_Gadba	74_sit	u n d u	pott1240	gdb	1416	SIT	sit-H	
+1452	Ollari_Gadba-77_small-1	Ollari_Gadba	77_small	k a n d eː k	pott1240	gdb	1246	SMALL	small-J	
+1453	Ollari_Gadba-78_smoke-1	Ollari_Gadba	78_smoke	p o aː g	pott1240	gdb	778	SMOKE (EXHAUST)	smoke-A	
+1454	Ollari_Gadba-7_bird-1	Ollari_Gadba	7_bird	t i t ə	pott1240	gdb	937	BIRD	bird-I	
+1455	Ollari_Gadba-80_star-1	Ollari_Gadba	80_star	p u ʈ	pott1240	gdb	1430	STAR	star-E	
+1456	Ollari_Gadba-81_stone-1	Ollari_Gadba	81_stone	k a n ɖ	pott1240	gdb	857	STONE	stone-A	
+1457	Ollari_Gadba-82_sun-1	Ollari_Gadba	82_sun	ʋ e l e	pott1240	gdb	1343	SUN	sun-F	
+1458	Ollari_Gadba-84_tail-1	Ollari_Gadba	84_tail	k i n d i ɾ	pott1240	gdb	1220	TAIL	tail-F	
+1459	Ollari_Gadba-85_that-1	Ollari_Gadba	85_that	a d ə	pott1240	gdb	78	THAT	that-A	
+1460	Ollari_Gadba-86_this-1	Ollari_Gadba	86_this	i d ə	pott1240	gdb	1214	THIS	this-A	
+1461	Ollari_Gadba-87_thou-1	Ollari_Gadba	87_thou	i n	pott1240	gdb	1215	THOU	thou-A	
+1462	Ollari_Gadba-88_tongue-1	Ollari_Gadba	88_tongue	n aː n g	pott1240	gdb	1205	TONGUE	tongue-A	
+1463	Ollari_Gadba-89_tooth-1	Ollari_Gadba	89_tooth	p aː l k i lː	pott1240	gdb	1380	TOOTH	tooth-A	
+1464	Ollari_Gadba-91_two-1	Ollari_Gadba	91_two	i ɾ u ɖ u	pott1240	gdb	1498	TWO	two-A	
+1466	Ollari_Gadba-94_water-1	Ollari_Gadba	94_water	n iː r	pott1240	gdb	948	WATER	water-E	
+1467	Ollari_Gadba-95_we-1	Ollari_Gadba	95_we	aː m	pott1240	gdb	1212	WE	we-B	
+1468	Ollari_Gadba-96_what-1	Ollari_Gadba	96_what	e nː aː ʈ	pott1240	gdb	1236	WHAT	what-A	
+1469	Parji-10_blood-1	Parji	10_blood	n e t i r	duru1236	pci	946	BLOOD	blood-B	
+1470	Parji-11_bone-1	Parji	11_bone	b uː l a	duru1236	pci	1394	BONE	bone-B	
+1473	Parji-15_cloud-1	Parji	15_cloud	m a l g u r	duru1236	pci	1489	CLOUD	cloud-B	
+1475	Parji-17_come-1	Parji	17_come	v e r	duru1236	pci	1446	COME	come-A	
+1476	Parji-18_die-1	Parji	18_die	c a y	duru1236	pci	1494	DIE	die-A	
+1477	Parji-19_dog-1	Parji	19_dog	n e tː a	duru1236	pci	2009	DOG	dog-A	
+1478	Parji-1_i-1	Parji	1_i	aː n	duru1236	pci	1209	I	I-B	
+1479	Parji-20_drink-1	Parji	20_drink	u n	duru1236	pci	1401	DRINK	drink-C	
+1480	Parji-22_ear-1	Parji	22_ear	k e k o l	duru1236	pci	1247	EAR	ear-A	
+1481	Parji-23_earth-1	Parji	23_earth	t uː k	duru1236	pci	1228	EARTH (SOIL)	earth-B	
+1482	Parji-24_eat-1	Parji	24_eat	t i n	duru1236	pci	1336	EAT	eat-A	
+1483	Parji-26_eye-1	Parji	26_eye	k a n	duru1236	pci	1248	EYE	eye-A	
+1485	Parji-29_fire-1	Parji	29_fire	k i c	duru1236	pci	221	FIRE	fire-E	
+1486	Parji-30_fish-1	Parji	30_fish	k e y	duru1236	pci	227	FISH	fish-B	
+1487	Parji-34_give-1	Parji	34_give	c iː	duru1236	pci	1447	GIVE	give-C	
+1488	Parji-36_green-1	Parji	36_green	p a y	duru1236	pci	1425	GREEN	green-A	
+1489	Parji-38_hand-1	Parji	38_hand	k e y	duru1236	pci	1277	HAND	hand-A	
+1490	Parji-39_head-1	Parji	39_head	t e l	duru1236	pci	1256	HEAD	head-A	
+1491	Parji-3_ashes-1	Parji	3_ashes	n iː d	duru1236	pci	646	ASH	ashes-D	
+1492	Parji-40_hear-1	Parji	40_hear	v e n	duru1236	pci	1408	HEAR	hear-D	
+1494	Parji-46_leaf-1	Parji	46_leaf	e v	duru1236	pci	628	LEAF	leaf-C	
+1495	Parji-47_lie-1	Parji	47_lie	m a ɖ	duru1236	pci	1411	LIE (REST)	lie-C	
+1496	Parji-48_liver-1	Parji	48_liver	t a r u ŋ g	duru1236	pci	1224	LIVER	liver-C	
+1499	Parji-56_mouth-1	Parji	56_mouth	v aː y	duru1236	pci	674	MOUTH	mouth-A	
+1500	Parji-57_name-1	Parji	57_name	p i d i r	duru1236	pci	1405	NAME	name-A	
+1501	Parji-59_new-1	Parji	59_new	p u n	duru1236	pci	1231	NEW	new-C	
+1502	Parji-5_belly-1	Parji	5_belly	p o ʈː a	duru1236	pci	1251	BELLY	belly-B	
+1503	Parji-61_nose-1	Parji	61_nose	m u v ã ɖ	duru1236	pci	1221	NOSE	nose-A	
+1504	Parji-63_one-1	Parji	63_one	o k	duru1236	pci	1493	ONE	one-A	
+1506	Parji-66_red-1	Parji	66_red	k e y	duru1236	pci	156	RED	red-A	
+1507	Parji-67_road-1	Parji	67_road	p aː v	duru1236	pci	667	ROAD	road-C	
+1508	Parji-68_root-1	Parji	68_root	v aː r	duru1236	pci	670	ROOT	root-A	
+1509	Parji-6_big-1	Parji	6_big	b e r t o	duru1236	pci	1202	BIG	big-A	
+1510	Parji-70_sand-1	Parji	70_sand	m a n	duru1236	pci	671	SAND	sand-A	
+1511	Parji-71_say-1	Parji	71_say	e n	duru1236	pci	1458	SAY	say-E	
+1512	Parji-73_seed-1	Parji	73_seed	v i tː i d	duru1236	pci	714	SEED	seed-A	
+1514	Parji-76_sleep-1	Parji	76_sleep	m a ɖ	duru1236	pci	1585	SLEEP	sleep-D	
+1515	Parji-77_small-1	Parji	77_small	c i n	duru1236	pci	1246	SMALL	small-C	
+1516	Parji-79_stand-1	Parji	79_stand	n i l p	duru1236	pci	1442	STAND	stand-A	
+1517	Parji-80_star-1	Parji	80_star	c u kː a	duru1236	pci	1430	STAR	star-D	
+1518	Parji-81_stone-1	Parji	81_stone	k e l	duru1236	pci	857	STONE	stone-A	
+1519	Parji-84_tail-1	Parji	84_tail	t oː k a	duru1236	pci	1220	TAIL	tail-B	
+1520	Parji-85_that-1	Parji	85_that	aː	duru1236	pci	78	THAT	that-A	
+1521	Parji-86_this-1	Parji	86_this	iː	duru1236	pci	1214	THIS	this-A	
+1522	Parji-87_thou-1	Parji	87_thou	iː n	duru1236	pci	1215	THOU	thou-A	
+1523	Parji-88_tongue-1	Parji	88_tongue	n e v ã ɖ	duru1236	pci	1205	TONGUE	tongue-A	
+1524	Parji-89_tooth-1	Parji	89_tooth	p e l	duru1236	pci	1380	TOOTH	tooth-A	
+1525	Parji-8_bite-1	Parji	8_bite	k o r k	duru1236	pci	1403	BITE	bite-D	
+1526	Parji-90_tree-1	Parji	90_tree	m e r i	duru1236	pci	906	TREE	tree-A	
+1527	Parji-91_two-1	Parji	91_two	i r	duru1236	pci	1498	TWO	two-A	
+1528	Parji-94_water-1	Parji	94_water	n iː r	duru1236	pci	948	WATER	water-E	
+1529	Parji-95_we-1	Parji	95_we	aː m	duru1236	pci	1212	WE	we-B	
+1530	Parji-96_what-1	Parji	96_what	n aː t o	duru1236	pci	1236	WHAT	what-A	
+1531	Parji-97_white-1	Parji	97_white	v i l	duru1236	pci	1335	WHITE	white-A	
+1532	Parji-98_who-1	Parji	98_who	e d	duru1236	pci	1235	WHO	who-A	
+1533	Tamil-100_yellow-1	Tamil	100_yellow	m a n dʒ a ɭ	tami1289	tam	1424	YELLOW	yellow-A	
+1534	Tamil-10_blood-1	Tamil	10_blood	ɾ a tː a m	tami1289	tam	946	BLOOD	blood-A	
+1535	Tamil-11_bone-1	Tamil	11_bone	e l u m b ə	tami1289	tam	1394	BONE	bone-A	
+1540	Tamil-15_cloud-1	Tamil	15_cloud	m eː g a m	tami1289	tam	1489	CLOUD	cloud-A	
+1542	Tamil-17_come-1	Tamil	17_come	ʋ aː	tami1289	tam	1446	COME	come-A	
+1543	Tamil-18_die-1	Tamil	18_die	tʃ aː	tami1289	tam	1494	DIE	die-A	
+1544	Tamil-18_die-2	Tamil	18_die	s a tː ə + p o	tami1289	tam	1494	DIE	die-A	
+1545	Tamil-19_dog-1	Tamil	19_dog	n aː j i	tami1289	tam	2009	DOG	dog-A	
+1546	Tamil-1_i-1	Tamil	1_i	n aː n	tami1289	tam	1209	I	I-B	
+1547	Tamil-20_drink-1	Tamil	20_drink	k u ɖ i	tami1289	tam	1401	DRINK	drink-A	
+1548	Tamil-21_dry-1	Tamil	21_dry	u l a r n t a	tami1289	tam	1398	DRY	dry-A	
+1549	Tamil-21_dry-2	Tamil	21_dry	k a i n d a d ə	tami1289	tam	1398	DRY	dry-D	
+1550	Tamil-21_dry-3	Tamil	21_dry	k aː n dʒ ə	tami1289	tam	1398	DRY	dry-D	
+1551	Tamil-22_ear-1	Tamil	22_ear	k aː d ə	tami1289	tam	1247	EAR	ear-B	
+1552	Tamil-23_earth-1	Tamil	23_earth	m a nː ə	tami1289	tam	1228	EARTH (SOIL)	earth-A	
+1553	Tamil-24_eat-1	Tamil	24_eat	s aː p ə d ə	tami1289	tam	1336	EAT	eat-B	
+1554	Tamil-25_egg-1	Tamil	25_egg	m u ʈː e	tami1289	tam	744	EGG	egg-A	
+1555	Tamil-26_eye-1	Tamil	26_eye	k a ɳ ɳ ə	tami1289	tam	1248	EYE	eye-A	
+1557	Tamil-28_feather-1	Tamil	28_feather	ɾ e kː e	tami1289	tam	1201	FEATHER	feather-A	
+1558	Tamil-29_fire-1	Tamil	29_fire	n e r u pː u	tami1289	tam	221	FIRE	fire-A	
+1559	Tamil-29_fire-2	Tamil	29_fire	t eː	tami1289	tam	221	FIRE	fire-B	
+1560	Tamil-2_all-1	Tamil	2_all	e lː aː m	tami1289	tam	98	ALL	all-A	
+1561	Tamil-30_fish-1	Tamil	30_fish	m iː n ə	tami1289	tam	227	FISH	fish-A	
+1562	Tamil-31_fly-1	Tamil	31_fly	p a ɾ ə	tami1289	tam	1441	FLY (MOVE THROUGH AIR)	fly-A	
+1563	Tamil-32_foot-1	Tamil	32_foot	a ɖ i	tami1289	tam	1301	FOOT	foot-A	
+1564	Tamil-32_foot-2	Tamil	32_foot	p aː d a m	tami1289	tam	1301	FOOT	foot-B	
+1565	Tamil-32_foot-3	Tamil	32_foot	k a a l ə	tami1289	tam	1301	FOOT	foot-C	
+1568	Tamil-34_give-1	Tamil	34_give	k u ɖ ə	tami1289	tam	1447	GIVE	give-A	
+1569	Tamil-34_give-2	Tamil	34_give	t aː	tami1289	tam	1447	GIVE	give-B	
+1570	Tamil-35_good-1	Tamil	35_good	n a lː a	tami1289	tam	1035	GOOD	good-A	
+1571	Tamil-36_green-1	Tamil	36_green	p a tʃː ə	tami1289	tam	1425	GREEN	green-A	
+1574	Tamil-38_hand-1	Tamil	38_hand	k a j	tami1289	tam	1277	HAND	hand-A	
+1575	Tamil-39_head-1	Tamil	39_head	t a l ə	tami1289	tam	1256	HEAD	head-A	
+1576	Tamil-3_ashes-1	Tamil	3_ashes	s aː m b a l	tami1289	tam	646	ASH	ashes-A	
+1577	Tamil-40_hear-1	Tamil	40_hear	k eː ɭ ə	tami1289	tam	1408	HEAR	hear-A	
+1578	Tamil-41_heart-1	Tamil	41_heart	i d a j a m	tami1289	tam	1223	HEART	heart-A	
+1580	Tamil-43_kill-1	Tamil	43_kill	k o lː ə	tami1289	tam	1417	KILL	kill-A	
+1587	Tamil-46_leaf-1	Tamil	46_leaf	e l e	tami1289	tam	628	LEAF	leaf-A	
+1588	Tamil-47_lie-1	Tamil	47_lie	k e ɖ ə	tami1289	tam	1411	LIE (REST)	lie-A	
+1589	Tamil-47_lie-2	Tamil	47_lie	p a ɖ ə	tami1289	tam	1411	LIE (REST)	lie-I	
+1590	Tamil-48_liver-1	Tamil	48_liver	iː ɾ a ɭ	tami1289	tam	1224	LIVER	liver-A	
+1591	Tamil-49_long-1	Tamil	49_long	n iː ɳ ʈ a	tami1289	tam	1203	LONG	long-A	
+1592	Tamil-49_long-2	Tamil	49_long	n iː ɭ a m	tami1289	tam	1203	LONG	long-A	
+1593	Tamil-49_long-3	Tamil	49_long	n iː ɭ a m aː n a	tami1289	tam	1203	LONG	long-A	
+1594	Tamil-4_bark-1	Tamil	4_bark	p a ʈː e	tami1289	tam	1204	BARK	bark-A	
+1599	Tamil-52_many-1	Tamil	52_many	p a l ə	tami1289	tam	1198	MANY	many-A	
+1600	Tamil-52_many-2	Tamil	52_many	n e ɾ i j a	tami1289	tam	1198	MANY	many-H	
+1605	Tamil-55_mountain-1	Tamil	55_mountain	m a l a i	tami1289	tam	639	MOUNTAIN	mountain-D	
+1606	Tamil-56_mouth-1	Tamil	56_mouth	ʋ aː j i	tami1289	tam	674	MOUTH	mouth-A	
+1607	Tamil-56_mouth-2	Tamil	56_mouth	ʋ aː	tami1289	tam	674	MOUTH	mouth-A	
+1608	Tamil-57_name-1	Tamil	57_name	p eː ɾ ə	tami1289	tam	1405	NAME	name-A	
+1609	Tamil-58_neck-1	Tamil	58_neck	k a ɭ u tː ə	tami1289	tam	1333	NECK	neck-A	
+1610	Tamil-59_new-1	Tamil	59_new	p u d u s ə	tami1289	tam	1231	NEW	new-C	
+1611	Tamil-59_new-2	Tamil	59_new	p u d u	tami1289	tam	1231	NEW	new-C	
+1612	Tamil-5_belly-1	Tamil	5_belly	v a y i r̪ u	tami1289	tam	1251	BELLY	belly-A	
+1613	Tamil-5_belly-2	Tamil	5_belly	t o n t i	tami1289	tam	1251	BELLY	belly-E	
+1614	Tamil-5_belly-3	Tamil	5_belly	t o pː a i	tami1289	tam	1251	BELLY	belly-F	
+1615	Tamil-60_night-1	Tamil	60_night	i ɾ aː ʋ ə	tami1289	tam	1233	NIGHT	night-A	
+1616	Tamil-60_night-2	Tamil	60_night	ɾ aː ʋ ə	tami1289	tam	1233	NIGHT	night-A	
+1617	Tamil-60_night-3	Tamil	60_night	ɾ aː t ɾ i	tami1289	tam	1233	NIGHT	night-B	
+1618	Tamil-61_nose-1	Tamil	61_nose	m uː k ə	tami1289	tam	1221	NOSE	nose-A	
+1619	Tamil-62_not-1	Tamil	62_not	i lː e	tami1289	tam	1240	NOT	not-A	
+1620	Tamil-63_one-1	Tamil	63_one	o nː ə	tami1289	tam	1493	ONE	one-A	
+1621	Tamil-64_person-1	Tamil	64_person	m a n̪ i t a n̪	tami1289	tam	683	PERSON	person-A	
+1622	Tamil-64_person-2	Tamil	64_person	m a n u ʂ a n	tami1289	tam	683	PERSON	person-A	
+1624	Tamil-66_red-1	Tamil	66_red	c e + m	tami1289	tam	156	RED	red-A	
+1625	Tamil-66_red-2	Tamil	66_red	s e ʋ a pː ə	tami1289	tam	156	RED	red-A	
+1626	Tamil-66_red-3	Tamil	66_red	s e g a pː ə	tami1289	tam	156	RED	red-A	
+1627	Tamil-67_road-1	Tamil	67_road	v a l̪ i	tami1289	tam	667	ROAD	road-A	
+1628	Tamil-68_root-1	Tamil	68_root	ʋ eː ɾ ə	tami1289	tam	670	ROOT	root-A	
+1631	Tamil-6_big-1	Tamil	6_big	p e ɾ i j a	tami1289	tam	1202	BIG	big-A	
+1632	Tamil-6_big-2	Tamil	6_big	p e r ə s ə	tami1289	tam	1202	BIG	big-A	
+1633	Tamil-70_sand-1	Tamil	70_sand	m a ɳ a l	tami1289	tam	671	SAND	sand-A	
+1634	Tamil-71_say-1	Tamil	71_say	tʃ o lː ə	tami1289	tam	1458	SAY	say-A	
+1635	Tamil-71_say-2	Tamil	71_say	s o lː ə	tami1289	tam	1458	SAY	say-A	
+1636	Tamil-72_see-1	Tamil	72_see	k aː ɳ	tami1289	tam	1409	SEE	see-A	
+1637	Tamil-72_see-2	Tamil	72_see	p aː ɾ ə	tami1289	tam	1409	SEE	see-F	
+1638	Tamil-73_seed-1	Tamil	73_seed	ʋ e d ə	tami1289	tam	714	SEED	seed-A	
+1639	Tamil-74_sit-1	Tamil	74_sit	u kː aː ɾ ə	tami1289	tam	1416	SIT	sit-A	
+1641	Tamil-76_sleep-1	Tamil	76_sleep	u r̪ a ŋ k u	tami1289	tam	1585	SLEEP	sleep-A	
+1642	Tamil-76_sleep-2	Tamil	76_sleep	t uː n g ə	tami1289	tam	1585	SLEEP	sleep-F	
+1643	Tamil-77_small-1	Tamil	77_small	c i r̪ i y a	tami1289	tam	1246	SMALL	small-A	
+1644	Tamil-77_small-2	Tamil	77_small	tʃ i nː a	tami1289	tam	1246	SMALL	small-C	
+1645	Tamil-78_smoke-1	Tamil	78_smoke	p u k a i	tami1289	tam	778	SMOKE (EXHAUST)	smoke-A	
+1646	Tamil-78_smoke-2	Tamil	78_smoke	p u g a i	tami1289	tam	778	SMOKE (EXHAUST)	smoke-A	
+1647	Tamil-79_stand-1	Tamil	79_stand	n i l	tami1289	tam	1442	STAND	stand-A	
+1648	Tamil-7_bird-1	Tamil	7_bird	p a ɾ a ʋ a i	tami1289	tam	937	BIRD	bird-A	
+1649	Tamil-80_star-1	Tamil	80_star	m iː n̪	tami1289	tam	1430	STAR	star-A	
+1650	Tamil-80_star-2	Tamil	80_star	n a tʃː a t i ɾ a m	tami1289	tam	1430	STAR	star-C	
+1651	Tamil-81_stone-1	Tamil	81_stone	k a lː ə	tami1289	tam	857	STONE	stone-A	
+1652	Tamil-82_sun-1	Tamil	82_sun	s uː ɾ j a n	tami1289	tam	1343	SUN	sun-A	
+1653	Tamil-83_swim-1	Tamil	83_swim	n e e n t ə	tami1289	tam	1439	SWIM	swim-A	
+1654	Tamil-84_tail-1	Tamil	84_tail	ʋ aː l ə	tami1289	tam	1220	TAIL	tail-A	
+1655	Tamil-85_that-1	Tamil	85_that	a n t a	tami1289	tam	78	THAT	that-A	
+1656	Tamil-85_that-2	Tamil	85_that	a dʱ ə	tami1289	tam	78	THAT	that-A	
+1657	Tamil-86_this-1	Tamil	86_this	i n t a	tami1289	tam	1214	THIS	this-A	
+1658	Tamil-86_this-2	Tamil	86_this	i dʱ ə	tami1289	tam	1214	THIS	this-A	
+1659	Tamil-87_thou-1	Tamil	87_thou	n i	tami1289	tam	1215	THOU	thou-A	
+1660	Tamil-88_tongue-1	Tamil	88_tongue	n aː kː ə	tami1289	tam	1205	TONGUE	tongue-A	
+1661	Tamil-89_tooth-1	Tamil	89_tooth	p a lː ə	tami1289	tam	1380	TOOTH	tooth-A	
+1662	Tamil-8_bite-1	Tamil	8_bite	k a ɖ i	tami1289	tam	1403	BITE	bite-A	
+1663	Tamil-90_tree-1	Tamil	90_tree	m a ɾ a m	tami1289	tam	906	TREE	tree-A	
+1664	Tamil-91_two-1	Tamil	91_two	ɾ e n ɖ ə	tami1289	tam	1498	TWO	two-A	
+1665	Tamil-92_walk-1	Tamil	92_walk	n a ɖ ə	tami1289	tam	1443	WALK	walk-A	
+1668	Tamil-94_water-1	Tamil	94_water	t a ɳ ɳ i	tami1289	tam	948	WATER	water-A	
+1669	Tamil-94_water-2	Tamil	94_water	n iː ɾ ə	tami1289	tam	948	WATER	water-E	
+1670	Tamil-95_we-1	Tamil	95_we	n aː m	tami1289	tam	1212	WE	we-A	
+1671	Tamil-95_we-2	Tamil	95_we	n aː n g a	tami1289	tam	1212	WE	we-B	
+1672	Tamil-96_what-1	Tamil	96_what	e nː e	tami1289	tam	1236	WHAT	what-A	
+1673	Tamil-97_white-1	Tamil	97_white	v e ɭː ə	tami1289	tam	1335	WHITE	white-A	
+1674	Tamil-98_who-1	Tamil	98_who	j a a r ə	tami1289	tam	1235	WHO	who-A	
+1675	Tamil-99_woman-1	Tamil	99_woman	p e ɳ	tami1289	tam	962	WOMAN	woman-A	
+1676	Tamil-99_woman-2	Tamil	99_woman	p o ɳ ɳ ə	tami1289	tam	962	WOMAN	woman-A	
+1677	Tamil-9_black-1	Tamil	9_black	k a ɾ ə pː ə	tami1289	tam	163	BLACK	black-A	
+1678	Telugu-100_yellow-1	Telugu	100_yellow	p a s u p u	telu1262	tel	1424	YELLOW	yellow-C	
+1679	Telugu-10_blood-1	Telugu	10_blood	ɾ a k t a m u	telu1262	tel	946	BLOOD	blood-A	
+1680	Telugu-10_blood-2	Telugu	10_blood	n e tː u ɾ u	telu1262	tel	946	BLOOD	blood-B	
+1681	Telugu-11_bone-1	Telugu	11_bone	j e m u k a	telu1262	tel	1394	BONE	bone-A	
+1682	Telugu-11_bone-2	Telugu	11_bone	b o kː a	telu1262	tel	1394	BONE	bone-B	
+1688	Telugu-15_cloud-1	Telugu	15_cloud	m eː gʱ a m u	telu1262	tel	1489	CLOUD	cloud-A	
+1689	Telugu-15_cloud-2	Telugu	15_cloud	m a bː u	telu1262	tel	1489	CLOUD	cloud-C	
+1690	Telugu-15_cloud-3	Telugu	15_cloud	m oː ɖ a m u	telu1262	tel	1489	CLOUD	cloud-D	
+1692	Telugu-17_come-1	Telugu	17_come	ʋ a tʃː u	telu1262	tel	1446	COME	come-A	
+1693	Telugu-17_come-2	Telugu	17_come	ɾ a	telu1262	tel	1446	COME	come-A	
+1694	Telugu-18_die-1	Telugu	18_die	tʃ a tʃː i p oː ʋ u	telu1262	tel	1494	DIE	die-A	
+1695	Telugu-19_dog-1	Telugu	19_dog	k u kː a	telu1262	tel	2009	DOG	dog-B	
+1696	Telugu-1_i-1	Telugu	1_i	n eː n u	telu1262	tel	1209	I	I-B	
+1697	Telugu-20_drink-1	Telugu	20_drink	t aː g u	telu1262	tel	1401	DRINK	drink-B	
+1698	Telugu-21_dry-1	Telugu	21_dry	e ɳ ɖ u	telu1262	tel	1398	DRY	dry-C	
+1699	Telugu-21_dry-2	Telugu	21_dry	p o ɖ i	telu1262	tel	1398	DRY	dry-G	
+1700	Telugu-22_ear-1	Telugu	22_ear	tʃ e ʋ i	telu1262	tel	1247	EAR	ear-A	
+1701	Telugu-23_earth-1	Telugu	23_earth	m a nː u	telu1262	tel	1228	EARTH (SOIL)	earth-A	
+1702	Telugu-23_earth-2	Telugu	23_earth	m a ʈː i	telu1262	tel	1228	EARTH (SOIL)	earth-E	
+1703	Telugu-24_eat-1	Telugu	24_eat	t i n u	telu1262	tel	1336	EAT	eat-A	
+1704	Telugu-25_egg-1	Telugu	25_egg	g u ɖː u	telu1262	tel	744	EGG	egg-B	
+1705	Telugu-26_eye-1	Telugu	26_eye	k a nː u	telu1262	tel	1248	EYE	eye-A	
+1708	Telugu-28_feather-1	Telugu	28_feather	iː k a	telu1262	tel	1201	FEATHER	feather-D	
+1709	Telugu-29_fire-1	Telugu	29_fire	n i pː u	telu1262	tel	221	FIRE	fire-A	
+1710	Telugu-29_fire-2	Telugu	29_fire	m a ɳ ʈ a	telu1262	tel	221	FIRE	fire-D	
+1711	Telugu-29_fire-3	Telugu	29_fire	a gː i	telu1262	tel	221	FIRE	fire-F	
+1712	Telugu-2_all-1	Telugu	2_all	a n t a	telu1262	tel	98	ALL	all-B	
+1713	Telugu-2_all-2	Telugu	2_all	m o tː a m u	telu1262	tel	98	ALL	all-C	
+1714	Telugu-2_all-3	Telugu	2_all	a nː i	telu1262	tel	98	ALL	all-E	
+1715	Telugu-30_fish-1	Telugu	30_fish	tʃ eː p a	telu1262	tel	227	FISH	fish-B	
+1716	Telugu-31_fly-1	Telugu	31_fly	e g u ɾ u	telu1262	tel	1441	FLY (MOVE THROUGH AIR)	fly-B	
+1717	Telugu-32_foot-1	Telugu	32_foot	a ɖ u g u	telu1262	tel	1301	FOOT	foot-A	
+1718	Telugu-32_foot-2	Telugu	32_foot	p aː d a m u	telu1262	tel	1301	FOOT	foot-B	
+1720	Telugu-34_give-1	Telugu	34_give	i tʃː u	telu1262	tel	1447	GIVE	give-C	
+1721	Telugu-34_give-2	Telugu	34_give	i ʋː a ɖ a m	telu1262	tel	1447	GIVE	give-C	
+1722	Telugu-35_good-1	Telugu	35_good	m a n tʃ i	telu1262	tel	1035	GOOD	good-C	
+1723	Telugu-36_green-1	Telugu	36_green	p a tʃː a	telu1262	tel	1425	GREEN	green-A	
+1726	Telugu-38_hand-1	Telugu	38_hand	tʃ e j j i	telu1262	tel	1277	HAND	hand-A	
+1727	Telugu-39_head-1	Telugu	39_head	t a l a	telu1262	tel	1256	HEAD	head-A	
+1728	Telugu-3_ashes-1	Telugu	3_ashes	b uː ɖ i d a	telu1262	tel	646	ASH	ashes-B	
+1729	Telugu-40_hear-1	Telugu	40_hear	ʋ i n u	telu1262	tel	1408	HEAR	hear-D	
+1730	Telugu-41_heart-1	Telugu	41_heart	h ɾ u d a j a m u	telu1262	tel	1223	HEART	heart-A	
+1731	Telugu-41_heart-2	Telugu	41_heart	g u ɳ ɖ a	telu1262	tel	1223	HEART	heart-B	
+1733	Telugu-43_kill-1	Telugu	43_kill	tʃ a m p u	telu1262	tel	1417	KILL	kill-B	
+1738	Telugu-46_leaf-1	Telugu	46_leaf	aː k u	telu1262	tel	628	LEAF	leaf-B	
+1739	Telugu-47_lie-1	Telugu	47_lie	p a ɖ u k o n u	telu1262	tel	1411	LIE (REST)	lie-G	
+1740	Telugu-48_liver-1	Telugu	48_liver	k aː l e j a m u	telu1262	tel	1224	LIVER	liver-B	
+1741	Telugu-49_long-1	Telugu	49_long	p o ɖ a ʋ u	telu1262	tel	1203	LONG	long-C	
+1742	Telugu-4_bark-1	Telugu	4_bark	p a ʈː a	telu1262	tel	1204	BARK	bark-A	
+1743	Telugu-4_bark-2	Telugu	4_bark	b e ɾ a ɖ u	telu1262	tel	1204	BARK	bark-D	
+1747	Telugu-52_many-1	Telugu	52_many	n aː n aː	telu1262	tel	1198	MANY	many-B	
+1748	Telugu-52_many-2	Telugu	52_many	tʃ aː l a	telu1262	tel	1198	MANY	many-D	
+1751	Telugu-55_mountain-1	Telugu	55_mountain	k o n ɖ a	telu1262	tel	639	MOUNTAIN	mountain-C	
+1752	Telugu-55_mountain-2	Telugu	55_mountain	p a ɾ ʋ a t a m u	telu1262	tel	639	MOUNTAIN	mountain-F	
+1753	Telugu-56_mouth-1	Telugu	56_mouth	n oː ɾ u	telu1262	tel	674	MOUTH	mouth-B	
+1754	Telugu-57_name-1	Telugu	57_name	p eː ɾ u	telu1262	tel	1405	NAME	name-A	
+1755	Telugu-58_neck-1	Telugu	58_neck	m e ɖ a	telu1262	tel	1333	NECK	neck-B	
+1756	Telugu-59_new-1	Telugu	59_new	k o tː a	telu1262	tel	1231	NEW	new-B	
+1757	Telugu-5_belly-1	Telugu	5_belly	p o ʈː a	telu1262	tel	1251	BELLY	belly-B	
+1758	Telugu-5_belly-2	Telugu	5_belly	k a ɖ u p u	telu1262	tel	1251	BELLY	belly-C	
+1759	Telugu-60_night-1	Telugu	60_night	ɾ aː t ɾ i	telu1262	tel	1233	NIGHT	night-B	
+1760	Telugu-61_nose-1	Telugu	61_nose	m u kː u	telu1262	tel	1221	NOSE	nose-A	
+1761	Telugu-62_not-1	Telugu	62_not	l eː d u	telu1262	tel	1240	NOT	not-A	
+1762	Telugu-62_not-2	Telugu	62_not	k aː d u	telu1262	tel	1240	NOT	not-B	
+1763	Telugu-63_one-1	Telugu	63_one	o k a ʈ i	telu1262	tel	1493	ONE	one-A	
+1764	Telugu-64_person-1	Telugu	64_person	m a n i ʂ i	telu1262	tel	683	PERSON	person-A	
+1767	Telugu-66_red-1	Telugu	66_red	e ɾ u p u	telu1262	tel	156	RED	red-B	
+1768	Telugu-67_road-1	Telugu	67_road	m aː ɾ g a m u	telu1262	tel	667	ROAD	road-B	
+1769	Telugu-67_road-2	Telugu	67_road	d aː ɾ i	telu1262	tel	667	ROAD	road-D	
+1770	Telugu-67_road-3	Telugu	67_road	b aː ʈ a	telu1262	tel	667	ROAD	road-E	
+1771	Telugu-68_root-1	Telugu	68_root	ʋ eː ɾ u	telu1262	tel	670	ROOT	root-A	
+1773	Telugu-6_big-1	Telugu	6_big	p e d d a	telu1262	tel	1202	BIG	big-A	
+1774	Telugu-70_sand-1	Telugu	70_sand	i s u k a	telu1262	tel	671	SAND	sand-B	
+1775	Telugu-71_say-1	Telugu	71_say	tʃ e pː u	telu1262	tel	1458	SAY	say-D	
+1776	Telugu-72_see-1	Telugu	72_see	tʃ uː ɖ u	telu1262	tel	1409	SEE	see-C	
+1777	Telugu-73_seed-1	Telugu	73_seed	ʋ i tː a n a m	telu1262	tel	714	SEED	seed-A	
+1778	Telugu-73_seed-2	Telugu	73_seed	b iː dʒ a m	telu1262	tel	714	SEED	seed-A	
+1779	Telugu-73_seed-3	Telugu	73_seed	g i n dʒ a	telu1262	tel	714	SEED	seed-B	
+1780	Telugu-74_sit-1	Telugu	74_sit	k uː ɾ tʃ o	telu1262	tel	1416	SIT	sit-D	
+1783	Telugu-76_sleep-1	Telugu	76_sleep	n i d ɾ a p o ʋ u	telu1262	tel	1585	SLEEP	sleep-C	
+1784	Telugu-77_small-1	Telugu	77_small	tʃ i nː a	telu1262	tel	1246	SMALL	small-C	
+1785	Telugu-78_smoke-1	Telugu	78_smoke	p o g a	telu1262	tel	778	SMOKE (EXHAUST)	smoke-A	
+1786	Telugu-79_stand-1	Telugu	79_stand	n i l tʃ o n u	telu1262	tel	1442	STAND	stand-A	
+1787	Telugu-79_stand-2	Telugu	79_stand	n i l a b a ɖ u	telu1262	tel	1442	STAND	stand-A	
+1788	Telugu-7_bird-1	Telugu	7_bird	p a k ʂ i	telu1262	tel	937	BIRD	bird-B	
+1789	Telugu-7_bird-2	Telugu	7_bird	p i tː a	telu1262	tel	937	BIRD	bird-C	
+1790	Telugu-80_star-1	Telugu	80_star	n a k ʂ a t ɾ a m u	telu1262	tel	1430	STAR	star-C	
+1791	Telugu-80_star-2	Telugu	80_star	tʃ u kː a	telu1262	tel	1430	STAR	star-D	
+1792	Telugu-81_stone-1	Telugu	81_stone	ɾ aː j i	telu1262	tel	857	STONE	stone-B	
+1793	Telugu-82_sun-1	Telugu	82_sun	s uː ɾ j u ɖ u	telu1262	tel	1343	SUN	sun-A	
+1794	Telugu-82_sun-2	Telugu	82_sun	p o d d u	telu1262	tel	1343	SUN	sun-B	
+1795	Telugu-83_swim-1	Telugu	83_swim	iː d u	telu1262	tel	1439	SWIM	swim-A	
+1796	Telugu-84_tail-1	Telugu	84_tail	v aː l a m u	telu1262	tel	1220	TAIL	tail-A	
+1797	Telugu-84_tail-2	Telugu	84_tail	t oː k a	telu1262	tel	1220	TAIL	tail-B	
+1798	Telugu-85_that-1	Telugu	85_that	aː	telu1262	tel	78	THAT	that-A	
+1799	Telugu-85_that-2	Telugu	85_that	a d i	telu1262	tel	78	THAT	that-A	
+1800	Telugu-86_this-1	Telugu	86_this	iː	telu1262	tel	1214	THIS	this-A	
+1801	Telugu-86_this-2	Telugu	86_this	i d i	telu1262	tel	1214	THIS	this-A	
+1802	Telugu-87_thou-1	Telugu	87_thou	n iː ʋ u	telu1262	tel	1215	THOU	thou-A	
+1803	Telugu-87_thou-2	Telugu	87_thou	n u ʋː u	telu1262	tel	1215	THOU	thou-A	
+1804	Telugu-88_tongue-1	Telugu	88_tongue	n aː l u k a	telu1262	tel	1205	TONGUE	tongue-A	
+1805	Telugu-89_tooth-1	Telugu	89_tooth	p a nː u	telu1262	tel	1380	TOOTH	tooth-A	
+1806	Telugu-8_bite-1	Telugu	8_bite	k o ɾ u k u	telu1262	tel	1403	BITE	bite-D	
+1807	Telugu-90_tree-1	Telugu	90_tree	tʃ e ʈː u	telu1262	tel	906	TREE	tree-B	
+1808	Telugu-91_two-1	Telugu	91_two	ɾ e ɳ ɖ u	telu1262	tel	1498	TWO	two-A	
+1809	Telugu-92_walk-1	Telugu	92_walk	n a ɖ u tʃ u	telu1262	tel	1443	WALK	walk-A	
+1811	Telugu-94_water-1	Telugu	94_water	n iː ɾ u	telu1262	tel	948	WATER	water-E	
+1812	Telugu-94_water-2	Telugu	94_water	n iː ɭː u	telu1262	tel	948	WATER	water-E	
+1813	Telugu-95_we-1	Telugu	95_we	m a n a m u	telu1262	tel	1212	WE	we-A	
+1814	Telugu-95_we-2	Telugu	95_we	m eː m u	telu1262	tel	1212	WE	we-B	
+1815	Telugu-96_what-1	Telugu	96_what	eː m i	telu1262	tel	1236	WHAT	what-A	
+1816	Telugu-96_what-2	Telugu	96_what	eː ɳ ʈ i	telu1262	tel	1236	WHAT	what-A	
+1817	Telugu-96_what-3	Telugu	96_what	eː m i ʈ i	telu1262	tel	1236	WHAT	what-A	
+1818	Telugu-97_white-1	Telugu	97_white	v e lː a	telu1262	tel	1335	WHITE	white-A	
+1819	Telugu-97_white-2	Telugu	97_white	t e l u p u	telu1262	tel	1335	WHITE	white-B	
+1820	Telugu-98_who-1	Telugu	98_who	e v a r u	telu1262	tel	1235	WHO	who-A	
+1821	Telugu-99_woman-1	Telugu	99_woman	s t ɾ iː	telu1262	tel	962	WOMAN	woman-B	
+1822	Telugu-99_woman-2	Telugu	99_woman	aː ɖ a d i	telu1262	tel	962	WOMAN	woman-D	
+1823	Telugu-99_woman-3	Telugu	99_woman	m a h i ɭ a	telu1262	tel	962	WOMAN	woman-H	
+1824	Telugu-9_black-1	Telugu	9_black	n a l u p u	telu1262	tel	163	BLACK	black-B	
+1825	Telugu-9_black-2	Telugu	9_black	n a lː a	telu1262	tel	163	BLACK	black-B	
+1826	Toda-100_yellow-1	Toda	100_yellow	a ɾ dʒ i n	toda1252	tcx	1424	YELLOW	yellow-D	
+1827	Toda-10_blood-1	Toda	10_blood	p oː kʰ ə	toda1252	tcx	946	BLOOD	blood-E	
+1828	Toda-11_bone-1	Toda	11_bone	e l f	toda1252	tcx	1394	BONE	bone-A	
+1832	Toda-15_cloud-1	Toda	15_cloud	m eː g a m	toda1252	tcx	1489	CLOUD	cloud-A	
+1834	Toda-17_come-1	Toda	17_come	p aː ɾ t i	toda1252	tcx	1446	COME	come-A	
+1835	Toda-18_die-1	Toda	18_die	k e ɖ u o i s i	toda1252	tcx	1494	DIE	die-D	
+1836	Toda-19_dog-1	Toda	19_dog	n o i	toda1252	tcx	2009	DOG	dog-A	
+1837	Toda-1_i-1	Toda	1_i	oː n	toda1252	tcx	1209	I	I-B	
+1838	Toda-20_drink-1	Toda	20_drink	u ʈː u d i	toda1252	tcx	1401	DRINK	drink-C	
+1839	Toda-21_dry-1	Toda	21_dry	o ɳ i k i s i	toda1252	tcx	1398	DRY	dry-F	
+1840	Toda-22_ear-1	Toda	22_ear	k i l i	toda1252	tcx	1247	EAR	ear-A	
+1841	Toda-23_earth-1	Toda	23_earth	k o ɖ ə	toda1252	tcx	1228	EARTH (SOIL)	earth-D	
+1842	Toda-24_eat-1	Toda	24_eat	t o ɾ t i n	toda1252	tcx	1336	EAT	eat-E	
+1843	Toda-25_egg-1	Toda	25_egg	m u ʈː e	toda1252	tcx	744	EGG	egg-A	
+1844	Toda-26_eye-1	Toda	26_eye	k a ɳ	toda1252	tcx	1248	EYE	eye-A	
+1846	Toda-28_feather-1	Toda	28_feather	i ɾ a kː e	toda1252	tcx	1201	FEATHER	feather-A	
+1847	Toda-29_fire-1	Toda	29_fire	t iː tː ə	toda1252	tcx	221	FIRE	fire-E	
+1848	Toda-2_all-1	Toda	2_all	o ʋː o ɖ i m o	toda1252	tcx	98	ALL	all-D	
+1849	Toda-30_fish-1	Toda	30_fish	m iː n	toda1252	tcx	227	FISH	fish-A	
+1850	Toda-31_fly-1	Toda	31_fly	p oː ɾ tʃ	toda1252	tcx	1441	FLY (MOVE THROUGH AIR)	fly-A	
+1851	Toda-32_foot-1	Toda	32_foot	k oː l	toda1252	tcx	1301	FOOT	foot-C	
+1853	Toda-34_give-1	Toda	34_give	i tː ʃ a d t a	toda1252	tcx	1447	GIVE	give-C	
+1854	Toda-35_good-1	Toda	35_good	u l t i	toda1252	tcx	1035	GOOD	good-E	
+1855	Toda-36_green-1	Toda	36_green	p a tʃː a i	toda1252	tcx	1425	GREEN	green-A	
+1857	Toda-38_hand-1	Toda	38_hand	k o i	toda1252	tcx	1277	HAND	hand-A	
+1858	Toda-39_head-1	Toda	39_head	m a ʈː ə	toda1252	tcx	1256	HEAD	head-B	
+1859	Toda-3_ashes-1	Toda	3_ashes	p uː d i	toda1252	tcx	646	ASH	ashes-B	
+1860	Toda-40_hear-1	Toda	40_hear	k eː l	toda1252	tcx	1408	HEAR	hear-A	
+1861	Toda-41_heart-1	Toda	41_heart	m a n a s ə	toda1252	tcx	1223	HEART	heart-D	
+1863	Toda-43_kill-1	Toda	43_kill	k e ɖ u k i s t i	toda1252	tcx	1417	KILL	kill-C	
+1866	Toda-46_leaf-1	Toda	46_leaf	e ɾ s	toda1252	tcx	628	LEAF	leaf-A	
+1867	Toda-47_lie-1	Toda	47_lie	p o a ʈ tʃ iː	toda1252	tcx	1411	LIE (REST)	lie-F	
+1868	Toda-47_lie-2	Toda	47_lie	p o kː u m	toda1252	tcx	1411	LIE (REST)	lie-H	
+1869	Toda-48_liver-1	Toda	48_liver	k u ɖ aː l	toda1252	tcx	1224	LIVER	liver-D	
+1870	Toda-49_long-1	Toda	49_long	n e ɾ t i	toda1252	tcx	1203	LONG	long-D	
+1871	Toda-4_bark-1	Toda	4_bark	p u ʈ k o ɾ i	toda1252	tcx	1204	BARK	bark-H	
+1874	Toda-52_many-1	Toda	52_many	u pː uː m	toda1252	tcx	1198	MANY	many-I	
+1877	Toda-55_mountain-1	Toda	55_mountain	t i ʈː ə	toda1252	tcx	639	MOUNTAIN	mountain-G	
+1878	Toda-56_mouth-1	Toda	56_mouth	p oː i	toda1252	tcx	674	MOUTH	mouth-A	
+1879	Toda-57_name-1	Toda	57_name	p eː ɾ	toda1252	tcx	1405	NAME	name-A	
+1880	Toda-58_neck-1	Toda	58_neck	m a ɾ	toda1252	tcx	1333	NECK	neck-B	
+1881	Toda-59_new-1	Toda	59_new	p u d uː n	toda1252	tcx	1231	NEW	new-C	
+1882	Toda-5_belly-1	Toda	5_belly	p i ɾ	toda1252	tcx	1251	BELLY	belly-A	
+1883	Toda-60_night-1	Toda	60_night	e kː aː ɖ ə	toda1252	tcx	1233	NIGHT	night-H	
+1884	Toda-61_nose-1	Toda	61_nose	m i tː uː p	toda1252	tcx	1221	NOSE	nose-C	
+1885	Toda-62_not-1	Toda	62_not	aː ɖ u d i	toda1252	tcx	1240	NOT	not-E	
+1886	Toda-63_one-1	Toda	63_one	u tː ə	toda1252	tcx	1493	ONE	one-B	
+1887	Toda-64_person-1	Toda	64_person	k i nː uː ɖ ə	toda1252	tcx	683	PERSON	person-C	
+1889	Toda-66_red-1	Toda	66_red	k e pː ə	toda1252	tcx	156	RED	red-A	
+1890	Toda-67_road-1	Toda	67_road	aː l a ɾ	toda1252	tcx	667	ROAD	road-G	
+1891	Toda-68_root-1	Toda	68_root	ʋ e ɾ	toda1252	tcx	670	ROOT	root-A	
+1893	Toda-6_big-1	Toda	6_big	i tː uː ɖ ə	toda1252	tcx	1202	BIG	big-E	
+1894	Toda-70_sand-1	Toda	70_sand	m a n a l	toda1252	tcx	671	SAND	sand-A	
+1895	Toda-71_say-1	Toda	71_say	aː ʋ a ɖ ə	toda1252	tcx	1458	SAY	say-I	
+1896	Toda-72_see-1	Toda	72_see	n uː ʈ	toda1252	tcx	1409	SEE	see-B	
+1897	Toda-73_seed-1	Toda	73_seed	p i tː ə	toda1252	tcx	714	SEED	seed-A	
+1898	Toda-74_sit-1	Toda	74_sit	e ɾ a kː a ɾ	toda1252	tcx	1416	SIT	sit-B	
+1900	Toda-76_sleep-1	Toda	76_sleep	o ɾ kʰ ə	toda1252	tcx	1585	SLEEP	sleep-A	
+1901	Toda-77_small-1	Toda	77_small	k eː ɾ uː ɖ ə	toda1252	tcx	1246	SMALL	small-F	
+1902	Toda-78_smoke-1	Toda	78_smoke	p u k u ɖ t i	toda1252	tcx	778	SMOKE (EXHAUST)	smoke-A	
+1903	Toda-79_stand-1	Toda	79_stand	m u kː a ɖ u ɾ i l	toda1252	tcx	1442	STAND	stand-E	
+1904	Toda-7_bird-1	Toda	7_bird	p a ɾ a ʋ a i	toda1252	tcx	937	BIRD	bird-A	
+1905	Toda-80_star-1	Toda	80_star	n a ʈ tʃ a t i ɾ a m	toda1252	tcx	1430	STAR	star-C	
+1906	Toda-81_stone-1	Toda	81_stone	k a ɾ s	toda1252	tcx	857	STONE	stone-A	
+1907	Toda-82_sun-1	Toda	82_sun	s uː ɾ i j a n	toda1252	tcx	1343	SUN	sun-A	
+1908	Toda-83_swim-1	Toda	83_swim	n iː tʃ a l	toda1252	tcx	1439	SWIM	swim-A	
+1909	Toda-84_tail-1	Toda	84_tail	p oː ɾ s a m	toda1252	tcx	1220	TAIL	tail-A	
+1910	Toda-85_that-1	Toda	85_that	a d ə	toda1252	tcx	78	THAT	that-A	
+1911	Toda-86_this-1	Toda	86_this	i d ə	toda1252	tcx	1214	THIS	this-A	
+1912	Toda-87_thou-1	Toda	87_thou	n i	toda1252	tcx	1215	THOU	thou-A	
+1913	Toda-88_tongue-1	Toda	88_tongue	n oː f	toda1252	tcx	1205	TONGUE	tongue-A	
+1914	Toda-89_tooth-1	Toda	89_tooth	p a ɾ s e	toda1252	tcx	1380	TOOTH	tooth-A	
+1915	Toda-8_bite-1	Toda	8_bite	p a ɾ tʃ i ʈ tʃ i	toda1252	tcx	1403	BITE	bite-B	
+1916	Toda-90_tree-1	Toda	90_tree	m eː n	toda1252	tcx	906	TREE	tree-A	
+1917	Toda-91_two-1	Toda	91_two	eː ɖ ə	toda1252	tcx	1498	TWO	two-A	
+1918	Toda-92_walk-1	Toda	92_walk	n a ɖ a ɾ ɾ ə	toda1252	tcx	1443	WALK	walk-A	
+1919	Toda-92_walk-2	Toda	92_walk	n a ɖ a n d ə	toda1252	tcx	1443	WALK	walk-A	
+1921	Toda-94_water-1	Toda	94_water	n iː ɾ	toda1252	tcx	948	WATER	water-E	
+1922	Toda-95_we-1	Toda	95_we	oː m	toda1252	tcx	1212	WE	we-B	
+1923	Toda-96_what-1	Toda	96_what	i nː o	toda1252	tcx	1236	WHAT	what-A	
+1924	Toda-97_white-1	Toda	97_white	p e l t i	toda1252	tcx	1335	WHITE	white-A	
+1925	Toda-98_who-1	Toda	98_who	o ɾ i	toda1252	tcx	1235	WHO	who-A	
+1926	Toda-99_woman-1	Toda	99_woman	t u s m oː g ə	toda1252	tcx	962	WOMAN	woman-E	
+1927	Toda-9_black-1	Toda	9_black	k a pː ə	toda1252	tcx	163	BLACK	black-A	
+1928	Tulu-100_yellow-1	Tulu	100_yellow	m a n dʒ a l u	tulu1258	tcy	1424	YELLOW	yellow-A	
+1929	Tulu-10_blood-1	Tulu	10_blood	n e tː a r ə	tulu1258	tcy	946	BLOOD	blood-B	
+1930	Tulu-11_bone-1	Tulu	11_bone	e lː ə	tulu1258	tcy	1394	BONE	bone-A	
+1934	Tulu-15_cloud-1	Tulu	15_cloud	m oː ɖ a	tulu1258	tcy	1489	CLOUD	cloud-D	
+1936	Tulu-17_come-1	Tulu	17_come	b a ɾ a ɾ a	tulu1258	tcy	1446	COME	come-A	
+1937	Tulu-18_die-1	Tulu	18_die	s a j j a ɾ a	tulu1258	tcy	1494	DIE	die-A	
+1938	Tulu-19_dog-1	Tulu	19_dog	n aː j i	tulu1258	tcy	2009	DOG	dog-A	
+1939	Tulu-1_i-1	Tulu	1_i	j aː n u	tulu1258	tcy	1209	I	I-B	
+1940	Tulu-20_drink-1	Tulu	20_drink	p a ɾ i j a ɾ a	tulu1258	tcy	1401	DRINK	drink-D	
+1941	Tulu-21_dry-1	Tulu	21_dry	n u n g u d u n a	tulu1258	tcy	1398	DRY	dry-F	
+1942	Tulu-22_ear-1	Tulu	22_ear	k e b i	tulu1258	tcy	1247	EAR	ear-A	
+1943	Tulu-23_earth-1	Tulu	23_earth	m a nː ə	tulu1258	tcy	1228	EARTH (SOIL)	earth-A	
+1944	Tulu-24_eat-1	Tulu	24_eat	u ɳ aː ɾ a	tulu1258	tcy	1336	EAT	eat-C	
+1945	Tulu-25_egg-1	Tulu	25_egg	k e tː i	tulu1258	tcy	744	EGG	egg-C	
+1946	Tulu-26_eye-1	Tulu	26_eye	k a ɳ ɳ u	tulu1258	tcy	1248	EYE	eye-A	
+1948	Tulu-28_feather-1	Tulu	28_feather	h u ʋ i	tulu1258	tcy	1201	FEATHER	feather-G	
+1949	Tulu-29_fire-1	Tulu	29_fire	t u ʋ u	tulu1258	tcy	221	FIRE	fire-G	
+1950	Tulu-2_all-1	Tulu	2_all	m aː t a	tulu1258	tcy	98	ALL	all-G	
+1951	Tulu-30_fish-1	Tulu	30_fish	m iː n ə	tulu1258	tcy	227	FISH	fish-A	
+1952	Tulu-31_fly-1	Tulu	31_fly	ɾ aː p a ɾ a	tulu1258	tcy	1441	FLY (MOVE THROUGH AIR)	fly-A	
+1953	Tulu-32_foot-1	Tulu	32_foot	k aː l ə	tulu1258	tcy	1301	FOOT	foot-C	
+1955	Tulu-34_give-1	Tulu	34_give	k o ɾ o	tulu1258	tcy	1447	GIVE	give-A	
+1956	Tulu-35_good-1	Tulu	35_good	e ɖː e d a n a	tulu1258	tcy	1035	GOOD	good-D	
+1957	Tulu-36_green-1	Tulu	36_green	p a tʃː e	tulu1258	tcy	1425	GREEN	green-A	
+1959	Tulu-38_hand-1	Tulu	38_hand	k a i	tulu1258	tcy	1277	HAND	hand-A	
+1960	Tulu-39_head-1	Tulu	39_head	m a n ɖ a	tulu1258	tcy	1256	HEAD	head-B	
+1961	Tulu-3_ashes-1	Tulu	3_ashes	tʃ uː n j a	tulu1258	tcy	646	ASH	ashes-C	
+1962	Tulu-3_ashes-2	Tulu	3_ashes	tʃ oː n j a	tulu1258	tcy	646	ASH	ashes-C	
+1963	Tulu-40_hear-1	Tulu	40_hear	k e ɳ a ɾ a	tulu1258	tcy	1408	HEAR	hear-A	
+1965	Tulu-43_kill-1	Tulu	43_kill	k e ɾ i j a ɾ a	tulu1258	tcy	1417	KILL	kill-C	
+1968	Tulu-46_leaf-1	Tulu	46_leaf	i ɾ a	tulu1258	tcy	628	LEAF	leaf-A	
+1969	Tulu-47_lie-1	Tulu	47_lie	b u ɾ oː n a ɾ a	tulu1258	tcy	1411	LIE (REST)	lie-I	
+1970	Tulu-49_long-1	Tulu	49_long	u d a	tulu1258	tcy	1203	LONG	long-B	
+1971	Tulu-4_bark-1	Tulu	4_bark	k e tː a	tulu1258	tcy	1204	BARK	bark-I	
+1974	Tulu-52_many-1	Tulu	52_many	b aː ɾ i	tulu1258	tcy	1198	MANY	many-J	
+1977	Tulu-55_mountain-1	Tulu	55_mountain	d aː ɾ i	tulu1258	tcy	639	MOUNTAIN	mountain-H	
+1978	Tulu-56_mouth-1	Tulu	56_mouth	b aː j i	tulu1258	tcy	674	MOUTH	mouth-A	
+1979	Tulu-57_name-1	Tulu	57_name	p u d a ɾ ə	tulu1258	tcy	1405	NAME	name-A	
+1980	Tulu-58_neck-1	Tulu	58_neck	k e kː i l ə	tulu1258	tcy	1333	NECK	neck-F	
+1981	Tulu-59_new-1	Tulu	59_new	p o s a tː a	tulu1258	tcy	1231	NEW	new-C	
+1982	Tulu-5_belly-1	Tulu	5_belly	b a n dʒ i	tulu1258	tcy	1251	BELLY	belly-A	
+1983	Tulu-60_night-1	Tulu	60_night	ɾ aː t ɾ e	tulu1258	tcy	1233	NIGHT	night-B	
+1984	Tulu-61_nose-1	Tulu	61_nose	m uː g u	tulu1258	tcy	1221	NOSE	nose-A	
+1985	Tulu-62_not-1	Tulu	62_not	aː t u	tulu1258	tcy	1240	NOT	not-E	
+1986	Tulu-63_one-1	Tulu	63_one	o n dʒ i	tulu1258	tcy	1493	ONE	one-A	
+1987	Tulu-64_person-1	Tulu	64_person	m a n u ʂ eː	tulu1258	tcy	683	PERSON	person-A	
+1989	Tulu-66_red-1	Tulu	66_red	k e m p u	tulu1258	tcy	156	RED	red-A	
+1990	Tulu-67_road-1	Tulu	67_road	p a ɾ v a t a	tulu1258	tcy	667	ROAD	road-H	
+1991	Tulu-68_root-1	Tulu	68_root	b eː ɾ u	tulu1258	tcy	670	ROOT	root-A	
+1993	Tulu-6_big-1	Tulu	6_big	m a lː a	tulu1258	tcy	1202	BIG	big-D	
+1994	Tulu-70_sand-1	Tulu	70_sand	p o j j a	tulu1258	tcy	671	SAND	sand-C	
+1995	Tulu-71_say-1	Tulu	71_say	p a ɳ a ɾ a	tulu1258	tcy	1458	SAY	say-J	
+1996	Tulu-72_see-1	Tulu	72_see	t u ʋ aː ɾ a	tulu1258	tcy	1409	SEE	see-G	
+1997	Tulu-73_seed-1	Tulu	73_seed	b iː dʒ a	tulu1258	tcy	714	SEED	seed-A	
+1998	Tulu-74_sit-1	Tulu	74_sit	k u lː a ɾ a	tulu1258	tcy	1416	SIT	sit-C	
+2000	Tulu-76_sleep-1	Tulu	76_sleep	dʒ i pː a ɾ a	tulu1258	tcy	1585	SLEEP	sleep-H	
+2001	Tulu-77_small-1	Tulu	77_small	k i ɲ a	tulu1258	tcy	1246	SMALL	small-C	
+2002	Tulu-78_smoke-1	Tulu	78_smoke	p o g a	tulu1258	tcy	778	SMOKE (EXHAUST)	smoke-A	
+2003	Tulu-79_stand-1	Tulu	79_stand	u n t a ɾ a	tulu1258	tcy	1442	STAND	stand-F	
+2004	Tulu-7_bird-1	Tulu	7_bird	p a kː i	tulu1258	tcy	937	BIRD	bird-B	
+2005	Tulu-80_star-1	Tulu	80_star	n a k ʂ a t ɾ e	tulu1258	tcy	1430	STAR	star-C	
+2006	Tulu-81_stone-1	Tulu	81_stone	k a lː u	tulu1258	tcy	857	STONE	stone-A	
+2007	Tulu-82_sun-1	Tulu	82_sun	s uː ɾ j e	tulu1258	tcy	1343	SUN	sun-A	
+2008	Tulu-83_swim-1	Tulu	83_swim	m iː n d a ɾ a	tulu1258	tcy	1439	SWIM	swim-E	
+2009	Tulu-84_tail-1	Tulu	84_tail	b iː l a	tulu1258	tcy	1220	TAIL	tail-D	
+2010	Tulu-85_that-1	Tulu	85_that	a ʋ u	tulu1258	tcy	78	THAT	that-A	
+2011	Tulu-86_this-1	Tulu	86_this	u n d u	tulu1258	tcy	1214	THIS	this-B	
+2012	Tulu-87_thou-1	Tulu	87_thou	i	tulu1258	tcy	1215	THOU	thou-A	
+2013	Tulu-88_tongue-1	Tulu	88_tongue	n aː l aː j i	tulu1258	tcy	1205	TONGUE	tongue-A	
+2014	Tulu-89_tooth-1	Tulu	89_tooth	k uː l i	tulu1258	tcy	1380	TOOTH	tooth-B	
+2015	Tulu-8_bite-1	Tulu	8_bite	t i n aː ɾ a	tulu1258	tcy	1403	BITE	bite-G	
+2016	Tulu-90_tree-1	Tulu	90_tree	m a ɾ a	tulu1258	tcy	906	TREE	tree-A	
+2017	Tulu-91_two-1	Tulu	91_two	ɾ a ɖː u	tulu1258	tcy	1498	TWO	two-A	
+2018	Tulu-92_walk-1	Tulu	92_walk	n a ɖ a p a ɾ a	tulu1258	tcy	1443	WALK	walk-A	
+2020	Tulu-94_water-1	Tulu	94_water	n iː ɾ ə	tulu1258	tcy	948	WATER	water-E	
+2021	Tulu-95_we-1	Tulu	95_we	j a n k u l u	tulu1258	tcy	1212	WE	we-B	
+2022	Tulu-96_what-1	Tulu	96_what	e n tʃ i n a	tulu1258	tcy	1236	WHAT	what-A	
+2023	Tulu-97_white-1	Tulu	97_white	b o l d u	tulu1258	tcy	1335	WHITE	white-A	
+2024	Tulu-98_who-1	Tulu	98_who	j eː ɾ u	tulu1258	tcy	1235	WHO	who-A	
+2025	Tulu-99_woman-1	Tulu	99_woman	p o n dʒ a	tulu1258	tcy	962	WOMAN	woman-A	
+2026	Tulu-9_black-1	Tulu	9_black	k a pː u	tulu1258	tcy	163	BLACK	black-A	
+2027	Yeruva-100_yellow-1	Yeruva	100_yellow	m a n dʒ e	ravu1237	yea	1424	YELLOW	yellow-A	
+2028	Yeruva-10_blood-1	Yeruva	10_blood	tʃ oː ɾ e	ravu1237	yea	946	BLOOD	blood-D	
+2029	Yeruva-11_bone-1	Yeruva	11_bone	m uː ɭ e	ravu1237	yea	1394	BONE	bone-D	
+2033	Yeruva-15_cloud-1	Yeruva	15_cloud	m oː ɖ a	ravu1237	yea	1489	CLOUD	cloud-D	
+2035	Yeruva-17_come-1	Yeruva	17_come	b aː	ravu1237	yea	1446	COME	come-A	
+2036	Yeruva-18_die-1	Yeruva	18_die	tʃ aː ɭ a	ravu1237	yea	1494	DIE	die-A	
+2037	Yeruva-19_dog-1	Yeruva	19_dog	n aː j i	ravu1237	yea	2009	DOG	dog-A	
+2038	Yeruva-1_i-1	Yeruva	1_i	n aː n	ravu1237	yea	1209	I	I-B	
+2039	Yeruva-20_drink-1	Yeruva	20_drink	k u ɖ i p ə	ravu1237	yea	1401	DRINK	drink-A	
+2040	Yeruva-21_dry-1	Yeruva	21_dry	u n a k u	ravu1237	yea	1398	DRY	dry-B	
+2041	Yeruva-22_ear-1	Yeruva	22_ear	k e m i	ravu1237	yea	1247	EAR	ear-A	
+2042	Yeruva-24_eat-1	Yeruva	24_eat	t i nː oː	ravu1237	yea	1336	EAT	eat-A	
+2043	Yeruva-25_egg-1	Yeruva	25_egg	m u ʈː e	ravu1237	yea	744	EGG	egg-A	
+2044	Yeruva-26_eye-1	Yeruva	26_eye	k a ɳ ɳ ə	ravu1237	yea	1248	EYE	eye-A	
+2046	Yeruva-28_feather-1	Yeruva	28_feather	t oː p ə ʈ aː	ravu1237	yea	1201	FEATHER	feather-E	
+2047	Yeruva-29_fire-1	Yeruva	29_fire	t iː	ravu1237	yea	221	FIRE	fire-B	
+2048	Yeruva-2_all-1	Yeruva	2_all	n a n g aː ɭ ə	ravu1237	yea	98	ALL	all-F	
+2049	Yeruva-30_fish-1	Yeruva	30_fish	m iː n ə	ravu1237	yea	227	FISH	fish-A	
+2050	Yeruva-31_fly-1	Yeruva	31_fly	m a nː ə	ravu1237	yea	1441	FLY (MOVE THROUGH AIR)	fly-D	
+2051	Yeruva-32_foot-1	Yeruva	32_foot	k aː l ə	ravu1237	yea	1301	FOOT	foot-C	
+2053	Yeruva-34_give-1	Yeruva	34_give	k o ɖ u	ravu1237	yea	1447	GIVE	give-A	
+2054	Yeruva-35_good-1	Yeruva	35_good	n a lː ə	ravu1237	yea	1035	GOOD	good-A	
+2055	Yeruva-36_green-1	Yeruva	36_green	p a tʃː e	ravu1237	yea	1425	GREEN	green-A	
+2057	Yeruva-38_hand-1	Yeruva	38_hand	k a j	ravu1237	yea	1277	HAND	hand-A	
+2058	Yeruva-39_head-1	Yeruva	39_head	t i l e	ravu1237	yea	1256	HEAD	head-A	
+2059	Yeruva-3_ashes-1	Yeruva	3_ashes	b uː d i	ravu1237	yea	646	ASH	ashes-B	
+2060	Yeruva-40_hear-1	Yeruva	40_hear	k eː ɭ u	ravu1237	yea	1408	HEAR	hear-A	
+2061	Yeruva-41_heart-1	Yeruva	41_heart	n e n dʒ i	ravu1237	yea	1223	HEART	heart-C	
+2063	Yeruva-43_kill-1	Yeruva	43_kill	k o lː ə	ravu1237	yea	1417	KILL	kill-A	
+2066	Yeruva-46_leaf-1	Yeruva	46_leaf	e l e	ravu1237	yea	628	LEAF	leaf-A	
+2067	Yeruva-47_lie-1	Yeruva	47_lie	b iː n d o	ravu1237	yea	1411	LIE (REST)	lie-I	
+2068	Yeruva-48_liver-1	Yeruva	48_liver	t o m b e	ravu1237	yea	1224	LIVER	liver-E	
+2069	Yeruva-49_long-1	Yeruva	49_long	n iː ʈ a	ravu1237	yea	1203	LONG	long-A	
+2070	Yeruva-4_bark-1	Yeruva	4_bark	t oː l u	ravu1237	yea	1204	BARK	bark-J	
+2073	Yeruva-52_many-1	Yeruva	52_many	t u m b a	ravu1237	yea	1198	MANY	many-C	
+2076	Yeruva-55_mountain-1	Yeruva	55_mountain	k u n d ə	ravu1237	yea	639	MOUNTAIN	mountain-C	
+2077	Yeruva-56_mouth-1	Yeruva	56_mouth	b aː j i	ravu1237	yea	674	MOUTH	mouth-A	
+2078	Yeruva-57_name-1	Yeruva	57_name	p eː ɾ u	ravu1237	yea	1405	NAME	name-A	
+2079	Yeruva-58_neck-1	Yeruva	58_neck	b oː ɭ e	ravu1237	yea	1333	NECK	neck-E	
+2080	Yeruva-59_new-1	Yeruva	59_new	p u d i j a i	ravu1237	yea	1231	NEW	new-C	
+2081	Yeruva-5_belly-1	Yeruva	5_belly	b a i ɾ u	ravu1237	yea	1251	BELLY	belly-A	
+2082	Yeruva-5_belly-2	Yeruva	5_belly	b aː ɾ ə	ravu1237	yea	1251	BELLY	belly-A	
+2083	Yeruva-60_night-1	Yeruva	60_night	a n d i	ravu1237	yea	1233	NIGHT	night-F	
+2084	Yeruva-61_nose-1	Yeruva	61_nose	m uː kː ə	ravu1237	yea	1221	NOSE	nose-A	
+2085	Yeruva-62_not-1	Yeruva	62_not	i lː e	ravu1237	yea	1240	NOT	not-A	
+2086	Yeruva-63_one-1	Yeruva	63_one	o n dʒ u	ravu1237	yea	1493	ONE	one-A	
+2087	Yeruva-64_person-1	Yeruva	64_person	m a n u tʃ e	ravu1237	yea	683	PERSON	person-A	
+2089	Yeruva-66_red-1	Yeruva	66_red	tʃ oː p ə	ravu1237	yea	156	RED	red-A	
+2090	Yeruva-67_road-1	Yeruva	67_road	r a s t e	ravu1237	yea	667	ROAD	road-F	
+2091	Yeruva-68_root-1	Yeruva	68_root	b eː ɾ ə	ravu1237	yea	670	ROOT	root-A	
+2093	Yeruva-6_big-1	Yeruva	6_big	b a l e j i	ravu1237	yea	1202	BIG	big-B	
+2094	Yeruva-70_sand-1	Yeruva	70_sand	m a ɳ ə	ravu1237	yea	671	SAND	sand-A	
+2095	Yeruva-71_say-1	Yeruva	71_say	p a ɾ e	ravu1237	yea	1458	SAY	say-B	
+2096	Yeruva-72_see-1	Yeruva	72_see	n oː k u	ravu1237	yea	1409	SEE	see-B	
+2097	Yeruva-73_seed-1	Yeruva	73_seed	k u ɾ u	ravu1237	yea	714	SEED	seed-D	
+2098	Yeruva-74_sit-1	Yeruva	74_sit	i ɾ a i k u	ravu1237	yea	1416	SIT	sit-B	
+2100	Yeruva-76_sleep-1	Yeruva	76_sleep	o ɾ a	ravu1237	yea	1585	SLEEP	sleep-A	
+2101	Yeruva-77_small-1	Yeruva	77_small	tʃ e ɾ i j a	ravu1237	yea	1246	SMALL	small-A	
+2102	Yeruva-78_smoke-1	Yeruva	78_smoke	p o g e	ravu1237	yea	778	SMOKE (EXHAUST)	smoke-A	
+2103	Yeruva-79_stand-1	Yeruva	79_stand	n i n dʒ o	ravu1237	yea	1442	STAND	stand-A	
+2104	Yeruva-7_bird-1	Yeruva	7_bird	p a k tʃ i	ravu1237	yea	937	BIRD	bird-B	
+2105	Yeruva-80_star-1	Yeruva	80_star	n a tʃː a t i ɾ a	ravu1237	yea	1430	STAR	star-C	
+2106	Yeruva-81_stone-1	Yeruva	81_stone	k a lː u	ravu1237	yea	857	STONE	stone-A	
+2107	Yeruva-82_sun-1	Yeruva	82_sun	tʃ uː r j a	ravu1237	yea	1343	SUN	sun-A	
+2108	Yeruva-83_swim-1	Yeruva	83_swim	m a ɳ a	ravu1237	yea	1439	SWIM	swim-D	
+2109	Yeruva-84_tail-1	Yeruva	84_tail	b aː l u	ravu1237	yea	1220	TAIL	tail-A	
+2110	Yeruva-85_that-1	Yeruva	85_that	a ʋ eː	ravu1237	yea	78	THAT	that-A	
+2111	Yeruva-86_this-1	Yeruva	86_this	i ʋ eː	ravu1237	yea	1214	THIS	this-A	
+2112	Yeruva-87_thou-1	Yeruva	87_thou	n i	ravu1237	yea	1215	THOU	thou-A	
+2113	Yeruva-88_tongue-1	Yeruva	88_tongue	n aː ʋ u	ravu1237	yea	1205	TONGUE	tongue-A	
+2114	Yeruva-89_tooth-1	Yeruva	89_tooth	p a lː u	ravu1237	yea	1380	TOOTH	tooth-A	
+2115	Yeruva-8_bite-1	Yeruva	8_bite	k a ɖ i	ravu1237	yea	1403	BITE	bite-A	
+2116	Yeruva-90_tree-1	Yeruva	90_tree	m a ɾ a	ravu1237	yea	906	TREE	tree-A	
+2117	Yeruva-91_two-1	Yeruva	91_two	i ɾ a n d ə	ravu1237	yea	1498	TWO	two-A	
+2118	Yeruva-92_walk-1	Yeruva	92_walk	n a ɖ a	ravu1237	yea	1443	WALK	walk-A	
+2120	Yeruva-94_water-1	Yeruva	94_water	n iː ɾ u	ravu1237	yea	948	WATER	water-E	
+2121	Yeruva-95_we-1	Yeruva	95_we	n a n g a	ravu1237	yea	1212	WE	we-A	
+2122	Yeruva-96_what-1	Yeruva	96_what	e n t a i	ravu1237	yea	1236	WHAT	what-A	
+2123	Yeruva-97_white-1	Yeruva	97_white	b o l t a j i	ravu1237	yea	1335	WHITE	white-A	
+2124	Yeruva-98_who-1	Yeruva	98_who	j aː ɾ u	ravu1237	yea	1235	WHO	who-A	
+2125	Yeruva-99_woman-1	Yeruva	99_woman	p a n i tʃ i	ravu1237	yea	962	WOMAN	woman-J	
+2126	Yeruva-9_black-1	Yeruva	9_black	k a ɾ t a j i	ravu1237	yea	163	BLACK	black-A	

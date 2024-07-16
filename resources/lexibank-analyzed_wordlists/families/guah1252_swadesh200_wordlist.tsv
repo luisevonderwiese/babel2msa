@@ -1,0 +1,989 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+474	16625	hubercolumbian-Cuiba	cuib1242		at	1461	AT		tʰa	tʰ a
+483	16634	hubercolumbian-Guahibo	guah1255		at	1461	AT		ta	t a
+485	16636	hubercolumbian-Guayabero	guay1257		at	1461	AT		tat	t a t
+486	16637	hubercolumbian-Guayabero	guay1257		at	1461	AT		xot	x o t
+489	16640	hubercolumbian-Jitnu	maca1259		at	1461	AT		hót	h o t
+504	16655	hubercolumbian-Playero	play1240		at	1461	AT		ta	t a
+3801	19952	hubercolumbian-Cuiba	cuib1242		back	1291	BACK		péi̵ma	p e ɨ m a
+3802	19953	hubercolumbian-Cuiba	cuib1242		back	1291	BACK		pehúma	p e h u m a
+3812	19963	hubercolumbian-Guahibo	guah1255		back	1291	BACK		pihúma	p i h u m a
+3813	19964	hubercolumbian-Guahibo	guah1255		back	1291	BACK		pekoɸé:ɸere	p e k o ɸ eː ɸ e r e
+3815	19966	hubercolumbian-Guayabero	guay1257		back	1291	BACK		peh matwí̵aht	p e h + m a t w ɨ a h t
+3818	19969	hubercolumbian-Jitnu	maca1259		back	1291	BACK		hepʧí	h e p tʃ i
+3832	19983	hubercolumbian-Playero	play1240		back	1291	BACK		pehúma	p e h u m a
+4906	21057	hubercolumbian-Cuiba	cuib1242		bad	1292	BAD		ábe	a b e
+4916	21067	hubercolumbian-Guahibo	guah1255		bad	1292	BAD		abéhe	a b e h e
+4918	21069	hubercolumbian-Guayabero	guay1257		bad	1292	BAD		pabéh	p a b e h
+4921	21072	hubercolumbian-Jitnu	maca1259		bad	1292	BAD		abé	a b e
+4936	21087	hubercolumbian-Playero	play1240		bad	1292	BAD		abéhe	a b e h e
+8753	24904	hubercolumbian-Cuiba	cuib1242		bark	1204	BARK		petsebókoto	p e ts e b o k o t o
+8762	24913	hubercolumbian-Guahibo	guah1255		bark	1204	BARK		pebókoto	p e b o k o t o
+8764	24915	hubercolumbian-Guayabero	guay1257		bark	1204	BARK		pabókt	p a b o k t
+8765	24916	hubercolumbian-Guayabero	guay1257		bark	1204	BARK		nebókt	n e b o k t
+8768	24919	hubercolumbian-Jitnu	maca1259		bark	1204	BARK		bokát	b o k a t
+8783	24934	hubercolumbian-Playero	play1240		bark	1204	BARK		pebókoto	p e b o k o t o
+12889	29040	hubercolumbian-Cuiba	cuib1242		bealive	1422	BE ALIVE		ási̵	a s ɨ
+12899	29050	hubercolumbian-Guahibo	guah1255		bealive	1422	BE ALIVE		asái̵	a s a ɨ
+12901	29052	hubercolumbian-Guayabero	guay1257		bealive	1422	BE ALIVE		tatí̵al	t a t ɨ a l
+12904	29055	hubercolumbian-Jitnu	maca1259		bealive	1422	BE ALIVE		atsí̵	a ts ɨ
+12920	29071	hubercolumbian-Playero	play1240		bealive	1422	BE ALIVE		así̵	a s ɨ
+22723	38874	hubercolumbian-Cuiba	cuib1242		belly	1251	BELLY		pekotéri	p e k o t e r i
+22724	38875	hubercolumbian-Cuiba	cuib1242		belly	1251	BELLY		pekotsóro	p e k o ts o r o
+22725	38876	hubercolumbian-Cuiba	cuib1242		belly	1251	BELLY		pekotéri	p e k o t e r i
+22745	38896	hubercolumbian-Guahibo	guah1255		belly	1251	BELLY		pekótoto	p e k o t o t o
+22746	38897	hubercolumbian-Guahibo	guah1255		belly	1251	BELLY		pekotsóroto	p e k o ts o r o t o
+22747	38898	hubercolumbian-Guahibo	guah1255		belly	1251	BELLY		pekótoto	p e k o t o t o
+22750	38901	hubercolumbian-Guayabero	guay1257		belly	1251	BELLY		peh wéht	p e h + w e h t
+22751	38902	hubercolumbian-Guayabero	guay1257		belly	1251	BELLY		peh weht	p e h + w e h t
+22756	38907	hubercolumbian-Jitnu	maca1259		belly	1251	BELLY		pekuéter	p e k u e t e r
+22757	38908	hubercolumbian-Jitnu	maca1259		belly	1251	BELLY		pekuéter	p e k u e t e r
+22783	38934	hubercolumbian-Playero	play1240		belly	1251	BELLY		pekótsoro	p e k o ts o r o
+22784	38935	hubercolumbian-Playero	play1240		belly	1251	BELLY		pekótsoro	p e k o ts o r o
+27816	43967	hubercolumbian-Cuiba	cuib1242		big	1202	BIG		pínjo	p i n j o
+27817	43968	hubercolumbian-Cuiba	cuib1242		big	1202	BIG		pínwa	p i n w a
+27827	43978	hubercolumbian-Guahibo	guah1255		big	1202	BIG		ajáihawa	a j a i h a w a
+27828	43979	hubercolumbian-Guahibo	guah1255		big	1202	BIG		piníhihawa	p i n i h i h a w a
+27830	43981	hubercolumbian-Guayabero	guay1257		big	1202	BIG		pinhíxja	p i n h i x j a
+27833	43984	hubercolumbian-Jitnu	maca1259		big	1202	BIG		pekná	p e k n a
+27851	44002	hubercolumbian-Playero	play1240		big	1202	BIG		warabéwa	w a r a b e w a
+30213	46364	hubercolumbian-Cuiba	cuib1242		bird	937	BIRD		pejapupúnaein	p e j a p u p u n a e i n
+30222	46373	hubercolumbian-Guahibo	guah1255		bird	937	BIRD		baratsuíto	b a r a ts u i t o
+30224	46375	hubercolumbian-Guayabero	guay1257		bird	937	BIRD		mian	m i a n
+30227	46378	hubercolumbian-Jitnu	maca1259		bird	937	BIRD		uʔúto	u ʔ u t o
+30244	46395	hubercolumbian-Playero	play1240		bird	937	BIRD		boroʧíto	b o r o tʃ i t o
+32570	48721	hubercolumbian-Cuiba	cuib1242		bite	1403	BITE		síne	s i n e
+32580	48731	hubercolumbian-Guahibo	guah1255		bite	1403	BITE		sí:ne	s iː n e
+32582	48733	hubercolumbian-Guayabero	guay1257		bite	1403	BITE		líkal	l i k a l
+32585	48736	hubercolumbian-Jitnu	maca1259		bite	1403	BITE		nikát	n i k a t
+32598	48749	hubercolumbian-Playero	play1240		bite	1403	BITE		síni	s i n i
+35172	51323	hubercolumbian-Cuiba	cuib1242		black	163	BLACK		tsáebia	ts a e b i a
+35183	51334	hubercolumbian-Guahibo	guah1255		black	163	BLACK		tsáebia	ts a e b i a
+35185	51336	hubercolumbian-Guayabero	guay1257		black	163	BLACK		paɸói	p a ɸ o i
+35186	51337	hubercolumbian-Guayabero	guay1257		black	163	BLACK		paɸóijax	p a ɸ o i j a x
+35189	51340	hubercolumbian-Jitnu	maca1259		black	163	BLACK		tsebí	ts e b i
+35204	51355	hubercolumbian-Playero	play1240		black	163	BLACK		petsebíawa	p e ts e b i a w a
+38585	54736	hubercolumbian-Cuiba	cuib1242		blood	946	BLOOD		pehána	p e h a n a
+38595	54746	hubercolumbian-Guahibo	guah1255		blood	946	BLOOD		pehána	p e h a n a
+38596	54747	hubercolumbian-Guahibo	guah1255		blood	946	BLOOD		pihána	p i h a n a
+38598	54749	hubercolumbian-Guayabero	guay1257		blood	946	BLOOD		peh hal	p e h + h a l
+38601	54752	hubercolumbian-Jitnu	maca1259		blood	946	BLOOD		hána	h a n a
+38615	54766	hubercolumbian-Playero	play1240		blood	946	BLOOD		pehána	p e h a n a
+40787	56938	hubercolumbian-Cuiba	cuib1242		blowofwind	175	BLOW (OF WIND)		opʰúba	o pʰ u b a
+40797	56948	hubercolumbian-Guahibo	guah1255		blowofwind	175	BLOW (OF WIND)		uxúne	u x u n e
+40798	56949	hubercolumbian-Guahibo	guah1255		blowofwind	175	BLOW (OF WIND)		uxúba	u x u b a
+40799	56950	hubercolumbian-Guahibo	guah1255		blowofwind	175	BLOW (OF WIND)		uxúbapl	u x u b a p l
+40800	56951	hubercolumbian-Guahibo	guah1255		blowofwind	175	BLOW (OF WIND)		bu:bú:hai	b uː b uː h a i
+40802	56953	hubercolumbian-Guayabero	guay1257		blowofwind	175	BLOW (OF WIND)		ɸi̵	ɸ ɨ
+40803	56954	hubercolumbian-Guayabero	guay1257		blowofwind	175	BLOW (OF WIND)		ɸi̵l	ɸ ɨ l
+40806	56957	hubercolumbian-Jitnu	maca1259		blowofwind	175	BLOW (OF WIND)		papápeha	p a p a p e h a
+40807	56958	hubercolumbian-Jitnu	maca1259		blowofwind	175	BLOW (OF WIND)		pũpṹhẽ	p ũ p ũ h ẽ
+40829	56980	hubercolumbian-Playero	play1240		blowofwind	175	BLOW (OF WIND)		uɸude	u ɸ u d e
+43021	59172	hubercolumbian-Cuiba	cuib1242		blunt	379	BLUNT		awánóbi	a w a n o b i
+43032	59183	hubercolumbian-Guahibo	guah1255		blunt	379	BLUNT		awónobi	a w o n o b i
+43033	59184	hubercolumbian-Guayabero	guay1257		blunt	379	BLUNT		bóel	b o e l
+43034	59185	hubercolumbian-Guayabero	guay1257		blunt	379	BLUNT		bóʔel	b o ʔ e l
+43037	59188	hubercolumbian-Jitnu	maca1259		blunt	379	BLUNT		bi̵rahí	b ɨ r a h i
+43049	59200	hubercolumbian-Playero	play1240		blunt	379	BLUNT		awánabi	a w a n a b i
+46814	62965	hubercolumbian-Cuiba	cuib1242		bone	1394	BONE		píwa	p i w a
+46826	62977	hubercolumbian-Guahibo	guah1255		bone	1394	BONE		pesí:to	p e s iː t o
+46828	62979	hubercolumbian-Guayabero	guay1257		bone	1394	BONE		peh tit	p e h + t i t
+46831	62982	hubercolumbian-Jitnu	maca1259		bone	1394	BONE		peʧít	p e tʃ i t
+46846	62997	hubercolumbian-Playero	play1240		bone	1394	BONE		pepíhibo	p e p i h i b o
+83587	99740	hubercolumbian-Cuiba	cuib1242		childyounghuman	1304	CHILD (YOUNG HUMAN)		pexújo	p e x u j o
+83600	99753	hubercolumbian-Guahibo	guah1255		childyounghuman	1304	CHILD (YOUNG HUMAN)		tsikirihíwijo:	ts i k i r i h i w i j oː
+83601	99754	hubercolumbian-Guahibo	guah1255		childyounghuman	1304	CHILD (YOUNG HUMAN)		pehéwaxi:	p e h e w a x iː
+83603	99756	hubercolumbian-Guayabero	guay1257		childyounghuman	1304	CHILD (YOUNG HUMAN)		jimxí̵ʧ	j i m x ɨ tʃ
+83606	99759	hubercolumbian-Jitnu	maca1259		childyounghuman	1304	CHILD (YOUNG HUMAN)		sútio	s u t i o
+83624	99777	hubercolumbian-Playero	play1240		childyounghuman	1304	CHILD (YOUNG HUMAN)		pihitánjo	p i h i t a n j o
+91523	107676	hubercolumbian-Cuiba	cuib1242		cloud	1489	CLOUD		tsakinaebówa	ts a k i n a e b o w a
+91532	107685	hubercolumbian-Guahibo	guah1255		cloud	1489	CLOUD		itarí̵ri̵bo	i t a r ɨ r ɨ b o
+91534	107687	hubercolumbian-Guayabero	guay1257		cloud	1489	CLOUD		ʔitlóhen	ʔ i t l o h e n
+91537	107690	hubercolumbian-Jitnu	maca1259		cloud	1489	CLOUD		mĩ̵́tẽ	m ɨ̃ t ẽ
+91552	107705	hubercolumbian-Playero	play1240		cloud	1489	CLOUD		pahubówa bã́ja dúka	p a h u b o w a + b ã j a + d u k a
+91553	107706	hubercolumbian-Playero	play1240		cloud	1489	CLOUD		pitari̵bobówa	p i t a r ɨ b o b o w a
+98754	114907	hubercolumbian-Cuiba	cuib1242		come	1446	COME		páta	p a t a
+98755	114908	hubercolumbian-Cuiba	cuib1242		come	1446	COME		wérena	w e r e n a
+98766	114919	hubercolumbian-Guahibo	guah1255		come	1446	COME		páta	p a t a
+98767	114920	hubercolumbian-Guahibo	guah1255		come	1446	COME		patahó:pa	p a t a h oː p a
+98768	114921	hubercolumbian-Guahibo	guah1255		come	1446	COME		nahetáruka	n a h e t a r u k a
+98770	114923	hubercolumbian-Guayabero	guay1257		come	1446	COME		ɸaláen	ɸ a l a e n
+98773	114926	hubercolumbian-Jitnu	maca1259		come	1446	COME		nít	n i t
+98788	114941	hubercolumbian-Playero	play1240		come	1446	COME		táhi̵ weponárina	t a h ɨ + w e p o n a r i n a
+104837	120990	hubercolumbian-Cuiba	cuib1242		correctright	1725	CORRECT (RIGHT)		béta	b e t a
+104838	120991	hubercolumbian-Cuiba	cuib1242		correctright	1725	CORRECT (RIGHT)		xáinjei	x a i n j e i
+104846	120999	hubercolumbian-Guahibo	guah1255		correctright	1725	CORRECT (RIGHT)		xaníahai	x a n i a h a i
+104848	121001	hubercolumbian-Guayabero	guay1257		correctright	1725	CORRECT (RIGHT)		dieʧpáʔ	d i e tʃ p a ʔ
+104853	121006	hubercolumbian-Jitnu	maca1259		correctright	1725	CORRECT (RIGHT)		wí̵ne	w ɨ n e
+115061	131214	hubercolumbian-Cuiba	cuib1242		cut	1432	CUT		tʰába	tʰ a b a
+115072	131225	hubercolumbian-Guahibo	guah1255		cut	1432	CUT		ukúta	u k u t a
+115073	131226	hubercolumbian-Guahibo	guah1255		cut	1432	CUT		nikáta	n i k a t a
+115074	131227	hubercolumbian-Guahibo	guah1255		cut	1432	CUT		kaxiúta	k a x i u t a
+115075	131228	hubercolumbian-Guahibo	guah1255		cut	1432	CUT		thá:ba	t h aː b a
+115077	131230	hubercolumbian-Guayabero	guay1257		cut	1432	CUT		tasíapa	t a s i a p a
+115080	131233	hubercolumbian-Jitnu	maca1259		cut	1432	CUT		ukápet	u k a p e t
+115104	131257	hubercolumbian-Playero	play1240		cut	1432	CUT		ukubabáne	u k u b a b a n e
+115105	131258	hubercolumbian-Playero	play1240		cut	1432	CUT		ukúta	u k u t a
+115106	131259	hubercolumbian-Playero	play1240		cut	1432	CUT		kahí̵aka	k a h ɨ a k a
+121702	137857	hubercolumbian-Cuiba	cuib1242		daynotnight	1225	DAY (NOT NIGHT)		mátakabi	m a t a k a b i
+121711	137866	hubercolumbian-Guahibo	guah1255		daynotnight	1225	DAY (NOT NIGHT)		mátakabi	m a t a k a b i
+121713	137868	hubercolumbian-Guayabero	guay1257		daynotnight	1225	DAY (NOT NIGHT)		matkói	m a t k o i
+121716	137871	hubercolumbian-Jitnu	maca1259		daynotnight	1225	DAY (NOT NIGHT)		matkái	m a t k a i
+121732	137887	hubercolumbian-Playero	play1240		daynotnight	1225	DAY (NOT NIGHT)		matakábi	m a t a k a b i
+126965	143120	hubercolumbian-Cuiba	cuib1242		die	1494	DIE		tí̵pa	t ɨ p a
+126976	143131	hubercolumbian-Guahibo	guah1255		die	1494	DIE		tí̵:pa	t ɨː p a
+126978	143133	hubercolumbian-Guayabero	guay1257		die	1494	DIE		ti̵p	t ɨ p
+126981	143136	hubercolumbian-Jitnu	maca1259		die	1494	DIE		ti̵p	t ɨ p
+126998	143153	hubercolumbian-Playero	play1240		die	1494	DIE		tí̵pa	t ɨ p a
+129623	145778	hubercolumbian-Cuiba	cuib1242		dig	1418	DIG		kuá	k u a
+129633	145788	hubercolumbian-Guahibo	guah1255		dig	1418	DIG		kua	k u a
+129635	145790	hubercolumbian-Guayabero	guay1257		dig	1418	DIG		kow	k o w
+129638	145793	hubercolumbian-Jitnu	maca1259		dig	1418	DIG		ukuá	u k u a
+129653	145808	hubercolumbian-Playero	play1240		dig	1418	DIG		áʧa kahúka	a tʃ a + k a h u k a
+129654	145809	hubercolumbian-Playero	play1240		dig	1418	DIG		áʧa kúane	a tʃ a + k u a n e
+131622	147777	hubercolumbian-Cuiba	cuib1242		dirty	1230	DIRTY		tsórei	ts o r e i
+131623	147778	hubercolumbian-Cuiba	cuib1242		dirty	1230	DIRTY		axuíra	a x u i r a
+131632	147787	hubercolumbian-Guahibo	guah1255		dirty	1230	DIRTY		axuíra	a x u i r a
+131634	147789	hubercolumbian-Guayabero	guay1257		dirty	1230	DIRTY		as dáʔnik	a s + d a ʔ n i k
+131637	147792	hubercolumbian-Jitnu	maca1259		dirty	1230	DIRTY		ʧibí	tʃ i b i
+131657	147812	hubercolumbian-Playero	play1240		dirty	1230	DIRTY		axuíra	a x u i r a
+135529	151684	hubercolumbian-Cuiba	cuib1242		dog	2009	DOG		áudi	a u d i
+135530	151685	hubercolumbian-Cuiba	cuib1242		dog	2009	DOG		áuri	a u r i
+135539	151694	hubercolumbian-Guahibo	guah1255		dog	2009	DOG		awíri	a w i r i
+135541	151696	hubercolumbian-Guayabero	guay1257		dog	2009	DOG		wi̵r	w ɨ r
+135544	151699	hubercolumbian-Jitnu	maca1259		dog	2009	DOG		awíl	a w i l
+135557	151712	hubercolumbian-Playero	play1240		dog	2009	DOG		awíri	a w i r i
+141995	158150	hubercolumbian-Cuiba	cuib1242		drink	1401	DRINK		ápa	a p a
+142005	158160	hubercolumbian-Guahibo	guah1255		drink	1401	DRINK		ápa	a p a
+142007	158162	hubercolumbian-Guayabero	guay1257		drink	1401	DRINK		ʔáɸ	ʔ a ɸ
+142010	158165	hubercolumbian-Jitnu	maca1259		drink	1401	DRINK		áp	a p
+142025	158180	hubercolumbian-Playero	play1240		drink	1401	DRINK		apáne	a p a n e
+145638	161793	hubercolumbian-Cuiba	cuib1242		dry	1398	DRY		tséwa	ts e w a
+145648	161803	hubercolumbian-Guahibo	guah1255		dry	1398	DRY		tsé:wa	ts eː w a
+145650	161805	hubercolumbian-Guayabero	guay1257		dry	1398	DRY		siow	s i o w
+145651	161806	hubercolumbian-Guayabero	guay1257		dry	1398	DRY		sens mamóʔal	s e n s + m a m o ʔ a l
+145655	161810	hubercolumbian-Jitnu	maca1259		dry	1398	DRY		pí̵rre	p ɨ r r e
+145670	161825	hubercolumbian-Playero	play1240		dry	1398	DRY		pesíanéwa	p e s i a n e w a
+148625	164780	hubercolumbian-Cuiba	cuib1242		dust	2	DUST		íra múrei	i r a + m u r e i
+148626	164781	hubercolumbian-Cuiba	cuib1242		dust	2	DUST		átsabéno	a ts a b e n o
+148637	164792	hubercolumbian-Guahibo	guah1255		dust	2	DUST		átsabeno	a ts a b e n o
+148639	164794	hubercolumbian-Guayabero	guay1257		dust	2	DUST		ʔasbélin	ʔ a s b e l i n
+148642	164797	hubercolumbian-Jitnu	maca1259		dust	2	DUST		puwúmpeha	p u w u m p e h a
+148658	164813	hubercolumbian-Playero	play1240		dust	2	DUST		átsa tsi̵ki̵tsi̵ki̵n	a ts a + ts ɨ k ɨ ts ɨ k ɨ n
+151068	167223	hubercolumbian-Cuiba	cuib1242		ear	1247	EAR		pemuxujoróto	p e m u x u j o r o t o
+151078	167233	hubercolumbian-Guahibo	guah1255		ear	1247	EAR		pemuxujóroto	p e m u x u j o r o t o
+151080	167235	hubercolumbian-Guayabero	guay1257		ear	1247	EAR		peh neʧóʔt	p e h + n e tʃ o ʔ t
+151083	167238	hubercolumbian-Jitnu	maca1259		ear	1247	EAR		pemkórat	p e m k o r a t
+151098	167253	hubercolumbian-Playero	play1240		ear	1247	EAR		pemúxujoróto	p e m u x u j o r o t o
+153974	170129	hubercolumbian-Cuiba	cuib1242		earthsoil	1228	EARTH (SOIL)		íra	i r a
+153985	170140	hubercolumbian-Guahibo	guah1255		earthsoil	1228	EARTH (SOIL)		íra	i r a
+153986	170141	hubercolumbian-Guahibo	guah1255		earthsoil	1228	EARTH (SOIL)		átsa	a ts a
+153988	170143	hubercolumbian-Guayabero	guay1257		earthsoil	1228	EARTH (SOIL)		sat	s a t
+153989	170144	hubercolumbian-Guayabero	guay1257		earthsoil	1228	EARTH (SOIL)		as	a s
+153992	170147	hubercolumbian-Jitnu	maca1259		earthsoil	1228	EARTH (SOIL)		as	a s
+154010	170165	hubercolumbian-Playero	play1240		earthsoil	1228	EARTH (SOIL)		irá	i r a
+154011	170166	hubercolumbian-Playero	play1240		earthsoil	1228	EARTH (SOIL)		aʧáto	a tʃ a t o
+156573	172728	hubercolumbian-Cuiba	cuib1242		eat	1336	EAT		xáne	x a n e
+156587	172742	hubercolumbian-Guahibo	guah1255		eat	1336	EAT		xáne	x a n e
+156589	172744	hubercolumbian-Guayabero	guay1257		eat	1336	EAT		xael	x a e l
+156593	172748	hubercolumbian-Jitnu	maca1259		eat	1336	EAT		ken	k e n
+156614	172769	hubercolumbian-Playero	play1240		eat	1336	EAT		xáne	x a n e
+158907	175065	hubercolumbian-Cuiba	cuib1242		egg	744	EGG		petóuto	p e t o u t o
+158918	175076	hubercolumbian-Guahibo	guah1255		egg	744	EGG		petobí̵:to	p e t o b ɨː t o
+158920	175078	hubercolumbian-Guayabero	guay1257		egg	744	EGG		peh tabí̵t	p e h + t a b ɨ t
+158923	175081	hubercolumbian-Jitnu	maca1259		egg	744	EGG		pebí̵t	p e b ɨ t
+158937	175095	hubercolumbian-Playero	play1240		egg	744	EGG		petábto	p e t a b t o
+169474	185632	hubercolumbian-Cuiba	cuib1242		eye	1248	EYE		peitamaikéito	p e i t a m a i k e i t o
+169475	185633	hubercolumbian-Cuiba	cuib1242		eye	1248	EYE		petakuereto	p e t a k u e r e t o
+169484	185642	hubercolumbian-Guahibo	guah1255		eye	1248	EYE		pi:taxú:to	p iː t a x uː t o
+169486	185644	hubercolumbian-Guayabero	guay1257		eye	1248	EYE		peh ʔitɸút	p e h + ʔ i t ɸ u t
+169489	185647	hubercolumbian-Jitnu	maca1259		eye	1248	EYE		pitpút	p i t p u t
+169503	185661	hubercolumbian-Playero	play1240		eye	1248	EYE		pítaxúto	p i t a x u t o
+173469	189628	hubercolumbian-Cuiba	cuib1242		fall	1280	FALL		hópa	h o p a
+173470	189629	hubercolumbian-Cuiba	cuib1242		fall	1280	FALL		óthopa	o t h o p a
+173471	189630	hubercolumbian-Cuiba	cuib1242		fall	1280	FALL		hopéika	h o p e i k a
+173472	189631	hubercolumbian-Cuiba	cuib1242		fall	1280	FALL		de arriba	d e + a r r i b a
+173481	189640	hubercolumbian-Guahibo	guah1255		fall	1280	FALL		hó:pa	h oː p a
+173482	189641	hubercolumbian-Guahibo	guah1255		fall	1280	FALL		othópa	o t h o p a
+173483	189642	hubercolumbian-Guahibo	guah1255		fall	1280	FALL		bókahunua	b o k a h u n u a
+173485	189644	hubercolumbian-Guayabero	guay1257		fall	1280	FALL		hop	h o p
+173488	189647	hubercolumbian-Jitnu	maca1259		fall	1280	FALL		bókuna	b o k u n a
+173504	189663	hubercolumbian-Playero	play1240		fall	1280	FALL		itahópa	i t a h o p a
+175747	191906	hubercolumbian-Cuiba	cuib1242		far	1406	FAR		táhi̵	t a h ɨ
+175758	191917	hubercolumbian-Guahibo	guah1255		far	1406	FAR		tá:hi̵	t aː h ɨ
+175760	191919	hubercolumbian-Guayabero	guay1257		far	1406	FAR		ʔatí̵ah	ʔ a t ɨ a h
+175763	191922	hubercolumbian-Jitnu	maca1259		far	1406	FAR		tí̵nakua	t ɨ n a k u a
+175776	191935	hubercolumbian-Playero	play1240		far	1406	FAR		táhi̵	t a h ɨ
+179622	195781	hubercolumbian-Cuiba	cuib1242		father	1217	FATHER		áxa	a x a
+179632	195791	hubercolumbian-Guahibo	guah1255		father	1217	FATHER		á:xa:	aː x aː
+179633	195792	hubercolumbian-Guahibo	guah1255		father	1217	FATHER		á:pa:	aː p aː
+179635	195794	hubercolumbian-Guayabero	guay1257		father	1217	FATHER		ʔax	ʔ a x
+179639	195798	hubercolumbian-Jitnu	maca1259		father	1217	FATHER		atéi	a t e i
+179640	195799	hubercolumbian-Jitnu	maca1259		father	1217	FATHER		áit	a i t
+179641	195800	hubercolumbian-Jitnu	maca1259		father	1217	FATHER		áti	a t i
+179663	195822	hubercolumbian-Playero	play1240		father	1217	FATHER		axá	a x a
+179664	195823	hubercolumbian-Playero	play1240		father	1217	FATHER		áxa	a x a
+183727	199887	hubercolumbian-Cuiba	cuib1242		fearbeafraid	1419	FEAR (BE AFRAID)		kunúwa	k u n u w a
+183728	199888	hubercolumbian-Cuiba	cuib1242		fearbeafraid	1419	FEAR (BE AFRAID)		hunúwa	h u n u w a
+183739	199899	hubercolumbian-Guahibo	guah1255		fearbeafraid	1419	FEAR (BE AFRAID)		kuhúnawa	k u h u n a w a
+183740	199900	hubercolumbian-Guahibo	guah1255		fearbeafraid	1419	FEAR (BE AFRAID)		hunáwa	h u n a w a
+183742	199902	hubercolumbian-Guayabero	guay1257		fearbeafraid	1419	FEAR (BE AFRAID)		pehléwla	p e h l e w l a
+183745	199905	hubercolumbian-Jitnu	maca1259		fearbeafraid	1419	FEAR (BE AFRAID)		huná	h u n a
+183761	199921	hubercolumbian-Playero	play1240		fearbeafraid	1419	FEAR (BE AFRAID)		hunáwa	h u n a w a
+183762	199922	hubercolumbian-Playero	play1240		fearbeafraid	1419	FEAR (BE AFRAID)		kuhúnawa	k u h u n a w a
+184810	200970	hubercolumbian-Cuiba	cuib1242		feather	1201	FEATHER		baratsúna	b a r a ts u n a
+184819	200979	hubercolumbian-Guahibo	guah1255		feather	1201	FEATHER		balá:tuna	b a l aː t u n a
+184821	200981	hubercolumbian-Guayabero	guay1257		feather	1201	FEATHER		parátna	p a r a t n a
+184824	200984	hubercolumbian-Jitnu	maca1259		feather	1201	FEATHER		mantsaná	m a n ts a n a
+184839	200999	hubercolumbian-Playero	play1240		feather	1201	FEATHER		balatúnakúito	b a l a t u n a k u i t o
+187138	219791	hubercolumbian-Cuiba	cuib1242		fleshormeat	2615	FLESH OR MEAT		pewíto	p e w i t o
+187150	219803	hubercolumbian-Guahibo	guah1255		fleshormeat	2615	FLESH OR MEAT		pewí:to	p e w iː t o
+187152	219805	hubercolumbian-Guayabero	guay1257		fleshormeat	2615	FLESH OR MEAT		pawít	p a w i t
+187155	219808	hubercolumbian-Jitnu	maca1259		fleshormeat	2615	FLESH OR MEAT		pewít	p e w i t
+187172	219825	hubercolumbian-Playero	play1240		fleshormeat	2615	FLESH OR MEAT		pewíto	p e w i t o
+188760	221413	hubercolumbian-Cuiba	cuib1242		flow	2003	FLOW		méne píʧipa	m e n e + p i tʃ i p a
+188765	221418	hubercolumbian-Guahibo	guah1255		flow	2003	FLOW		nawó:ta	n a w oː t a
+188767	221420	hubercolumbian-Guayabero	guay1257		flow	2003	FLOW		min ɸol	m i n + ɸ o l
+188783	221436	hubercolumbian-Playero	play1240		flow	2003	FLOW		nawótarúka	n a w o t a r u k a
+189834	222487	hubercolumbian-Cuiba	cuib1242		flower	239	FLOWER		pentónto	p e n t o n t o
+189842	222495	hubercolumbian-Guahibo	guah1255		flower	239	FLOWER		pematónoto	p e m a t o n o t o
+189844	222497	hubercolumbian-Guayabero	guay1257		flower	239	FLOWER		patál	p a t a l
+189845	222498	hubercolumbian-Guayabero	guay1257		flower	239	FLOWER		netál	n e t a l
+189848	222501	hubercolumbian-Jitnu	maca1259		flower	239	FLOWER		pemátan	p e m a t a n
+189863	222516	hubercolumbian-Playero	play1240		flower	239	FLOWER		pemátonóto	p e m a t o n o t o
+192768	225421	hubercolumbian-Cuiba	cuib1242		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pupúna	p u p u n a
+192777	225430	hubercolumbian-Guahibo	guah1255		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pú:na	p uː n a
+192779	225432	hubercolumbian-Guayabero	guay1257		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		papún	p a p u n
+192780	225433	hubercolumbian-Guayabero	guay1257		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		púnhala	p u n h a l a
+192784	225437	hubercolumbian-Jitnu	maca1259		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		japúnra	j a p u n r a
+192799	225452	hubercolumbian-Playero	play1240		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		naɸátaba	n a ɸ a t a b a
+194416	227069	hubercolumbian-Cuiba	cuib1242		fog	249	FOG		nóbo	n o b o
+194422	227075	hubercolumbian-Guahibo	guah1255		fog	249	FOG		nohóbo	n o h o b o
+194424	227077	hubercolumbian-Guayabero	guay1257		fog	249	FOG		nasí̵xan	n a s ɨ x a n
+194426	227079	hubercolumbian-Jitnu	maca1259		fog	249	FOG		nóp	n o p
+194439	227092	hubercolumbian-Playero	play1240		fog	249	FOG		nohóbo	n o h o b o
+196075	228728	hubercolumbian-Cuiba	cuib1242		foot	1301	FOOT		petáxu	p e t a x u
+196085	228738	hubercolumbian-Guahibo	guah1255		foot	1301	FOOT		petáxu	p e t a x u
+196087	228740	hubercolumbian-Guayabero	guay1257		foot	1301	FOOT		peh tí̵ak	p e h + t ɨ a k
+196090	228743	hubercolumbian-Jitnu	maca1259		foot	1301	FOOT		petkút	p e t k u t
+196105	228758	hubercolumbian-Playero	play1240		foot	1301	FOOT		petáxu	p e t a x u
+202411	235064	hubercolumbian-Cuiba	cuib1242		four	1500	FOUR		nakuétabe	n a k u e t a b e
+202420	235073	hubercolumbian-Guahibo	guah1255		four	1500	FOUR		penajánatsi	p e n a j a n a ts i
+202422	235075	hubercolumbian-Guayabero	guay1257		four	1500	FOUR		naʧálaxhe	n a tʃ a l a x h e
+202425	235078	hubercolumbian-Jitnu	maca1259		four	1500	FOUR		ánabe	a n a b e
+202437	235090	hubercolumbian-Playero	play1240		four	1500	FOUR		náhuamátaxijóbehe	n a h u a m a t a x i j o b e h e
+202438	235091	hubercolumbian-Playero	play1240		four	1500	FOUR		kúatrobehe	k u a t r o b e h e
+214498	247151	hubercolumbian-Cuiba	cuib1242		give	1447	GIVE		dóuta	d o u t a
+214499	247152	hubercolumbian-Cuiba	cuib1242		give	1447	GIVE		káta	k a t a
+214500	247153	hubercolumbian-Cuiba	cuib1242		give	1447	GIVE		hehépa	h e h e p a
+214512	247165	hubercolumbian-Guahibo	guah1255		give	1447	GIVE		ráhuta	r a h u t a
+214514	247167	hubercolumbian-Guayabero	guay1257		give	1447	GIVE		ʧaxdút	tʃ a x d u t
+214515	247168	hubercolumbian-Guayabero	guay1257		give	1447	GIVE		di̵ahi̵	d ɨ a h ɨ
+214519	247172	hubercolumbian-Jitnu	maca1259		give	1447	GIVE		rúti̵	r u t ɨ
+214533	247186	hubercolumbian-Playero	play1240		give	1447	GIVE		káta	k a t a
+220625	253281	hubercolumbian-Cuiba	cuib1242		good	1035	GOOD		wí̵nae	w ɨ n a e
+220626	253282	hubercolumbian-Cuiba	cuib1242		good	1035	GOOD		xánepana	x a n e p a n a
+220636	253292	hubercolumbian-Guahibo	guah1255		good	1035	GOOD		xánepana	x a n e p a n a
+220637	253293	hubercolumbian-Guahibo	guah1255		good	1035	GOOD		pexaníahawa	p e x a n i a h a w a
+220639	253295	hubercolumbian-Guayabero	guay1257		good	1035	GOOD		paʧém	p a tʃ e m
+220643	253299	hubercolumbian-Jitnu	maca1259		good	1035	GOOD		wí̵ne	w ɨ n e
+220658	253314	hubercolumbian-Playero	play1240		good	1035	GOOD		wahi̵né	w a h ɨ n e
+226079	258735	hubercolumbian-Cuiba	cuib1242		grass	606	GRASS		naepanáewa	n a e p a n a e w a
+226080	258736	hubercolumbian-Cuiba	cuib1242		grass	606	GRASS		napanáewa	n a p a n a e w a
+226081	258737	hubercolumbian-Cuiba	cuib1242		grass	606	GRASS		naepanáwa	n a e p a n a w a
+226089	258745	hubercolumbian-Guahibo	guah1255		grass	606	GRASS		pó:na:	p oː n aː
+226091	258747	hubercolumbian-Guayabero	guay1257		grass	606	GRASS		polá	p o l a
+226094	258750	hubercolumbian-Jitnu	maca1259		grass	606	GRASS		ponáp	p o n a p
+226111	258767	hubercolumbian-Playero	play1240		grass	606	GRASS		ponáwa	p o n a w a
+228430	261086	hubercolumbian-Cuiba	cuib1242		green	1425	GREEN		sí̵hei	s ɨ h e i
+228442	261098	hubercolumbian-Guahibo	guah1255		green	1425	GREEN		rái̵na	r a ɨ n a
+228443	261099	hubercolumbian-Guahibo	guah1255		green	1425	GREEN		rahéna	r a h e n a
+228444	261100	hubercolumbian-Guahibo	guah1255		green	1425	GREEN		sã́ĩ̵hai	s ã ɨ̃ h a i
+228446	261102	hubercolumbian-Guayabero	guay1257		green	1425	GREEN		patóijax	p a t o i j a x
+228449	261105	hubercolumbian-Jitnu	maca1259		green	1425	GREEN		pejajuéne	p e j a j u e n e
+228463	261119	hubercolumbian-Playero	play1240		green	1425	GREEN		rái̵na	r a ɨ n a
+228464	261120	hubercolumbian-Playero	play1240		green	1425	GREEN		perai̵néwa	p e r a ɨ n e w a
+238274	270930	hubercolumbian-Cuiba	cuib1242		hand	1277	HAND		pékobe	p e k o b e
+238275	270931	hubercolumbian-Cuiba	cuib1242		hand	1277	HAND		pekóbe	p e k o b e
+238284	270940	hubercolumbian-Guahibo	guah1255		hand	1277	HAND		pekóbe:	p e k o b eː
+238286	270942	hubercolumbian-Guayabero	guay1257		hand	1277	HAND		peh keʔé	p e h + k e ʔ e
+238289	270945	hubercolumbian-Jitnu	maca1259		hand	1277	HAND		pekó	p e k o
+238303	270959	hubercolumbian-Playero	play1240		hand	1277	HAND		pekóbe	p e k o b e
+242662	275319	hubercolumbian-Cuiba	cuib1242		he	1211	HE		bapón	b a p o n
+242663	275320	hubercolumbian-Cuiba	cuib1242		he	1211	HE		barapón	b a r a p o n
+242664	275321	hubercolumbian-Cuiba	cuib1242		he	1211	HE		pon	p o n
+242673	275330	hubercolumbian-Guahibo	guah1255		he	1211	HE		póni̵:	p o n ɨː
+242674	275331	hubercolumbian-Guahibo	guah1255		he	1211	HE		baharáponi̵:	b a h a r a p o n ɨː
+242676	275333	hubercolumbian-Guayabero	guay1257		he	1211	HE		hapón	h a p o n
+242677	275334	hubercolumbian-Guayabero	guay1257		he	1211	HE		pon	p o n
+242680	275337	hubercolumbian-Jitnu	maca1259		he	1211	HE		punú	p u n u
+242702	275359	hubercolumbian-Playero	play1240		he	1211	HE		báharapóni̵	b a h a r a p o n ɨ
+243827	276484	hubercolumbian-Cuiba	cuib1242		head	1256	HEAD		pentasípa	p e n t a s i p a
+243836	276493	hubercolumbian-Guahibo	guah1255		head	1256	HEAD		pematabókoto	p e m a t a b o k o t o
+243838	276495	hubercolumbian-Guayabero	guay1257		head	1256	HEAD		peh matnét	p e h + m a t n e t
+243841	276498	hubercolumbian-Jitnu	maca1259		head	1256	HEAD		pematbók	p e m a t b o k
+243856	276513	hubercolumbian-Playero	play1240		head	1256	HEAD		pemátaʃipá	p e m a t a ʃ i p a
+246777	279434	hubercolumbian-Cuiba	cuib1242		hear	1408	HEAR		humetáne	h u m e t a n e
+246785	279442	hubercolumbian-Guahibo	guah1255		hear	1408	HEAR		húmetane	h u m e t a n e
+246786	279443	hubercolumbian-Guahibo	guah1255		hear	1408	HEAR		namuxuna: eweta	n a m u x u n aː + e w e t a
+246788	279445	hubercolumbian-Guayabero	guay1257		hear	1408	HEAR		humtén	h u m t e n
+246789	279446	hubercolumbian-Guayabero	guay1257		hear	1408	HEAR		naewét	n a e w e t
+246793	279450	hubercolumbian-Jitnu	maca1259		hear	1408	HEAR		nakuét	n a k u e t
+246806	279463	hubercolumbian-Playero	play1240		hear	1408	HEAR		humetáne	h u m e t a n e
+248361	281018	hubercolumbian-Cuiba	cuib1242		heart	1223	HEART		pentʰí̵to	p e n tʰ ɨ t o
+248370	281027	hubercolumbian-Guayabero	guay1257		heart	1223	HEART		peh matpí̵at	p e h + m a t p ɨ a t
+248373	281030	hubercolumbian-Jitnu	maca1259		heart	1223	HEART		piátbi̵tat	p i a t b ɨ t a t
+248388	281045	hubercolumbian-Playero	play1240		heart	1223	HEART		pemátabi̵ti̵to	p e m a t a b ɨ t ɨ t o
+250532	283189	hubercolumbian-Cuiba	cuib1242		heavy	1210	HEAVY		aréwe	a r e w e
+250541	283198	hubercolumbian-Guahibo	guah1255		heavy	1210	HEAVY		aréwe	a r e w e
+250543	283200	hubercolumbian-Guayabero	guay1257		heavy	1210	HEAVY		démnik	d e m n i k
+250546	283203	hubercolumbian-Jitnu	maca1259		heavy	1210	HEAVY		arré	a r r e
+250560	283217	hubercolumbian-Playero	play1240		heavy	1210	HEAVY		arégwe	a r e g w e
+254355	287013	hubercolumbian-Cuiba	cuib1242		here	136	HERE		xóte	x o t e
+254356	287014	hubercolumbian-Cuiba	cuib1242		here	136	HERE		xóta	x o t a
+254367	287025	hubercolumbian-Guahibo	guah1255		here	136	HERE		ma:hó:tahe	m aː h oː t a h e
+254368	287026	hubercolumbian-Guahibo	guah1255		here	136	HERE		hó:ta	h oː t a
+254370	287028	hubercolumbian-Guayabero	guay1257		here	136	HERE		amxót	a m x o t
+254374	287032	hubercolumbian-Jitnu	maca1259		here	136	HERE		hót	h o t
+254392	287050	hubercolumbian-Playero	play1240		here	136	HERE		hóta	h o t a
+260522	293182	hubercolumbian-Cuiba	cuib1242		hold	1448	HOLD		bóta	b o t a
+260523	293183	hubercolumbian-Cuiba	cuib1242		hold	1448	HOLD		bábata	b a b a t a
+260532	293192	hubercolumbian-Guahibo	guah1255		hold	1448	HOLD		xáina	x a i n a
+260534	293194	hubercolumbian-Guayabero	guay1257		hold	1448	HOLD		mamámta	m a m a m t a
+260535	293195	hubercolumbian-Guayabero	guay1257		hold	1448	HOLD		haelt	h a e l t
+260538	293198	hubercolumbian-Jitnu	maca1259		hold	1448	HOLD		perrénhia	p e r r e n h i a
+260552	293212	hubercolumbian-Playero	play1240		hold	1448	HOLD		deréna	d e r e n a
+268741	301401	hubercolumbian-Cuiba	cuib1242		how	1239	HOW		éta bíʧi	e t a + b i tʃ i
+268750	301410	hubercolumbian-Guahibo	guah1255		how	1239	HOW		pakuénia	p a k u e n i a
+268751	301411	hubercolumbian-Guahibo	guah1255		how	1239	HOW		dé:tsa: pakuénia	d eː ts aː + p a k u e n i a
+268752	301412	hubercolumbian-Guahibo	guah1255		how	1239	HOW		int	i n t
+268754	301414	hubercolumbian-Guayabero	guay1257		how	1239	HOW		ma	m a
+268755	301415	hubercolumbian-Guayabero	guay1257		how	1239	HOW		maáʧ	m a a tʃ
+268758	301418	hubercolumbian-Jitnu	maca1259		how	1239	HOW		banekía	b a n e k i a
+268773	301433	hubercolumbian-Playero	play1240		how	1239	HOW		dahaʧíwa	d a h a tʃ i w a
+268774	301434	hubercolumbian-Playero	play1240		how	1239	HOW		wanaʧia	w a n a tʃ i a
+268775	301435	hubercolumbian-Playero	play1240		how	1239	HOW		ínʧhahai	i n tʃ h a h a i
+273040	305700	hubercolumbian-Cuiba	cuib1242		husband	1200	HUSBAND		pía pébin	p i a + p e b i n
+273041	305701	hubercolumbian-Cuiba	cuib1242		husband	1200	HUSBAND		piséuri	p i s e u r i
+273051	305711	hubercolumbian-Guahibo	guah1255		husband	1200	HUSBAND		pamóna	p a m o n a
+273052	305712	hubercolumbian-Guahibo	guah1255		husband	1200	HUSBAND		pihapé:bi	p i h a p eː b i
+273054	305714	hubercolumbian-Guayabero	guay1257		husband	1200	HUSBAND		pámal	p a m a l
+273057	305717	hubercolumbian-Jitnu	maca1259		husband	1200	HUSBAND		pebárkui	p e b a r k u i
+273074	305734	hubercolumbian-Playero	play1240		husband	1200	HUSBAND		piaséwari̵	p i a s e w a r ɨ
+273075	305735	hubercolumbian-Playero	play1240		husband	1200	HUSBAND		ɸíapébini̵	ɸ i a p e b i n ɨ
+274580	307240	hubercolumbian-Cuiba	cuib1242		i	1209	I		xan	x a n
+274589	307249	hubercolumbian-Guahibo	guah1255		i	1209	I		xáni̵	x a n ɨ
+274591	307251	hubercolumbian-Guayabero	guay1257		i	1209	I		xan	x a n
+274595	307255	hubercolumbian-Jitnu	maca1259		i	1209	I		kan	k a n
+274610	307270	hubercolumbian-Playero	play1240		i	1209	I		xáni̵	x a n ɨ
+275686	308346	hubercolumbian-Cuiba	cuib1242		ice	617	ICE		áke pépato	a k e + p e p a t o
+276669	309329	hubercolumbian-Cuiba	cuib1242		if	1459	IF		íʧa	i tʃ a
+276675	309335	hubercolumbian-Guahibo	guah1255		if	1459	IF		ítsa	i ts a
+276676	309336	hubercolumbian-Guayabero	guay1257		if	1459	IF		wi̵t	w ɨ t
+276680	309340	hubercolumbian-Jitnu	maca1259		if	1459	IF		bára	b a r a
+277916	310576	hubercolumbian-Cuiba	cuib1242		in	1460	IN		tʰá	tʰ a
+277928	310588	hubercolumbian-Guahibo	guah1255		in	1460	IN		ta	t a
+277929	310589	hubercolumbian-Guahibo	guah1255		in	1460	IN		tuatúahi̵ta	t u a t u a h ɨ t a
+277931	310591	hubercolumbian-Guayabero	guay1257		in	1460	IN		tat	t a t
+277932	310592	hubercolumbian-Guayabero	guay1257		in	1460	IN		tutat	t u t a t
+277935	310595	hubercolumbian-Jitnu	maca1259		in	1460	IN		at	a t
+277936	310596	hubercolumbian-Jitnu	maca1259		in	1460	IN		t	t
+277953	310613	hubercolumbian-Playero	play1240		in	1460	IN		ta	t a
+287427	320087	hubercolumbian-Cuiba	cuib1242		kill	1417	KILL		bexúba	b e x u b a
+287437	320097	hubercolumbian-Guahibo	guah1255		kill	1417	KILL		be:jaxúaba	b eː j a x u a b a
+287439	320099	hubercolumbian-Guayabero	guay1257		kill	1417	KILL		pa	p a
+287442	320102	hubercolumbian-Jitnu	maca1259		kill	1417	KILL		upiá	u p i a
+287457	320117	hubercolumbian-Playero	play1240		kill	1417	KILL		bejaxúina	b e j a x u i n a
+294328	326988	hubercolumbian-Cuiba	cuib1242		knowsomething	1410	KNOW (SOMETHING)		japutáne	j a p u t a n e
+294337	326997	hubercolumbian-Guahibo	guah1255		knowsomething	1410	KNOW (SOMETHING)		japí̵:tane	j a p ɨː t a n e
+294339	326999	hubercolumbian-Guayabero	guay1257		knowsomething	1410	KNOW (SOMETHING)		matabíht	m a t a b i h t
+294342	327002	hubercolumbian-Jitnu	maca1259		knowsomething	1410	KNOW (SOMETHING)		kópkuaj	k o p k u a j
+294343	327003	hubercolumbian-Jitnu	maca1259		knowsomething	1410	KNOW (SOMETHING)		kópkuaʧ	k o p k u a tʃ
+294358	327018	hubercolumbian-Playero	play1240		knowsomething	1410	KNOW (SOMETHING)		japi̵táne	j a p ɨ t a n e
+296050	328710	hubercolumbian-Cuiba	cuib1242		lake	624	LAKE		púkua	p u k u a
+296061	328721	hubercolumbian-Guahibo	guah1255		lake	624	LAKE		púka	p u k a
+296063	328723	hubercolumbian-Guayabero	guay1257		lake	624	LAKE		púka	p u k a
+296066	328726	hubercolumbian-Jitnu	maca1259		lake	624	LAKE		pemátpep	p e m a t p e p
+296080	328740	hubercolumbian-Playero	play1240		lake	624	LAKE		puká	p u k a
+302068	334728	hubercolumbian-Cuiba	cuib1242		leaf	628	LEAF		noxúto	n o x u t o
+302076	334736	hubercolumbian-Guahibo	guah1255		leaf	628	LEAF		náebaxuto	n a e b a x u t o
+302078	334738	hubercolumbian-Guayabero	guay1257		leaf	628	LEAF		néɸi̵t	n e ɸ ɨ t
+302081	334741	hubercolumbian-Jitnu	maca1259		leaf	628	LEAF		nópatne	n o p a t n e
+302093	334753	hubercolumbian-Playero	play1240		leaf	628	LEAF		nékuana	n e k u a n a
+302094	334754	hubercolumbian-Playero	play1240		leaf	628	LEAF		pekúana	p e k u a n a
+305196	337856	hubercolumbian-Cuiba	cuib1242		left	244	LEFT		petsokóna	p e ts o k o n a
+305204	337864	hubercolumbian-Guahibo	guah1255		left	244	LEFT		petsawéno	p e ts a w e n o
+305206	337866	hubercolumbian-Guayabero	guay1257		left	244	LEFT		soenalél	s o e n a l e l
+305209	337869	hubercolumbian-Jitnu	maca1259		left	244	LEFT		tsén	ts e n
+305222	337882	hubercolumbian-Playero	play1240		left	244	LEFT		tsawanáwa	ts a w a n a w a
+306313	338973	hubercolumbian-Cuiba	cuib1242		leg	1297	LEG		petópa	p e t o p a
+306322	338982	hubercolumbian-Guahibo	guah1255		leg	1297	LEG		petópa:	p e t o p aː
+306324	338984	hubercolumbian-Guayabero	guay1257		leg	1297	LEG		peh tit	p e h + t i t
+306327	338987	hubercolumbian-Jitnu	maca1259		leg	1297	LEG		pebémi̵ti̵	p e b e m ɨ t ɨ
+306341	339001	hubercolumbian-Playero	play1240		leg	1297	LEG		petái̵to	p e t a ɨ t o
+306342	339002	hubercolumbian-Playero	play1240		leg	1297	LEG		petópa	p e t o p a
+316833	349493	hubercolumbian-Cuiba	cuib1242		liver	1224	LIVER		pehápato	p e h a p a t o
+316842	349502	hubercolumbian-Guahibo	guah1255		liver	1224	LIVER		pihápato	p i h a p a t o
+316843	349503	hubercolumbian-Guahibo	guah1255		liver	1224	LIVER		pehápato	p e h a p a t o
+316845	349505	hubercolumbian-Guayabero	guay1257		liver	1224	LIVER		pahápt	p a h a p t
+316846	349506	hubercolumbian-Guayabero	guay1257		liver	1224	LIVER		peh hapt	p e h + h a p t
+316849	349509	hubercolumbian-Jitnu	maca1259		liver	1224	LIVER		piápat	p i a p a t
+316863	349523	hubercolumbian-Playero	play1240		liver	1224	LIVER		pihápato	p i h a p a t o
+319729	352389	hubercolumbian-Cuiba	cuib1242		long	1203	LONG		apíja	a p i j a
+319730	352390	hubercolumbian-Cuiba	cuib1242		long	1203	LONG		apía	a p i a
+319738	352398	hubercolumbian-Guahibo	guah1255		long	1203	LONG		apía	a p i a
+319740	352400	hubercolumbian-Guayabero	guay1257		long	1203	LONG		pakʧówax	p a k tʃ o w a x
+319741	352401	hubercolumbian-Guayabero	guay1257		long	1203	LONG		pakʧón	p a k tʃ o n
+319744	352404	hubercolumbian-Jitnu	maca1259		long	1203	LONG		apiá	a p i a
+319759	352419	hubercolumbian-Playero	play1240		long	1203	LONG		tsokónio apía	ts o k o n i o + a p i a
+323384	356044	hubercolumbian-Cuiba	cuib1242		louse	1392	LOUSE		tári̵	t a r ɨ
+323392	356052	hubercolumbian-Guahibo	guah1255		louse	1392	LOUSE		tarí̵to	t a r ɨ t o
+323395	356055	hubercolumbian-Guayabero	guay1257		louse	1392	LOUSE		tí̵aʔan	t ɨ a ʔ a n
+323398	356058	hubercolumbian-Jitnu	maca1259		louse	1392	LOUSE		taarát	t aː r a t
+323410	356070	hubercolumbian-Playero	play1240		louse	1392	LOUSE		tarí̵to	t a r ɨ t o
+332131	364792	hubercolumbian-Cuiba	cuib1242		many	1198	MANY		ainjáwa	a i n j a w a
+332132	364793	hubercolumbian-Cuiba	cuib1242		many	1198	MANY		nawíta	n a w i t a
+332143	364804	hubercolumbian-Guahibo	guah1255		many	1198	MANY		ajáihawa	a j a i h a w a
+332144	364805	hubercolumbian-Guahibo	guah1255		many	1198	MANY		ajaibitsái̵to	a j a i b i ts a ɨ t o
+332145	364806	hubercolumbian-Guahibo	guah1255		many	1198	MANY		apaá:xajo:	a p a aː x a j oː
+332146	364807	hubercolumbian-Guahibo	guah1255		many	1198	MANY		nawí:ta	n a w iː t a
+332148	364809	hubercolumbian-Guayabero	guay1257		many	1198	MANY		maenk	m a e n k
+332149	364810	hubercolumbian-Guayabero	guay1257		many	1198	MANY		piníet	p i n i e t
+332153	364814	hubercolumbian-Jitnu	maca1259		many	1198	MANY		atbó	a t b o
+332172	364833	hubercolumbian-Playero	play1240		many	1198	MANY		nawíta	n a w i t a
+349163	381824	hubercolumbian-Cuiba	cuib1242		mother	1216	MOTHER		éna	e n a
+349173	381834	hubercolumbian-Guahibo	guah1255		mother	1216	MOTHER		é:na:	eː n aː
+349175	381836	hubercolumbian-Guayabero	guay1257		mother	1216	MOTHER		ʔen	ʔ e n
+349178	381839	hubercolumbian-Jitnu	maca1259		mother	1216	MOTHER		enána	e n a n a
+349201	381862	hubercolumbian-Playero	play1240		mother	1216	MOTHER		éna	e n a
+350811	383475	hubercolumbian-Cuiba	cuib1242		mountain	639	MOUNTAIN		demxúwa	d e m x u w a
+350818	383482	hubercolumbian-Guahibo	guah1255		mountain	639	MOUNTAIN		ibotsú:to	i b o ts uː t o
+350820	383484	hubercolumbian-Guayabero	guay1257		mountain	639	MOUNTAIN		ʔiabót	ʔ i a b o t
+350824	383488	hubercolumbian-Jitnu	maca1259		mountain	639	MOUNTAIN		tserít	ts e r i t
+353314	385978	hubercolumbian-Cuiba	cuib1242		mouth	674	MOUTH		pekoibóto	p e k o i b o t o
+353325	385989	hubercolumbian-Guahibo	guah1255		mouth	674	MOUTH		pekuáibo	p e k u a i b o
+353326	385990	hubercolumbian-Guahibo	guah1255		mouth	674	MOUTH		pekuíbo	p e k u i b o
+353328	385992	hubercolumbian-Guayabero	guay1257		mouth	674	MOUTH		peh káʧa	p e h + k a tʃ a
+353331	385995	hubercolumbian-Jitnu	maca1259		mouth	674	MOUTH		pekíboat	p e k i b o a t
+353344	386008	hubercolumbian-Playero	play1240		mouth	674	MOUTH		pékiwóʔoto	p e k i w o ʔ o t o
+353345	386009	hubercolumbian-Playero	play1240		mouth	674	MOUTH		pekibóhoto	p e k i b o h o t o
+358336	391000	hubercolumbian-Cuiba	cuib1242		name	1405	NAME		péwi̵n	p e w ɨ n
+358346	391010	hubercolumbian-Guahibo	guah1255		name	1405	NAME		pewí̵ni̵	p e w ɨ n ɨ
+358348	391012	hubercolumbian-Guayabero	guay1257		name	1405	NAME		peh wi̵l	p e h + w ɨ l
+358351	391015	hubercolumbian-Jitnu	maca1259		name	1405	NAME		wí̵n	w ɨ n
+358364	391028	hubercolumbian-Playero	play1240		name	1405	NAME		ɸiawi̵ní̵	ɸ i a w ɨ n ɨ
+360257	392923	hubercolumbian-Cuiba	cuib1242		narrow	1267	NARROW		tsiwíjo íja	ts i w i j o + i j a
+360267	392933	hubercolumbian-Guahibo	guah1255		narrow	1267	NARROW		tsikiriháwajo:	ts i k i r i h a w a j oː
+360269	392935	hubercolumbian-Guayabero	guay1257		narrow	1267	NARROW		mamóʧax	m a m o tʃ a x
+360272	392938	hubercolumbian-Jitnu	maca1259		narrow	1267	NARROW		ʧirí̵nhajo	tʃ i r ɨ n h a j o
+360285	392951	hubercolumbian-Playero	play1240		narrow	1267	NARROW		amí̵mi̵	a m ɨ m ɨ
+362880	395546	hubercolumbian-Cuiba	cuib1242		near	1942	NEAR		imoxójo	i m o x o j o
+362890	395556	hubercolumbian-Guahibo	guah1255		near	1942	NEAR		imoxó:jo:	i m o x oː j oː
+362892	395558	hubercolumbian-Guayabero	guay1257		near	1942	NEAR		mox	m o x
+362895	395561	hubercolumbian-Jitnu	maca1259		near	1942	NEAR		kéwa	k e w a
+362909	395575	hubercolumbian-Playero	play1240		near	1942	NEAR		kéhewa	k e h e w a
+364620	397287	hubercolumbian-Cuiba	cuib1242		neck	1333	NECK		peusíto	p e u s i t o
+364621	397288	hubercolumbian-Cuiba	cuib1242		neck	1333	NECK		pewisíto	p e w i s i t o
+364632	397299	hubercolumbian-Guahibo	guah1255		neck	1333	NECK		pewi̵:sí:to	p e w ɨː s iː t o
+364634	397301	hubercolumbian-Guayabero	guay1257		neck	1333	NECK		peh kaʧaríama	p e h + k a tʃ a r i a m a
+364637	397304	hubercolumbian-Jitnu	maca1259		neck	1333	NECK		pewúʧit	p e w u tʃ i t
+364650	397317	hubercolumbian-Playero	play1240		neck	1333	NECK		pewi̵ʃíto	p e w ɨ ʃ i t o
+368682	401349	hubercolumbian-Cuiba	cuib1242		new	1231	NEW		penáwa	p e n a w a
+368691	401358	hubercolumbian-Guahibo	guah1255		new	1231	NEW		pe:hana	p eː h a n a
+368692	401359	hubercolumbian-Guahibo	guah1255		new	1231	NEW		pé:hanahawa	p eː h a n a h a w a
+368694	401361	hubercolumbian-Guayabero	guay1257		new	1231	NEW		pahélax	p a h e l a x
+368697	401364	hubercolumbian-Jitnu	maca1259		new	1231	NEW		pehená	p e h e n a
+368714	401381	hubercolumbian-Playero	play1240		new	1231	NEW		pehenáwa	p e h e n a w a
+371452	404119	hubercolumbian-Cuiba	cuib1242		night	1233	NIGHT		médawi	m e d a w i
+371453	404120	hubercolumbian-Cuiba	cuib1242		night	1233	NIGHT		médiwi	m e d i w i
+371463	404130	hubercolumbian-Guahibo	guah1255		night	1233	NIGHT		meráwi	m e r a w i
+371465	404132	hubercolumbian-Guayabero	guay1257		night	1233	NIGHT		madói	m a d o i
+371468	404135	hubercolumbian-Jitnu	maca1259		night	1233	NIGHT		merío	m e r i o
+371482	404149	hubercolumbian-Playero	play1240		night	1233	NIGHT		meréwi	m e r e w i
+377271	409938	hubercolumbian-Cuiba	cuib1242		nose	1221	NOSE		pepoxónto	p e p o x o n t o
+377281	409948	hubercolumbian-Guahibo	guah1255		nose	1221	NOSE		pepúmu:	p e p u m uː
+377283	409950	hubercolumbian-Guayabero	guay1257		nose	1221	NOSE		peh ɸumú	p e h + ɸ u m u
+377287	409954	hubercolumbian-Jitnu	maca1259		nose	1221	NOSE		pepúm	p e p u m
+377300	409967	hubercolumbian-Playero	play1240		nose	1221	NOSE		pepúmu	p e p u m u
+378856	411523	hubercolumbian-Cuiba	cuib1242		not	1240	NOT		bára	b a r a
+378857	411524	hubercolumbian-Cuiba	cuib1242		not	1240	NOT		húme	h u m e
+378866	411533	hubercolumbian-Guahibo	guah1255		not	1240	NOT		ápo	a p o
+378867	411534	hubercolumbian-Guahibo	guah1255		not	1240	NOT		hú:me:	h uː m eː
+378869	411536	hubercolumbian-Guayabero	guay1257		not	1240	NOT		dóʔdoʔ	d o ʔ d o ʔ
+378873	411540	hubercolumbian-Jitnu	maca1259		not	1240	NOT		ahí	a h i
+378874	411541	hubercolumbian-Jitnu	maca1259		not	1240	NOT		jahí	j a h i
+378895	411562	hubercolumbian-Playero	play1240		not	1240	NOT		bahára	b a h a r a
+383375	416042	hubercolumbian-Cuiba	cuib1242		old	1229	OLD		pérun	p e r u n
+383376	416043	hubercolumbian-Cuiba	cuib1242		old	1229	OLD		ámo	a m o
+383377	416044	hubercolumbian-Cuiba	cuib1242		old	1229	OLD		pénapataein	p e n a p a t a e i n
+383388	416055	hubercolumbian-Guahibo	guah1255		old	1229	OLD		perúhuni̵:	p e r u h u n ɨː
+383390	416057	hubercolumbian-Guayabero	guay1257		old	1229	OLD		patíʔin	p a t i ʔ i n
+383393	416060	hubercolumbian-Jitnu	maca1259		old	1229	OLD		pertí	p e r t i
+383410	416077	hubercolumbian-Playero	play1240		old	1229	OLD		peruhuni̵	p e r u h u n ɨ
+383411	416078	hubercolumbian-Playero	play1240		old	1229	OLD		penakoténi̵	p e n a k o t e n ɨ
+389562	422229	hubercolumbian-Cuiba	cuib1242		one	1493	ONE		káe	k a e
+389563	422230	hubercolumbian-Cuiba	cuib1242		one	1493	ONE		káewa	k a e w a
+389571	422238	hubercolumbian-Guahibo	guah1255		one	1493	ONE		káe	k a e
+389572	422239	hubercolumbian-Guahibo	guah1255		one	1493	ONE		káehawa	k a e h a w a
+389574	422241	hubercolumbian-Guayabero	guay1257		one	1493	ONE		káe	k a e
+389575	422242	hubercolumbian-Guayabero	guay1257		one	1493	ONE		káejax	k a e j a x
+389578	422245	hubercolumbian-Jitnu	maca1259		one	1493	ONE		kení̵	k e n ɨ
+389593	422260	hubercolumbian-Playero	play1240		one	1493	ONE		ompáwa	o m p a w a
+393601	426268	hubercolumbian-Cuiba	cuib1242		other	197	OTHER		iʧáwa	i tʃ a w a
+393612	426279	hubercolumbian-Guahibo	guah1255		other	197	OTHER		ítsahawa	i ts a h a w a
+393613	426280	hubercolumbian-Guahibo	guah1255		other	197	OTHER		ítsani̵:	i ts a n ɨː
+393615	426282	hubercolumbian-Guayabero	guay1257		other	197	OTHER		ásax	a s a x
+393616	426283	hubercolumbian-Guayabero	guay1257		other	197	OTHER		ásan	a s a n
+393620	426287	hubercolumbian-Jitnu	maca1259		other	197	OTHER		isá	i s a
+393621	426288	hubercolumbian-Jitnu	maca1259		other	197	OTHER		is	i s
+393622	426289	hubercolumbian-Jitnu	maca1259		other	197	OTHER		itsá	i ts a
+393640	426307	hubercolumbian-Playero	play1240		other	197	OTHER		itsáni̵	i ts a n ɨ
+393641	426308	hubercolumbian-Playero	play1240		other	197	OTHER		iʧahawa	i tʃ a h a w a
+421070	453737	hubercolumbian-Cuiba	cuib1242		pull	1455	PULL		doboréna	d o b o r e n a
+421078	453745	hubercolumbian-Guahibo	guah1255		pull	1455	PULL		robóta	r o b o t a
+421079	453746	hubercolumbian-Guahibo	guah1255		pull	1455	PULL		robobóka	r o b o b o k a
+421081	453748	hubercolumbian-Guayabero	guay1257		pull	1455	PULL		dóʔa	d o ʔ a
+421084	453751	hubercolumbian-Jitnu	maca1259		pull	1455	PULL		bropáp	b r o p a p
+421102	453769	hubercolumbian-Playero	play1240		pull	1455	PULL		dobóta	d o b o t a
+422783	455451	hubercolumbian-Cuiba	cuib1242		push	1452	PUSH		totábija	t o t a b i j a
+422791	455459	hubercolumbian-Guahibo	guah1255		push	1452	PUSH		toróta	t o r o t a
+422792	455460	hubercolumbian-Guahibo	guah1255		push	1452	PUSH		toró:ba	t o r oː b a
+422794	455462	hubercolumbian-Guayabero	guay1257		push	1452	PUSH		tíkla	t i k l a
+422797	455465	hubercolumbian-Jitnu	maca1259		push	1452	PUSH		tokétarap	t o k e t a r a p
+422798	455466	hubercolumbian-Jitnu	maca1259		push	1452	PUSH		tokétrap	t o k e t r a p
+422815	455483	hubercolumbian-Playero	play1240		push	1452	PUSH		tortráha	t o r t r a h a
+422816	455484	hubercolumbian-Playero	play1240		push	1452	PUSH		torobarába	t o r o b a r a b a
+432363	465031	hubercolumbian-Cuiba	cuib1242		red	156	RED		tsóbia	ts o b i a
+432372	465040	hubercolumbian-Guahibo	guah1255		red	156	RED		tsó:bia	ts oː b i a
+432373	465041	hubercolumbian-Guahibo	guah1255		red	156	RED		petso:bíahawa	p e ts oː b i a h a w a
+432375	465043	hubercolumbian-Guayabero	guay1257		red	156	RED		pasóijax	p a s o i j a x
+432379	465047	hubercolumbian-Jitnu	maca1259		red	156	RED		tsobí	ts o b i
+432395	465063	hubercolumbian-Playero	play1240		red	156	RED		petsobíawa	p e ts o b i a w a
+438147	470815	hubercolumbian-Cuiba	cuib1242		right	1019	RIGHT		pekóxa	p e k o x a
+438155	470823	hubercolumbian-Guahibo	guah1255		right	1019	RIGHT		pekúha	p e k u h a
+438157	470825	hubercolumbian-Guayabero	guay1257		right	1019	RIGHT		poklalél	p o k l a l e l
+438160	470828	hubercolumbian-Jitnu	maca1259		right	1019	RIGHT		apiát	a p i a t
+438174	470842	hubercolumbian-Playero	play1240		right	1019	RIGHT		pekohowáwa	p e k o h o w a w a
+440613	473281	hubercolumbian-Cuiba	cuib1242		river	666	RIVER		méne	m e n e
+440622	473290	hubercolumbian-Guahibo	guah1255		river	666	RIVER		méne	m e n e
+440623	473291	hubercolumbian-Guahibo	guah1255		river	666	RIVER		pépamene	p e p a m e n e
+440625	473293	hubercolumbian-Guayabero	guay1257		river	666	RIVER		nawél	n a w e l
+440626	473294	hubercolumbian-Guayabero	guay1257		river	666	RIVER		min láht	m i n + l a h t
+440629	473297	hubercolumbian-Jitnu	maca1259		river	666	RIVER		pemnát	p e m n a t
+440645	473313	hubercolumbian-Playero	play1240		river	666	RIVER		miní	m i n i
+444315	476984	hubercolumbian-Cuiba	cuib1242		root	670	ROOT		petabopína	p e t a b o p i n a
+444325	476994	hubercolumbian-Guahibo	guah1255		root	670	ROOT		petábutopa	p e t a b u t o p a
+444326	476995	hubercolumbian-Guahibo	guah1255		root	670	ROOT		petabunepéto	p e t a b u n e p e t o
+444328	476997	hubercolumbian-Guayabero	guay1257		root	670	ROOT		tatínt	t a t i n t
+444329	476998	hubercolumbian-Guayabero	guay1257		root	670	ROOT		netatínt	n e t a t i n t
+444332	477001	hubercolumbian-Jitnu	maca1259		root	670	ROOT		petakomét	p e t a k o m e t
+444351	477020	hubercolumbian-Playero	play1240		root	670	ROOT		petábukobénto	p e t a b u k o b e n t o
+446209	478878	hubercolumbian-Cuiba	cuib1242		rope	1218	ROPE		búmaka	b u m a k a
+446210	478879	hubercolumbian-Cuiba	cuib1242		rope	1218	ROPE		pemí̵to	p e m ɨ t o
+446219	478888	hubercolumbian-Guahibo	guah1255		rope	1218	ROPE		pemáka	p e m a k a
+446220	478889	hubercolumbian-Guahibo	guah1255		rope	1218	ROPE		pemái̵to	p e m a ɨ t o
+446222	478891	hubercolumbian-Guayabero	guay1257		rope	1218	ROPE		mi̵at	m ɨ a t
+446226	478895	hubercolumbian-Jitnu	maca1259		rope	1218	ROPE		tomí̵t	t o m ɨ t
+446242	478911	hubercolumbian-Playero	play1240		rope	1218	ROPE		pemúto	p e m u t o
+447850	480519	hubercolumbian-Cuiba	cuib1242		rotten	1728	ROTTEN		tsábana	ts a b a n a
+447859	480528	hubercolumbian-Guahibo	guah1255		rotten	1728	ROTTEN		tsabána	ts a b a n a
+447860	480529	hubercolumbian-Guahibo	guah1255		rotten	1728	ROTTEN		tuxutsáeba	t u x u ts a e b a
+447862	480531	hubercolumbian-Guayabero	guay1257		rotten	1728	ROTTEN		xoep	x o e p
+447863	480532	hubercolumbian-Guayabero	guay1257		rotten	1728	ROTTEN		sáʔla	s a ʔ l a
+447864	480533	hubercolumbian-Guayabero	guay1257		rotten	1728	ROTTEN		xasái	x a s a i
+447867	480536	hubercolumbian-Jitnu	maca1259		rotten	1728	ROTTEN		tutsép	t u ts e p
+447884	480553	hubercolumbian-Playero	play1240		rotten	1728	ROTTEN		tsabána	ts a b a n a
+449679	482348	hubercolumbian-Cuiba	cuib1242		rub	1449	RUB		petʰéito	p e tʰ e i t o
+449680	482349	hubercolumbian-Cuiba	cuib1242		rub	1449	RUB		pekuéito	p e k u e i t o
+449689	482358	hubercolumbian-Guahibo	guah1255		rub	1449	RUB		pekuáito	p e k u a i t o
+449691	482360	hubercolumbian-Guayabero	guay1257		rub	1449	RUB		naebáeʧ	n a e b a e tʃ
+449692	482361	hubercolumbian-Guayabero	guay1257		rub	1449	RUB		nebácʧ	n e b a c tʃ
+449693	482362	hubercolumbian-Guayabero	guay1257		rub	1449	RUB		pabácʧ	p a b a c tʃ
+449696	482365	hubercolumbian-Jitnu	maca1259		rub	1449	RUB		pebí̵	p e b ɨ
+449697	482366	hubercolumbian-Jitnu	maca1259		rub	1449	RUB		pepútan	p e p u t a n
+449711	482380	hubercolumbian-Playero	play1240		rub	1449	RUB		nekúibí̵	n e k u i b ɨ
+453705	486374	hubercolumbian-Cuiba	cuib1242		salt	1274	SALT		sáre	s a r e
+453714	486383	hubercolumbian-Guahibo	guah1255		salt	1274	SALT		já:ho	j aː h o
+453716	486385	hubercolumbian-Guayabero	guay1257		salt	1274	SALT		dom	d o m
+453719	486388	hubercolumbian-Jitnu	maca1259		salt	1274	SALT		jóha	j o h a
+453733	486402	hubercolumbian-Playero	play1240		salt	1274	SALT		saléwa	s a l e w a
+456267	488936	hubercolumbian-Cuiba	cuib1242		sand	671	SAND		táetowa	t a e t o w a
+456276	488945	hubercolumbian-Guahibo	guah1255		sand	671	SAND		tahétaatsa	t a h e t aː ts a
+456277	488946	hubercolumbian-Guahibo	guah1255		sand	671	SAND		tahétamaxi̵	t a h e t a m a x ɨ
+456278	488947	hubercolumbian-Guahibo	guah1255		sand	671	SAND		tahétabo	t a h e t a b o
+456280	488949	hubercolumbian-Guayabero	guay1257		sand	671	SAND		táeht	t a e h t
+456283	488952	hubercolumbian-Jitnu	maca1259		sand	671	SAND		tétap	t e t a p
+456296	488965	hubercolumbian-Playero	play1240		sand	671	SAND		tehetówa	t e h e t o w a
+459215	491884	hubercolumbian-Cuiba	cuib1242		say	1458	SAY		humíʧi	h u m i tʃ i
+459216	491885	hubercolumbian-Cuiba	cuib1242		say	1458	SAY		páeba	p a e b a
+459217	491886	hubercolumbian-Cuiba	cuib1242		say	1458	SAY		namchi	n a m c h i
+459218	491887	hubercolumbian-Cuiba	cuib1242		say	1458	SAY		kueikuéihei	k u e i k u e i h e i
+459227	491896	hubercolumbian-Guahibo	guah1255		say	1458	SAY		humáitsi	h u m a i ts i
+459228	491897	hubercolumbian-Guahibo	guah1255		say	1458	SAY		tsipáeba	ts i p a e b a
+459229	491898	hubercolumbian-Guahibo	guah1255		say	1458	SAY		hái	h a i
+459230	491899	hubercolumbian-Guahibo	guah1255		say	1458	SAY		al fin de la cita	a l + f i n + d e + l a + c i t a
+459232	491901	hubercolumbian-Guayabero	guay1257		say	1458	SAY		humʔáeʧ	h u m ʔ a e tʃ
+459236	491905	hubercolumbian-Jitnu	maca1259		say	1458	SAY		ʧipép	tʃ i p e p
+459255	491924	hubercolumbian-Playero	play1240		say	1458	SAY		naʧipéba	n a tʃ i p e b a
+463069	495738	hubercolumbian-Cuiba	cuib1242		sea	1474	SEA		piméne	p i m e n e
+463070	495739	hubercolumbian-Cuiba	cuib1242		sea	1474	SEA		marméne	m a r m e n e
+463078	495747	hubercolumbian-Guahibo	guah1255		sea	1474	SEA		manúamene	m a n u a m e n e
+463079	495748	hubercolumbian-Guahibo	guah1255		sea	1474	SEA		lamáramene	l a m a r a m e n e
+463092	495761	hubercolumbian-Playero	play1240		sea	1474	SEA		waréminiboxóbo	w a r e m i n i b o x o b o
+464969	497639	hubercolumbian-Cuiba	cuib1242		see	1409	SEE		táne	t a n e
+464970	497640	hubercolumbian-Cuiba	cuib1242		see	1409	SEE		nekóta	n e k o t a
+464981	497651	hubercolumbian-Guahibo	guah1255		see	1409	SEE		táne	t a n e
+464983	497653	hubercolumbian-Guayabero	guay1257		see	1409	SEE		tén	t e n
+464987	497657	hubercolumbian-Jitnu	maca1259		see	1409	SEE		ten	t e n
+465001	497671	hubercolumbian-Playero	play1240		see	1409	SEE		táne	t a n e
+466550	499220	hubercolumbian-Cuiba	cuib1242		seed	714	SEED		pexúto	p e x u t o
+466558	499228	hubercolumbian-Guahibo	guah1255		seed	714	SEED		pexú:to	p e x uː t o
+466560	499230	hubercolumbian-Guayabero	guay1257		seed	714	SEED		tit	t i t
+466561	499231	hubercolumbian-Guayabero	guay1257		seed	714	SEED		hesɸút	h e s ɸ u t
+466564	499234	hubercolumbian-Jitnu	maca1259		seed	714	SEED		puwenáp	p u w e n a p
+466580	499250	hubercolumbian-Playero	play1240		seed	714	SEED		pexúto	p e x u t o
+472061	504732	hubercolumbian-Cuiba	cuib1242		sew	1457	SEW		hóroka	h o r o k a
+472062	504733	hubercolumbian-Cuiba	cuib1242		sew	1457	SEW		xi̵xí̵ka	x ɨ x ɨ k a
+472071	504742	hubercolumbian-Guahibo	guah1255		sew	1457	SEW		horóka	h o r o k a
+472073	504744	hubercolumbian-Guayabero	guay1257		sew	1457	SEW		atów	a t o w
+472076	504747	hubercolumbian-Jitnu	maca1259		sew	1457	SEW		horkí̵	h o r k ɨ
+472089	504760	hubercolumbian-Playero	play1240		sew	1457	SEW		horóka	h o r o k a
+474855	507526	hubercolumbian-Cuiba	cuib1242		sharp	1396	SHARP		xíjoi	x i j o i
+474856	507527	hubercolumbian-Cuiba	cuib1242		sharp	1396	SHARP		xuíjoi	x u i j o i
+474865	507536	hubercolumbian-Guahibo	guah1255		sharp	1396	SHARP		xíuhai	x i u h a i
+474866	507537	hubercolumbian-Guahibo	guah1255		sharp	1396	SHARP		tsékehai	ts e k e h a i
+474868	507539	hubercolumbian-Guayabero	guay1257		sharp	1396	SHARP		pabí̵aʔ	p a b ɨ a ʔ
+474871	507542	hubercolumbian-Jitnu	maca1259		sharp	1396	SHARP		bi̵róbini̵	b ɨ r o b i n ɨ
+474883	507554	hubercolumbian-Playero	play1240		sharp	1396	SHARP		híehai	h i e h a i
+481445	514117	hubercolumbian-Cuiba	cuib1242		short	1645	SHORT		imoxoiʧéka	i m o x o i tʃ e k a
+481455	514127	hubercolumbian-Guahibo	guah1255		short	1645	SHORT		tojáeka	t o j a e k a
+481457	514129	hubercolumbian-Guayabero	guay1257		short	1645	SHORT		mi̵ramátax	m ɨ r a m a t a x
+481460	514132	hubercolumbian-Jitnu	maca1259		short	1645	SHORT		totséko	t o ts e k o
+481473	514145	hubercolumbian-Playero	play1240		short	1645	SHORT		marerékike	m a r e r e k i k e
+488317	520989	hubercolumbian-Cuiba	cuib1242		sing	1261	SING		naxí̵na	n a x ɨ n a
+488318	520990	hubercolumbian-Cuiba	cuib1242		sing	1261	SING		nawéba	n a w e b a
+488327	520999	hubercolumbian-Guahibo	guah1255		sing	1261	SING		naxí̵ana	n a x ɨ a n a
+488328	521000	hubercolumbian-Guahibo	guah1255		sing	1261	SING		mataxí̵ana	m a t a x ɨ a n a
+488329	521001	hubercolumbian-Guayabero	guay1257		sing	1261	SING		hahúw	h a h u w
+488334	521006	hubercolumbian-Jitnu	maca1259		sing	1261	SING		nahuép	n a h u e p
+488349	521021	hubercolumbian-Playero	play1240		sing	1261	SING		naxí̵ana	n a x ɨ a n a
+496978	529650	hubercolumbian-Cuiba	cuib1242		sky	1732	SKY		peitabóko	p e i t a b o k o
+496979	529651	hubercolumbian-Cuiba	cuib1242		sky	1732	SKY		peitabókoto	p e i t a b o k o t o
+496980	529652	hubercolumbian-Cuiba	cuib1242		sky	1732	SKY		pitabóko	p i t a b o k o
+496991	529663	hubercolumbian-Guahibo	guah1255		sky	1732	SKY		itáboxo	i t a b o x o
+496993	529665	hubercolumbian-Guayabero	guay1257		sky	1732	SKY		tatbaxó	t a t b a x o
+496994	529666	hubercolumbian-Guayabero	guay1257		sky	1732	SKY		ʔatí̵ pch sat	ʔ a t ɨ + p c h + s a t
+496997	529669	hubercolumbian-Jitnu	maca1259		sky	1732	SKY		máteʧi	m a t e tʃ i
+496998	529670	hubercolumbian-Jitnu	maca1259		sky	1732	SKY		máto ʧi	m a t o + tʃ i
+497015	529687	hubercolumbian-Playero	play1240		sky	1732	SKY		itaboxóbo	i t a b o x o b o
+499170	531842	hubercolumbian-Cuiba	cuib1242		sleep	1585	SLEEP		maitéca	m a i t e c a
+499180	531852	hubercolumbian-Guahibo	guah1255		sleep	1585	SLEEP		mahíta	m a h i t a
+499182	531854	hubercolumbian-Guayabero	guay1257		sleep	1585	SLEEP		moiht	m o i h t
+499185	531857	hubercolumbian-Jitnu	maca1259		sleep	1585	SLEEP		mítri̵k	m i t r ɨ k
+499198	531870	hubercolumbian-Playero	play1240		sleep	1585	SLEEP		mihítarukú	m i h i t a r u k u
+502737	535411	hubercolumbian-Cuiba	cuib1242		small	1246	SMALL		tsikíjo	ts i k i j o
+502738	535412	hubercolumbian-Cuiba	cuib1242		small	1246	SMALL		tsiwíjo	ts i w i j o
+502747	535421	hubercolumbian-Guahibo	guah1255		small	1246	SMALL		tsikírijo:	ts i k i r i j oː
+502748	535422	hubercolumbian-Guahibo	guah1255		small	1246	SMALL		tsikiriháwajo	ts i k i r i h a w a j o
+502750	535424	hubercolumbian-Guayabero	guay1257		small	1246	SMALL		ʧaʔélax	tʃ a ʔ e l a x
+502753	535427	hubercolumbian-Jitnu	maca1259		small	1246	SMALL		chírtojo	c h i r t o j o
+502772	535446	hubercolumbian-Playero	play1240		small	1246	SMALL		pihitáwajo	p i h i t a w a j o
+505483	538157	hubercolumbian-Cuiba	cuib1242		smellperceive	1586	SMELL (PERCEIVE)		tuxúba	t u x u b a
+505492	538166	hubercolumbian-Guahibo	guah1255		smellperceive	1586	SMELL (PERCEIVE)		tuxúne	t u x u n e
+505493	538167	hubercolumbian-Guahibo	guah1255		smellperceive	1586	SMELL (PERCEIVE)		tuxúba	t u x u b a
+505494	538168	hubercolumbian-Guahibo	guah1255		smellperceive	1586	SMELL (PERCEIVE)		tuxúba pl	t u x u b a + p l
+505496	538170	hubercolumbian-Guayabero	guay1257		smellperceive	1586	SMELL (PERCEIVE)		xatúxa	x a t u x a
+505499	538173	hubercolumbian-Jitnu	maca1259		smellperceive	1586	SMELL (PERCEIVE)		túk	t u k
+505514	538188	hubercolumbian-Playero	play1240		smellperceive	1586	SMELL (PERCEIVE)		tuxúba	t u x u b a
+505515	538189	hubercolumbian-Playero	play1240		smellperceive	1586	SMELL (PERCEIVE)		tuxúne	t u x u n e
+507082	539758	hubercolumbian-Cuiba	cuib1242		smokeexhaust	778	SMOKE (EXHAUST)		múrei	m u r e i
+507083	539759	hubercolumbian-Cuiba	cuib1242		smokeexhaust	778	SMOKE (EXHAUST)		íʃo tsí̵xi̵	i ʃ o + ts ɨ x ɨ
+507093	539769	hubercolumbian-Guahibo	guah1255		smokeexhaust	778	SMOKE (EXHAUST)		í̵:tsi̵xi̵	ɨː ts ɨ x ɨ
+507095	539771	hubercolumbian-Guayabero	guay1257		smokeexhaust	778	SMOKE (EXHAUST)		ʔitmúm	ʔ i t m u m
+507098	539774	hubercolumbian-Jitnu	maca1259		smokeexhaust	778	SMOKE (EXHAUST)		bunánbe	b u n a n b e
+507112	539788	hubercolumbian-Playero	play1240		smokeexhaust	778	SMOKE (EXHAUST)		í̵tsi̵xi̵	ɨ ts ɨ x ɨ
+508560	541236	hubercolumbian-Cuiba	cuib1242		smooth	1234	SMOOTH		áxue	a x u e
+508561	541237	hubercolumbian-Cuiba	cuib1242		smooth	1234	SMOOTH		dámei	d a m e i
+508569	541245	hubercolumbian-Guahibo	guah1255		smooth	1234	SMOOTH		ahué	a h u e
+508570	541246	hubercolumbian-Guahibo	guah1255		smooth	1234	SMOOTH		kónihai	k o n i h a i
+508571	541247	hubercolumbian-Guahibo	guah1255		smooth	1234	SMOOTH		hapína	h a p i n a
+508572	541248	hubercolumbian-Guahibo	guah1255		smooth	1234	SMOOTH		huehnéka	h u e h n e k a
+508574	541250	hubercolumbian-Guayabero	guay1257		smooth	1234	SMOOTH		hahóek	h a h o e k
+508577	541253	hubercolumbian-Jitnu	maca1259		smooth	1234	SMOOTH		huehuék	h u e h u e k
+508591	541267	hubercolumbian-Playero	play1240		smooth	1234	SMOOTH		binéhai	b i n e h a i
+508592	541268	hubercolumbian-Playero	play1240		smooth	1234	SMOOTH		ahúe	a h u e
+509941	542617	hubercolumbian-Cuiba	cuib1242		snake	730	SNAKE		hómo	h o m o
+509950	542626	hubercolumbian-Guahibo	guah1255		snake	730	SNAKE		hómo	h o m o
+509952	542628	hubercolumbian-Guayabero	guay1257		snake	730	SNAKE		hom	h o m
+509955	542631	hubercolumbian-Jitnu	maca1259		snake	730	SNAKE		hom	h o m
+509971	542647	hubercolumbian-Playero	play1240		snake	730	SNAKE		homó	h o m o
+525300	557976	hubercolumbian-Cuiba	cuib1242		split	1437	SPLIT		ukubóba	u k u b o b a
+525301	557977	hubercolumbian-Cuiba	cuib1242		split	1437	SPLIT		topʰohába	t o pʰ o h a b a
+525309	557985	hubercolumbian-Guahibo	guah1255		split	1437	SPLIT		wokóta	w o k o t a
+525310	557986	hubercolumbian-Guahibo	guah1255		split	1437	SPLIT		wokóba	w o k o b a
+525311	557987	hubercolumbian-Guahibo	guah1255		split	1437	SPLIT		ukúbaba	u k u b a b a
+525312	557988	hubercolumbian-Guahibo	guah1255		split	1437	SPLIT		titíka	t i t i k a
+525314	557990	hubercolumbian-Guayabero	guay1257		split	1437	SPLIT		tíʔa	t i ʔ a
+525332	558008	hubercolumbian-Playero	play1240		split	1437	SPLIT		titíka	t i t i k a
+527763	560439	hubercolumbian-Cuiba	cuib1242		squeeze	1414	SQUEEZE		júka	j u k a
+527777	560453	hubercolumbian-Guahibo	guah1255		squeeze	1414	SQUEEZE		katarí̵ri̵ta	k a t a r ɨ r ɨ t a
+527779	560455	hubercolumbian-Guayabero	guay1257		squeeze	1414	SQUEEZE		takí̵kt	t a k ɨ k t
+527780	560456	hubercolumbian-Guayabero	guay1257		squeeze	1414	SQUEEZE		takí̵ka	t a k ɨ k a
+527781	560457	hubercolumbian-Guayabero	guay1257		squeeze	1414	SQUEEZE		takí̵kapl	t a k ɨ k a p l
+527782	560458	hubercolumbian-Guayabero	guay1257		squeeze	1414	SQUEEZE		mamámt	m a m a m t
+527783	560459	hubercolumbian-Guayabero	guay1257		squeeze	1414	SQUEEZE		xasáeʔt	x a s a e ʔ t
+527784	560460	hubercolumbian-Guayabero	guay1257		squeeze	1414	SQUEEZE		dóʔa	d o ʔ a
+527785	560461	hubercolumbian-Guayabero	guay1257		squeeze	1414	SQUEEZE		seʔá	s e ʔ a
+527788	560464	hubercolumbian-Jitnu	maca1259		squeeze	1414	SQUEEZE		pejútpiha	p e j u t p i h a
+527810	560486	hubercolumbian-Playero	play1240		squeeze	1414	SQUEEZE		ɸutsúka	ɸ u ts u k a
+532212	564888	hubercolumbian-Cuiba	cuib1242		star	1430	STAR		opitéito	o p i t e i t o
+532221	564897	hubercolumbian-Guahibo	guah1255		star	1430	STAR		tulúputo	t u l u p u t o
+532222	564898	hubercolumbian-Guahibo	guah1255		star	1430	STAR		íwinai	i w i n a i
+532224	564900	hubercolumbian-Guayabero	guay1257		star	1430	STAR		ʔittáeht	ʔ i t t a e h t
+532227	564903	hubercolumbian-Jitnu	maca1259		star	1430	STAR		harwát	h a r w a t
+532240	564916	hubercolumbian-Playero	play1240		star	1430	STAR		ípitahíto	i p i t a h i t o
+535559	568235	hubercolumbian-Cuiba	cuib1242		stick	1295	STICK		náeto	n a e t o
+535568	568244	hubercolumbian-Guahibo	guah1255		stick	1295	STICK		náehawa	n a e h a w a
+535569	568245	hubercolumbian-Guahibo	guah1255		stick	1295	STICK		náebo	n a e b o
+535571	568247	hubercolumbian-Guayabero	guay1257		stick	1295	STICK		ne	n e
+535572	568248	hubercolumbian-Guayabero	guay1257		stick	1295	STICK		nae	n a e
+535575	568251	hubercolumbian-Jitnu	maca1259		stick	1295	STICK		nehá	n e h a
+535591	568267	hubercolumbian-Playero	play1240		stick	1295	STICK		néhewa	n e h e w a
+538753	571430	hubercolumbian-Cuiba	cuib1242		stone	857	STONE		ibóto	i b o t o
+538762	571439	hubercolumbian-Guahibo	guah1255		stone	857	STONE		ibóto	i b o t o
+538764	571441	hubercolumbian-Guayabero	guay1257		stone	857	STONE		ʔiat	ʔ i a t
+538767	571444	hubercolumbian-Jitnu	maca1259		stone	857	STONE		ibót	i b o t
+538780	571457	hubercolumbian-Playero	play1240		stone	857	STONE		ibóto	i b o t o
+541182	573859	hubercolumbian-Cuiba	cuib1242		straight	1404	STRAIGHT		bopíja	b o p i j a
+541191	573868	hubercolumbian-Guahibo	guah1255		straight	1404	STRAIGHT		rówia	r o w i a
+541193	573870	hubercolumbian-Guayabero	guay1257		straight	1404	STRAIGHT		matnóʧ	m a t n o tʃ
+541196	573873	hubercolumbian-Jitnu	maca1259		straight	1404	STRAIGHT		bokíke	b o k i k e
+541211	573888	hubercolumbian-Playero	play1240		straight	1404	STRAIGHT		pebopíhiwa	p e b o p i h i w a
+546144	578821	hubercolumbian-Cuiba	cuib1242		suck	1421	SUCK		tsutsúba	ts u ts u b a
+546156	578833	hubercolumbian-Guahibo	guah1255		suck	1421	SUCK		tsutsúne	ts u ts u n e
+546157	578834	hubercolumbian-Guahibo	guah1255		suck	1421	SUCK		tsutsúba	ts u ts u b a
+546159	578836	hubercolumbian-Guayabero	guay1257		suck	1421	SUCK		suw	s u w
+546162	578839	hubercolumbian-Jitnu	maca1259		suck	1421	SUCK		pehobímpia	p e h o b i m p i a
+546163	578840	hubercolumbian-Jitnu	maca1259		suck	1421	SUCK		tsusbí̵	ts u s b ɨ
+546181	578858	hubercolumbian-Playero	play1240		suck	1421	SUCK		tsutsúba	ts u ts u b a
+548136	580813	hubercolumbian-Cuiba	cuib1242		sun	1343	SUN		xométo	x o m e t o
+548147	580824	hubercolumbian-Guahibo	guah1255		sun	1343	SUN		huámeto	h u a m e t o
+548148	580825	hubercolumbian-Guahibo	guah1255		sun	1343	SUN		í:kotia	iː k o t i a
+548150	580827	hubercolumbian-Guayabero	guay1257		sun	1343	SUN		huímt matkói píhin	h u i m t + m a t k o i + p i h i n
+548153	580830	hubercolumbian-Jitnu	maca1259		sun	1343	SUN		kóti jonóhe	k o t i + j o n o h e
+548168	580845	hubercolumbian-Playero	play1240		sun	1343	SUN		ékotia	e k o t i a
+548169	580846	hubercolumbian-Playero	play1240		sun	1343	SUN		huámeto	h u a m e t o
+553976	586653	hubercolumbian-Cuiba	cuib1242		swell	1573	SWELL		putsúna	p u ts u n a
+553977	586654	hubercolumbian-Cuiba	cuib1242		swell	1573	SWELL		putúna	p u t u n a
+553985	586662	hubercolumbian-Guahibo	guah1255		swell	1573	SWELL		jahína	j a h i n a
+553986	586663	hubercolumbian-Guahibo	guah1255		swell	1573	SWELL		putúna	p u t u n a
+553987	586664	hubercolumbian-Guahibo	guah1255		swell	1573	SWELL		sá:na	s aː n a
+553988	586665	hubercolumbian-Guahibo	guah1255		swell	1573	SWELL		thai̵tʰái̵na	t h a ɨ tʰ a ɨ n a
+553989	586666	hubercolumbian-Guahibo	guah1255		swell	1573	SWELL		ɸuɸúna	ɸ u ɸ u n a
+553991	586668	hubercolumbian-Guayabero	guay1257		swell	1573	SWELL		pí̵dal	p ɨ d a l
+553994	586671	hubercolumbian-Jitnu	maca1259		swell	1573	SWELL		tsán	ts a n
+554008	586685	hubercolumbian-Playero	play1240		swell	1573	SWELL		putúna	p u t u n a
+555183	587860	hubercolumbian-Cuiba	cuib1242		swim	1439	SWIM		xuéiba	x u e i b a
+555184	587861	hubercolumbian-Cuiba	cuib1242		swim	1439	SWIM		xuá	x u a
+555194	587871	hubercolumbian-Guahibo	guah1255		swim	1439	SWIM		húa	h u a
+555195	587872	hubercolumbian-Guayabero	guay1257		swim	1439	SWIM		how	h o w
+555198	587875	hubercolumbian-Jitnu	maca1259		swim	1439	SWIM		niát	n i a t
+555211	587888	hubercolumbian-Playero	play1240		swim	1439	SWIM		nakoweta	n a k o w e t a
+557626	590303	hubercolumbian-Cuiba	cuib1242		tail	1220	TAIL		pebosóto	p e b o s o t o
+557627	590304	hubercolumbian-Cuiba	cuib1242		tail	1220	TAIL		petobeno	p e t o b e n o
+557628	590305	hubercolumbian-Cuiba	cuib1242		tail	1220	TAIL		cola de pez	c o l a + d e + p e z
+557640	590317	hubercolumbian-Guahibo	guah1255		tail	1220	TAIL		pebosó:to	p e b o s oː t o
+557641	590318	hubercolumbian-Guahibo	guah1255		tail	1220	TAIL		petobénato	p e t o b e n a t o
+557642	590319	hubercolumbian-Guahibo	guah1255		tail	1220	TAIL		cola de ave o pez	c o l a + d e + a v e + o + p e z
+557644	590321	hubercolumbian-Guayabero	guay1257		tail	1220	TAIL		peh toʔtít	p e h + t o ʔ t i t
+557645	590322	hubercolumbian-Guayabero	guay1257		tail	1220	TAIL		peh ta:bélt	p e h + t aː b e l t
+557646	590323	hubercolumbian-Guayabero	guay1257		tail	1220	TAIL		cola de pez	c o l a + d e + p e z
+557649	590326	hubercolumbian-Jitnu	maca1259		tail	1220	TAIL		pepsót	p e p s o t
+557663	590340	hubercolumbian-Playero	play1240		tail	1220	TAIL		pebosóto	p e b o s o t o
+567015	599694	hubercolumbian-Cuiba	cuib1242		that	78	THAT		báraxua	b a r a x u a
+567016	599695	hubercolumbian-Cuiba	cuib1242		that	78	THAT		dáxua	d a x u a
+567025	599704	hubercolumbian-Guahibo	guah1255		that	78	THAT		baharáxua	b a h a r a x u a
+567027	599706	hubercolumbian-Guayabero	guay1257		that	78	THAT		hapóx	h a p o x
+567030	599709	hubercolumbian-Jitnu	maca1259		that	78	THAT		hóhe	h o h e
+567046	599725	hubercolumbian-Playero	play1240		that	78	THAT		báharapohówa	b a h a r a p o h o w a
+569086	601765	hubercolumbian-Cuiba	cuib1242		there	1937	THERE		xotíjè	x o t i j e
+569087	601766	hubercolumbian-Cuiba	cuib1242		there	1937	THERE		xotíja	x o t i j a
+569098	601777	hubercolumbian-Guahibo	guah1255		there	1937	THERE		baharahó:ta	b a h a r a h oː t a
+569101	601780	hubercolumbian-Guayabero	guay1257		there	1937	THERE		haxótde	h a x o t d e
+569105	601784	hubercolumbian-Jitnu	maca1259		there	1937	THERE		horréhe	h o r r e h e
+569124	601803	hubercolumbian-Playero	play1240		there	1937	THERE		hótareka	h o t a r e k a
+570547	603226	hubercolumbian-Cuiba	cuib1242		they	817	THEY		barapomónae	b a r a p o m o n a e
+570548	603227	hubercolumbian-Cuiba	cuib1242		they	817	THEY		bapomónac	b a p o m o n a c
+570549	603228	hubercolumbian-Cuiba	cuib1242		they	817	THEY		pomonae	p o m o n a e
+570559	603238	hubercolumbian-Guahibo	guah1255		they	817	THEY		pomó:nae	p o m oː n a e
+570560	603239	hubercolumbian-Guahibo	guah1255		they	817	THEY		pamó:nae	p a m oː n a e
+570561	603240	hubercolumbian-Guahibo	guah1255		they	817	THEY		baharapamonac	b a h a r a p a m o n a c
+570563	603242	hubercolumbian-Guayabero	guay1257		they	817	THEY		hapí	h a p i
+570566	603245	hubercolumbian-Jitnu	maca1259		they	817	THEY		isní̵	i s n ɨ
+570589	603268	hubercolumbian-Playero	play1240		they	817	THEY		baharápomóne	b a h a r a p o m o n e
+571990	604669	hubercolumbian-Cuiba	cuib1242		thick	1244	THICK		pínwa	p i n w a
+571991	604670	hubercolumbian-Cuiba	cuib1242		thick	1244	THICK		áitiji̵	a i t i j ɨ
+572001	604680	hubercolumbian-Guahibo	guah1255		thick	1244	THICK		áitajai̵	a i t a j a ɨ
+572003	604682	hubercolumbian-Guayabero	guay1257		thick	1244	THICK		dáʔnik	d a ʔ n i k
+572006	604685	hubercolumbian-Jitnu	maca1259		thick	1244	THICK		íti	i t i
+572022	604701	hubercolumbian-Playero	play1240		thick	1244	THICK		itají̵	i t a j ɨ
+573384	606063	hubercolumbian-Cuiba	cuib1242		thin	2308	THIN		hiopéka	h i o p e k a
+573385	606064	hubercolumbian-Cuiba	cuib1242		thin	2308	THIN		natséna	n a ts e n a
+573393	606072	hubercolumbian-Guahibo	guah1255		thin	2308	THIN		itaɸá:ka	i t a ɸ aː k a
+573394	606073	hubercolumbian-Guahibo	guah1255		thin	2308	THIN		híopa	h i o p a
+573395	606074	hubercolumbian-Guahibo	guah1255		thin	2308	THIN		hiopé:ka	h i o p eː k a
+573397	606076	hubercolumbian-Guayabero	guay1257		thin	2308	THIN		híap	h i a p
+573398	606077	hubercolumbian-Guayabero	guay1257		thin	2308	THIN		tatáelk	t a t a e l k
+573399	606078	hubercolumbian-Guayabero	guay1257		thin	2308	THIN		como papel	c o m o + p a p e l
+573403	606082	hubercolumbian-Jitnu	maca1259		thin	2308	THIN		totobá	t o t o b a
+573422	606101	hubercolumbian-Playero	play1240		thin	2308	THIN		itaɸáɸana	i t a ɸ a ɸ a n a
+574809	607488	hubercolumbian-Cuiba	cuib1242		think	2271	THINK		nántana xeína	n a n t a n a + x e i n a
+574810	607489	hubercolumbian-Cuiba	cuib1242		think	2271	THINK		nanta xeina	n a n t a + x e i n a
+574821	607500	hubercolumbian-Guahibo	guah1255		think	2271	THINK		nahumatabi̵xáina	n a h u m a t a b ɨ x a i n a
+574822	607501	hubercolumbian-Guahibo	guah1255		think	2271	THINK		nabamatabi̵xáina	n a b a m a t a b ɨ x a i n a
+574824	607503	hubercolumbian-Guayabero	guay1257		think	2271	THINK		nehʧahóel	n e h tʃ a h o e l
+574842	607521	hubercolumbian-Playero	play1240		think	2271	THINK		namatábi̵xáina	n a m a t a b ɨ x a i n a
+578097	610776	hubercolumbian-Cuiba	cuib1242		this	1214	THIS		méhe	m e h e
+578098	610777	hubercolumbian-Cuiba	cuib1242		this	1214	THIS		xuáhe	x u a h e
+578109	610788	hubercolumbian-Guahibo	guah1255		this	1214	THIS		ma:xúahe	m aː x u a h e
+578110	610789	hubercolumbian-Guahibo	guah1255		this	1214	THIS		xúa	x u a
+578112	610791	hubercolumbian-Guayabero	guay1257		this	1214	THIS		ʔampóx	ʔ a m p o x
+578115	610794	hubercolumbian-Jitnu	maca1259		this	1214	THIS		hóhe	h o h e
+578133	610812	hubercolumbian-Playero	play1240		this	1214	THIS		pohówa	p o h o w a
+580293	612975	hubercolumbian-Cuiba	cuib1242		thou	1215	THOU		xam	x a m
+580303	612985	hubercolumbian-Guahibo	guah1255		thou	1215	THOU		xámi̵	x a m ɨ
+580305	612987	hubercolumbian-Guayabero	guay1257		thou	1215	THOU		xam	x a m
+580308	612990	hubercolumbian-Jitnu	maca1259		thou	1215	THOU		kam	k a m
+580326	613008	hubercolumbian-Playero	play1240		thou	1215	THOU		xámi̵	x a m ɨ
+583065	615750	hubercolumbian-Cuiba	cuib1242		three	492	THREE		akóibi	a k o i b i
+583075	615760	hubercolumbian-Guahibo	guah1255		three	492	THREE		akúejabi	a k u e j a b i
+583077	615762	hubercolumbian-Guayabero	guay1257		three	492	THREE		pamópaxhe	p a m o p a x h e
+583080	615765	hubercolumbian-Jitnu	maca1259		three	492	THREE		hóbehe	h o b e h e
+583092	615777	hubercolumbian-Playero	play1240		three	492	THREE		penajánaʧíwa	p e n a j a n a tʃ i w a
+583093	615778	hubercolumbian-Playero	play1240		three	492	THREE		trébehe	t r e b e h e
+585991	618676	hubercolumbian-Cuiba	cuib1242		throw	1456	THROW		xúba	x u b a
+585992	618677	hubercolumbian-Cuiba	cuib1242		throw	1456	THROW		bébai	b e b a i
+586003	618688	hubercolumbian-Guahibo	guah1255		throw	1456	THROW		bixána	b i x a n a
+586004	618689	hubercolumbian-Guahibo	guah1255		throw	1456	THROW		xúaba	x u a b a
+586005	618690	hubercolumbian-Guahibo	guah1255		throw	1456	THROW		péneta	p e n e t a
+586007	618692	hubercolumbian-Guayabero	guay1257		throw	1456	THROW		fóʔa	f o ʔ a
+586008	618693	hubercolumbian-Guayabero	guay1257		throw	1456	THROW		pelt	p e l t
+586011	618696	hubercolumbian-Jitnu	maca1259		throw	1456	THROW		oták	o t a k
+586032	618717	hubercolumbian-Playero	play1240		throw	1456	THROW		namaxi̵xua	n a m a x ɨ x u a
+586033	618718	hubercolumbian-Playero	play1240		throw	1456	THROW		xúalia	x u a l i a
+589092	621779	hubercolumbian-Cuiba	cuib1242		tie	1917	TIE		kí̵ta	k ɨ t a
+589093	621780	hubercolumbian-Cuiba	cuib1242		tie	1917	TIE		kí̵ba	k ɨ b a
+589104	621791	hubercolumbian-Guahibo	guah1255		tie	1917	TIE		kí̵:ta	k ɨː t a
+589105	621792	hubercolumbian-Guahibo	guah1255		tie	1917	TIE		kí̵:ba	k ɨː b a
+589107	621794	hubercolumbian-Guayabero	guay1257		tie	1917	TIE		kí̵	k ɨ
+589110	621797	hubercolumbian-Jitnu	maca1259		tie	1917	TIE		kí̵p	k ɨ p
+589125	621812	hubercolumbian-Playero	play1240		tie	1917	TIE		kí̵ba	k ɨ b a
+596191	628878	hubercolumbian-Cuiba	cuib1242		tongue	1205	TONGUE		peébato	p e e b a t o
+596203	628890	hubercolumbian-Guahibo	guah1255		tongue	1205	TONGUE		pee:bári̵to	p eː b a r ɨ t o
+596205	628892	hubercolumbian-Guayabero	guay1257		tongue	1205	TONGUE		peh kaʧiéʔt	p e h + k a tʃ i e ʔ t
+596208	628895	hubercolumbian-Jitnu	maca1259		tongue	1205	TONGUE		pébrat	p e b r a t
+596221	628908	hubercolumbian-Playero	play1240		tongue	1205	TONGUE		peéborto	p e e b o r t o
+598370	631057	hubercolumbian-Cuiba	cuib1242		tooth	1380	TOOTH		pewáno	p e w a n o
+598379	631066	hubercolumbian-Guahibo	guah1255		tooth	1380	TOOTH		pewónoto	p e w o n o t o
+598381	631068	hubercolumbian-Guayabero	guay1257		tooth	1380	TOOTH		peh bi̵aʔt	p e h + b ɨ a ʔ t
+598384	631071	hubercolumbian-Jitnu	maca1259		tooth	1380	TOOTH		wáwan	w a w a n
+598397	631084	hubercolumbian-Playero	play1240		tooth	1380	TOOTH		pewánto	p e w a n t o
+602772	635459	hubercolumbian-Cuiba	cuib1242		tree	906	TREE		náe	n a e
+602773	635460	hubercolumbian-Cuiba	cuib1242		tree	906	TREE		náewa	n a e w a
+602782	635469	hubercolumbian-Guahibo	guah1255		tree	906	TREE		n̥ae	n̥ a e
+602783	635470	hubercolumbian-Guahibo	guah1255		tree	906	TREE		náehawa	n a e h a w a
+602785	635472	hubercolumbian-Guayabero	guay1257		tree	906	TREE		nae	n a e
+602786	635473	hubercolumbian-Guayabero	guay1257		tree	906	TREE		ne	n e
+602789	635476	hubercolumbian-Jitnu	maca1259		tree	906	TREE		nehá	n e h a
+602805	635492	hubercolumbian-Playero	play1240		tree	906	TREE		né	n e
+602806	635493	hubercolumbian-Playero	play1240		tree	906	TREE		néhewa	n e h e w a
+611270	643957	hubercolumbian-Cuiba	cuib1242		two	1498	TWO		ainjáwabe	a i n j a w a b e
+611280	643967	hubercolumbian-Guahibo	guah1255		two	1498	TWO		aniha	a n i h a
+611281	643968	hubercolumbian-Guahibo	guah1255		two	1498	TWO		anihaháwahehe	a n i h a h a w a h e h e
+611282	643969	hubercolumbian-Guahibo	guah1255		two	1498	TWO		nahua	n a h u a
+611284	643971	hubercolumbian-Guayabero	guay1257		two	1498	TWO		koʔlénhe	k o ʔ l e n h e
+611285	643972	hubercolumbian-Guayabero	guay1257		two	1498	TWO		koʔléjaxhe	k o ʔ l e j a x h e
+611288	643975	hubercolumbian-Jitnu	maca1259		two	1498	TWO		penakuéʧabe	p e n a k u e tʃ a b e
+611303	643990	hubercolumbian-Playero	play1240		two	1498	TWO		nahúawabehe	n a h u a w a b e h e
+621171	653859	hubercolumbian-Cuiba	cuib1242		vomit	1278	VOMIT		nakába	n a k a b a
+621172	653860	hubercolumbian-Cuiba	cuib1242		vomit	1278	VOMIT		jakába	j a k a b a
+621180	653868	hubercolumbian-Guahibo	guah1255		vomit	1278	VOMIT		ja:ká:ba	j aː k aː b a
+621182	653870	hubercolumbian-Guayabero	guay1257		vomit	1278	VOMIT		ʧaká	tʃ a k a
+621186	653874	hubercolumbian-Jitnu	maca1259		vomit	1278	VOMIT		nakáp	n a k a p
+621199	653887	hubercolumbian-Playero	play1240		vomit	1278	VOMIT		nakába	n a k a b a
+624752	677413	hubercolumbian-Cuiba	cuib1242		where	1237	WHERE		éta xóta	e t a + x o t a
+624753	677414	hubercolumbian-Cuiba	cuib1242		where	1237	WHERE		exóta	e x o t a
+624754	677415	hubercolumbian-Cuiba	cuib1242		where	1237	WHERE		iʧaxota	i tʃ a x o t a
+624763	677424	hubercolumbian-Guahibo	guah1255		where	1237	WHERE		itsahóta	i ts a h o t a
+624764	677425	hubercolumbian-Guahibo	guah1255		where	1237	WHERE		dé:tsa: hóta	d eː ts aː + h o t a
+624765	677426	hubercolumbian-Guahibo	guah1255		where	1237	WHERE		int	i n t
+624767	677428	hubercolumbian-Guayabero	guay1257		where	1237	WHERE		amxót	a m x o t
+624770	677431	hubercolumbian-Jitnu	maca1259		where	1237	WHERE		ipohát	i p o h a t
+624791	677452	hubercolumbian-Playero	play1240		where	1237	WHERE		ínʧahóta dojá	i n tʃ a h o t a + d o j a
+627118	679779	hubercolumbian-Cuiba	cuib1242		white	1335	WHITE		ínjapana	i n j a p a n a
+627119	679780	hubercolumbian-Cuiba	cuib1242		white	1335	WHITE		pemáinjowa	p e m a i n j o w a
+627131	679792	hubercolumbian-Guahibo	guah1255		white	1335	WHITE		niopona	n i o p o n a
+627132	679793	hubercolumbian-Guahibo	guah1255		white	1335	WHITE		penioponáchawa	p e n i o p o n a c h a w a
+627133	679794	hubercolumbian-Guahibo	guah1255		white	1335	WHITE		peɸobíahawa	p e ɸ o b i a h a w a
+627135	679796	hubercolumbian-Guayabero	guay1257		white	1335	WHITE		papóejax	p a p o e j a x
+627138	679799	hubercolumbian-Jitnu	maca1259		white	1335	WHITE		pepobíha	p e p o b i h a
+627153	679814	hubercolumbian-Playero	play1240		white	1335	WHITE		pemaníawa	p e m a n i a w a
+629578	682331	hubercolumbian-Cuiba	cuib1242		who	1235	WHO		híntam	h i n t a m
+629589	682342	hubercolumbian-Guahibo	guah1255		who	1235	WHO		hipatsá:	h i p a ts aː
+629590	682343	hubercolumbian-Guahibo	guah1255		who	1235	WHO		ipatsá:	i p a ts aː
+629592	682345	hubercolumbian-Guayabero	guay1257		who	1235	WHO		ʔaʧán	ʔ a tʃ a n
+629596	682349	hubercolumbian-Jitnu	maca1259		who	1235	WHO		nekéni̵	n e k e n ɨ
+629597	682350	hubercolumbian-Jitnu	maca1259		who	1235	WHO		banekéni̵	b a n e k e n ɨ
+629618	682371	hubercolumbian-Playero	play1240		who	1235	WHO		dahaʧi̵n	d a h a tʃ ɨ n
+631374	684128	hubercolumbian-Cuiba	cuib1242		wide	1243	WIDE		apipíja	a p i p i j a
+631375	684129	hubercolumbian-Cuiba	cuib1242		wide	1243	WIDE		peréka	p e r e k a
+631384	684138	hubercolumbian-Guahibo	guah1255		wide	1243	WIDE		ajáiitabara	a j a iː t a b a r a
+631386	684140	hubercolumbian-Guayabero	guay1257		wide	1243	WIDE		pinjatú	p i n j a t u
+631389	684143	hubercolumbian-Jitnu	maca1259		wide	1243	WIDE		peknái̵n	p e k n a ɨ n
+631403	684157	hubercolumbian-Playero	play1240		wide	1243	WIDE		waretutú	w a r e t u t u
+632894	685648	hubercolumbian-Cuiba	cuib1242		wife	1199	WIFE		píowa	p i o w a
+632895	685649	hubercolumbian-Cuiba	cuib1242		wife	1199	WIFE		piséuri	p i s e u r i
+632905	685659	hubercolumbian-Guahibo	guah1255		wife	1199	WIFE		píhawa:	p i h a w aː
+632907	685661	hubercolumbian-Guayabero	guay1257		wife	1199	WIFE		píhow	p i h o w
+632910	685664	hubercolumbian-Jitnu	maca1259		wife	1199	WIFE		pebákui	p e b a k u i
+632911	685665	hubercolumbian-Jitnu	maca1259		wife	1199	WIFE		pebárkui	p e b a r k u i
+632928	685682	hubercolumbian-Playero	play1240		wife	1199	WIFE		ɸiaséwari̵	ɸ i a s e w a r ɨ
+632929	685683	hubercolumbian-Playero	play1240		wife	1199	WIFE		piapetíriwa	p i a p e t i r i w a
+634962	687716	hubercolumbian-Cuiba	cuib1242		wind	960	WIND		hóibo	h o i b o
+634972	687726	hubercolumbian-Guahibo	guah1255		wind	960	WIND		howí:bo	h o w iː b o
+634974	687728	hubercolumbian-Guayabero	guay1257		wind	960	WIND		hóewa	h o e w a
+634975	687729	hubercolumbian-Guayabero	guay1257		wind	960	WIND		wik	w i k
+634979	687733	hubercolumbian-Jitnu	maca1259		wind	960	WIND		huíp	h u i p
+634993	687747	hubercolumbian-Playero	play1240		wind	960	WIND		howíbo	h o w i b o
+637092	689846	hubercolumbian-Cuiba	cuib1242		wing	1257	WING		pekuáraɸe	p e k u a r a ɸ e
+637102	689856	hubercolumbian-Guahibo	guah1255		wing	1257	WING		pekóroɸeto	p e k o r o ɸ e t o
+637104	689858	hubercolumbian-Guayabero	guay1257		wing	1257	WING		pabá	p a b a
+637105	689859	hubercolumbian-Guayabero	guay1257		wing	1257	WING		peh baʔ	p e h + b a ʔ
+637109	689863	hubercolumbian-Jitnu	maca1259		wing	1257	WING		pekorʧit	p e k o r tʃ i t
+637125	689879	hubercolumbian-Playero	play1240		wing	1257	WING		pekóroɸéto	p e k o r o ɸ e t o
+638841	691595	hubercolumbian-Cuiba	cuib1242		with	1340	WITH		tʰá	tʰ a
+638842	691596	hubercolumbian-Cuiba	cuib1242		with	1340	WITH		bári̵	b a r ɨ
+638843	691597	hubercolumbian-Cuiba	cuib1242		with	1340	WITH		jáwa	j a w a
+638853	691607	hubercolumbian-Guahibo	guah1255		with	1340	WITH		ta	t a
+638854	691608	hubercolumbian-Guahibo	guah1255		with	1340	WITH		ja:hawa	j aː h a w a
+638855	691609	hubercolumbian-Guahibo	guah1255		with	1340	WITH		bari̵	b a r ɨ
+638857	691611	hubercolumbian-Guayabero	guay1257		with	1340	WITH		sapáʧ	s a p a tʃ
+638858	691612	hubercolumbian-Guayabero	guay1257		with	1340	WITH		bi̵	b ɨ
+638882	691636	hubercolumbian-Playero	play1240		with	1340	WITH		ta	t a
+639963	692718	hubercolumbian-Cuiba	cuib1242		woman	962	WOMAN		petsiríwa	p e ts i r i w a
+639964	692719	hubercolumbian-Cuiba	cuib1242		woman	962	WOMAN		jabí̵jo	j a b ɨ j o
+639973	692728	hubercolumbian-Guahibo	guah1255		woman	962	WOMAN		petíriwa:	p e t i r i w aː
+639975	692730	hubercolumbian-Guayabero	guay1257		woman	962	WOMAN		puwís	p u w i s
+639978	692733	hubercolumbian-Jitnu	maca1259		woman	962	WOMAN		warapéni̵	w a r a p e n ɨ
+639996	692751	hubercolumbian-Playero	play1240		woman	962	WOMAN		petíriwa	p e t i r i w a
+644327	697082	hubercolumbian-Cuiba	cuib1242		worm	1219	WORM		tóinabo	t o i n a b o
+644328	697083	hubercolumbian-Cuiba	cuib1242		worm	1219	WORM		óro	o r o
+644342	697097	hubercolumbian-Guahibo	guah1255		worm	1219	WORM		towínabo	t o w i n a b o
+644344	697099	hubercolumbian-Guayabero	guay1257		worm	1219	WORM		téwin	t e w i n
+644347	697102	hubercolumbian-Jitnu	maca1259		worm	1219	WORM		topín	t o p i n
+644365	697120	hubercolumbian-Playero	play1240		worm	1219	WORM		towínaboto	t o w i n a b o t o
+651584	705424	hubercolumbian-Cuiba	cuib1242		you	1213	YOU		paxám	p a x a m
+651594	705434	hubercolumbian-Guahibo	guah1255		you	1213	YOU		paxámi̵	p a x a m ɨ
+651596	705436	hubercolumbian-Guayabero	guay1257		you	1213	YOU		xámal	x a m a l
+651599	705439	hubercolumbian-Jitnu	maca1259		you	1213	YOU		páin	p a i n
+651619	705459	hubercolumbian-Playero	play1240		you	1213	YOU		paxámi̵	p a x a m ɨ

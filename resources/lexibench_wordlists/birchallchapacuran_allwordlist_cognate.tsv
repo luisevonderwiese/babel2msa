@@ -1,0 +1,1038 @@
+	ID	DOCULECT	CONCEPT	Segments	GLOTTOCODE	ISO_CODE	CONCEPTICON_ID	CONCEPTICON_GLOSS	COGNATES	FORM
+0	cojubim-100_moon-1	cojubim	100_moon	p a n a w o ʔ	kuyu1236	nan	1313	MOON	100_moon-A	
+1	cojubim-101_star-1	cojubim	101_star	p i + p i j o	kuyu1236	nan	1430	STAR	101_star-A	
+2	cojubim-102_water-1	cojubim	102_water	k o m	kuyu1236	nan	948	WATER	102_water-A	
+3	cojubim-104_stone-1	cojubim	104_stone	p i k u n	kuyu1236	nan	857	STONE	104_stone-A	
+4	cojubim-106_earth-1	cojubim	106_earth	n a m a k a n	kuyu1236	nan	1228	EARTH (SOIL)	106_earth-A	
+5	cojubim-106_earth-2	cojubim	106_earth	t i m a k	kuyu1236	nan	1228	EARTH (SOIL)	106_earth-B	
+6	cojubim-107_sky-1	cojubim	107_sky	a w i n	kuyu1236	nan	1732	SKY	107_sky-A	
+7	cojubim-108_wind-1	cojubim	108_wind	p u j a n i	kuyu1236	nan	960	WIND	108_wind-C	
+8	cojubim-109_smoke-1	cojubim	109_smoke	i w i ʔ	kuyu1236	nan	778	SMOKE (EXHAUST)	109_smoke-A	
+9	cojubim-10_one-1	cojubim	10_one	t a n	kuyu1236	nan	1493	ONE	10_one-A	
+10	cojubim-110_fire-1	cojubim	110_fire	i tʃ e	kuyu1236	nan	221	FIRE	110_fire-A	
+11	cojubim-112_road-1	cojubim	112_road	w a n a	kuyu1236	nan	667	ROAD	112_road-A	
+12	cojubim-113_red-1	cojubim	113_red	m e m	kuyu1236	nan	156	RED	113_red-A	
+13	cojubim-115_white-1	cojubim	115_white	t o w a ʔ	kuyu1236	nan	1335	WHITE	115_white-A	
+14	cojubim-116_black-1	cojubim	116_black	t o m	kuyu1236	nan	163	BLACK	116_black-E	
+15	cojubim-117_night-1	cojubim	117_night	i s i m	kuyu1236	nan	1233	NIGHT	117_night-A	
+16	cojubim-118_day-1	cojubim	118_day	t i p a t	kuyu1236	nan	1225	DAY (NOT NIGHT)	118_day-C	
+17	cojubim-119_summer-1	cojubim	119_summer	k a w a z i ʔ	kuyu1236	nan	1342	SUMMER	119_summer-A	
+18	cojubim-11_two-1	cojubim	11_two	w a k o r a n	kuyu1236	nan	1498	TWO	11_two-A	
+19	cojubim-120_cold-1	cojubim	120_cold	tʃ i w ʔ	kuyu1236	nan	1287	COLD	120_cold-A	
+20	cojubim-123_good-1	cojubim	123_good	n a m i ʔ	kuyu1236	nan	1035	GOOD	123_good-C	
+21	cojubim-125_afternoon-1	cojubim	125_afternoon	i r a w i n	kuyu1236	nan	1807	AFTERNOON	125_afternoon-A	
+22	cojubim-12_big-1	cojubim	12_big	i n a	kuyu1236	nan	1202	BIG	12_big-D	
+23	cojubim-13_small-1	cojubim	13_small	e	kuyu1236	nan	1246	SMALL	13_small-C	
+24	cojubim-14_woman-1	cojubim	14_woman	t a n a m a n	kuyu1236	nan	962	WOMAN	14_woman-B	
+25	cojubim-15_man-1	cojubim	15_man	n a m a k o n	kuyu1236	nan	1554	MAN	15_man-B	
+26	cojubim-17_child-1	cojubim	17_child	r a t o	kuyu1236	nan	2099	CHILD	17_child-C	
+27	cojubim-18_mother-1	cojubim	18_mother	i n a ʔ	kuyu1236	nan	1216	MOTHER	18_mother-A	
+28	cojubim-18_mother-2	cojubim	18_mother	u w e ʔ	kuyu1236	nan	1216	MOTHER	18_mother-B	
+29	cojubim-19_father-1	cojubim	19_father	i t e	kuyu1236	nan	1217	FATHER	19_father-A	
+30	cojubim-1_i-1	cojubim	1_i	w a z a	kuyu1236	nan	1209	I	1_i-A	
+31	cojubim-20_animal-1	cojubim	20_animal	p a t i ʔ	kuyu1236	nan	619	ANIMAL	20_animal-A	
+32	cojubim-22_bird-1	cojubim	22_bird	u m e	kuyu1236	nan	937	BIRD	22_bird-A	
+33	cojubim-23_peccary-1	cojubim	23_peccary	t o k o w a n	kuyu1236	nan	2390	PECCARY	23_peccary-A	
+34	cojubim-24_deer-1	cojubim	24_deer	t o w a m	kuyu1236	nan	1936	DEER	24_deer-E	
+35	cojubim-25_louse-1	cojubim	25_louse	i w	kuyu1236	nan	1392	LOUSE	25_louse-A	
+36	cojubim-26_snake-1	cojubim	26_snake	k a r a k a w	kuyu1236	nan	730	SNAKE	26_snake-A	
+37	cojubim-29_stick-1	cojubim	29_stick	p a n a	kuyu1236	nan	1295	STICK	29_stick-A	
+38	cojubim-2_yousg-1	cojubim	2_yousg	u m	kuyu1236	nan	1215	THOU	2_yousg-A	
+39	cojubim-30_fruit-1	cojubim	30_fruit	u p e j i + p a n a	kuyu1236	nan	1507	FRUIT	30_fruit-A	
+40	cojubim-31_leaf-1	cojubim	31_leaf	t a n	kuyu1236	nan	628	LEAF	31_leaf-A	
+41	cojubim-33_flower-1	cojubim	33_flower	p i w a n	kuyu1236	nan	239	FLOWER	33_flower-A	
+42	cojubim-35_rope-1	cojubim	35_rope	m o k o n	kuyu1236	nan	1218	ROPE	35_rope-A	
+43	cojubim-39_bone-1	cojubim	39_bone	a t	kuyu1236	nan	1394	BONE	39_bone-A	
+44	cojubim-40_fat-1	cojubim	40_fat	m a p u m	kuyu1236	nan	323	FAT (ORGANIC SUBSTANCE)	40_fat-A	
+45	cojubim-41_egg-1	cojubim	41_egg	a r i + j a ɲ	kuyu1236	nan	744	EGG	41_egg-A	
+46	cojubim-42_horn-1	cojubim	42_horn	t a t a w	kuyu1236	nan	939	HORN (INSTRUMENT)	42_horn-B	
+47	cojubim-43_tail-1	cojubim	43_tail	k i p u n	kuyu1236	nan	1220	TAIL	43_tail-A	
+48	cojubim-44_hair-1	cojubim	44_hair	t u n a	kuyu1236	nan	1040	HAIR	44_hair-A	
+49	cojubim-45_head-1	cojubim	45_head	u p e k	kuyu1236	nan	1256	HEAD	45_head-A	
+50	cojubim-46_ear-1	cojubim	46_ear	t e n e t e t	kuyu1236	nan	1247	EAR	46_ear-B	
+51	cojubim-47_eye-1	cojubim	47_eye	t o k	kuyu1236	nan	1248	EYE	47_eye-A	
+52	cojubim-48_nose-1	cojubim	48_nose	u r	kuyu1236	nan	1221	NOSE	48_nose-A	
+53	cojubim-51_tongue-1	cojubim	51_tongue	k a p a j a k	kuyu1236	nan	1205	TONGUE	51_tongue-B	
+54	cojubim-52_fingernail-1	cojubim	52_fingernail	t u p i	kuyu1236	nan	1258	FINGERNAIL	52_fingernail-B	
+55	cojubim-53_foot-1	cojubim	53_foot	tʃ i n a k	kuyu1236	nan	1301	FOOT	53_foot-C	
+56	cojubim-54_leg-1	cojubim	54_leg	p o k	kuyu1236	nan	1297	LEG	54_leg-A	
+57	cojubim-55_knee-1	cojubim	55_knee	t o k o z i m	kuyu1236	nan	1371	KNEE	55_knee-C	
+58	cojubim-56_hand-1	cojubim	56_hand	t i p a n	kuyu1236	nan	1277	HAND	56_hand-B	
+59	cojubim-57_wing-1	cojubim	57_wing	n i p a t	kuyu1236	nan	1257	WING	57_wing-A	
+60	cojubim-58_belly-1	cojubim	58_belly	tʃ a k a w + t a	kuyu1236	nan	1251	BELLY	58_belly-C	
+61	cojubim-59_guts-1	cojubim	59_guts	k i r i m o n ʔ	kuyu1236	nan	1334	GUTS	59_guts-A	
+62	cojubim-60_neck-1	cojubim	60_neck	p a t a m	kuyu1236	nan	1333	NECK	60_neck-A	
+63	cojubim-61_back-1	cojubim	61_back	a t a w	kuyu1236	nan	1291	BACK	61_back-A	
+64	cojubim-62_breast-1	cojubim	62_breast	k a t a t	kuyu1236	nan	1402	BREAST	62_breast-A	
+65	cojubim-63_heart-1	cojubim	63_heart	t o k u + r u + t i m	kuyu1236	nan	1223	HEART	63_heart-A	
+66	cojubim-64_liver-1	cojubim	64_liver	tʃ a w a n	kuyu1236	nan	1224	LIVER	64_liver-A	
+67	cojubim-65_drink-1	cojubim	65_drink	t o k	kuyu1236	nan	1401	DRINK	65_drink-A	
+68	cojubim-66_eat-1	cojubim	66_eat	k a w ʔ	kuyu1236	nan	1336	EAT	66_eat-A	
+69	cojubim-67_bite-1	cojubim	67_bite	k i w ʔ	kuyu1236	nan	1403	BITE	67_bite-A	
+70	cojubim-68_suck-1	cojubim	68_suck	tʃ a k	kuyu1236	nan	1421	SUCK	68_suck-A	
+71	cojubim-69_vomit-1	cojubim	69_vomit	w e ʔ	kuyu1236	nan	1278	VOMIT	69_vomit-A	
+72	cojubim-70_breathe-1	cojubim	70_breathe	z a k	kuyu1236	nan	1407	BREATHE	70_breathe-B	
+73	cojubim-71_laugh-1	cojubim	71_laugh	t a s a m	kuyu1236	nan	1355	LAUGH	71_laugh-A	
+74	cojubim-72_see-1	cojubim	72_see	k i r i k	kuyu1236	nan	1409	SEE	72_see-A	
+75	cojubim-73_hear-1	cojubim	73_hear	r a p a t	kuyu1236	nan	1408	HEAR	73_hear-A	
+76	cojubim-74_fear-1	cojubim	74_fear	i n i n ʔ	kuyu1236	nan	1419	FEAR (BE AFRAID)	74_fear-A	
+77	cojubim-75_sleep-1	cojubim	75_sleep	u p i n	kuyu1236	nan	1585	SLEEP	75_sleep-A	
+78	cojubim-76_die-1	cojubim	76_die	i m i ʔ	kuyu1236	nan	1494	DIE	76_die-A	
+79	cojubim-77_kill-1	cojubim	77_kill	p a ʔ	kuyu1236	nan	1417	KILL	77_kill-A	
+80	cojubim-79_shoot-1	cojubim	79_shoot	p u r u	kuyu1236	nan	1172	SHOOT	79_shoot-A	
+81	cojubim-80_hit-1	cojubim	80_hit	p a p	kuyu1236	nan	1433	HIT	80_hit-B	
+82	cojubim-81_cut-1	cojubim	81_cut	t a ʔ	kuyu1236	nan	1432	CUT	81_cut-A	
+83	cojubim-81_cut-2	cojubim	81_cut	w a k	kuyu1236	nan	1432	CUT	81_cut-B	
+84	cojubim-82_dig-1	cojubim	82_dig	t u k	kuyu1236	nan	1418	DIG	82_dig-A	
+85	cojubim-83_swim-1	cojubim	83_swim	m a r a k u j a n	kuyu1236	nan	1439	SWIM	83_swim-E	
+86	cojubim-84_fly-1	cojubim	84_fly	z e	kuyu1236	nan	1441	FLY (MOVE THROUGH AIR)	84_fly-C	
+87	cojubim-85_walk-1	cojubim	85_walk	t o t	kuyu1236	nan	1443	WALK	85_walk-A	
+88	cojubim-86_come-1	cojubim	86_come	i w a n	kuyu1236	nan	1446	COME	86_come-B	
+89	cojubim-87_lie-1	cojubim	87_lie	t i t i m ʔ	kuyu1236	nan	1411	LIE (REST)	87_lie-A	
+90	cojubim-88_sit-1	cojubim	88_sit	p e	kuyu1236	nan	1416	SIT	88_sit-A	
+91	cojubim-89_stand-1	cojubim	89_stand	t a k	kuyu1236	nan	1442	STAND	89_stand-A	
+92	cojubim-8_many-1	cojubim	8_many	n a p a	kuyu1236	nan	1198	MANY	8_many-B	
+93	cojubim-90_fall-1	cojubim	90_fall	i p a n	kuyu1236	nan	1280	FALL	90_fall-A	
+94	cojubim-91_give-1	cojubim	91_give	m i ʔ	kuyu1236	nan	1447	GIVE	91_give-A	
+95	cojubim-92_wash-1	cojubim	92_wash	tʃ a w	kuyu1236	nan	1453	WASH	92_wash-C	
+96	cojubim-93_pull-1	cojubim	93_pull	k o	kuyu1236	nan	1455	PULL	93_pull-A	
+97	cojubim-94_push-1	cojubim	94_push	j o k	kuyu1236	nan	1452	PUSH	94_push-A	
+98	cojubim-95_throw-1	cojubim	95_throw	p i n	kuyu1236	nan	1456	THROW	95_throw-B	
+99	cojubim-96_tie-1	cojubim	96_tie	p i p	kuyu1236	nan	1917	TIE	96_tie-B	
+100	cojubim-97_say-1	cojubim	97_say	j a	kuyu1236	nan	1458	SAY	97_say-E	
+101	cojubim-98_sing-1	cojubim	98_sing	w o	kuyu1236	nan	1261	SING	98_sing-C	
+102	cojubim-99_sun-1	cojubim	99_sun	m a p i t o ʔ	kuyu1236	nan	1343	SUN	99_sun-A	
+103	jaru-100_moon-1	jaru	100_moon	p a n a u	yaru1257	nan	1313	MOON	100_moon-A	
+104	jaru-101_star-1	jaru	101_star	u p i u	yaru1257	nan	1430	STAR	101_star-A	
+105	jaru-102_water-1	jaru	102_water	k o	yaru1257	nan	948	WATER	102_water-A	
+106	jaru-103_rain-1	jaru	103_rain	s o i	yaru1257	nan	2108	RAINING OR RAIN	103_rain-A	
+107	jaru-104_stone-1	jaru	104_stone	p a k e n	yaru1257	nan	857	STONE	104_stone-A	
+108	jaru-105_sand-1	jaru	105_sand	n a m a j e k u n	yaru1257	nan	671	SAND	105_sand-A	
+109	jaru-106_earth-1	jaru	106_earth	m a n a k a n	yaru1257	nan	1228	EARTH (SOIL)	106_earth-A	
+110	jaru-107_sky-1	jaru	107_sky	a w i	yaru1257	nan	1732	SKY	107_sky-A	
+111	jaru-108_wind-1	jaru	108_wind	k a h o	yaru1257	nan	960	WIND	108_wind-B	
+112	jaru-109_smoke-1	jaru	109_smoke	i w i	yaru1257	nan	778	SMOKE (EXHAUST)	109_smoke-A	
+113	jaru-110_fire-1	jaru	110_fire	i s e	yaru1257	nan	221	FIRE	110_fire-A	
+114	jaru-111_ashes-1	jaru	111_ashes	b u r e t e + p a k o n	yaru1257	nan	646	ASH	111_ashes-A	
+115	jaru-113_red-1	jaru	113_red	t e m ʔ	yaru1257	nan	156	RED	113_red-C	
+116	jaru-115_white-1	jaru	115_white	t o a	yaru1257	nan	1335	WHITE	115_white-A	
+117	jaru-116_black-1	jaru	116_black	s a g a j	yaru1257	nan	163	BLACK	116_black-C	
+118	jaru-117_night-1	jaru	117_night	e t i m ʔ	yaru1257	nan	1233	NIGHT	117_night-A	
+119	jaru-118_day-1	jaru	118_day	t o a	yaru1257	nan	1225	DAY (NOT NIGHT)	118_day-A	
+120	jaru-123_good-1	jaru	123_good	a s a p	yaru1257	nan	1035	GOOD	123_good-B	
+121	jaru-12_big-1	jaru	12_big	h o r a	yaru1257	nan	1202	BIG	12_big-A	
+122	jaru-13_small-1	jaru	13_small	i p	yaru1257	nan	1246	SMALL	13_small-E	
+123	jaru-14_woman-1	jaru	14_woman	j a m i r i m a n	yaru1257	nan	962	WOMAN	14_woman-A	
+124	jaru-15_man-1	jaru	15_man	k i t r a m a n	yaru1257	nan	1554	MAN	15_man-A	
+125	jaru-16_human-1	jaru	16_human	w a n j a n	yaru1257	nan	683	PERSON	16_human-A	
+126	jaru-17_child-1	jaru	17_child	o n j a n	yaru1257	nan	2099	CHILD	17_child-A	
+127	jaru-18_mother-1	jaru	18_mother	u w e	yaru1257	nan	1216	MOTHER	18_mother-B	
+128	jaru-19_father-1	jaru	19_father	e t e	yaru1257	nan	1217	FATHER	19_father-A	
+129	jaru-21_fish-1	jaru	21_fish	i h a m ʔ	yaru1257	nan	227	FISH	21_fish-A	
+130	jaru-22_bird-1	jaru	22_bird	u m e	yaru1257	nan	937	BIRD	22_bird-A	
+131	jaru-24_deer-1	jaru	24_deer	w i j e m u	yaru1257	nan	1936	DEER	24_deer-A	
+132	jaru-24_deer-2	jaru	24_deer	k o m e m	yaru1257	nan	1936	DEER	24_deer-B	
+133	jaru-26_snake-1	jaru	26_snake	k r a k a o n	yaru1257	nan	730	SNAKE	26_snake-A	
+134	jaru-27_worm-1	jaru	27_worm	e m e t e	yaru1257	nan	1219	WORM	27_worm-A	
+135	jaru-28_forest-1	jaru	28_forest	h o r o a m	yaru1257	nan	420	FOREST	28_forest-B	
+136	jaru-29_stick-1	jaru	29_stick	p a n a	yaru1257	nan	1295	STICK	29_stick-A	
+137	jaru-30_fruit-1	jaru	30_fruit	o p i ã + p a n a	yaru1257	nan	1507	FRUIT	30_fruit-A	
+138	jaru-33_flower-1	jaru	33_flower	p i w a n	yaru1257	nan	239	FLOWER	33_flower-A	
+139	jaru-34_grass-1	jaru	34_grass	i w i p	yaru1257	nan	606	GRASS	34_grass-B	
+140	jaru-35_rope-1	jaru	35_rope	k u r u p i	yaru1257	nan	1218	ROPE	35_rope-B	
+141	jaru-36_skin-1	jaru	36_skin	t u p a r e s i	yaru1257	nan	763	SKIN	36_skin-A	
+142	jaru-37_meat-1	jaru	37_meat	i k e k r e n	yaru1257	nan	634	MEAT	37_meat-A	
+143	jaru-38_blood-1	jaru	38_blood	w i t	yaru1257	nan	946	BLOOD	38_blood-A	
+144	jaru-39_bone-1	jaru	39_bone	r a s i	yaru1257	nan	1394	BONE	39_bone-A	
+145	jaru-40_fat-1	jaru	40_fat	a h o m i	yaru1257	nan	323	FAT (ORGANIC SUBSTANCE)	40_fat-A	
+146	jaru-41_egg-1	jaru	41_egg	r e j e n	yaru1257	nan	744	EGG	41_egg-A	
+147	jaru-42_horn-1	jaru	42_horn	i l e k e n	yaru1257	nan	939	HORN (INSTRUMENT)	42_horn-C	
+148	jaru-44_hair-1	jaru	44_hair	t i n j i	yaru1257	nan	1040	HAIR	44_hair-A	
+149	jaru-44_hair-2	jaru	44_hair	j u h e n e s i	yaru1257	nan	1040	HAIR	44_hair-B	
+150	jaru-44_hair-3	jaru	44_hair	j u p i s i	yaru1257	nan	1040	HAIR	44_hair-C	
+151	jaru-45_head-1	jaru	45_head	t o t e p i s i	yaru1257	nan	1256	HEAD	45_head-C	
+152	jaru-46_ear-1	jaru	46_ear	t r a i s i	yaru1257	nan	1247	EAR	46_ear-A	
+153	jaru-47_eye-1	jaru	47_eye	t e k i s i	yaru1257	nan	1248	EYE	47_eye-A	
+154	jaru-48_nose-1	jaru	48_nose	j o l i s i	yaru1257	nan	1221	NOSE	48_nose-A	
+155	jaru-49_mouth-1	jaru	49_mouth	t u p a k a s i	yaru1257	nan	674	MOUTH	49_mouth-A	
+156	jaru-50_tooth-1	jaru	50_tooth	i t i s i	yaru1257	nan	1380	TOOTH	50_tooth-A	
+157	jaru-51_tongue-1	jaru	51_tongue	k a p i a k a s i	yaru1257	nan	1205	TONGUE	51_tongue-B	
+158	jaru-52_fingernail-1	jaru	52_fingernail	p i s i k i n i s i	yaru1257	nan	1258	FINGERNAIL	52_fingernail-A	
+159	jaru-53_foot-1	jaru	53_foot	k a t i m a s i	yaru1257	nan	1301	FOOT	53_foot-A	
+160	jaru-54_leg-1	jaru	54_leg	e k i s i	yaru1257	nan	1297	LEG	54_leg-A	
+161	jaru-55_knee-1	jaru	55_knee	t o k e t e k i l i p a s i	yaru1257	nan	1371	KNEE	55_knee-C	
+162	jaru-56_hand-1	jaru	56_hand	t i p r a s i	yaru1257	nan	1277	HAND	56_hand-B	
+163	jaru-58_belly-1	jaru	58_belly	t o k o t e p a s i	yaru1257	nan	1251	BELLY	58_belly-A	
+164	jaru-59_guts-1	jaru	59_guts	m e n e s i	yaru1257	nan	1334	GUTS	59_guts-A	
+165	jaru-60_neck-1	jaru	60_neck	u p r a m a s i	yaru1257	nan	1333	NECK	60_neck-A	
+166	jaru-61_back-1	jaru	61_back	a r a w a s i	yaru1257	nan	1291	BACK	61_back-A	
+167	jaru-62_breast-1	jaru	62_breast	i k i m a s i	yaru1257	nan	1402	BREAST	62_breast-B	
+168	jaru-63_heart-1	jaru	63_heart	t e m i s i	yaru1257	nan	1223	HEART	63_heart-A	
+169	jaru-64_liver-1	jaru	64_liver	t r a w a n a s i	yaru1257	nan	1224	LIVER	64_liver-A	
+170	jaru-66_eat-1	jaru	66_eat	k a w	yaru1257	nan	1336	EAT	66_eat-A	
+171	jaru-67_bite-1	jaru	67_bite	t a p i t ʔ	yaru1257	nan	1403	BITE	67_bite-B	
+172	jaru-69_vomit-1	jaru	69_vomit	w e	yaru1257	nan	1278	VOMIT	69_vomit-A	
+173	jaru-74_fear-1	jaru	74_fear	i n j i n	yaru1257	nan	1419	FEAR (BE AFRAID)	74_fear-A	
+174	jaru-75_sleep-1	jaru	75_sleep	u p e j a m ʔ	yaru1257	nan	1585	SLEEP	75_sleep-A	
+175	jaru-76_die-1	jaru	76_die	i m i	yaru1257	nan	1494	DIE	76_die-A	
+176	jaru-77_kill-1	jaru	77_kill	p a	yaru1257	nan	1417	KILL	77_kill-A	
+177	jaru-78_fight-1	jaru	78_fight	e k e	yaru1257	nan	1423	FIGHT	78_fight-D	
+178	jaru-79_shoot-1	jaru	79_shoot	k e u	yaru1257	nan	1172	SHOOT	79_shoot-C	
+179	jaru-81_cut-1	jaru	81_cut	t a	yaru1257	nan	1432	CUT	81_cut-A	
+180	jaru-83_swim-1	jaru	83_swim	h e	yaru1257	nan	1439	SWIM	83_swim-C	
+181	jaru-85_walk-1	jaru	85_walk	t e t	yaru1257	nan	1443	WALK	85_walk-A	
+182	jaru-87_lie-1	jaru	87_lie	t r e m	yaru1257	nan	1411	LIE (REST)	87_lie-A	
+183	jaru-87_lie-2	jaru	87_lie	t a	yaru1257	nan	1411	LIE (REST)	87_lie-C	
+184	jaru-92_wash-1	jaru	92_wash	r o k o n	yaru1257	nan	1453	WASH	92_wash-A	
+185	jaru-98_sing-1	jaru	98_sing	h a k a	yaru1257	nan	1261	SING	98_sing-B	
+186	jaru-99_sun-1	jaru	99_sun	k o m e m	yaru1257	nan	1343	SUN	99_sun-C	
+187	kitemoka-100_moon-1	kitemoka	100_moon	p n a t o	kite1237	nan	1313	MOON	100_moon-A	
+188	kitemoka-101_star-1	kitemoka	101_star	p i l ʔ a h u	kite1237	nan	1430	STAR	101_star-A	
+189	kitemoka-102_water-1	kitemoka	102_water	a k o	kite1237	nan	948	WATER	102_water-A	
+190	kitemoka-104_stone-1	kitemoka	104_stone	p i k u i	kite1237	nan	857	STONE	104_stone-A	
+191	kitemoka-105_sand-1	kitemoka	105_sand	m a t e	kite1237	nan	671	SAND	105_sand-B	
+192	kitemoka-106_earth-1	kitemoka	106_earth	e m a k a n	kite1237	nan	1228	EARTH (SOIL)	106_earth-A	
+193	kitemoka-106_earth-2	kitemoka	106_earth	tʃ e m a	kite1237	nan	1228	EARTH (SOIL)	106_earth-B	
+194	kitemoka-107_sky-1	kitemoka	107_sky	a w e n	kite1237	nan	1732	SKY	107_sky-A	
+195	kitemoka-108_wind-1	kitemoka	108_wind	i r i n	kite1237	nan	960	WIND	108_wind-D	
+196	kitemoka-10_one-1	kitemoka	10_one	m a m a i + o m a i tʃ e	kite1237	nan	1493	ONE	10_one-C	
+197	kitemoka-110_fire-1	kitemoka	110_fire	i s e	kite1237	nan	221	FIRE	110_fire-A	
+198	kitemoka-113_red-1	kitemoka	113_red	t i o p a tʃ e n e	kite1237	nan	156	RED	113_red-D	
+199	kitemoka-114_yellow-1	kitemoka	114_yellow	a tʃ i w i	kite1237	nan	1424	YELLOW	114_yellow-C	
+200	kitemoka-115_white-1	kitemoka	115_white	t i h o t i	kite1237	nan	1335	WHITE	115_white-B	
+201	kitemoka-116_black-1	kitemoka	116_black	j u i t a m a k e	kite1237	nan	163	BLACK	116_black-D	
+202	kitemoka-117_night-1	kitemoka	117_night	p a i t i n	kite1237	nan	1233	NIGHT	117_night-A	
+203	kitemoka-122_old-1	kitemoka	122_old	t a r a k o n	kite1237	nan	1229	OLD	122_old-C	
+204	kitemoka-123_good-1	kitemoka	123_good	n a v i s a j a	kite1237	nan	1035	GOOD	123_good-B	
+205	kitemoka-12_big-1	kitemoka	12_big	k a r a ts a i k o	kite1237	nan	1202	BIG	12_big-G	
+206	kitemoka-13_small-1	kitemoka	13_small	p i ʃ i t i k o	kite1237	nan	1246	SMALL	13_small-B	
+207	kitemoka-14_woman-1	kitemoka	14_woman	ɲ a m a k i	kite1237	nan	962	WOMAN	14_woman-C	
+208	kitemoka-17_child-1	kitemoka	17_child	e t i w	kite1237	nan	2099	CHILD	17_child-D	
+209	kitemoka-19_father-1	kitemoka	19_father	t a t i a	kite1237	nan	1217	FATHER	19_father-A	
+210	kitemoka-1_i-1	kitemoka	1_i	w a j a	kite1237	nan	1209	I	1_i-A	
+211	kitemoka-21_fish-1	kitemoka	21_fish	i h a m	kite1237	nan	227	FISH	21_fish-A	
+212	kitemoka-22_bird-1	kitemoka	22_bird	h u m e	kite1237	nan	937	BIRD	22_bird-A	
+213	kitemoka-23_peccary-1	kitemoka	23_peccary	t u k a w a n	kite1237	nan	2390	PECCARY	23_peccary-A	
+214	kitemoka-24_deer-1	kitemoka	24_deer	k i m a r i	kite1237	nan	1936	DEER	24_deer-C	
+215	kitemoka-25_louse-1	kitemoka	25_louse	a h i h i	kite1237	nan	1392	LOUSE	25_louse-A	
+216	kitemoka-28_forest-1	kitemoka	28_forest	o m i	kite1237	nan	420	FOREST	28_forest-A	
+217	kitemoka-2_yousg-1	kitemoka	2_yousg	a h u m	kite1237	nan	1215	THOU	2_yousg-A	
+218	kitemoka-30_fruit-1	kitemoka	30_fruit	p e k o ɲ o ɲ i	kite1237	nan	1507	FRUIT	30_fruit-D	
+219	kitemoka-31_leaf-1	kitemoka	31_leaf	a t i a	kite1237	nan	628	LEAF	31_leaf-C	
+220	kitemoka-33_flower-1	kitemoka	33_flower	t o h o t + ɲ e	kite1237	nan	239	FLOWER	33_flower-B	
+221	kitemoka-34_grass-1	kitemoka	34_grass	w i w i t i	kite1237	nan	606	GRASS	34_grass-D	
+222	kitemoka-36_skin-1	kitemoka	36_skin	p a r i tʃ e	kite1237	nan	763	SKIN	36_skin-A	
+223	kitemoka-38_blood-1	kitemoka	38_blood	a w e i tʃ e	kite1237	nan	946	BLOOD	38_blood-A	
+224	kitemoka-39_bone-1	kitemoka	39_bone	t a r i tʃ e	kite1237	nan	1394	BONE	39_bone-A	
+225	kitemoka-3_he-1	kitemoka	3_he	a r i k o	kite1237	nan	1211	HE	3_he-A	
+226	kitemoka-40_fat-1	kitemoka	40_fat	m i t a i k o n g o	kite1237	nan	323	FAT (ORGANIC SUBSTANCE)	40_fat-B	
+227	kitemoka-41_egg-1	kitemoka	41_egg	t i r a n t i a	kite1237	nan	744	EGG	41_egg-A	
+228	kitemoka-42_horn-1	kitemoka	42_horn	p i tʃ i	kite1237	nan	939	HORN (INSTRUMENT)	42_horn-A	
+229	kitemoka-43_tail-1	kitemoka	43_tail	s o k o tʃ e t i tʃ e	kite1237	nan	1220	TAIL	43_tail-B	
+230	kitemoka-44_hair-1	kitemoka	44_hair	tʃ u m i tʃ e	kite1237	nan	1040	HAIR	44_hair-A	
+231	kitemoka-45_head-1	kitemoka	45_head	p a i tʃ e	kite1237	nan	1256	HEAD	45_head-A	
+232	kitemoka-46_ear-1	kitemoka	46_ear	t a t i a t a tʃ e	kite1237	nan	1247	EAR	46_ear-A	
+233	kitemoka-47_eye-1	kitemoka	47_eye	k u tʃ i	kite1237	nan	1248	EYE	47_eye-A	
+234	kitemoka-48_nose-1	kitemoka	48_nose	t u r u tʃ e	kite1237	nan	1221	NOSE	48_nose-A	
+235	kitemoka-49_mouth-1	kitemoka	49_mouth	r i k a j a tʃ i	kite1237	nan	674	MOUTH	49_mouth-B	
+236	kitemoka-4_we-1	kitemoka	4_we	w a tʃ e	kite1237	nan	1212	WE	4_we-A	
+237	kitemoka-50_tooth-1	kitemoka	50_tooth	i j a d i tʃ e	kite1237	nan	1380	TOOTH	50_tooth-A	
+238	kitemoka-51_tongue-1	kitemoka	51_tongue	k a p i k a k a tʃ e	kite1237	nan	1205	TONGUE	51_tongue-B	
+239	kitemoka-53_foot-1	kitemoka	53_foot	k a i m a tʃ e	kite1237	nan	1301	FOOT	53_foot-A	
+240	kitemoka-54_leg-1	kitemoka	54_leg	k o h o tʃ i	kite1237	nan	1297	LEG	54_leg-A	
+241	kitemoka-55_knee-1	kitemoka	55_knee	t u k a i v a tʃ e	kite1237	nan	1371	KNEE	55_knee-C	
+242	kitemoka-56_hand-1	kitemoka	56_hand	u m a j o	kite1237	nan	1277	HAND	56_hand-A	
+243	kitemoka-56_hand-2	kitemoka	56_hand	tʃ e p a r a j u	kite1237	nan	1277	HAND	56_hand-B	
+244	kitemoka-57_wing-1	kitemoka	57_wing	i p a t i + k o	kite1237	nan	1257	WING	57_wing-A	
+245	kitemoka-58_belly-1	kitemoka	58_belly	k i m o tʃ e	kite1237	nan	1251	BELLY	58_belly-A	
+246	kitemoka-59_guts-1	kitemoka	59_guts	w a e m e m i tʃ e	kite1237	nan	1334	GUTS	59_guts-A	
+247	kitemoka-59_guts-2	kitemoka	59_guts	a n t e r e tʃ e	kite1237	nan	1334	GUTS	59_guts-C	
+248	kitemoka-60_neck-1	kitemoka	60_neck	a i k e ɲ e m i tʃ e	kite1237	nan	1333	NECK	60_neck-B	
+249	kitemoka-61_back-1	kitemoka	61_back	t o t o j a tʃ e	kite1237	nan	1291	BACK	61_back-A	
+250	kitemoka-62_breast-1	kitemoka	62_breast	k e m a t a k a m a	kite1237	nan	1402	BREAST	62_breast-B	
+251	kitemoka-63_heart-1	kitemoka	63_heart	s i m i tʃ e	kite1237	nan	1223	HEART	63_heart-A	
+252	kitemoka-65_drink-1	kitemoka	65_drink	k o t	kite1237	nan	1401	DRINK	65_drink-A	
+253	kitemoka-66_eat-1	kitemoka	66_eat	k a w	kite1237	nan	1336	EAT	66_eat-A	
+254	kitemoka-71_laugh-1	kitemoka	71_laugh	e v a	kite1237	nan	1355	LAUGH	71_laugh-C	
+255	kitemoka-72_see-1	kitemoka	72_see	t i r i g	kite1237	nan	1409	SEE	72_see-A	
+256	kitemoka-75_sleep-1	kitemoka	75_sleep	oː tʃ e	kite1237	nan	1585	SLEEP	75_sleep-C	
+257	kitemoka-77_kill-1	kitemoka	77_kill	t i o a k k o	kite1237	nan	1417	KILL	77_kill-B	
+258	kitemoka-86_come-1	kitemoka	86_come	n i a	kite1237	nan	1446	COME	86_come-D	
+259	kitemoka-87_lie-1	kitemoka	87_lie	tʃ e k o m	kite1237	nan	1411	LIE (REST)	87_lie-B	
+260	kitemoka-89_stand-1	kitemoka	89_stand	s e d	kite1237	nan	1442	STAND	89_stand-C	
+261	kitemoka-8_many-1	kitemoka	8_many	p a t i a k o	kite1237	nan	1198	MANY	8_many-E	
+262	kitemoka-91_give-1	kitemoka	91_give	m e	kite1237	nan	1447	GIVE	91_give-A	
+263	kitemoka-97_say-1	kitemoka	97_say	t u m i	kite1237	nan	1458	SAY	97_say-A	
+264	kitemoka-97_say-2	kitemoka	97_say	j a j a r a	kite1237	nan	1458	SAY	97_say-E	
+265	kitemoka-99_sun-1	kitemoka	99_sun	p a p u i t i o	kite1237	nan	1343	SUN	99_sun-A	
+266	more-100_moon-1	more	100_moon	p a n a w o ʔ	itor1239	ite	1313	MOON	100_moon-A	
+267	more-101_star-1	more	101_star	p i p i j o	itor1239	ite	1430	STAR	101_star-A	
+268	more-102_water-1	more	102_water	k o m	itor1239	ite	948	WATER	102_water-A	
+269	more-103_rain-1	more	103_rain	tʃ u w e	itor1239	ite	2108	RAINING OR RAIN	103_rain-A	
+270	more-104_stone-1	more	104_stone	p i k u n	itor1239	ite	857	STONE	104_stone-A	
+271	more-105_sand-1	more	105_sand	m i m a ʒ̟	itor1239	ite	671	SAND	105_sand-A	
+272	more-106_earth-1	more	106_earth	n a m a k a n	itor1239	ite	1228	EARTH (SOIL)	106_earth-A	
+273	more-106_earth-2	more	106_earth	t i m a k	itor1239	ite	1228	EARTH (SOIL)	106_earth-B	
+274	more-107_sky-1	more	107_sky	a w i n	itor1239	ite	1732	SKY	107_sky-A	
+275	more-108_wind-1	more	108_wind	p u j a n i	itor1239	ite	960	WIND	108_wind-C	
+276	more-109_smoke-1	more	109_smoke	i w i	itor1239	ite	778	SMOKE (EXHAUST)	109_smoke-A	
+277	more-10_one-1	more	10_one	t a n	itor1239	ite	1493	ONE	10_one-A	
+278	more-110_fire-1	more	110_fire	i tʃ e	itor1239	ite	221	FIRE	110_fire-A	
+279	more-111_ashes-1	more	111_ashes	r u p i ts i k o n	itor1239	ite	646	ASH	111_ashes-A	
+280	more-112_road-1	more	112_road	w a n a	itor1239	ite	667	ROAD	112_road-A	
+281	more-113_red-1	more	113_red	m e m	itor1239	ite	156	RED	113_red-A	
+282	more-114_yellow-1	more	114_yellow	s a s i k	itor1239	ite	1424	YELLOW	114_yellow-B	
+283	more-115_white-1	more	115_white	t o w a	itor1239	ite	1335	WHITE	115_white-A	
+284	more-116_black-1	more	116_black	t o m	itor1239	ite	163	BLACK	116_black-E	
+285	more-117_night-1	more	117_night	i s i m	itor1239	ite	1233	NIGHT	117_night-A	
+286	more-118_day-1	more	118_day	t i j i p a t	itor1239	ite	1225	DAY (NOT NIGHT)	118_day-C	
+287	more-119_summer-1	more	119_summer	k a w a ʒ̟ i	itor1239	ite	1342	SUMMER	119_summer-A	
+288	more-11_two-1	more	11_two	p o k o r a n	itor1239	ite	1498	TWO	11_two-A	
+289	more-120_cold-1	more	120_cold	tʃ i w	itor1239	ite	1287	COLD	120_cold-A	
+290	more-121_new-1	more	121_new	t a k a n	itor1239	ite	1231	NEW	121_new-B	
+291	more-122_old-1	more	122_old	u k u t	itor1239	ite	1229	OLD	122_old-D	
+292	more-123_good-1	more	123_good	p i r i m a n	itor1239	ite	1035	GOOD	123_good-E	
+293	more-124_name-1	more	124_name	w i t	itor1239	ite	1405	NAME	124_name-A	
+294	more-125_afternoon-1	more	125_afternoon	i r a w i n	itor1239	ite	1807	AFTERNOON	125_afternoon-A	
+295	more-12_big-1	more	12_big	i n a	itor1239	ite	1202	BIG	12_big-D	
+296	more-13_small-1	more	13_small	e j e	itor1239	ite	1246	SMALL	13_small-C	
+297	more-14_woman-1	more	14_woman	t a n a m a n	itor1239	ite	962	WOMAN	14_woman-B	
+298	more-15_man-1	more	15_man	n a m a k o n	itor1239	ite	1554	MAN	15_man-B	
+299	more-16_human-1	more	16_human	w a n j a m	itor1239	ite	683	PERSON	16_human-A	
+300	more-17_child-1	more	17_child	j o m a	itor1239	ite	2099	CHILD	17_child-A	
+301	more-17_child-2	more	17_child	r a t o ʔ	itor1239	ite	2099	CHILD	17_child-C	
+302	more-18_mother-1	more	18_mother	i n a ʔ	itor1239	ite	1216	MOTHER	18_mother-A	
+303	more-18_mother-2	more	18_mother	u w e ʔ	itor1239	ite	1216	MOTHER	18_mother-B	
+304	more-19_father-1	more	19_father	i t e	itor1239	ite	1217	FATHER	19_father-A	
+305	more-1_i-1	more	1_i	w a ʒ̟ a	itor1239	ite	1209	I	1_i-A	
+306	more-20_animal-1	more	20_animal	p a t i ʔ	itor1239	ite	619	ANIMAL	20_animal-A	
+307	more-22_bird-1	more	22_bird	u m e	itor1239	ite	937	BIRD	22_bird-A	
+308	more-23_peccary-1	more	23_peccary	t o k o w a n	itor1239	ite	2390	PECCARY	23_peccary-A	
+309	more-24_deer-1	more	24_deer	j i m o p	itor1239	ite	1936	DEER	24_deer-A	
+310	more-25_louse-1	more	25_louse	i w	itor1239	ite	1392	LOUSE	25_louse-A	
+311	more-26_snake-1	more	26_snake	k a r a k a w	itor1239	ite	730	SNAKE	26_snake-A	
+312	more-27_worm-1	more	27_worm	n a t a n a t a n	itor1239	ite	1219	WORM	27_worm-B	
+313	more-28_forest-1	more	28_forest	u m i	itor1239	ite	420	FOREST	28_forest-A	
+314	more-29_stick-1	more	29_stick	p a n a	itor1239	ite	1295	STICK	29_stick-A	
+315	more-2_yousg-1	more	2_yousg	m o m r a	itor1239	ite	1215	THOU	2_yousg-A	
+316	more-30_fruit-1	more	30_fruit	u p e j e + p a n a	itor1239	ite	1507	FRUIT	30_fruit-A	
+317	more-31_leaf-1	more	31_leaf	t a n	itor1239	ite	628	LEAF	31_leaf-A	
+318	more-33_flower-1	more	33_flower	p i w a n	itor1239	ite	239	FLOWER	33_flower-A	
+319	more-34_grass-1	more	34_grass	t o w a n	itor1239	ite	606	GRASS	34_grass-E	
+320	more-35_rope-1	more	35_rope	m o k o n	itor1239	ite	1218	ROPE	35_rope-A	
+321	more-36_skin-1	more	36_skin	t o p a n	itor1239	ite	763	SKIN	36_skin-A	
+322	more-37_meat-1	more	37_meat	u k u n	itor1239	ite	634	MEAT	37_meat-A	
+323	more-38_blood-1	more	38_blood	w y k	itor1239	ite	946	BLOOD	38_blood-A	
+324	more-39_bone-1	more	39_bone	a t	itor1239	ite	1394	BONE	39_bone-A	
+325	more-3_he-1	more	3_he	k o r a r i	itor1239	ite	1211	HE	3_he-A	
+326	more-40_fat-1	more	40_fat	m a p o m	itor1239	ite	323	FAT (ORGANIC SUBSTANCE)	40_fat-A	
+327	more-41_egg-1	more	41_egg	a r i ʒ̟ a	itor1239	ite	744	EGG	41_egg-A	
+328	more-42_horn-1	more	42_horn	t a t a w	itor1239	ite	939	HORN (INSTRUMENT)	42_horn-B	
+329	more-43_tail-1	more	43_tail	k i p u n	itor1239	ite	1220	TAIL	43_tail-A	
+330	more-44_hair-1	more	44_hair	t u n e ɲ	itor1239	ite	1040	HAIR	44_hair-A	
+331	more-45_head-1	more	45_head	u p w i k	itor1239	ite	1256	HEAD	45_head-A	
+332	more-46_ear-1	more	46_ear	t e n e t e t	itor1239	ite	1247	EAR	46_ear-B	
+333	more-47_eye-1	more	47_eye	t o k	itor1239	ite	1248	EYE	47_eye-A	
+334	more-48_nose-1	more	48_nose	u ʒ̟	itor1239	ite	1221	NOSE	48_nose-A	
+335	more-49_mouth-1	more	49_mouth	t o p a k	itor1239	ite	674	MOUTH	49_mouth-A	
+336	more-4_we-1	more	4_we	w a t i ʔ	itor1239	ite	1212	WE	4_we-A	
+337	more-50_tooth-1	more	50_tooth	j a t	itor1239	ite	1380	TOOTH	50_tooth-A	
+338	more-51_tongue-1	more	51_tongue	k a p a j a k	itor1239	ite	1205	TONGUE	51_tongue-B	
+339	more-52_fingernail-1	more	52_fingernail	t u p i	itor1239	ite	1258	FINGERNAIL	52_fingernail-B	
+340	more-53_foot-1	more	53_foot	tʃ i n a k	itor1239	ite	1301	FOOT	53_foot-C	
+341	more-54_leg-1	more	54_leg	p o k	itor1239	ite	1297	LEG	54_leg-A	
+342	more-55_knee-1	more	55_knee	t u k u ʒ̟ i m	itor1239	ite	1371	KNEE	55_knee-C	
+343	more-56_hand-1	more	56_hand	u m	itor1239	ite	1277	HAND	56_hand-A	
+344	more-56_hand-2	more	56_hand	t i p a n	itor1239	ite	1277	HAND	56_hand-B	
+345	more-57_wing-1	more	57_wing	n i p a t	itor1239	ite	1257	WING	57_wing-A	
+346	more-58_belly-1	more	58_belly	t i m	itor1239	ite	1251	BELLY	58_belly-A	
+347	more-58_belly-2	more	58_belly	tʃ a k a w	itor1239	ite	1251	BELLY	58_belly-C	
+348	more-59_guts-1	more	59_guts	m u k u r i + m o n	itor1239	ite	1334	GUTS	59_guts-A	
+349	more-5_youpl-1	more	5_youpl	w u r a	itor1239	ite	1213	YOU	5_youpl-A	
+350	more-60_neck-1	more	60_neck	p a t a m	itor1239	ite	1333	NECK	60_neck-A	
+351	more-61_back-1	more	61_back	a t a w	itor1239	ite	1291	BACK	61_back-A	
+352	more-62_breast-1	more	62_breast	k a t a t	itor1239	ite	1402	BREAST	62_breast-A	
+353	more-62_breast-2	more	62_breast	k i m a	itor1239	ite	1402	BREAST	62_breast-B	
+354	more-63_heart-1	more	63_heart	t u k u + r i t i m	itor1239	ite	1223	HEART	63_heart-A	
+355	more-64_liver-1	more	64_liver	s a w a n	itor1239	ite	1224	LIVER	64_liver-A	
+356	more-65_drink-1	more	65_drink	t o k	itor1239	ite	1401	DRINK	65_drink-A	
+357	more-66_eat-1	more	66_eat	k a w	itor1239	ite	1336	EAT	66_eat-A	
+358	more-67_bite-1	more	67_bite	k i w	itor1239	ite	1403	BITE	67_bite-A	
+359	more-68_suck-1	more	68_suck	tʃ a k	itor1239	ite	1421	SUCK	68_suck-A	
+360	more-69_vomit-1	more	69_vomit	w e	itor1239	ite	1278	VOMIT	69_vomit-A	
+361	more-6_they-1	more	6_they	o m a p u	itor1239	ite	817	THEY	6_they-B	
+362	more-70_breathe-1	more	70_breathe	a w i + r a m	itor1239	ite	1407	BREATHE	70_breathe-A	
+363	more-70_breathe-2	more	70_breathe	ʒ̟ a k	itor1239	ite	1407	BREATHE	70_breathe-B	
+364	more-71_laugh-1	more	71_laugh	t a s a m	itor1239	ite	1355	LAUGH	71_laugh-A	
+365	more-72_see-1	more	72_see	k i r i k	itor1239	ite	1409	SEE	72_see-A	
+366	more-73_hear-1	more	73_hear	a r a p a t	itor1239	ite	1408	HEAR	73_hear-A	
+367	more-74_fear-1	more	74_fear	i j i n	itor1239	ite	1419	FEAR (BE AFRAID)	74_fear-A	
+368	more-75_sleep-1	more	75_sleep	u p e n	itor1239	ite	1585	SLEEP	75_sleep-A	
+369	more-76_die-1	more	76_die	i m i	itor1239	ite	1494	DIE	76_die-A	
+370	more-77_kill-1	more	77_kill	p a	itor1239	ite	1417	KILL	77_kill-A	
+371	more-78_fight-1	more	78_fight	a r a m i + j e	itor1239	ite	1423	FIGHT	78_fight-C	
+372	more-78_fight-2	more	78_fight	j i m	itor1239	ite	1423	FIGHT	78_fight-E	
+373	more-79_shoot-1	more	79_shoot	p u r u	itor1239	ite	1172	SHOOT	79_shoot-A	
+374	more-7_whowhat-1	more	7_whowhat	a t i	itor1239	ite	2147	WHO OR WHAT	7_whowhat-A	
+375	more-7_whowhat-2	more	7_whowhat	t i k o w	itor1239	ite	2147	WHO OR WHAT	7_whowhat-B	
+376	more-80_hit-1	more	80_hit	t o n	itor1239	ite	1433	HIT	80_hit-A	
+377	more-81_cut-1	more	81_cut	t a	itor1239	ite	1432	CUT	81_cut-A	
+378	more-81_cut-2	more	81_cut	w o k	itor1239	ite	1432	CUT	81_cut-B	
+379	more-82_dig-1	more	82_dig	p u t u m	itor1239	ite	1418	DIG	82_dig-B	
+380	more-83_swim-1	more	83_swim	k a w a k	itor1239	ite	1439	SWIM	83_swim-D	
+381	more-84_fly-1	more	84_fly	ʒ̟ e	itor1239	ite	1441	FLY (MOVE THROUGH AIR)	84_fly-C	
+382	more-85_walk-1	more	85_walk	t u t	itor1239	ite	1443	WALK	85_walk-A	
+383	more-86_come-1	more	86_come	i w a n	itor1239	ite	1446	COME	86_come-B	
+384	more-87_lie-1	more	87_lie	ʒ̟ a k	itor1239	ite	1411	LIE (REST)	87_lie-C	
+385	more-88_sit-1	more	88_sit	p w e	itor1239	ite	1416	SIT	88_sit-A	
+386	more-89_stand-1	more	89_stand	t a k i	itor1239	ite	1442	STAND	89_stand-A	
+387	more-8_many-1	more	8_many	n a p a	itor1239	ite	1198	MANY	8_many-B	
+388	more-90_fall-1	more	90_fall	i p a n	itor1239	ite	1280	FALL	90_fall-A	
+389	more-91_give-1	more	91_give	m i	itor1239	ite	1447	GIVE	91_give-A	
+390	more-92_wash-1	more	92_wash	tʃ a w	itor1239	ite	1453	WASH	92_wash-C	
+391	more-93_pull-1	more	93_pull	k o	itor1239	ite	1455	PULL	93_pull-A	
+392	more-94_push-1	more	94_push	t u n	itor1239	ite	1452	PUSH	94_push-B	
+393	more-95_throw-1	more	95_throw	p w i n	itor1239	ite	1456	THROW	95_throw-B	
+394	more-96_tie-1	more	96_tie	p a w	itor1239	ite	1917	TIE	96_tie-A	
+395	more-96_tie-2	more	96_tie	p i p	itor1239	ite	1917	TIE	96_tie-B	
+396	more-97_say-1	more	97_say	j a	itor1239	ite	1458	SAY	97_say-E	
+397	more-98_sing-1	more	98_sing	w o + k i	itor1239	ite	1261	SING	98_sing-C	
+398	more-98_sing-2	more	98_sing	a tʃ i m a r a	itor1239	ite	1261	SING	98_sing-D	
+399	more-99_sun-1	more	99_sun	m a p w i t o	itor1239	ite	1343	SUN	99_sun-A	
+400	more-9_few-1	more	9_few	p u n + a s	itor1239	ite	1242	FEW	9_few-D	
+401	orowin-101_star-1	orowin	101_star	o r o + j a w i n	orow1243	orw	1430	STAR	101_star-B	
+402	orowin-102_water-1	orowin	102_water	k o m	orow1243	orw	948	WATER	102_water-A	
+403	orowin-103_rain-1	orowin	103_rain	s o w i ʔ	orow1243	orw	2108	RAINING OR RAIN	103_rain-A	
+404	orowin-104_stone-1	orowin	104_stone	p e k y n	orow1243	orw	857	STONE	104_stone-A	
+405	orowin-105_sand-1	orowin	105_sand	n a m a j i ʔ	orow1243	orw	671	SAND	105_sand-A	
+406	orowin-106_earth-1	orowin	106_earth	n a m a k a n	orow1243	orw	1228	EARTH (SOIL)	106_earth-A	
+407	orowin-107_sky-1	orowin	107_sky	a w i n	orow1243	orw	1732	SKY	107_sky-A	
+408	orowin-108_wind-1	orowin	108_wind	p a f o t i ʔ	orow1243	orw	960	WIND	108_wind-A	
+409	orowin-109_smoke-1	orowin	109_smoke	t o r o t o ʔ	orow1243	orw	778	SMOKE (EXHAUST)	109_smoke-C	
+410	orowin-10_one-1	orowin	10_one	k a w a s a n	orow1243	orw	1493	ONE	10_one-A	
+411	orowin-110_fire-1	orowin	110_fire	i s e	orow1243	orw	221	FIRE	110_fire-A	
+412	orowin-111_ashes-1	orowin	111_ashes	m o r o t i p a k o n	orow1243	orw	646	ASH	111_ashes-A	
+413	orowin-112_road-1	orowin	112_road	w a n a ʔ	orow1243	orw	667	ROAD	112_road-A	
+414	orowin-113_red-1	orowin	113_red	m e m	orow1243	orw	156	RED	113_red-A	
+415	orowin-115_white-1	orowin	115_white	t o w a ʔ	orow1243	orw	1335	WHITE	115_white-A	
+416	orowin-116_black-1	orowin	116_black	m e s e m	orow1243	orw	163	BLACK	116_black-A	
+417	orowin-116_black-2	orowin	116_black	t o m	orow1243	orw	163	BLACK	116_black-E	
+418	orowin-117_night-1	orowin	117_night	i t i m	orow1243	orw	1233	NIGHT	117_night-A	
+419	orowin-118_day-1	orowin	118_day	t o w a	orow1243	orw	1225	DAY (NOT NIGHT)	118_day-A	
+420	orowin-119_summer-1	orowin	119_summer	k a w a t i ʔ	orow1243	orw	1342	SUMMER	119_summer-A	
+421	orowin-11_two-1	orowin	11_two	j i k s a m	orow1243	orw	1498	TWO	11_two-B	
+422	orowin-120_cold-1	orowin	120_cold	s u r i m i	orow1243	orw	1287	COLD	120_cold-A	
+423	orowin-121_new-1	orowin	121_new	s o k o r i	orow1243	orw	1231	NEW	121_new-A	
+424	orowin-122_old-1	orowin	122_old	f o r o n	orow1243	orw	1229	OLD	122_old-A	
+425	orowin-123_good-1	orowin	123_good	a w i	orow1243	orw	1035	GOOD	123_good-A	
+426	orowin-123_good-2	orowin	123_good	i s a p	orow1243	orw	1035	GOOD	123_good-B	
+427	orowin-124_name-1	orowin	124_name	w i t i	orow1243	orw	1405	NAME	124_name-A	
+428	orowin-125_afternoon-1	orowin	125_afternoon	i r a w i n	orow1243	orw	1807	AFTERNOON	125_afternoon-A	
+429	orowin-12_big-1	orowin	12_big	f o r a ʔ	orow1243	orw	1202	BIG	12_big-A	
+430	orowin-12_big-2	orowin	12_big	e k e m	orow1243	orw	1202	BIG	12_big-B	
+431	orowin-13_small-1	orowin	13_small	w i j a m a n	orow1243	orw	1246	SMALL	13_small-A	
+432	orowin-14_woman-1	orowin	14_woman	j a m i r i m a	orow1243	orw	962	WOMAN	14_woman-A	
+433	orowin-15_man-1	orowin	15_man	k i t r a m a	orow1243	orw	1554	MAN	15_man-A	
+434	orowin-16_human-1	orowin	16_human	w a j a m	orow1243	orw	683	PERSON	16_human-A	
+435	orowin-17_child-1	orowin	17_child	i f i j a m a	orow1243	orw	2099	CHILD	17_child-A	
+436	orowin-18_mother-1	orowin	18_mother	i n a	orow1243	orw	1216	MOTHER	18_mother-A	
+437	orowin-18_mother-2	orowin	18_mother	y w e	orow1243	orw	1216	MOTHER	18_mother-B	
+438	orowin-19_father-1	orowin	19_father	i t e ʔ	orow1243	orw	1217	FATHER	19_father-A	
+439	orowin-1_i-1	orowin	1_i	w a t a ʔ	orow1243	orw	1209	I	1_i-A	
+440	orowin-21_fish-1	orowin	21_fish	i f a m	orow1243	orw	227	FISH	21_fish-A	
+441	orowin-22_bird-1	orowin	22_bird	y m e	orow1243	orw	937	BIRD	22_bird-A	
+442	orowin-23_peccary-1	orowin	23_peccary	o r o + j a m a n	orow1243	orw	2390	PECCARY	23_peccary-C	
+443	orowin-24_deer-1	orowin	24_deer	a r a n a s i	orow1243	orw	1936	DEER	24_deer-D	
+444	orowin-25_louse-1	orowin	25_louse	i w i s i	orow1243	orw	1392	LOUSE	25_louse-A	
+445	orowin-26_snake-1	orowin	26_snake	k a r a k a w	orow1243	orw	730	SNAKE	26_snake-A	
+446	orowin-27_worm-1	orowin	27_worm	e m e t e ʔ	orow1243	orw	1219	WORM	27_worm-A	
+447	orowin-28_forest-1	orowin	28_forest	o m i	orow1243	orw	420	FOREST	28_forest-A	
+448	orowin-29_stick-1	orowin	29_stick	p a n a	orow1243	orw	1295	STICK	29_stick-A	
+449	orowin-2_yousg-1	orowin	2_yousg	w y m	orow1243	orw	1215	THOU	2_yousg-A	
+450	orowin-30_fruit-1	orowin	30_fruit	i p i j a m	orow1243	orw	1507	FRUIT	30_fruit-A	
+451	orowin-31_leaf-1	orowin	31_leaf	t a j i n a n	orow1243	orw	628	LEAF	31_leaf-A	
+452	orowin-32_root-1	orowin	32_root	s i k i n a n	orow1243	orw	670	ROOT	32_root-A	
+453	orowin-33_flower-1	orowin	33_flower	p i w a n	orow1243	orw	239	FLOWER	33_flower-A	
+454	orowin-34_grass-1	orowin	34_grass	k a w a w a ʔ	orow1243	orw	606	GRASS	34_grass-C	
+455	orowin-35_rope-1	orowin	35_rope	m o k o r i k o n	orow1243	orw	1218	ROPE	35_rope-A	
+456	orowin-36_skin-1	orowin	36_skin	t o p o r i s i	orow1243	orw	763	SKIN	36_skin-A	
+457	orowin-37_meat-1	orowin	37_meat	y k e r e s i	orow1243	orw	634	MEAT	37_meat-A	
+458	orowin-38_blood-1	orowin	38_blood	w i k i s i	orow1243	orw	946	BLOOD	38_blood-A	
+459	orowin-39_bone-1	orowin	39_bone	a r a n	orow1243	orw	1394	BONE	39_bone-A	
+460	orowin-3_he-1	orowin	3_he	w o r i k o	orow1243	orw	1211	HE	3_he-A	
+461	orowin-40_fat-1	orowin	40_fat	m a f o m a s i	orow1243	orw	323	FAT (ORGANIC SUBSTANCE)	40_fat-A	
+462	orowin-41_egg-1	orowin	41_egg	a r i k o n	orow1243	orw	744	EGG	41_egg-A	
+463	orowin-42_horn-1	orowin	42_horn	p i t i k o n	orow1243	orw	939	HORN (INSTRUMENT)	42_horn-A	
+464	orowin-43_tail-1	orowin	43_tail	k e f e r e s i	orow1243	orw	1220	TAIL	43_tail-A	
+465	orowin-44_hair-1	orowin	44_hair	t y n e s i	orow1243	orw	1040	HAIR	44_hair-A	
+466	orowin-45_head-1	orowin	45_head	i p i j i s i	orow1243	orw	1256	HEAD	45_head-A	
+467	orowin-46_ear-1	orowin	46_ear	t r a j i s i	orow1243	orw	1247	EAR	46_ear-A	
+468	orowin-47_eye-1	orowin	47_eye	t o k i s i	orow1243	orw	1248	EYE	47_eye-A	
+469	orowin-48_nose-1	orowin	48_nose	y r y s i	orow1243	orw	1221	NOSE	48_nose-A	
+470	orowin-49_mouth-1	orowin	49_mouth	t o p a k a s i	orow1243	orw	674	MOUTH	49_mouth-A	
+471	orowin-4_we-1	orowin	4_we	w a r i ʔ	orow1243	orw	1212	WE	4_we-A	
+472	orowin-50_tooth-1	orowin	50_tooth	i j i t i s i	orow1243	orw	1380	TOOTH	50_tooth-A	
+473	orowin-51_tongue-1	orowin	51_tongue	t e p e k e j e s i	orow1243	orw	1205	TONGUE	51_tongue-A	
+474	orowin-52_fingernail-1	orowin	52_fingernail	s y k y n e s i	orow1243	orw	1258	FINGERNAIL	52_fingernail-A	
+475	orowin-53_foot-1	orowin	53_foot	p a s o m a s i	orow1243	orw	1301	FOOT	53_foot-B	
+476	orowin-54_leg-1	orowin	54_leg	f o k i s i	orow1243	orw	1297	LEG	54_leg-A	
+477	orowin-55_knee-1	orowin	55_knee	m a k a r a m a s i	orow1243	orw	1371	KNEE	55_knee-A	
+478	orowin-55_knee-2	orowin	55_knee	m a f o n a s i	orow1243	orw	1371	KNEE	55_knee-B	
+479	orowin-56_hand-1	orowin	56_hand	t i p r a s i	orow1243	orw	1277	HAND	56_hand-B	
+480	orowin-57_wing-1	orowin	57_wing	n a p a t i n a n	orow1243	orw	1257	WING	57_wing-A	
+481	orowin-58_belly-1	orowin	58_belly	k i m i	orow1243	orw	1251	BELLY	58_belly-A	
+482	orowin-58_belly-2	orowin	58_belly	t a p a w a k o n	orow1243	orw	1251	BELLY	58_belly-B	
+483	orowin-59_guts-1	orowin	59_guts	m o n o s i	orow1243	orw	1334	GUTS	59_guts-A	
+484	orowin-5_youpl-1	orowin	5_youpl	f u ʔ	orow1243	orw	1213	YOU	5_youpl-A	
+485	orowin-60_neck-1	orowin	60_neck	o p a r a m a s i	orow1243	orw	1333	NECK	60_neck-A	
+486	orowin-61_back-1	orowin	61_back	a r a w a s i	orow1243	orw	1291	BACK	61_back-A	
+487	orowin-62_breast-1	orowin	62_breast	k a r a t i s i	orow1243	orw	1402	BREAST	62_breast-A	
+488	orowin-62_breast-2	orowin	62_breast	i k i m a s i	orow1243	orw	1402	BREAST	62_breast-B	
+489	orowin-63_heart-1	orowin	63_heart	t i m i s i	orow1243	orw	1223	HEART	63_heart-A	
+490	orowin-64_liver-1	orowin	64_liver	t r a w r i s i	orow1243	orw	1224	LIVER	64_liver-A	
+491	orowin-65_drink-1	orowin	65_drink	t o k	orow1243	orw	1401	DRINK	65_drink-A	
+492	orowin-66_eat-1	orowin	66_eat	k a w	orow1243	orw	1336	EAT	66_eat-A	
+493	orowin-67_bite-1	orowin	67_bite	k i w	orow1243	orw	1403	BITE	67_bite-A	
+494	orowin-68_suck-1	orowin	68_suck	i t a k	orow1243	orw	1421	SUCK	68_suck-A	
+495	orowin-69_vomit-1	orowin	69_vomit	y w e ʔ	orow1243	orw	1278	VOMIT	69_vomit-A	
+496	orowin-6_they-1	orowin	6_they	w o r i k o k o	orow1243	orw	817	THEY	6_they-A	
+497	orowin-70_breathe-1	orowin	70_breathe	w o r a m	orow1243	orw	1407	BREATHE	70_breathe-A	
+498	orowin-71_laugh-1	orowin	71_laugh	t a r i m	orow1243	orw	1355	LAUGH	71_laugh-A	
+499	orowin-72_see-1	orowin	72_see	k i r i k	orow1243	orw	1409	SEE	72_see-A	
+500	orowin-73_hear-1	orowin	73_hear	w o r a p a t	orow1243	orw	1408	HEAR	73_hear-A	
+501	orowin-74_fear-1	orowin	74_fear	i j i n	orow1243	orw	1419	FEAR (BE AFRAID)	74_fear-A	
+502	orowin-75_sleep-1	orowin	75_sleep	y p e n	orow1243	orw	1585	SLEEP	75_sleep-A	
+503	orowin-76_die-1	orowin	76_die	i m i ʔ	orow1243	orw	1494	DIE	76_die-A	
+504	orowin-77_kill-1	orowin	77_kill	p a ʔ	orow1243	orw	1417	KILL	77_kill-A	
+505	orowin-78_fight-1	orowin	78_fight	t a m a n a ʔ	orow1243	orw	1423	FIGHT	78_fight-A	
+506	orowin-79_shoot-1	orowin	79_shoot	f r i ʔ	orow1243	orw	1172	SHOOT	79_shoot-A	
+507	orowin-7_whowhat-1	orowin	7_whowhat	a t i	orow1243	orw	2147	WHO OR WHAT	7_whowhat-A	
+508	orowin-80_hit-1	orowin	80_hit	t o ʔ	orow1243	orw	1433	HIT	80_hit-A	
+509	orowin-80_hit-2	orowin	80_hit	p a k	orow1243	orw	1433	HIT	80_hit-B	
+510	orowin-81_cut-1	orowin	81_cut	t a + k a t	orow1243	orw	1432	CUT	81_cut-A	
+511	orowin-81_cut-2	orowin	81_cut	w a k	orow1243	orw	1432	CUT	81_cut-B	
+512	orowin-81_cut-3	orowin	81_cut	p i t	orow1243	orw	1432	CUT	81_cut-C	
+513	orowin-82_dig-1	orowin	82_dig	t i k i	orow1243	orw	1418	DIG	82_dig-A	
+514	orowin-83_swim-1	orowin	83_swim	j y	orow1243	orw	1439	SWIM	83_swim-A	
+515	orowin-84_fly-1	orowin	84_fly	t a k i	orow1243	orw	1441	FLY (MOVE THROUGH AIR)	84_fly-A	
+516	orowin-84_fly-2	orowin	84_fly	i j a m	orow1243	orw	1441	FLY (MOVE THROUGH AIR)	84_fly-B	
+517	orowin-85_walk-1	orowin	85_walk	t y t	orow1243	orw	1443	WALK	85_walk-A	
+518	orowin-86_come-1	orowin	86_come	m a k i	orow1243	orw	1446	COME	86_come-A	
+519	orowin-87_lie-1	orowin	87_lie	t i m	orow1243	orw	1411	LIE (REST)	87_lie-A	
+520	orowin-87_lie-2	orowin	87_lie	t o k o ʔ	orow1243	orw	1411	LIE (REST)	87_lie-B	
+521	orowin-88_sit-1	orowin	88_sit	p e	orow1243	orw	1416	SIT	88_sit-A	
+522	orowin-89_stand-1	orowin	89_stand	p a n	orow1243	orw	1442	STAND	89_stand-B	
+523	orowin-8_many-1	orowin	8_many	m i j a ʔ	orow1243	orw	1198	MANY	8_many-A	
+524	orowin-8_many-2	orowin	8_many	n a p a	orow1243	orw	1198	MANY	8_many-B	
+525	orowin-90_fall-1	orowin	90_fall	i p a n	orow1243	orw	1280	FALL	90_fall-A	
+526	orowin-91_give-1	orowin	91_give	m i ʔ	orow1243	orw	1447	GIVE	91_give-A	
+527	orowin-92_wash-1	orowin	92_wash	w i r i k o m	orow1243	orw	1453	WASH	92_wash-A	
+528	orowin-93_pull-1	orowin	93_pull	k o k + t b o t	orow1243	orw	1455	PULL	93_pull-A	
+529	orowin-94_push-1	orowin	94_push	j y k	orow1243	orw	1452	PUSH	94_push-A	
+530	orowin-95_throw-1	orowin	95_throw	s i n	orow1243	orw	1456	THROW	95_throw-A	
+531	orowin-96_tie-1	orowin	96_tie	p a w	orow1243	orw	1917	TIE	96_tie-A	
+532	orowin-97_say-1	orowin	97_say	n a ʔ	orow1243	orw	1458	SAY	97_say-B	
+533	orowin-98_sing-1	orowin	98_sing	k o m	orow1243	orw	1261	SING	98_sing-A	
+534	orowin-99_sun-1	orowin	99_sun	f a k a m i ʔ	orow1243	orw	1343	SUN	99_sun-D	
+535	orowin-9_few-1	orowin	9_few	k a w a s a n + t o m a n	orow1243	orw	1242	FEW	9_few-C	
+536	tapakura-100_moon-1	tapakura	100_moon	p a n a t o	chap1269	nan	1313	MOON	100_moon-A	
+537	tapakura-101_star-1	tapakura	101_star	w i p i j a o	chap1269	nan	1430	STAR	101_star-A	
+538	tapakura-102_water-1	tapakura	102_water	a k u m	chap1269	nan	948	WATER	102_water-A	
+539	tapakura-104_stone-1	tapakura	104_stone	p e k u n	chap1269	nan	857	STONE	104_stone-A	
+540	tapakura-105_sand-1	tapakura	105_sand	u m a t i	chap1269	nan	671	SAND	105_sand-B	
+541	tapakura-106_earth-1	tapakura	106_earth	j a m a k a n	chap1269	nan	1228	EARTH (SOIL)	106_earth-A	
+542	tapakura-106_earth-2	tapakura	106_earth	tʃ i m a k	chap1269	nan	1228	EARTH (SOIL)	106_earth-B	
+543	tapakura-107_sky-1	tapakura	107_sky	a w i n	chap1269	nan	1732	SKY	107_sky-A	
+544	tapakura-10_one-1	tapakura	10_one	t a n + k u a	chap1269	nan	1493	ONE	10_one-A	
+545	tapakura-110_fire-1	tapakura	110_fire	i s e	chap1269	nan	221	FIRE	110_fire-A	
+546	tapakura-113_red-1	tapakura	113_red	t u p a tʃ i n i	chap1269	nan	156	RED	113_red-D	
+547	tapakura-114_yellow-1	tapakura	114_yellow	i t u w i	chap1269	nan	1424	YELLOW	114_yellow-C	
+548	tapakura-115_white-1	tapakura	115_white	t a h u t i	chap1269	nan	1335	WHITE	115_white-B	
+549	tapakura-116_black-1	tapakura	116_black	w i t a m	chap1269	nan	163	BLACK	116_black-D	
+550	tapakura-117_night-1	tapakura	117_night	p a i t i n	chap1269	nan	1233	NIGHT	117_night-A	
+551	tapakura-118_day-1	tapakura	118_day	t u w a	chap1269	nan	1225	DAY (NOT NIGHT)	118_day-A	
+552	tapakura-11_two-1	tapakura	11_two	w a g a r a g a t a n	chap1269	nan	1498	TWO	11_two-A	
+553	tapakura-11_two-2	tapakura	11_two	a j u k e n	chap1269	nan	1498	TWO	11_two-C	
+554	tapakura-122_old-1	tapakura	122_old	i t a r a k u n	chap1269	nan	1229	OLD	122_old-C	
+555	tapakura-123_good-1	tapakura	123_good	n a w a s a	chap1269	nan	1035	GOOD	123_good-B	
+556	tapakura-12_big-1	tapakura	12_big	k o w i k o n	chap1269	nan	1202	BIG	12_big-F	
+557	tapakura-13_small-1	tapakura	13_small	m i tʃ i t i k o n	chap1269	nan	1246	SMALL	13_small-B	
+558	tapakura-14_woman-1	tapakura	14_woman	j a m a k e	chap1269	nan	962	WOMAN	14_woman-C	
+559	tapakura-17_child-1	tapakura	17_child	w i tʃ i t i k u n	chap1269	nan	2099	CHILD	17_child-E	
+560	tapakura-19_father-1	tapakura	19_father	t i a + t i a	chap1269	nan	1217	FATHER	19_father-A	
+561	tapakura-1_i-1	tapakura	1_i	w a j a	chap1269	nan	1209	I	1_i-A	
+562	tapakura-21_fish-1	tapakura	21_fish	i h u a m	chap1269	nan	227	FISH	21_fish-A	
+563	tapakura-22_bird-1	tapakura	22_bird	i m e	chap1269	nan	937	BIRD	22_bird-A	
+564	tapakura-23_peccary-1	tapakura	23_peccary	t u k a w a	chap1269	nan	2390	PECCARY	23_peccary-A	
+565	tapakura-24_deer-1	tapakura	24_deer	k i m a r i	chap1269	nan	1936	DEER	24_deer-C	
+566	tapakura-25_louse-1	tapakura	25_louse	a w i	chap1269	nan	1392	LOUSE	25_louse-A	
+567	tapakura-28_forest-1	tapakura	28_forest	w i t i p	chap1269	nan	420	FOREST	28_forest-C	
+568	tapakura-29_stick-1	tapakura	29_stick	p a n e	chap1269	nan	1295	STICK	29_stick-A	
+569	tapakura-2_yousg-1	tapakura	2_yousg	a w i m o	chap1269	nan	1215	THOU	2_yousg-A	
+570	tapakura-30_fruit-1	tapakura	30_fruit	m a r i t i a	chap1269	nan	1507	FRUIT	30_fruit-C	
+571	tapakura-31_leaf-1	tapakura	31_leaf	ʃ u ɲ u	chap1269	nan	628	LEAF	31_leaf-D	
+572	tapakura-33_flower-1	tapakura	33_flower	t a h u n e	chap1269	nan	239	FLOWER	33_flower-B	
+573	tapakura-34_grass-1	tapakura	34_grass	w i ʃ i t i + m o r u t a m	chap1269	nan	606	GRASS	34_grass-D	
+574	tapakura-36_skin-1	tapakura	36_skin	t u p a r i tʃ i	chap1269	nan	763	SKIN	36_skin-A	
+575	tapakura-38_blood-1	tapakura	38_blood	a w i	chap1269	nan	946	BLOOD	38_blood-A	
+576	tapakura-39_bone-1	tapakura	39_bone	a t a t	chap1269	nan	1394	BONE	39_bone-A	
+577	tapakura-3_he-1	tapakura	3_he	a r i k a h u	chap1269	nan	1211	HE	3_he-A	
+578	tapakura-40_fat-1	tapakura	40_fat	m o m i k u m + k i r u	chap1269	nan	323	FAT (ORGANIC SUBSTANCE)	40_fat-A	
+579	tapakura-41_egg-1	tapakura	41_egg	a t e r a n t a	chap1269	nan	744	EGG	41_egg-A	
+580	tapakura-42_horn-1	tapakura	42_horn	i n j a w a n	chap1269	nan	939	HORN (INSTRUMENT)	42_horn-D	
+581	tapakura-43_tail-1	tapakura	43_tail	tʃ i p i tʃ i	chap1269	nan	1220	TAIL	43_tail-B	
+582	tapakura-44_hair-1	tapakura	44_hair	tʃ u m i tʃ i	chap1269	nan	1040	HAIR	44_hair-A	
+583	tapakura-45_head-1	tapakura	45_head	u p a tʃ i	chap1269	nan	1256	HEAD	45_head-A	
+584	tapakura-46_ear-1	tapakura	46_ear	t a i t a t a tʃ i	chap1269	nan	1247	EAR	46_ear-A	
+585	tapakura-47_eye-1	tapakura	47_eye	t u k u tʃ i	chap1269	nan	1248	EYE	47_eye-A	
+586	tapakura-48_nose-1	tapakura	48_nose	u t u r u tʃ i	chap1269	nan	1221	NOSE	48_nose-A	
+587	tapakura-49_mouth-1	tapakura	49_mouth	t u p a k a tʃ i	chap1269	nan	674	MOUTH	49_mouth-A	
+588	tapakura-4_we-1	tapakura	4_we	w a j a h u	chap1269	nan	1212	WE	4_we-A	
+589	tapakura-50_tooth-1	tapakura	50_tooth	j a t i tʃ i	chap1269	nan	1380	TOOTH	50_tooth-A	
+590	tapakura-51_tongue-1	tapakura	51_tongue	t a p u i t a k a tʃ i	chap1269	nan	1205	TONGUE	51_tongue-A	
+591	tapakura-52_fingernail-1	tapakura	52_fingernail	n a i m i tʃ i	chap1269	nan	1258	FINGERNAIL	52_fingernail-C	
+592	tapakura-53_foot-1	tapakura	53_foot	k a i m a tʃ i	chap1269	nan	1301	FOOT	53_foot-A	
+593	tapakura-53_foot-2	tapakura	53_foot	tʃ i k i tʃ i	chap1269	nan	1301	FOOT	53_foot-C	
+594	tapakura-54_leg-1	tapakura	54_leg	u k u tʃ i	chap1269	nan	1297	LEG	54_leg-A	
+595	tapakura-55_knee-1	tapakura	55_knee	t u k a i m a tʃ i	chap1269	nan	1371	KNEE	55_knee-C	
+596	tapakura-56_hand-1	tapakura	56_hand	u m i tʃ i	chap1269	nan	1277	HAND	56_hand-A	
+597	tapakura-56_hand-2	tapakura	56_hand	i tʃ o p a r a tʃ i	chap1269	nan	1277	HAND	56_hand-B	
+598	tapakura-57_wing-1	tapakura	57_wing	h i p a tʃ i	chap1269	nan	1257	WING	57_wing-A	
+599	tapakura-58_belly-1	tapakura	58_belly	t e k e m a tʃ e	chap1269	nan	1251	BELLY	58_belly-A	
+600	tapakura-59_guts-1	tapakura	59_guts	a m u n i tʃ i	chap1269	nan	1334	GUTS	59_guts-A	
+601	tapakura-60_neck-1	tapakura	60_neck	h u k i m i n i tʃ i	chap1269	nan	1333	NECK	60_neck-B	
+602	tapakura-61_back-1	tapakura	61_back	o t o w a tʃ i	chap1269	nan	1291	BACK	61_back-A	
+603	tapakura-63_heart-1	tapakura	63_heart	s i m i tʃ i	chap1269	nan	1223	HEART	63_heart-A	
+604	tapakura-66_eat-1	tapakura	66_eat	k a w	chap1269	nan	1336	EAT	66_eat-A	
+605	tapakura-6_they-1	tapakura	6_they	a ʃ i r i	chap1269	nan	817	THEY	6_they-C	
+606	tapakura-71_laugh-1	tapakura	71_laugh	m a t i m u i a r a	chap1269	nan	1355	LAUGH	71_laugh-B	
+607	tapakura-72_see-1	tapakura	72_see	k i r i k	chap1269	nan	1409	SEE	72_see-A	
+608	tapakura-75_sleep-1	tapakura	75_sleep	w a tʃ i a h e	chap1269	nan	1585	SLEEP	75_sleep-B	
+609	tapakura-77_kill-1	tapakura	77_kill	t u a k u n	chap1269	nan	1417	KILL	77_kill-B	
+610	tapakura-81_cut-1	tapakura	81_cut	p i tʃ i r a m	chap1269	nan	1432	CUT	81_cut-C	
+611	tapakura-83_swim-1	tapakura	83_swim	k a w a + k o	chap1269	nan	1439	SWIM	83_swim-D	
+612	tapakura-86_come-1	tapakura	86_come	m a n a	chap1269	nan	1446	COME	86_come-C	
+613	tapakura-87_lie-1	tapakura	87_lie	w a	chap1269	nan	1411	LIE (REST)	87_lie-D	
+614	tapakura-88_sit-1	tapakura	88_sit	p e p e	chap1269	nan	1416	SIT	88_sit-A	
+615	tapakura-89_stand-1	tapakura	89_stand	t e k i p e p e	chap1269	nan	1442	STAND	89_stand-A	
+616	tapakura-91_give-1	tapakura	91_give	m i	chap1269	nan	1447	GIVE	91_give-A	
+617	tapakura-97_say-1	tapakura	97_say	t i m i	chap1269	nan	1458	SAY	97_say-A	
+618	tapakura-99_sun-1	tapakura	99_sun	w a p u i t o	chap1269	nan	1343	SUN	99_sun-A	
+619	tapakura-9_few-1	tapakura	9_few	m a t i a	chap1269	nan	1242	FEW	9_few-E	
+620	tora-100_moon-1	tora	100_moon	p a n a o	tora1263	trz	1313	MOON	100_moon-A	
+621	tora-101_star-1	tora	101_star	p i p i j o	tora1263	trz	1430	STAR	101_star-A	
+622	tora-102_water-1	tora	102_water	k o m	tora1263	trz	948	WATER	102_water-A	
+623	tora-104_stone-1	tora	104_stone	p i k u n	tora1263	trz	857	STONE	104_stone-A	
+624	tora-105_sand-1	tora	105_sand	m i j m a j	tora1263	trz	671	SAND	105_sand-A	
+625	tora-106_earth-1	tora	106_earth	t i m a k	tora1263	trz	1228	EARTH (SOIL)	106_earth-B	
+626	tora-107_sky-1	tora	107_sky	a w i n	tora1263	trz	1732	SKY	107_sky-A	
+627	tora-108_wind-1	tora	108_wind	p a h u z i	tora1263	trz	960	WIND	108_wind-A	
+628	tora-109_smoke-1	tora	109_smoke	i w i ʔ	tora1263	trz	778	SMOKE (EXHAUST)	109_smoke-A	
+629	tora-10_one-1	tora	10_one	k w a t a d n	tora1263	trz	1493	ONE	10_one-A	
+630	tora-110_fire-1	tora	110_fire	i ʃ e ʔ	tora1263	trz	221	FIRE	110_fire-A	
+631	tora-111_ashes-1	tora	111_ashes	m u r oː t o n	tora1263	trz	646	ASH	111_ashes-A	
+632	tora-112_road-1	tora	112_road	w a n a	tora1263	trz	667	ROAD	112_road-A	
+633	tora-113_red-1	tora	113_red	m ë b n	tora1263	trz	156	RED	113_red-A	
+634	tora-115_white-1	tora	115_white	t u a g	tora1263	trz	1335	WHITE	115_white-A	
+635	tora-116_black-1	tora	116_black	m o r e m	tora1263	trz	163	BLACK	116_black-A	
+636	tora-117_night-1	tora	117_night	i j s i b m	tora1263	trz	1233	NIGHT	117_night-A	
+637	tora-118_day-1	tora	118_day	t o a	tora1263	trz	1225	DAY (NOT NIGHT)	118_day-A	
+638	tora-118_day-2	tora	118_day	a n a p a t	tora1263	trz	1225	DAY (NOT NIGHT)	118_day-C	
+639	tora-11_two-1	tora	11_two	k u r a d n	tora1263	trz	1498	TWO	11_two-A	
+640	tora-120_cold-1	tora	120_cold	s i u n i	tora1263	trz	1287	COLD	120_cold-A	
+641	tora-121_new-1	tora	121_new	t u k u r u d n	tora1263	trz	1231	NEW	121_new-A	
+642	tora-122_old-1	tora	122_old	s e r a t i	tora1263	trz	1229	OLD	122_old-B	
+643	tora-123_good-1	tora	123_good	i t e r a	tora1263	trz	1035	GOOD	123_good-D	
+644	tora-124_name-1	tora	124_name	v i t i	tora1263	trz	1405	NAME	124_name-A	
+645	tora-125_afternoon-1	tora	125_afternoon	i r e a w i d n	tora1263	trz	1807	AFTERNOON	125_afternoon-A	
+646	tora-12_big-1	tora	12_big	u k a d n	tora1263	trz	1202	BIG	12_big-B	
+647	tora-13_small-1	tora	13_small	n y a e tʃ i d n	tora1263	trz	1246	SMALL	13_small-D	
+648	tora-14_woman-1	tora	14_woman	n a k a m i n	tora1263	trz	962	WOMAN	14_woman-C	
+649	tora-15_man-1	tora	15_man	n a k o n	tora1263	trz	1554	MAN	15_man-B	
+650	tora-17_child-1	tora	17_child	i r a t o	tora1263	trz	2099	CHILD	17_child-C	
+651	tora-18_mother-1	tora	18_mother	i n j a	tora1263	trz	1216	MOTHER	18_mother-A	
+652	tora-18_mother-2	tora	18_mother	i w i	tora1263	trz	1216	MOTHER	18_mother-B	
+653	tora-19_father-1	tora	19_father	i t e	tora1263	trz	1217	FATHER	19_father-A	
+654	tora-1_i-1	tora	1_i	w a z a	tora1263	trz	1209	I	1_i-A	
+655	tora-21_fish-1	tora	21_fish	h o a m	tora1263	trz	227	FISH	21_fish-A	
+656	tora-22_bird-1	tora	22_bird	u m a	tora1263	trz	937	BIRD	22_bird-A	
+657	tora-23_peccary-1	tora	23_peccary	t u k a w a d n	tora1263	trz	2390	PECCARY	23_peccary-A	
+658	tora-24_deer-1	tora	24_deer	v i j e m o p	tora1263	trz	1936	DEER	24_deer-A	
+659	tora-25_louse-1	tora	25_louse	i w	tora1263	trz	1392	LOUSE	25_louse-A	
+660	tora-26_snake-1	tora	26_snake	k a r a k a w	tora1263	trz	730	SNAKE	26_snake-A	
+661	tora-28_forest-1	tora	28_forest	u m i	tora1263	trz	420	FOREST	28_forest-A	
+662	tora-29_stick-1	tora	29_stick	p a n a	tora1263	trz	1295	STICK	29_stick-A	
+663	tora-2_yousg-1	tora	2_yousg	w e b m	tora1263	trz	1215	THOU	2_yousg-A	
+664	tora-31_leaf-1	tora	31_leaf	m u r a m i	tora1263	trz	628	LEAF	31_leaf-B	
+665	tora-33_flower-1	tora	33_flower	p i w a j	tora1263	trz	239	FLOWER	33_flower-A	
+666	tora-35_rope-1	tora	35_rope	t u k u r i p a	tora1263	trz	1218	ROPE	35_rope-B	
+667	tora-36_skin-1	tora	36_skin	t u p a r a	tora1263	trz	763	SKIN	36_skin-A	
+668	tora-38_blood-1	tora	38_blood	w i	tora1263	trz	946	BLOOD	38_blood-A	
+669	tora-39_bone-1	tora	39_bone	a t a ʃ i	tora1263	trz	1394	BONE	39_bone-A	
+670	tora-3_he-1	tora	3_he	w a r i k o	tora1263	trz	1211	HE	3_he-A	
+671	tora-40_fat-1	tora	40_fat	t aː h o n	tora1263	trz	323	FAT (ORGANIC SUBSTANCE)	40_fat-A	
+672	tora-41_egg-1	tora	41_egg	a z e r o n	tora1263	trz	744	EGG	41_egg-A	
+673	tora-44_hair-1	tora	44_hair	t u n i	tora1263	trz	1040	HAIR	44_hair-A	
+674	tora-45_head-1	tora	45_head	u p u j e ʃ i	tora1263	trz	1256	HEAD	45_head-A	
+675	tora-46_ear-1	tora	46_ear	t e t e t e	tora1263	trz	1247	EAR	46_ear-B	
+676	tora-47_eye-1	tora	47_eye	t o k	tora1263	trz	1248	EYE	47_eye-A	
+677	tora-48_nose-1	tora	48_nose	u j	tora1263	trz	1221	NOSE	48_nose-A	
+678	tora-49_mouth-1	tora	49_mouth	t u a r a w	tora1263	trz	674	MOUTH	49_mouth-C	
+679	tora-4_we-1	tora	4_we	w a z a t i	tora1263	trz	1212	WE	4_we-A	
+680	tora-50_tooth-1	tora	50_tooth	j a t i ʃ i	tora1263	trz	1380	TOOTH	50_tooth-A	
+681	tora-51_tongue-1	tora	51_tongue	k a p i a k i ʃ i ʔ	tora1263	trz	1205	TONGUE	51_tongue-B	
+682	tora-52_fingernail-1	tora	52_fingernail	p e s o r o	tora1263	trz	1258	FINGERNAIL	52_fingernail-A	
+683	tora-53_foot-1	tora	53_foot	k a z i m a	tora1263	trz	1301	FOOT	53_foot-A	
+684	tora-53_foot-2	tora	53_foot	ʃ i k i n i ʃ i	tora1263	trz	1301	FOOT	53_foot-C	
+685	tora-54_leg-1	tora	54_leg	h o k	tora1263	trz	1297	LEG	54_leg-A	
+686	tora-55_knee-1	tora	55_knee	t u k a z i m	tora1263	trz	1371	KNEE	55_knee-C	
+687	tora-56_hand-1	tora	56_hand	u m u	tora1263	trz	1277	HAND	56_hand-A	
+688	tora-56_hand-2	tora	56_hand	t i p a r a	tora1263	trz	1277	HAND	56_hand-B	
+689	tora-58_belly-1	tora	58_belly	t o s i p a	tora1263	trz	1251	BELLY	58_belly-A	
+690	tora-5_youpl-1	tora	5_youpl	w i h u	tora1263	trz	1213	YOU	5_youpl-A	
+691	tora-60_neck-1	tora	60_neck	p a t a m a	tora1263	trz	1333	NECK	60_neck-A	
+692	tora-61_back-1	tora	61_back	w u r i t i m	tora1263	trz	1291	BACK	61_back-A	
+693	tora-62_breast-1	tora	62_breast	k a t a s a n	tora1263	trz	1402	BREAST	62_breast-A	
+694	tora-62_breast-2	tora	62_breast	i k i m a	tora1263	trz	1402	BREAST	62_breast-B	
+695	tora-63_heart-1	tora	63_heart	t i m u	tora1263	trz	1223	HEART	63_heart-A	
+696	tora-64_liver-1	tora	64_liver	t r a w a n a	tora1263	trz	1224	LIVER	64_liver-A	
+697	tora-65_drink-1	tora	65_drink	t u k	tora1263	trz	1401	DRINK	65_drink-A	
+698	tora-66_eat-1	tora	66_eat	k a w	tora1263	trz	1336	EAT	66_eat-A	
+699	tora-67_bite-1	tora	67_bite	k i w	tora1263	trz	1403	BITE	67_bite-A	
+700	tora-6_they-1	tora	6_they	w a r i k o + b a p	tora1263	trz	817	THEY	6_they-A	
+701	tora-72_see-1	tora	72_see	k r i d	tora1263	trz	1409	SEE	72_see-A	
+702	tora-74_fear-1	tora	74_fear	e j i d n	tora1263	trz	1419	FEAR (BE AFRAID)	74_fear-A	
+703	tora-75_sleep-1	tora	75_sleep	u p o ɲ	tora1263	trz	1585	SLEEP	75_sleep-A	
+704	tora-76_die-1	tora	76_die	i m i	tora1263	trz	1494	DIE	76_die-A	
+705	tora-77_kill-1	tora	77_kill	p a	tora1263	trz	1417	KILL	77_kill-A	
+706	tora-79_shoot-1	tora	79_shoot	t a p	tora1263	trz	1172	SHOOT	79_shoot-B	
+707	tora-7_whowhat-1	tora	7_whowhat	t e o k a j	tora1263	trz	2147	WHO OR WHAT	7_whowhat-B	
+708	tora-80_hit-1	tora	80_hit	p a k	tora1263	trz	1433	HIT	80_hit-B	
+709	tora-81_cut-1	tora	81_cut	t a	tora1263	trz	1432	CUT	81_cut-A	
+710	tora-86_come-1	tora	86_come	m a k i ʔ	tora1263	trz	1446	COME	86_come-A	
+711	tora-87_lie-1	tora	87_lie	w u r i t i m i	tora1263	trz	1411	LIE (REST)	87_lie-A	
+712	tora-88_sit-1	tora	88_sit	p i	tora1263	trz	1416	SIT	88_sit-A	
+713	tora-8_many-1	tora	8_many	j a b	tora1263	trz	1198	MANY	8_many-A	
+714	tora-8_many-2	tora	8_many	a s i n ë j i	tora1263	trz	1198	MANY	8_many-D	
+715	tora-90_fall-1	tora	90_fall	i p a d	tora1263	trz	1280	FALL	90_fall-A	
+716	tora-91_give-1	tora	91_give	m i ʔ	tora1263	trz	1447	GIVE	91_give-A	
+717	tora-99_sun-1	tora	99_sun	a p i t o	tora1263	trz	1343	SUN	99_sun-A	
+718	urupa-100_moon-1	urupa	100_moon	p a n a o ʔ	urup1245	nan	1313	MOON	100_moon-A	
+719	urupa-101_star-1	urupa	101_star	u p i j o	urup1245	nan	1430	STAR	101_star-A	
+720	urupa-102_water-1	urupa	102_water	k o m	urup1245	nan	948	WATER	102_water-A	
+721	urupa-103_rain-1	urupa	103_rain	s u i	urup1245	nan	2108	RAINING OR RAIN	103_rain-A	
+722	urupa-104_stone-1	urupa	104_stone	p a k y n	urup1245	nan	857	STONE	104_stone-A	
+723	urupa-106_earth-1	urupa	106_earth	m a n a k a	urup1245	nan	1228	EARTH (SOIL)	106_earth-A	
+724	urupa-107_sky-1	urupa	107_sky	a w i n	urup1245	nan	1732	SKY	107_sky-A	
+725	urupa-108_wind-1	urupa	108_wind	k a k o	urup1245	nan	960	WIND	108_wind-B	
+726	urupa-109_smoke-1	urupa	109_smoke	i w i	urup1245	nan	778	SMOKE (EXHAUST)	109_smoke-A	
+727	urupa-10_one-1	urupa	10_one	m u n i m	urup1245	nan	1493	ONE	10_one-B	
+728	urupa-110_fire-1	urupa	110_fire	i s e	urup1245	nan	221	FIRE	110_fire-A	
+729	urupa-111_ashes-1	urupa	111_ashes	m u r u p a t e k o n	urup1245	nan	646	ASH	111_ashes-A	
+730	urupa-113_red-1	urupa	113_red	t y m	urup1245	nan	156	RED	113_red-C	
+731	urupa-115_white-1	urupa	115_white	t u a	urup1245	nan	1335	WHITE	115_white-A	
+732	urupa-116_black-1	urupa	116_black	s k a i d	urup1245	nan	163	BLACK	116_black-C	
+733	urupa-120_cold-1	urupa	120_cold	s i v	urup1245	nan	1287	COLD	120_cold-A	
+734	urupa-123_good-1	urupa	123_good	w a s a b	urup1245	nan	1035	GOOD	123_good-B	
+735	urupa-124_name-1	urupa	124_name	y v y t y	urup1245	nan	1405	NAME	124_name-A	
+736	urupa-12_big-1	urupa	12_big	e v e k e m	urup1245	nan	1202	BIG	12_big-B	
+737	urupa-13_small-1	urupa	13_small	i a m a j	urup1245	nan	1246	SMALL	13_small-A	
+738	urupa-14_woman-1	urupa	14_woman	j a m r a	urup1245	nan	962	WOMAN	14_woman-A	
+739	urupa-15_man-1	urupa	15_man	k i t r a m a	urup1245	nan	1554	MAN	15_man-A	
+740	urupa-17_child-1	urupa	17_child	u h u n j a m	urup1245	nan	2099	CHILD	17_child-A	
+741	urupa-18_mother-1	urupa	18_mother	i v e	urup1245	nan	1216	MOTHER	18_mother-B	
+742	urupa-19_father-1	urupa	19_father	e t e	urup1245	nan	1217	FATHER	19_father-A	
+743	urupa-1_i-1	urupa	1_i	w a t a	urup1245	nan	1209	I	1_i-A	
+744	urupa-21_fish-1	urupa	21_fish	i h a m	urup1245	nan	227	FISH	21_fish-A	
+745	urupa-22_bird-1	urupa	22_bird	u m e	urup1245	nan	937	BIRD	22_bird-A	
+746	urupa-24_deer-1	urupa	24_deer	j e m o b	urup1245	nan	1936	DEER	24_deer-A	
+747	urupa-25_louse-1	urupa	25_louse	i w	urup1245	nan	1392	LOUSE	25_louse-A	
+748	urupa-26_snake-1	urupa	26_snake	k r a k a w	urup1245	nan	730	SNAKE	26_snake-A	
+749	urupa-29_stick-1	urupa	29_stick	p a n a	urup1245	nan	1295	STICK	29_stick-A	
+750	urupa-2_yousg-1	urupa	2_yousg	v i m	urup1245	nan	1215	THOU	2_yousg-A	
+751	urupa-35_rope-1	urupa	35_rope	m u k o n	urup1245	nan	1218	ROPE	35_rope-A	
+752	urupa-36_skin-1	urupa	36_skin	t u p a r i s i	urup1245	nan	763	SKIN	36_skin-A	
+753	urupa-38_blood-1	urupa	38_blood	w i k i s i	urup1245	nan	946	BLOOD	38_blood-A	
+754	urupa-39_bone-1	urupa	39_bone	a r a s i	urup1245	nan	1394	BONE	39_bone-A	
+755	urupa-3_he-1	urupa	3_he	o k a i n	urup1245	nan	1211	HE	3_he-A	
+756	urupa-41_egg-1	urupa	41_egg	e r e j e n	urup1245	nan	744	EGG	41_egg-A	
+757	urupa-44_hair-1	urupa	44_hair	y v e n e s i	urup1245	nan	1040	HAIR	44_hair-B	
+758	urupa-45_head-1	urupa	45_head	y p i r i s i	urup1245	nan	1256	HEAD	45_head-A	
+759	urupa-46_ear-1	urupa	46_ear	t r a i s i	urup1245	nan	1247	EAR	46_ear-A	
+760	urupa-47_eye-1	urupa	47_eye	t u k e s i	urup1245	nan	1248	EYE	47_eye-A	
+761	urupa-48_nose-1	urupa	48_nose	j u r e s i	urup1245	nan	1221	NOSE	48_nose-A	
+762	urupa-49_mouth-1	urupa	49_mouth	t u p a k a s i	urup1245	nan	674	MOUTH	49_mouth-A	
+763	urupa-4_we-1	urupa	4_we	w a r i	urup1245	nan	1212	WE	4_we-A	
+764	urupa-50_tooth-1	urupa	50_tooth	j e t i s i	urup1245	nan	1380	TOOTH	50_tooth-A	
+765	urupa-51_tongue-1	urupa	51_tongue	k a p i a k a s i	urup1245	nan	1205	TONGUE	51_tongue-B	
+766	urupa-53_foot-1	urupa	53_foot	k a t i m a s i	urup1245	nan	1301	FOOT	53_foot-A	
+767	urupa-56_hand-1	urupa	56_hand	t i p r a s i	urup1245	nan	1277	HAND	56_hand-B	
+768	urupa-61_back-1	urupa	61_back	e r a w a s i	urup1245	nan	1291	BACK	61_back-A	
+769	urupa-62_breast-1	urupa	62_breast	k a r a t i s i	urup1245	nan	1402	BREAST	62_breast-A	
+770	urupa-65_drink-1	urupa	65_drink	t o k	urup1245	nan	1401	DRINK	65_drink-A	
+771	urupa-66_eat-1	urupa	66_eat	k a w	urup1245	nan	1336	EAT	66_eat-A	
+772	urupa-75_sleep-1	urupa	75_sleep	y p e n	urup1245	nan	1585	SLEEP	75_sleep-A	
+773	urupa-77_kill-1	urupa	77_kill	t u p a b	urup1245	nan	1417	KILL	77_kill-A	
+774	urupa-80_hit-1	urupa	80_hit	t u p a n	urup1245	nan	1433	HIT	80_hit-A	
+775	urupa-87_lie-1	urupa	87_lie	t a k	urup1245	nan	1411	LIE (REST)	87_lie-C	
+776	urupa-8_many-1	urupa	8_many	k a t i m i s a m	urup1245	nan	1198	MANY	8_many-C	
+777	urupa-97_say-1	urupa	97_say	p a	urup1245	nan	1458	SAY	97_say-D	
+778	urupa-99_sun-1	urupa	99_sun	k u m e n	urup1245	nan	1343	SUN	99_sun-C	
+779	wanyam-100_moon-1	wanyam	100_moon	p a n a w o ʔ	wany1246	nan	1313	MOON	100_moon-A	
+780	wanyam-101_star-1	wanyam	101_star	u p i j u ʔ	wany1246	nan	1430	STAR	101_star-A	
+781	wanyam-102_water-1	wanyam	102_water	k o m	wany1246	nan	948	WATER	102_water-A	
+782	wanyam-103_rain-1	wanyam	103_rain	ʃ u w i ʔ	wany1246	nan	2108	RAINING OR RAIN	103_rain-A	
+783	wanyam-104_stone-1	wanyam	104_stone	p e k i n	wany1246	nan	857	STONE	104_stone-A	
+784	wanyam-105_sand-1	wanyam	105_sand	n i m a j i ʔ	wany1246	nan	671	SAND	105_sand-A	
+785	wanyam-106_earth-1	wanyam	106_earth	n a m a k a n	wany1246	nan	1228	EARTH (SOIL)	106_earth-A	
+786	wanyam-107_sky-1	wanyam	107_sky	a w i n	wany1246	nan	1732	SKY	107_sky-A	
+787	wanyam-108_wind-1	wanyam	108_wind	p a h o t i ʔ	wany1246	nan	960	WIND	108_wind-A	
+788	wanyam-109_smoke-1	wanyam	109_smoke	i w i	wany1246	nan	778	SMOKE (EXHAUST)	109_smoke-A	
+789	wanyam-10_one-1	wanyam	10_one	k a w a tʃ y k	wany1246	nan	1493	ONE	10_one-A	
+790	wanyam-110_fire-1	wanyam	110_fire	i ʃ e ʔ	wany1246	nan	221	FIRE	110_fire-A	
+791	wanyam-112_road-1	wanyam	112_road	w a n a ʔ	wany1246	nan	667	ROAD	112_road-A	
+792	wanyam-113_red-1	wanyam	113_red	p a k a ɲ i k o n	wany1246	nan	156	RED	113_red-B	
+793	wanyam-115_white-1	wanyam	115_white	t o w a	wany1246	nan	1335	WHITE	115_white-A	
+794	wanyam-116_black-1	wanyam	116_black	t u k a n	wany1246	nan	163	BLACK	116_black-B	
+795	wanyam-117_night-1	wanyam	117_night	i t i m	wany1246	nan	1233	NIGHT	117_night-A	
+796	wanyam-118_day-1	wanyam	118_day	t o w a	wany1246	nan	1225	DAY (NOT NIGHT)	118_day-A	
+797	wanyam-119_summer-1	wanyam	119_summer	k a w a t i ʔ	wany1246	nan	1342	SUMMER	119_summer-A	
+798	wanyam-11_two-1	wanyam	11_two	k a r i k a n	wany1246	nan	1498	TWO	11_two-A	
+799	wanyam-120_cold-1	wanyam	120_cold	k i p i n	wany1246	nan	1287	COLD	120_cold-B	
+800	wanyam-122_old-1	wanyam	122_old	m a r a h o r o n	wany1246	nan	1229	OLD	122_old-A	
+801	wanyam-123_good-1	wanyam	123_good	i j a	wany1246	nan	1035	GOOD	123_good-C	
+802	wanyam-124_name-1	wanyam	124_name	u w a w	wany1246	nan	1405	NAME	124_name-A	
+803	wanyam-125_afternoon-1	wanyam	125_afternoon	i r a w i n	wany1246	nan	1807	AFTERNOON	125_afternoon-A	
+804	wanyam-12_big-1	wanyam	12_big	i p a r i n a j	wany1246	nan	1202	BIG	12_big-E	
+805	wanyam-13_small-1	wanyam	13_small	w i j i k u n	wany1246	nan	1246	SMALL	13_small-A	
+806	wanyam-14_woman-1	wanyam	14_woman	j a m a r i m a ʔ	wany1246	nan	962	WOMAN	14_woman-A	
+807	wanyam-15_man-1	wanyam	15_man	k i t a r a m a ʔ	wany1246	nan	1554	MAN	15_man-A	
+808	wanyam-16_human-1	wanyam	16_human	w a n j a m	wany1246	nan	683	PERSON	16_human-A	
+809	wanyam-17_child-1	wanyam	17_child	m a r a h u j a m a	wany1246	nan	2099	CHILD	17_child-A	
+810	wanyam-18_mother-1	wanyam	18_mother	i n a ʔ	wany1246	nan	1216	MOTHER	18_mother-A	
+811	wanyam-18_mother-2	wanyam	18_mother	e w i ʔ	wany1246	nan	1216	MOTHER	18_mother-B	
+812	wanyam-19_father-1	wanyam	19_father	t a t a	wany1246	nan	1217	FATHER	19_father-A	
+813	wanyam-1_i-1	wanyam	1_i	w a t a ʔ	wany1246	nan	1209	I	1_i-A	
+814	wanyam-20_animal-1	wanyam	20_animal	p a t i ʔ	wany1246	nan	619	ANIMAL	20_animal-A	
+815	wanyam-21_fish-1	wanyam	21_fish	i h a m	wany1246	nan	227	FISH	21_fish-A	
+816	wanyam-22_bird-1	wanyam	22_bird	i m e ʔ	wany1246	nan	937	BIRD	22_bird-A	
+817	wanyam-23_peccary-1	wanyam	23_peccary	t o k a w a n	wany1246	nan	2390	PECCARY	23_peccary-A	
+818	wanyam-24_deer-1	wanyam	24_deer	i m a r i ʔ	wany1246	nan	1936	DEER	24_deer-C	
+819	wanyam-25_louse-1	wanyam	25_louse	i w i	wany1246	nan	1392	LOUSE	25_louse-A	
+820	wanyam-26_snake-1	wanyam	26_snake	k a r a k a w	wany1246	nan	730	SNAKE	26_snake-A	
+821	wanyam-27_worm-1	wanyam	27_worm	a k a k	wany1246	nan	1219	WORM	27_worm-C	
+822	wanyam-28_forest-1	wanyam	28_forest	o m i	wany1246	nan	420	FOREST	28_forest-A	
+823	wanyam-29_stick-1	wanyam	29_stick	p a n a	wany1246	nan	1295	STICK	29_stick-A	
+824	wanyam-2_yousg-1	wanyam	2_yousg	i m	wany1246	nan	1215	THOU	2_yousg-A	
+825	wanyam-30_fruit-1	wanyam	30_fruit	i p i j a m	wany1246	nan	1507	FRUIT	30_fruit-A	
+826	wanyam-31_leaf-1	wanyam	31_leaf	t a i n	wany1246	nan	628	LEAF	31_leaf-A	
+827	wanyam-34_grass-1	wanyam	34_grass	i w i j i p	wany1246	nan	606	GRASS	34_grass-B	
+828	wanyam-35_rope-1	wanyam	35_rope	m o k o n	wany1246	nan	1218	ROPE	35_rope-A	
+829	wanyam-36_skin-1	wanyam	36_skin	t u p a r i ʃ i ʔ	wany1246	nan	763	SKIN	36_skin-A	
+830	wanyam-37_meat-1	wanyam	37_meat	i k e r e m	wany1246	nan	634	MEAT	37_meat-A	
+831	wanyam-38_blood-1	wanyam	38_blood	w i k i	wany1246	nan	946	BLOOD	38_blood-A	
+832	wanyam-39_bone-1	wanyam	39_bone	a r a j	wany1246	nan	1394	BONE	39_bone-A	
+833	wanyam-3_he-1	wanyam	3_he	a r u k w a n	wany1246	nan	1211	HE	3_he-A	
+834	wanyam-40_fat-1	wanyam	40_fat	w a h u m a j n	wany1246	nan	323	FAT (ORGANIC SUBSTANCE)	40_fat-A	
+835	wanyam-41_egg-1	wanyam	41_egg	a r i k o n	wany1246	nan	744	EGG	41_egg-A	
+836	wanyam-42_horn-1	wanyam	42_horn	t a t a w i	wany1246	nan	939	HORN (INSTRUMENT)	42_horn-B	
+837	wanyam-43_tail-1	wanyam	43_tail	k a h i r e	wany1246	nan	1220	TAIL	43_tail-A	
+838	wanyam-44_hair-1	wanyam	44_hair	t i n i ʃ i ʔ	wany1246	nan	1040	HAIR	44_hair-A	
+839	wanyam-45_head-1	wanyam	45_head	i p i j i ʃ i ʔ	wany1246	nan	1256	HEAD	45_head-A	
+840	wanyam-46_ear-1	wanyam	46_ear	t a r a j i ʃ i ʔ	wany1246	nan	1247	EAR	46_ear-A	
+841	wanyam-47_eye-1	wanyam	47_eye	t o k i ʃ i ʔ	wany1246	nan	1248	EYE	47_eye-A	
+842	wanyam-48_nose-1	wanyam	48_nose	i r i ʃ i ʔ	wany1246	nan	1221	NOSE	48_nose-A	
+843	wanyam-49_mouth-1	wanyam	49_mouth	t o p a k a ʃ i ʔ	wany1246	nan	674	MOUTH	49_mouth-A	
+844	wanyam-4_we-1	wanyam	4_we	w a r i	wany1246	nan	1212	WE	4_we-A	
+845	wanyam-50_tooth-1	wanyam	50_tooth	i j i t i ʃ i ʔ	wany1246	nan	1380	TOOTH	50_tooth-A	
+846	wanyam-51_tongue-1	wanyam	51_tongue	k a p i j a k a ʃ i ʔ	wany1246	nan	1205	TONGUE	51_tongue-B	
+847	wanyam-52_fingernail-1	wanyam	52_fingernail	p i k i n a ʃ i ʔ	wany1246	nan	1258	FINGERNAIL	52_fingernail-A	
+848	wanyam-53_foot-1	wanyam	53_foot	k a t i m a ʃ i ʔ	wany1246	nan	1301	FOOT	53_foot-A	
+849	wanyam-54_leg-1	wanyam	54_leg	h o k i ʃ i ʔ	wany1246	nan	1297	LEG	54_leg-A	
+850	wanyam-55_knee-1	wanyam	55_knee	w a r a k a r a m a ʃ i ʔ	wany1246	nan	1371	KNEE	55_knee-A	
+851	wanyam-56_hand-1	wanyam	56_hand	t i p a r a ʃ i ʔ	wany1246	nan	1277	HAND	56_hand-B	
+852	wanyam-57_wing-1	wanyam	57_wing	n i p a t	wany1246	nan	1257	WING	57_wing-A	
+853	wanyam-58_belly-1	wanyam	58_belly	k i m i j e k i n	wany1246	nan	1251	BELLY	58_belly-A	
+854	wanyam-59_guts-1	wanyam	59_guts	k a r a p a p + w a j i ʃ i ʔ	wany1246	nan	1334	GUTS	59_guts-B	
+855	wanyam-60_neck-1	wanyam	60_neck	u p a r a m a ʃ i ʔ	wany1246	nan	1333	NECK	60_neck-A	
+856	wanyam-61_back-1	wanyam	61_back	a w a r a ʃ i ʔ	wany1246	nan	1291	BACK	61_back-A	
+857	wanyam-62_breast-1	wanyam	62_breast	k a r a t i ʃ i ʔ	wany1246	nan	1402	BREAST	62_breast-A	
+858	wanyam-63_heart-1	wanyam	63_heart	t i m i ʃ i ʔ	wany1246	nan	1223	HEART	63_heart-A	
+859	wanyam-64_liver-1	wanyam	64_liver	t a r a w a n e ʃ i ʔ	wany1246	nan	1224	LIVER	64_liver-A	
+860	wanyam-65_drink-1	wanyam	65_drink	t u k a	wany1246	nan	1401	DRINK	65_drink-A	
+861	wanyam-66_eat-1	wanyam	66_eat	k a w	wany1246	nan	1336	EAT	66_eat-A	
+862	wanyam-67_bite-1	wanyam	67_bite	k i w	wany1246	nan	1403	BITE	67_bite-A	
+863	wanyam-68_suck-1	wanyam	68_suck	ʃ a k	wany1246	nan	1421	SUCK	68_suck-A	
+864	wanyam-69_vomit-1	wanyam	69_vomit	w e	wany1246	nan	1278	VOMIT	69_vomit-A	
+865	wanyam-70_breathe-1	wanyam	70_breathe	u r a m	wany1246	nan	1407	BREATHE	70_breathe-A	
+866	wanyam-71_laugh-1	wanyam	71_laugh	t r a h u m	wany1246	nan	1355	LAUGH	71_laugh-A	
+867	wanyam-72_see-1	wanyam	72_see	k i r i k	wany1246	nan	1409	SEE	72_see-A	
+868	wanyam-73_hear-1	wanyam	73_hear	w a r a p a t	wany1246	nan	1408	HEAR	73_hear-A	
+869	wanyam-74_fear-1	wanyam	74_fear	i n i n	wany1246	nan	1419	FEAR (BE AFRAID)	74_fear-A	
+870	wanyam-75_sleep-1	wanyam	75_sleep	i p e n	wany1246	nan	1585	SLEEP	75_sleep-A	
+871	wanyam-76_die-1	wanyam	76_die	i m i	wany1246	nan	1494	DIE	76_die-A	
+872	wanyam-77_kill-1	wanyam	77_kill	p a	wany1246	nan	1417	KILL	77_kill-A	
+873	wanyam-78_fight-1	wanyam	78_fight	a ʃ e r e m i	wany1246	nan	1423	FIGHT	78_fight-C	
+874	wanyam-79_shoot-1	wanyam	79_shoot	h i r i	wany1246	nan	1172	SHOOT	79_shoot-A	
+875	wanyam-80_hit-1	wanyam	80_hit	t o	wany1246	nan	1433	HIT	80_hit-A	
+876	wanyam-81_cut-1	wanyam	81_cut	t a k a t	wany1246	nan	1432	CUT	81_cut-A	
+877	wanyam-81_cut-2	wanyam	81_cut	p i t + k i r a n	wany1246	nan	1432	CUT	81_cut-C	
+878	wanyam-82_dig-1	wanyam	82_dig	k i t	wany1246	nan	1418	DIG	82_dig-A	
+879	wanyam-83_swim-1	wanyam	83_swim	j i	wany1246	nan	1439	SWIM	83_swim-A	
+880	wanyam-84_fly-1	wanyam	84_fly	t a k i	wany1246	nan	1441	FLY (MOVE THROUGH AIR)	84_fly-A	
+881	wanyam-85_walk-1	wanyam	85_walk	t i t	wany1246	nan	1443	WALK	85_walk-A	
+882	wanyam-86_come-1	wanyam	86_come	i w a n	wany1246	nan	1446	COME	86_come-B	
+883	wanyam-87_lie-1	wanyam	87_lie	t a r i m	wany1246	nan	1411	LIE (REST)	87_lie-A	
+884	wanyam-88_sit-1	wanyam	88_sit	p e	wany1246	nan	1416	SIT	88_sit-A	
+885	wanyam-90_fall-1	wanyam	90_fall	i p a n	wany1246	nan	1280	FALL	90_fall-A	
+886	wanyam-91_give-1	wanyam	91_give	m i n	wany1246	nan	1447	GIVE	91_give-A	
+887	wanyam-92_wash-1	wanyam	92_wash	i r o k o n	wany1246	nan	1453	WASH	92_wash-A	
+888	wanyam-92_wash-2	wanyam	92_wash	ʃ a w a	wany1246	nan	1453	WASH	92_wash-C	
+889	wanyam-94_push-1	wanyam	94_push	j e k	wany1246	nan	1452	PUSH	94_push-A	
+890	wanyam-95_throw-1	wanyam	95_throw	ʃ i n	wany1246	nan	1456	THROW	95_throw-A	
+891	wanyam-96_tie-1	wanyam	96_tie	p a w	wany1246	nan	1917	TIE	96_tie-A	
+892	wanyam-97_say-1	wanyam	97_say	w a n j a m	wany1246	nan	1458	SAY	97_say-C	
+893	wanyam-98_sing-1	wanyam	98_sing	k u m	wany1246	nan	1261	SING	98_sing-A	
+894	wanyam-99_sun-1	wanyam	99_sun	w a p i r u	wany1246	nan	1343	SUN	99_sun-A	
+895	wanyam-9_few-1	wanyam	9_few	i r a k a w	wany1246	nan	1242	FEW	9_few-B	
+896	wari-100_moon-1	wari	100_moon	p a n a w o ʔ	wari1268	pav	1313	MOON	100_moon-A	
+897	wari-101_star-1	wari	101_star	p i j o ʔ	wari1268	pav	1430	STAR	101_star-A	
+898	wari-102_water-1	wari	102_water	k o m	wari1268	pav	948	WATER	102_water-A	
+899	wari-103_rain-1	wari	103_rain	tʃ o w i ʔ	wari1268	pav	2108	RAINING OR RAIN	103_rain-A	
+900	wari-104_stone-1	wari	104_stone	p a k y n	wari1268	pav	857	STONE	104_stone-A	
+901	wari-105_sand-1	wari	105_sand	n a m a j i	wari1268	pav	671	SAND	105_sand-A	
+902	wari-106_earth-1	wari	106_earth	m a k a n ʔ	wari1268	pav	1228	EARTH (SOIL)	106_earth-A	
+903	wari-107_sky-1	wari	107_sky	n a n a w i n	wari1268	pav	1732	SKY	107_sky-A	
+904	wari-108_wind-1	wari	108_wind	h o t o w a	wari1268	pav	960	WIND	108_wind-A	
+905	wari-109_smoke-1	wari	109_smoke	t a ɲ ʔ	wari1268	pav	778	SMOKE (EXHAUST)	109_smoke-B	
+906	wari-110_fire-1	wari	110_fire	tʃ e	wari1268	pav	221	FIRE	110_fire-A	
+907	wari-111_ashes-1	wari	111_ashes	t o p a k o n	wari1268	pav	646	ASH	111_ashes-A	
+908	wari-112_road-1	wari	112_road	w a n a	wari1268	pav	667	ROAD	112_road-A	
+909	wari-113_red-1	wari	113_red	p a k a ʔ	wari1268	pav	156	RED	113_red-B	
+910	wari-114_yellow-1	wari	114_yellow	k o tʃ i k	wari1268	pav	1424	YELLOW	114_yellow-A	
+911	wari-115_white-1	wari	115_white	t o w o ʔ	wari1268	pav	1335	WHITE	115_white-A	
+912	wari-116_black-1	wari	116_black	m i tʃ e m	wari1268	pav	163	BLACK	116_black-A	
+913	wari-116_black-2	wari	116_black	t o m	wari1268	pav	163	BLACK	116_black-E	
+914	wari-117_night-1	wari	117_night	tʃ i m	wari1268	pav	1233	NIGHT	117_night-A	
+915	wari-118_day-1	wari	118_day	t o w a	wari1268	pav	1225	DAY (NOT NIGHT)	118_day-A	
+916	wari-118_day-2	wari	118_day	tʃ e k	wari1268	pav	1225	DAY (NOT NIGHT)	118_day-B	
+917	wari-119_summer-1	wari	119_summer	k a w a tʃ i ʔ	wari1268	pav	1342	SUMMER	119_summer-A	
+918	wari-11_two-1	wari	11_two	t y k y + k a r a k a n	wari1268	pav	1498	TWO	11_two-A	
+919	wari-120_cold-1	wari	120_cold	tʃ i w	wari1268	pav	1287	COLD	120_cold-A	
+920	wari-121_new-1	wari	121_new	tʃ o k o r i	wari1268	pav	1231	NEW	121_new-A	
+921	wari-122_old-1	wari	122_old	h o r o n	wari1268	pav	1229	OLD	122_old-A	
+922	wari-123_good-1	wari	123_good	a w i ʔ	wari1268	pav	1035	GOOD	123_good-A	
+923	wari-124_name-1	wari	124_name	w i tʃ i	wari1268	pav	1405	NAME	124_name-A	
+924	wari-125_afternoon-1	wari	125_afternoon	i r a w i n	wari1268	pav	1807	AFTERNOON	125_afternoon-A	
+925	wari-12_big-1	wari	12_big	h w a r a ʔ	wari1268	pav	1202	BIG	12_big-A	
+926	wari-12_big-2	wari	12_big	k o t e + n e	wari1268	pav	1202	BIG	12_big-C	
+927	wari-13_small-1	wari	13_small	w i j i m a	wari1268	pav	1246	SMALL	13_small-A	
+928	wari-14_woman-1	wari	14_woman	n a r i m a ʔ	wari1268	pav	962	WOMAN	14_woman-A	
+929	wari-15_man-1	wari	15_man	t a r a m a ʔ	wari1268	pav	1554	MAN	15_man-A	
+930	wari-16_human-1	wari	16_human	w i j a m	wari1268	pav	683	PERSON	16_human-A	
+931	wari-17_child-1	wari	17_child	h w i j i m a ʔ	wari1268	pav	2099	CHILD	17_child-A	
+932	wari-17_child-2	wari	17_child	p i j e ʔ	wari1268	pav	2099	CHILD	17_child-B	
+933	wari-18_mother-1	wari	18_mother	n a ʔ	wari1268	pav	1216	MOTHER	18_mother-A	
+934	wari-18_mother-2	wari	18_mother	w e	wari1268	pav	1216	MOTHER	18_mother-B	
+935	wari-19_father-1	wari	19_father	t e	wari1268	pav	1217	FATHER	19_father-A	
+936	wari-1_i-1	wari	1_i	w a t a ʔ	wari1268	pav	1209	I	1_i-A	
+937	wari-20_animal-1	wari	20_animal	k a r a w a	wari1268	pav	619	ANIMAL	20_animal-B	
+938	wari-21_fish-1	wari	21_fish	h w a m	wari1268	pav	227	FISH	21_fish-A	
+939	wari-22_bird-1	wari	22_bird	m e	wari1268	pav	937	BIRD	22_bird-A	
+940	wari-23_peccary-1	wari	23_peccary	k a t a tʃ i k	wari1268	pav	2390	PECCARY	23_peccary-B	
+941	wari-24_deer-1	wari	24_deer	k o m e m	wari1268	pav	1936	DEER	24_deer-B	
+942	wari-25_louse-1	wari	25_louse	i w ʔ	wari1268	pav	1392	LOUSE	25_louse-A	
+943	wari-26_snake-1	wari	26_snake	e m ʔ	wari1268	pav	730	SNAKE	26_snake-B	
+944	wari-27_worm-1	wari	27_worm	m e t e ʔ	wari1268	pav	1219	WORM	27_worm-A	
+945	wari-28_forest-1	wari	28_forest	m i	wari1268	pav	420	FOREST	28_forest-A	
+946	wari-29_stick-1	wari	29_stick	p a n a	wari1268	pav	1295	STICK	29_stick-A	
+947	wari-2_yousg-1	wari	2_yousg	w u m	wari1268	pav	1215	THOU	2_yousg-A	
+948	wari-30_fruit-1	wari	30_fruit	m e m e m	wari1268	pav	1507	FRUIT	30_fruit-B	
+949	wari-31_leaf-1	wari	31_leaf	t a j i	wari1268	pav	628	LEAF	31_leaf-A	
+950	wari-32_root-1	wari	32_root	k a tʃ i m a	wari1268	pav	670	ROOT	32_root-A	
+951	wari-33_flower-1	wari	33_flower	p i w a ɲ	wari1268	pav	239	FLOWER	33_flower-A	
+952	wari-34_grass-1	wari	34_grass	t o n o n o ɲ	wari1268	pav	606	GRASS	34_grass-A	
+953	wari-35_rope-1	wari	35_rope	m a k o n	wari1268	pav	1218	ROPE	35_rope-A	
+954	wari-36_skin-1	wari	36_skin	t a p a r i tʃ i ʔ	wari1268	pav	763	SKIN	36_skin-A	
+955	wari-37_meat-1	wari	37_meat	k w e r e tʃ i ʔ	wari1268	pav	634	MEAT	37_meat-A	
+956	wari-38_blood-1	wari	38_blood	k i tʃ i ʔ	wari1268	pav	946	BLOOD	38_blood-A	
+957	wari-39_bone-1	wari	39_bone	a r a tʃ i ʔ	wari1268	pav	1394	BONE	39_bone-A	
+958	wari-3_he-1	wari	3_he	w i r i k o	wari1268	pav	1211	HE	3_he-A	
+959	wari-40_fat-1	wari	40_fat	h o m a ɲ	wari1268	pav	323	FAT (ORGANIC SUBSTANCE)	40_fat-A	
+960	wari-41_egg-1	wari	41_egg	a r a j e ɲ	wari1268	pav	744	EGG	41_egg-A	
+961	wari-42_horn-1	wari	42_horn	p i tʃ i n a ɲ	wari1268	pav	939	HORN (INSTRUMENT)	42_horn-A	
+962	wari-43_tail-1	wari	43_tail	k a h w e r e ɲ	wari1268	pav	1220	TAIL	43_tail-A	
+963	wari-44_hair-1	wari	44_hair	t e n e n e tʃ i ʔ	wari1268	pav	1040	HAIR	44_hair-A	
+964	wari-45_head-1	wari	45_head	w i n a tʃ i ʔ	wari1268	pav	1256	HEAD	45_head-B	
+965	wari-46_ear-1	wari	46_ear	t a r a j i tʃ i ʔ	wari1268	pav	1247	EAR	46_ear-A	
+966	wari-47_eye-1	wari	47_eye	t o k o tʃ i ʔ	wari1268	pav	1248	EYE	47_eye-A	
+967	wari-48_nose-1	wari	48_nose	w e r e tʃ i ʔ	wari1268	pav	1221	NOSE	48_nose-A	
+968	wari-49_mouth-1	wari	49_mouth	t o p a k	wari1268	pav	674	MOUTH	49_mouth-A	
+969	wari-4_we-1	wari	4_we	w a r i ʔ	wari1268	pav	1212	WE	4_we-A	
+970	wari-50_tooth-1	wari	50_tooth	tʃ i tʃ i ʔ	wari1268	pav	1380	TOOTH	50_tooth-A	
+971	wari-51_tongue-1	wari	51_tongue	p e t e h w e t	wari1268	pav	1205	TONGUE	51_tongue-A	
+972	wari-51_tongue-2	wari	51_tongue	k a p i j a tʃ i ʔ	wari1268	pav	1205	TONGUE	51_tongue-B	
+973	wari-52_fingernail-1	wari	52_fingernail	tʃ i k i n a tʃ i ʔ	wari1268	pav	1258	FINGERNAIL	52_fingernail-A	
+974	wari-53_foot-1	wari	53_foot	k a tʃ i m a tʃ i ʔ	wari1268	pav	1301	FOOT	53_foot-A	
+975	wari-53_foot-2	wari	53_foot	p i tʃ i j a tʃ i ʔ	wari1268	pav	1301	FOOT	53_foot-B	
+976	wari-54_leg-1	wari	54_leg	k o k o tʃ i ʔ	wari1268	pav	1297	LEG	54_leg-A	
+977	wari-55_knee-1	wari	55_knee	k a r a m a tʃ i ʔ	wari1268	pav	1371	KNEE	55_knee-A	
+978	wari-56_hand-1	wari	56_hand	m i tʃ i ʔ	wari1268	pav	1277	HAND	56_hand-A	
+979	wari-56_hand-2	wari	56_hand	t a p a r a tʃ i ʔ	wari1268	pav	1277	HAND	56_hand-B	
+980	wari-57_wing-1	wari	57_wing	t a p a tʃ i	wari1268	pav	1257	WING	57_wing-A	
+981	wari-58_belly-1	wari	58_belly	p e m e n e tʃ i ʔ	wari1268	pav	1251	BELLY	58_belly-D	
+982	wari-59_guts-1	wari	59_guts	m o n o tʃ i ʔ	wari1268	pav	1334	GUTS	59_guts-A	
+983	wari-5_youpl-1	wari	5_youpl	w a h u ʔ	wari1268	pav	1213	YOU	5_youpl-A	
+984	wari-60_neck-1	wari	60_neck	p a r a m a tʃ i ʔ	wari1268	pav	1333	NECK	60_neck-A	
+985	wari-60_neck-2	wari	60_neck	k a n e m i tʃ i ʔ	wari1268	pav	1333	NECK	60_neck-B	
+986	wari-61_back-1	wari	61_back	w a r a tʃ i ʔ	wari1268	pav	1291	BACK	61_back-A	
+987	wari-62_breast-1	wari	62_breast	k a r a tʃ i tʃ i ʔ	wari1268	pav	1402	BREAST	62_breast-A	
+988	wari-62_breast-2	wari	62_breast	k i m a tʃ i ʔ	wari1268	pav	1402	BREAST	62_breast-B	
+989	wari-63_heart-1	wari	63_heart	tʃ i m i tʃ i ʔ	wari1268	pav	1223	HEART	63_heart-A	
+990	wari-64_liver-1	wari	64_liver	t a r a w a n a tʃ i ʔ	wari1268	pav	1224	LIVER	64_liver-A	
+991	wari-65_drink-1	wari	65_drink	t o k	wari1268	pav	1401	DRINK	65_drink-A	
+992	wari-66_eat-1	wari	66_eat	k a w	wari1268	pav	1336	EAT	66_eat-A	
+993	wari-67_bite-1	wari	67_bite	k i w	wari1268	pav	1403	BITE	67_bite-A	
+994	wari-68_suck-1	wari	68_suck	tʃ a k	wari1268	pav	1421	SUCK	68_suck-A	
+995	wari-69_vomit-1	wari	69_vomit	w e ʔ	wari1268	pav	1278	VOMIT	69_vomit-A	
+996	wari-6_they-1	wari	6_they	w i r i k o k o	wari1268	pav	817	THEY	6_they-A	
+997	wari-70_breathe-1	wari	70_breathe	w e r e m e	wari1268	pav	1407	BREATHE	70_breathe-A	
+998	wari-71_laugh-1	wari	71_laugh	t a t a m ʔ	wari1268	pav	1355	LAUGH	71_laugh-A	
+999	wari-72_see-1	wari	72_see	k e r e k	wari1268	pav	1409	SEE	72_see-A	
+1000	wari-74_fear-1	wari	74_fear	j i n ʔ	wari1268	pav	1419	FEAR (BE AFRAID)	74_fear-A	
+1001	wari-75_sleep-1	wari	75_sleep	p i ʔ + a m	wari1268	pav	1585	SLEEP	75_sleep-A	
+1002	wari-76_die-1	wari	76_die	m i ʔ	wari1268	pav	1494	DIE	76_die-A	
+1003	wari-77_kill-1	wari	77_kill	p a ʔ	wari1268	pav	1417	KILL	77_kill-A	
+1004	wari-78_fight-1	wari	78_fight	m a n a ʔ	wari1268	pav	1423	FIGHT	78_fight-A	
+1005	wari-78_fight-2	wari	78_fight	m i tʃ i t a ʔ	wari1268	pav	1423	FIGHT	78_fight-B	
+1006	wari-79_shoot-1	wari	79_shoot	h y r y	wari1268	pav	1172	SHOOT	79_shoot-A	
+1007	wari-7_whowhat-1	wari	7_whowhat	k a ɲ	wari1268	pav	2147	WHO OR WHAT	7_whowhat-B	
+1008	wari-80_hit-1	wari	80_hit	t o ʔ	wari1268	pav	1433	HIT	80_hit-A	
+1009	wari-81_cut-1	wari	81_cut	t a	wari1268	pav	1432	CUT	81_cut-A	
+1010	wari-81_cut-2	wari	81_cut	w a k	wari1268	pav	1432	CUT	81_cut-B	
+1011	wari-81_cut-3	wari	81_cut	p i t	wari1268	pav	1432	CUT	81_cut-C	
+1012	wari-82_dig-1	wari	82_dig	t i k i ʔ	wari1268	pav	1418	DIG	82_dig-A	
+1013	wari-83_swim-1	wari	83_swim	p a n + k a m	wari1268	pav	1439	SWIM	83_swim-B	
+1014	wari-84_fly-1	wari	84_fly	t a k i ʔ	wari1268	pav	1441	FLY (MOVE THROUGH AIR)	84_fly-A	
+1015	wari-85_walk-1	wari	85_walk	tʃ y t	wari1268	pav	1443	WALK	85_walk-A	
+1016	wari-86_come-1	wari	86_come	m a k i ʔ	wari1268	pav	1446	COME	86_come-A	
+1017	wari-87_lie-1	wari	87_lie	t e r e m ʔ	wari1268	pav	1411	LIE (REST)	87_lie-A	
+1018	wari-87_lie-2	wari	87_lie	t o k o ʔ	wari1268	pav	1411	LIE (REST)	87_lie-B	
+1019	wari-87_lie-3	wari	87_lie	t a k	wari1268	pav	1411	LIE (REST)	87_lie-C	
+1020	wari-88_sit-1	wari	88_sit	p e ʔ	wari1268	pav	1416	SIT	88_sit-A	
+1021	wari-89_stand-1	wari	89_stand	t e k i ʔ + p e	wari1268	pav	1442	STAND	89_stand-A	
+1022	wari-89_stand-2	wari	89_stand	tʃ a t	wari1268	pav	1442	STAND	89_stand-C	
+1023	wari-8_many-1	wari	8_many	m i j a	wari1268	pav	1198	MANY	8_many-A	
+1024	wari-90_fall-1	wari	90_fall	p a n ʔ	wari1268	pav	1280	FALL	90_fall-A	
+1025	wari-90_fall-2	wari	90_fall	k a m a r a ʔ	wari1268	pav	1280	FALL	90_fall-B	
+1026	wari-91_give-1	wari	91_give	m i ʔ	wari1268	pav	1447	GIVE	91_give-A	
+1027	wari-92_wash-1	wari	92_wash	h o h o k	wari1268	pav	1453	WASH	92_wash-B	
+1028	wari-93_pull-1	wari	93_pull	k ø k	wari1268	pav	1455	PULL	93_pull-A	
+1029	wari-94_push-1	wari	94_push	j ø k	wari1268	pav	1452	PUSH	94_push-A	
+1030	wari-95_throw-1	wari	95_throw	tʃ i n	wari1268	pav	1456	THROW	95_throw-A	
+1031	wari-96_tie-1	wari	96_tie	p a w ʔ	wari1268	pav	1917	TIE	96_tie-A	
+1032	wari-97_say-1	wari	97_say	t o m i ʔ	wari1268	pav	1458	SAY	97_say-A	
+1033	wari-98_sing-1	wari	98_sing	k o m	wari1268	pav	1261	SING	98_sing-A	
+1034	wari-99_sun-1	wari	99_sun	tʃ i n a	wari1268	pav	1343	SUN	99_sun-B	
+1035	wari-9_few-1	wari	9_few	p a r i k	wari1268	pav	1242	FEW	9_few-A	
+1036	wari-9_few-2	wari	9_few	t o k w a n	wari1268	pav	1242	FEW	9_few-C	

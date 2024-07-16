@@ -1,0 +1,791 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+461	16612	hubercolumbian-Awa	awac1239		at	1461	AT		ta	t a
+468	16619	hubercolumbian-Chapalaachi	chac1249		at	1461	AT		ʃa	ʃ a
+484	16635	hubercolumbian-Guambiano	guam1248		at	1461	AT		ju	j u
+517	16668	hubercolumbian-TsafiquiPila	colo1256		at	1461	AT		te	t e
+518	16669	hubercolumbian-TsafiquiPila	colo1256		at	1461	AT		le	l e
+519	16670	hubercolumbian-TsafiquiPila	colo1256		at	1461	AT		ka	k a
+3790	19941	hubercolumbian-Awa	awac1239		back	1291	BACK		puns	p u n s
+3798	19949	hubercolumbian-Chapalaachi	chac1249		back	1291	BACK		beenbuʃu	b eː n b u ʃ u
+3814	19965	hubercolumbian-Guambiano	guam1248		back	1291	BACK		lʲik	lʲ i k
+3841	19992	hubercolumbian-TsafiquiPila	colo1256		back	1291	BACK		betende	b e t e n d e
+4891	21042	hubercolumbian-Awa	awac1239		bad	1292	BAD		kwail	k w a i l
+4902	21053	hubercolumbian-Chapalaachi	chac1249		bad	1292	BAD		urahtu	u r a h t u
+4917	21068	hubercolumbian-Guambiano	guam1248		bad	1292	BAD		kaik	k a i k
+4945	21096	hubercolumbian-Totoro	toto1306		bad	1292	BAD		tɕi̵mpik	tɕ ɨ m p i k
+4946	21097	hubercolumbian-TsafiquiPila	colo1256		bad	1292	BAD		seiton	s e i t o n
+8742	24893	hubercolumbian-Awa	awac1239		bark	1204	BARK		ti̵ aja	t ɨ + a j a
+8743	24894	hubercolumbian-Awa	awac1239		bark	1204	BARK		tamaxatu	t a m a x a t u
+8750	24901	hubercolumbian-Chapalaachi	chac1249		bark	1204	BARK		kika	k i k a
+8763	24914	hubercolumbian-Guambiano	guam1248		bark	1204	BARK		kalus	k a l u s
+8792	24943	hubercolumbian-Totoro	toto1306		bark	1204	BARK		tɕikkali̵s	tɕ i k k a l ɨ s
+8793	24944	hubercolumbian-TsafiquiPila	colo1256		bark	1204	BARK		kido	k i d o
+12879	29030	hubercolumbian-Awa	awac1239		bealive	1422	BE ALIVE		kã	k ã
+12886	29037	hubercolumbian-Chapalaachi	chac1249		bealive	1422	BE ALIVE		su	s u
+12900	29051	hubercolumbian-Guambiano	guam1248		bealive	1422	BE ALIVE		i̵sik	ɨ s i k
+12928	29079	hubercolumbian-Totoro	toto1306		bealive	1422	BE ALIVE		isik paɕan	i s i k + p a ɕ a n
+12929	29080	hubercolumbian-TsafiquiPila	colo1256		bealive	1422	BE ALIVE		son	s o n
+22697	38848	hubercolumbian-Awa	awac1239		belly	1251	BELLY		pi̵xa	p ɨ x a
+22698	38849	hubercolumbian-Awa	awac1239		belly	1251	BELLY		pi̵xa	p ɨ x a
+22717	38868	hubercolumbian-Chapalaachi	chac1249		belly	1251	BELLY		ahka	a h k a
+22718	38869	hubercolumbian-Chapalaachi	chac1249		belly	1251	BELLY		ahka	a h k a
+22748	38899	hubercolumbian-Guambiano	guam1248		belly	1251	BELLY		patsi̵	p a ts ɨ
+22749	38900	hubercolumbian-Guambiano	guam1248		belly	1251	BELLY		patsi̵	p a ts ɨ
+22800	38951	hubercolumbian-Totoro	toto1306		belly	1251	BELLY		kiti̵	k i t ɨ
+22801	38952	hubercolumbian-Totoro	toto1306		belly	1251	BELLY		kiti̵	k i t ɨ
+22802	38953	hubercolumbian-TsafiquiPila	colo1256		belly	1251	BELLY		pekolo	p e k o l o
+22803	38954	hubercolumbian-TsafiquiPila	colo1256		belly	1251	BELLY		pekolo	p e k o l o
+27803	43954	hubercolumbian-Awa	awac1239		big	1202	BIG		katsa	k a ts a
+27813	43964	hubercolumbian-Chapalaachi	chac1249		big	1202	BIG		aahua	aː h u a
+27829	43980	hubercolumbian-Guambiano	guam1248		big	1202	BIG		nu	n u
+27862	44013	hubercolumbian-Totoro	toto1306		big	1202	BIG		nuik	n u i k
+27863	44014	hubercolumbian-TsafiquiPila	colo1256		big	1202	BIG		wa	w a
+27864	44015	hubercolumbian-TsafiquiPila	colo1256		big	1202	BIG		ajankan	a j a n k a n
+30200	46351	hubercolumbian-Awa	awac1239		bird	937	BIRD		ʧiʧu	tʃ i tʃ u
+30209	46360	hubercolumbian-Chapalaachi	chac1249		bird	937	BIRD		piʃku	p i ʃ k u
+30223	46374	hubercolumbian-Guambiano	guam1248		bird	937	BIRD		ilʲĩ	i lʲ ĩ
+30254	46405	hubercolumbian-Totoro	toto1306		bird	937	BIRD		ilʲi	i lʲ i
+30255	46406	hubercolumbian-TsafiquiPila	colo1256		bird	937	BIRD		pitsu	p i ts u
+32557	48708	hubercolumbian-Awa	awac1239		bite	1403	BITE		sula kwan	s u l a + k w a n
+32567	48718	hubercolumbian-Chapalaachi	chac1249		bite	1403	BITE		finu	f i n u
+32581	48732	hubercolumbian-Guambiano	guam1248		bite	1403	BITE		tsaʧip	ts a tʃ i p
+32607	48758	hubercolumbian-Totoro	toto1306		bite	1403	BITE		kikip	k i k i p
+32608	48759	hubercolumbian-TsafiquiPila	colo1256		bite	1403	BITE		hali	h a l i
+35158	51309	hubercolumbian-Awa	awac1239		black	163	BLACK		ti̵lʧakta	t ɨ l tʃ a k t a
+35159	51310	hubercolumbian-Awa	awac1239		black	163	BLACK		ti̵lkaja	t ɨ l k a j a
+35169	51320	hubercolumbian-Chapalaachi	chac1249		black	163	BLACK		pababa	p a b a b a
+35184	51335	hubercolumbian-Guambiano	guam1248		black	163	BLACK		jali̵	j a l ɨ
+35213	51364	hubercolumbian-Totoro	toto1306		black	163	BLACK		jali̵tik	j a l ɨ t i k
+35214	51365	hubercolumbian-TsafiquiPila	colo1256		black	163	BLACK		paban	p a b a n
+38574	54725	hubercolumbian-Awa	awac1239		blood	946	BLOOD		aimpi	a i m p i
+38582	54733	hubercolumbian-Chapalaachi	chac1249		blood	946	BLOOD		asa	a s a
+38597	54748	hubercolumbian-Guambiano	guam1248		blood	946	BLOOD		anĩ	a n ĩ
+38625	54776	hubercolumbian-Totoro	toto1306		blood	946	BLOOD		ani	a n i
+38626	54777	hubercolumbian-TsafiquiPila	colo1256		blood	946	BLOOD		asan	a s a n
+40764	56915	hubercolumbian-Awa	awac1239		blowofwind	175	BLOW (OF WIND)		usna	u s n a
+40783	56934	hubercolumbian-Chapalaachi	chac1249		blowofwind	175	BLOW (OF WIND)		huipunu	h u i p u n u
+40801	56952	hubercolumbian-Guambiano	guam1248		blowofwind	175	BLOW (OF WIND)		utɕip	u tɕ i p
+40843	56994	hubercolumbian-Totoro	toto1306		blowofwind	175	BLOW (OF WIND)		otɕi̵p	o tɕ ɨ p
+40844	56995	hubercolumbian-TsafiquiPila	colo1256		blowofwind	175	BLOW (OF WIND)		furipo	f u r i p o
+43009	59160	hubercolumbian-Awa	awac1239		blunt	379	BLUNT		pianʧi	p i a n tʃ i
+43018	59169	hubercolumbian-Chapalaachi	chac1249		blunt	379	BLUNT		dahtu	d a h t u
+43056	59207	hubercolumbian-Totoro	toto1306		blunt	379	BLUNT		katsik ki̵mi̵n	k a ts i k + k ɨ m ɨ n
+43057	59208	hubercolumbian-TsafiquiPila	colo1256		blunt	379	BLUNT		teja iton	t e j a + i t o n
+46803	62954	hubercolumbian-Awa	awac1239		bone	1394	BONE		ʧi̵h	tʃ ɨ h
+46811	62962	hubercolumbian-Chapalaachi	chac1249		bone	1394	BONE		taku	t a k u
+46827	62978	hubercolumbian-Guambiano	guam1248		bone	1394	BONE		tsutsik	ts u ts i k
+46855	63006	hubercolumbian-Totoro	toto1306		bone	1394	BONE		tsutsik	ts u ts i k
+46856	63007	hubercolumbian-TsafiquiPila	colo1256		bone	1394	BONE		tside	ts i d e
+83576	99729	hubercolumbian-Awa	awac1239		childyounghuman	1304	CHILD (YOUNG HUMAN)		paʃpa	p a ʃ p a
+83583	99736	hubercolumbian-Chapalaachi	chac1249		childyounghuman	1304	CHILD (YOUNG HUMAN)		kaana	k aː n a
+83602	99755	hubercolumbian-Guambiano	guam1248		childyounghuman	1304	CHILD (YOUNG HUMAN)		uni̵	u n ɨ
+83637	99790	hubercolumbian-Totoro	toto1306		childyounghuman	1304	CHILD (YOUNG HUMAN)		uni̵	u n ɨ
+83638	99791	hubercolumbian-TsafiquiPila	colo1256		childyounghuman	1304	CHILD (YOUNG HUMAN)		na	n a
+91513	107666	hubercolumbian-Awa	awac1239		cloud	1489	CLOUD		waniʃ	w a n i ʃ
+91533	107686	hubercolumbian-Guambiano	guam1248		cloud	1489	CLOUD		waɲĩ	w a ɲ ĩ
+91560	107713	hubercolumbian-Totoro	toto1306		cloud	1489	CLOUD		waɲiisik	w a ɲ iː s i k
+91561	107714	hubercolumbian-TsafiquiPila	colo1256		cloud	1489	CLOUD		pojo	p o j o
+98743	114896	hubercolumbian-Awa	awac1239		come	1446	COME		an	a n
+98751	114904	hubercolumbian-Chapalaachi	chac1249		come	1446	COME		hanu	h a n u
+98769	114922	hubercolumbian-Guambiano	guam1248		come	1446	COME		atɕup	a tɕ u p
+98797	114950	hubercolumbian-Totoro	toto1306		come	1446	COME		atɕi̵p	a tɕ ɨ p
+98798	114951	hubercolumbian-TsafiquiPila	colo1256		come	1446	COME		ha	h a
+104825	120978	hubercolumbian-Awa	awac1239		correctright	1725	CORRECT (RIGHT)		nil	n i l
+104834	120987	hubercolumbian-Chapalaachi	chac1249		correctright	1725	CORRECT (RIGHT)		ura	u r a
+104847	121000	hubercolumbian-Guambiano	guam1248		correctright	1725	CORRECT (RIGHT)		i̵lkanti̵	ɨ l k a n t ɨ
+104872	121025	hubercolumbian-Totoro	toto1306		correctright	1725	CORRECT (RIGHT)		maitik ki̵n	m a i t i k + k ɨ n
+104873	121026	hubercolumbian-TsafiquiPila	colo1256		correctright	1725	CORRECT (RIGHT)		tsa	ts a
+115043	131196	hubercolumbian-Awa	awac1239		cut	1432	CUT		ti̵tna	t ɨ t n a
+115056	131209	hubercolumbian-Chapalaachi	chac1249		cut	1432	CUT		daanu	d aː n u
+115076	131229	hubercolumbian-Guambiano	guam1248		cut	1432	CUT		pari̵p	p a r ɨ p
+115120	131273	hubercolumbian-Totoro	toto1306		cut	1432	CUT		ɕi̵tɕik	ɕ ɨ tɕ i k
+115121	131274	hubercolumbian-TsafiquiPila	colo1256		cut	1432	CUT		pore	p o r e
+121690	137845	hubercolumbian-Awa	awac1239		daynotnight	1225	DAY (NOT NIGHT)		ma paju	m a + p a j u
+121699	137854	hubercolumbian-Chapalaachi	chac1249		daynotnight	1225	DAY (NOT NIGHT)		malu	m a l u
+121712	137867	hubercolumbian-Guambiano	guam1248		daynotnight	1225	DAY (NOT NIGHT)		kwali̵m	k w a l ɨ m
+121742	137897	hubercolumbian-Totoro	toto1306		daynotnight	1225	DAY (NOT NIGHT)		kwali̵m	k w a l ɨ m
+121743	137898	hubercolumbian-TsafiquiPila	colo1256		daynotnight	1225	DAY (NOT NIGHT)		ma	m a
+126949	143104	hubercolumbian-Awa	awac1239		die	1494	DIE		inna	i n n a
+126962	143117	hubercolumbian-Chapalaachi	chac1249		die	1494	DIE		penu	p e n u
+126977	143132	hubercolumbian-Guambiano	guam1248		die	1494	DIE		kwap	k w a p
+127009	143164	hubercolumbian-Totoro	toto1306		die	1494	DIE		kwap	k w a p
+127010	143165	hubercolumbian-TsafiquiPila	colo1256		die	1494	DIE		pija	p i j a
+129609	145764	hubercolumbian-Awa	awac1239		dig	1418	DIG		pil utna	p i l + u t n a
+129610	145765	hubercolumbian-Awa	awac1239		dig	1418	DIG		pil ki̵htna	p i l + k ɨ h t n a
+129620	145775	hubercolumbian-Chapalaachi	chac1249		dig	1418	DIG		viʃnu	v i ʃ n u
+129634	145789	hubercolumbian-Guambiano	guam1248		dig	1418	DIG		kwalʲip	k w a lʲ i p
+129663	145818	hubercolumbian-Totoro	toto1306		dig	1418	DIG		piri̵ weʃi̵p	p i r ɨ + w e ʃ ɨ p
+129664	145819	hubercolumbian-TsafiquiPila	colo1256		dig	1418	DIG		totowa	t o t o w a
+131609	147764	hubercolumbian-Awa	awac1239		dirty	1230	DIRTY		pil	p i l
+131619	147774	hubercolumbian-Chapalaachi	chac1249		dirty	1230	DIRTY		kuʧinuu	k u tʃ i n uː
+131633	147788	hubercolumbian-Guambiano	guam1248		dirty	1230	DIRTY		ʧilʲik	tʃ i lʲ i k
+131670	147825	hubercolumbian-Totoro	toto1306		dirty	1230	DIRTY		ʧilliktik	tʃ i l l i k t i k
+131671	147826	hubercolumbian-TsafiquiPila	colo1256		dirty	1230	DIRTY		to midika	t o + m i d i k a
+135517	151672	hubercolumbian-Awa	awac1239		dog	2009	DOG		kwiʧa	k w i tʃ a
+135526	151681	hubercolumbian-Chapalaachi	chac1249		dog	2009	DOG		kuʧa	k u tʃ a
+135540	151695	hubercolumbian-Guambiano	guam1248		dog	2009	DOG		wera	w e r a
+135567	151722	hubercolumbian-Totoro	toto1306		dog	2009	DOG		wera	w e r a
+135568	151723	hubercolumbian-TsafiquiPila	colo1256		dog	2009	DOG		susu	s u s u
+141982	158137	hubercolumbian-Awa	awac1239		drink	1401	DRINK		kwan	k w a n
+141992	158147	hubercolumbian-Chapalaachi	chac1249		drink	1401	DRINK		kuʃnu	k u ʃ n u
+142006	158161	hubercolumbian-Guambiano	guam1248		drink	1401	DRINK		muʧip	m u tʃ i p
+142035	158190	hubercolumbian-Totoro	toto1306		drink	1401	DRINK		mutsi̵p	m u ts ɨ p
+142036	158191	hubercolumbian-TsafiquiPila	colo1256		drink	1401	DRINK		kutsi	k u ts i
+145626	161781	hubercolumbian-Awa	awac1239		dry	1398	DRY		pul	p u l
+145635	161790	hubercolumbian-Chapalaachi	chac1249		dry	1398	DRY		ehke	e h k e
+145649	161804	hubercolumbian-Guambiano	guam1248		dry	1398	DRY		pur	p u r
+145681	161836	hubercolumbian-Totoro	toto1306		dry	1398	DRY		mul	m u l
+145682	161837	hubercolumbian-TsafiquiPila	colo1256		dry	1398	DRY		fun	f u n
+148611	164766	hubercolumbian-Awa	awac1239		dust	2	DUST		pulpu	p u l p u
+148622	164777	hubercolumbian-Chapalaachi	chac1249		dust	2	DUST		pulvu	p u l v u
+148638	164793	hubercolumbian-Guambiano	guam1248		dust	2	DUST		uɕi̵	u ɕ ɨ
+148667	164822	hubercolumbian-TsafiquiPila	colo1256		dust	2	DUST		pojo	p o j o
+151057	167212	hubercolumbian-Awa	awac1239		ear	1247	EAR		kail	k a i l
+151065	167220	hubercolumbian-Chapalaachi	chac1249		ear	1247	EAR		puŋgui	p u ŋ g u i
+151079	167234	hubercolumbian-Guambiano	guam1248		ear	1247	EAR		kalu	k a l u
+151107	167262	hubercolumbian-Totoro	toto1306		ear	1247	EAR		kalo	k a l o
+151108	167263	hubercolumbian-TsafiquiPila	colo1256		ear	1247	EAR		punki	p u n k i
+153960	170115	hubercolumbian-Awa	awac1239		earthsoil	1228	EARTH (SOIL)		pil	p i l
+153969	170124	hubercolumbian-Chapalaachi	chac1249		earthsoil	1228	EARTH (SOIL)		tu	t u
+153987	170142	hubercolumbian-Guambiano	guam1248		earthsoil	1228	EARTH (SOIL)		piri̵	p i r ɨ
+154024	170179	hubercolumbian-Totoro	toto1306		earthsoil	1228	EARTH (SOIL)		piri̵	p i r ɨ
+154025	170180	hubercolumbian-TsafiquiPila	colo1256		earthsoil	1228	EARTH (SOIL)		to	t o
+156556	172711	hubercolumbian-Awa	awac1239		eat	1336	EAT		kwan	k w a n
+156566	172721	hubercolumbian-Chapalaachi	chac1249		eat	1336	EAT		finu	f i n u
+156588	172743	hubercolumbian-Guambiano	guam1248		eat	1336	EAT		map	m a p
+156624	172779	hubercolumbian-Totoro	toto1306		eat	1336	EAT		map	m a p
+156625	172780	hubercolumbian-TsafiquiPila	colo1256		eat	1336	EAT		fi	f i
+158894	175052	hubercolumbian-Awa	awac1239		egg	744	EGG		wipu	w i p u
+158903	175061	hubercolumbian-Chapalaachi	chac1249		egg	744	EGG		napipu	n a p i p u
+158919	175077	hubercolumbian-Guambiano	guam1248		egg	744	EGG		ɕuk	ɕ u k
+158945	175103	hubercolumbian-Totoro	toto1306		egg	744	EGG		ɕuk	ɕ u k
+158946	175104	hubercolumbian-TsafiquiPila	colo1256		egg	744	EGG		pipoka	p i p o k a
+169461	185619	hubercolumbian-Awa	awac1239		eye	1248	EYE		kasu	k a s u
+169471	185629	hubercolumbian-Chapalaachi	chac1249		eye	1248	EYE		kapuka	k a p u k a
+169485	185643	hubercolumbian-Guambiano	guam1248		eye	1248	EYE		kap	k a p
+169512	185670	hubercolumbian-Totoro	toto1306		eye	1248	EYE		kaptɕul	k a p tɕ u l
+169513	185671	hubercolumbian-TsafiquiPila	colo1256		eye	1248	EYE		kaka	k a k a
+173453	189612	hubercolumbian-Awa	awac1239		fall	1280	FALL		taizna	t a i z n a
+173454	189613	hubercolumbian-Awa	awac1239		fall	1280	FALL		nainna	n a i n n a
+173462	189621	hubercolumbian-Chapalaachi	chac1249		fall	1280	FALL		tsuhinu	ts u h i n u
+173484	189643	hubercolumbian-Guambiano	guam1248		fall	1280	FALL		peɲip	p e ɲ i p
+173514	189673	hubercolumbian-Totoro	toto1306		fall	1280	FALL		peɲip	p e ɲ i p
+173515	189674	hubercolumbian-Totoro	toto1306		fall	1280	FALL		ki̵tɕi̵mari̵p	k ɨ tɕ ɨ m a r ɨ p
+173516	189675	hubercolumbian-TsafiquiPila	colo1256		fall	1280	FALL		keerei	k eː r e i
+175736	191895	hubercolumbian-Awa	awac1239		far	1406	FAR		attiʃ	a t t i ʃ
+175744	191903	hubercolumbian-Chapalaachi	chac1249		far	1406	FAR		baaʃa	b aː ʃ a
+175759	191918	hubercolumbian-Guambiano	guam1248		far	1406	FAR		japɕĩ̵	j a p ɕ ɨ̃
+175784	191943	hubercolumbian-Totoro	toto1306		far	1406	FAR		jaɸɕi̵	j a ɸ ɕ ɨ
+175785	191944	hubercolumbian-TsafiquiPila	colo1256		far	1406	FAR		nuwiri	n u w i r i
+175786	191945	hubercolumbian-TsafiquiPila	colo1256		far	1406	FAR		bare	b a r e
+179607	195766	hubercolumbian-Awa	awac1239		father	1217	FATHER		taitta	t a i t t a
+179618	195777	hubercolumbian-Chapalaachi	chac1249		father	1217	FATHER		jaʔ apa	j a ʔ + a p a
+179634	195793	hubercolumbian-Guambiano	guam1248		father	1217	FATHER		mi̵skaĩ	m ɨ s k a ĩ
+179677	195836	hubercolumbian-Totoro	toto1306		father	1217	FATHER		tatabe	t a t a b e
+179678	195837	hubercolumbian-TsafiquiPila	colo1256		father	1217	FATHER		apa	a p a
+183710	199870	hubercolumbian-Awa	awac1239		fearbeafraid	1419	FEAR (BE AFRAID)		iskwan	i s k w a n
+183724	199884	hubercolumbian-Chapalaachi	chac1249		fearbeafraid	1419	FEAR (BE AFRAID)		heetʲanu	h eː tʲ a n u
+183741	199901	hubercolumbian-Guambiano	guam1248		fearbeafraid	1419	FEAR (BE AFRAID)		ki̵rikki̵p	k ɨ r i k k ɨ p
+183772	199932	hubercolumbian-Totoro	toto1306		fearbeafraid	1419	FEAR (BE AFRAID)		ki̵riki̵p	k ɨ r i k ɨ p
+183773	199933	hubercolumbian-TsafiquiPila	colo1256		fearbeafraid	1419	FEAR (BE AFRAID)		helei	h e l e i
+184799	200959	hubercolumbian-Awa	awac1239		feather	1201	FEATHER		katsa pala	k a ts a + p a l a
+184807	200967	hubercolumbian-Chapalaachi	chac1249		feather	1201	FEATHER		panda	p a n d a
+184820	200980	hubercolumbian-Guambiano	guam1248		feather	1201	FEATHER		palanta	p a l a n t a
+184848	201008	hubercolumbian-Totoro	toto1306		feather	1201	FEATHER		palanta	p a l a n t a
+184849	201009	hubercolumbian-TsafiquiPila	colo1256		feather	1201	FEATHER		ano	a n o
+187126	219779	hubercolumbian-Awa	awac1239		fleshormeat	2615	FLESH OR MEAT		ɲa	ɲ a
+187136	219789	hubercolumbian-Chapalaachi	chac1249		fleshormeat	2615	FLESH OR MEAT		alʲa	a lʲ a
+187151	219804	hubercolumbian-Guambiano	guam1248		fleshormeat	2615	FLESH OR MEAT		jaũ	j a ũ
+187182	219835	hubercolumbian-Totoro	toto1306		fleshormeat	2615	FLESH OR MEAT		jawi̵i	j a w ɨ i
+187183	219836	hubercolumbian-TsafiquiPila	colo1256		fleshormeat	2615	FLESH OR MEAT		tsatsika	ts a ts i k a
+188753	221406	hubercolumbian-Awa	awac1239		flow	2003	FLOW		i̵n	ɨ n
+188757	221410	hubercolumbian-Chapalaachi	chac1249		flow	2003	FLOW		lʲunu	lʲ u n u
+188766	221419	hubercolumbian-Guambiano	guam1248		flow	2003	FLOW		luli̵p	l u l ɨ p
+188789	221442	hubercolumbian-TsafiquiPila	colo1256		flow	2003	FLOW		hi	h i
+189823	222476	hubercolumbian-Awa	awac1239		flower	239	FLOWER		wiʃ	w i ʃ
+189831	222484	hubercolumbian-Chapalaachi	chac1249		flower	239	FLOWER		lʲulʲu	lʲ u lʲ u
+189843	222496	hubercolumbian-Guambiano	guam1248		flower	239	FLOWER		u	u
+189873	222526	hubercolumbian-Totoro	toto1306		flower	239	FLOWER		o	o
+189874	222527	hubercolumbian-TsafiquiPila	colo1256		flower	239	FLOWER		lili	l i l i
+192757	225410	hubercolumbian-Awa	awac1239		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pi̵lna	p ɨ l n a
+192765	225418	hubercolumbian-Chapalaachi	chac1249		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		heʔnu	h e ʔ n u
+192778	225431	hubercolumbian-Guambiano	guam1248		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		palaip	p a l a i p
+192808	225461	hubercolumbian-Totoro	toto1306		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		isikpala jan	i s i k p a l a + j a n
+192809	225462	hubercolumbian-TsafiquiPila	colo1256		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		hahi	h a h i
+194406	227059	hubercolumbian-Awa	awac1239		fog	249	FOG		wantiʃ	w a n t i ʃ
+194407	227060	hubercolumbian-Awa	awac1239		fog	249	FOG		waniʃ	w a n i ʃ
+194412	227065	hubercolumbian-Chapalaachi	chac1249		fog	249	FOG		huaaɲivihʧa	h u aː ɲ i v i h tʃ a
+194423	227076	hubercolumbian-Guambiano	guam1248		fog	249	FOG		waɲĩ	w a ɲ ĩ
+194449	227102	hubercolumbian-Totoro	toto1306		fog	249	FOG		waɲi	w a ɲ i
+194450	227103	hubercolumbian-TsafiquiPila	colo1256		fog	249	FOG		pojo	p o j o
+196063	228716	hubercolumbian-Awa	awac1239		foot	1301	FOOT		mitti̵	m i t t ɨ
+196072	228725	hubercolumbian-Chapalaachi	chac1249		foot	1301	FOOT		neepa	n eː p a
+196086	228739	hubercolumbian-Guambiano	guam1248		foot	1301	FOOT		katsik	k a ts i k
+196114	228767	hubercolumbian-Totoro	toto1306		foot	1301	FOOT		katsik	k a ts i k
+196115	228768	hubercolumbian-TsafiquiPila	colo1256		foot	1301	FOOT		nede	n e d e
+202400	235053	hubercolumbian-Awa	awac1239		four	1500	FOUR		ampata	a m p a t a
+202408	235061	hubercolumbian-Chapalaachi	chac1249		four	1500	FOUR		taapalʲu	t aː p a lʲ u
+202421	235074	hubercolumbian-Guambiano	guam1248		four	1500	FOUR		pip	p i p
+202447	235100	hubercolumbian-Totoro	toto1306		four	1500	FOUR		pip	p i p
+202448	235101	hubercolumbian-TsafiquiPila	colo1256		four	1500	FOUR		hunpalu	h u n p a l u
+204458	237111	hubercolumbian-Awa	awac1239		freeze	1431	FREEZE		ti̵h kinnintu	t ɨ h + k i n n i n t u
+204460	237113	hubercolumbian-Chapalaachi	chac1249		freeze	1431	FREEZE		iʃlanu	i ʃ l a n u
+204472	237125	hubercolumbian-Totoro	toto1306		freeze	1431	FREEZE		piʃiratan	p i ʃ i r a t a n
+214484	247137	hubercolumbian-Awa	awac1239		give	1447	GIVE		mi̵lan	m ɨ l a n
+214485	247138	hubercolumbian-Awa	awac1239		give	1447	GIVE		kwinna	k w i n n a
+214495	247148	hubercolumbian-Chapalaachi	chac1249		give	1447	GIVE		kunu	k u n u
+214513	247166	hubercolumbian-Guambiano	guam1248		give	1447	GIVE		tɕani̵p	tɕ a n ɨ p
+214543	247196	hubercolumbian-Totoro	toto1306		give	1447	GIVE		tɕa¹ni̵p	tɕ a n ɨ p
+214544	247197	hubercolumbian-TsafiquiPila	colo1256		give	1447	GIVE		kuwa	k u w a
+220609	253265	hubercolumbian-Awa	awac1239		good	1035	GOOD		wat	w a t
+220622	253278	hubercolumbian-Chapalaachi	chac1249		good	1035	GOOD		ura	u r a
+220638	253294	hubercolumbian-Guambiano	guam1248		good	1035	GOOD		tapik	t a p i k
+220668	253324	hubercolumbian-Totoro	toto1306		good	1035	GOOD		maikik	m a i k i k
+220669	253325	hubercolumbian-TsafiquiPila	colo1256		good	1035	GOOD		sen	s e n
+226067	258723	hubercolumbian-Awa	awac1239		grass	606	GRASS		pi̵t	p ɨ t
+226076	258732	hubercolumbian-Chapalaachi	chac1249		grass	606	GRASS		tape	t a p e
+226090	258746	hubercolumbian-Guambiano	guam1248		grass	606	GRASS		pu	p u
+226120	258776	hubercolumbian-Totoro	toto1306		grass	606	GRASS		kao	k a o
+226121	258777	hubercolumbian-TsafiquiPila	colo1256		grass	606	GRASS		lapa	l a p a
+228418	261074	hubercolumbian-Awa	awac1239		green	1425	GREEN		al	a l
+228419	261075	hubercolumbian-Awa	awac1239		green	1425	GREEN		pixtam	p i x t a m
+228427	261083	hubercolumbian-Chapalaachi	chac1249		green	1425	GREEN		luʃkatata	l u ʃ k a t a t a
+228445	261101	hubercolumbian-Guambiano	guam1248		green	1425	GREEN		pilʲi	p i lʲ i
+228473	261129	hubercolumbian-Totoro	toto1306		green	1425	GREEN		pilʲitik	p i lʲ i t i k
+228474	261130	hubercolumbian-TsafiquiPila	colo1256		green	1425	GREEN		losinban	l o s i n b a n
+238260	270916	hubercolumbian-Awa	awac1239		hand	1277	HAND		ʧti̵	tʃ t ɨ
+238271	270927	hubercolumbian-Chapalaachi	chac1249		hand	1277	HAND		tʲaapa	tʲ aː p a
+238285	270941	hubercolumbian-Guambiano	guam1248		hand	1277	HAND		tasik	t a s i k
+238312	270968	hubercolumbian-Totoro	toto1306		hand	1277	HAND		kwal	k w a l
+238313	270969	hubercolumbian-TsafiquiPila	colo1256		hand	1277	HAND		tede	t e d e
+242646	275303	hubercolumbian-Awa	awac1239		he	1211	HE		us	u s
+242659	275316	hubercolumbian-Chapalaachi	chac1249		he	1211	HE		ja	j a
+242675	275332	hubercolumbian-Guambiano	guam1248		he	1211	HE		ni̵	n ɨ
+242714	275371	hubercolumbian-Totoro	toto1306		he	1211	HE		i̵ni̵	ɨ n ɨ
+242715	275372	hubercolumbian-TsafiquiPila	colo1256		he	1211	HE		ja	j a
+243815	276472	hubercolumbian-Awa	awac1239		head	1256	HEAD		ki̵zp u	k ɨ z p + u
+243824	276481	hubercolumbian-Chapalaachi	chac1249		head	1256	HEAD		miʃpuka	m i ʃ p u k a
+243837	276494	hubercolumbian-Guambiano	guam1248		head	1256	HEAD		tur	t u r
+243866	276523	hubercolumbian-Totoro	toto1306		head	1256	HEAD		poɕok	p o ɕ o k
+243867	276524	hubercolumbian-TsafiquiPila	colo1256		head	1256	HEAD		misu	m i s u
+246762	279419	hubercolumbian-Awa	awac1239		hear	1408	HEAR		mi̵na	m ɨ n a
+246774	279431	hubercolumbian-Chapalaachi	chac1249		hear	1408	HEAR		meenu	m eː n u
+246787	279444	hubercolumbian-Guambiano	guam1248		hear	1408	HEAR		mi̵ri̵p	m ɨ r ɨ p
+246815	279472	hubercolumbian-Totoro	toto1306		hear	1408	HEAR		mi̵ri̵p	m ɨ r ɨ p
+246816	279473	hubercolumbian-TsafiquiPila	colo1256		hear	1408	HEAR		mera	m e r a
+248348	281005	hubercolumbian-Awa	awac1239		heart	1223	HEART		kaixʧu	k a i x tʃ u
+248349	281006	hubercolumbian-Awa	awac1239		heart	1223	HEART		kaixsu	k a i x s u
+248358	281015	hubercolumbian-Chapalaachi	chac1249		heart	1223	HEART		tenbuka	t e n b u k a
+248369	281026	hubercolumbian-Guambiano	guam1248		heart	1223	HEART		mantɕi̵	m a n tɕ ɨ
+248399	281056	hubercolumbian-Totoro	toto1306		heart	1223	HEART		maɕ	m a ɕ
+248400	281057	hubercolumbian-TsafiquiPila	colo1256		heart	1223	HEART		tenka	t e n k a
+250522	283179	hubercolumbian-Awa	awac1239		heavy	1210	HEAVY		us	u s
+250529	283186	hubercolumbian-Chapalaachi	chac1249		heavy	1210	HEAVY		adʲu	a dʲ u
+250542	283199	hubercolumbian-Guambiano	guam1248		heavy	1210	HEAVY		kwatsik	k w a ts i k
+250568	283225	hubercolumbian-Totoro	toto1306		heavy	1210	HEAVY		ɕokapesatan	ɕ o k a p e s a t a n
+250569	283226	hubercolumbian-TsafiquiPila	colo1256		heavy	1210	HEAVY		hadon	h a d o n
+254341	286999	hubercolumbian-Awa	awac1239		here	136	HERE		aki	a k i
+254342	287000	hubercolumbian-Awa	awac1239		here	136	HERE		apa	a p a
+254351	287009	hubercolumbian-Chapalaachi	chac1249		here	136	HERE		enu	e n u
+254369	287027	hubercolumbian-Guambiano	guam1248		here	136	HERE		ju	j u
+254400	287059	hubercolumbian-Totoro	toto1306		here	136	HERE		ju	j u
+254401	287060	hubercolumbian-TsafiquiPila	colo1256		here	136	HERE		inte	i n t e
+260509	293169	hubercolumbian-Awa	awac1239		hold	1448	HOLD		pizna	p i z n a
+260510	293170	hubercolumbian-Awa	awac1239		hold	1448	HOLD		muna	m u n a
+260511	293171	hubercolumbian-Awa	awac1239		hold	1448	HOLD		tainti̵t i̵ntu	t a i n t ɨ t + ɨ n t u
+260519	293179	hubercolumbian-Chapalaachi	chac1249		hold	1448	HOLD		kaʔtadinu	k a ʔ t a d i n u
+260533	293193	hubercolumbian-Guambiano	guam1248		hold	1448	HOLD		metɕi̵p	m e tɕ ɨ p
+260558	293218	hubercolumbian-Totoro	toto1306		hold	1448	HOLD		metɕi̵p	m e tɕ ɨ p
+260559	293219	hubercolumbian-TsafiquiPila	colo1256		hold	1448	HOLD		ta	t a
+268731	301391	hubercolumbian-Awa	awac1239		how	1239	HOW		miʧa	m i tʃ a
+268738	301398	hubercolumbian-Chapalaachi	chac1249		how	1239	HOW		naa kitu	n aː + k i t u
+268753	301413	hubercolumbian-Guambiano	guam1248		how	1239	HOW		manti̵	m a n t ɨ
+268786	301446	hubercolumbian-Totoro	toto1306		how	1239	HOW		ʧini̵	tʃ i n ɨ
+268787	301447	hubercolumbian-TsafiquiPila	colo1256		how	1239	HOW		nija	n i j a
+273029	305689	hubercolumbian-Awa	awac1239		husband	1200	HUSBAND		ap ampu	a p + a m p u
+273037	305697	hubercolumbian-Chapalaachi	chac1249		husband	1200	HUSBAND		jaʔ ruku	j a ʔ + r u k u
+273053	305713	hubercolumbian-Guambiano	guam1248		husband	1200	HUSBAND		kek	k e k
+273084	305744	hubercolumbian-Totoro	toto1306		husband	1200	HUSBAND		kek	k e k
+273085	305745	hubercolumbian-TsafiquiPila	colo1256		husband	1200	HUSBAND		unila	u n i l a
+274569	307229	hubercolumbian-Awa	awac1239		i	1209	I		na	n a
+274577	307237	hubercolumbian-Chapalaachi	chac1249		i	1209	I		i	i
+274590	307250	hubercolumbian-Guambiano	guam1248		i	1209	I		na	n a
+274619	307279	hubercolumbian-Totoro	toto1306		i	1209	I		na	n a
+274620	307280	hubercolumbian-TsafiquiPila	colo1256		i	1209	I		la	l a
+274621	307281	hubercolumbian-TsafiquiPila	colo1256		i	1209	I		tsike	ts i k e
+275684	308344	hubercolumbian-Chapalaachi	chac1249		ice	617	ICE		jelu	j e l u
+275692	308352	hubercolumbian-Guambiano	guam1248		ice	617	ICE		ɕeɕuk	ɕ e ɕ u k
+275706	308366	hubercolumbian-Totoro	toto1306		ice	617	ICE		piɕuk	p i ɕ u k
+276659	309319	hubercolumbian-Awa	awac1239		if	1459	IF		kwatne	k w a t n e
+276666	309326	hubercolumbian-Chapalaachi	chac1249		if	1459	IF		ʃu huntsaja	ʃ u + h u n ts a j a
+276667	309327	hubercolumbian-Chapalaachi	chac1249		if	1459	IF		taa	t aː
+277905	310565	hubercolumbian-Awa	awac1239		in	1460	IN		ta	t a
+277912	310572	hubercolumbian-Chapalaachi	chac1249		in	1460	IN		bi	b i
+277913	310573	hubercolumbian-Chapalaachi	chac1249		in	1460	IN		nu	n u
+277930	310590	hubercolumbian-Guambiano	guam1248		in	1460	IN		umpu	u m p u
+277960	310620	hubercolumbian-Totoro	toto1306		in	1460	IN		ompo	o m p o
+277961	310621	hubercolumbian-TsafiquiPila	colo1256		in	1460	IN		bi	b i
+277962	310622	hubercolumbian-TsafiquiPila	colo1256		in	1460	IN		tsi	ts i
+287411	320071	hubercolumbian-Awa	awac1239		kill	1417	KILL		piantana	p i a n t a n a
+287423	320083	hubercolumbian-Chapalaachi	chac1249		kill	1417	KILL		tuʔnu	t u ʔ n u
+287438	320098	hubercolumbian-Guambiano	guam1248		kill	1417	KILL		kweeʧip	k w eː tʃ i p
+287465	320125	hubercolumbian-Totoro	toto1306		kill	1417	KILL		kwaitsi̵p	k w a i ts ɨ p
+287466	320126	hubercolumbian-TsafiquiPila	colo1256		kill	1417	KILL		tote	t o t e
+294315	326975	hubercolumbian-Awa	awac1239		knowsomething	1410	KNOW (SOMETHING)		piankamna	p i a n k a m n a
+294323	326983	hubercolumbian-Chapalaachi	chac1249		knowsomething	1410	KNOW (SOMETHING)		minu	m i n u
+294338	326998	hubercolumbian-Guambiano	guam1248		knowsomething	1410	KNOW (SOMETHING)		aʃip	a ʃ i p
+294367	327027	hubercolumbian-Totoro	toto1306		knowsomething	1410	KNOW (SOMETHING)		mi̵ri̵pik	m ɨ r ɨ p i k
+294368	327028	hubercolumbian-TsafiquiPila	colo1256		knowsomething	1410	KNOW (SOMETHING)		mira	m i r a
+296048	328708	hubercolumbian-Chapalaachi	chac1249		lake	624	LAKE		pusu	p u s u
+296062	328722	hubercolumbian-Guambiano	guam1248		lake	624	LAKE		pisu	p i s u
+296089	328749	hubercolumbian-TsafiquiPila	colo1256		lake	624	LAKE		pipilu	p i p i l u
+302058	334718	hubercolumbian-Awa	awac1239		leaf	628	LEAF		ti̵ ki̵h	t ɨ + k ɨ h
+302064	334724	hubercolumbian-Chapalaachi	chac1249		leaf	628	LEAF		haki	h a k i
+302077	334737	hubercolumbian-Guambiano	guam1248		leaf	628	LEAF		tuɕ iʃik	t u ɕ + i ʃ i k
+302103	334763	hubercolumbian-Totoro	toto1306		leaf	628	LEAF		tuɕiʃik	t u ɕ i ʃ i k
+302104	334764	hubercolumbian-TsafiquiPila	colo1256		leaf	628	LEAF		tside hapisu	ts i d e + h a p i s u
+305187	337847	hubercolumbian-Awa	awac1239		left	244	LEFT		kwijamal	k w i j a m a l
+305193	337853	hubercolumbian-Chapalaachi	chac1249		left	244	LEFT		halatʲa	h a l a tʲ a
+305205	337865	hubercolumbian-Guambiano	guam1248		left	244	LEFT		atsimaj	a ts i m a j
+305231	337891	hubercolumbian-Totoro	toto1306		left	244	LEFT		atsimai	a ts i m a i
+305232	337892	hubercolumbian-TsafiquiPila	colo1256		left	244	LEFT		hala	h a l a
+306301	338961	hubercolumbian-Awa	awac1239		leg	1297	LEG		pimbul	p i m b u l
+306310	338970	hubercolumbian-Chapalaachi	chac1249		leg	1297	LEG		neepa	n eː p a
+306323	338983	hubercolumbian-Guambiano	guam1248		leg	1297	LEG		ɕi̵p	ɕ ɨ p
+306351	339011	hubercolumbian-Totoro	toto1306		leg	1297	LEG		mi̵ɕtampal	m ɨ ɕ t a m p a l
+306352	339012	hubercolumbian-TsafiquiPila	colo1256		leg	1297	LEG		nede	n e d e
+316819	349479	hubercolumbian-Awa	awac1239		liver	1224	LIVER		ɲantunul	ɲ a n t u n u l
+316830	349490	hubercolumbian-Chapalaachi	chac1249		liver	1224	LIVER		ahpa	a h p a
+316844	349504	hubercolumbian-Guambiano	guam1248		liver	1224	LIVER		jali̵ mantɕi̵	j a l ɨ + m a n tɕ ɨ
+316871	349531	hubercolumbian-Totoro	toto1306		liver	1224	LIVER		jali̵maɕ	j a l ɨ m a ɕ
+316872	349532	hubercolumbian-TsafiquiPila	colo1256		liver	1224	LIVER		hake	h a k e
+319716	352376	hubercolumbian-Awa	awac1239		long	1203	LONG		aks	a k s
+319725	352385	hubercolumbian-Chapalaachi	chac1249		long	1203	LONG		aabare	aː b a r e
+319739	352399	hubercolumbian-Guambiano	guam1248		long	1203	LONG		jap	j a p
+319769	352429	hubercolumbian-Totoro	toto1306		long	1203	LONG		jaβik	j a β i k
+319770	352430	hubercolumbian-TsafiquiPila	colo1256		long	1203	LONG		baren	b a r e n
+323372	356032	hubercolumbian-Awa	awac1239		louse	1392	LOUSE		mũ	m ũ
+323381	356041	hubercolumbian-Chapalaachi	chac1249		louse	1392	LOUSE		mu	m u
+323393	356053	hubercolumbian-Guambiano	guam1248		louse	1392	LOUSE		paliti̵	p a l i t ɨ
+323394	356054	hubercolumbian-Guambiano	guam1248		louse	1392	LOUSE		muĩ	m u ĩ
+323419	356079	hubercolumbian-Totoro	toto1306		louse	1392	LOUSE		palekti̵	p a l e k t ɨ
+323420	356080	hubercolumbian-TsafiquiPila	colo1256		louse	1392	LOUSE		mu	m u
+323421	356081	hubercolumbian-TsafiquiPila	colo1256		louse	1392	LOUSE		seki	s e k i
+332115	364776	hubercolumbian-Awa	awac1239		many	1198	MANY		kwiʃa akwan	k w i ʃ a + a k w a n
+332126	364787	hubercolumbian-Chapalaachi	chac1249		many	1198	MANY		purehu	p u r e h u
+332147	364808	hubercolumbian-Guambiano	guam1248		many	1198	MANY		jameli̵	j a m e l ɨ
+332187	364848	hubercolumbian-Totoro	toto1306		many	1198	MANY		ɕoka	ɕ o k a
+332188	364849	hubercolumbian-Totoro	toto1306		many	1198	MANY		tɕoka	tɕ o k a
+332189	364850	hubercolumbian-TsafiquiPila	colo1256		many	1198	MANY		duke	d u k e
+349148	381809	hubercolumbian-Awa	awac1239		mother	1216	MOTHER		akwa	a k w a
+349159	381820	hubercolumbian-Chapalaachi	chac1249		mother	1216	MOTHER		jaʔ ama	j a ʔ + a m a
+349174	381835	hubercolumbian-Guambiano	guam1248		mother	1216	MOTHER		uɕi	u ɕ i
+349214	381875	hubercolumbian-Totoro	toto1306		mother	1216	MOTHER		mamabe	m a m a b e
+349215	381876	hubercolumbian-TsafiquiPila	colo1256		mother	1216	MOTHER		ajan	a j a n
+350797	383461	hubercolumbian-Awa	awac1239		mountain	639	MOUNTAIN		i̵nkal	ɨ n k a l
+350807	383471	hubercolumbian-Chapalaachi	chac1249		mountain	639	MOUNTAIN		feʔʃa	f e ʔ ʃ a
+350808	383472	hubercolumbian-Chapalaachi	chac1249		mountain	639	MOUNTAIN		lʲubaba	lʲ u b a b a
+350819	383483	hubercolumbian-Guambiano	guam1248		mountain	639	MOUNTAIN		nu tun	n u + t u n
+350844	383508	hubercolumbian-TsafiquiPila	colo1256		mountain	639	MOUNTAIN		du	d u
+353302	385966	hubercolumbian-Awa	awac1239		mouth	674	MOUTH		pit	p i t
+353311	385975	hubercolumbian-Chapalaachi	chac1249		mouth	674	MOUTH		fiʔpaki	f i ʔ p a k i
+353327	385991	hubercolumbian-Guambiano	guam1248		mouth	674	MOUTH		tɕik	tɕ i k
+353354	386018	hubercolumbian-Totoro	toto1306		mouth	674	MOUTH		tɕiktɕap	tɕ i k tɕ a p
+353355	386019	hubercolumbian-TsafiquiPila	colo1256		mouth	674	MOUTH		fiki foro	f i k i + f o r o
+358326	390990	hubercolumbian-Awa	awac1239		name	1405	NAME		mun	m u n
+358333	390997	hubercolumbian-Chapalaachi	chac1249		name	1405	NAME		mumu	m u m u
+358347	391011	hubercolumbian-Guambiano	guam1248		name	1405	NAME		munʧi	m u n tʃ i
+358372	391036	hubercolumbian-Totoro	toto1306		name	1405	NAME		mi̵iʃ	m ɨ i ʃ
+358373	391037	hubercolumbian-TsafiquiPila	colo1256		name	1405	NAME		mumun	m u m u n
+360243	392909	hubercolumbian-Awa	awac1239		narrow	1267	NARROW		si̵pmin	s ɨ p m i n
+360244	392910	hubercolumbian-Awa	awac1239		narrow	1267	NARROW		si̵p	s ɨ p
+360254	392920	hubercolumbian-Chapalaachi	chac1249		narrow	1267	NARROW		luʔmimi	l u ʔ m i m i
+360268	392934	hubercolumbian-Guambiano	guam1248		narrow	1267	NARROW		tɕak	tɕ a k
+360296	392962	hubercolumbian-Totoro	toto1306		narrow	1267	NARROW		kaʃi	k a ʃ i
+360297	392963	hubercolumbian-Totoro	toto1306		narrow	1267	NARROW		ki̵tan	k ɨ t a n
+360298	392964	hubercolumbian-TsafiquiPila	colo1256		narrow	1267	NARROW		na foro	n a + f o r o
+362867	395533	hubercolumbian-Awa	awac1239		near	1942	NEAR		kaʃain	k a ʃ a i n
+362876	395542	hubercolumbian-Chapalaachi	chac1249		near	1942	NEAR		kale	k a l e
+362891	395557	hubercolumbian-Guambiano	guam1248		near	1942	NEAR		puluti̵	p u l u t ɨ
+362918	395584	hubercolumbian-Totoro	toto1306		near	1942	NEAR		menpla	m e n p l a
+362919	395585	hubercolumbian-TsafiquiPila	colo1256		near	1942	NEAR		kelo	k e l o
+364607	397274	hubercolumbian-Awa	awac1239		neck	1333	NECK		kwi	k w i
+364617	397284	hubercolumbian-Chapalaachi	chac1249		neck	1333	NECK		kutu	k u t u
+364633	397300	hubercolumbian-Guambiano	guam1248		neck	1333	NECK		naʃik	n a ʃ i k
+364659	397326	hubercolumbian-Totoro	toto1306		neck	1333	NECK		naʃik	n a ʃ i k
+364660	397327	hubercolumbian-TsafiquiPila	colo1256		neck	1333	NECK		kudan	k u d a n
+368671	401338	hubercolumbian-Awa	awac1239		new	1231	NEW		masas	m a s a s
+368679	401346	hubercolumbian-Chapalaachi	chac1249		new	1231	NEW		kasa	k a s a
+368693	401360	hubercolumbian-Guambiano	guam1248		new	1231	NEW		ɕi̵	ɕ ɨ
+368722	401389	hubercolumbian-Totoro	toto1306		new	1231	NEW		ɕi̵ik	ɕ ɨ i k
+368723	401390	hubercolumbian-TsafiquiPila	colo1256		new	1231	NEW		kasan	k a s a n
+371441	404108	hubercolumbian-Awa	awac1239		night	1233	NIGHT		amda	a m d a
+371449	404116	hubercolumbian-Chapalaachi	chac1249		night	1233	NIGHT		kepe	k e p e
+371464	404131	hubercolumbian-Guambiano	guam1248		night	1233	NIGHT		jem	j e m
+371490	404157	hubercolumbian-Totoro	toto1306		night	1233	NIGHT		jem	j e m
+371491	404158	hubercolumbian-TsafiquiPila	colo1256		night	1233	NIGHT		kepen	k e p e n
+377259	409926	hubercolumbian-Awa	awac1239		nose	1221	NOSE		kimpuh	k i m p u h
+377268	409935	hubercolumbian-Chapalaachi	chac1249		nose	1221	NOSE		kihkapa	k i h k a p a
+377282	409949	hubercolumbian-Guambiano	guam1248		nose	1221	NOSE		kimtsik	k i m ts i k
+377309	409976	hubercolumbian-Totoro	toto1306		nose	1221	NOSE		kim	k i m
+377310	409977	hubercolumbian-TsafiquiPila	colo1256		nose	1221	NOSE		kinfu	k i n f u
+378841	411508	hubercolumbian-Awa	awac1239		not	1240	NOT		ʧi	tʃ i
+378842	411509	hubercolumbian-Awa	awac1239		not	1240	NOT		ki	k i
+378843	411510	hubercolumbian-Awa	awac1239		not	1240	NOT		man	m a n
+378851	411518	hubercolumbian-Chapalaachi	chac1249		not	1240	NOT		mʔm	m ʔ m
+378868	411535	hubercolumbian-Guambiano	guam1248		not	1240	NOT		ka	k a
+378907	411574	hubercolumbian-Totoro	toto1306		not	1240	NOT		kaʔ	k a ʔ
+378908	411575	hubercolumbian-TsafiquiPila	colo1256		not	1240	NOT		tu	t u
+378909	411576	hubercolumbian-TsafiquiPila	colo1256		not	1240	NOT		te	t e
+383365	416032	hubercolumbian-Awa	awac1239		old	1229	OLD		i̵labaʔ	ɨ l a b a ʔ
+383372	416039	hubercolumbian-Chapalaachi	chac1249		old	1229	OLD		ruku	r u k u
+383389	416056	hubercolumbian-Guambiano	guam1248		old	1229	OLD		ki̵lʲĩ̵ mi̵k	k ɨ lʲ ɨ̃ + m ɨ k
+383420	416087	hubercolumbian-Totoro	toto1306		old	1229	OLD		kilik	k i l i k
+383421	416088	hubercolumbian-TsafiquiPila	colo1256		old	1229	OLD		onika	o n i k a
+389552	422219	hubercolumbian-Awa	awac1239		one	1493	ONE		maza	m a z a
+389559	422226	hubercolumbian-Chapalaachi	chac1249		one	1493	ONE		main	m a i n
+389573	422240	hubercolumbian-Guambiano	guam1248		one	1493	ONE		kan	k a n
+389603	422270	hubercolumbian-Totoro	toto1306		one	1493	ONE		kana	k a n a
+389604	422271	hubercolumbian-TsafiquiPila	colo1256		one	1493	ONE		man	m a n
+393581	426248	hubercolumbian-Awa	awac1239		other	197	OTHER		mamaz	m a m a z
+393597	426264	hubercolumbian-Chapalaachi	chac1249		other	197	OTHER		vera	v e r a
+393614	426281	hubercolumbian-Guambiano	guam1248		other	197	OTHER		kati̵kan	k a t ɨ k a n
+393656	426323	hubercolumbian-Totoro	toto1306		other	197	OTHER		kana	k a n a
+393657	426324	hubercolumbian-TsafiquiPila	colo1256		other	197	OTHER		manka	m a n k a
+393658	426325	hubercolumbian-TsafiquiPila	colo1256		other	197	OTHER		ujan	u j a n
+421058	453725	hubercolumbian-Awa	awac1239		pull	1455	PULL		tainna	t a i n n a
+421067	453734	hubercolumbian-Chapalaachi	chac1249		pull	1455	PULL		ʧiʔnu	tʃ i ʔ n u
+421080	453747	hubercolumbian-Guambiano	guam1248		pull	1455	PULL		ɕup	ɕ u p
+421111	453778	hubercolumbian-Totoro	toto1306		pull	1455	PULL		ɕop	ɕ o p
+421112	453779	hubercolumbian-TsafiquiPila	colo1256		pull	1455	PULL		muri	m u r i
+422769	455437	hubercolumbian-Awa	awac1239		push	1452	PUSH		nupainna	n u p a i n n a
+422780	455448	hubercolumbian-Chapalaachi	chac1249		push	1452	PUSH		tʲuleenu	tʲ u l eː n u
+422793	455461	hubercolumbian-Guambiano	guam1248		push	1452	PUSH		tɕawakuʧip	tɕ a w a k u tʃ i p
+422825	455493	hubercolumbian-TsafiquiPila	colo1256		push	1452	PUSH		tulipo	t u l i p o
+432352	465020	hubercolumbian-Awa	awac1239		red	156	RED		kwanam	k w a n a m
+432360	465028	hubercolumbian-Chapalaachi	chac1249		red	156	RED		uŋgalala	u ŋ g a l a l a
+432374	465042	hubercolumbian-Guambiano	guam1248		red	156	RED		piki̵	p i k ɨ
+432405	465073	hubercolumbian-Totoro	toto1306		red	156	RED		pikutik	p i k u t i k
+432406	465074	hubercolumbian-TsafiquiPila	colo1256		red	156	RED		luban	l u b a n
+438137	470805	hubercolumbian-Awa	awac1239		right	1019	RIGHT		numal	n u m a l
+438144	470812	hubercolumbian-Chapalaachi	chac1249		right	1019	RIGHT		urandʲa	u r a n dʲ a
+438156	470824	hubercolumbian-Guambiano	guam1248		right	1019	RIGHT		kuɕmaj	k u ɕ m a j
+438183	470851	hubercolumbian-Totoro	toto1306		right	1019	RIGHT		kotɕmai	k o tɕ m a i
+438184	470852	hubercolumbian-TsafiquiPila	colo1256		right	1019	RIGHT		tsa	ts a
+440601	473269	hubercolumbian-Awa	awac1239		river	666	RIVER		pii	p iː
+440602	473270	hubercolumbian-Awa	awac1239		river	666	RIVER		pi	p i
+440611	473279	hubercolumbian-Chapalaachi	chac1249		river	666	RIVER		pi	p i
+440624	473292	hubercolumbian-Guambiano	guam1248		river	666	RIVER		nupi	n u p i
+440654	473322	hubercolumbian-Totoro	toto1306		river	666	RIVER		noβi	n o β i
+440655	473323	hubercolumbian-TsafiquiPila	colo1256		river	666	RIVER		pi	p i
+444303	476972	hubercolumbian-Awa	awac1239		root	670	ROOT		muxti̵t	m u x t ɨ t
+444312	476981	hubercolumbian-Chapalaachi	chac1249		root	670	ROOT		telele	t e l e l e
+444327	476996	hubercolumbian-Guambiano	guam1248		root	670	ROOT		ɕi̵l	ɕ ɨ l
+444361	477030	hubercolumbian-Totoro	toto1306		root	670	ROOT		ɕi̵ltsik	ɕ ɨ l ts i k
+444362	477031	hubercolumbian-TsafiquiPila	colo1256		root	670	ROOT		telenle	t e l e n l e
+446197	478866	hubercolumbian-Awa	awac1239		rope	1218	ROPE		ti̵t	t ɨ t
+446206	478875	hubercolumbian-Chapalaachi	chac1249		rope	1218	ROPE		ʧuhua	tʃ u h u a
+446221	478890	hubercolumbian-Guambiano	guam1248		rope	1218	ROPE		tsi	ts i
+446251	478920	hubercolumbian-Totoro	toto1306		rope	1218	ROPE		tsi	ts i
+446252	478921	hubercolumbian-TsafiquiPila	colo1256		rope	1218	ROPE		kabo sili	k a b o + s i l i
+447838	480507	hubercolumbian-Awa	awac1239		rotten	1728	ROTTEN		pi̵ti̵t	p ɨ t ɨ t
+447847	480516	hubercolumbian-Chapalaachi	chac1249		rotten	1728	ROTTEN		pete	p e t e
+447861	480530	hubercolumbian-Guambiano	guam1248		rotten	1728	ROTTEN		tɕeri̵	tɕ e r ɨ
+447896	480565	hubercolumbian-Totoro	toto1306		rotten	1728	ROTTEN		ʧeri̵	tʃ e r ɨ
+447897	480566	hubercolumbian-TsafiquiPila	colo1256		rotten	1728	ROTTEN		petneka	p e t n e k a
+449665	482334	hubercolumbian-Awa	awac1239		rub	1449	RUB		pippa	p i p p a
+449676	482345	hubercolumbian-Chapalaachi	chac1249		rub	1449	RUB		puka	p u k a
+449690	482359	hubercolumbian-Guambiano	guam1248		rub	1449	RUB		tɕul	tɕ u l
+449720	482389	hubercolumbian-Totoro	toto1306		rub	1449	RUB		tɕol	tɕ o l
+449721	482390	hubercolumbian-TsafiquiPila	colo1256		rub	1449	RUB		puka	p u k a
+453694	486363	hubercolumbian-Awa	awac1239		salt	1274	SALT		ɲam	ɲ a m
+453702	486371	hubercolumbian-Chapalaachi	chac1249		salt	1274	SALT		tʲaiju	tʲ a i j u
+453715	486384	hubercolumbian-Guambiano	guam1248		salt	1274	SALT		tɕe	tɕ e
+453743	486412	hubercolumbian-Totoro	toto1306		salt	1274	SALT		tɕe	tɕ e
+453744	486413	hubercolumbian-TsafiquiPila	colo1256		salt	1274	SALT		pinpa	p i n p a
+456256	488925	hubercolumbian-Awa	awac1239		sand	671	SAND		pi ksu	p i + k s u
+456264	488933	hubercolumbian-Chapalaachi	chac1249		sand	671	SAND		ɲiipe	ɲ iː p e
+456279	488948	hubercolumbian-Guambiano	guam1248		sand	671	SAND		piɕum	p i ɕ u m
+456305	488974	hubercolumbian-Totoro	toto1306		sand	671	SAND		pirimul	p i r i m u l
+456306	488975	hubercolumbian-TsafiquiPila	colo1256		sand	671	SAND		tsalan	ts a l a n
+459202	491871	hubercolumbian-Awa	awac1239		say	1458	SAY		kaizna	k a i z n a
+459203	491872	hubercolumbian-Awa	awac1239		say	1458	SAY		kizna	k i z n a
+459212	491881	hubercolumbian-Chapalaachi	chac1249		say	1458	SAY		tsandinu	ts a n d i n u
+459231	491900	hubercolumbian-Guambiano	guam1248		say	1458	SAY		waminʧip	w a m i n tʃ i p
+459267	491936	hubercolumbian-Totoro	toto1306		say	1458	SAY		wamap	w a m a p
+459268	491937	hubercolumbian-TsafiquiPila	colo1256		say	1458	SAY		ti	t i
+463060	495729	hubercolumbian-Awa	awac1239		sea	1474	SEA		ɲam pi	ɲ a m + p i
+463066	495735	hubercolumbian-Chapalaachi	chac1249		sea	1474	SEA		lamaa	l a m aː
+463102	495771	hubercolumbian-Totoro	toto1306		sea	1474	SEA		noβiso	n o β i s o
+463103	495772	hubercolumbian-TsafiquiPila	colo1256		sea	1474	SEA		lamari	l a m a r i
+464957	497627	hubercolumbian-Awa	awac1239		see	1409	SEE		izna	i z n a
+464966	497636	hubercolumbian-Chapalaachi	chac1249		see	1409	SEE		keenu	k eː n u
+464982	497652	hubercolumbian-Guambiano	guam1248		see	1409	SEE		aʃip	a ʃ i p
+465010	497680	hubercolumbian-Totoro	toto1306		see	1409	SEE		larap	l a r a p
+465011	497681	hubercolumbian-TsafiquiPila	colo1256		see	1409	SEE		kira	k i r a
+466534	499204	hubercolumbian-Awa	awac1239		seed	714	SEED		pippa	p i p p a
+466546	499216	hubercolumbian-Chapalaachi	chac1249		seed	714	SEED		ɲi	ɲ i
+466559	499229	hubercolumbian-Guambiano	guam1248		seed	714	SEED		jelʲ	j e lʲ
+466591	499261	hubercolumbian-Totoro	toto1306		seed	714	SEED		jelʲ	j e lʲ
+466592	499262	hubercolumbian-TsafiquiPila	colo1256		seed	714	SEED		ni	n i
+472051	504722	hubercolumbian-Awa	awac1239		sew	1457	SEW		si̵pna	s ɨ p n a
+472058	504729	hubercolumbian-Chapalaachi	chac1249		sew	1457	SEW		punnu	p u n n u
+472072	504743	hubercolumbian-Guambiano	guam1248		sew	1457	SEW		tsuʃip	ts u ʃ i p
+472098	504769	hubercolumbian-Totoro	toto1306		sew	1457	SEW		tɕi̵ɕi̵p	tɕ ɨ ɕ ɨ p
+472099	504770	hubercolumbian-TsafiquiPila	colo1256		sew	1457	SEW		oro	o r o
+474843	507514	hubercolumbian-Awa	awac1239		sharp	1396	SHARP		kwiʧati̵t	k w i tʃ a t ɨ t
+474844	507515	hubercolumbian-Awa	awac1239		sharp	1396	SHARP		tiʧati̵t	t i tʃ a t ɨ t
+474852	507523	hubercolumbian-Chapalaachi	chac1249		sharp	1396	SHARP		da	d a
+474867	507538	hubercolumbian-Guambiano	guam1248		sharp	1396	SHARP		tɕi̵ɕ	tɕ ɨ ɕ
+474894	507565	hubercolumbian-Totoro	toto1306		sharp	1396	SHARP		katsik	k a ts i k
+474895	507566	hubercolumbian-TsafiquiPila	colo1256		sharp	1396	SHARP		teja	t e j a
+481432	514104	hubercolumbian-Awa	awac1239		short	1645	SHORT		tam	t a m
+481433	514105	hubercolumbian-Awa	awac1239		short	1645	SHORT		tammin	t a m m i n
+481442	514114	hubercolumbian-Chapalaachi	chac1249		short	1645	SHORT		dapepe	d a p e p e
+481456	514128	hubercolumbian-Guambiano	guam1248		short	1645	SHORT		lanti̵	l a n t ɨ
+481482	514154	hubercolumbian-Totoro	toto1306		short	1645	SHORT		moʧoki̵tan	m o tʃ o k ɨ t a n
+481483	514155	hubercolumbian-TsafiquiPila	colo1256		short	1645	SHORT		napukan	n a p u k a n
+488305	520977	hubercolumbian-Awa	awac1239		sing	1261	SING		kantakizna	k a n t a k i z n a
+488314	520986	hubercolumbian-Chapalaachi	chac1249		sing	1261	SING		beesaŋguenu	b eː s a ŋ g u e n u
+488360	521032	hubercolumbian-Totoro	toto1306		sing	1261	SING		kantap	k a n t a p
+488361	521033	hubercolumbian-TsafiquiPila	colo1256		sing	1261	SING		kantake	k a n t a k e
+496966	529638	hubercolumbian-Awa	awac1239		sky	1732	SKY		ʧiju	tʃ i j u
+496975	529647	hubercolumbian-Chapalaachi	chac1249		sky	1732	SKY		selu	s e l u
+496992	529664	hubercolumbian-Guambiano	guam1248		sky	1732	SKY		ɕĩ̵	ɕ ɨ̃
+497024	529696	hubercolumbian-Totoro	toto1306		sky	1732	SKY		sieloɕi̵	s i e l o ɕ ɨ
+497025	529697	hubercolumbian-TsafiquiPila	colo1256		sky	1732	SKY		jokido	j o k i d o
+499160	531832	hubercolumbian-Awa	awac1239		sleep	1585	SLEEP		pitna	p i t n a
+499167	531839	hubercolumbian-Chapalaachi	chac1249		sleep	1585	SLEEP		kasnu	k a s n u
+499181	531853	hubercolumbian-Guambiano	guam1248		sleep	1585	SLEEP		kip	k i p
+499207	531879	hubercolumbian-Totoro	toto1306		sleep	1585	SLEEP		kip	k i p
+499208	531880	hubercolumbian-TsafiquiPila	colo1256		sleep	1585	SLEEP		katso	k a ts o
+502720	535394	hubercolumbian-Awa	awac1239		small	1246	SMALL		ainki	a i n k i
+502734	535408	hubercolumbian-Chapalaachi	chac1249		small	1246	SMALL		aɲuɲu	a ɲ u ɲ u
+502749	535423	hubercolumbian-Guambiano	guam1248		small	1246	SMALL		lami̵	l a m ɨ
+502784	535458	hubercolumbian-Totoro	toto1306		small	1246	SMALL		caʃtik	c a ʃ t i k
+502785	535459	hubercolumbian-TsafiquiPila	colo1256		small	1246	SMALL		nakan	n a k a n
+505466	538140	hubercolumbian-Awa	awac1239		smellperceive	1586	SMELL (PERCEIVE)		piana	p i a n a
+505479	538153	hubercolumbian-Chapalaachi	chac1249		smellperceive	1586	SMELL (PERCEIVE)		iʃkeenu	i ʃ k eː n u
+505495	538169	hubercolumbian-Guambiano	guam1248		smellperceive	1586	SMELL (PERCEIVE)		itɕap	i tɕ a p
+505527	538201	hubercolumbian-Totoro	toto1306		smellperceive	1586	SMELL (PERCEIVE)		itɕi̵mi̵ri̵p	i tɕ ɨ m ɨ r ɨ p
+505528	538202	hubercolumbian-TsafiquiPila	colo1256		smellperceive	1586	SMELL (PERCEIVE)		pubai	p u b a i
+507071	539747	hubercolumbian-Awa	awac1239		smokeexhaust	778	SMOKE (EXHAUST)		iʃ	i ʃ
+507079	539755	hubercolumbian-Chapalaachi	chac1249		smokeexhaust	778	SMOKE (EXHAUST)		ɲivihʧa	ɲ i v i h tʃ a
+507094	539770	hubercolumbian-Guambiano	guam1248		smokeexhaust	778	SMOKE (EXHAUST)		nakiʃ	n a k i ʃ
+507121	539797	hubercolumbian-Totoro	toto1306		smokeexhaust	778	SMOKE (EXHAUST)		naki	n a k i
+507122	539798	hubercolumbian-TsafiquiPila	colo1256		smokeexhaust	778	SMOKE (EXHAUST)		nin pojo	n i n + p o j o
+508546	541222	hubercolumbian-Awa	awac1239		smooth	1234	SMOOTH		si̵nam	s ɨ n a m
+508557	541233	hubercolumbian-Chapalaachi	chac1249		smooth	1234	SMOOTH		ehʧamilʲalʲa	e h tʃ a m i lʲ a lʲ a
+508573	541249	hubercolumbian-Guambiano	guam1248		smooth	1234	SMOOTH		mil	m i l
+508601	541277	hubercolumbian-Totoro	toto1306		smooth	1234	SMOOTH		lisoki̵tan	l i s o k ɨ t a n
+508602	541278	hubercolumbian-TsafiquiPila	colo1256		smooth	1234	SMOOTH		lajun	l a j u n
+509930	542606	hubercolumbian-Awa	awac1239		snake	730	SNAKE		kamta	k a m t a
+509938	542614	hubercolumbian-Chapalaachi	chac1249		snake	730	SNAKE		pĩni	p ĩ n i
+509951	542627	hubercolumbian-Guambiano	guam1248		snake	730	SNAKE		ul	u l
+509980	542656	hubercolumbian-Totoro	toto1306		snake	730	SNAKE		ol	o l
+509981	542657	hubercolumbian-TsafiquiPila	colo1256		snake	730	SNAKE		pini	p i n i
+512210	544886	hubercolumbian-Chapalaachi	chac1249		snow	784	SNOW		iʃa lʲuhpe	i ʃ a + lʲ u h p e
+512221	544897	hubercolumbian-Guambiano	guam1248		snow	784	SNOW		puĩ	p u ĩ
+525289	557965	hubercolumbian-Awa	awac1239		split	1437	SPLIT		pianna	p i a n n a
+525296	557972	hubercolumbian-Chapalaachi	chac1249		split	1437	SPLIT		leenu	l eː n u
+525313	557989	hubercolumbian-Guambiano	guam1248		split	1437	SPLIT		puʃip	p u ʃ i p
+525340	558016	hubercolumbian-Totoro	toto1306		split	1437	SPLIT		kotɕi̵p	k o tɕ ɨ p
+527748	560424	hubercolumbian-Awa	awac1239		squeeze	1414	SQUEEZE		sam piʧna	s a m + p i tʃ n a
+527749	560425	hubercolumbian-Awa	awac1239		squeeze	1414	SQUEEZE		sam pwixna	s a m + p w i x n a
+527758	560434	hubercolumbian-Chapalaachi	chac1249		squeeze	1414	SQUEEZE		behtadinu	b e h t a d i n u
+527778	560454	hubercolumbian-Guambiano	guam1248		squeeze	1414	SQUEEZE		keɕup	k e ɕ u p
+527821	560497	hubercolumbian-TsafiquiPila	colo1256		squeeze	1414	SQUEEZE		dili	d i l i
+532201	564877	hubercolumbian-Awa	awac1239		star	1430	STAR		ki̵i̵ma	k ɨ ɨ m a
+532209	564885	hubercolumbian-Chapalaachi	chac1249		star	1430	STAR		makara	m a k a r a
+532223	564899	hubercolumbian-Guambiano	guam1248		star	1430	STAR		ki̵nchapik	k ɨ n c h a p i k
+532249	564925	hubercolumbian-Totoro	toto1306		star	1430	STAR		tɕi̵l	tɕ ɨ l
+532250	564926	hubercolumbian-TsafiquiPila	colo1256		star	1430	STAR		tsabo	ts a b o
+535546	568222	hubercolumbian-Awa	awac1239		stick	1295	STICK		ti̵	t ɨ
+535555	568231	hubercolumbian-Chapalaachi	chac1249		stick	1295	STICK		ʧaʔli	tʃ a ʔ l i
+535570	568246	hubercolumbian-Guambiano	guam1248		stick	1295	STICK		tsik	ts i k
+535602	568278	hubercolumbian-Totoro	toto1306		stick	1295	STICK		tsik	ts i k
+535603	568279	hubercolumbian-TsafiquiPila	colo1256		stick	1295	STICK		tside	ts i d e
+538741	571418	hubercolumbian-Awa	awac1239		stone	857	STONE		uk	u k
+538750	571427	hubercolumbian-Chapalaachi	chac1249		stone	857	STONE		skupuka	s k u p u k a
+538763	571440	hubercolumbian-Guambiano	guam1248		stone	857	STONE		ɕuk	ɕ u k
+538789	571466	hubercolumbian-Totoro	toto1306		stone	857	STONE		ɕuk	ɕ u k
+538790	571467	hubercolumbian-TsafiquiPila	colo1256		stone	857	STONE		su	s u
+541171	573848	hubercolumbian-Awa	awac1239		straight	1404	STRAIGHT		nil	n i l
+541179	573856	hubercolumbian-Chapalaachi	chac1249		straight	1404	STRAIGHT		dentsuʔpapa	d e n ts u ʔ p a p a
+541192	573869	hubercolumbian-Guambiano	guam1248		straight	1404	STRAIGHT		i̵l	ɨ l
+541219	573896	hubercolumbian-TsafiquiPila	colo1256		straight	1404	STRAIGHT		tuka	t u k a
+541220	573897	hubercolumbian-TsafiquiPila	colo1256		straight	1404	STRAIGHT		tule	t u l e
+546128	578805	hubercolumbian-Awa	awac1239		suck	1421	SUCK		tukna	t u k n a
+546140	578817	hubercolumbian-Chapalaachi	chac1249		suck	1421	SUCK		miʃnu	m i ʃ n u
+546158	578835	hubercolumbian-Guambiano	guam1248		suck	1421	SUCK		wepiʃip	w e p i ʃ i p
+546193	578870	hubercolumbian-Totoro	toto1306		suck	1421	SUCK		sorpeʔ	s o r p e ʔ
+546194	578871	hubercolumbian-TsafiquiPila	colo1256		suck	1421	SUCK		tsu	ts u
+548121	580798	hubercolumbian-Awa	awac1239		sun	1343	SUN		pã	p ã
+548130	580807	hubercolumbian-Chapalaachi	chac1249		sun	1343	SUN		pahta	p a h t a
+548149	580826	hubercolumbian-Guambiano	guam1248		sun	1343	SUN		pi̵tɕ	p ɨ tɕ
+548177	580854	hubercolumbian-Totoro	toto1306		sun	1343	SUN		pi̵ɕ	p ɨ ɕ
+548178	580855	hubercolumbian-TsafiquiPila	colo1256		sun	1343	SUN		jo	j o
+553962	586639	hubercolumbian-Awa	awac1239		swell	1573	SWELL		kipana	k i p a n a
+553973	586650	hubercolumbian-Chapalaachi	chac1249		swell	1573	SWELL		lʲuiŋguenu	lʲ u i ŋ g u e n u
+553990	586667	hubercolumbian-Guambiano	guam1248		swell	1573	SWELL		paarap	p aː r a p
+554019	586696	hubercolumbian-TsafiquiPila	colo1256		swell	1573	SWELL		tuwa	t u w a
+555172	587849	hubercolumbian-Awa	awac1239		swim	1439	SWIM		pikamna	p i k a m n a
+555180	587857	hubercolumbian-Chapalaachi	chac1249		swim	1439	SWIM		piʃuiŋguenu	p i ʃ u i ŋ g u e n u
+555220	587897	hubercolumbian-Totoro	toto1306		swim	1439	SWIM		pi oni̵rap	p i + o n ɨ r a p
+555221	587898	hubercolumbian-TsafiquiPila	colo1256		swim	1439	SWIM		mare	m a r e
+557614	590291	hubercolumbian-Awa	awac1239		tail	1220	TAIL		mi̵ti̵	m ɨ t ɨ
+557623	590300	hubercolumbian-Chapalaachi	chac1249		tail	1220	TAIL		nepele	n e p e l e
+557643	590320	hubercolumbian-Guambiano	guam1248		tail	1220	TAIL		mi̵tɕ	m ɨ tɕ
+557673	590350	hubercolumbian-Totoro	toto1306		tail	1220	TAIL		mi̵ɕ	m ɨ ɕ
+557674	590351	hubercolumbian-TsafiquiPila	colo1256		tail	1220	TAIL		me	m e
+567000	599679	hubercolumbian-Awa	awac1239		that	78	THAT		sun	s u n
+567012	599691	hubercolumbian-Chapalaachi	chac1249		that	78	THAT		huntsa	h u n ts a
+567026	599705	hubercolumbian-Guambiano	guam1248		that	78	THAT		i̵ik	ɨ i k
+567057	599736	hubercolumbian-Totoro	toto1306		that	78	THAT		i̵ni̵	ɨ n ɨ
+567058	599737	hubercolumbian-TsafiquiPila	colo1256		that	78	THAT		hun	h u n
+567059	599738	hubercolumbian-TsafiquiPila	colo1256		that	78	THAT		ja	j a
+567060	599739	hubercolumbian-TsafiquiPila	colo1256		that	78	THAT		ha	h a
+569068	601747	hubercolumbian-Awa	awac1239		there	1937	THERE		sua	s u a
+569069	601748	hubercolumbian-Awa	awac1239		there	1937	THERE		sunta	s u n t a
+569081	601760	hubercolumbian-Chapalaachi	chac1249		there	1937	THERE		huŋga	h u ŋ g a
+569099	601778	hubercolumbian-Guambiano	guam1248		there	1937	THERE		uju	u j u
+569100	601779	hubercolumbian-Guambiano	guam1248		there	1937	THERE		i̵ɕĩ̵	ɨ ɕ ɨ̃
+569139	601818	hubercolumbian-Totoro	toto1306		there	1937	THERE		uju	u j u
+569140	601819	hubercolumbian-Totoro	toto1306		there	1937	THERE		i̵ɕi̵	ɨ ɕ ɨ
+569141	601820	hubercolumbian-TsafiquiPila	colo1256		there	1937	THERE		hunte	h u n t e
+570532	603211	hubercolumbian-Awa	awac1239		they	817	THEY		uspa	u s p a
+570544	603223	hubercolumbian-Chapalaachi	chac1249		they	817	THEY		jala	j a l a
+570562	603241	hubercolumbian-Guambiano	guam1248		they	817	THEY		ni̵m	n ɨ m
+570599	603278	hubercolumbian-Totoro	toto1306		they	817	THEY		ni̵mpe	n ɨ m p e
+570600	603279	hubercolumbian-Totoro	toto1306		they	817	THEY		i̵ni̵mera	ɨ n ɨ m e r a
+570601	603280	hubercolumbian-TsafiquiPila	colo1256		they	817	THEY		jala	j a l a
+571978	604657	hubercolumbian-Awa	awac1239		thick	1244	THICK		katsa	k a ts a
+571979	604658	hubercolumbian-Awa	awac1239		thick	1244	THICK		an ɲane	a n + ɲ a n e
+571987	604666	hubercolumbian-Chapalaachi	chac1249		thick	1244	THICK		aabebe	aː b e b e
+572002	604681	hubercolumbian-Guambiano	guam1248		thick	1244	THICK		weruk	w e r u k
+572032	604711	hubercolumbian-Totoro	toto1306		thick	1244	THICK		tɕal	tɕ a l
+572033	604712	hubercolumbian-Totoro	toto1306		thick	1244	THICK		tsal	ts a l
+572034	604713	hubercolumbian-TsafiquiPila	colo1256		thick	1244	THICK		helelen	h e l e l e n
+573369	606048	hubercolumbian-Awa	awac1239		thin	2308	THIN		nas	n a s
+573370	606049	hubercolumbian-Awa	awac1239		thin	2308	THIN		nasmin	n a s m i n
+573379	606058	hubercolumbian-Chapalaachi	chac1249		thin	2308	THIN		piŋguiki	p i ŋ g u i k i
+573396	606075	hubercolumbian-Guambiano	guam1248		thin	2308	THIN		ʃi̵lʲ	ʃ ɨ lʲ
+573433	606112	hubercolumbian-Totoro	toto1306		thin	2308	THIN		ki̵li̵ktik	k ɨ l ɨ k t i k
+573434	606113	hubercolumbian-TsafiquiPila	colo1256		thin	2308	THIN		naden	n a d e n
+574797	607476	hubercolumbian-Awa	awac1239		think	2271	THINK		mina	m i n a
+574806	607485	hubercolumbian-Chapalaachi	chac1249		think	2271	THINK		pensaŋguenu	p e n s a ŋ g u e n u
+574823	607502	hubercolumbian-Guambiano	guam1248		think	2271	THINK		isup	i s u p
+574852	607531	hubercolumbian-TsafiquiPila	colo1256		think	2271	THINK		tenka ka	t e n k a + k a
+578083	610762	hubercolumbian-Awa	awac1239		this	1214	THIS		an	a n
+578094	610773	hubercolumbian-Chapalaachi	chac1249		this	1214	THIS		entsa	e n ts a
+578111	610790	hubercolumbian-Guambiano	guam1248		this	1214	THIS		iik	iː k
+578144	610823	hubercolumbian-Totoro	toto1306		this	1214	THIS		ini̵	i n ɨ
+578145	610824	hubercolumbian-TsafiquiPila	colo1256		this	1214	THIS		in	i n
+580282	612964	hubercolumbian-Awa	awac1239		thou	1215	THOU		nu	n u
+580290	612972	hubercolumbian-Chapalaachi	chac1249		thou	1215	THOU		ɲu	ɲ u
+580304	612986	hubercolumbian-Guambiano	guam1248		thou	1215	THOU		ɲi	ɲ i
+580335	613017	hubercolumbian-Totoro	toto1306		thou	1215	THOU		ɲi	ɲ i
+580336	613018	hubercolumbian-TsafiquiPila	colo1256		thou	1215	THOU		nu	n u
+583055	615740	hubercolumbian-Awa	awac1239		three	492	THREE		kutɲa	k u t ɲ a
+583062	615747	hubercolumbian-Chapalaachi	chac1249		three	492	THREE		pema	p e m a
+583076	615761	hubercolumbian-Guambiano	guam1248		three	492	THREE		pi̵n	p ɨ n
+583102	615787	hubercolumbian-Totoro	toto1306		three	492	THREE		pi̵n	p ɨ n
+583103	615788	hubercolumbian-TsafiquiPila	colo1256		three	492	THREE		peman	p e m a n
+585971	618656	hubercolumbian-Awa	awac1239		throw	1456	THROW		watna	w a t n a
+585972	618657	hubercolumbian-Awa	awac1239		throw	1456	THROW		kin	k i n
+585973	618658	hubercolumbian-Awa	awac1239		throw	1456	THROW		kiakpi̵nna	k i a k p ɨ n n a
+585987	618672	hubercolumbian-Chapalaachi	chac1249		throw	1456	THROW		keʔeenu	k e ʔ eː n u
+586006	618691	hubercolumbian-Guambiano	guam1248		throw	1456	THROW		wajip	w a j i p
+586044	618729	hubercolumbian-Totoro	toto1306		throw	1456	THROW		i̵ri̵p	ɨ r ɨ p
+586045	618730	hubercolumbian-TsafiquiPila	colo1256		throw	1456	THROW		wala	w a l a
+589078	621765	hubercolumbian-Awa	awac1239		tie	1917	TIE		palna	p a l n a
+589079	621766	hubercolumbian-Awa	awac1239		tie	1917	TIE		ipna	i p n a
+589080	621767	hubercolumbian-Awa	awac1239		tie	1917	TIE		kuhtna	k u h t n a
+589089	621776	hubercolumbian-Chapalaachi	chac1249		tie	1917	TIE		teenu	t eː n u
+589106	621793	hubercolumbian-Guambiano	guam1248		tie	1917	TIE		luɕi̵p	l u ɕ ɨ p
+589136	621823	hubercolumbian-Totoro	toto1306		tie	1917	TIE		li̵tsi̵p	l ɨ ts ɨ p
+589137	621824	hubercolumbian-TsafiquiPila	colo1256		tie	1917	TIE		tele	t e l e
+596179	628866	hubercolumbian-Awa	awac1239		tongue	1205	TONGUE		jankwixia	j a n k w i x i a
+596188	628875	hubercolumbian-Chapalaachi	chac1249		tongue	1205	TONGUE		ihka	i h k a
+596204	628891	hubercolumbian-Guambiano	guam1248		tongue	1205	TONGUE		nili̵	n i l ɨ
+596230	628917	hubercolumbian-Totoro	toto1306		tongue	1205	TONGUE		nili̵	n i l ɨ
+596231	628918	hubercolumbian-TsafiquiPila	colo1256		tongue	1205	TONGUE		nikaka	n i k a k a
+598357	631044	hubercolumbian-Awa	awac1239		tooth	1380	TOOTH		sula	s u l a
+598367	631054	hubercolumbian-Chapalaachi	chac1249		tooth	1380	TOOTH		tehku	t e h k u
+598380	631067	hubercolumbian-Guambiano	guam1248		tooth	1380	TOOTH		tɕukul	tɕ u k u l
+598407	631094	hubercolumbian-Totoro	toto1306		tooth	1380	TOOTH		tɕukul	tɕ u k u l
+598408	631095	hubercolumbian-TsafiquiPila	colo1256		tooth	1380	TOOTH		tefun	t e f u n
+602761	635448	hubercolumbian-Awa	awac1239		tree	906	TREE		ti̵	t ɨ
+602769	635456	hubercolumbian-Chapalaachi	chac1249		tree	906	TREE		ʧi	tʃ i
+602784	635471	hubercolumbian-Guambiano	guam1248		tree	906	TREE		tuɕ	t u ɕ
+602815	635502	hubercolumbian-Totoro	toto1306		tree	906	TREE		tuɕ	t u ɕ
+602816	635503	hubercolumbian-TsafiquiPila	colo1256		tree	906	TREE		tside	ts i d e
+611258	643945	hubercolumbian-Awa	awac1239		two	1498	TWO		pas	p a s
+611267	643954	hubercolumbian-Chapalaachi	chac1249		two	1498	TWO		palʲu	p a lʲ u
+611283	643970	hubercolumbian-Guambiano	guam1248		two	1498	TWO		pa	p a
+611313	644000	hubercolumbian-Totoro	toto1306		two	1498	TWO		pa	p a
+611314	644001	hubercolumbian-TsafiquiPila	colo1256		two	1498	TWO		palu	p a l u
+621159	653847	hubercolumbian-Awa	awac1239		vomit	1278	VOMIT		kwatana	k w a t a n a
+621168	653856	hubercolumbian-Chapalaachi	chac1249		vomit	1278	VOMIT		kaʧakenu	k a tʃ a k e n u
+621181	653869	hubercolumbian-Guambiano	guam1248		vomit	1278	VOMIT		nuɲip	n u ɲ i p
+621208	653896	hubercolumbian-Totoro	toto1306		vomit	1278	VOMIT		nonap	n o n a p
+621209	653897	hubercolumbian-TsafiquiPila	colo1256		vomit	1278	VOMIT		katsa ke	k a ts a + k e
+624737	677398	hubercolumbian-Awa	awac1239		where	1237	WHERE		mi̵nta	m ɨ n t a
+624749	677410	hubercolumbian-Chapalaachi	chac1249		where	1237	WHERE		nukaa	n u k aː
+624766	677427	hubercolumbian-Guambiano	guam1248		where	1237	WHERE		ʧu	tʃ u
+624802	677463	hubercolumbian-Totoro	toto1306		where	1237	WHERE		ʧu	tʃ u
+624803	677464	hubercolumbian-TsafiquiPila	colo1256		where	1237	WHERE		tile	t i l e
+624804	677465	hubercolumbian-TsafiquiPila	colo1256		where	1237	WHERE		nuwiri	n u w i r i
+627106	679767	hubercolumbian-Awa	awac1239		white	1335	WHITE		puʧã	p u tʃ ã
+627115	679776	hubercolumbian-Chapalaachi	chac1249		white	1335	WHITE		fibaba	f i b a b a
+627134	679795	hubercolumbian-Guambiano	guam1248		white	1335	WHITE		puli̵	p u l ɨ
+627164	679825	hubercolumbian-Totoro	toto1306		white	1335	WHITE		polik	p o l i k
+627165	679826	hubercolumbian-TsafiquiPila	colo1256		white	1335	WHITE		fiban	f i b a n
+629560	682313	hubercolumbian-Awa	awac1239		who	1235	WHO		mi̵n	m ɨ n
+629575	682328	hubercolumbian-Chapalaachi	chac1249		who	1235	WHO		mun	m u n
+629591	682344	hubercolumbian-Guambiano	guam1248		who	1235	WHO		mu	m u
+629630	682383	hubercolumbian-Totoro	toto1306		who	1235	WHO		mogi̵	m o g ɨ
+629631	682384	hubercolumbian-TsafiquiPila	colo1256		who	1235	WHO		mo	m o
+631363	684117	hubercolumbian-Awa	awac1239		wide	1243	WIDE		aiʧ	a i tʃ
+631371	684125	hubercolumbian-Chapalaachi	chac1249		wide	1243	WIDE		buŋgu	b u ŋ g u
+631385	684139	hubercolumbian-Guambiano	guam1248		wide	1243	WIDE		lenti̵	l e n t ɨ
+631413	684167	hubercolumbian-Totoro	toto1306		wide	1243	WIDE		kwaliktik	k w a l i k t i k
+631414	684168	hubercolumbian-TsafiquiPila	colo1256		wide	1243	WIDE		helelen	h e l e l e n
+631415	684169	hubercolumbian-TsafiquiPila	colo1256		wide	1243	WIDE		wa foro	w a + f o r o
+632882	685636	hubercolumbian-Awa	awac1239		wife	1199	WIFE		ap aʃampa	a p + a ʃ a m p a
+632891	685645	hubercolumbian-Chapalaachi	chac1249		wife	1199	WIFE		jaʔ ʃinbu	j a ʔ + ʃ i n b u
+632906	685660	hubercolumbian-Guambiano	guam1248		wife	1199	WIFE		ɕaĩ	ɕ a ĩ
+632938	685692	hubercolumbian-Totoro	toto1306		wife	1199	WIFE		ɕali̵	ɕ a l ɨ
+632939	685693	hubercolumbian-TsafiquiPila	colo1256		wife	1199	WIFE		sona	s o n a
+634947	687701	hubercolumbian-Awa	awac1239		wind	960	WIND		ingwa	i n g w a
+634956	687710	hubercolumbian-Chapalaachi	chac1249		wind	960	WIND		iʃuhua	i ʃ u h u a
+634973	687727	hubercolumbian-Guambiano	guam1248		wind	960	WIND		isik	i s i k
+635002	687756	hubercolumbian-Totoro	toto1306		wind	960	WIND		isik	i s i k
+635003	687757	hubercolumbian-TsafiquiPila	colo1256		wind	960	WIND		wu	w u
+637081	689835	hubercolumbian-Awa	awac1239		wing	1257	WING		ilʧap	i l tʃ a p
+637089	689843	hubercolumbian-Chapalaachi	chac1249		wing	1257	WING		haʔʧi	h a ʔ tʃ i
+637103	689857	hubercolumbian-Guambiano	guam1248		wing	1257	WING		kwal tsarik	k w a l + ts a r i k
+637134	689888	hubercolumbian-TsafiquiPila	colo1256		wing	1257	WING		panpe	p a n p e
+638831	691585	hubercolumbian-Awa	awac1239		with	1340	WITH		kasa	k a s a
+638837	691591	hubercolumbian-Chapalaachi	chac1249		with	1340	WITH		ʧi	tʃ i
+638838	691592	hubercolumbian-Chapalaachi	chac1249		with	1340	WITH		ba	b a
+638856	691610	hubercolumbian-Guambiano	guam1248		with	1340	WITH		pa	p a
+638891	691645	hubercolumbian-Totoro	toto1306		with	1340	WITH		ʧini̵βa	tʃ i n ɨ β a
+638892	691646	hubercolumbian-TsafiquiPila	colo1256		with	1340	WITH		be	b e
+638893	691647	hubercolumbian-TsafiquiPila	colo1256		with	1340	WITH		tsi	ts i
+639951	692706	hubercolumbian-Awa	awac1239		woman	962	WOMAN		aʃampa	a ʃ a m p a
+639959	692714	hubercolumbian-Chapalaachi	chac1249		woman	962	WOMAN		ʃinbu	ʃ i n b u
+639974	692729	hubercolumbian-Guambiano	guam1248		woman	962	WOMAN		iʃuk	i ʃ u k
+640009	692764	hubercolumbian-Totoro	toto1306		woman	962	WOMAN		iʃuk	i ʃ u k
+640010	692765	hubercolumbian-TsafiquiPila	colo1256		woman	962	WOMAN		sona	s o n a
+644309	697064	hubercolumbian-Awa	awac1239		worm	1219	WORM		pwil	p w i l
+644324	697079	hubercolumbian-Chapalaachi	chac1249		worm	1219	WORM		malʲu	m a lʲ u
+644343	697098	hubercolumbian-Guambiano	guam1248		worm	1219	WORM		kuʃi	k u ʃ i
+644375	697130	hubercolumbian-Totoro	toto1306		worm	1219	WORM		kuʃi	k u ʃ i
+644376	697131	hubercolumbian-Totoro	toto1306		worm	1219	WORM		olpiʃ piri̵	o l p i ʃ + p i r ɨ
+644377	697132	hubercolumbian-TsafiquiPila	colo1256		worm	1219	WORM		malun	m a l u n
+651572	705412	hubercolumbian-Awa	awac1239		you	1213	YOU		u	u
+651581	705421	hubercolumbian-Chapalaachi	chac1249		you	1213	YOU		ɲulʲa	ɲ u lʲ a
+651595	705435	hubercolumbian-Guambiano	guam1248		you	1213	YOU		ɲim	ɲ i m
+651628	705468	hubercolumbian-Totoro	toto1306		you	1213	YOU		ɲim	ɲ i m
+651629	705469	hubercolumbian-TsafiquiPila	colo1256		you	1213	YOU		nula	n u l a

@@ -1,0 +1,368 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+442	16593	constenlachibchan-Cacaopera	caca1247		at	1461	AT		m	m
+447	16598	constenlachibchan-Mayangna	maya1285		at	1461	AT		kat	k a t
+453	16604	constenlachibchan-Ulwa	ulwa1239		at	1461	AT		kat	k a t
+3940	20091	johanssonsoundsymbolic-Miskito	misk1235		back	1291	BACK		won_nina	w o n + n i n a
+4815	20966	constenlachibchan-Cacaopera	caca1247		bad	1292	BAD		jamua	j a m u a
+4820	20971	constenlachibchan-Mayangna	maya1285		bad	1292	BAD		dutni	d u t n i
+4826	20977	constenlachibchan-Ulwa	ulwa1239		bad	1292	BAD		dutka	d u t k a
+5058	21209	johanssonsoundsymbolic-Miskito	misk1235		bad	1292	BAD		saura	s a u r a
+8673	24824	constenlachibchan-Cacaopera	caca1247		bark	1204	BARK		kuta	k u t a
+8678	24829	constenlachibchan-Mayangna	maya1285		bark	1204	BARK		utak	u t a k
+8684	24835	constenlachibchan-Ulwa	ulwa1239		bark	1204	BARK		utak	u t a k
+8893	25044	johanssonsoundsymbolic-Miskito	misk1235		bark	1204	BARK		dus_taya	d u s + t a y a
+13034	29185	johanssonsoundsymbolic-Miskito	misk1235		bealive	1422	BE ALIVE		iwaia	i w a i a
+16348	32499	johanssonsoundsymbolic-Miskito	misk1235		because	1157	BECAUSE		baxamna	b a x a m n a
+22934	39085	johanssonsoundsymbolic-Miskito	misk1235		belly	1251	BELLY		won_biara	w o n + b i a r a
+27627	43778	constenlachibchan-Cacaopera	caca1247		big	1202	BIG		bajaka	b a j a k a
+27632	43783	constenlachibchan-Mayangna	maya1285		big	1202	BIG		nuhni	n u h n i
+27638	43789	constenlachibchan-Ulwa	ulwa1239		big	1202	BIG		sikka	s i k a
+27977	44128	johanssonsoundsymbolic-Miskito	misk1235		big	1202	BIG		tara	t a r a
+30030	46181	constenlachibchan-Cacaopera	caca1247		bird	937	BIRD		wasiri	w a s i r i
+30035	46186	constenlachibchan-Mayangna	maya1285		bird	937	BIRD		uhbin	u h b i n
+30041	46192	constenlachibchan-Ulwa	ulwa1239		bird	937	BIRD		di: baka	d iː + b a k a
+30359	46510	johanssonsoundsymbolic-Miskito	misk1235		bird	937	BIRD		tnawira	t n a w i r a
+32362	48513	constenlachibchan-Cacaopera	caca1247		bite	1403	BITE		api	a p i
+32367	48518	constenlachibchan-Mayangna	maya1285		bite	1403	BITE		kas	k a s
+32373	48524	constenlachibchan-Ulwa	ulwa1239		bite	1403	BITE		kas	k a s
+32710	48861	johanssonsoundsymbolic-Miskito	misk1235		bite	1403	BITE		samaia	s a m a i a
+35014	51165	constenlachibchan-Cacaopera	caca1247		black	163	BLACK		mulka	m u l k a
+35019	51170	constenlachibchan-Mayangna	maya1285		black	163	BLACK		sa:ni	s aː n i
+35025	51176	constenlachibchan-Ulwa	ulwa1239		black	163	BLACK		baraska	b a r a s k a
+35324	51475	johanssonsoundsymbolic-Miskito	misk1235		black	163	BLACK		siksa	s i k s a
+38448	54599	constenlachibchan-Cacaopera	caca1247		blood	946	BLOOD		aru	a r u
+38453	54604	constenlachibchan-Mayangna	maya1285		blood	946	BLOOD		a:	aː
+38459	54610	constenlachibchan-Ulwa	ulwa1239		blood	946	BLOOD		a:was	aː w a s
+38737	54888	johanssonsoundsymbolic-Miskito	misk1235		blood	946	BLOOD		baxanak	b a x a n a k
+40950	57101	johanssonsoundsymbolic-Miskito	misk1235		blowofwind	175	BLOW (OF WIND)		won_wiŋka_pubaia	w o n + w i ŋ k a + p u b a i a
+43128	59279	johanssonsoundsymbolic-Miskito	misk1235		blunt	379	BLUNT		tuŋkuu	t u ŋ k uː
+46662	62813	constenlachibchan-Cacaopera	caca1247		bone	1394	BONE		naman	n a m a n
+46667	62818	constenlachibchan-Mayangna	maya1285		bone	1394	BONE		wakal	w a k a l
+46673	62824	constenlachibchan-Ulwa	ulwa1239		bone	1394	BONE		wakal	w a k a l
+46964	63115	johanssonsoundsymbolic-Miskito	misk1235		bone	1394	BONE		won_dusa	w o n + d u s a
+58969	75122	johanssonsoundsymbolic-Miskito	misk1235		breathe	1407	BREATHE		won_wiŋka_aubaia	w o n + w i ŋ k a + a u b a i a
+91335	107488	constenlachibchan-Cacaopera	caca1247		cloud	1489	CLOUD		amu	a m u
+91340	107493	constenlachibchan-Mayangna	maya1285		cloud	1489	CLOUD		mukus	m u k u s
+91346	107499	constenlachibchan-Ulwa	ulwa1239		cloud	1489	CLOUD		mukus	m u k u s
+91657	107810	johanssonsoundsymbolic-Miskito	misk1235		cloud	1489	CLOUD		kasbrika	k a s b r i k a
+98553	114706	constenlachibchan-Cacaopera	caca1247		come	1446	COME		ajra	a j r a
+98558	114711	constenlachibchan-Mayangna	maya1285		come	1446	COME		ajwa	a j w a
+98564	114717	constenlachibchan-Ulwa	ulwa1239		come	1446	COME		ajwa	a j w a
+98903	115056	johanssonsoundsymbolic-Miskito	misk1235		come	1446	COME		balaia	b a l a i a
+104940	121093	johanssonsoundsymbolic-Miskito	misk1235		correctright	1725	CORRECT (RIGHT)		aixkika	a i x k i k a
+114977	131130	constenlachibchan-Cacaopera	caca1247		cut	1432	CUT		kat	k a t
+114982	131135	constenlachibchan-Mayangna	maya1285		cut	1432	CUT		dak	d a k
+114988	131141	constenlachibchan-Ulwa	ulwa1239		cut	1432	CUT		dak	d a k
+121844	137999	johanssonsoundsymbolic-Miskito	misk1235		daynotnight	1225	DAY (NOT NIGHT)		kakna	k a k n a
+127126	143281	johanssonsoundsymbolic-Miskito	misk1235		die	1494	DIE		pruaia	p r u a i a
+131763	147918	johanssonsoundsymbolic-Miskito	misk1235		dirty	1230	DIRTY		taski	t a s k i
+135369	151524	constenlachibchan-Cacaopera	caca1247		dog	2009	DOG		alu	a l u
+135374	151529	constenlachibchan-Mayangna	maya1285		dog	2009	DOG		sulu	s u l u
+135380	151535	constenlachibchan-Ulwa	ulwa1239		dog	2009	DOG		sulu	s u l u
+141835	157990	constenlachibchan-Cacaopera	caca1247		drink	1401	DRINK		dipa	d i p a
+141840	157995	constenlachibchan-Mayangna	maya1285		drink	1401	DRINK		di	d i
+141846	158001	constenlachibchan-Ulwa	ulwa1239		drink	1401	DRINK		di	d i
+142143	158298	johanssonsoundsymbolic-Miskito	misk1235		drink	1401	DRINK		diaia	d i a i a
+145468	161623	constenlachibchan-Cacaopera	caca1247		dry	1398	DRY		sama	s a m a
+145473	161628	constenlachibchan-Mayangna	maya1285		dry	1398	DRY		buhni	b u h n i
+145479	161634	constenlachibchan-Ulwa	ulwa1239		dry	1398	DRY		buhka	b u h k a
+145780	161935	johanssonsoundsymbolic-Miskito	misk1235		dry	1398	DRY		buxni	b u x n i
+148758	164913	johanssonsoundsymbolic-Miskito	misk1235		dust	2	DUST		tasba_yuya	t a s b a + y u y a
+150923	167078	constenlachibchan-Cacaopera	caca1247		ear	1247	EAR		tupa	t u p a
+150928	167083	constenlachibchan-Mayangna	maya1285		ear	1247	EAR		tapa	t a p a
+150934	167089	constenlachibchan-Ulwa	ulwa1239		ear	1247	EAR		tapa	t a p a
+151221	167376	johanssonsoundsymbolic-Miskito	misk1235		ear	1247	EAR		won_kiama	w o n + k i a m a
+153895	170050	constenlachibchan-Cacaopera	caca1247		earthsoil	1228	EARTH (SOIL)		duru	d u r u
+153900	170055	constenlachibchan-Mayangna	maya1285		earthsoil	1228	EARTH (SOIL)		saw	s a w
+153906	170061	constenlachibchan-Ulwa	ulwa1239		earthsoil	1228	EARTH (SOIL)		saw	s a w
+154141	170296	johanssonsoundsymbolic-Miskito	misk1235		earthsoil	1228	EARTH (SOIL)		tasba	t a s b a
+156398	172553	constenlachibchan-Cacaopera	caca1247		eat	1336	EAT		duri	d u r i
+156403	172558	constenlachibchan-Mayangna	maya1285		eat	1336	EAT		kas	k a s
+156409	172564	constenlachibchan-Ulwa	ulwa1239		eat	1336	EAT		kas	k a s
+156743	172898	johanssonsoundsymbolic-Miskito	misk1235		eat	1336	EAT		piaia	p i a i a
+159051	175209	johanssonsoundsymbolic-Miskito	misk1235		egg	744	EGG		mabra	m a b r a
+169304	185462	constenlachibchan-Cacaopera	caca1247		eye	1248	EYE		kunn	k u n
+169309	185467	constenlachibchan-Mayangna	maya1285		eye	1248	EYE		makpa	m a k p a
+169315	185473	constenlachibchan-Ulwa	ulwa1239		eye	1248	EYE		makdaka	m a k d a k a
+169624	185782	johanssonsoundsymbolic-Miskito	misk1235		eye	1248	EYE		won_nakra	w o n + n a k r a
+173377	189536	constenlachibchan-Cacaopera	caca1247		fall	1280	FALL		winwa'jam	w i n w a j a m
+173382	189541	constenlachibchan-Mayangna	maya1285		fall	1280	FALL		buk	b u k
+173388	189547	constenlachibchan-Ulwa	ulwa1239		fall	1280	FALL		wauhda	w a u h d a
+173627	189786	johanssonsoundsymbolic-Miskito	misk1235		fall	1280	FALL		kauxaia	k a u x a i a
+175598	191757	constenlachibchan-Cacaopera	caca1247		far	1406	FAR		ataptika	a t a p t i k a
+175603	191762	constenlachibchan-Mayangna	maya1285		far	1406	FAR		nai	n a i
+175609	191768	constenlachibchan-Ulwa	ulwa1239		far	1406	FAR		bai	b a i
+175897	192056	johanssonsoundsymbolic-Miskito	misk1235		far	1406	FAR		laiura	l a i u r a
+179504	195663	constenlachibchan-Cacaopera	caca1247		father	1217	FATHER		wapa	w a p a
+179509	195668	constenlachibchan-Mayangna	maya1285		father	1217	FATHER		papaŋ	p a p a ŋ
+179515	195674	constenlachibchan-Ulwa	ulwa1239		father	1217	FATHER		papaŋ	p a p a ŋ
+184772	200932	constenlachibchan-Cacaopera	caca1247		feather	1201	FEATHER		diju	d i j u
+184777	200937	constenlachibchan-Mayangna	maya1285		feather	1201	FEATHER		butu	b u t u
+184783	200943	constenlachibchan-Ulwa	ulwa1239		feather	1201	FEATHER		butu	b u t u
+184946	201106	johanssonsoundsymbolic-Miskito	misk1235		feather	1201	FEATHER		tnawira_taya	t n a w i r a + t a y a
+189697	222350	constenlachibchan-Cacaopera	caca1247		flower	239	FLOWER		bas	b a s
+189702	222355	constenlachibchan-Mayangna	maya1285		flower	239	FLOWER		pulu	p u l u
+189708	222361	constenlachibchan-Ulwa	ulwa1239		flower	239	FLOWER		pulu	p u l u
+189979	222632	johanssonsoundsymbolic-Miskito	misk1235		flower	239	FLOWER		taŋni	t a ŋ n i
+192899	225552	johanssonsoundsymbolic-Miskito	misk1235		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		kukas	k u k a s
+195937	228590	constenlachibchan-Cacaopera	caca1247		foot	1301	FOOT		si'lin	s i l i n
+195942	228595	constenlachibchan-Mayangna	maya1285		foot	1301	FOOT		kal	k a l
+195948	228601	constenlachibchan-Ulwa	ulwa1239		foot	1301	FOOT		kal	k a l
+196221	228874	johanssonsoundsymbolic-Miskito	misk1235		foot	1301	FOOT		won_mina	w o n + m i n a
+199528	232181	constenlachibchan-Cacaopera	caca1247		forest	420	FOREST		jura	j u r a
+199533	232186	constenlachibchan-Mayangna	maya1285		forest	420	FOREST		asaŋpas	a s a ŋ p a s
+199539	232192	constenlachibchan-Ulwa	ulwa1239		forest	420	FOREST		asaŋpas	a s a ŋ p a s
+202274	234927	constenlachibchan-Cacaopera	caca1247		four	1500	FOUR		butaru	b u t a r u
+202279	234932	constenlachibchan-Mayangna	maya1285		four	1500	FOUR		arunka	a r u n k a
+202285	234938	constenlachibchan-Ulwa	ulwa1239		four	1500	FOUR		arunka	a r u n k a
+202554	235207	johanssonsoundsymbolic-Miskito	misk1235		four	1500	FOUR		aksuk	a k s u k
+214332	246985	constenlachibchan-Cacaopera	caca1247		give	1447	GIVE		a	a
+214337	246990	constenlachibchan-Mayangna	maya1285		give	1447	GIVE		a:	aː
+214343	246996	constenlachibchan-Ulwa	ulwa1239		give	1447	GIVE		a:	aː
+214652	247305	johanssonsoundsymbolic-Miskito	misk1235		give	1447	GIVE		yabaia	j a b a i a
+220448	253104	constenlachibchan-Cacaopera	caca1247		good	1035	GOOD		kua	k u a
+220453	253109	constenlachibchan-Mayangna	maya1285		good	1035	GOOD		jamni	j a m n i
+220459	253115	constenlachibchan-Ulwa	ulwa1239		good	1035	GOOD		jamka	j a m k a
+220781	253437	johanssonsoundsymbolic-Miskito	misk1235		good	1035	GOOD		yamni	j a m n i
+226219	258875	johanssonsoundsymbolic-Miskito	misk1235		grass	606	GRASS		intawaxya	i n t a w a x y a
+228322	260978	constenlachibchan-Cacaopera	caca1247		green	1425	GREEN		sasaka	s a s a k a
+228327	260983	constenlachibchan-Mayangna	maya1285		green	1425	GREEN		saŋni	s a ŋ n i
+228333	260989	constenlachibchan-Ulwa	ulwa1239		green	1425	GREEN		saŋka	s a ŋ k a
+228569	261225	johanssonsoundsymbolic-Miskito	misk1235		green	1425	GREEN		siakni	s i a k n i
+233484	266140	constenlachibchan-Cacaopera	caca1247		guts	1334	GUTS		jusilin	j u s i l i n
+233489	266145	constenlachibchan-Mayangna	maya1285		guts	1334	GUTS		ba	b a
+233495	266151	constenlachibchan-Ulwa	ulwa1239		guts	1334	GUTS		ba	b a
+234422	267078	constenlachibchan-Cacaopera	caca1247		hair	1040	HAIR		kili	k i l i
+234427	267083	constenlachibchan-Mayangna	maya1285		hair	1040	HAIR		bas	b a s
+234433	267089	constenlachibchan-Ulwa	ulwa1239		hair	1040	HAIR		bas	b a s
+234582	267238	johanssonsoundsymbolic-Miskito	misk1235		hair	1040	HAIR		won_tawa	w o n + t a w a
+238115	270771	constenlachibchan-Cacaopera	caca1247		hand	1277	HAND		panam	p a n a m
+238120	270776	constenlachibchan-Mayangna	maya1285		hand	1277	HAND		tin	t i n
+238126	270782	constenlachibchan-Ulwa	ulwa1239		hand	1277	HAND		tin	t i n
+238424	271080	johanssonsoundsymbolic-Miskito	misk1235		hand	1277	HAND		won_mita	w o n + m i t a
+242598	275255	constenlachibchan-Cacaopera	caca1247		he	1211	HE		'karahi	k a r a h i
+242603	275260	constenlachibchan-Mayangna	maya1285		he	1211	HE		witiŋ	w i t i ŋ
+242609	275266	constenlachibchan-Ulwa	ulwa1239		he	1211	HE		alas	a l a s
+243685	276342	constenlachibchan-Cacaopera	caca1247		head	1256	HEAD		wara	w a r a
+243690	276347	constenlachibchan-Mayangna	maya1285		head	1256	HEAD		tun	t u n
+243696	276353	constenlachibchan-Ulwa	ulwa1239		head	1256	HEAD		tun	t u n
+243978	276635	johanssonsoundsymbolic-Miskito	misk1235		head	1256	HEAD		won_lal	w o n + l a l
+246645	279302	constenlachibchan-Cacaopera	caca1247		hear	1408	HEAR		ara	a r a
+246650	279307	constenlachibchan-Mayangna	maya1285		hear	1408	HEAR		daka	d a k a
+246656	279313	constenlachibchan-Ulwa	ulwa1239		hear	1408	HEAR		daka	d a k a
+246917	279574	johanssonsoundsymbolic-Miskito	misk1235		hear	1408	HEAR		walaia	w a l a i a
+248506	281163	johanssonsoundsymbolic-Miskito	misk1235		heart	1223	HEART		won_kupya	w o n + k u p y a
+250385	283042	constenlachibchan-Cacaopera	caca1247		heavy	1210	HEAVY		wim	w i m
+250390	283047	constenlachibchan-Mayangna	maya1285		heavy	1210	HEAVY		tihni	t i h n i
+250395	283052	constenlachibchan-Ulwa	ulwa1239		heavy	1210	HEAVY		ti:ka	t iː k a
+250676	283333	johanssonsoundsymbolic-Miskito	misk1235		heavy	1210	HEAVY		wira	w i r a
+254504	287163	johanssonsoundsymbolic-Miskito	misk1235		here	136	HERE		nara	n a r a
+258617	291277	constenlachibchan-Cacaopera	caca1247		hit	1433	HIT		du	d u
+258622	291282	constenlachibchan-Mayangna	maya1285		hit	1433	HIT		bau	b a u
+258628	291288	constenlachibchan-Ulwa	ulwa1239		hit	1433	HIT		bau	b a u
+258756	291416	johanssonsoundsymbolic-Miskito	misk1235		hit	1433	HIT		prukaia_kaŋbaia	p r u k a i a + k a ŋ b a i a
+268885	301545	johanssonsoundsymbolic-Miskito	misk1235		how	1239	HOW		naxki	n a x k i
+274475	307135	constenlachibchan-Cacaopera	caca1247		i	1209	I		jami	j a m i
+274480	307140	constenlachibchan-Mayangna	maya1285		i	1209	I		jaŋ	j a ŋ
+274486	307146	constenlachibchan-Ulwa	ulwa1239		i	1209	I		jaŋ	j a ŋ
+274730	307390	johanssonsoundsymbolic-Miskito	misk1235		i	1209	I		yaŋ	j a ŋ
+276788	309448	johanssonsoundsymbolic-Miskito	misk1235		if	1459	IF		kaka	k a k a
+278063	310723	johanssonsoundsymbolic-Miskito	misk1235		in	1460	IN		ra	r a
+287291	319951	constenlachibchan-Cacaopera	caca1247		kill	1417	KILL		kulina	k u l i n a
+287296	319956	constenlachibchan-Mayangna	maya1285		kill	1417	KILL		i:	iː
+287302	319962	constenlachibchan-Ulwa	ulwa1239		kill	1417	KILL		i:	iː
+287572	320232	johanssonsoundsymbolic-Miskito	misk1235		kill	1417	KILL		ikaia	i k a i a
+294231	326891	constenlachibchan-Cacaopera	caca1247		knowsomething	1410	KNOW (SOMETHING)		bi	b i
+294236	326896	constenlachibchan-Mayangna	maya1285		knowsomething	1410	KNOW (SOMETHING)		daka	d a k a
+294242	326902	constenlachibchan-Ulwa	ulwa1239		knowsomething	1410	KNOW (SOMETHING)		kaŋla:wa	k a ŋ l aː w a
+298849	331509	constenlachibchan-Cacaopera	caca1247		laugh	1355	LAUGH		isnawa	i s n a w a
+298854	331514	constenlachibchan-Mayangna	maya1285		laugh	1355	LAUGH		aɾa	a ɾ a
+298860	331520	constenlachibchan-Ulwa	ulwa1239		laugh	1355	LAUGH		kawaɾa	k a w a ɾ a
+299053	331713	johanssonsoundsymbolic-Miskito	misk1235		laugh	1355	LAUGH		kikaia	k i k a i a
+301884	334544	constenlachibchan-Cacaopera	caca1247		leaf	628	LEAF		taka	t a k a
+301889	334549	constenlachibchan-Mayangna	maya1285		leaf	628	LEAF		bas	b a s
+301895	334555	constenlachibchan-Ulwa	ulwa1239		leaf	628	LEAF		bas	b a s
+302210	334870	johanssonsoundsymbolic-Miskito	misk1235		leaf	628	LEAF		waxya	w a x y a
+305317	337977	johanssonsoundsymbolic-Miskito	misk1235		left	244	LEFT		smixka	s m i x k a
+306198	338858	constenlachibchan-Cacaopera	caca1247		leg	1297	LEG		sulm	s u l m
+306203	338863	constenlachibchan-Mayangna	maya1285		leg	1297	LEG		barahmak	b a r a h m a k
+306209	338869	constenlachibchan-Ulwa	ulwa1239		leg	1297	LEG		kalba	k a l b a
+316727	349387	constenlachibchan-Cacaopera	caca1247		liver	1224	LIVER		kawa	k a w a
+316732	349392	constenlachibchan-Mayangna	maya1285		liver	1224	LIVER		isiŋ	i s i ŋ
+316738	349398	constenlachibchan-Ulwa	ulwa1239		liver	1224	LIVER		asuŋ	a s u ŋ
+316974	349634	johanssonsoundsymbolic-Miskito	misk1235		liver	1224	LIVER		won_auya	w o n + a u y a
+319596	352256	constenlachibchan-Cacaopera	caca1247		long	1203	LONG		wisnika	w i s n i k a
+319601	352261	constenlachibchan-Mayangna	maya1285		long	1203	LONG		najni	n a j n i
+319607	352267	constenlachibchan-Ulwa	ulwa1239		long	1203	LONG		juhka	j u h k a
+319868	352528	johanssonsoundsymbolic-Miskito	misk1235		long	1203	LONG		yarika	j a r i k a
+323512	356172	johanssonsoundsymbolic-Miskito	misk1235		louse	1392	LOUSE		kxua	k x u a
+332306	364967	johanssonsoundsymbolic-Miskito	misk1235		many	1198	MANY		manas	m a n a s
+349059	381720	constenlachibchan-Cacaopera	caca1247		mother	1216	MOTHER		ami	a m i
+349064	381725	constenlachibchan-Mayangna	maya1285		mother	1216	MOTHER		itaŋ	i t a ŋ
+349070	381731	constenlachibchan-Ulwa	ulwa1239		mother	1216	MOTHER		itaŋ	i t a ŋ
+350657	383321	constenlachibchan-Cacaopera	caca1247		mountain	639	MOUNTAIN		karan	k a r a n
+350662	383326	constenlachibchan-Mayangna	maya1285		mountain	639	MOUNTAIN		asaŋ	a s a ŋ
+350668	383332	constenlachibchan-Ulwa	ulwa1239		mountain	639	MOUNTAIN		asaŋ	a s a ŋ
+350948	383612	johanssonsoundsymbolic-Miskito	misk1235		mountain	639	MOUNTAIN		il_tara	i l + t a r a
+353186	385850	constenlachibchan-Cacaopera	caca1247		mouth	674	MOUTH		tawa	t a w a
+353191	385855	constenlachibchan-Mayangna	maya1285		mouth	674	MOUTH		tapas	t a p a s
+353197	385861	constenlachibchan-Ulwa	ulwa1239		mouth	674	MOUTH		tapas	t a p a s
+353462	386126	johanssonsoundsymbolic-Miskito	misk1235		mouth	674	MOUTH		won_bila	w o n + b i l a
+358480	391144	johanssonsoundsymbolic-Miskito	misk1235		name	1405	NAME		nina	n i n a
+360376	393042	johanssonsoundsymbolic-Miskito	misk1235		narrow	1267	NARROW		lamara	l a m a r a
+363026	395692	johanssonsoundsymbolic-Miskito	misk1235		near	1942	NEAR		lamara	l a m a r a
+364451	397118	constenlachibchan-Cacaopera	caca1247		neck	1333	NECK		tsaw	t s a w
+364456	397123	constenlachibchan-Mayangna	maya1285		neck	1333	NECK		dimak	d i m a k
+364462	397129	constenlachibchan-Ulwa	ulwa1239		neck	1333	NECK		ma:mak	m aː m a k
+364765	397432	johanssonsoundsymbolic-Miskito	misk1235		neck	1333	NECK		won_nana	w o n + n a n a
+368521	401188	constenlachibchan-Cacaopera	caca1247		new	1231	NEW		misinan	m i s i n a n
+368526	401193	constenlachibchan-Mayangna	maya1285		new	1231	NEW		wisam	w i s a m
+368532	401199	constenlachibchan-Ulwa	ulwa1239		new	1231	NEW		bata:ka	b a t aː k a
+368822	401489	johanssonsoundsymbolic-Miskito	misk1235		new	1231	NEW		raya	r a y a
+371275	403942	constenlachibchan-Cacaopera	caca1247		night	1233	NIGHT		iran	i r a n
+371280	403947	constenlachibchan-Mayangna	maya1285		night	1233	NIGHT		pukta	p u k t a
+371286	403953	constenlachibchan-Ulwa	ulwa1239		night	1233	NIGHT		pukka	p u k a
+371603	404270	johanssonsoundsymbolic-Miskito	misk1235		night	1233	NIGHT		timia	t i m i a
+377111	409778	constenlachibchan-Cacaopera	caca1247		nose	1221	NOSE		namn	n a m n
+377116	409783	constenlachibchan-Mayangna	maya1285		nose	1221	NOSE		nam	n a m
+377122	409789	constenlachibchan-Ulwa	ulwa1239		nose	1221	NOSE		nantak	n a n t a k
+377421	410088	johanssonsoundsymbolic-Miskito	misk1235		nose	1221	NOSE		won_kakma	w o n + k a k m a
+379012	411679	johanssonsoundsymbolic-Miskito	misk1235		not	1240	NOT		apia	a p i a
+383325	415992	constenlachibchan-Cacaopera	caca1247		old	1229	OLD		uskam	u s k a m
+383330	415997	constenlachibchan-Mayangna	maya1285		old	1229	OLD		umani	u m a n i
+383336	416003	constenlachibchan-Ulwa	ulwa1239		old	1229	OLD		umana	u m a n a
+389371	422038	constenlachibchan-Cacaopera	caca1247		one	1493	ONE		bas	b a s
+389376	422043	constenlachibchan-Mayangna	maya1285		one	1493	ONE		as	a s
+389382	422049	constenlachibchan-Ulwa	ulwa1239		one	1493	ONE		as	a s
+389718	422385	johanssonsoundsymbolic-Miskito	misk1235		one	1493	ONE		kum	k u m
+393745	426412	johanssonsoundsymbolic-Miskito	misk1235		other	197	OTHER		wala	w a l a
+406237	438904	johanssonsoundsymbolic-Miskito	misk1235		person	683	PERSON		ulpa	u l p a
+432169	464837	constenlachibchan-Cacaopera	caca1247		red	156	RED		lala	l a l a
+432174	464842	constenlachibchan-Mayangna	maya1285		red	156	RED		pawni	p a w n i
+432180	464848	constenlachibchan-Ulwa	ulwa1239		red	156	RED		pawka	p a w k a
+432506	465174	johanssonsoundsymbolic-Miskito	misk1235		red	156	RED		pauni	p a u n i
+440763	473431	johanssonsoundsymbolic-Miskito	misk1235		river	666	RIVER		awala	a w a l a
+444450	477119	johanssonsoundsymbolic-Miskito	misk1235		root	670	ROOT		plamaya	p l a m a y a
+447994	480663	johanssonsoundsymbolic-Miskito	misk1235		rotten	1728	ROTTEN		aisauan	a i s a u a n
+453548	486217	constenlachibchan-Cacaopera	caca1247		salt	1274	SALT		jabulu	j a b u l u
+453553	486222	constenlachibchan-Mayangna	maya1285		salt	1274	SALT		kuma	k u m a
+453559	486228	constenlachibchan-Ulwa	ulwa1239		salt	1274	SALT		kuma	k u m a
+456120	488789	constenlachibchan-Cacaopera	caca1247		sand	671	SAND		kui	k u i
+456125	488794	constenlachibchan-Mayangna	maya1285		sand	671	SAND		kauhmak	k a u h m a k
+456131	488800	constenlachibchan-Ulwa	ulwa1239		sand	671	SAND		ka:uhmak	k aː u h m a k
+456409	489078	johanssonsoundsymbolic-Miskito	misk1235		sand	671	SAND		kabo_auya	k a b o + a u y a
+459110	491779	constenlachibchan-Cacaopera	caca1247		say	1458	SAY		na	n a
+459115	491784	constenlachibchan-Mayangna	maya1285		say	1458	SAY		at	a t
+459121	491790	constenlachibchan-Ulwa	ulwa1239		say	1458	SAY		at	a t
+459374	492043	johanssonsoundsymbolic-Miskito	misk1235		say	1458	SAY		wiaia	w i a i a
+463199	495868	johanssonsoundsymbolic-Miskito	misk1235		sea	1474	SEA		kabo	k a b o
+464769	497439	constenlachibchan-Cacaopera	caca1247		see	1409	SEE		la	l a
+464774	497444	constenlachibchan-Mayangna	maya1285		see	1409	SEE		tal	t a l
+464780	497450	constenlachibchan-Ulwa	ulwa1239		see	1409	SEE		tal	t a l
+465120	497790	johanssonsoundsymbolic-Miskito	misk1235		see	1409	SEE		kaikaia	k a i k a i a
+466681	499351	johanssonsoundsymbolic-Miskito	misk1235		seed	714	SEED		ma	m a
+474979	507650	johanssonsoundsymbolic-Miskito	misk1235		sharp	1396	SHARP		mala	m a l a
+481579	514251	johanssonsoundsymbolic-Miskito	misk1235		short	1645	SHORT		kuŋku	k u ŋ k u
+488236	520908	constenlachibchan-Cacaopera	caca1247		sing	1261	SING		bu	b u
+488241	520913	constenlachibchan-Mayangna	maya1285		sing	1261	SING		umbau	u m b a u
+488247	520919	constenlachibchan-Ulwa	ulwa1239		sing	1261	SING		unbau	u n b a u
+490567	523239	johanssonsoundsymbolic-Miskito	misk1235		sit	1416	SIT		maŋkaia	m a ŋ k a i a
+497129	529801	johanssonsoundsymbolic-Miskito	misk1235		sky	1732	SKY		pura_ba	p u r a + b a
+498990	531662	constenlachibchan-Cacaopera	caca1247		sleep	1585	SLEEP		jabuna	j a b u n a
+498995	531667	constenlachibchan-Mayangna	maya1285		sleep	1585	SLEEP		kami	k a m i
+499001	531673	constenlachibchan-Ulwa	ulwa1239		sleep	1585	SLEEP		ama	a m a
+499317	531989	johanssonsoundsymbolic-Miskito	misk1235		sleep	1585	SLEEP		yapaia	j a p a i a
+502538	535212	constenlachibchan-Cacaopera	caca1247		small	1246	SMALL		tʃiki	tʃ i k i
+502543	535217	constenlachibchan-Mayangna	maya1285		small	1246	SMALL		bi-ni	b i + n i
+502549	535223	constenlachibchan-Ulwa	ulwa1239		small	1246	SMALL		ba-ka	b a + k a
+502901	535575	johanssonsoundsymbolic-Miskito	misk1235		small	1246	SMALL		sirpi	s i r p i
+506912	539588	constenlachibchan-Cacaopera	caca1247		smokeexhaust	778	SMOKE (EXHAUST)		kiba	k i b a
+506917	539593	constenlachibchan-Mayangna	maya1285		smokeexhaust	778	SMOKE (EXHAUST)		wajau	w a j a u
+506923	539599	constenlachibchan-Ulwa	ulwa1239		smokeexhaust	778	SMOKE (EXHAUST)		waju	w a j u
+507223	539899	johanssonsoundsymbolic-Miskito	misk1235		smokeexhaust	778	SMOKE (EXHAUST)		kiasma	k i a s m a
+508680	541356	johanssonsoundsymbolic-Miskito	misk1235		smooth	1234	SMOOTH		swapni	s w a p n i
+509831	542507	constenlachibchan-Cacaopera	caca1247		snake	730	SNAKE		jara	j a r a
+509836	542512	constenlachibchan-Mayangna	maya1285		snake	730	SNAKE		bil	b i l
+509842	542518	constenlachibchan-Ulwa	ulwa1239		snake	730	SNAKE		di:muih	d iː m u i h
+514141	546817	johanssonsoundsymbolic-Miskito	misk1235		some	1241	SOME		kumi	k u m i
+524207	556883	johanssonsoundsymbolic-Miskito	misk1235		spit	1440	SPIT		tubaia	t u b a i a
+530101	562777	johanssonsoundsymbolic-Miskito	misk1235		stand	1442	STAND		buaia	b u a i a
+532358	565034	johanssonsoundsymbolic-Miskito	misk1235		star	1430	STAR		slilma	s l i l m a
+538581	571258	constenlachibchan-Cacaopera	caca1247		stone	857	STONE		apa	a p a
+538586	571263	constenlachibchan-Mayangna	maya1285		stone	857	STONE		ki	k i
+538592	571269	constenlachibchan-Ulwa	ulwa1239		stone	857	STONE		ki	k i
+538901	571578	johanssonsoundsymbolic-Miskito	misk1235		stone	857	STONE		walpa	w a l p a
+541307	573984	johanssonsoundsymbolic-Miskito	misk1235		straight	1404	STRAIGHT		aixkika	a i x k i k a
+546293	578970	johanssonsoundsymbolic-Miskito	misk1235		suck	1421	SUCK		utbaia	u t b a i a
+547949	580626	constenlachibchan-Cacaopera	caca1247		sun	1343	SUN		lan	l a n
+547954	580631	constenlachibchan-Mayangna	maya1285		sun	1343	SUN		ma	m a
+547960	580637	constenlachibchan-Ulwa	ulwa1239		sun	1343	SUN		ma	m a
+548287	580964	johanssonsoundsymbolic-Miskito	misk1235		sun	1343	SUN		lapta_ba	l a p t a + b a
+555316	587993	johanssonsoundsymbolic-Miskito	misk1235		swim	1439	SWIM		yauaia	j a u a i a
+557472	590149	constenlachibchan-Cacaopera	caca1247		tail	1220	TAIL		kuna	k u n a
+557477	590154	constenlachibchan-Mayangna	maya1285		tail	1220	TAIL		mamah	m a m a h
+557483	590160	constenlachibchan-Ulwa	ulwa1239		tail	1220	TAIL		umah	u m a h
+557774	590451	johanssonsoundsymbolic-Miskito	misk1235		tail	1220	TAIL		wuaikai	w u a i k a i
+567161	599840	johanssonsoundsymbolic-Miskito	misk1235		that	78	THAT		baxa	b a x a
+569241	601920	johanssonsoundsymbolic-Miskito	misk1235		there	1937	THERE		bukra	b u k r a
+570713	603392	johanssonsoundsymbolic-Miskito	misk1235		they	817	THEY		witin_nani	w i t i n + n a n i
+572124	604803	johanssonsoundsymbolic-Miskito	misk1235		thick	1244	THICK		twakni	t w a k n i
+573528	606207	johanssonsoundsymbolic-Miskito	misk1235		thin	2308	THIN		tanta	t a n t a
+574954	607633	johanssonsoundsymbolic-Miskito	misk1235		think	2271	THINK		kupia_lukaia	k u p i a + l u k a i a
+577952	610631	constenlachibchan-Cacaopera	caca1247		this	1214	THIS		irahi	i r a h i
+577957	610636	constenlachibchan-Mayangna	maya1285		this	1214	THIS		a:dika	aː d i k a
+577963	610642	constenlachibchan-Ulwa	ulwa1239		this	1214	THIS		a:ka	aː k a
+578250	610929	johanssonsoundsymbolic-Miskito	misk1235		this	1214	THIS		na	n a
+580104	612786	constenlachibchan-Cacaopera	caca1247		thou	1215	THOU		mani	m a n i
+580109	612791	constenlachibchan-Mayangna	maya1285		thou	1215	THOU		man	m a n
+580115	612797	constenlachibchan-Ulwa	ulwa1239		thou	1215	THOU		man	m a n
+580444	613127	johanssonsoundsymbolic-Miskito	misk1235		thou	1215	THOU		man	m a n
+582903	615588	constenlachibchan-Cacaopera	caca1247		three	492	THREE		watba	w a t b a
+582908	615593	constenlachibchan-Mayangna	maya1285		three	492	THREE		bas	b a s
+582914	615599	constenlachibchan-Ulwa	ulwa1239		three	492	THREE		bas	b a s
+583215	615900	johanssonsoundsymbolic-Miskito	misk1235		three	492	THREE		yumpa	j u m p a
+589240	621927	johanssonsoundsymbolic-Miskito	misk1235		tie	1917	TIE		wilkaia	w i l k a i a
+596041	628728	constenlachibchan-Cacaopera	caca1247		tongue	1205	TONGUE		tum	t u m
+596046	628733	constenlachibchan-Mayangna	maya1285		tongue	1205	TONGUE		tu	t u
+596052	628739	constenlachibchan-Ulwa	ulwa1239		tongue	1205	TONGUE		tu	t u
+596338	629025	johanssonsoundsymbolic-Miskito	misk1235		tongue	1205	TONGUE		won_twisa	w o n + t w i s a
+598242	630929	constenlachibchan-Cacaopera	caca1247		tooth	1380	TOOTH		nini	n i n i
+598247	630934	constenlachibchan-Mayangna	maya1285		tooth	1380	TOOTH		ana	a n a
+598253	630940	constenlachibchan-Ulwa	ulwa1239		tooth	1380	TOOTH		ana	a n a
+598517	631204	johanssonsoundsymbolic-Miskito	misk1235		tooth	1380	TOOTH		won_napa	w o n + n a p a
+602591	635278	constenlachibchan-Cacaopera	caca1247		tree	906	TREE		man	m a n
+602596	635283	constenlachibchan-Mayangna	maya1285		tree	906	TREE		pan	p a n
+602602	635289	constenlachibchan-Ulwa	ulwa1239		tree	906	TREE		pan	p a n
+602919	635606	johanssonsoundsymbolic-Miskito	misk1235		tree	906	TREE		dus	d u s
+611077	643764	constenlachibchan-Cacaopera	caca1247		two	1498	TWO		buru	b u r u
+611082	643769	constenlachibchan-Mayangna	maya1285		two	1498	TWO		bu	b u
+611088	643775	constenlachibchan-Ulwa	ulwa1239		two	1498	TWO		bu	b u
+611426	644113	johanssonsoundsymbolic-Miskito	misk1235		two	1498	TWO		wol	w o l
+621305	653993	johanssonsoundsymbolic-Miskito	misk1235		vomit	1278	VOMIT		aikabaia	a i k a b a i a
+624917	677578	johanssonsoundsymbolic-Miskito	misk1235		where	1237	WHERE		anira	a n i r a
+626936	679597	constenlachibchan-Cacaopera	caca1247		white	1335	WHITE		sahu	s a h u
+626941	679602	constenlachibchan-Mayangna	maya1285		white	1335	WHITE		pihni	p i h n i
+626947	679608	constenlachibchan-Ulwa	ulwa1239		white	1335	WHITE		pihka	p i h k a
+627274	679935	johanssonsoundsymbolic-Miskito	misk1235		white	1335	WHITE		pixni	p i x n i
+629740	682493	johanssonsoundsymbolic-Miskito	misk1235		who	1235	WHO		ya	j a
+631500	684254	johanssonsoundsymbolic-Miskito	misk1235		wide	1243	WIDE		bila_tara	b i l a + t a r a
+634805	687559	constenlachibchan-Cacaopera	caca1247		wind	960	WIND		win	w i n
+634810	687564	constenlachibchan-Mayangna	maya1285		wind	960	WIND		win	w i n
+634816	687570	constenlachibchan-Ulwa	ulwa1239		wind	960	WIND		win	w i n
+635110	687864	johanssonsoundsymbolic-Miskito	misk1235		wind	960	WIND		pasa	p a s a
+637234	689988	johanssonsoundsymbolic-Miskito	misk1235		wing	1257	WING		tnawa	t n a w a
+638775	691529	constenlachibchan-Cacaopera	caca1247		with	1340	WITH		tiwa	t i w a
+638780	691534	constenlachibchan-Mayangna	maya1285		with	1340	WITH		karak	k a r a k
+638786	691540	constenlachibchan-Ulwa	ulwa1239		with	1340	WITH		karak	k a r a k
+639760	692515	constenlachibchan-Cacaopera	caca1247		woman	962	WOMAN		juara	j u a r a
+639765	692520	constenlachibchan-Mayangna	maya1285		woman	962	WOMAN		jal	j a l
+639771	692526	constenlachibchan-Ulwa	ulwa1239		woman	962	WOMAN		jal	j a l
+640123	692878	johanssonsoundsymbolic-Miskito	misk1235		woman	962	WOMAN		mairin	m a i r i n
+644233	696988	constenlachibchan-Cacaopera	caca1247		worm	1219	WORM		bil	b i l
+644238	696993	constenlachibchan-Mayangna	maya1285		worm	1219	WORM		ba:bil	b aː b i l
+644244	696999	constenlachibchan-Ulwa	ulwa1239		worm	1219	WORM		bil	b i l
+647866	700621	johanssonsoundsymbolic-Miskito	misk1235		year	1226	YEAR		mani	m a n i
+651537	705377	constenlachibchan-Cacaopera	caca1247		you	1213	YOU		maniwalhi	m a n i w a l h i
+651542	705382	constenlachibchan-Mayangna	maya1285		you	1213	YOU		manna	m a n a
+651548	705388	constenlachibchan-Ulwa	ulwa1239		you	1213	YOU		manna	m a n a
+651741	705581	johanssonsoundsymbolic-Miskito	misk1235		you	1213	YOU		man_nani	m a n + n a n i

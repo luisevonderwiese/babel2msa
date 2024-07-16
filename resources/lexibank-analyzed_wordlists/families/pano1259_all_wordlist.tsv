@@ -1,0 +1,580 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+3880	20031	johanssonsoundsymbolic-Cavinena	cavi1250		back	1291	BACK		ebebakwa	e b e b a k w a
+3961	20112	johanssonsoundsymbolic-PanoanKatukina	pano1254		back	1291	BACK		pɨmana	p ɨ m a n a
+4026	20177	joophonosemantic-ShipiboConibo	ship1254		back	1291	BACK		p.ɯ.k.a	p ɯ k a
+4991	21142	johanssonsoundsymbolic-Cavinena	cavi1250		bad	1292	BAD		hidama	h i d a m a
+5082	21233	johanssonsoundsymbolic-PanoanKatukina	pano1254		bad	1292	BAD		itʃʂapa	i tʃ ʂ a p a
+8833	24984	johanssonsoundsymbolic-Cavinena	cavi1250		bark	1204	BARK		ebiti	e b i t i
+8915	25066	johanssonsoundsymbolic-PanoanKatukina	pano1254		bark	1204	BARK		hiwi_ʃaka	h i w i + ʃ a k a
+12973	29124	johanssonsoundsymbolic-Cavinena	cavi1250		bealive	1422	BE ALIVE		anija	a n i j a
+13057	29208	johanssonsoundsymbolic-PanoanKatukina	pano1254		bealive	1422	BE ALIVE		βopiʔama	β o p i ʔ a m a
+15736	31887	johanssonsoundsymbolic-Cavinena	cavi1250		beautiful	1427	BEAUTIFUL		hidapihi	h i d a p i h i
+15795	31946	johanssonsoundsymbolic-PanoanKatukina	pano1254		beautiful	1427	BEAUTIFUL		ɾoʔapa	ɾ o ʔ a p a
+16307	32458	johanssonsoundsymbolic-Cavinena	cavi1250		because	1157	BECAUSE		ehebotʃahoaco	e h e b o tʃ a h o a c o
+16362	32513	johanssonsoundsymbolic-PanoanKatukina	pano1254		because	1157	BECAUSE		toʃõ	t o ʃ õ
+19224	35375	johanssonsoundsymbolic-Cavinena	cavi1250		before	1882	BEFORE		ikwene	i k w e n e
+19301	35452	johanssonsoundsymbolic-PanoanKatukina	pano1254		before	1882	BEFORE		βɨβo	β ɨ β o
+20462	36613	johanssonsoundsymbolic-Cavinena	cavi1250		behind	1686	BEHIND		topoho	t o p o h o
+20536	36687	johanssonsoundsymbolic-PanoanKatukina	pano1254		behind	1686	BEHIND		ʂipo	ʂ i p o
+22865	39016	johanssonsoundsymbolic-Cavinena	cavi1250		belly	1251	BELLY		edomiti	e d o m i t i
+22959	39110	johanssonsoundsymbolic-PanoanKatukina	pano1254		belly	1251	BELLY		hato	h a t o
+24520	40671	johanssonsoundsymbolic-Cavinena	cavi1250		beloworunder	1485	BELOW OR UNDER		emake	e m a k e
+24594	40745	johanssonsoundsymbolic-PanoanKatukina	pano1254		beloworunder	1485	BELOW OR UNDER		wakaʔoɾi	w a k a ʔ o ɾ i
+25742	41893	johanssonsoundsymbolic-Cavinena	cavi1250		beside	1816	BESIDE		peke	p e k e
+25798	41949	johanssonsoundsymbolic-PanoanKatukina	pano1254		beside	1816	BESIDE		ʔoɾi	ʔ o ɾ i
+27905	44056	johanssonsoundsymbolic-Cavinena	cavi1250		big	1202	BIG		aɾida	a ɾ i d a
+28002	44153	johanssonsoundsymbolic-PanoanKatukina	pano1254		big	1202	BIG		anipa	a n i p a
+28072	44223	joophonosemantic-ShipiboConibo	ship1254		big	1202	BIG		a.n.i	a n i
+30295	46446	johanssonsoundsymbolic-Cavinena	cavi1250		bird	937	BIRD		tʃaʔi	tʃ a ʔ i
+30379	46530	johanssonsoundsymbolic-PanoanKatukina	pano1254		bird	937	BIRD		tʃai	tʃ a i
+30443	46594	joophonosemantic-ShipiboConibo	ship1254		bird	937	BIRD		i.ʂ.a	i ʂ a
+32646	48797	johanssonsoundsymbolic-Cavinena	cavi1250		bite	1403	BITE		kaɾoja	k a ɾ o j a
+32735	48886	johanssonsoundsymbolic-PanoanKatukina	pano1254		bite	1403	BITE		natʃa	n a tʃ a
+32803	48954	joophonosemantic-ShipiboConibo	ship1254		bite	1403	BITE		n.a.t.ɯ.ʂ	n a t ɯ ʂ
+33791	49942	johanssonsoundsymbolic-Cavinena	cavi1250		bitter	887	BITTER		paceda	p a c e d a
+33866	50017	johanssonsoundsymbolic-PanoanKatukina	pano1254		bitter	887	BITTER		moka	m o k a
+33918	50069	joophonosemantic-ShipiboConibo	ship1254		bitter	887	BITTER		m.o.k.a	m o k a
+35256	51407	johanssonsoundsymbolic-Cavinena	cavi1250		black	163	BLACK		seweda	s e w e d a
+35349	51500	johanssonsoundsymbolic-PanoanKatukina	pano1254		black	163	BLACK		ʂɨʃɨ	ʂ ɨ ʃ ɨ
+35417	51568	joophonosemantic-ShipiboConibo	ship1254		black	163	BLACK		tʃ.ɯ.ʂ.ɯ	tʃ ɯ ʂ ɯ
+38668	54819	johanssonsoundsymbolic-Cavinena	cavi1250		blood	946	BLOOD		ami	a m i
+38762	54913	johanssonsoundsymbolic-PanoanKatukina	pano1254		blood	946	BLOOD		himi	h i m i
+38831	54982	joophonosemantic-ShipiboConibo	ship1254		blood	946	BLOOD		h.i.m.i	h i m i
+40894	57045	johanssonsoundsymbolic-Cavinena	cavi1250		blowofwind	175	BLOW (OF WIND)		hohaja	h o h a j a
+40971	57122	johanssonsoundsymbolic-PanoanKatukina	pano1254		blowofwind	175	BLOW (OF WIND)		ʃõa	ʃ õ a
+41034	57185	joophonosemantic-ShipiboConibo	ship1254		blowofwind	175	BLOW (OF WIND)		p.a.j.a	p a j a
+42061	58212	johanssonsoundsymbolic-Cavinena	cavi1250		blue	837	BLUE		sawada	s a w a d a
+42125	58276	johanssonsoundsymbolic-PanoanKatukina	pano1254		blue	837	BLUE		ponã	p o n ã
+43087	59238	johanssonsoundsymbolic-Cavinena	cavi1250		blunt	379	BLUNT		kweɾodama	k w e ɾ o d a m a
+43149	59300	johanssonsoundsymbolic-PanoanKatukina	pano1254		blunt	379	BLUNT		kɨ̃to	k ɨ̃ t o
+44558	60709	johanssonsoundsymbolic-Cavinena	cavi1250		body	1480	BODY		ekwita	e k w i t a
+44642	60793	johanssonsoundsymbolic-PanoanKatukina	pano1254		body	1480	BODY		joɾã_kãjã	j o ɾ ã + k ã j ã
+46897	63048	johanssonsoundsymbolic-Cavinena	cavi1250		bone	1394	BONE		ecaʔo	e c a ʔ o
+46985	63136	johanssonsoundsymbolic-PanoanKatukina	pano1254		bone	1394	BONE		ʃao	ʃ a o
+47051	63202	joophonosemantic-ShipiboConibo	ship1254		bone	1394	BONE		ʂ.a.o	ʂ a o
+51482	67633	johanssonsoundsymbolic-Cavinena	cavi1250		boy	1366	BOY		ebakwapihi	e b a k w a p i h i
+51567	67718	johanssonsoundsymbolic-PanoanKatukina	pano1254		boy	1366	BOY		honi_βakɨ	h o n i + β a k ɨ
+52887	69038	johanssonsoundsymbolic-Cavinena	cavi1250		brain	1583	BRAIN		ecapona	e c a p o n a
+52957	69108	johanssonsoundsymbolic-PanoanKatukina	pano1254		brain	1583	BRAIN		mapo_ɾɨso	m a p o + ɾ ɨ s o
+56984	73137	johanssonsoundsymbolic-Cavinena	cavi1250		breast	1402	BREAST		jakwa	j a k w a
+57072	73225	johanssonsoundsymbolic-PanoanKatukina	pano1254		breast	1402	BREAST		ʃoma	ʃ o m a
+57136	73289	joophonosemantic-ShipiboConibo	ship1254		breast	1402	BREAST		ʂ.o	ʂ o
+58921	75074	johanssonsoundsymbolic-Cavinena	cavi1250		breathe	1407	BREATHE		kanahetija	k a n a h e t i j a
+58988	75141	johanssonsoundsymbolic-PanoanKatukina	pano1254		breathe	1407	BREATHE		hoĩ	h o ĩ
+64460	80613	johanssonsoundsymbolic-Cavinena	cavi1250		burn	2102	BURN		tiɾoja	t i ɾ o j a
+64542	80695	johanssonsoundsymbolic-PanoanKatukina	pano1254		burn	2102	BURN		koʔa	k o ʔ a
+65173	81326	joophonosemantic-ShipiboConibo	ship1254		burning	1428	BURNING		m.ɯ.n.o	m ɯ n o
+67773	83926	johanssonsoundsymbolic-Cavinena	cavi1250		buttocks	834	BUTTOCKS		etada	e t a d a
+67843	83996	johanssonsoundsymbolic-PanoanKatukina	pano1254		buttocks	834	BUTTOCKS		ʂitʃo	ʂ i tʃ o
+72955	89108	johanssonsoundsymbolic-Cavinena	cavi1250		carry	700	CARRY		mapaja	m a p a j a
+73048	89201	johanssonsoundsymbolic-PanoanKatukina	pano1254		carry	700	CARRY		kaĩ	k a ĩ
+73117	89270	joophonosemantic-ShipiboConibo	ship1254		carry	700	CARRY		β.o	β o
+83441	99594	joophonosemantic-ShipiboConibo	ship1254		childdescendant	1801	CHILD (DESCENDANT)		β.a.k.ɯ	β a k ɯ
+87928	104081	johanssonsoundsymbolic-Cavinena	cavi1250		clean	704	CLEAN		tiʎjaja	t i ʎ j a j a
+87990	104143	johanssonsoundsymbolic-PanoanKatukina	pano1254		clean	704	CLEAN		ʂoʃʂama	ʂ o ʃ ʂ a m a
+91597	107750	johanssonsoundsymbolic-Cavinena	cavi1250		cloud	1489	CLOUD		wani	w a n i
+91679	107832	johanssonsoundsymbolic-PanoanKatukina	pano1254		cloud	1489	CLOUD		nai_koʔĩ	n a i + k o ʔ ĩ
+95173	111326	johanssonsoundsymbolic-Cavinena	cavi1250		cold	1287	COLD		badake	b a d a k e
+95263	111416	johanssonsoundsymbolic-PanoanKatukina	pano1254		cold	1287	COLD		matʃi	m a tʃ i
+98836	114989	johanssonsoundsymbolic-Cavinena	cavi1250		come	1446	COME		heja	h e j a
+98926	115079	johanssonsoundsymbolic-PanoanKatukina	pano1254		come	1446	COME		ho	h o
+98994	115147	joophonosemantic-ShipiboConibo	ship1254		come	1446	COME		h.o.t.i	h o t i
+104958	121111	johanssonsoundsymbolic-PanoanKatukina	pano1254		correctright	1725	CORRECT (RIGHT)		iβisaʔi	i β i s a ʔ i
+105970	122123	johanssonsoundsymbolic-Cavinena	cavi1250		cough	879	COUGH		ohoohoja	o h oː h o j a
+106052	122205	johanssonsoundsymbolic-PanoanKatukina	pano1254		cough	879	COUGH		oko_i	o k o + i
+110452	126605	johanssonsoundsymbolic-Cavinena	cavi1250		crooked	297	CROOKED		peno	p e n o
+110516	126669	johanssonsoundsymbolic-PanoanKatukina	pano1254		crooked	297	CROOKED		ɾõkɨ	ɾ õ k ɨ
+112016	128169	johanssonsoundsymbolic-Cavinena	cavi1250		crush	1520	CRUSH		eɾija	e ɾ i j a
+112085	128238	johanssonsoundsymbolic-PanoanKatukina	pano1254		crush	1520	CRUSH		tii_a	t iː + a
+112943	129096	johanssonsoundsymbolic-Cavinena	cavi1250		cry	1839	CRY		paja	p a j a
+113032	129185	johanssonsoundsymbolic-PanoanKatukina	pano1254		cry	1839	CRY		wai_i	w a i + i
+113098	129251	joophonosemantic-ShipiboConibo	ship1254		cry	1839	CRY		β.ɯ̃.õ	β ɯ̃ õ
+118662	134815	johanssonsoundsymbolic-Cavinena	cavi1250		dark	706	DARK		sewesewe	s e w e s e w e
+118743	134896	johanssonsoundsymbolic-PanoanKatukina	pano1254		dark	706	DARK		ʂɨʃɨ	ʂ ɨ ʃ ɨ
+121781	137936	johanssonsoundsymbolic-Cavinena	cavi1250		daynotnight	1225	DAY (NOT NIGHT)		wekaka	w e k a k a
+121868	138023	johanssonsoundsymbolic-PanoanKatukina	pano1254		daynotnight	1225	DAY (NOT NIGHT)		βaɾi	β a ɾ i
+124229	140384	johanssonsoundsymbolic-Cavinena	cavi1250		deep	1593	DEEP		deda	d e d a
+124293	140448	johanssonsoundsymbolic-PanoanKatukina	pano1254		deep	1593	DEEP		okɨ	o k ɨ
+127057	143212	johanssonsoundsymbolic-Cavinena	cavi1250		die	1494	DIE		mahojake	m a h o j a k e
+127150	143305	johanssonsoundsymbolic-PanoanKatukina	pano1254		die	1494	DIE		βopi	β o p i
+131713	147868	johanssonsoundsymbolic-Cavinena	cavi1250		dirty	1230	DIRTY		asikadake	a s i k a d a k e
+131785	147940	johanssonsoundsymbolic-PanoanKatukina	pano1254		dirty	1230	DIRTY		ʂoʃʂa	ʂ o ʃ ʂ a
+134171	150326	johanssonsoundsymbolic-Cavinena	cavi1250		do	813	DO		aja	a j a
+134260	150415	johanssonsoundsymbolic-PanoanKatukina	pano1254		do	813	DO		a	a
+135607	151762	johanssonsoundsymbolic-Cavinena	cavi1250		dog	2009	DOG		tʃapa	tʃ a p a
+135699	151854	johanssonsoundsymbolic-PanoanKatukina	pano1254		dog	2009	DOG		kamã	k a m ã
+135767	151922	joophonosemantic-ShipiboConibo	ship1254		dog	2009	DOG		o.tʃ.i.t.i	o tʃ i t i
+138125	154280	joophonosemantic-ShipiboConibo	ship1254		doormake	2575	DO OR MAKE		a	a
+142075	158230	johanssonsoundsymbolic-Cavinena	cavi1250		drink	1401	DRINK		ihija	i h i j a
+142168	158323	johanssonsoundsymbolic-PanoanKatukina	pano1254		drink	1401	DRINK		waka_aka	w a k a + a k a
+142235	158390	joophonosemantic-ShipiboConibo	ship1254		drink	1401	DRINK		ʂ.ɯ.a	ʂ ɯ a
+145720	161875	johanssonsoundsymbolic-Cavinena	cavi1250		dry	1398	DRY		eoɾa	e o ɾ a
+145803	161958	johanssonsoundsymbolic-PanoanKatukina	pano1254		dry	1398	DRY		toaʃ	t o a ʃ
+148704	164859	johanssonsoundsymbolic-Cavinena	cavi1250		dust	2	DUST		moɾo	m o ɾ o
+148780	164935	johanssonsoundsymbolic-PanoanKatukina	pano1254		dust	2	DUST		mai_poto	m a i + p o t o
+151150	167305	johanssonsoundsymbolic-Cavinena	cavi1250		ear	1247	EAR		ihaka	i h a k a
+151244	167399	johanssonsoundsymbolic-PanoanKatukina	pano1254		ear	1247	EAR		pãʂo	p ã ʂ o
+151312	167467	joophonosemantic-ShipiboConibo	ship1254		ear	1247	EAR		p.a.β.i.k.i	p a β i k i
+154073	170228	johanssonsoundsymbolic-Cavinena	cavi1250		earthsoil	1228	EARTH (SOIL)		mehihi	m e h i h i
+154164	170319	johanssonsoundsymbolic-PanoanKatukina	pano1254		earthsoil	1228	EARTH (SOIL)		mai	m a i
+154228	170383	joophonosemantic-ShipiboConibo	ship1254		earthsoil	1228	EARTH (SOIL)		m.a.i	m a i
+156674	172829	johanssonsoundsymbolic-Cavinena	cavi1250		eat	1336	EAT		aɾaja	a ɾ a j a
+156767	172922	johanssonsoundsymbolic-PanoanKatukina	pano1254		eat	1336	EAT		pi	p i
+156837	172992	joophonosemantic-ShipiboConibo	ship1254		eat	1336	EAT		p.i	p i
+158986	175144	johanssonsoundsymbolic-Cavinena	cavi1250		egg	744	EGG		eka	e k a
+159074	175232	johanssonsoundsymbolic-PanoanKatukina	pano1254		egg	744	EGG		βaʂi	β a ʂ i
+159134	175292	joophonosemantic-ShipiboConibo	ship1254		egg	744	EGG		b.a.tʃ.i	b a tʃ i
+160744	176902	johanssonsoundsymbolic-Cavinena	cavi1250		eight	1705	EIGHT		kimisakaɾoko	k i m i s a k a ɾ o k o
+163697	179855	johanssonsoundsymbolic-Cavinena	cavi1250		eleven	1706	ELEVEN		peadjatonka	p e a d j a t o n k a
+164885	181043	johanssonsoundsymbolic-Cavinena	cavi1250		empty	1624	EMPTY		isamake	i s a m a k e
+164946	181104	johanssonsoundsymbolic-PanoanKatukina	pano1254		empty	1624	EMPTY		ʃaka	ʃ a k a
+169554	185712	johanssonsoundsymbolic-Cavinena	cavi1250		eye	1248	EYE		jatoka	j a t o k a
+169647	185805	johanssonsoundsymbolic-PanoanKatukina	pano1254		eye	1248	EYE		βɨɾo	β ɨ ɾ o
+169717	185875	joophonosemantic-ShipiboConibo	ship1254		eye	1248	EYE		β.ɯ.r.o	β ɯ r o
+173560	189719	johanssonsoundsymbolic-Cavinena	cavi1250		fall	1280	FALL		ɾibija	ɾ i b i j a
+173652	189811	johanssonsoundsymbolic-PanoanKatukina	pano1254		fall	1280	FALL		pakɨt	p a k ɨ t
+173721	189880	joophonosemantic-ShipiboConibo	ship1254		fall	1280	FALL		p.o.ʂ.o	p o ʂ o
+175829	191988	johanssonsoundsymbolic-Cavinena	cavi1250		far	1406	FAR		hapada	h a p a d a
+175921	192080	johanssonsoundsymbolic-PanoanKatukina	pano1254		far	1406	FAR		tokɨ	t o k ɨ
+175984	192143	joophonosemantic-ShipiboConibo	ship1254		far	1406	FAR		o.tʃ.o	o tʃ o
+176992	193151	johanssonsoundsymbolic-Cavinena	cavi1250		fart	1159	FART		kwihija	k w i h i j a
+177040	193199	johanssonsoundsymbolic-PanoanKatukina	pano1254		fart	1159	FART		tʃipis	tʃ i p i s
+177419	193578	johanssonsoundsymbolic-Cavinena	cavi1250		fast	1631	FAST		ebahaɾaɾa	e b a h a ɾ a ɾ a
+177494	193653	johanssonsoundsymbolic-PanoanKatukina	pano1254		fast	1631	FAST		ɾaja	ɾ a j a
+182046	198206	johanssonsoundsymbolic-Cavinena	cavi1250		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		hohida	h o h i d a
+182122	198282	johanssonsoundsymbolic-PanoanKatukina	pano1254		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ʃɨni	ʃ ɨ n i
+184885	201045	johanssonsoundsymbolic-Cavinena	cavi1250		feather	1201	FEATHER		ekata	e k a t a
+184969	201129	johanssonsoundsymbolic-PanoanKatukina	pano1254		feather	1201	FEATHER		pɨʔi	p ɨ ʔ i
+187204	219857	joophonosemantic-ShipiboConibo	ship1254		fleshormeat	2615	FLESH OR MEAT		n.a.m.i	n a m i
+189915	222568	johanssonsoundsymbolic-Cavinena	cavi1250		flower	239	FLOWER		ʃaʃa	ʃ a ʃ a
+190001	222654	johanssonsoundsymbolic-PanoanKatukina	pano1254		flower	239	FLOWER		howa	h o w a
+191239	223892	johanssonsoundsymbolic-Cavinena	cavi1250		flyinsect	1504	FLY (INSECT)		hetaja	h e t a j a
+191317	223970	johanssonsoundsymbolic-PanoanKatukina	pano1254		flyinsect	1504	FLY (INSECT)		noja	n o j a
+191379	224032	joophonosemantic-ShipiboConibo	ship1254		flyinsect	1504	FLY (INSECT)		h.o.ʃ.i.n.a.k.a	h o ʃ i n a k a
+192843	225496	johanssonsoundsymbolic-Cavinena	cavi1250		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		heweweɾo	h e w e w e ɾ o
+192919	225572	johanssonsoundsymbolic-PanoanKatukina	pano1254		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		napɨ	n a p ɨ
+196155	228808	johanssonsoundsymbolic-Cavinena	cavi1250		foot	1301	FOOT		ewatʃi	e w a tʃ i
+196246	228899	johanssonsoundsymbolic-PanoanKatukina	pano1254		foot	1301	FOOT		taʔɨ	t a ʔ ɨ
+197497	230150	joophonosemantic-ShipiboConibo	ship1254		footorleg	2098	FOOT OR LEG		t.a.ɯ	t a ɯ
+202488	235141	johanssonsoundsymbolic-Cavinena	cavi1250		four	1500	FOUR		poʃi	p o ʃ i
+202576	235229	johanssonsoundsymbolic-PanoanKatukina	pano1254		four	1500	FOUR		nɨskaβɨkoĩnõ_nɨskaβɨkoĩnõ	n ɨ s k a β ɨ k o ĩ n õ + n ɨ s k a β ɨ k o ĩ n õ
+209263	241916	johanssonsoundsymbolic-Cavinena	cavi1250		full	1429	FULL		eheke	e h e k e
+209335	241988	johanssonsoundsymbolic-PanoanKatukina	pano1254		full	1429	FULL		maʂa_i	m a ʂ a + i
+213267	245920	johanssonsoundsymbolic-Cavinena	cavi1250		girl	1646	GIRL		ebakonapihi	e b a k o n a p i h i
+213346	245999	johanssonsoundsymbolic-PanoanKatukina	pano1254		girl	1646	GIRL		aĩ_βakɨ	a ĩ + β a k ɨ
+214584	247237	johanssonsoundsymbolic-Cavinena	cavi1250		give	1447	GIVE		tjaja	t j a j a
+214675	247328	johanssonsoundsymbolic-PanoanKatukina	pano1254		give	1447	GIVE		ĩnã	ĩ n ã
+214744	247397	joophonosemantic-ShipiboConibo	ship1254		give	1447	GIVE		m.ɯ.n.i	m ɯ n i
+216939	249592	johanssonsoundsymbolic-Cavinena	cavi1250		go	695	GO		kwaja	k w a j a
+217034	249687	johanssonsoundsymbolic-PanoanKatukina	pano1254		go	695	GO		ka	k a
+217102	249755	joophonosemantic-ShipiboConibo	ship1254		go	695	GO		k.a	k a
+220710	253366	johanssonsoundsymbolic-Cavinena	cavi1250		good	1035	GOOD		hida	h i d a
+220806	253462	johanssonsoundsymbolic-PanoanKatukina	pano1254		good	1035	GOOD		ɾoʔapa	ɾ o ʔ a p a
+220873	253529	joophonosemantic-ShipiboConibo	ship1254		good	1035	GOOD		h.a.k.õ	h a k õ
+226160	258816	johanssonsoundsymbolic-Cavinena	cavi1250		grass	606	GRASS		noca	n o c a
+226242	258898	johanssonsoundsymbolic-PanoanKatukina	pano1254		grass	606	GRASS		wasi	w a s i
+228512	261168	johanssonsoundsymbolic-Cavinena	cavi1250		green	1425	GREEN		sawada	s a w a d a
+228590	261246	johanssonsoundsymbolic-PanoanKatukina	pano1254		green	1425	GREEN		ponã	p o n ã
+229893	262549	joophonosemantic-ShipiboConibo	ship1254		grind	1033	GRIND		β.i.t.a.ʂ	β i t a ʂ
+231433	264089	johanssonsoundsymbolic-Cavinena	cavi1250		grow	479	GROW		baɾonaja	b a ɾ o n a j a
+231511	264167	johanssonsoundsymbolic-PanoanKatukina	pano1254		grow	479	GROW		josiʂ	j o s i ʂ
+234513	267169	johanssonsoundsymbolic-Cavinena	cavi1250		hair	1040	HAIR		ecaɾo	e c a ɾ o
+234606	267262	johanssonsoundsymbolic-PanoanKatukina	pano1254		hair	1040	HAIR		βoo	β oː
+234673	267329	joophonosemantic-ShipiboConibo	ship1254		hair	1040	HAIR		β.o.o	β o o
+236357	269013	johanssonsoundsymbolic-Cavinena	cavi1250		half	816	HALF		patjahake	p a t j a h a k e
+236420	269076	johanssonsoundsymbolic-PanoanKatukina	pano1254		half	816	HALF		hamaʔoɾiti	h a m a ʔ o ɾ i t i
+238354	271010	johanssonsoundsymbolic-Cavinena	cavi1250		hand	1277	HAND		emetoko	e m e t o k o
+238449	271105	johanssonsoundsymbolic-PanoanKatukina	pano1254		hand	1277	HAND		mɨβi	m ɨ β i
+240287	272943	johanssonsoundsymbolic-Cavinena	cavi1250		happy	1495	HAPPY		poɾeama	p o ɾ e a m a
+240362	273018	johanssonsoundsymbolic-PanoanKatukina	pano1254		happy	1495	HAPPY		mɨkiʂ	m ɨ k i ʂ
+240646	273302	johanssonsoundsymbolic-Cavinena	cavi1250		hard	1884	HARD		pahidake	p a h i d a k e
+240725	273381	johanssonsoundsymbolic-PanoanKatukina	pano1254		hard	1884	HARD		jowɨ	j o w ɨ
+240785	273441	joophonosemantic-ShipiboConibo	ship1254		hard	1884	HARD		tʃ.o.r.i.ʃ	tʃ o r i ʃ
+243909	276566	johanssonsoundsymbolic-Cavinena	cavi1250		head	1256	HEAD		ijoka	i j o k a
+244003	276660	johanssonsoundsymbolic-PanoanKatukina	pano1254		head	1256	HEAD		mapo	m a p o
+246856	279513	johanssonsoundsymbolic-Cavinena	cavi1250		hear	1408	HEAR		bakaja	b a k a j a
+246941	279598	johanssonsoundsymbolic-PanoanKatukina	pano1254		hear	1408	HEAR		nĩka	n ĩ k a
+247001	279658	joophonosemantic-ShipiboConibo	ship1254		hear	1408	HEAR		n.ĩ.k.a	n ĩ k a
+248439	281096	johanssonsoundsymbolic-Cavinena	cavi1250		heart	1223	HEART		eniho	e n i h o
+248530	281187	johanssonsoundsymbolic-PanoanKatukina	pano1254		heart	1223	HEART		hoĩti	h o ĩ t i
+250609	283266	johanssonsoundsymbolic-Cavinena	cavi1250		heavy	1210	HEAVY		bikweda	b i k w e d a
+250697	283354	johanssonsoundsymbolic-PanoanKatukina	pano1254		heavy	1210	HEAVY		ɨwɨ	ɨ w ɨ
+250758	283415	joophonosemantic-ShipiboConibo	ship1254		heavy	1210	HEAVY		i.ɰ.ɯ	i ɰ ɯ
+253816	286474	johanssonsoundsymbolic-Cavinena	cavi1250		heorsheorit	262	HE OR SHE OR IT		toke	t o k e
+253908	286566	johanssonsoundsymbolic-PanoanKatukina	pano1254		heorsheorit	262	HE OR SHE OR IT		haa	h aː
+253974	286632	joophonosemantic-ShipiboConibo	ship1254		heorsheorit	262	HE OR SHE OR IT		h.a	h a
+254443	287102	johanssonsoundsymbolic-Cavinena	cavi1250		here	136	HERE		ɾtʃua	ɾ tʃ u a
+255700	288359	johanssonsoundsymbolic-Cavinena	cavi1250		hide	2486	HIDE		katewahoja	k a t e w a h o j a
+255783	288442	johanssonsoundsymbolic-PanoanKatukina	pano1254		hide	2486	HIDE		honɨʃo	h o n ɨ ʃ o
+255849	288508	joophonosemantic-ShipiboConibo	ship1254		hide	2486	HIDE		h.o.n.ɯ	h o n ɯ
+256611	289270	johanssonsoundsymbolic-Cavinena	cavi1250		high	1265	HIGH		baɾodake	b a ɾ o d a k e
+256675	289334	johanssonsoundsymbolic-PanoanKatukina	pano1254		high	1265	HIGH		okɨ	o k ɨ
+258687	291347	johanssonsoundsymbolic-Cavinena	cavi1250		hit	1433	HIT		aja	a j a
+258781	291441	johanssonsoundsymbolic-PanoanKatukina	pano1254		hit	1433	HIT		ɾitʃki	ɾ i tʃ k i
+263328	295988	johanssonsoundsymbolic-Cavinena	cavi1250		hornanatomy	1393	HORN (ANATOMY)		edana	e d a n a
+263393	296053	johanssonsoundsymbolic-PanoanKatukina	pano1254		hornanatomy	1393	HORN (ANATOMY)		mãtʃoĩ	m ã tʃ o ĩ
+263449	296109	joophonosemantic-ShipiboConibo	ship1254		hornanatomy	1393	HORN (ANATOMY)		m.ã.tʃ.ã	m ã tʃ ã
+265158	297818	johanssonsoundsymbolic-Cavinena	cavi1250		hot	1286	HOT		okeda	o k e d a
+265247	297907	johanssonsoundsymbolic-PanoanKatukina	pano1254		hot	1286	HOT		ʃana	ʃ a n a
+267245	299905	johanssonsoundsymbolic-Cavinena	cavi1250		house	1252	HOUSE		etaɾe	e t a ɾ e
+267337	299997	johanssonsoundsymbolic-PanoanKatukina	pano1254		house	1252	HOUSE		ʃoβo	ʃ o β o
+267404	300064	joophonosemantic-ShipiboConibo	ship1254		house	1252	HOUSE		ʂ.o.β.o	ʂ o β o
+268829	301489	johanssonsoundsymbolic-Cavinena	cavi1250		how	1239	HOW		aʔi	a ʔ i
+268904	301564	johanssonsoundsymbolic-PanoanKatukina	pano1254		how	1239	HOW		hɨ̃kɨs_aʃõɾa	h ɨ̃ k ɨ s + a ʃ õ ɾ a
+274660	307320	johanssonsoundsymbolic-Cavinena	cavi1250		i	1209	I		ike	i k e
+274754	307414	johanssonsoundsymbolic-PanoanKatukina	pano1254		i	1209	I		ɨa	ɨ a
+274823	307483	joophonosemantic-ShipiboConibo	ship1254		i	1209	I		ɯ.a	ɯ a
+276752	309412	johanssonsoundsymbolic-Cavinena	cavi1250		if	1459	IF		ni	n i
+276803	309463	johanssonsoundsymbolic-PanoanKatukina	pano1254		if	1459	IF		βi_βĩ	β i + β ĩ
+278007	310667	johanssonsoundsymbolic-Cavinena	cavi1250		in	1460	IN		ho	h o
+278083	310743	johanssonsoundsymbolic-PanoanKatukina	pano1254		in	1460	IN		naki	n a k i
+278144	310804	joophonosemantic-ShipiboConibo	ship1254		in	1460	IN		ã.ĩ	ã ĩ
+278651	311311	johanssonsoundsymbolic-Cavinena	cavi1250		infrontof	1883	IN FRONT OF		ekwejakwatojo	e k w e j a k w a t o j o
+278716	311376	johanssonsoundsymbolic-PanoanKatukina	pano1254		infrontof	1883	IN FRONT OF		βɨβo	β ɨ β o
+287506	320166	johanssonsoundsymbolic-Cavinena	cavi1250		kill	1417	KILL		ijeja	i j e j a
+287595	320255	johanssonsoundsymbolic-PanoanKatukina	pano1254		kill	1417	KILL		βopima	β o p i m a
+290188	322848	johanssonsoundsymbolic-Cavinena	cavi1250		knee	1371	KNEE		edanaka	e d a n a k a
+290273	322933	johanssonsoundsymbolic-PanoanKatukina	pano1254		knee	1371	KNEE		ɾaβoʃo	ɾ a β o ʃ o
+290337	322997	joophonosemantic-ShipiboConibo	ship1254		knee	1371	KNEE		r.a.b.o.ʂ.o	r a b o ʂ o
+293271	325931	johanssonsoundsymbolic-Cavinena	cavi1250		know	3626	KNOW		bawedja	b a w e d j a
+293356	326016	johanssonsoundsymbolic-PanoanKatukina	pano1254		know	3626	KNOW		tana	t a n a
+293420	326080	joophonosemantic-ShipiboConibo	ship1254		know	3626	KNOW		o.n.ã	o n ã
+298988	331648	johanssonsoundsymbolic-Cavinena	cavi1250		laugh	1355	LAUGH		caja	c a j a
+299077	331737	johanssonsoundsymbolic-PanoanKatukina	pano1254		laugh	1355	LAUGH		osã	o s ã
+299138	331798	joophonosemantic-ShipiboConibo	ship1254		laugh	1355	LAUGH		o.s.ã	o s ã
+302144	334804	johanssonsoundsymbolic-Cavinena	cavi1250		leaf	628	LEAF		ehaki	e h a k i
+302232	334892	johanssonsoundsymbolic-PanoanKatukina	pano1254		leaf	628	LEAF		pɨʔi	p ɨ ʔ i
+302291	334951	joophonosemantic-ShipiboConibo	ship1254		leaf	628	LEAF		p.ɯ.i	p ɯ i
+305270	337930	johanssonsoundsymbolic-Cavinena	cavi1250		left	244	LEFT		hani	h a n i
+305335	337995	johanssonsoundsymbolic-PanoanKatukina	pano1254		left	244	LEFT		pɨʃmiʔoʔɾi	p ɨ ʃ m i ʔ o ʔ ɾ i
+309473	342133	johanssonsoundsymbolic-Cavinena	cavi1250		liedown	215	LIE DOWN		haɾaja	h a ɾ a j a
+309552	342212	johanssonsoundsymbolic-PanoanKatukina	pano1254		liedown	215	LIE DOWN		ɾakaʔina	ɾ a k a ʔ i n a
+311484	344144	johanssonsoundsymbolic-Cavinena	cavi1250		lightcolor	250	LIGHT (COLOR)		bakwe	b a k w e
+311543	344203	johanssonsoundsymbolic-PanoanKatukina	pano1254		lightcolor	250	LIGHT (COLOR)		koɾo	k o ɾ o
+313637	346297	johanssonsoundsymbolic-Cavinena	cavi1250		lightweight	1052	LIGHT (WEIGHT)		ebahaɾaɾa	e b a h a ɾ a ɾ a
+313710	346370	johanssonsoundsymbolic-PanoanKatukina	pano1254		lightweight	1052	LIGHT (WEIGHT)		ʃata	ʃ a t a
+315107	347767	johanssonsoundsymbolic-Cavinena	cavi1250		lip	478	LIP		ekwacabiti	e k w a c a b i t i
+315177	347837	johanssonsoundsymbolic-PanoanKatukina	pano1254		lip	478	LIP		kɨʃa	k ɨ ʃ a
+316912	349572	johanssonsoundsymbolic-Cavinena	cavi1250		liver	1224	LIVER		etakwa	e t a k w a
+316998	349658	johanssonsoundsymbolic-PanoanKatukina	pano1254		liver	1224	LIVER		taka	t a k a
+317061	349721	joophonosemantic-ShipiboConibo	ship1254		liver	1224	LIVER		t.a.k.a	t a k a
+319808	352468	johanssonsoundsymbolic-Cavinena	cavi1250		long	1203	LONG		honoda	h o n o d a
+319892	352552	johanssonsoundsymbolic-PanoanKatukina	pano1254		long	1203	LONG		kɨjapa	k ɨ j a p a
+319957	352617	joophonosemantic-ShipiboConibo	ship1254		long	1203	LONG		n.ɯ̃.k.ɯ	n ɯ̃ k ɯ
+322458	355118	johanssonsoundsymbolic-Cavinena	cavi1250		loud	377	LOUD		sikakada	s i k a k a d a
+322504	355164	johanssonsoundsymbolic-PanoanKatukina	pano1254		loud	377	LOUD		isĩ	i s ĩ
+323457	356117	johanssonsoundsymbolic-Cavinena	cavi1250		louse	1392	LOUSE		biʔa	b i ʔ a
+323534	356194	johanssonsoundsymbolic-PanoanKatukina	pano1254		louse	1392	LOUSE		ia	i a
+323596	356256	joophonosemantic-ShipiboConibo	ship1254		louse	1392	LOUSE		i.a	i a
+324976	357636	johanssonsoundsymbolic-Cavinena	cavi1250		low	721	LOW		ebote	e b o t e
+325020	357680	johanssonsoundsymbolic-PanoanKatukina	pano1254		low	721	LOW		okɨma	o k ɨ m a
+325348	358008	johanssonsoundsymbolic-Cavinena	cavi1250		lowerarm	446	LOWER ARM		ebi	e b i
+325439	358099	johanssonsoundsymbolic-PanoanKatukina	pano1254		lowerarm	446	LOWER ARM		põjã	p õ j ã
+325715	358375	johanssonsoundsymbolic-Cavinena	cavi1250		lowerleg	447	LOWER LEG		ecaka	e c a k a
+325804	358465	johanssonsoundsymbolic-PanoanKatukina	pano1254		lowerleg	447	LOWER LEG		hiʂaʃ	h i ʂ a ʃ
+326316	358977	johanssonsoundsymbolic-Cavinena	cavi1250		lung	688	LUNG		ehasa	e h a s a
+326389	359050	johanssonsoundsymbolic-PanoanKatukina	pano1254		lung	688	LUNG		tãsã	t ã s ã
+330417	363078	johanssonsoundsymbolic-Cavinena	cavi1250		man	1554	MAN		deka	d e k a
+330508	363169	johanssonsoundsymbolic-PanoanKatukina	pano1254		man	1554	MAN		honi	h o n i
+332239	364900	johanssonsoundsymbolic-Cavinena	cavi1250		many	1198	MANY		omada	o m a d a
+332330	364991	johanssonsoundsymbolic-PanoanKatukina	pano1254		many	1198	MANY		otipa	o t i p a
+339863	372524	johanssonsoundsymbolic-Cavinena	cavi1250		milk	635	MILK		acona	a c o n a
+339935	372596	johanssonsoundsymbolic-PanoanKatukina	pano1254		milk	635	MILK		βoi_ʃoma	β o i + ʃ o m a
+344410	377071	johanssonsoundsymbolic-Cavinena	cavi1250		moon	1313	MOON		badi	b a d i
+344501	377162	johanssonsoundsymbolic-PanoanKatukina	pano1254		moon	1313	MOON		oʃɨ	o ʃ ɨ
+350885	383549	johanssonsoundsymbolic-Cavinena	cavi1250		mountain	639	MOUNTAIN		owakwemoso	o w a k w e m o s o
+350971	383635	johanssonsoundsymbolic-PanoanKatukina	pano1254		mountain	639	MOUNTAIN		maʂi	m a ʂ i
+353395	386059	johanssonsoundsymbolic-Cavinena	cavi1250		mouth	674	MOUTH		ekwaca	e k w a c a
+353485	386149	johanssonsoundsymbolic-PanoanKatukina	pano1254		mouth	674	MOUTH		hana	h a n a
+353553	386217	joophonosemantic-ShipiboConibo	ship1254		mouth	674	MOUTH		k.ɯ	k ɯ
+358412	391076	johanssonsoundsymbolic-Cavinena	cavi1250		name	1405	NAME		ebakani	e b a k a n i
+358504	391168	johanssonsoundsymbolic-PanoanKatukina	pano1254		name	1405	NAME		hanɨ	h a n ɨ
+358569	391234	joophonosemantic-ShipiboConibo	ship1254		name	1405	NAME		h.a.n.ɯ	h a n ɯ
+360330	392996	johanssonsoundsymbolic-Cavinena	cavi1250		narrow	1267	NARROW		kinidama	k i n i d a m a
+360396	393062	johanssonsoundsymbolic-PanoanKatukina	pano1254		narrow	1267	NARROW		naʃβama	n a ʃ β a m a
+361421	394087	johanssonsoundsymbolic-Cavinena	cavi1250		navel	1838	NAVEL		soʔo	s o ʔ o
+361501	394167	johanssonsoundsymbolic-PanoanKatukina	pano1254		navel	1838	NAVEL		tõpi	t õ p i
+361559	394225	joophonosemantic-ShipiboConibo	ship1254		navel	1838	NAVEL		p.o.k.o.t.ɯ.ʂ.ɯ	p o k o t ɯ ʂ ɯ
+362963	395629	johanssonsoundsymbolic-Cavinena	cavi1250		near	1942	NEAR		hapadama	h a p a d a m a
+363048	395714	johanssonsoundsymbolic-PanoanKatukina	pano1254		near	1942	NEAR		oɾama	o ɾ a m a
+364702	397369	johanssonsoundsymbolic-Cavinena	cavi1250		neck	1333	NECK		epiti	e p i t i
+364789	397456	johanssonsoundsymbolic-PanoanKatukina	pano1254		neck	1333	NECK		tɨpo	t ɨ p o
+364854	397521	joophonosemantic-ShipiboConibo	ship1254		neck	1333	NECK		t.ɯ.ʂ.o	t ɯ ʂ o
+368762	401429	johanssonsoundsymbolic-Cavinena	cavi1250		new	1231	NEW		ijakwake	i j a k w a k e
+368845	401512	johanssonsoundsymbolic-PanoanKatukina	pano1254		new	1231	NEW		βɨnapa	β ɨ n a p a
+368904	401571	joophonosemantic-ShipiboConibo	ship1254		new	1231	NEW		β.ɯ.n.a	β ɯ n a
+371532	404199	johanssonsoundsymbolic-Cavinena	cavi1250		night	1233	NIGHT		meta	m e t a
+371626	404293	johanssonsoundsymbolic-PanoanKatukina	pano1254		night	1233	NIGHT		jame	j a m e
+371695	404362	joophonosemantic-ShipiboConibo	ship1254		night	1233	NIGHT		j.a.m.ɯ	j a m ɯ
+373231	405898	johanssonsoundsymbolic-Cavinena	cavi1250		nine	1483	NINE		poskoɾoko	p o s k o ɾ o k o
+374408	407075	johanssonsoundsymbolic-Cavinena	cavi1250		nipple	796	NIPPLE		aco	a c o
+374453	407120	johanssonsoundsymbolic-PanoanKatukina	pano1254		nipple	796	NIPPLE		ʃoma_βɨɾo	ʃ o m a + β ɨ ɾ o
+377351	410018	johanssonsoundsymbolic-Cavinena	cavi1250		nose	1221	NOSE		ewi	e w i
+377445	410112	johanssonsoundsymbolic-PanoanKatukina	pano1254		nose	1221	NOSE		ɾɨkĩ	ɾ ɨ k ĩ
+377513	410180	joophonosemantic-ShipiboConibo	ship1254		nose	1221	NOSE		r.e	r e
+378952	411619	johanssonsoundsymbolic-Cavinena	cavi1250		not	1240	NOT		ama	a m a
+379033	411700	johanssonsoundsymbolic-PanoanKatukina	pano1254		not	1240	NOT		jama	j a m a
+379094	411761	joophonosemantic-ShipiboConibo	ship1254		not	1240	NOT		m.a	m a
+379717	412384	johanssonsoundsymbolic-Cavinena	cavi1250		nothing	687	NOTHING		aihama	a i h a m a
+379782	412449	johanssonsoundsymbolic-PanoanKatukina	pano1254		nothing	687	NOTHING		jama	j a m a
+380260	412927	johanssonsoundsymbolic-Cavinena	cavi1250		now	1376	NOW		ijakwa	i j a k w a
+380349	413016	johanssonsoundsymbolic-PanoanKatukina	pano1254		now	1376	NOW		ɾama	ɾ a m a
+383438	416105	joophonosemantic-ShipiboConibo	ship1254		old	1229	OLD		p.a.j.o	p a j o
+384141	416808	johanssonsoundsymbolic-Cavinena	cavi1250		oldaged	2112	OLD (AGED)		esiɾike	e s i ɾ i k e
+384224	416891	johanssonsoundsymbolic-PanoanKatukina	pano1254		oldaged	2112	OLD (AGED)		ʃɨniɾa	ʃ ɨ n i ɾ a
+385217	417884	johanssonsoundsymbolic-Cavinena	cavi1250		olderbrotherofman	2414	OLDER BROTHER (OF MAN)		eosi	e o s i
+385310	417977	johanssonsoundsymbolic-PanoanKatukina	pano1254		olderbrotherofman	2414	OLDER BROTHER (OF MAN)		hoʂi	h o ʂ i
+385411	418078	johanssonsoundsymbolic-Cavinena	cavi1250		olderbrotherofwoman	2415	OLDER BROTHER (OF WOMAN)		eosi	e o s i
+385504	418171	johanssonsoundsymbolic-PanoanKatukina	pano1254		olderbrotherofwoman	2415	OLDER BROTHER (OF WOMAN)		hoʂi	h o ʂ i
+386194	418861	johanssonsoundsymbolic-Cavinena	cavi1250		oldersisterofman	2418	OLDER SISTER (OF MAN)		enasi	e n a s i
+386285	418952	johanssonsoundsymbolic-PanoanKatukina	pano1254		oldersisterofman	2418	OLDER SISTER (OF MAN)		ʂiʂo	ʂ i ʂ o
+386383	419050	johanssonsoundsymbolic-Cavinena	cavi1250		oldersisterofwoman	2419	OLDER SISTER (OF WOMAN)		enasi	e n a s i
+386473	419140	johanssonsoundsymbolic-PanoanKatukina	pano1254		oldersisterofwoman	2419	OLDER SISTER (OF WOMAN)		ʂiʂo	ʂ i ʂ o
+386688	419355	johanssonsoundsymbolic-Cavinena	cavi1250		oldman	406	OLD MAN		esiɾi	e s i ɾ i
+386755	419422	johanssonsoundsymbolic-PanoanKatukina	pano1254		oldman	406	OLD MAN		ʃɨniɾa	ʃ ɨ n i ɾ a
+387616	420283	johanssonsoundsymbolic-Cavinena	cavi1250		oldused	2113	OLD (USED)		esiɾike	e s i ɾ i k e
+387699	420366	johanssonsoundsymbolic-PanoanKatukina	pano1254		oldused	2113	OLD (USED)		ʃɨniɾa	ʃ ɨ n i ɾ a
+388107	420774	johanssonsoundsymbolic-Cavinena	cavi1250		oldwoman	907	OLD WOMAN		esiɾi	e s i ɾ i
+388165	420832	johanssonsoundsymbolic-PanoanKatukina	pano1254		oldwoman	907	OLD WOMAN		joʃaβo	j o ʃ a β o
+389646	422313	johanssonsoundsymbolic-Cavinena	cavi1250		one	1493	ONE		peadja	p e a d j a
+389743	422410	johanssonsoundsymbolic-PanoanKatukina	pano1254		one	1493	ONE		wɨstis	w ɨ s t i s
+389813	422480	joophonosemantic-ShipiboConibo	ship1254		one	1493	ONE		ɰ.ɯ.s.t.i.o.r.a	ɰ ɯ s t i o r a
+393702	426369	johanssonsoundsymbolic-Cavinena	cavi1250		other	197	OTHER		peja	p e j a
+394438	427105	johanssonsoundsymbolic-Cavinena	cavi1250		outside	762	OUTSIDE		ecekwe	e c e k w e
+394508	427175	johanssonsoundsymbolic-PanoanKatukina	pano1254		outside	762	OUTSIDE		ʃaβɨkɨ	ʃ a β ɨ k ɨ
+399394	432061	johanssonsoundsymbolic-Cavinena	cavi1250		part	779	PART		ekwesi	e k w e s i
+399429	432096	johanssonsoundsymbolic-PanoanKatukina	pano1254		part	779	PART		wɨtʃa	w ɨ tʃ a
+400827	433494	johanssonsoundsymbolic-Cavinena	cavi1250		path	2252	PATH		ekaɾi	e k a ɾ i
+400915	433582	johanssonsoundsymbolic-PanoanKatukina	pano1254		path	2252	PATH		βaʔi	β a ʔ i
+404068	436735	johanssonsoundsymbolic-Cavinena	cavi1250		penis	1222	PENIS		eposi	e p o s i
+404140	436807	johanssonsoundsymbolic-PanoanKatukina	pano1254		penis	1222	PENIS		ina	i n a
+406186	438853	johanssonsoundsymbolic-Cavinena	cavi1250		person	683	PERSON		ekwita	e k w i t a
+406257	438924	johanssonsoundsymbolic-PanoanKatukina	pano1254		person	683	PERSON		nokɨ	n o k ɨ
+411582	444249	johanssonsoundsymbolic-Cavinena	cavi1250		piss	592	PISS		wiɾaja	w i ɾ a j a
+411661	444328	johanssonsoundsymbolic-PanoanKatukina	pano1254		piss	592	PISS		hisõ	h i s õ
+414765	447432	johanssonsoundsymbolic-Cavinena	cavi1250		pointed	372	POINTED		kweɾoda	k w e ɾ o d a
+414799	447466	johanssonsoundsymbolic-PanoanKatukina	pano1254		pointed	372	POINTED		kɨnoʔata	k ɨ n o ʔ a t a
+424257	456925	johanssonsoundsymbolic-Cavinena	cavi1250		quiet	1314	QUIET		abakata	a b a k a t a
+424321	456989	johanssonsoundsymbolic-PanoanKatukina	pano1254		quiet	1314	QUIET		isĩma	i s ĩ m a
+427017	459685	johanssonsoundsymbolic-Cavinena	cavi1250		rainprecipitation	658	RAIN (PRECIPITATION)		neʔi	n e ʔ i
+427111	459779	johanssonsoundsymbolic-PanoanKatukina	pano1254		rainprecipitation	658	RAIN (PRECIPITATION)		oi	o i
+427177	459845	joophonosemantic-ShipiboConibo	ship1254		rainprecipitation	658	RAIN (PRECIPITATION)		o.i	o i
+430428	463096	johanssonsoundsymbolic-Cavinena	cavi1250		raw	1959	RAW		hinama	h i n a m a
+430489	463157	johanssonsoundsymbolic-PanoanKatukina	pano1254		raw	1959	RAW		paʃa	p a ʃ a
+432442	465110	johanssonsoundsymbolic-Cavinena	cavi1250		red	156	RED		podeda	p o d e d a
+432529	465197	johanssonsoundsymbolic-PanoanKatukina	pano1254		red	156	RED		hõtʃĩ	h õ tʃ ĩ
+432594	465262	joophonosemantic-ShipiboConibo	ship1254		red	156	RED		h.o.ʃ.ĩ	h o ʃ ĩ
+438219	470887	johanssonsoundsymbolic-Cavinena	cavi1250		right	1019	RIGHT		hidaeke	h i d a e k e
+438280	470948	johanssonsoundsymbolic-PanoanKatukina	pano1254		right	1019	RIGHT		mɨkiʔoɾi	m ɨ k i ʔ o ɾ i
+439535	472203	johanssonsoundsymbolic-Cavinena	cavi1250		ripe	178	RIPE		ehawane	e h a w a n e
+439602	472270	johanssonsoundsymbolic-PanoanKatukina	pano1254		ripe	178	RIPE		hõtʃĩ	h õ tʃ ĩ
+440700	473368	johanssonsoundsymbolic-Cavinena	cavi1250		river	666	RIVER		kweɾi	k w e ɾ i
+440786	473454	johanssonsoundsymbolic-PanoanKatukina	pano1254		river	666	RIVER		noa	n o a
+444398	477067	johanssonsoundsymbolic-Cavinena	cavi1250		root	670	ROOT		etiɾi	e t i ɾ i
+444470	477139	johanssonsoundsymbolic-PanoanKatukina	pano1254		root	670	ROOT		tapõ	t a p õ
+444527	477196	joophonosemantic-ShipiboConibo	ship1254		root	670	ROOT		t.a.p.õ	t a p õ
+446371	479040	johanssonsoundsymbolic-PanoanKatukina	pano1254		rope	1218	ROPE		ʂoka_ɾɨsβi	ʂ o k a + ɾ ɨ s β i
+446427	479096	joophonosemantic-ShipiboConibo	ship1254		rope	1218	ROPE		r.i.s.β.i	r i s β i
+447941	480610	johanssonsoundsymbolic-Cavinena	cavi1250		rotten	1728	ROTTEN		eɾiɾi	e ɾ i ɾ i
+448015	480684	johanssonsoundsymbolic-PanoanKatukina	pano1254		rotten	1728	ROTTEN		pajo	p a j o
+448354	481023	johanssonsoundsymbolic-Cavinena	cavi1250		rough	1923	ROUGH		cekeda	c e k e d a
+448402	481071	johanssonsoundsymbolic-PanoanKatukina	pano1254		rough	1923	ROUGH		ʃãto	ʃ ã t o
+448795	481464	johanssonsoundsymbolic-Cavinena	cavi1250		round	1395	ROUND		kwaɾeɾoda	k w a ɾ e ɾ o d a
+448861	481530	johanssonsoundsymbolic-PanoanKatukina	pano1254		round	1395	ROUND		toɾo	t o ɾ o
+450600	483269	johanssonsoundsymbolic-Cavinena	cavi1250		run	1519	RUN		cahahaja	c a h a h a j a
+450694	483363	johanssonsoundsymbolic-PanoanKatukina	pano1254		run	1519	RUN		kaja	k a j a
+450760	483429	joophonosemantic-ShipiboConibo	ship1254		run	1519	RUN		i.ʃ.t.o	i ʃ t o
+452186	484855	johanssonsoundsymbolic-Cavinena	cavi1250		sad	699	SAD		hidama_inime	h i d a m a + i n i m e
+452254	484923	johanssonsoundsymbolic-PanoanKatukina	pano1254		sad	699	SAD		mɨsmas	m ɨ s m a s
+453760	486429	joophonosemantic-ShipiboConibo	ship1254		salt	1274	SALT		t.a.ʃ.i	t a ʃ i
+454708	487377	johanssonsoundsymbolic-Cavinena	cavi1250		salty	1091	SALTY		banowaha	b a n o w a h a
+456346	489015	johanssonsoundsymbolic-Cavinena	cavi1250		sand	671	SAND		mehihi	m e h i h i
+456429	489098	johanssonsoundsymbolic-PanoanKatukina	pano1254		sand	671	SAND		matʃi	m a tʃ i
+456491	489160	joophonosemantic-ShipiboConibo	ship1254		sand	671	SAND		m.a.ʃ.i	m a ʃ i
+459309	491978	johanssonsoundsymbolic-Cavinena	cavi1250		say	1458	SAY		aja	a j a
+459398	492067	johanssonsoundsymbolic-PanoanKatukina	pano1254		say	1458	SAY		i	i
+459461	492130	joophonosemantic-ShipiboConibo	ship1254		say	1458	SAY		a	a
+460311	492980	johanssonsoundsymbolic-Cavinena	cavi1250		scared	3033	SCARED		bahida	b a h i d a
+463143	495812	johanssonsoundsymbolic-Cavinena	cavi1250		sea	1474	SEA		bci	b c i
+465054	497724	johanssonsoundsymbolic-Cavinena	cavi1250		see	1409	SEE		baja	b a j a
+465145	497815	johanssonsoundsymbolic-PanoanKatukina	pano1254		see	1409	SEE		oĩ	o ĩ
+465211	497881	joophonosemantic-ShipiboConibo	ship1254		see	1409	SEE		h.i.s	h i s
+466633	499303	johanssonsoundsymbolic-Cavinena	cavi1250		seed	714	SEED		ekaka	e k a k a
+466701	499371	johanssonsoundsymbolic-PanoanKatukina	pano1254		seed	714	SEED		hɨʃɨ	h ɨ ʃ ɨ
+470217	502888	johanssonsoundsymbolic-Cavinena	cavi1250		seven	1704	SEVEN		pakaɾoko	p a k a ɾ o k o
+472700	505371	johanssonsoundsymbolic-Cavinena	cavi1250		shade	1388	SHADE		apotaho	a p o t a h o
+472779	505450	johanssonsoundsymbolic-PanoanKatukina	pano1254		shade	1388	SHADE		βaɾi_pãtɨʔɨ	β a ɾ i + p ã t ɨ ʔ ɨ
+472839	505510	joophonosemantic-ShipiboConibo	ship1254		shade	1388	SHADE		β.ɯ.i	β ɯ i
+473713	506384	johanssonsoundsymbolic-Cavinena	cavi1250		shallow	193	SHALLOW		dedamake	d e d a m a k e
+473763	506434	johanssonsoundsymbolic-PanoanKatukina	pano1254		shallow	193	SHALLOW		okɨma	o k ɨ m a
+474932	507603	johanssonsoundsymbolic-Cavinena	cavi1250		sharp	1396	SHARP		kweɾoda	k w e ɾ o d a
+475000	507671	johanssonsoundsymbolic-PanoanKatukina	pano1254		sharp	1396	SHARP		kɨwã	k ɨ w ã
+478244	510916	johanssonsoundsymbolic-Cavinena	cavi1250		shitdefecate	676	SHIT (DEFECATE)		domija	d o m i j a
+478319	510991	johanssonsoundsymbolic-PanoanKatukina	pano1254		shitdefecate	676	SHIT (DEFECATE)		poʔi_i	p o ʔ i + i
+481523	514195	johanssonsoundsymbolic-Cavinena	cavi1250		short	1645	SHORT		honodama	h o n o d a m a
+481603	514275	johanssonsoundsymbolic-PanoanKatukina	pano1254		short	1645	SHORT		tokopitʃʂa	t o k o p i tʃ ʂ a
+490499	523171	johanssonsoundsymbolic-Cavinena	cavi1250		sit	1416	SIT		aniboteja	a n i b o t e j a
+490589	523261	johanssonsoundsymbolic-PanoanKatukina	pano1254		sit	1416	SIT		βɨʔot	β ɨ ʔ o t
+492421	525093	johanssonsoundsymbolic-Cavinena	cavi1250		six	1703	SIX		ʃokota	ʃ o k o t a
+494613	527285	johanssonsoundsymbolic-Cavinena	cavi1250		skin	763	SKIN		ebiti	e b i t i
+494699	527371	johanssonsoundsymbolic-PanoanKatukina	pano1254		skin	763	SKIN		hɨʃβi	h ɨ ʃ β i
+494764	527436	joophonosemantic-ShipiboConibo	ship1254		skin	763	SKIN		β.i.tʃ.i	β i tʃ i
+497066	529738	johanssonsoundsymbolic-Cavinena	cavi1250		sky	1732	SKY		baɾepa	b a ɾ e p a
+497149	529821	johanssonsoundsymbolic-PanoanKatukina	pano1254		sky	1732	SKY		nai	n a i
+499249	531921	johanssonsoundsymbolic-Cavinena	cavi1250		sleep	1585	SLEEP		tawija	t a w i j a
+499341	532013	johanssonsoundsymbolic-PanoanKatukina	pano1254		sleep	1585	SLEEP		oʃa	o ʃ a
+501360	534034	johanssonsoundsymbolic-Cavinena	cavi1250		slow	701	SLOW		inimeeke	i n i m eː k e
+501429	534103	johanssonsoundsymbolic-PanoanKatukina	pano1254		slow	701	SLOW		tana	t a n a
+502830	535504	johanssonsoundsymbolic-Cavinena	cavi1250		small	1246	SMALL		atʃatʃa	a tʃ a tʃ a
+502925	535599	johanssonsoundsymbolic-PanoanKatukina	pano1254		small	1246	SMALL		ʂãpitʃʂa	ʂ ã p i tʃ ʂ a
+502992	535666	joophonosemantic-ShipiboConibo	ship1254		small	1246	SMALL		a.n.i.m.a	a n i m a
+504555	537229	johanssonsoundsymbolic-Cavinena	cavi1250		smell	2124	SMELL		hiɾoja	h i ɾ o j a
+507161	539837	johanssonsoundsymbolic-Cavinena	cavi1250		smokeexhaust	778	SMOKE (EXHAUST)		wani	w a n i
+507245	539921	johanssonsoundsymbolic-PanoanKatukina	pano1254		smokeexhaust	778	SMOKE (EXHAUST)		koʔĩ	k o ʔ ĩ
+507306	539982	joophonosemantic-ShipiboConibo	ship1254		smokeexhaust	778	SMOKE (EXHAUST)		k.õ.ĩ	k õ ĩ
+508639	541315	johanssonsoundsymbolic-Cavinena	cavi1250		smooth	1234	SMOOTH		momija	m o m i j a
+508700	541376	johanssonsoundsymbolic-PanoanKatukina	pano1254		smooth	1234	SMOOTH		tʃɨɾo	tʃ ɨ ɾ o
+511222	543898	johanssonsoundsymbolic-Cavinena	cavi1250		sneeze	1621	SNEEZE		hatʃiohoja	h a tʃ i o h o j a
+511294	543970	johanssonsoundsymbolic-PanoanKatukina	pano1254		sneeze	1621	SNEEZE		atɨʃ	a t ɨ ʃ
+511759	544435	johanssonsoundsymbolic-Cavinena	cavi1250		snore	1983	SNORE		taɾaɾaja	t a ɾ a ɾ a j a
+511821	544497	johanssonsoundsymbolic-PanoanKatukina	pano1254		snore	1983	SNORE		nɨ̃a	n ɨ̃ a
+513025	545701	johanssonsoundsymbolic-Cavinena	cavi1250		soft	1856	SOFT		ʃabida	ʃ a b i d a
+513102	545778	johanssonsoundsymbolic-PanoanKatukina	pano1254		soft	1856	SOFT		waʂo	w a ʂ o
+514100	546776	johanssonsoundsymbolic-Cavinena	cavi1250		some	1241	SOME		peadja_peadja	p e a d j a + p e a d j a
+514158	546834	johanssonsoundsymbolic-PanoanKatukina	pano1254		some	1241	SOME		wɨtʃa	w ɨ tʃ a
+517543	550219	johanssonsoundsymbolic-Cavinena	cavi1250		sour	1906	SOUR		basida	b a s i d a
+517605	550281	johanssonsoundsymbolic-PanoanKatukina	pano1254		sour	1906	SOUR		kaʂa	k a ʂ a
+524147	556823	johanssonsoundsymbolic-Cavinena	cavi1250		spit	1440	SPIT		ekwediɾaaja	e k w e d i ɾ aː j a
+524230	556906	johanssonsoundsymbolic-PanoanKatukina	pano1254		spit	1440	SPIT		kɨmo_miʂo	k ɨ m o + m i ʂ o
+530035	562711	johanssonsoundsymbolic-Cavinena	cavi1250		stand	1442	STAND		netija	n e t i j a
+530124	562800	johanssonsoundsymbolic-PanoanKatukina	pano1254		stand	1442	STAND		ni	n i
+530187	562863	joophonosemantic-ShipiboConibo	ship1254		stand	1442	STAND		n.i.n.a	n i n a
+532291	564967	johanssonsoundsymbolic-Cavinena	cavi1250		star	1430	STAR		poɾaɾi	p o ɾ a ɾ i
+532381	565057	johanssonsoundsymbolic-PanoanKatukina	pano1254		star	1430	STAR		hitʃi	h i tʃ i
+532445	565121	joophonosemantic-ShipiboConibo	ship1254		star	1430	STAR		ɥ.i.ʃ.t.ĩ	ɥ i ʃ t ĩ
+538831	571508	johanssonsoundsymbolic-Cavinena	cavi1250		stone	857	STONE		tomo	t o m o
+538926	571603	johanssonsoundsymbolic-PanoanKatukina	pano1254		stone	857	STONE		mitʃki	m i tʃ k i
+540104	572781	joophonosemantic-ShipiboConibo	ship1254		stoneorrock	2125	STONE OR ROCK		ʃ.ã.k.a	ʃ ã k a
+541258	573935	johanssonsoundsymbolic-Cavinena	cavi1250		straight	1404	STRAIGHT		tojo	t o j o
+541324	574001	johanssonsoundsymbolic-PanoanKatukina	pano1254		straight	1404	STRAIGHT		mɨkipa	m ɨ k i p a
+543611	576288	joophonosemantic-ShipiboConibo	ship1254		strikeorbeat	2133	STRIKE OR BEAT		tʃ.o.ʃ.a	tʃ o ʃ a
+544318	576995	johanssonsoundsymbolic-Cavinena	cavi1250		strong	785	STRONG		kasada	k a s a d a
+544404	577081	johanssonsoundsymbolic-PanoanKatukina	pano1254		strong	785	STRONG		mɨstɨ̃	m ɨ s t ɨ̃
+546244	578921	johanssonsoundsymbolic-Cavinena	cavi1250		suck	1421	SUCK		sosoja	s o s o j a
+546314	578991	johanssonsoundsymbolic-PanoanKatukina	pano1254		suck	1421	SUCK		koko	k o k o
+546368	579045	joophonosemantic-ShipiboConibo	ship1254		suck	1421	SUCK		n.o.ʂ.o	n o ʂ o
+548218	580895	johanssonsoundsymbolic-Cavinena	cavi1250		sun	1343	SUN		iheti	i h e t i
+548310	580987	johanssonsoundsymbolic-PanoanKatukina	pano1254		sun	1343	SUN		βaɾi	β a ɾ i
+551648	584325	johanssonsoundsymbolic-Cavinena	cavi1250		sweatsubstance	125	SWEAT (SUBSTANCE)		weɾoɾoja	w e ɾ o ɾ o j a
+551727	584404	johanssonsoundsymbolic-PanoanKatukina	pano1254		sweatsubstance	125	SWEAT (SUBSTANCE)		niskã	n i s k ã
+552478	585155	johanssonsoundsymbolic-Cavinena	cavi1250		sweet	717	SWEET		wahada	w a h a d a
+552549	585226	johanssonsoundsymbolic-PanoanKatukina	pano1254		sweet	717	SWEET		βatapa	β a t a p a
+552604	585281	joophonosemantic-ShipiboConibo	ship1254		sweet	717	SWEET		b.a.t.a	b a t a
+555259	587936	johanssonsoundsymbolic-Cavinena	cavi1250		swim	1439	SWIM		becaja	b e c a j a
+555338	588015	johanssonsoundsymbolic-PanoanKatukina	pano1254		swim	1439	SWIM		nona	n o n a
+557713	590390	johanssonsoundsymbolic-Cavinena	cavi1250		tail	1220	TAIL		iwa	i w a
+557797	590474	johanssonsoundsymbolic-PanoanKatukina	pano1254		tail	1220	TAIL		ina	i n a
+557860	590537	joophonosemantic-ShipiboConibo	ship1254		tail	1220	TAIL		h.i.n.a	h i n a
+559058	591735	johanssonsoundsymbolic-Cavinena	cavi1250		take	1749	TAKE		dohoja	d o h o j a
+559143	591820	johanssonsoundsymbolic-PanoanKatukina	pano1254		take	1749	TAKE		βiʔã	β i ʔ ã
+559202	591879	joophonosemantic-ShipiboConibo	ship1254		take	1749	TAKE		β.o	β o
+561013	593690	johanssonsoundsymbolic-Cavinena	cavi1250		taste	2190	TASTE		bihida	b i h i d a
+561071	593748	johanssonsoundsymbolic-PanoanKatukina	pano1254		taste	2190	TASTE		tana	t a n a
+564562	597239	johanssonsoundsymbolic-Cavinena	cavi1250		ten	1515	TEN		tonka	t o n k a
+564636	597313	johanssonsoundsymbolic-PanoanKatukina	pano1254		ten	1515	TEN		mɨβitiʔi	m ɨ β i t i ʔ i
+566095	598772	johanssonsoundsymbolic-PanoanKatukina	pano1254		testicles	797	TESTICLES		oβo	o β o
+567100	599779	johanssonsoundsymbolic-Cavinena	cavi1250		that	78	THAT		tumeke	t u m e k e
+568736	601415	johanssonsoundsymbolic-Cavinena	cavi1250		then	2921	THEN		tuekeɟa	t u e k e ɟ a
+569186	601865	johanssonsoundsymbolic-Cavinena	cavi1250		there	1937	THERE		tuhua	t u h u a
+570646	603325	johanssonsoundsymbolic-Cavinena	cavi1250		they	817	THEY		tona	t o n a
+570736	603415	johanssonsoundsymbolic-PanoanKatukina	pano1254		they	817	THEY		hatoβo	h a t o β o
+572074	604753	johanssonsoundsymbolic-Cavinena	cavi1250		thick	1244	THICK		aɾida	a ɾ i d a
+572144	604823	johanssonsoundsymbolic-PanoanKatukina	pano1254		thick	1244	THICK		kɨβi	k ɨ β i
+572199	604878	joophonosemantic-ShipiboConibo	ship1254		thick	1244	THICK		k.ɯ.ʂ.t.o	k ɯ ʂ t o
+573471	606150	johanssonsoundsymbolic-Cavinena	cavi1250		thin	2308	THIN		aɾidama	a ɾ i d a m a
+573549	606228	johanssonsoundsymbolic-PanoanKatukina	pano1254		thin	2308	THIN		kɨmima	k ɨ m i m a
+574895	607574	johanssonsoundsymbolic-Cavinena	cavi1250		think	2271	THINK		inimetopoja	i n i m e t o p o j a
+574974	607653	johanssonsoundsymbolic-PanoanKatukina	pano1254		think	2271	THINK		tʃĩnã	tʃ ĩ n ã
+578189	610868	johanssonsoundsymbolic-Cavinena	cavi1250		this	1214	THIS		heeke	h eː k e
+578331	611011	joophonosemantic-ShipiboConibo	ship1254		this	1214	THIS		n.a.t.o	n a t o
+580374	613057	johanssonsoundsymbolic-Cavinena	cavi1250		thou	1215	THOU		mi	m i
+580467	613150	johanssonsoundsymbolic-PanoanKatukina	pano1254		thou	1215	THOU		mia	m i a
+580535	613218	joophonosemantic-ShipiboConibo	ship1254		thou	1215	THOU		m.i.a	m i a
+583143	615828	johanssonsoundsymbolic-Cavinena	cavi1250		three	492	THREE		kimiʃa	k i m i ʃ a
+583239	615924	johanssonsoundsymbolic-PanoanKatukina	pano1254		three	492	THREE		nɨskaβɨkoĩ_wɨstis	n ɨ s k a β ɨ k o ĩ + w ɨ s t i s
+584488	617173	johanssonsoundsymbolic-Cavinena	cavi1250		throat	1346	THROAT		ecoɾikani	e c o ɾ i k a n i
+584563	617248	johanssonsoundsymbolic-PanoanKatukina	pano1254		throat	1346	THROAT		tɨpõ	t ɨ p õ
+587887	620572	johanssonsoundsymbolic-Cavinena	cavi1250		thunder	1150	THUNDER		tiɾitija	t i ɾ i t i j a
+587964	620649	johanssonsoundsymbolic-PanoanKatukina	pano1254		thunder	1150	THUNDER		nai_i	n a i + i
+589177	621864	johanssonsoundsymbolic-Cavinena	cavi1250		tie	1917	TIE		ɾisija	ɾ i s i j a
+589263	621950	johanssonsoundsymbolic-PanoanKatukina	pano1254		tie	1917	TIE		nɨʃa	n ɨ ʃ a
+589329	622016	joophonosemantic-ShipiboConibo	ship1254		tie	1917	TIE		n.ɯ.ʂ.a	n ɯ ʂ a
+593133	625820	johanssonsoundsymbolic-Cavinena	cavi1250		toe	1389	TOE		ewatʃi_sapaɾa	e w a tʃ i + s a p a ɾ a
+593196	625883	johanssonsoundsymbolic-PanoanKatukina	pano1254		toe	1389	TOE		taʔɨβõs	t a ʔ ɨ β õ s
+596271	628958	johanssonsoundsymbolic-Cavinena	cavi1250		tongue	1205	TONGUE		jana	j a n a
+596362	629049	johanssonsoundsymbolic-PanoanKatukina	pano1254		tongue	1205	TONGUE		hana	h a n a
+596428	629115	joophonosemantic-ShipiboConibo	ship1254		tongue	1205	TONGUE		h.a.n	h a n
+598448	631135	johanssonsoundsymbolic-Cavinena	cavi1250		tooth	1380	TOOTH		ece	e c e
+598539	631226	johanssonsoundsymbolic-PanoanKatukina	pano1254		tooth	1380	TOOTH		ʃɨta	ʃ ɨ t a
+598607	631294	joophonosemantic-ShipiboConibo	ship1254		tooth	1380	TOOTH		m.a.k.a	m a k a
+600260	632947	johanssonsoundsymbolic-Cavinena	cavi1250		touch	1892	TOUCH		dodoja	d o d o j a
+600324	633011	johanssonsoundsymbolic-PanoanKatukina	pano1254		touch	1892	TOUCH		mɨʔɨ	m ɨ ʔ ɨ
+602852	635539	johanssonsoundsymbolic-Cavinena	cavi1250		tree	906	TREE		akwi	a k w i
+602941	635628	johanssonsoundsymbolic-PanoanKatukina	pano1254		tree	906	TREE		hiwi	h i w i
+607044	639731	johanssonsoundsymbolic-Cavinena	cavi1250		turn	1588	TURN		tipiɾotanaja	t i p i ɾ o t a n a j a
+607123	639810	johanssonsoundsymbolic-PanoanKatukina	pano1254		turn	1588	TURN		piɾõ	p i ɾ õ
+608171	640858	johanssonsoundsymbolic-Cavinena	cavi1250		twelve	1707	TWELVE		peaɟa_toŋka_beta_eaɾakana	p e a ɟ a + t o ŋ k a + b e t a + e a ɾ a k a n a
+608988	641675	johanssonsoundsymbolic-Cavinena	cavi1250		twenty	1710	TWENTY		beta_toŋka	b e t a + t o ŋ k a
+611354	644041	johanssonsoundsymbolic-Cavinena	cavi1250		two	1498	TWO		beta	b e t a
+611449	644136	johanssonsoundsymbolic-PanoanKatukina	pano1254		two	1498	TWO		nɨskaβɨkoĩ	n ɨ s k a β ɨ k o ĩ
+612778	645465	johanssonsoundsymbolic-Cavinena	cavi1250		ugly	1548	UGLY		hikadake	h i k a d a k e
+612834	645521	johanssonsoundsymbolic-PanoanKatukina	pano1254		ugly	1548	UGLY		itʃʂapa	i tʃ ʂ a p a
+615423	648110	johanssonsoundsymbolic-Cavinena	cavi1250		upperarm	431	UPPER ARM		ebi	e b i
+615513	648200	johanssonsoundsymbolic-PanoanKatukina	pano1254		upperarm	431	UPPER ARM		põjã	p õ j ã
+616027	648714	johanssonsoundsymbolic-Cavinena	cavi1250		upperlegthigh	471	UPPER LEG (THIGH)		ecoko	e c o k o
+616120	648808	johanssonsoundsymbolic-PanoanKatukina	pano1254		upperlegthigh	471	UPPER LEG (THIGH)		kitʃi	k i tʃ i
+616187	648875	joophonosemantic-ShipiboConibo	ship1254		upperlegthigh	471	UPPER LEG (THIGH)		k.i.ʃ.i	k i ʃ i
+621246	653934	johanssonsoundsymbolic-Cavinena	cavi1250		vomit	1278	VOMIT		kapoʃatija	k a p o ʃ a t i j a
+621327	654015	johanssonsoundsymbolic-PanoanKatukina	pano1254		vomit	1278	VOMIT		hanãni_i	h a n ã n i + i
+624851	677512	johanssonsoundsymbolic-Cavinena	cavi1250		where	1237	WHERE		eho	e h o
+624941	677602	johanssonsoundsymbolic-PanoanKatukina	pano1254		where	1237	WHERE		hãtoɾa	h ã t o ɾ a
+627207	679868	johanssonsoundsymbolic-Cavinena	cavi1250		white	1335	WHITE		pahada	p a h a d a
+627298	679959	johanssonsoundsymbolic-PanoanKatukina	pano1254		white	1335	WHITE		hoʃo	h o ʃ o
+629673	682426	johanssonsoundsymbolic-Cavinena	cavi1250		who	1235	WHO		eheke	e h e k e
+629764	682517	johanssonsoundsymbolic-PanoanKatukina	pano1254		who	1235	WHO		tʃoaɾa	tʃ o a ɾ a
+629829	682582	joophonosemantic-ShipiboConibo	ship1254		who	1235	WHO		ts.o.a	ts o a
+630708	683462	johanssonsoundsymbolic-Cavinena	cavi1250		why	1270	WHY		iʃapa	i ʃ a p a
+630786	683540	johanssonsoundsymbolic-PanoanKatukina	pano1254		why	1270	WHY		hɨ̃kɨsaɾa	h ɨ̃ k ɨ s a ɾ a
+631451	684205	johanssonsoundsymbolic-Cavinena	cavi1250		wide	1243	WIDE		kinida	k i n i d a
+631522	684276	johanssonsoundsymbolic-PanoanKatukina	pano1254		wide	1243	WIDE		naʃβa	n a ʃ β a
+631571	684325	joophonosemantic-ShipiboConibo	ship1254		wide	1243	WIDE		p.ɯ.ʂ.t.i.n	p ɯ ʂ t i n
+635044	687798	johanssonsoundsymbolic-Cavinena	cavi1250		wind	960	WIND		kwehihi	k w e h i h i
+635134	687888	johanssonsoundsymbolic-PanoanKatukina	pano1254		wind	960	WIND		niwɨ	n i w ɨ
+635197	687951	joophonosemantic-ShipiboConibo	ship1254		wind	960	WIND		n.i.w.ɯ	n i w ɯ
+637170	689924	johanssonsoundsymbolic-Cavinena	cavi1250		wing	1257	WING		jahapaɾa	j a h a p a ɾ a
+637254	690008	johanssonsoundsymbolic-PanoanKatukina	pano1254		wing	1257	WING		pɨʔi	p ɨ ʔ i
+637316	690070	joophonosemantic-ShipiboConibo	ship1254		wing	1257	WING		p.ɯ.i	p ɯ i
+640055	692810	johanssonsoundsymbolic-Cavinena	cavi1250		woman	962	WOMAN		epona	e p o n a
+640148	692903	johanssonsoundsymbolic-PanoanKatukina	pano1254		woman	962	WOMAN		aĩβo	a ĩ β o
+641474	694229	joophonosemantic-ShipiboConibo	ship1254		wood	1803	WOOD		h.i.ɥ.i	h i ɥ i
+642058	694813	johanssonsoundsymbolic-Cavinena	cavi1250		word	1599	WORD		kisaɾati	k i s a ɾ a t i
+646105	698860	johanssonsoundsymbolic-PanoanKatukina	pano1254		wrong	1390	WRONG		ijamaʔi	i j a m a ʔ i
+647075	699830	johanssonsoundsymbolic-Cavinena	cavi1250		yawn	1028	YAWN		kaʔacanakatija	k a ʔ a c a n a k a t i j a
+647137	699892	johanssonsoundsymbolic-PanoanKatukina	pano1254		yawn	1028	YAWN		ʃaβa	ʃ a β a
+647813	700568	johanssonsoundsymbolic-Cavinena	cavi1250		year	1226	YEAR		maɾa	m a ɾ a
+647886	700641	johanssonsoundsymbolic-PanoanKatukina	pano1254		year	1226	YEAR		βaɾi	β a ɾ i
+649780	703620	johanssonsoundsymbolic-Cavinena	cavi1250		yesterday	1174	YESTERDAY		ɾiabaɾepa	ɾ i a b a ɾ e p a
+649870	703710	johanssonsoundsymbolic-PanoanKatukina	pano1254		yesterday	1174	YESTERDAY		jãta	j ã t a
+649931	703771	joophonosemantic-ShipiboConibo	ship1254		yesterday	1174	YESTERDAY		β.a.k.i.ʃ	β a k i ʃ
+651672	705512	johanssonsoundsymbolic-Cavinena	cavi1250		you	1213	YOU		mikwana	m i k w a n a
+651762	705602	johanssonsoundsymbolic-PanoanKatukina	pano1254		you	1213	YOU		mato	m a t o
+652310	706150	johanssonsoundsymbolic-Cavinena	cavi1250		young	1207	YOUNG		ewe_ebaɾi	e w e + e b a ɾ i
+652375	706215	johanssonsoundsymbolic-PanoanKatukina	pano1254		young	1207	YOUNG		ʃɨniɾama	ʃ ɨ n i ɾ a m a
+653401	707241	johanssonsoundsymbolic-Cavinena	cavi1250		youngerbrotherofman	2416	YOUNGER BROTHER (OF MAN)		ehao	e h a o
+653493	707333	johanssonsoundsymbolic-PanoanKatukina	pano1254		youngerbrotherofman	2416	YOUNGER BROTHER (OF MAN)		anaka	a n a k a
+653593	707433	johanssonsoundsymbolic-Cavinena	cavi1250		youngerbrotherofwoman	2417	YOUNGER BROTHER (OF WOMAN)		ehao	e h a o
+653685	707525	johanssonsoundsymbolic-PanoanKatukina	pano1254		youngerbrotherofwoman	2417	YOUNGER BROTHER (OF WOMAN)		anaka	a n a k a
+654337	708177	johanssonsoundsymbolic-Cavinena	cavi1250		youngersisterofman	2420	YOUNGER SISTER (OF MAN)		ehanake	e h a n a k e
+654430	708270	johanssonsoundsymbolic-PanoanKatukina	pano1254		youngersisterofman	2420	YOUNGER SISTER (OF MAN)		ʂipoa	ʂ i p o a
+654568	708408	johanssonsoundsymbolic-Cavinena	cavi1250		youngersisterofwoman	2421	YOUNGER SISTER (OF WOMAN)		ehanake	e h a n a k e
+654661	708501	johanssonsoundsymbolic-PanoanKatukina	pano1254		youngersisterofwoman	2421	YOUNGER SISTER (OF WOMAN)		ʂipoa	ʂ i p o a

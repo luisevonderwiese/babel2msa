@@ -1,0 +1,1142 @@
+	ID	DOCULECT	CONCEPT	Segments	GLOTTOCODE	ISO_CODE	CONCEPTICON_ID	CONCEPTICON_GLOSS	COGNATES	FORM
+0	Khasi-100_name-1	Khasi	100_name	k ɨ r t e ŋ	khas1269	kha	1405	NAME	100_name_a	
+1	Khasi-101_narrow-1	Khasi	101_narrow	r a ʃ i ŋ	khas1269	kha	1267	NARROW	101_narrow_a	
+3	Khasi-102_near-1	Khasi	102_near	ɟ a n	khas1269	kha	1942	NEAR	102_near_a	
+4	Khasi-103_neck-1	Khasi	103_neck	r ɨ d a ŋ	khas1269	kha	1333	NECK	103_neck_a	
+5	Khasi-104_new-1	Khasi	104_new	tʰ ɨ mː ai̯	khas1269	kha	1231	NEW	104_new_a	
+6	Khasi-105_night-1	Khasi	105_night	m i e t	khas1269	kha	1233	NIGHT	105_night_a	
+7	Khasi-106_nose-1	Khasi	106_nose	kʰ m u t	khas1269	kha	1221	NOSE	106_nose_a	
+8	Khasi-107_not-1	Khasi	107_not	ɨ m	khas1269	kha	1240	NOT	107_not_a	
+9	Khasi-108_old-1	Khasi	108_old	r i m	khas1269	kha	1229	OLD	108_old_a	
+10	Khasi-109_one-1	Khasi	109_one	u w ei̯	khas1269	kha	1493	ONE	109_one_a	
+11	Khasi-10_belly-1	Khasi	10_belly	k p o ʔ	khas1269	kha	1251	BELLY	10_belly_a	
+12	Khasi-110_other-1	Khasi	110_other	k i + w ei̯	khas1269	kha	197	OTHER	110_other_a	
+13	Khasi-111_person-1	Khasi	111_person	b r i e w	khas1269	kha	683	PERSON	111_person_a	
+14	Khasi-112_toplay-1	Khasi	112_toplay	l e ʔ + k ai̯	khas1269	kha	1413	PLAY	112_toplay_a	
+15	Khasi-113_topull-1	Khasi	113_topull	t a n	khas1269	kha	1455	PULL	113_topull_a	
+16	Khasi-114_topush-1	Khasi	114_topush	kʰ ɨ nː i a ʔ	khas1269	kha	1452	PUSH	114_topush_a	
+17	Khasi-115_torain-1	Khasi	115_torain	s l a p	khas1269	kha	1253	RAIN (RAINING)	115_torain_a	
+18	Khasi-116_red-1	Khasi	116_red	s a w	khas1269	kha	156	RED	116_red_a	
+19	Khasi-117_rightcorrect-1	Khasi	117_rightcorrect	d ei̯	khas1269	kha	1725	CORRECT (RIGHT)	117_rightcorrect_a	
+20	Khasi-118_rightside-1	Khasi	118_rightside	m o n	khas1269	kha	1019	RIGHT	118_rightside_a	
+21	Khasi-119_river-1	Khasi	119_river	w a ʔ	khas1269	kha	666	RIVER	119_river_a	
+22	Khasi-11_big-1	Khasi	11_big	h e ʔ	khas1269	kha	1202	BIG	11_big_a	
+23	Khasi-120_road-1	Khasi	120_road	l ɨ t i	khas1269	kha	667	ROAD	120_road_a	
+24	Khasi-121_root-1	Khasi	121_root	t ɨ r ai̯	khas1269	kha	670	ROOT	121_root_a	
+25	Khasi-122_rope-1	Khasi	122_rope	t ɨ lː ai̯	khas1269	kha	1218	ROPE	122_rope_a	
+26	Khasi-123_rotten-1	Khasi	123_rotten	p ʔ u t	khas1269	kha	1728	ROTTEN	123_rotten_a	
+27	Khasi-124_torub-1	Khasi	124_torub	k ɨ r ʃ u t	khas1269	kha	1449	RUB	124_torub_a	
+28	Khasi-125_salt-1	Khasi	125_salt	m l u ʔ	khas1269	kha	1274	SALT	125_salt_a	
+29	Khasi-126_sand-1	Khasi	126_sand	ʃ ʔ i a p	khas1269	kha	671	SAND	126_sand_a	
+30	Khasi-127_tosay-1	Khasi	127_tosay	o ŋ	khas1269	kha	1458	SAY	127_tosay_a	
+31	Khasi-128_toscratch-1	Khasi	128_toscratch	t r uː d	khas1269	kha	1436	SCRATCH	128_toscratch_a	
+32	Khasi-129_sea-1	Khasi	129_sea	d u r i a w	khas1269	kha	1474	SEA	129_sea_a	
+33	Khasi-12_bird-1	Khasi	12_bird	s i m	khas1269	kha	937	BIRD	12_bird_a	
+34	Khasi-130_see-1	Khasi	130_see	j o ʔ i	khas1269	kha	1409	SEE	130_see_a	
+35	Khasi-131_seed-1	Khasi	131_seed	s ɨ m b ai̯	khas1269	kha	714	SEED	131_seed_a	
+36	Khasi-132_tosew-1	Khasi	132_tosew	s u ʔ	khas1269	kha	1457	SEW	132_tosew_a	
+37	Khasi-133_sharp-1	Khasi	133_sharp	n e p	khas1269	kha	1396	SHARP	133_sharp_a	
+38	Khasi-134_short-1	Khasi	134_short	l ɨ ŋ k o t	khas1269	kha	1645	SHORT	134_short_a	
+39	Khasi-135_tosing-1	Khasi	135_tosing	r w ai̯	khas1269	kha	1261	SING	135_tosing_a	
+40	Khasi-136_tosit-1	Khasi	136_tosit	ʃ o ŋ	khas1269	kha	1416	SIT	136_tosit_a	
+41	Khasi-137_skin-1	Khasi	137_skin	s i e ʔ + d o ʔ	khas1269	kha	763	SKIN	137_skin_a	
+42	Khasi-138_sky-1	Khasi	138_sky	b e ŋ	khas1269	kha	1732	SKY	138_sky_a	
+43	Khasi-139_tosleep-1	Khasi	139_tosleep	tʰ i a ʔ	khas1269	kha	1585	SLEEP	139_tosleep_a	
+44	Khasi-13_tobite-1	Khasi	13_tobite	d ai̯ t	khas1269	kha	1403	BITE	13_tobite_a	
+45	Khasi-140_small-1	Khasi	140_small	r i t	khas1269	kha	1246	SMALL	140_small_a	
+46	Khasi-141_tosmell-1	Khasi	141_tosmell	s m a	khas1269	kha	2124	SMELL	141_tosmell_a	
+47	Khasi-142_smoke-1	Khasi	142_smoke	t d e m	khas1269	kha	778	SMOKE (EXHAUST)	142_smoke_a	
+48	Khasi-143_smooth-1	Khasi	143_smooth	ɟ l i ʔ	khas1269	kha	1234	SMOOTH	143_smooth_a	
+49	Khasi-144_snake-1	Khasi	144_snake	b s e ɲ	khas1269	kha	730	SNAKE	144_snake_a	
+50	Khasi-145_snow-1	Khasi	145_snow	j o r	khas1269	kha	784	SNOW	145_snow_a	
+51	Khasi-146_some-1	Khasi	146_some	kʰ ɨ d i a t	khas1269	kha	1241	SOME	146_some_a	
+52	Khasi-147_tospit-1	Khasi	147_tospit	b i a ʔ	khas1269	kha	1440	SPIT	147_tospit_a	
+53	Khasi-148_tosplit-1	Khasi	148_tosplit	pʰ i a ʔ	khas1269	kha	1437	SPLIT	148_tosplit_a	
+54	Khasi-149_tosqueeze-1	Khasi	149_tosqueeze	kʰ e m	khas1269	kha	1414	SQUEEZE	149_tosqueeze_a	
+55	Khasi-14_black-1	Khasi	14_black	j o ŋ	khas1269	kha	163	BLACK	14_black_a	
+56	Khasi-150_tostabpierce-1	Khasi	150_tostabpierce	d u ŋ	khas1269	kha	1434	STAB	150_tostabpierce_a	
+57	Khasi-151_tostand-1	Khasi	151_tostand	i e ŋ	khas1269	kha	1442	STAND	151_tostand_a	
+58	Khasi-152_star-1	Khasi	152_star	kʰ l u r	khas1269	kha	1430	STAR	152_star_a	
+59	Khasi-153_stickofwood-1	Khasi	153_stickofwood	d i e ŋ	khas1269	kha	1295	STICK	153_stickofwood_a	
+60	Khasi-154_stone-1	Khasi	154_stone	m a w	khas1269	kha	857	STONE	154_stone_a	
+61	Khasi-155_straight-1	Khasi	155_straight	b i e t	khas1269	kha	1404	STRAIGHT	155_straight_a	
+62	Khasi-156_tosuck-1	Khasi	156_tosuck	k ɟ i t	khas1269	kha	1421	SUCK	156_tosuck_a	
+63	Khasi-157_sun-1	Khasi	157_sun	s ŋ i	khas1269	kha	1343	SUN	157_sun_a	
+64	Khasi-158_toswell-1	Khasi	158_toswell	a t	khas1269	kha	1573	SWELL	158_toswell_a	
+65	Khasi-159_toswim-1	Khasi	159_toswim	ɟ ŋ i	khas1269	kha	1439	SWIM	159_toswim_a	
+66	Khasi-15_blood-1	Khasi	15_blood	s a m	khas1269	kha	946	BLOOD	15_blood_a	
+67	Khasi-160_tail-1	Khasi	160_tail	t d o ŋ	khas1269	kha	1220	TAIL	160_tail_a	
+68	Khasi-161_that-1	Khasi	161_that	t a	khas1269	kha	78	THAT	161_that_a	
+70	Khasi-162_there-1	Khasi	162_there	k a tʰ i e	khas1269	kha	1937	THERE	162_there_a	
+71	Khasi-163_they-1	Khasi	163_they	k i	khas1269	kha	817	THEY	163_they_a	
+72	Khasi-164_thick-1	Khasi	164_thick	r b e n	khas1269	kha	1244	THICK	164_thick_a	
+73	Khasi-165_thin-1	Khasi	165_thin	s t a ŋ	khas1269	kha	2308	THIN	165_thin_a	
+74	Khasi-166_think-1	Khasi	166_think	p ɨ r kʰ a t	khas1269	kha	2271	THINK	166_think_a	
+75	Khasi-167_this-1	Khasi	167_this	e	khas1269	kha	1214	THIS	167_this_a	
+76	Khasi-168_thou-1	Khasi	168_thou	m e	khas1269	kha	1215	THOU	168_thou_a	
+78	Khasi-169_three-1	Khasi	169_three	l ai̯	khas1269	kha	492	THREE	169_three_a	
+79	Khasi-16_blow-1	Khasi	16_blow	p ɨ r s a t	khas1269	kha	175	BLOW (OF WIND)	16_blow_a	
+80	Khasi-170_tothrow-1	Khasi	170_tothrow	k a w a ŋ	khas1269	kha	1456	THROW	170_tothrow_a	
+81	Khasi-171_totie-1	Khasi	171_totie	t e ʔ	khas1269	kha	1917	TIE	171_totie_a	
+82	Khasi-172_tongue-1	Khasi	172_tongue	tʰ ɨ lː i e ɟ	khas1269	kha	1205	TONGUE	172_tongue_a	
+83	Khasi-173_tooth-1	Khasi	173_tooth	b i a t	khas1269	kha	1380	TOOTH	173_tooth_a	
+84	Khasi-174_tree-1	Khasi	174_tree	d i e ŋ	khas1269	kha	906	TREE	174_tree_a	
+85	Khasi-175_toturn-1	Khasi	175_toturn	k ɨ lː a	khas1269	kha	1588	TURN	175_toturn_a	
+86	Khasi-176_two-1	Khasi	176_two	aː r	khas1269	kha	1498	TWO	176_two_a	
+87	Khasi-177_tovomit-1	Khasi	177_tovomit	p r e i	khas1269	kha	1278	VOMIT	177_tovomit_a	
+88	Khasi-178_towalk-1	Khasi	178_towalk	j aːi̯ d	khas1269	kha	1443	WALK	178_towalk_a	
+89	Khasi-179_warm-1	Khasi	179_warm	s ʔ aːi̯ d	khas1269	kha	1232	WARM	179_warm_a	
+90	Khasi-17_bone-1	Khasi	17_bone	ʃ ʔ e ŋ	khas1269	kha	1394	BONE	17_bone_a	
+91	Khasi-180_towash-1	Khasi	180_towash	s a i t	khas1269	kha	1453	WASH	180_towash_a	
+92	Khasi-181_water-1	Khasi	181_water	u m	khas1269	kha	948	WATER	181_water_a	
+93	Khasi-182_we-1	Khasi	182_we	ŋ i	khas1269	kha	1212	WE	182_we_a	
+94	Khasi-183_wet-1	Khasi	183_wet	ɟʰ i e ʔ	khas1269	kha	1726	WET	183_wet_a	
+95	Khasi-184_what-1	Khasi	184_what	ei̯	khas1269	kha	1236	WHAT	184_what_a	
+96	Khasi-185_when-1	Khasi	185_when	l a o	khas1269	kha	1238	WHEN	185_when_a	
+97	Khasi-186_where-1	Khasi	186_where	h a ei̯	khas1269	kha	1237	WHERE	186_where_a	
+98	Khasi-187_white-1	Khasi	187_white	l i e ʔ	khas1269	kha	1335	WHITE	187_white_a	
+99	Khasi-188_who-1	Khasi	188_who	o	khas1269	kha	1235	WHO	188_who_a	
+100	Khasi-189_wide-1	Khasi	189_wide	j a r	khas1269	kha	1243	WIDE	189_wide_a	
+101	Khasi-18_breathe-1	Khasi	18_breathe	r i ŋ + m ɨ n s i e m	khas1269	kha	1407	BREATHE	18_breathe_a	
+102	Khasi-190_wife-1	Khasi	190_wife	t ŋ a	khas1269	kha	1199	WIFE	190_wife_a	
+103	Khasi-191_wind-1	Khasi	191_wind	l ʔ e r	khas1269	kha	960	WIND	191_wind_a	
+104	Khasi-192_wing-1	Khasi	192_wing	tʰ a p ŋ i a ŋ	khas1269	kha	1257	WING	192_wing_a	
+105	Khasi-193_towipe-1	Khasi	193_towipe	ŋ i a d	khas1269	kha	1454	WIPE	193_towipe_a	
+106	Khasi-194_with-1	Khasi	194_with	b a d	khas1269	kha	1340	WITH	194_with_a	
+107	Khasi-195_woman-1	Khasi	195_woman	k ɨ tʰ ei̯	khas1269	kha	962	WOMAN	195_woman_a	
+108	Khasi-196_woodsforest-1	Khasi	196_woodsforest	kʰ l a w	khas1269	kha	420	FOREST	196_woodsforest_a	
+109	Khasi-197_worm-1	Khasi	197_worm	w i e ʔ	khas1269	kha	1219	WORM	197_worm_a	
+110	Khasi-198_yeyoupl-1	Khasi	198_yeyoupl	pʰ i	khas1269	kha	1213	YOU	198_yeyoupl_a	
+111	Khasi-199_year-1	Khasi	199_year	s e m	khas1269	kha	1226	YEAR	199_year_a	
+112	Khasi-19_burn-1	Khasi	19_burn	tʰ a ŋ	khas1269	kha	2102	BURN	19_burn_a	
+113	Khasi-1_all-1	Khasi	1_all	r o ʔ	khas1269	kha	98	ALL	1_all_a	
+114	Khasi-200_yellow-1	Khasi	200_yellow	s t e m	khas1269	kha	1424	YELLOW	200_yellow_a	
+115	Khasi-20_child-1	Khasi	20_child	kʰ u n	khas1269	kha	2099	CHILD	20_child_a	
+116	Khasi-21_cloud-1	Khasi	21_cloud	l ʔ o ʔ	khas1269	kha	1489	CLOUD	21_cloud_a	
+117	Khasi-22_cold-1	Khasi	22_cold	kʰ r i a t	khas1269	kha	1287	COLD	22_cold_a	
+118	Khasi-23_come-1	Khasi	23_come	w a n	khas1269	kha	1446	COME	23_come_a	
+119	Khasi-24_count-1	Khasi	24_count	ɲ j a w	khas1269	kha	1420	COUNT	24_count_a	
+120	Khasi-25_cut-1	Khasi	25_cut	kʰ a p	khas1269	kha	1432	CUT	25_cut_a	
+121	Khasi-26_day-1	Khasi	26_day	s ŋ i	khas1269	kha	1225	DAY (NOT NIGHT)	26_day_a	
+122	Khasi-27_die-1	Khasi	27_die	j a p	khas1269	kha	1494	DIE	27_die_a	
+123	Khasi-28_dig-1	Khasi	28_dig	t i ʔ	khas1269	kha	1418	DIG	28_dig_a	
+124	Khasi-29_dirty-1	Khasi	29_dirty	ɟ a b o ʔ	khas1269	kha	1230	DIRTY	29_dirty_a	
+126	Khasi-2_and-1	Khasi	2_and	b aː d	khas1269	kha	1577	AND	2_and_a	
+127	Khasi-30_dog-1	Khasi	30_dog	k s e w	khas1269	kha	2009	DOG	30_dog_a	
+128	Khasi-31_drink-1	Khasi	31_drink	d i ʔ	khas1269	kha	1401	DRINK	31_drink_a	
+129	Khasi-32_dry-1	Khasi	32_dry	r kʰ i a ŋ	khas1269	kha	1398	DRY	32_dry_a	
+130	Khasi-33_dullblunt-1	Khasi	33_dullblunt	i s i ʔ	khas1269	kha	379	BLUNT	33_dullblunt_a	
+131	Khasi-34_dust-1	Khasi	34_dust	p u m + p u m	khas1269	kha	2	DUST	34_dust_a	
+132	Khasi-35_ear-1	Khasi	35_ear	ʃ k o r	khas1269	kha	1247	EAR	35_ear_a	
+133	Khasi-36_earth-1	Khasi	36_earth	kʰ ɨ d e w	khas1269	kha	1228	EARTH (SOIL)	36_earth_a	
+134	Khasi-37_eat-1	Khasi	37_eat	b aː m	khas1269	kha	1336	EAT	37_eat_a	
+135	Khasi-38_egg-1	Khasi	38_egg	p ɨ lː e ŋ	khas1269	kha	744	EGG	38_egg_a	
+136	Khasi-39_eye-1	Khasi	39_eye	kʰ m a t	khas1269	kha	1248	EYE	39_eye_a	
+137	Khasi-3_animal-1	Khasi	3_animal	m r aː d	khas1269	kha	619	ANIMAL	3_animal_a	
+138	Khasi-40_tofall-1	Khasi	40_tofall	h a p	khas1269	kha	1280	FALL	40_tofall_a	
+139	Khasi-41_far-1	Khasi	41_far	ɟ ŋ ai̯	khas1269	kha	1406	FAR	41_far_a	
+140	Khasi-42_fatgrease-1	Khasi	42_fatgrease	s ŋ aːi̯ d	khas1269	kha	323	FAT (ORGANIC SUBSTANCE)	42_fatgrease_a	
+141	Khasi-43_father-1	Khasi	43_father	k p a	khas1269	kha	1217	FATHER	43_father_a	
+142	Khasi-44_tofear-1	Khasi	44_tofear	ʃ e p t i e ŋ	khas1269	kha	1419	FEAR (BE AFRAID)	44_tofear_a	
+143	Khasi-45_feather-1	Khasi	45_feather	s e r	khas1269	kha	1201	FEATHER	45_feather_a	
+144	Khasi-46_few-1	Khasi	46_few	kʰ ɨ + d i a t	khas1269	kha	1242	FEW	46_few_a	
+145	Khasi-47_tofight-1	Khasi	47_tofight	j a ʃ o ʔ	khas1269	kha	1423	FIGHT	47_tofight_a	
+147	Khasi-48_fire-1	Khasi	48_fire	d i ŋ	khas1269	kha	221	FIRE	48_fire_a	
+148	Khasi-49_fish-1	Khasi	49_fish	d o ʔ kʰ a	khas1269	kha	227	FISH	49_fish_a	
+149	Khasi-4_ashes-1	Khasi	4_ashes	d p ei̯	khas1269	kha	646	ASH	4_ashes_a	
+150	Khasi-50_five-1	Khasi	50_five	s a n	khas1269	kha	493	FIVE	50_five_a	
+151	Khasi-51_tofloat-1	Khasi	51_tofloat	p e r	khas1269	kha	1574	FLOAT	51_tofloat_a	
+152	Khasi-52_toflow-1	Khasi	52_toflow	t uːi̯ d	khas1269	kha	2003	FLOW	52_toflow_a	
+153	Khasi-53_flower-1	Khasi	53_flower	s ɨ t i e w	khas1269	kha	239	FLOWER	53_flower_a	
+154	Khasi-54_tofly-1	Khasi	54_tofly	h e r	khas1269	kha	1441	FLY (MOVE THROUGH AIR)	54_tofly_a	
+155	Khasi-55_fog-1	Khasi	55_fog	d u m + l ʔ o ʔ	khas1269	kha	249	FOG	55_fog_a	
+156	Khasi-56_foot-1	Khasi	56_foot	k ɟ a t	khas1269	kha	1301	FOOT	56_foot_a	
+157	Khasi-57_four-1	Khasi	57_four	s a w	khas1269	kha	1500	FOUR	57_four_a	
+158	Khasi-58_freeze-1	Khasi	58_freeze	ʃ o ʔ + tʰ a ʔ	khas1269	kha	1431	FREEZE	58_freeze_a	
+159	Khasi-59_fruit-1	Khasi	59_fruit	s o ʔ	khas1269	kha	1507	FRUIT	59_fruit_a	
+160	Khasi-5_at-1	Khasi	5_at	h a	khas1269	kha	1461	AT	5_at_a	
+161	Khasi-60_give-1	Khasi	60_give	a j	khas1269	kha	1447	GIVE	60_give_a	
+163	Khasi-62_grass-1	Khasi	62_grass	pʰ l a ŋ	khas1269	kha	606	GRASS	62_grass_a	
+164	Khasi-63_green-1	Khasi	63_green	ɟ ɨ r ŋ a m	khas1269	kha	1425	GREEN	63_green_a	
+165	Khasi-64_gutsintestines-1	Khasi	64_gutsintestines	s i e r	khas1269	kha	1334	GUTS	64_gutsintestines_a	
+166	Khasi-65_hair-1	Khasi	65_hair	s ɲ i u ʔ	khas1269	kha	1040	HAIR	65_hair_a	
+167	Khasi-66_hand-1	Khasi	66_hand	k t i	khas1269	kha	1277	HAND	66_hand_a	
+168	Khasi-67_he-1	Khasi	67_he	u	khas1269	kha	1211	HE	67_he_a	
+169	Khasi-68_head-1	Khasi	68_head	kʰ l i e ʔ	khas1269	kha	1256	HEAD	68_head_a	
+170	Khasi-69_hear-1	Khasi	69_hear	s ŋ a p	khas1269	kha	1408	HEAR	69_hear_a	
+171	Khasi-6_backanat-1	Khasi	6_backanat	d i e n	khas1269	kha	1291	BACK	6_backanat_a	
+172	Khasi-70_heart-1	Khasi	70_heart	k l o ŋ + s a m	khas1269	kha	1223	HEART	70_heart_a	
+173	Khasi-71_heavy-1	Khasi	71_heavy	h e ʔ	khas1269	kha	1210	HEAVY	71_heavy_a	
+174	Khasi-72_here-1	Khasi	72_here	h a ŋ + e	khas1269	kha	136	HERE	72_here_a	
+175	Khasi-73_hit-1	Khasi	73_hit	t i e d	khas1269	kha	1433	HIT	73_hit_a	
+176	Khasi-74_holdtake-1	Khasi	74_holdtake	ʃ i m	khas1269	kha	2104	HOLD OR TAKE	74_holdtake_a	
+177	Khasi-75_how-1	Khasi	75_how	k u m o	khas1269	kha	1239	HOW	75_how_a	
+178	Khasi-76_hunt-1	Khasi	76_hunt	b e ʔ	khas1269	kha	1435	HUNT	76_hunt_a	
+179	Khasi-77_husband-1	Khasi	77_husband	t ŋ a	khas1269	kha	1200	HUSBAND	77_husband_a	
+181	Khasi-78_i-1	Khasi	78_i	ŋ a	khas1269	kha	1209	I	78_i_a	
+182	Khasi-79_ice-1	Khasi	79_ice	tʰ a ʔ	khas1269	kha	617	ICE	79_ice_a	
+183	Khasi-7_bad-1	Khasi	7_bad	s ɲ i e w	khas1269	kha	1292	BAD	7_bad_a	
+184	Khasi-80_if-1	Khasi	80_if	l a d a	khas1269	kha	1459	IF	80_if_a	
+185	Khasi-81_in-1	Khasi	81_in	h a	khas1269	kha	1460	IN	81_in_a	
+186	Khasi-82_kill-1	Khasi	82_kill	p ɨ j a p	khas1269	kha	1417	KILL	82_kill_a	
+187	Khasi-83_know-1	Khasi	83_know	t i p	khas1269	kha	3626	KNOW	83_know_a	
+188	Khasi-84_lake-1	Khasi	84_lake	p u ŋ	khas1269	kha	624	LAKE	84_lake_a	
+189	Khasi-85_laugh-1	Khasi	85_laugh	r kʰ i e	khas1269	kha	1355	LAUGH	85_laugh_a	
+190	Khasi-86_leaf-1	Khasi	86_leaf	s l a	khas1269	kha	628	LEAF	86_leaf_a	
+191	Khasi-87_leftside-1	Khasi	87_leftside	d i a ŋ	khas1269	kha	244	LEFT	87_leftside_a	
+192	Khasi-88_leg-1	Khasi	88_leg	k ɟ a t	khas1269	kha	1297	LEG	88_leg_a	
+193	Khasi-89_toliedeceive-1	Khasi	89_toliedeceive	tʰ o k	khas1269	kha	601	LIE (MISLEAD)	89_toliedeceive_a	
+194	Khasi-8_barkoftree-1	Khasi	8_barkoftree	s e p	khas1269	kha	1204	BARK	8_barkoftree_a	
+195	Khasi-90_live-1	Khasi	90_live	i m	khas1269	kha	1422	BE ALIVE	90_live_a	
+196	Khasi-91_liver-1	Khasi	91_liver	d o ʔ uː d	khas1269	kha	1224	LIVER	91_liver_a	
+197	Khasi-92_long-1	Khasi	92_long	ɟ r o ŋ	khas1269	kha	1203	LONG	92_long_a	
+198	Khasi-93_louse-1	Khasi	93_louse	k s i	khas1269	kha	1392	LOUSE	93_louse_a	
+200	Khasi-94_manmale-1	Khasi	94_manmale	ʃ ɨ r a ŋ	khas1269	kha	2106	MALE PERSON	94_manmale_a	
+201	Khasi-95_many-1	Khasi	95_many	b u n	khas1269	kha	1198	MANY	95_many_a	
+202	Khasi-96_meatflesh-1	Khasi	96_meatflesh	d o ʔ	khas1269	kha	2615	FLESH OR MEAT	96_meatflesh_a	
+203	Khasi-97_mother-1	Khasi	97_mother	k m i e	khas1269	kha	1216	MOTHER	97_mother_a	
+204	Khasi-98_mountain-1	Khasi	98_mountain	l u m	khas1269	kha	639	MOUNTAIN	98_mountain_a	
+205	Khasi-99_mouth-1	Khasi	99_mouth	ʃ ɨ t u r	khas1269	kha	674	MOUTH	99_mouth_a	
+206	Khasi-9_because-1	Khasi	9_because	n a m a r	khas1269	kha	1157	BECAUSE	9_because_a	
+207	Khmu-100_name-1	Khmu	100_name	s ŋ m ə h	khmu1256	kjg	1405	NAME	100_name_d	
+208	Khmu-101_narrow-1	Khmu	101_narrow	s g ɛː p	khmu1256	kjg	1267	NARROW	101_narrow_b	
+209	Khmu-102_near-1	Khmu	102_near	l e h	khmu1256	kjg	1942	NEAR	102_near_c	
+210	Khmu-103_neck-1	Khmu	103_neck	k t u ə r	khmu1256	kjg	1333	NECK	103_neck_d	
+211	Khmu-104_new-1	Khmu	104_new	h mː e ʔ	khmu1256	kjg	1231	NEW	104_new_a	
+212	Khmu-105_night-1	Khmu	105_night	p s ɨ ə m	khmu1256	kjg	1233	NIGHT	105_night_c	
+213	Khmu-106_nose-1	Khmu	106_nose	m u h	khmu1256	kjg	1221	NOSE	106_nose_a	
+214	Khmu-107_not-1	Khmu	107_not	ʔ a m	khmu1256	kjg	1240	NOT	107_not_a	
+215	Khmu-108_old-1	Khmu	108_old	ʰm a ŋ	khmu1256	kjg	1229	OLD	108_old_b	
+216	Khmu-109_one-1	Khmu	109_one	m oː j	khmu1256	kjg	1493	ONE	109_one_b	
+217	Khmu-10_belly-1	Khmu	10_belly	l uː j	khmu1256	kjg	1251	BELLY	10_belly_d	
+220	Khmu-112_toplay-1	Khmu	112_toplay	t ŋ̍ h ɔː j	khmu1256	kjg	1413	PLAY	112_toplay_e	
+221	Khmu-113_topull-1	Khmu	113_topull	t o h	khmu1256	kjg	1455	PULL	113_topull_e	
+222	Khmu-114_topush-1	Khmu	114_topush	k ɲ uː t	khmu1256	kjg	1452	PUSH	114_topush_e	
+223	Khmu-115_torain-1	Khmu	115_torain	k m a ʔ	khmu1256	kjg	1253	RAIN (RAINING)	115_torain_c	
+224	Khmu-116_red-1	Khmu	116_red	j i m	khmu1256	kjg	156	RED	116_red_c	
+226	Khmu-118_rightside-1	Khmu	118_rightside	l u ə ŋ + h a m	khmu1256	kjg	1019	RIGHT	118_rightside_b	
+227	Khmu-119_river-1	Khmu	119_river	ʰr o ŋ	khmu1256	kjg	666	RIVER	119_river_d	
+228	Khmu-11_big-1	Khmu	11_big	h a m	khmu1256	kjg	1202	BIG	11_big_d	
+229	Khmu-120_road-1	Khmu	120_road	ŋ ɔː r	khmu1256	kjg	667	ROAD	120_road_e	
+230	Khmu-121_root-1	Khmu	121_root	r i ə s	khmu1256	kjg	670	ROOT	121_root_a	
+231	Khmu-122_rope-1	Khmu	122_rope	c m ə ʔ	khmu1256	kjg	1218	ROPE	122_rope_e	
+232	Khmu-123_rotten-1	Khmu	123_rotten	ʰm u ʔ	khmu1256	kjg	1728	ROTTEN	123_rotten_e	
+233	Khmu-124_torub-1	Khmu	124_torub	h u k	khmu1256	kjg	1449	RUB	124_torub_b	
+235	Khmu-125_salt-1	Khmu	125_salt	ʰm aː r	khmu1256	kjg	1274	SALT	125_salt_c	
+236	Khmu-126_sand-1	Khmu	126_sand	s r e h	khmu1256	kjg	671	SAND	126_sand_d	
+237	Khmu-127_tosay-1	Khmu	127_tosay	s r o ʔ	khmu1256	kjg	1458	SAY	127_tosay_c	
+238	Khmu-128_toscratch-1	Khmu	128_toscratch	g o r	khmu1256	kjg	1436	SCRATCH	128_toscratch_d	
+239	Khmu-12_bird-1	Khmu	12_bird	s iː m	khmu1256	kjg	937	BIRD	12_bird_a	
+240	Khmu-130_see-1	Khmu	130_see	g uː ɲ	khmu1256	kjg	1409	SEE	130_see_d	
+241	Khmu-131_seed-1	Khmu	131_seed	k l ɔː ŋ	khmu1256	kjg	714	SEED	131_seed_d	
+242	Khmu-132_tosew-1	Khmu	132_tosew	l ɔ s	khmu1256	kjg	1457	SEW	132_tosew_c	
+243	Khmu-133_sharp-1	Khmu	133_sharp	ʔ o h	khmu1256	kjg	1396	SHARP	133_sharp_d	
+244	Khmu-134_short-1	Khmu	134_short	h d e ʔ	khmu1256	kjg	1645	SHORT	134_short_e	
+245	Khmu-135_tosing-1	Khmu	135_tosing	t əː m	khmu1256	kjg	1261	SING	135_tosing_c	
+246	Khmu-136_tosit-1	Khmu	136_tosit	d e n	khmu1256	kjg	1416	SIT	136_tosit_d	
+247	Khmu-137_skin-1	Khmu	137_skin	h m p uː r	khmu1256	kjg	763	SKIN	137_skin_c	
+248	Khmu-138_sky-1	Khmu	138_sky	l w aː ŋ	khmu1256	kjg	1732	SKY	138_sky_c	
+249	Khmu-139_tosleep-1	Khmu	139_tosleep	s i h	khmu1256	kjg	1585	SLEEP	139_tosleep_d	
+250	Khmu-13_tobite-1	Khmu	13_tobite	p o k	khmu1256	kjg	1403	BITE	13_tobite_e	
+251	Khmu-140_small-1	Khmu	140_small	k ʔ ɛː ŋ	khmu1256	kjg	1246	SMALL	140_small_e	
+252	Khmu-141_tosmell-1	Khmu	141_tosmell	m e c	khmu1256	kjg	2124	SMELL	141_tosmell_e	
+253	Khmu-142_smoke-1	Khmu	142_smoke	p t ə ʔ	khmu1256	kjg	778	SMOKE (EXHAUST)	142_smoke_b	
+254	Khmu-143_smooth-1	Khmu	143_smooth	l m ɛː t	khmu1256	kjg	1234	SMOOTH	143_smooth_d	
+255	Khmu-144_snake-1	Khmu	144_snake	m a r	khmu1256	kjg	730	SNAKE	144_snake_b	
+256	Khmu-146_some-1	Khmu	146_some	l aː ŋ	khmu1256	kjg	1241	SOME	146_some_e	
+257	Khmu-147_tospit-1	Khmu	147_tospit	k ɟ u h	khmu1256	kjg	1440	SPIT	147_tospit_c	
+258	Khmu-148_tosplit-1	Khmu	148_tosplit	l a k	khmu1256	kjg	1437	SPLIT	148_tosplit_d	
+259	Khmu-149_tosqueeze-1	Khmu	149_tosqueeze	p ɨ ə t	khmu1256	kjg	1414	SQUEEZE	149_tosqueeze_c	
+260	Khmu-14_black-1	Khmu	14_black	h i ə ŋ	khmu1256	kjg	163	BLACK	14_black_d	
+261	Khmu-150_tostabpierce-1	Khmu	150_tostabpierce	k e ɲ	khmu1256	kjg	1434	STAB	150_tostabpierce_c	
+262	Khmu-151_tostand-1	Khmu	151_tostand	d ɨ n	khmu1256	kjg	1442	STAND	151_tostand_b	
+263	Khmu-152_star-1	Khmu	152_star	s r m e ɲ	khmu1256	kjg	1430	STAR	152_star_b	
+264	Khmu-153_stickofwood-1	Khmu	153_stickofwood	l m p aː k	khmu1256	kjg	1295	STICK	153_stickofwood_e	
+265	Khmu-154_stone-1	Khmu	154_stone	g l aː ŋ	khmu1256	kjg	857	STONE	154_stone_b	
+266	Khmu-155_straight-1	Khmu	155_straight	t eː r	khmu1256	kjg	1404	STRAIGHT	155_straight_d	
+267	Khmu-156_tosuck-1	Khmu	156_tosuck	b u ʔ	khmu1256	kjg	1421	SUCK	156_tosuck_b	
+268	Khmu-157_sun-1	Khmu	157_sun	m a t + b r i ʔ	khmu1256	kjg	1343	SUN	157_sun_b	
+269	Khmu-158_toswell-1	Khmu	158_toswell	ʔ ɛ h	khmu1256	kjg	1573	SWELL	158_toswell_a	
+270	Khmu-159_toswim-1	Khmu	159_toswim	cʰ aːi̯	khmu1256	kjg	1439	SWIM	159_toswim_d	
+272	Khmu-15_blood-1	Khmu	15_blood	m aː m	khmu1256	kjg	946	BLOOD	15_blood_a	
+273	Khmu-160_tail-1	Khmu	160_tail	h t a ʔ	khmu1256	kjg	1220	TAIL	160_tail_b	
+274	Khmu-161_that-1	Khmu	161_that	ʰn aːi̯	khmu1256	kjg	78	THAT	161_that_c	
+275	Khmu-162_there-1	Khmu	162_there	d a ʔ + aːi̯	khmu1256	kjg	1937	THERE	162_there_d	
+276	Khmu-163_they-1	Khmu	163_they	n ɔː	khmu1256	kjg	817	THEY	163_they_d	
+277	Khmu-164_thick-1	Khmu	164_thick	h m b ɨ l	khmu1256	kjg	1244	THICK	164_thick_a	
+278	Khmu-165_thin-1	Khmu	165_thin	h d a ʔ	khmu1256	kjg	2308	THIN	165_thin_c	
+279	Khmu-166_think-1	Khmu	166_think	t r g ə t	khmu1256	kjg	2271	THINK	166_think_a	
+280	Khmu-167_this-1	Khmu	167_this	g iː	khmu1256	kjg	1214	THIS	167_this_c	
+281	Khmu-168_thou-1	Khmu	168_thou	m eː	khmu1256	kjg	1215	THOU	168_thou_a	
+282	Khmu-169_three-1	Khmu	169_three	p e ʔ	khmu1256	kjg	492	THREE	169_three_c	
+283	Khmu-16_blow-1	Khmu	16_blow	h u r	khmu1256	kjg	175	BLOW (OF WIND)	16_blow_e	
+284	Khmu-170_tothrow-1	Khmu	170_tothrow	pʰ o k	khmu1256	kjg	1456	THROW	170_tothrow_f	
+285	Khmu-171_totie-1	Khmu	171_totie	t u k	khmu1256	kjg	1917	TIE	171_totie_a	
+286	Khmu-172_tongue-1	Khmu	172_tongue	h t aː k	khmu1256	kjg	1205	TONGUE	172_tongue_b	
+287	Khmu-173_tooth-1	Khmu	173_tooth	ʰr aː ŋ	khmu1256	kjg	1380	TOOTH	173_tooth_c	
+288	Khmu-174_tree-1	Khmu	174_tree	s ʔ ɔː ŋ	khmu1256	kjg	906	TREE	174_tree_d	
+289	Khmu-175_toturn-1	Khmu	175_toturn	w e r	khmu1256	kjg	1588	TURN	175_toturn_c	
+290	Khmu-176_two-1	Khmu	176_two	b aː r	khmu1256	kjg	1498	TWO	176_two_a	
+291	Khmu-177_tovomit-1	Khmu	177_tovomit	h ɨ ə l	khmu1256	kjg	1278	VOMIT	177_tovomit_c	
+292	Khmu-178_towalk-1	Khmu	178_towalk	j ɔ h	khmu1256	kjg	1443	WALK	178_towalk_e	
+293	Khmu-179_warm-1	Khmu	179_warm	h ʔ ɨ m	khmu1256	kjg	1232	WARM	179_warm_e	
+294	Khmu-17_bone-1	Khmu	17_bone	c ə ʔ aː ŋ	khmu1256	kjg	1394	BONE	17_bone_a	
+295	Khmu-180_towash-1	Khmu	180_towash	r aː	khmu1256	kjg	1453	WASH	180_towash_c	
+297	Khmu-182_we-1	Khmu	182_we	ʔ i ʔ	khmu1256	kjg	1212	WE	182_we_c	
+298	Khmu-183_wet-1	Khmu	183_wet	d ɛː c	khmu1256	kjg	1726	WET	183_wet_d	
+300	Khmu-184_what-1	Khmu	184_what	ʰm ə h	khmu1256	kjg	1236	WHAT	184_what_d	
+302	Khmu-186_where-1	Khmu	186_where	ʔ a r + m ə ʔ	khmu1256	kjg	1237	WHERE	186_where_e	
+303	Khmu-187_white-1	Khmu	187_white	k l ɔː k	khmu1256	kjg	1335	WHITE	187_white_d	
+304	Khmu-188_who-1	Khmu	188_who	m ə ʔ	khmu1256	kjg	1235	WHO	188_who_e	
+305	Khmu-189_wide-1	Khmu	189_wide	w a h	khmu1256	kjg	1243	WIDE	189_wide_c	
+306	Khmu-18_breathe-1	Khmu	18_breathe	h r ɲ ɨ ə m	khmu1256	kjg	1407	BREATHE	18_breathe_a	
+307	Khmu-190_wife-1	Khmu	190_wife	k m b r a ʔ	khmu1256	kjg	1199	WIFE	190_wife_f	
+308	Khmu-191_wind-1	Khmu	191_wind	h d r əː j	khmu1256	kjg	960	WIND	191_wind_c	
+309	Khmu-192_wing-1	Khmu	192_wing	p ɨ r	khmu1256	kjg	1257	WING	192_wing_c	
+310	Khmu-193_towipe-1	Khmu	193_towipe	r m c ɛ h	khmu1256	kjg	1454	WIPE	193_towipe_f	
+311	Khmu-194_with-1	Khmu	194_with	p a ʔ	khmu1256	kjg	1340	WITH	194_with_d	
+312	Khmu-195_woman-1	Khmu	195_woman	c m k ɨ n	khmu1256	kjg	962	WOMAN	195_woman_d	
+313	Khmu-196_woodsforest-1	Khmu	196_woodsforest	b r i ʔ	khmu1256	kjg	420	FOREST	196_woodsforest_d	
+314	Khmu-197_worm-1	Khmu	197_worm	h m b r aːi̯	khmu1256	kjg	1219	WORM	197_worm_c	
+315	Khmu-198_yeyoupl-1	Khmu	198_yeyoupl	b ɔː	khmu1256	kjg	1213	YOU	198_yeyoupl_b	
+316	Khmu-199_year-1	Khmu	199_year	n ɨ m	khmu1256	kjg	1226	YEAR	199_year_a	
+317	Khmu-19_burn-1	Khmu	19_burn	p ɔː k	khmu1256	kjg	2102	BURN	19_burn_c	
+318	Khmu-1_all-1	Khmu	1_all	s a m	khmu1256	kjg	98	ALL	1_all_c	
+319	Khmu-200_yellow-1	Khmu	200_yellow	c ŋ aː r	khmu1256	kjg	1424	YELLOW	200_yellow_b	
+320	Khmu-20_child-1	Khmu	20_child	k ɔː n	khmu1256	kjg	2099	CHILD	20_child_a	
+321	Khmu-21_cloud-1	Khmu	21_cloud	h ə m p uː t	khmu1256	kjg	1489	CLOUD	21_cloud_d	
+322	Khmu-22_cold-1	Khmu	22_cold	h uː c	khmu1256	kjg	1287	COLD	22_cold_e	
+323	Khmu-23_come-1	Khmu	23_come	g aːi̯	khmu1256	kjg	1446	COME	23_come_d	
+324	Khmu-24_count-1	Khmu	24_count	n a p	khmu1256	kjg	1420	COUNT	24_count_e	
+325	Khmu-25_cut-1	Khmu	25_cut	p aː t	khmu1256	kjg	1432	CUT	25_cut_e	
+326	Khmu-26_day-1	Khmu	26_day	s i ʔ	khmu1256	kjg	1225	DAY (NOT NIGHT)	26_day_b	
+327	Khmu-27_die-1	Khmu	27_die	h aː n	khmu1256	kjg	1494	DIE	27_die_c	
+328	Khmu-28_dig-1	Khmu	28_dig	kʰ ɨ ə ŋ	khmu1256	kjg	1418	DIG	28_dig_c	
+329	Khmu-29_dirty-1	Khmu	29_dirty	r u k	khmu1256	kjg	1230	DIRTY	29_dirty_f	
+330	Khmu-30_dog-1	Khmu	30_dog	s ɔ ʔ	khmu1256	kjg	2009	DOG	30_dog_a	
+331	Khmu-31_drink-1	Khmu	31_drink	ʔ ɨ ə k	khmu1256	kjg	1401	DRINK	31_drink_c	
+332	Khmu-32_dry-1	Khmu	32_dry	h ə t a ŋ	khmu1256	kjg	1398	DRY	32_dry_d	
+333	Khmu-33_dullblunt-1	Khmu	33_dullblunt	d aː l	khmu1256	kjg	379	BLUNT	33_dullblunt_e	
+334	Khmu-34_dust-1	Khmu	34_dust	b ɔ h	khmu1256	kjg	2	DUST	34_dust_c	
+335	Khmu-35_ear-1	Khmu	35_ear	r m əː j	khmu1256	kjg	1247	EAR	35_ear_d	
+336	Khmu-36_earth-1	Khmu	36_earth	p ə t e ʔ	khmu1256	kjg	1228	EARTH (SOIL)	36_earth_d	
+337	Khmu-37_eat-1	Khmu	37_eat	m a h	khmu1256	kjg	1336	EAT	37_eat_d	
+338	Khmu-38_egg-1	Khmu	38_egg	k ə d o ŋ	khmu1256	kjg	744	EGG	38_egg_d	
+339	Khmu-39_eye-1	Khmu	39_eye	m a t	khmu1256	kjg	1248	EYE	39_eye_a	
+341	Khmu-40_tofall-1	Khmu	40_tofall	g r ɔː j	khmu1256	kjg	1280	FALL	40_tofall_e	
+343	Khmu-41_far-1	Khmu	41_far	ɟ aː r	khmu1256	kjg	1406	FAR	41_far_b	
+344	Khmu-42_fatgrease-1	Khmu	42_fatgrease	m əː j	khmu1256	kjg	323	FAT (ORGANIC SUBSTANCE)	42_fatgrease_f	
+345	Khmu-43_father-1	Khmu	43_father	j o ŋ	khmu1256	kjg	1217	FATHER	43_father_c	
+346	Khmu-44_tofear-1	Khmu	44_tofear	h ŋ k ɨ ə r	khmu1256	kjg	1419	FEAR (BE AFRAID)	44_tofear_c	
+347	Khmu-45_feather-1	Khmu	45_feather	kʰ uː l	khmu1256	kjg	1201	FEATHER	45_feather_b	
+348	Khmu-46_few-1	Khmu	46_few	l aː ŋ	khmu1256	kjg	1242	FEW	46_few_d	
+349	Khmu-47_tofight-1	Khmu	47_tofight	l eː w	khmu1256	kjg	1423	FIGHT	47_tofight_d	
+350	Khmu-48_fire-1	Khmu	48_fire	pʰ r ɨ ə	khmu1256	kjg	221	FIRE	48_fire_d	
+351	Khmu-49_fish-1	Khmu	49_fish	k a ʔ	khmu1256	kjg	227	FISH	49_fish_a	
+352	Khmu-4_ashes-1	Khmu	4_ashes	b ɔ h	khmu1256	kjg	646	ASH	4_ashes_e	
+354	Khmu-51_tofloat-1	Khmu	51_tofloat	h r l oː j	khmu1256	kjg	1574	FLOAT	51_tofloat_d	
+355	Khmu-52_toflow-1	Khmu	52_toflow	k ɔː r	khmu1256	kjg	2003	FLOW	52_toflow_d	
+356	Khmu-53_flower-1	Khmu	53_flower	r aː ŋ	khmu1256	kjg	239	FLOWER	53_flower_d	
+357	Khmu-54_tofly-1	Khmu	54_tofly	t ɨː r	khmu1256	kjg	1441	FLY (MOVE THROUGH AIR)	54_tofly_e	
+358	Khmu-55_fog-1	Khmu	55_fog	ʔ o m + h m p uː t	khmu1256	kjg	249	FOG	55_fog_e	
+359	Khmu-56_foot-1	Khmu	56_foot	ɟ ɨ ə ŋ	khmu1256	kjg	1301	FOOT	56_foot_c	
+360	Khmu-57_four-1	Khmu	57_four	p uː l	khmu1256	kjg	1500	FOUR	57_four_c	
+361	Khmu-59_fruit-1	Khmu	59_fruit	p l e ʔ	khmu1256	kjg	1507	FRUIT	59_fruit_b	
+362	Khmu-5_at-1	Khmu	5_at	d a ʔ	khmu1256	kjg	1461	AT	5_at_b	
+363	Khmu-60_give-1	Khmu	60_give	ʔ a n	khmu1256	kjg	1447	GIVE	60_give_c	
+364	Khmu-61_good-1	Khmu	61_good	l ə ʔ	khmu1256	kjg	1035	GOOD	61_good_c	
+365	Khmu-62_grass-1	Khmu	62_grass	c i t	khmu1256	kjg	606	GRASS	62_grass_d	
+366	Khmu-63_green-1	Khmu	63_green	s iː w	khmu1256	kjg	1425	GREEN	63_green_c	
+367	Khmu-64_gutsintestines-1	Khmu	64_gutsintestines	ʰr i ə ŋ	khmu1256	kjg	1334	GUTS	64_gutsintestines_b	
+368	Khmu-65_hair-1	Khmu	65_hair	kʰ uː l	khmu1256	kjg	1040	HAIR	65_hair_b	
+369	Khmu-66_hand-1	Khmu	66_hand	t i ʔ	khmu1256	kjg	1277	HAND	66_hand_a	
+370	Khmu-67_he-1	Khmu	67_he	g əː	khmu1256	kjg	1211	HE	67_he_c	
+371	Khmu-68_head-1	Khmu	68_head	k m p o ŋ	khmu1256	kjg	1256	HEAD	68_head_c	
+372	Khmu-69_hear-1	Khmu	69_hear	m e c	khmu1256	kjg	1408	HEAR	69_hear_d	
+373	Khmu-6_backanat-1	Khmu	6_backanat	k d r ɔː ŋ	khmu1256	kjg	1291	BACK	6_backanat_d	
+374	Khmu-70_heart-1	Khmu	70_heart	t l ɔː m + ŋ o k	khmu1256	kjg	1223	HEART	70_heart_c	
+375	Khmu-71_heavy-1	Khmu	71_heavy	k t a m	khmu1256	kjg	1210	HEAVY	71_heavy_f	
+376	Khmu-72_here-1	Khmu	72_here	d a ʔ + g iː	khmu1256	kjg	136	HERE	72_here_b	
+377	Khmu-73_hit-1	Khmu	73_hit	p u ʔ	khmu1256	kjg	1433	HIT	73_hit_e	
+379	Khmu-74_holdtake-1	Khmu	74_holdtake	d e ʔ	khmu1256	kjg	2104	HOLD OR TAKE	74_holdtake_e	
+380	Khmu-75_how-1	Khmu	75_how	n ɛː w + m ə ʔ	khmu1256	kjg	1239	HOW	75_how_d	
+381	Khmu-76_hunt-1	Khmu	76_hunt	j ɔ h + l a ʔ + b r i ʔ	khmu1256	kjg	1435	HUNT	76_hunt_f	
+382	Khmu-77_husband-1	Khmu	77_husband	g l e ʔ	khmu1256	kjg	1200	HUSBAND	77_husband_d	
+383	Khmu-78_i-1	Khmu	78_i	ʔ o ʔ	khmu1256	kjg	1209	I	78_i_b	
+384	Khmu-79_ice-1	Khmu	79_ice	ʔ o m + k l oː n	khmu1256	kjg	617	ICE	79_ice_b	
+385	Khmu-7_bad-1	Khmu	7_bad	ɲ oː ɲ	khmu1256	kjg	1292	BAD	7_bad_f	
+386	Khmu-80_if-1	Khmu	80_if	ʔ a n	khmu1256	kjg	1459	IF	80_if_c	
+387	Khmu-81_in-1	Khmu	81_in	k l u ə ŋ	khmu1256	kjg	1460	IN	81_in_c	
+388	Khmu-82_kill-1	Khmu	82_kill	pʰ aː n	khmu1256	kjg	1417	KILL	82_kill_c	
+389	Khmu-83_know-1	Khmu	83_know	n əː ŋ	khmu1256	kjg	3626	KNOW	83_know_d	
+390	Khmu-85_laugh-1	Khmu	85_laugh	kʰ r a s	khmu1256	kjg	1355	LAUGH	85_laugh_d	
+391	Khmu-86_leaf-1	Khmu	86_leaf	ʰl a ʔ	khmu1256	kjg	628	LEAF	86_leaf_a	
+392	Khmu-87_leftside-1	Khmu	87_leftside	l u ə ŋ + w e ʔ	khmu1256	kjg	244	LEFT	87_leftside_b	
+393	Khmu-88_leg-1	Khmu	88_leg	p l ɔː ŋ	khmu1256	kjg	1297	LEG	88_leg_d	
+394	Khmu-89_toliedeceive-1	Khmu	89_toliedeceive	ɲ u ə ʔ	khmu1256	kjg	601	LIE (MISLEAD)	89_toliedeceive_f	
+395	Khmu-8_barkoftree-1	Khmu	8_barkoftree	s ə ŋ kʰ r a ʔ	khmu1256	kjg	1204	BARK	8_barkoftree_c	
+396	Khmu-90_live-1	Khmu	90_live	j a t	khmu1256	kjg	1422	BE ALIVE	90_live_b	
+397	Khmu-91_liver-1	Khmu	91_liver	t l ɔː m + r ɔ ŋ	khmu1256	kjg	1224	LIVER	91_liver_c	
+398	Khmu-92_long-1	Khmu	92_long	w aː ŋ	khmu1256	kjg	1203	LONG	92_long_c	
+399	Khmu-93_louse-1	Khmu	93_louse	s e ʔ	khmu1256	kjg	1392	LOUSE	93_louse_a	
+400	Khmu-94_manmale-1	Khmu	94_manmale	c m b r ɔ ʔ	khmu1256	kjg	2106	MALE PERSON	94_manmale_c	
+401	Khmu-95_many-1	Khmu	95_many	m aː k	khmu1256	kjg	1198	MANY	95_many_c	
+402	Khmu-96_meatflesh-1	Khmu	96_meatflesh	ʔ a h	khmu1256	kjg	2615	FLESH OR MEAT	96_meatflesh_d	
+403	Khmu-97_mother-1	Khmu	97_mother	m a ʔ	khmu1256	kjg	1216	MOTHER	97_mother_a	
+404	Khmu-98_mountain-1	Khmu	98_mountain	m o k	khmu1256	kjg	639	MOUNTAIN	98_mountain_d	
+405	Khmu-99_mouth-1	Khmu	99_mouth	t ɔ h	khmu1256	kjg	674	MOUTH	99_mouth_f	
+406	Khmu-9_because-1	Khmu	9_because	j ɔ ʔ	khmu1256	kjg	1157	BECAUSE	9_because_e	
+409	Lyngngam-102_near-1	Lyngngam	102_near	ɟ ŋ a n	lyng1241	lyg	1942	NEAR	102_near_a	
+410	Lyngngam-103_neck-1	Lyngngam	103_neck	k r a ŋ	lyng1241	lyg	1333	NECK	103_neck_b	
+411	Lyngngam-104_new-1	Lyngngam	104_new	tʰ ɨ mː ai̯	lyng1241	lyg	1231	NEW	104_new_a	
+412	Lyngngam-105_night-1	Lyngngam	105_night	s ə ɲ u	lyng1241	lyg	1233	NIGHT	105_night_b	
+413	Lyngngam-106_nose-1	Lyngngam	106_nose	l e u m u t	lyng1241	lyg	1221	NOSE	106_nose_a	
+414	Lyngngam-107_not-1	Lyngngam	107_not	ɨ ɟ i	lyng1241	lyg	1240	NOT	107_not_a	
+415	Lyngngam-108_old-1	Lyngngam	108_old	r i m	lyng1241	lyg	1229	OLD	108_old_a	
+416	Lyngngam-109_one-1	Lyngngam	109_one	u w e w	lyng1241	lyg	1493	ONE	109_one_a	
+417	Lyngngam-10_belly-1	Lyngngam	10_belly	l ə w b a ʔ	lyng1241	lyg	1251	BELLY	10_belly_b	
+418	Lyngngam-110_other-1	Lyngngam	110_other	m a r b e r	lyng1241	lyg	197	OTHER	110_other_a	
+419	Lyngngam-111_person-1	Lyngngam	111_person	b r y	lyng1241	lyg	683	PERSON	111_person_a	
+420	Lyngngam-112_toplay-1	Lyngngam	112_toplay	kʰ e lː ai̯	lyng1241	lyg	1413	PLAY	112_toplay_b	
+421	Lyngngam-113_topull-1	Lyngngam	113_topull	r ɨ nː i e ŋ	lyng1241	lyg	1455	PULL	113_topull_b	
+422	Lyngngam-114_topush-1	Lyngngam	114_topush	k ɨ cʰ e w	lyng1241	lyg	1452	PUSH	114_topush_b	
+423	Lyngngam-115_torain-1	Lyngngam	115_torain	s l a p	lyng1241	lyg	1253	RAIN (RAINING)	115_torain_a	
+424	Lyngngam-116_red-1	Lyngngam	116_red	ə n s a w	lyng1241	lyg	156	RED	116_red_a	
+425	Lyngngam-117_rightcorrect-1	Lyngngam	117_rightcorrect	d e w	lyng1241	lyg	1725	CORRECT (RIGHT)	117_rightcorrect_a	
+426	Lyngngam-118_rightside-1	Lyngngam	118_rightside	t ɨ m + m o n	lyng1241	lyg	1019	RIGHT	118_rightside_a	
+427	Lyngngam-119_river-1	Lyngngam	119_river	p o r	lyng1241	lyg	666	RIVER	119_river_b	
+428	Lyngngam-11_big-1	Lyngngam	11_big	k ɨ m b a	lyng1241	lyg	1202	BIG	11_big_b	
+429	Lyngngam-120_road-1	Lyngngam	120_road	t w a r	lyng1241	lyg	667	ROAD	120_road_b	
+430	Lyngngam-121_root-1	Lyngngam	121_root	t ɨ rː ai̯	lyng1241	lyg	670	ROOT	121_root_a	
+431	Lyngngam-122_rope-1	Lyngngam	122_rope	l a ŋ ai̯	lyng1241	lyg	1218	ROPE	122_rope_b	
+432	Lyngngam-123_rotten-1	Lyngngam	123_rotten	ɟ ɨ lː i t	lyng1241	lyg	1728	ROTTEN	123_rotten_b	
+433	Lyngngam-124_torub-1	Lyngngam	124_torub	k ɨ r cʰ u t	lyng1241	lyg	1449	RUB	124_torub_a	
+434	Lyngngam-125_salt-1	Lyngngam	125_salt	m a l u k	lyng1241	lyg	1274	SALT	125_salt_a	
+435	Lyngngam-126_sand-1	Lyngngam	126_sand	cʰ ʔ j a p	lyng1241	lyg	671	SAND	126_sand_a	
+436	Lyngngam-127_tosay-1	Lyngngam	127_tosay	ɨ nː o ŋ	lyng1241	lyg	1458	SAY	127_tosay_a	
+437	Lyngngam-128_toscratch-1	Lyngngam	128_toscratch	t ɨ rː u t	lyng1241	lyg	1436	SCRATCH	128_toscratch_a	
+439	Lyngngam-12_bird-1	Lyngngam	12_bird	s i m	lyng1241	lyg	937	BIRD	12_bird_a	
+440	Lyngngam-130_see-1	Lyngngam	130_see	m u ɟ o ʔ	lyng1241	lyg	1409	SEE	130_see_a	
+441	Lyngngam-131_seed-1	Lyngngam	131_seed	ɟ e lː ei̯	lyng1241	lyg	714	SEED	131_seed_b	
+442	Lyngngam-132_tosew-1	Lyngngam	132_tosew	s ɨ nː e k	lyng1241	lyg	1457	SEW	132_tosew_a	
+443	Lyngngam-133_sharp-1	Lyngngam	133_sharp	ɨ t a ʔ	lyng1241	lyg	1396	SHARP	133_sharp_b	
+444	Lyngngam-134_short-1	Lyngngam	134_short	t ɨ m b a n	lyng1241	lyg	1645	SHORT	134_short_b	
+445	Lyngngam-135_tosing-1	Lyngngam	135_tosing	r ɨ ŋ w i	lyng1241	lyg	1261	SING	135_tosing_a	
+446	Lyngngam-136_tosit-1	Lyngngam	136_tosit	cʰ o ŋ	lyng1241	lyg	1416	SIT	136_tosit_a	
+447	Lyngngam-137_skin-1	Lyngngam	137_skin	s i e ʔ + m ei̯ m	lyng1241	lyg	763	SKIN	137_skin_a	
+448	Lyngngam-138_sky-1	Lyngngam	138_sky	b r ei̯	lyng1241	lyg	1732	SKY	138_sky_b	
+449	Lyngngam-139_tosleep-1	Lyngngam	139_tosleep	ɨ ɲ i ɲ	lyng1241	lyg	1585	SLEEP	139_tosleep_b	
+450	Lyngngam-13_tobite-1	Lyngngam	13_tobite	k ɨ nː a p	lyng1241	lyg	1403	BITE	13_tobite_b	
+451	Lyngngam-140_small-1	Lyngngam	140_small	d o h + d i t	lyng1241	lyg	1246	SMALL	140_small_b	
+452	Lyngngam-141_tosmell-1	Lyngngam	141_tosmell	ɨ nː a w	lyng1241	lyg	2124	SMELL	141_tosmell_b	
+453	Lyngngam-142_smoke-1	Lyngngam	142_smoke	ɨ tʰ a k	lyng1241	lyg	778	SMOKE (EXHAUST)	142_smoke_b	
+454	Lyngngam-143_smooth-1	Lyngngam	143_smooth	ɟ ɨ m p ai̯	lyng1241	lyg	1234	SMOOTH	143_smooth_b	
+455	Lyngngam-144_snake-1	Lyngngam	144_snake	b s e ɲ	lyng1241	lyg	730	SNAKE	144_snake_a	
+457	Lyngngam-146_some-1	Lyngngam	146_some	t a ʔ + d i a t	lyng1241	lyg	1241	SOME	146_some_a	
+458	Lyngngam-147_tospit-1	Lyngngam	147_tospit	ɟ ɨ r tʰ e w	lyng1241	lyg	1440	SPIT	147_tospit_b	
+459	Lyngngam-148_tosplit-1	Lyngngam	148_tosplit	tʰ ɨ lː a ʔ	lyng1241	lyg	1437	SPLIT	148_tosplit_b	
+460	Lyngngam-149_tosqueeze-1	Lyngngam	149_tosqueeze	kʰ ɨ nː i m	lyng1241	lyg	1414	SQUEEZE	149_tosqueeze_a	
+461	Lyngngam-14_black-1	Lyngngam	14_black	ɨ ɲ o ŋ	lyng1241	lyg	163	BLACK	14_black_a	
+462	Lyngngam-150_tostabpierce-1	Lyngngam	150_tostabpierce	d a e ŋ	lyng1241	lyg	1434	STAB	150_tostabpierce_a	
+463	Lyngngam-151_tostand-1	Lyngngam	151_tostand	ɲ i ə ŋ	lyng1241	lyg	1442	STAND	151_tostand_a	
+464	Lyngngam-152_star-1	Lyngngam	152_star	kʰ l o r	lyng1241	lyg	1430	STAR	152_star_a	
+465	Lyngngam-153_stickofwood-1	Lyngngam	153_stickofwood	ə d i ə ŋ	lyng1241	lyg	1295	STICK	153_stickofwood_a	
+466	Lyngngam-154_stone-1	Lyngngam	154_stone	m a w	lyng1241	lyg	857	STONE	154_stone_a	
+467	Lyngngam-155_straight-1	Lyngngam	155_straight	l ɨ m pʰ a r	lyng1241	lyg	1404	STRAIGHT	155_straight_b	
+468	Lyngngam-156_tosuck-1	Lyngngam	156_tosuck	k ɨ ɟ o k	lyng1241	lyg	1421	SUCK	156_tosuck_a	
+469	Lyngngam-157_sun-1	Lyngngam	157_sun	s ŋ ei̯	lyng1241	lyg	1343	SUN	157_sun_a	
+470	Lyngngam-158_toswell-1	Lyngngam	158_toswell	ɨ nː a t	lyng1241	lyg	1573	SWELL	158_toswell_a	
+471	Lyngngam-159_toswim-1	Lyngngam	159_toswim	ɟ ɨ nː ai̯	lyng1241	lyg	1439	SWIM	159_toswim_a	
+472	Lyngngam-15_blood-1	Lyngngam	15_blood	s a m	lyng1241	lyg	946	BLOOD	15_blood_a	
+473	Lyngngam-160_tail-1	Lyngngam	160_tail	k d o ŋ	lyng1241	lyg	1220	TAIL	160_tail_a	
+474	Lyngngam-161_that-1	Lyngngam	161_that	g a + t ei̯	lyng1241	lyg	78	THAT	161_that_a	
+475	Lyngngam-162_there-1	Lyngngam	162_there	g a tʰ o ʔ	lyng1241	lyg	1937	THERE	162_there_a	
+476	Lyngngam-163_they-1	Lyngngam	163_they	g i ʔ	lyng1241	lyg	817	THEY	163_they_b	
+477	Lyngngam-164_thick-1	Lyngngam	164_thick	r ɨ m b i n	lyng1241	lyg	1244	THICK	164_thick_a	
+478	Lyngngam-165_thin-1	Lyngngam	165_thin	s ɨ t a ŋ	lyng1241	lyg	2308	THIN	165_thin_a	
+480	Lyngngam-167_this-1	Lyngngam	167_this	g a + i ʔ	lyng1241	lyg	1214	THIS	167_this_a	
+481	Lyngngam-168_thou-1	Lyngngam	168_thou	m i	lyng1241	lyg	1215	THOU	168_thou_a	
+483	Lyngngam-169_three-1	Lyngngam	169_three	l ai̯	lyng1241	lyg	492	THREE	169_three_a	
+484	Lyngngam-16_blow-1	Lyngngam	16_blow	pʰ ɨ nː u r	lyng1241	lyg	175	BLOW (OF WIND)	16_blow_b	
+485	Lyngngam-170_tothrow-1	Lyngngam	170_tothrow	l ɨ tʰ e w	lyng1241	lyg	1456	THROW	170_tothrow_b	
+486	Lyngngam-171_totie-1	Lyngngam	171_totie	t ɨ nː a k	lyng1241	lyg	1917	TIE	171_totie_a	
+487	Lyngngam-172_tongue-1	Lyngngam	172_tongue	tʰ ɨ lː oi̯ t	lyng1241	lyg	1205	TONGUE	172_tongue_a	
+488	Lyngngam-173_tooth-1	Lyngngam	173_tooth	m oi̯ ɲ	lyng1241	lyg	1380	TOOTH	173_tooth_b	
+489	Lyngngam-174_tree-1	Lyngngam	174_tree	d i ə ŋ	lyng1241	lyg	906	TREE	174_tree_a	
+491	Lyngngam-176_two-1	Lyngngam	176_two	a r	lyng1241	lyg	1498	TWO	176_two_a	
+492	Lyngngam-177_tovomit-1	Lyngngam	177_tovomit	p ɨ rː a w	lyng1241	lyg	1278	VOMIT	177_tovomit_a	
+493	Lyngngam-178_towalk-1	Lyngngam	178_towalk	d i nː i ʔ	lyng1241	lyg	1443	WALK	178_towalk_b	
+494	Lyngngam-179_warm-1	Lyngngam	179_warm	ɨ n ʃ i t	lyng1241	lyg	1232	WARM	179_warm_b	
+495	Lyngngam-17_bone-1	Lyngngam	17_bone	c ʔ e ŋ	lyng1241	lyg	1394	BONE	17_bone_a	
+497	Lyngngam-181_water-1	Lyngngam	181_water	g u m	lyng1241	lyg	948	WATER	181_water_a	
+498	Lyngngam-182_we-1	Lyngngam	182_we	j e w	lyng1241	lyg	1212	WE	182_we_b	
+499	Lyngngam-183_wet-1	Lyngngam	183_wet	ɟ i m b ai̯ t	lyng1241	lyg	1726	WET	183_wet_b	
+500	Lyngngam-184_what-1	Lyngngam	184_what	u m e t	lyng1241	lyg	1236	WHAT	184_what_b	
+501	Lyngngam-185_when-1	Lyngngam	185_when	m ɨ nː e t	lyng1241	lyg	1238	WHEN	185_when_b	
+502	Lyngngam-186_where-1	Lyngngam	186_where	h a e t	lyng1241	lyg	1237	WHERE	186_where_b	
+503	Lyngngam-187_white-1	Lyngngam	187_white	ə lː i ʔ	lyng1241	lyg	1335	WHITE	187_white_a	
+504	Lyngngam-188_who-1	Lyngngam	188_who	j ə t	lyng1241	lyg	1235	WHO	188_who_b	
+505	Lyngngam-189_wide-1	Lyngngam	189_wide	ɨ i ə r	lyng1241	lyg	1243	WIDE	189_wide_a	
+506	Lyngngam-18_breathe-1	Lyngngam	18_breathe	r i ŋ + ɨ n s o m	lyng1241	lyg	1407	BREATHE	18_breathe_a	
+507	Lyngngam-190_wife-1	Lyngngam	190_wife	k o tʰ a w	lyng1241	lyg	1199	WIFE	190_wife_b	
+508	Lyngngam-191_wind-1	Lyngngam	191_wind	l ʔ i e r	lyng1241	lyg	960	WIND	191_wind_a	
+509	Lyngngam-192_wing-1	Lyngngam	192_wing	tʰ a p i r	lyng1241	lyg	1257	WING	192_wing_a	
+510	Lyngngam-193_towipe-1	Lyngngam	193_towipe	i nː a t	lyng1241	lyg	1454	WIPE	193_towipe_b	
+511	Lyngngam-194_with-1	Lyngngam	194_with	n a m	lyng1241	lyg	1340	WITH	194_with_b	
+512	Lyngngam-195_woman-1	Lyngngam	195_woman	r a w k m a w	lyng1241	lyg	962	WOMAN	195_woman_b	
+513	Lyngngam-196_woodsforest-1	Lyngngam	196_woodsforest	l ə w t ə p	lyng1241	lyg	420	FOREST	196_woodsforest_b	
+514	Lyngngam-197_worm-1	Lyngngam	197_worm	w i a k	lyng1241	lyg	1219	WORM	197_worm_a	
+515	Lyngngam-198_yeyoupl-1	Lyngngam	198_yeyoupl	pʰ j a w	lyng1241	lyg	1213	YOU	198_yeyoupl_a	
+516	Lyngngam-199_year-1	Lyngngam	199_year	s i m	lyng1241	lyg	1226	YEAR	199_year_a	
+517	Lyngngam-19_burn-1	Lyngngam	19_burn	ɨ tʰ a ŋ	lyng1241	lyg	2102	BURN	19_burn_a	
+519	Lyngngam-1_all-1	Lyngngam	1_all	p r o k	lyng1241	lyg	98	ALL	1_all_a	
+520	Lyngngam-200_yellow-1	Lyngngam	200_yellow	s ɨ t i m	lyng1241	lyg	1424	YELLOW	200_yellow_a	
+521	Lyngngam-20_child-1	Lyngngam	20_child	kʰ o n	lyng1241	lyg	2099	CHILD	20_child_a	
+522	Lyngngam-21_cloud-1	Lyngngam	21_cloud	l ʔ o ʔ	lyng1241	lyg	1489	CLOUD	21_cloud_a	
+523	Lyngngam-22_cold-1	Lyngngam	22_cold	b ɨ n s i r	lyng1241	lyg	1287	COLD	22_cold_b	
+524	Lyngngam-23_come-1	Lyngngam	23_come	l ɨ nː a r	lyng1241	lyg	1446	COME	23_come_b	
+525	Lyngngam-24_count-1	Lyngngam	24_count	cʰ ɨ nː a n	lyng1241	lyg	1420	COUNT	24_count_b	
+526	Lyngngam-25_cut-1	Lyngngam	25_cut	kʰ ɨ nː a p	lyng1241	lyg	1432	CUT	25_cut_a	
+527	Lyngngam-26_day-1	Lyngngam	26_day	s ŋ ei̯	lyng1241	lyg	1225	DAY (NOT NIGHT)	26_day_a	
+528	Lyngngam-27_die-1	Lyngngam	27_die	ɲ i nː a p	lyng1241	lyg	1494	DIE	27_die_a	
+529	Lyngngam-28_dig-1	Lyngngam	28_dig	t ɨ nː i e t	lyng1241	lyg	1418	DIG	28_dig_a	
+530	Lyngngam-29_dirty-1	Lyngngam	29_dirty	d ɨ mː u t	lyng1241	lyg	1230	DIRTY	29_dirty_b	
+533	Lyngngam-30_dog-1	Lyngngam	30_dog	k s u	lyng1241	lyg	2009	DOG	30_dog_a	
+534	Lyngngam-31_drink-1	Lyngngam	31_drink	d ɨ nː i e t	lyng1241	lyg	1401	DRINK	31_drink_a	
+535	Lyngngam-32_dry-1	Lyngngam	32_dry	r i ə ŋ kʰ o ŋ	lyng1241	lyg	1398	DRY	32_dry_a	
+536	Lyngngam-33_dullblunt-1	Lyngngam	33_dullblunt	ɟ o s m oi̯ t	lyng1241	lyg	379	BLUNT	33_dullblunt_b	
+538	Lyngngam-35_ear-1	Lyngngam	35_ear	l ə k u r	lyng1241	lyg	1247	EAR	35_ear_a	
+539	Lyngngam-36_earth-1	Lyngngam	36_earth	k m i ə ŋ	lyng1241	lyg	1228	EARTH (SOIL)	36_earth_b	
+540	Lyngngam-37_eat-1	Lyngngam	37_eat	b ɨ nː ə ŋ	lyng1241	lyg	1336	EAT	37_eat_a	
+541	Lyngngam-38_egg-1	Lyngngam	38_egg	p ɨ lː ɨ ŋ	lyng1241	lyg	744	EGG	38_egg_a	
+542	Lyngngam-39_eye-1	Lyngngam	39_eye	kʰ m a t	lyng1241	lyg	1248	EYE	39_eye_a	
+544	Lyngngam-40_tofall-1	Lyngngam	40_tofall	e ŋ ai̯	lyng1241	lyg	1280	FALL	40_tofall_b	
+545	Lyngngam-41_far-1	Lyngngam	41_far	ɟ ŋ i	lyng1241	lyg	1406	FAR	41_far_a	
+546	Lyngngam-42_fatgrease-1	Lyngngam	42_fatgrease	ɨ mː i r	lyng1241	lyg	323	FAT (ORGANIC SUBSTANCE)	42_fatgrease_b	
+547	Lyngngam-43_father-1	Lyngngam	43_father	p a	lyng1241	lyg	1217	FATHER	43_father_a	
+548	Lyngngam-44_tofear-1	Lyngngam	44_tofear	t i e ŋ + d a i t	lyng1241	lyg	1419	FEAR (BE AFRAID)	44_tofear_a	
+549	Lyngngam-45_feather-1	Lyngngam	45_feather	s i r	lyng1241	lyg	1201	FEATHER	45_feather_a	
+550	Lyngngam-46_few-1	Lyngngam	46_few	t a h + d i a t	lyng1241	lyg	1242	FEW	46_few_a	
+551	Lyngngam-47_tofight-1	Lyngngam	47_tofight	j a m u ʔ	lyng1241	lyg	1423	FIGHT	47_tofight_b	
+552	Lyngngam-48_fire-1	Lyngngam	48_fire	ə d o ɲ	lyng1241	lyg	221	FIRE	48_fire_a	
+553	Lyngngam-49_fish-1	Lyngngam	49_fish	kʰ a	lyng1241	lyg	227	FISH	49_fish_a	
+554	Lyngngam-4_ashes-1	Lyngngam	4_ashes	ə p a w	lyng1241	lyg	646	ASH	4_ashes_a	
+555	Lyngngam-50_five-1	Lyngngam	50_five	s a n	lyng1241	lyg	493	FIVE	50_five_a	
+556	Lyngngam-51_tofloat-1	Lyngngam	51_tofloat	r a ŋ	lyng1241	lyg	1574	FLOAT	51_tofloat_b	
+557	Lyngngam-52_toflow-1	Lyngngam	52_toflow	s ɨ + t oːi̯ d	lyng1241	lyg	2003	FLOW	52_toflow_a	
+558	Lyngngam-53_flower-1	Lyngngam	53_flower	s ɨ t e w	lyng1241	lyg	239	FLOWER	53_flower_a	
+559	Lyngngam-54_tofly-1	Lyngngam	54_tofly	k ɨ d ei̯	lyng1241	lyg	1441	FLY (MOVE THROUGH AIR)	54_tofly_b	
+560	Lyngngam-55_fog-1	Lyngngam	55_fog	n i o ŋ + i a	lyng1241	lyg	249	FOG	55_fog_b	
+561	Lyngngam-56_foot-1	Lyngngam	56_foot	k ɟ a t	lyng1241	lyg	1301	FOOT	56_foot_a	
+562	Lyngngam-57_four-1	Lyngngam	57_four	s a w	lyng1241	lyg	1500	FOUR	57_four_a	
+563	Lyngngam-58_freeze-1	Lyngngam	58_freeze	t ɨ ŋː a m	lyng1241	lyg	1431	FREEZE	58_freeze_b	
+565	Lyngngam-59_fruit-1	Lyngngam	59_fruit	s u ʔ	lyng1241	lyg	1507	FRUIT	59_fruit_a	
+566	Lyngngam-5_at-1	Lyngngam	5_at	h e	lyng1241	lyg	1461	AT	5_at_a	
+567	Lyngngam-60_give-1	Lyngngam	60_give	ɨ nː ai̯	lyng1241	lyg	1447	GIVE	60_give_a	
+568	Lyngngam-61_good-1	Lyngngam	61_good	m ɨ rʰː i a ŋ	lyng1241	lyg	1035	GOOD	61_good_a	
+569	Lyngngam-62_grass-1	Lyngngam	62_grass	pʰ l a ŋ	lyng1241	lyg	606	GRASS	62_grass_a	
+570	Lyngngam-63_green-1	Lyngngam	63_green	s ɨ ŋ i ə ŋ	lyng1241	lyg	1425	GREEN	63_green_a	
+571	Lyngngam-64_gutsintestines-1	Lyngngam	64_gutsintestines	s o r	lyng1241	lyg	1334	GUTS	64_gutsintestines_a	
+572	Lyngngam-65_hair-1	Lyngngam	65_hair	s ɲ i ə k	lyng1241	lyg	1040	HAIR	65_hair_a	
+573	Lyngngam-66_hand-1	Lyngngam	66_hand	k t ei̯	lyng1241	lyg	1277	HAND	66_hand_a	
+574	Lyngngam-67_he-1	Lyngngam	67_he	ɟ u t u ʔ	lyng1241	lyg	1211	HE	67_he_a	
+576	Lyngngam-68_head-1	Lyngngam	68_head	kʰ l i ʔ	lyng1241	lyg	1256	HEAD	68_head_a	
+577	Lyngngam-69_hear-1	Lyngngam	69_hear	s ŋ u	lyng1241	lyg	1408	HEAR	69_hear_a	
+578	Lyngngam-6_backanat-1	Lyngngam	6_backanat	b a d + d o n	lyng1241	lyg	1291	BACK	6_backanat_a	
+579	Lyngngam-70_heart-1	Lyngngam	70_heart	k l o ŋ + s a m	lyng1241	lyg	1223	HEART	70_heart_a	
+580	Lyngngam-71_heavy-1	Lyngngam	71_heavy	k e b a ʔ	lyng1241	lyg	1210	HEAVY	71_heavy_b	
+582	Lyngngam-72_here-1	Lyngngam	72_here	h a i ʔ	lyng1241	lyg	136	HERE	72_here_a	
+583	Lyngngam-73_hit-1	Lyngngam	73_hit	u d a ʔ	lyng1241	lyg	1433	HIT	73_hit_b	
+584	Lyngngam-74_holdtake-1	Lyngngam	74_holdtake	tʰ o m	lyng1241	lyg	2104	HOLD OR TAKE	74_holdtake_b	
+585	Lyngngam-75_how-1	Lyngngam	75_how	n a ŋ + e t	lyng1241	lyg	1239	HOW	75_how_b	
+586	Lyngngam-76_hunt-1	Lyngngam	76_hunt	w u ŋ + a	lyng1241	lyg	1435	HUNT	76_hunt_b	
+587	Lyngngam-77_husband-1	Lyngngam	77_husband	k o r a ŋ	lyng1241	lyg	1200	HUSBAND	77_husband_b	
+588	Lyngngam-78_i-1	Lyngngam	78_i	n ə	lyng1241	lyg	1209	I	78_i_a	
+589	Lyngngam-79_ice-1	Lyngngam	79_ice	tʰ a ʔ + ə lː i ʔ	lyng1241	lyg	617	ICE	79_ice_a	
+590	Lyngngam-7_bad-1	Lyngngam	7_bad	k ɨ cʰ a	lyng1241	lyg	1292	BAD	7_bad_b	
+591	Lyngngam-80_if-1	Lyngngam	80_if	l e d e	lyng1241	lyg	1459	IF	80_if_a	
+592	Lyngngam-81_in-1	Lyngngam	81_in	h e	lyng1241	lyg	1460	IN	81_in_a	
+593	Lyngngam-82_kill-1	Lyngngam	82_kill	p ɨ ɲ a p	lyng1241	lyg	1417	KILL	82_kill_a	
+594	Lyngngam-83_know-1	Lyngngam	83_know	h e ʔ k ə n	lyng1241	lyg	3626	KNOW	83_know_b	
+595	Lyngngam-84_lake-1	Lyngngam	84_lake	p u ŋ	lyng1241	lyg	624	LAKE	84_lake_a	
+596	Lyngngam-85_laugh-1	Lyngngam	85_laugh	ɨ lː o m	lyng1241	lyg	1355	LAUGH	85_laugh_b	
+597	Lyngngam-86_leaf-1	Lyngngam	86_leaf	s l a	lyng1241	lyg	628	LEAF	86_leaf_a	
+598	Lyngngam-87_leftside-1	Lyngngam	87_leftside	t ɨ mː i ə ŋ	lyng1241	lyg	244	LEFT	87_leftside_a	
+599	Lyngngam-88_leg-1	Lyngngam	88_leg	k ɟ a t	lyng1241	lyg	1297	LEG	88_leg_a	
+600	Lyngngam-89_toliedeceive-1	Lyngngam	89_toliedeceive	tʰ ɨ lː oi̯ t	lyng1241	lyg	601	LIE (MISLEAD)	89_toliedeceive_b	
+601	Lyngngam-8_barkoftree-1	Lyngngam	8_barkoftree	s i e ʔ	lyng1241	lyg	1204	BARK	8_barkoftree_a	
+602	Lyngngam-90_live-1	Lyngngam	90_live	ɨ nː i m	lyng1241	lyg	1422	BE ALIVE	90_live_a	
+603	Lyngngam-91_liver-1	Lyngngam	91_liver	n oː d	lyng1241	lyg	1224	LIVER	91_liver_a	
+604	Lyngngam-92_long-1	Lyngngam	92_long	ɟ ɨ rː o ŋ	lyng1241	lyg	1203	LONG	92_long_a	
+605	Lyngngam-93_louse-1	Lyngngam	93_louse	s ɨ lː i e t	lyng1241	lyg	1392	LOUSE	93_louse_b	
+606	Lyngngam-94_manmale-1	Lyngngam	94_manmale	kʰ o k o r a ŋ	lyng1241	lyg	2106	MALE PERSON	94_manmale_a	
+607	Lyngngam-95_many-1	Lyngngam	95_many	b o n	lyng1241	lyg	1198	MANY	95_many_a	
+608	Lyngngam-96_meatflesh-1	Lyngngam	96_meatflesh	m ei̯ m	lyng1241	lyg	2615	FLESH OR MEAT	96_meatflesh_b	
+609	Lyngngam-97_mother-1	Lyngngam	97_mother	g m a	lyng1241	lyg	1216	MOTHER	97_mother_a	
+610	Lyngngam-98_mountain-1	Lyngngam	98_mountain	d o m	lyng1241	lyg	639	MOUNTAIN	98_mountain_a	
+611	Lyngngam-99_mouth-1	Lyngngam	99_mouth	g a p	lyng1241	lyg	674	MOUTH	99_mouth_b	
+612	Lyngngam-9_because-1	Lyngngam	9_because	a m t e	lyng1241	lyg	1157	BECAUSE	9_because_b	
+615	Palaung-102_near-1	Palaung	102_near	d ə t	shwe1236	pll	1942	NEAR	102_near_b	
+616	Palaung-103_neck-1	Palaung	103_neck	r ə m ɔ ŋ	shwe1236	pll	1333	NECK	103_neck_c	
+617	Palaung-104_new-1	Palaung	104_new	k ə m ɛ	shwe1236	pll	1231	NEW	104_new_a	
+618	Palaung-105_night-1	Palaung	105_night	s ɯ m	shwe1236	pll	1233	NIGHT	105_night_c	
+619	Palaung-106_nose-1	Palaung	106_nose	m u h	shwe1236	pll	1221	NOSE	106_nose_a	
+621	Palaung-107_not-1	Palaung	107_not	k ə	shwe1236	pll	1240	NOT	107_not_c	
+622	Palaung-108_old-1	Palaung	108_old	p r i m	shwe1236	pll	1229	OLD	108_old_a	
+623	Palaung-109_one-1	Palaung	109_one	u	shwe1236	pll	1493	ONE	109_one_c	
+624	Palaung-10_belly-1	Palaung	10_belly	v ɛ ʔ	shwe1236	pll	1251	BELLY	10_belly_c	
+625	Palaung-110_other-1	Palaung	110_other	l ai̯	shwe1236	pll	197	OTHER	110_other_b	
+626	Palaung-111_person-1	Palaung	111_person	b i	shwe1236	pll	683	PERSON	111_person_b	
+627	Palaung-112_toplay-1	Palaung	112_toplay	k ə v ɛ ʔ	shwe1236	pll	1413	PLAY	112_toplay_d	
+628	Palaung-113_topull-1	Palaung	113_topull	r ɯ i t	shwe1236	pll	1455	PULL	113_topull_d	
+630	Palaung-114_topush-1	Palaung	114_topush	c o n	shwe1236	pll	1452	PUSH	114_topush_d	
+631	Palaung-115_torain-1	Palaung	115_torain	ɟ u ŋ	shwe1236	pll	1253	RAIN (RAINING)	115_torain_b	
+632	Palaung-116_red-1	Palaung	116_red	kʰ o	shwe1236	pll	156	RED	116_red_b	
+635	Palaung-119_river-1	Palaung	119_river	o m	shwe1236	pll	666	RIVER	119_river_c	
+636	Palaung-11_big-1	Palaung	11_big	d a ŋ	shwe1236	pll	1202	BIG	11_big_c	
+637	Palaung-120_road-1	Palaung	120_road	d e ŋ	shwe1236	pll	667	ROAD	120_road_d	
+638	Palaung-121_root-1	Palaung	121_root	r i ə r	shwe1236	pll	670	ROOT	121_root_a	
+639	Palaung-122_rope-1	Palaung	122_rope	v ə r	shwe1236	pll	1218	ROPE	122_rope_d	
+640	Palaung-123_rotten-1	Palaung	123_rotten	ə m	shwe1236	pll	1728	ROTTEN	123_rotten_d	
+641	Palaung-124_torub-1	Palaung	124_torub	s u t	shwe1236	pll	1449	RUB	124_torub_a	
+642	Palaung-125_salt-1	Palaung	125_salt	s ɔ ʔ	shwe1236	pll	1274	SALT	125_salt_b	
+643	Palaung-126_sand-1	Palaung	126_sand	s ai̯	shwe1236	pll	671	SAND	126_sand_c	
+644	Palaung-127_tosay-1	Palaung	127_tosay	d a h	shwe1236	pll	1458	SAY	127_tosay_b	
+645	Palaung-128_toscratch-1	Palaung	128_toscratch	p ɔ ʔ	shwe1236	pll	1436	SCRATCH	128_toscratch_c	
+646	Palaung-12_bird-1	Palaung	12_bird	s i m	shwe1236	pll	937	BIRD	12_bird_a	
+647	Palaung-130_see-1	Palaung	130_see	j ɯ	shwe1236	pll	1409	SEE	130_see_a	
+648	Palaung-131_seed-1	Palaung	131_seed	k ə ʔ a ŋ	shwe1236	pll	714	SEED	131_seed_c	
+649	Palaung-132_tosew-1	Palaung	132_tosew	ɟ i ŋ	shwe1236	pll	1457	SEW	132_tosew_b	
+650	Palaung-133_sharp-1	Palaung	133_sharp	l ə m	shwe1236	pll	1396	SHARP	133_sharp_c	
+651	Palaung-134_short-1	Palaung	134_short	ɛ m	shwe1236	pll	1645	SHORT	134_short_d	
+652	Palaung-135_tosing-1	Palaung	135_tosing	ŋ i r	shwe1236	pll	1261	SING	135_tosing_b	
+653	Palaung-136_tosit-1	Palaung	136_tosit	m ɔ ʔ	shwe1236	pll	1416	SIT	136_tosit_c	
+654	Palaung-137_skin-1	Palaung	137_skin	h u r	shwe1236	pll	763	SKIN	137_skin_b	
+655	Palaung-138_sky-1	Palaung	138_sky	p l e ŋ	shwe1236	pll	1732	SKY	138_sky_a	
+656	Palaung-139_tosleep-1	Palaung	139_tosleep	ʔ i t	shwe1236	pll	1585	SLEEP	139_tosleep_c	
+657	Palaung-13_tobite-1	Palaung	13_tobite	g a ʔ	shwe1236	pll	1403	BITE	13_tobite_d	
+658	Palaung-140_small-1	Palaung	140_small	d i ə t	shwe1236	pll	1246	SMALL	140_small_b	
+659	Palaung-141_tosmell-1	Palaung	141_tosmell	ʔ u r	shwe1236	pll	2124	SMELL	141_tosmell_d	
+660	Palaung-142_smoke-1	Palaung	142_smoke	t ɯ k	shwe1236	pll	778	SMOKE (EXHAUST)	142_smoke_b	
+661	Palaung-143_smooth-1	Palaung	143_smooth	k l e ə t	shwe1236	pll	1234	SMOOTH	143_smooth_c	
+662	Palaung-144_snake-1	Palaung	144_snake	h i ŋ	shwe1236	pll	730	SNAKE	144_snake_a	
+663	Palaung-146_some-1	Palaung	146_some	p ə r d i	shwe1236	pll	1241	SOME	146_some_d	
+664	Palaung-147_tospit-1	Palaung	147_tospit	b ɛ ʔ	shwe1236	pll	1440	SPIT	147_tospit_a	
+665	Palaung-148_tosplit-1	Palaung	148_tosplit	p l o h	shwe1236	pll	1437	SPLIT	148_tosplit_c	
+666	Palaung-149_tosqueeze-1	Palaung	149_tosqueeze	p i ə t	shwe1236	pll	1414	SQUEEZE	149_tosqueeze_c	
+667	Palaung-14_black-1	Palaung	14_black	j ə m	shwe1236	pll	163	BLACK	14_black_c	
+668	Palaung-150_tostabpierce-1	Palaung	150_tostabpierce	b r u h	shwe1236	pll	1434	STAB	150_tostabpierce_b	
+669	Palaung-151_tostand-1	Palaung	151_tostand	ɟ ə ŋ	shwe1236	pll	1442	STAND	151_tostand_a	
+670	Palaung-152_star-1	Palaung	152_star	s ə m i ŋ	shwe1236	pll	1430	STAR	152_star_b	
+671	Palaung-153_stickofwood-1	Palaung	153_stickofwood	h v i ə t	shwe1236	pll	1295	STICK	153_stickofwood_d	
+672	Palaung-154_stone-1	Palaung	154_stone	m o	shwe1236	pll	857	STONE	154_stone_a	
+673	Palaung-155_straight-1	Palaung	155_straight	pʰ i ə ŋ	shwe1236	pll	1404	STRAIGHT	155_straight_c	
+674	Palaung-156_tosuck-1	Palaung	156_tosuck	b u	shwe1236	pll	1421	SUCK	156_tosuck_b	
+676	Palaung-157_sun-1	Palaung	157_sun	s ə ŋ i	shwe1236	pll	1343	SUN	157_sun_a	
+677	Palaung-158_toswell-1	Palaung	158_toswell	g ɯ	shwe1236	pll	1573	SWELL	158_toswell_b	
+678	Palaung-159_toswim-1	Palaung	159_toswim	l ɔ j	shwe1236	pll	1439	SWIM	159_toswim_c	
+679	Palaung-15_blood-1	Palaung	15_blood	h a m	shwe1236	pll	946	BLOOD	15_blood_a	
+680	Palaung-160_tail-1	Palaung	160_tail	s t a ʔ	shwe1236	pll	1220	TAIL	160_tail_b	
+681	Palaung-161_that-1	Palaung	161_that	t ai̯	shwe1236	pll	78	THAT	161_that_a	
+682	Palaung-163_they-1	Palaung	163_they	g e	shwe1236	pll	817	THEY	163_they_a	
+683	Palaung-164_thick-1	Palaung	164_thick	h ə t	shwe1236	pll	1244	THICK	164_thick_b	
+684	Palaung-165_thin-1	Palaung	165_thin	h r e r	shwe1236	pll	2308	THIN	165_thin_b	
+685	Palaung-166_think-1	Palaung	166_think	tʰ a ŋ	shwe1236	pll	2271	THINK	166_think_b	
+686	Palaung-167_this-1	Palaung	167_this	ʔ ɯ	shwe1236	pll	1214	THIS	167_this_b	
+687	Palaung-168_thou-1	Palaung	168_thou	m i	shwe1236	pll	1215	THOU	168_thou_a	
+688	Palaung-169_three-1	Palaung	169_three	ʔ u ə j	shwe1236	pll	492	THREE	169_three_b	
+689	Palaung-16_blow-1	Palaung	16_blow	p u t	shwe1236	pll	175	BLOW (OF WIND)	16_blow_d	
+690	Palaung-170_tothrow-1	Palaung	170_tothrow	r u p	shwe1236	pll	1456	THROW	170_tothrow_e	
+691	Palaung-171_totie-1	Palaung	171_totie	t o ʔ	shwe1236	pll	1917	TIE	171_totie_a	
+692	Palaung-172_tongue-1	Palaung	172_tongue	k ə r t a ʔ	shwe1236	pll	1205	TONGUE	172_tongue_b	
+693	Palaung-173_tooth-1	Palaung	173_tooth	h r a ŋ	shwe1236	pll	1380	TOOTH	173_tooth_c	
+694	Palaung-174_tree-1	Palaung	174_tree	h e	shwe1236	pll	906	TREE	174_tree_c	
+695	Palaung-175_toturn-1	Palaung	175_toturn	p ə n	shwe1236	pll	1588	TURN	175_toturn_d	
+696	Palaung-176_two-1	Palaung	176_two	ʔ a r	shwe1236	pll	1498	TWO	176_two_a	
+697	Palaung-177_tovomit-1	Palaung	177_tovomit	h ɯ r	shwe1236	pll	1278	VOMIT	177_tovomit_c	
+699	Palaung-179_warm-1	Palaung	179_warm	k ə ʔ ɯ r	shwe1236	pll	1232	WARM	179_warm_d	
+700	Palaung-17_bone-1	Palaung	17_bone	k ə ʔ a ŋ	shwe1236	pll	1394	BONE	17_bone_a	
+701	Palaung-180_towash-1	Palaung	180_towash	kʰ oi̯	shwe1236	pll	1453	WASH	180_towash_b	
+703	Palaung-181_water-1	Palaung	181_water	ʔ o m	shwe1236	pll	948	WATER	181_water_a	
+704	Palaung-182_we-1	Palaung	182_we	ʔ ɛ	shwe1236	pll	1212	WE	182_we_c	
+705	Palaung-183_wet-1	Palaung	183_wet	o m + p j o + p j o	shwe1236	pll	1726	WET	183_wet_c	
+706	Palaung-184_what-1	Palaung	184_what	m ɔ	shwe1236	pll	1236	WHAT	184_what_d	
+708	Palaung-186_where-1	Palaung	186_where	m ɔ	shwe1236	pll	1237	WHERE	186_where_d	
+709	Palaung-187_white-1	Palaung	187_white	b l ɔ ʔ	shwe1236	pll	1335	WHITE	187_white_c	
+710	Palaung-188_who-1	Palaung	188_who	p ai̯	shwe1236	pll	1235	WHO	188_who_d	
+711	Palaung-189_wide-1	Palaung	189_wide	v a h	shwe1236	pll	1243	WIDE	189_wide_c	
+712	Palaung-18_breathe-1	Palaung	18_breathe	pʰ ɯ m	shwe1236	pll	1407	BREATHE	18_breathe_a	
+713	Palaung-190_wife-1	Palaung	190_wife	p ə l e	shwe1236	pll	1199	WIFE	190_wife_e	
+714	Palaung-191_wind-1	Palaung	191_wind	k u r	shwe1236	pll	960	WIND	191_wind_b	
+715	Palaung-192_wing-1	Palaung	192_wing	p e ə ŋ	shwe1236	pll	1257	WING	192_wing_b	
+716	Palaung-193_towipe-1	Palaung	193_towipe	kʰ u t	shwe1236	pll	1454	WIPE	193_towipe_e	
+718	Palaung-195_woman-1	Palaung	195_woman	i p ə n	shwe1236	pll	962	WOMAN	195_woman_c	
+719	Palaung-196_woodsforest-1	Palaung	196_woodsforest	b r i	shwe1236	pll	420	FOREST	196_woodsforest_d	
+720	Palaung-197_worm-1	Palaung	197_worm	r i ə r	shwe1236	pll	1219	WORM	197_worm_b	
+721	Palaung-198_yeyoupl-1	Palaung	198_yeyoupl	p ɛ	shwe1236	pll	1213	YOU	198_yeyoupl_a	
+722	Palaung-199_year-1	Palaung	199_year	s ə ə m	shwe1236	pll	1226	YEAR	199_year_a	
+723	Palaung-19_burn-1	Palaung	19_burn	g u t	shwe1236	pll	2102	BURN	19_burn_b	
+724	Palaung-1_all-1	Palaung	1_all	p ai̯	shwe1236	pll	98	ALL	1_all_b	
+725	Palaung-200_yellow-1	Palaung	200_yellow	t e ŋ	shwe1236	pll	1424	YELLOW	200_yellow_c	
+726	Palaung-20_child-1	Palaung	20_child	k u ə n	shwe1236	pll	2099	CHILD	20_child_a	
+727	Palaung-21_cloud-1	Palaung	21_cloud	u t	shwe1236	pll	1489	CLOUD	21_cloud_c	
+728	Palaung-22_cold-1	Palaung	22_cold	k a t	shwe1236	pll	1287	COLD	22_cold_d	
+729	Palaung-23_come-1	Palaung	23_come	h l u h	shwe1236	pll	1446	COME	23_come_c	
+731	Palaung-24_count-1	Palaung	24_count	d i r	shwe1236	pll	1420	COUNT	24_count_d	
+732	Palaung-25_cut-1	Palaung	25_cut	s e t	shwe1236	pll	1432	CUT	25_cut_d	
+733	Palaung-26_day-1	Palaung	26_day	s ə ŋ i	shwe1236	pll	1225	DAY (NOT NIGHT)	26_day_a	
+734	Palaung-27_die-1	Palaung	27_die	j ə m	shwe1236	pll	1494	DIE	27_die_b	
+735	Palaung-28_dig-1	Palaung	28_dig	p u ə r	shwe1236	pll	1418	DIG	28_dig_b	
+736	Palaung-29_dirty-1	Palaung	29_dirty	ɟ u + ɟ u	shwe1236	pll	1230	DIRTY	29_dirty_e	
+737	Palaung-30_dog-1	Palaung	30_dog	s ɔ	shwe1236	pll	2009	DOG	30_dog_a	
+738	Palaung-31_drink-1	Palaung	31_drink	t e ə ŋ	shwe1236	pll	1401	DRINK	31_drink_b	
+739	Palaung-32_dry-1	Palaung	32_dry	r ai̯	shwe1236	pll	1398	DRY	32_dry_c	
+741	Palaung-34_dust-1	Palaung	34_dust	k ə r b o h	shwe1236	pll	2	DUST	34_dust_c	
+742	Palaung-35_ear-1	Palaung	35_ear	h j ɔ ʔ	shwe1236	pll	1247	EAR	35_ear_c	
+743	Palaung-36_earth-1	Palaung	36_earth	k ə t ɛ	shwe1236	pll	1228	EARTH (SOIL)	36_earth_d	
+744	Palaung-37_eat-1	Palaung	37_eat	h a p	shwe1236	pll	1336	EAT	37_eat_c	
+745	Palaung-38_egg-1	Palaung	38_egg	k ə t ə m	shwe1236	pll	744	EGG	38_egg_c	
+746	Palaung-39_eye-1	Palaung	39_eye	ŋ ai̯	shwe1236	pll	1248	EYE	39_eye_b	
+748	Palaung-40_tofall-1	Palaung	40_tofall	r a r	shwe1236	pll	1280	FALL	40_tofall_d	
+749	Palaung-41_far-1	Palaung	41_far	s ə ŋ ai̯	shwe1236	pll	1406	FAR	41_far_a	
+750	Palaung-42_fatgrease-1	Palaung	42_fatgrease	k ə m u	shwe1236	pll	323	FAT (ORGANIC SUBSTANCE)	42_fatgrease_e	
+751	Palaung-43_father-1	Palaung	43_father	k u n	shwe1236	pll	1217	FATHER	43_father_b	
+752	Palaung-44_tofear-1	Palaung	44_tofear	j ɔ	shwe1236	pll	1419	FEAR (BE AFRAID)	44_tofear_b	
+753	Palaung-46_few-1	Palaung	46_few	b r e	shwe1236	pll	1242	FEW	46_few_c	
+754	Palaung-47_tofight-1	Palaung	47_tofight	t a i k	shwe1236	pll	1423	FIGHT	47_tofight_c	
+755	Palaung-48_fire-1	Palaung	48_fire	ŋ ə r	shwe1236	pll	221	FIRE	48_fire_c	
+756	Palaung-49_fish-1	Palaung	49_fish	k a	shwe1236	pll	227	FISH	49_fish_a	
+757	Palaung-4_ashes-1	Palaung	4_ashes	k ə h v a ŋ	shwe1236	pll	646	ASH	4_ashes_d	
+758	Palaung-50_five-1	Palaung	50_five	pʰ ə n	shwe1236	pll	493	FIVE	50_five_a	
+759	Palaung-51_tofloat-1	Palaung	51_tofloat	p l ɯ r	shwe1236	pll	1574	FLOAT	51_tofloat_c	
+760	Palaung-52_toflow-1	Palaung	52_toflow	h l ai̯	shwe1236	pll	2003	FLOW	52_toflow_c	
+761	Palaung-53_flower-1	Palaung	53_flower	p o h	shwe1236	pll	239	FLOWER	53_flower_c	
+762	Palaung-54_tofly-1	Palaung	54_tofly	p ə r	shwe1236	pll	1441	FLY (MOVE THROUGH AIR)	54_tofly_c	
+763	Palaung-55_fog-1	Palaung	55_fog	a j	shwe1236	pll	249	FOG	55_fog_d	
+764	Palaung-56_foot-1	Palaung	56_foot	ɟ ɯ ŋ	shwe1236	pll	1301	FOOT	56_foot_c	
+765	Palaung-57_four-1	Palaung	57_four	pʰ o n	shwe1236	pll	1500	FOUR	57_four_b	
+766	Palaung-58_freeze-1	Palaung	58_freeze	k r ɔ ʔ	shwe1236	pll	1431	FREEZE	58_freeze_c	
+767	Palaung-59_fruit-1	Palaung	59_fruit	p l e	shwe1236	pll	1507	FRUIT	59_fruit_b	
+768	Palaung-60_give-1	Palaung	60_give	d ɛ h	shwe1236	pll	1447	GIVE	60_give_b	
+769	Palaung-61_good-1	Palaung	61_good	l a ʔ	shwe1236	pll	1035	GOOD	61_good_c	
+770	Palaung-62_grass-1	Palaung	62_grass	k ə r b a n	shwe1236	pll	606	GRASS	62_grass_c	
+771	Palaung-63_green-1	Palaung	63_green	ɲ ə r	shwe1236	pll	1425	GREEN	63_green_b	
+772	Palaung-64_gutsintestines-1	Palaung	64_gutsintestines	r ɛ ŋ	shwe1236	pll	1334	GUTS	64_gutsintestines_b	
+773	Palaung-65_hair-1	Palaung	65_hair	h u ʔ	shwe1236	pll	1040	HAIR	65_hair_a	
+774	Palaung-66_hand-1	Palaung	66_hand	t i	shwe1236	pll	1277	HAND	66_hand_a	
+775	Palaung-67_he-1	Palaung	67_he	ə n	shwe1236	pll	1211	HE	67_he_b	
+776	Palaung-68_head-1	Palaung	68_head	k i ŋ	shwe1236	pll	1256	HEAD	68_head_b	
+777	Palaung-69_hear-1	Palaung	69_hear	ɟ u	shwe1236	pll	1408	HEAR	69_hear_c	
+778	Palaung-6_backanat-1	Palaung	6_backanat	k r ɔ ŋ	shwe1236	pll	1291	BACK	6_backanat_d	
+779	Palaung-70_heart-1	Palaung	70_heart	n u ə r	shwe1236	pll	1223	HEART	70_heart_b	
+780	Palaung-71_heavy-1	Palaung	71_heavy	ɟ ə n	shwe1236	pll	1210	HEAVY	71_heavy_e	
+781	Palaung-73_hit-1	Palaung	73_hit	t ɯ m	shwe1236	pll	1433	HIT	73_hit_d	
+782	Palaung-74_holdtake-1	Palaung	74_holdtake	l ɛ	shwe1236	pll	2104	HOLD OR TAKE	74_holdtake_d	
+783	Palaung-75_how-1	Palaung	75_how	kʰ ɯ j + m ɔ	shwe1236	pll	1239	HOW	75_how_d	
+784	Palaung-76_hunt-1	Palaung	76_hunt	ɟ ɔ m	shwe1236	pll	1435	HUNT	76_hunt_e	
+785	Palaung-77_husband-1	Palaung	77_husband	r ə l e h	shwe1236	pll	1200	HUSBAND	77_husband_c	
+786	Palaung-78_i-1	Palaung	78_i	ʔ ɔ	shwe1236	pll	1209	I	78_i_b	
+788	Palaung-7_bad-1	Palaung	7_bad	kʰ u	shwe1236	pll	1292	BAD	7_bad_e	
+790	Palaung-82_kill-1	Palaung	82_kill	p i ə m	shwe1236	pll	1417	KILL	82_kill_b	
+791	Palaung-83_know-1	Palaung	83_know	n ə p	shwe1236	pll	3626	KNOW	83_know_c	
+794	Palaung-86_leaf-1	Palaung	86_leaf	h l a	shwe1236	pll	628	LEAF	86_leaf_a	
+795	Palaung-87_leftside-1	Palaung	87_leftside	ʔ i + v e	shwe1236	pll	244	LEFT	87_leftside_b	
+796	Palaung-88_leg-1	Palaung	88_leg	ɟ ɯ ŋ	shwe1236	pll	1297	LEG	88_leg_c	
+797	Palaung-89_toliedeceive-1	Palaung	89_toliedeceive	c ɔ ʔ	shwe1236	pll	601	LIE (MISLEAD)	89_toliedeceive_e	
+798	Palaung-8_barkoftree-1	Palaung	8_barkoftree	g ɔ ʔ	shwe1236	pll	1204	BARK	8_barkoftree_b	
+799	Palaung-90_live-1	Palaung	90_live	i m	shwe1236	pll	1422	BE ALIVE	90_live_a	
+800	Palaung-91_liver-1	Palaung	91_liver	k ə r t ɔ m	shwe1236	pll	1224	LIVER	91_liver_b	
+801	Palaung-92_long-1	Palaung	92_long	h l ɯ ŋ	shwe1236	pll	1203	LONG	92_long_b	
+802	Palaung-93_louse-1	Palaung	93_louse	s i	shwe1236	pll	1392	LOUSE	93_louse_a	
+803	Palaung-94_manmale-1	Palaung	94_manmale	i m e	shwe1236	pll	2106	MALE PERSON	94_manmale_b	
+804	Palaung-95_many-1	Palaung	95_many	k ɯ n	shwe1236	pll	1198	MANY	95_many_b	
+806	Palaung-96_meatflesh-1	Palaung	96_meatflesh	j ə ŋ	shwe1236	pll	2615	FLESH OR MEAT	96_meatflesh_c	
+807	Palaung-97_mother-1	Palaung	97_mother	m a	shwe1236	pll	1216	MOTHER	97_mother_a	
+808	Palaung-98_mountain-1	Palaung	98_mountain	s o r	shwe1236	pll	639	MOUNTAIN	98_mountain_c	
+809	Palaung-99_mouth-1	Palaung	99_mouth	m u r	shwe1236	pll	674	MOUTH	99_mouth_e	
+810	PnarJaintia-100_name-1	PnarJaintia	100_name	p r̩ t u i d	jain1238	nan	1405	NAME	100_name_b	
+811	PnarJaintia-101_narrow-1	PnarJaintia	101_narrow	kʰ ɪ m	jain1238	nan	1267	NARROW	101_narrow_a	
+812	PnarJaintia-102_near-1	PnarJaintia	102_near	dʒ a n	jain1238	nan	1942	NEAR	102_near_a	
+813	PnarJaintia-103_neck-1	PnarJaintia	103_neck	r d a ŋ	jain1238	nan	1333	NECK	103_neck_a	
+814	PnarJaintia-104_new-1	PnarJaintia	104_new	tʰ m̩ m e	jain1238	nan	1231	NEW	104_new_a	
+815	PnarJaintia-105_night-1	PnarJaintia	105_night	m e i t	jain1238	nan	1233	NIGHT	105_night_a	
+816	PnarJaintia-106_nose-1	PnarJaintia	106_nose	kʰ m u t	jain1238	nan	1221	NOSE	106_nose_a	
+817	PnarJaintia-107_not-1	PnarJaintia	107_not	m̩	jain1238	nan	1240	NOT	107_not_b	
+818	PnarJaintia-108_old-1	PnarJaintia	108_old	r ɪ m	jain1238	nan	1229	OLD	108_old_a	
+819	PnarJaintia-109_one-1	PnarJaintia	109_one	w i	jain1238	nan	1493	ONE	109_one_a	
+820	PnarJaintia-10_belly-1	PnarJaintia	10_belly	k p ɔ ʔ	jain1238	nan	1251	BELLY	10_belly_a	
+822	PnarJaintia-111_person-1	PnarJaintia	111_person	b r u	jain1238	nan	683	PERSON	111_person_a	
+823	PnarJaintia-112_toplay-1	PnarJaintia	112_toplay	k n̩ d e i ʔ + k e	jain1238	nan	1413	PLAY	112_toplay_a	
+824	PnarJaintia-113_topull-1	PnarJaintia	113_topull	t a n	jain1238	nan	1455	PULL	113_topull_a	
+825	PnarJaintia-114_topush-1	PnarJaintia	114_topush	ŋ i a t	jain1238	nan	1452	PUSH	114_topush_a	
+826	PnarJaintia-115_torain-1	PnarJaintia	115_torain	s l a p	jain1238	nan	1253	RAIN (RAINING)	115_torain_a	
+827	PnarJaintia-116_red-1	PnarJaintia	116_red	s o	jain1238	nan	156	RED	116_red_a	
+828	PnarJaintia-117_rightcorrect-1	PnarJaintia	117_rightcorrect	t ɔ ʔ	jain1238	nan	1725	CORRECT (RIGHT)	117_rightcorrect_b	
+829	PnarJaintia-118_rightside-1	PnarJaintia	118_rightside	t i m u n	jain1238	nan	1019	RIGHT	118_rightside_a	
+830	PnarJaintia-119_river-1	PnarJaintia	119_river	w a ʔ	jain1238	nan	666	RIVER	119_river_a	
+831	PnarJaintia-11_big-1	PnarJaintia	11_big	h ɛ ʔ	jain1238	nan	1202	BIG	11_big_a	
+832	PnarJaintia-120_road-1	PnarJaintia	120_road	s ə r ɔ k	jain1238	nan	667	ROAD	120_road_a	
+833	PnarJaintia-121_root-1	PnarJaintia	121_root	tʰ e i d	jain1238	nan	670	ROOT	121_root_b	
+834	PnarJaintia-122_rope-1	PnarJaintia	122_rope	t l̩ l e	jain1238	nan	1218	ROPE	122_rope_a	
+835	PnarJaintia-123_rotten-1	PnarJaintia	123_rotten	p ʔ u t	jain1238	nan	1728	ROTTEN	123_rotten_a	
+836	PnarJaintia-124_torub-1	PnarJaintia	124_torub	k r̩ tʃ u t	jain1238	nan	1449	RUB	124_torub_a	
+837	PnarJaintia-125_salt-1	PnarJaintia	125_salt	b l o ʔ	jain1238	nan	1274	SALT	125_salt_a	
+838	PnarJaintia-126_sand-1	PnarJaintia	126_sand	tʃ ʔ ɛ ʌ p	jain1238	nan	671	SAND	126_sand_a	
+839	PnarJaintia-127_tosay-1	PnarJaintia	127_tosay	ʔ ɔ ŋ	jain1238	nan	1458	SAY	127_tosay_a	
+840	PnarJaintia-128_toscratch-1	PnarJaintia	128_toscratch	tʃ b ɔ t	jain1238	nan	1436	SCRATCH	128_toscratch_b	
+841	PnarJaintia-129_sea-1	PnarJaintia	129_sea	d u r i a w	jain1238	nan	1474	SEA	129_sea_a	
+842	PnarJaintia-12_bird-1	PnarJaintia	12_bird	s i m	jain1238	nan	937	BIRD	12_bird_a	
+843	PnarJaintia-130_see-1	PnarJaintia	130_see	p a i t	jain1238	nan	1409	SEE	130_see_b	
+844	PnarJaintia-131_seed-1	PnarJaintia	131_seed	s m̩ b e	jain1238	nan	714	SEED	131_seed_a	
+845	PnarJaintia-132_tosew-1	PnarJaintia	132_tosew	s o r	jain1238	nan	1457	SEW	132_tosew_a	
+846	PnarJaintia-133_sharp-1	PnarJaintia	133_sharp	n ɛ p	jain1238	nan	1396	SHARP	133_sharp_a	
+847	PnarJaintia-134_short-1	PnarJaintia	134_short	t b i e n	jain1238	nan	1645	SHORT	134_short_b	
+848	PnarJaintia-135_tosing-1	PnarJaintia	135_tosing	r w a i	jain1238	nan	1261	SING	135_tosing_a	
+849	PnarJaintia-136_tosit-1	PnarJaintia	136_tosit	tʃ ɔ ŋ	jain1238	nan	1416	SIT	136_tosit_a	
+850	PnarJaintia-137_skin-1	PnarJaintia	137_skin	s e i ʔ	jain1238	nan	763	SKIN	137_skin_a	
+851	PnarJaintia-138_sky-1	PnarJaintia	138_sky	b e i ɲ	jain1238	nan	1732	SKY	138_sky_a	
+852	PnarJaintia-139_tosleep-1	PnarJaintia	139_tosleep	tʰ i a ʔ	jain1238	nan	1585	SLEEP	139_tosleep_a	
+853	PnarJaintia-13_tobite-1	PnarJaintia	13_tobite	d a i t	jain1238	nan	1403	BITE	13_tobite_a	
+854	PnarJaintia-140_small-1	PnarJaintia	140_small	kʰ e i ɲ	jain1238	nan	1246	SMALL	140_small_c	
+855	PnarJaintia-141_tosmell-1	PnarJaintia	141_tosmell	s m a	jain1238	nan	2124	SMELL	141_tosmell_a	
+856	PnarJaintia-142_smoke-1	PnarJaintia	142_smoke	t d ɛ m	jain1238	nan	778	SMOKE (EXHAUST)	142_smoke_a	
+857	PnarJaintia-143_smooth-1	PnarJaintia	143_smooth	j a l i ʔ	jain1238	nan	1234	SMOOTH	143_smooth_a	
+858	PnarJaintia-144_snake-1	PnarJaintia	144_snake	p s e i ɲ	jain1238	nan	730	SNAKE	144_snake_a	
+859	PnarJaintia-145_snow-1	PnarJaintia	145_snow	tʰ a ʔ	jain1238	nan	784	SNOW	145_snow_b	
+860	PnarJaintia-146_some-1	PnarJaintia	146_some	kʰ a ɟ i a k	jain1238	nan	1241	SOME	146_some_b	
+861	PnarJaintia-147_tospit-1	PnarJaintia	147_tospit	m n̩ tʰ u	jain1238	nan	1440	SPIT	147_tospit_b	
+862	PnarJaintia-148_tosplit-1	PnarJaintia	148_tosplit	pʰ i a ʔ	jain1238	nan	1437	SPLIT	148_tosplit_a	
+863	PnarJaintia-149_tosqueeze-1	PnarJaintia	149_tosqueeze	k s i ʔ	jain1238	nan	1414	SQUEEZE	149_tosqueeze_b	
+864	PnarJaintia-14_black-1	PnarJaintia	14_black	j ɔ ŋ	jain1238	nan	163	BLACK	14_black_a	
+865	PnarJaintia-150_tostabpierce-1	PnarJaintia	150_tostabpierce	d u ŋ	jain1238	nan	1434	STAB	150_tostabpierce_a	
+866	PnarJaintia-151_tostand-1	PnarJaintia	151_tostand	j e i ɲ	jain1238	nan	1442	STAND	151_tostand_a	
+867	PnarJaintia-152_star-1	PnarJaintia	152_star	kʰ l o r	jain1238	nan	1430	STAR	152_star_a	
+868	PnarJaintia-153_stickofwood-1	PnarJaintia	153_stickofwood	d e i ɲ	jain1238	nan	1295	STICK	153_stickofwood_b	
+869	PnarJaintia-154_stone-1	PnarJaintia	154_stone	m o	jain1238	nan	857	STONE	154_stone_a	
+870	PnarJaintia-155_straight-1	PnarJaintia	155_straight	b e i t	jain1238	nan	1404	STRAIGHT	155_straight_a	
+871	PnarJaintia-156_tosuck-1	PnarJaintia	156_tosuck	b u	jain1238	nan	1421	SUCK	156_tosuck_b	
+872	PnarJaintia-157_sun-1	PnarJaintia	157_sun	s ŋ i	jain1238	nan	1343	SUN	157_sun_a	
+873	PnarJaintia-158_toswell-1	PnarJaintia	158_toswell	a d	jain1238	nan	1573	SWELL	158_toswell_a	
+874	PnarJaintia-159_toswim-1	PnarJaintia	159_toswim	j m̩ p a	jain1238	nan	1439	SWIM	159_toswim_b	
+875	PnarJaintia-15_blood-1	PnarJaintia	15_blood	s a m	jain1238	nan	946	BLOOD	15_blood_a	
+876	PnarJaintia-160_tail-1	PnarJaintia	160_tail	t d ɔ ŋ	jain1238	nan	1220	TAIL	160_tail_a	
+877	PnarJaintia-161_that-1	PnarJaintia	161_that	k a t a i	jain1238	nan	78	THAT	161_that_a	
+878	PnarJaintia-162_there-1	PnarJaintia	162_there	h e i t a i	jain1238	nan	1937	THERE	162_there_b	
+879	PnarJaintia-163_they-1	PnarJaintia	163_they	k i	jain1238	nan	817	THEY	163_they_a	
+880	PnarJaintia-164_thick-1	PnarJaintia	164_thick	r b ɛ n	jain1238	nan	1244	THICK	164_thick_a	
+881	PnarJaintia-165_thin-1	PnarJaintia	165_thin	s t a ŋ	jain1238	nan	2308	THIN	165_thin_a	
+883	PnarJaintia-167_this-1	PnarJaintia	167_this	k a i	jain1238	nan	1214	THIS	167_this_a	
+884	PnarJaintia-168_thou-1	PnarJaintia	168_thou	m e	jain1238	nan	1215	THOU	168_thou_a	
+886	PnarJaintia-169_three-1	PnarJaintia	169_three	l e	jain1238	nan	492	THREE	169_three_a	
+887	PnarJaintia-16_blow-1	PnarJaintia	16_blow	s l u	jain1238	nan	175	BLOW (OF WIND)	16_blow_c	
+888	PnarJaintia-170_tothrow-1	PnarJaintia	170_tothrow	p a kʰ ɔ t	jain1238	nan	1456	THROW	170_tothrow_c	
+889	PnarJaintia-171_totie-1	PnarJaintia	171_totie	k d ɔ ʔ	jain1238	nan	1917	TIE	171_totie_b	
+890	PnarJaintia-172_tongue-1	PnarJaintia	172_tongue	tʰ l̩ l e i ʔ	jain1238	nan	1205	TONGUE	172_tongue_a	
+891	PnarJaintia-173_tooth-1	PnarJaintia	173_tooth	l ʌ m e i ɲ	jain1238	nan	1380	TOOTH	173_tooth_b	
+892	PnarJaintia-174_tree-1	PnarJaintia	174_tree	d e i ɲ	jain1238	nan	906	TREE	174_tree_a	
+893	PnarJaintia-175_toturn-1	PnarJaintia	175_toturn	d ɔ ŋ	jain1238	nan	1588	TURN	175_toturn_b	
+894	PnarJaintia-176_two-1	PnarJaintia	176_two	a r	jain1238	nan	1498	TWO	176_two_a	
+895	PnarJaintia-177_tovomit-1	PnarJaintia	177_tovomit	p r a i	jain1238	nan	1278	VOMIT	177_tovomit_a	
+896	PnarJaintia-178_towalk-1	PnarJaintia	178_towalk	l a i + k dʒ a t	jain1238	nan	1443	WALK	178_towalk_c	
+897	PnarJaintia-179_warm-1	PnarJaintia	179_warm	c i t	jain1238	nan	1232	WARM	179_warm_b	
+898	PnarJaintia-17_bone-1	PnarJaintia	17_bone	tʃ ʔ e i ɲ	jain1238	nan	1394	BONE	17_bone_a	
+899	PnarJaintia-180_towash-1	PnarJaintia	180_towash	s a i t	jain1238	nan	1453	WASH	180_towash_a	
+900	PnarJaintia-181_water-1	PnarJaintia	181_water	u m	jain1238	nan	948	WATER	181_water_a	
+901	PnarJaintia-182_we-1	PnarJaintia	182_we	i	jain1238	nan	1212	WE	182_we_c	
+902	PnarJaintia-183_wet-1	PnarJaintia	183_wet	dʒʰ e i ʔ	jain1238	nan	1726	WET	183_wet_a	
+903	PnarJaintia-184_what-1	PnarJaintia	184_what	i l ɛ ʔ	jain1238	nan	1236	WHAT	184_what_c	
+904	PnarJaintia-185_when-1	PnarJaintia	185_when	n̩ u	jain1238	nan	1238	WHEN	185_when_a	
+906	PnarJaintia-187_white-1	PnarJaintia	187_white	l e i ʔ	jain1238	nan	1335	WHITE	187_white_a	
+907	PnarJaintia-188_who-1	PnarJaintia	188_who	u	jain1238	nan	1235	WHO	188_who_b	
+909	PnarJaintia-189_wide-1	PnarJaintia	189_wide	j a r	jain1238	nan	1243	WIDE	189_wide_a	
+910	PnarJaintia-18_breathe-1	PnarJaintia	18_breathe	r ɪ ɲ + m n̩ s e i m	jain1238	nan	1407	BREATHE	18_breathe_a	
+911	PnarJaintia-190_wife-1	PnarJaintia	190_wife	l ɔ k	jain1238	nan	1199	WIFE	190_wife_c	
+912	PnarJaintia-191_wind-1	PnarJaintia	191_wind	l ʔ ɛ r	jain1238	nan	960	WIND	191_wind_a	
+913	PnarJaintia-192_wing-1	PnarJaintia	192_wing	tʰ a w a ɛ r	jain1238	nan	1257	WING	192_wing_a	
+914	PnarJaintia-193_towipe-1	PnarJaintia	193_towipe	ɲ i a m	jain1238	nan	1454	WIPE	193_towipe_c	
+915	PnarJaintia-194_with-1	PnarJaintia	194_with	w a	jain1238	nan	1340	WITH	194_with_c	
+916	PnarJaintia-195_woman-1	PnarJaintia	195_woman	k n̩ tʰ a i	jain1238	nan	962	WOMAN	195_woman_a	
+917	PnarJaintia-196_woodsforest-1	PnarJaintia	196_woodsforest	kʰ l o	jain1238	nan	420	FOREST	196_woodsforest_a	
+918	PnarJaintia-197_worm-1	PnarJaintia	197_worm	w e i ʔ	jain1238	nan	1219	WORM	197_worm_a	
+919	PnarJaintia-198_yeyoupl-1	PnarJaintia	198_yeyoupl	pʰ i	jain1238	nan	1213	YOU	198_yeyoupl_a	
+920	PnarJaintia-199_year-1	PnarJaintia	199_year	s ɛ m	jain1238	nan	1226	YEAR	199_year_a	
+921	PnarJaintia-19_burn-1	PnarJaintia	19_burn	tʰ a ŋ	jain1238	nan	2102	BURN	19_burn_a	
+922	PnarJaintia-1_all-1	PnarJaintia	1_all	w a r ɔ ʔ	jain1238	nan	98	ALL	1_all_a	
+923	PnarJaintia-200_yellow-1	PnarJaintia	200_yellow	s t ɛ m	jain1238	nan	1424	YELLOW	200_yellow_a	
+924	PnarJaintia-20_child-1	PnarJaintia	20_child	kʰ ɔ n	jain1238	nan	2099	CHILD	20_child_a	
+925	PnarJaintia-21_cloud-1	PnarJaintia	21_cloud	l ʔ ɔ ʔ	jain1238	nan	1489	CLOUD	21_cloud_a	
+926	PnarJaintia-22_cold-1	PnarJaintia	22_cold	k dʒ a m	jain1238	nan	1287	COLD	22_cold_c	
+927	PnarJaintia-23_come-1	PnarJaintia	23_come	w a n	jain1238	nan	1446	COME	23_come_a	
+928	PnarJaintia-24_count-1	PnarJaintia	24_count	n i a w	jain1238	nan	1420	COUNT	24_count_a	
+929	PnarJaintia-25_cut-1	PnarJaintia	25_cut	a ʔ	jain1238	nan	1432	CUT	25_cut_b	
+930	PnarJaintia-26_day-1	PnarJaintia	26_day	s ŋ i	jain1238	nan	1225	DAY (NOT NIGHT)	26_day_a	
+931	PnarJaintia-27_die-1	PnarJaintia	27_die	j a p	jain1238	nan	1494	DIE	27_die_a	
+932	PnarJaintia-28_dig-1	PnarJaintia	28_dig	t i ʔ	jain1238	nan	1418	DIG	28_dig_a	
+933	PnarJaintia-29_dirty-1	PnarJaintia	29_dirty	t a r oi̯	jain1238	nan	1230	DIRTY	29_dirty_c	
+934	PnarJaintia-2_and-1	PnarJaintia	2_and	w a	jain1238	nan	1577	AND	2_and_c	
+935	PnarJaintia-30_dog-1	PnarJaintia	30_dog	k s a w	jain1238	nan	2009	DOG	30_dog_a	
+936	PnarJaintia-31_drink-1	PnarJaintia	31_drink	d i ʔ	jain1238	nan	1401	DRINK	31_drink_a	
+937	PnarJaintia-32_dry-1	PnarJaintia	32_dry	r a w	jain1238	nan	1398	DRY	32_dry_b	
+938	PnarJaintia-33_dullblunt-1	PnarJaintia	33_dullblunt	tʰ l a	jain1238	nan	379	BLUNT	33_dullblunt_c	
+939	PnarJaintia-34_dust-1	PnarJaintia	34_dust	dʒ l̩ pʰ o ʔ	jain1238	nan	2	DUST	34_dust_b	
+940	PnarJaintia-35_ear-1	PnarJaintia	35_ear	tʃ k ɔ r	jain1238	nan	1247	EAR	35_ear_a	
+941	PnarJaintia-36_earth-1	PnarJaintia	36_earth	kʰ d a w	jain1238	nan	1228	EARTH (SOIL)	36_earth_c	
+942	PnarJaintia-37_eat-1	PnarJaintia	37_eat	b a m	jain1238	nan	1336	EAT	37_eat_a	
+943	PnarJaintia-38_egg-1	PnarJaintia	38_egg	p l̩ l e i ɲ	jain1238	nan	744	EGG	38_egg_a	
+944	PnarJaintia-39_eye-1	PnarJaintia	39_eye	kʰ m a t	jain1238	nan	1248	EYE	39_eye_a	
+946	PnarJaintia-40_tofall-1	PnarJaintia	40_tofall	h a p	jain1238	nan	1280	FALL	40_tofall_a	
+947	PnarJaintia-41_far-1	PnarJaintia	41_far	dʒ ŋ a i	jain1238	nan	1406	FAR	41_far_a	
+948	PnarJaintia-42_fatgrease-1	PnarJaintia	42_fatgrease	kʰ l a ɲ	jain1238	nan	323	FAT (ORGANIC SUBSTANCE)	42_fatgrease_c	
+949	PnarJaintia-43_father-1	PnarJaintia	43_father	p a	jain1238	nan	1217	FATHER	43_father_a	
+950	PnarJaintia-44_tofear-1	PnarJaintia	44_tofear	t ei̯ ɲ	jain1238	nan	1419	FEAR (BE AFRAID)	44_tofear_a	
+951	PnarJaintia-45_feather-1	PnarJaintia	45_feather	tʰ a w a ɛ r	jain1238	nan	1201	FEATHER	45_feather_a	
+952	PnarJaintia-46_few-1	PnarJaintia	46_few	kʰ a dʒʲ a k	jain1238	nan	1242	FEW	46_few_b	
+953	PnarJaintia-47_tofight-1	PnarJaintia	47_tofight	j a tʃ ɔ ʔ	jain1238	nan	1423	FIGHT	47_tofight_a	
+954	PnarJaintia-48_fire-1	PnarJaintia	48_fire	d i ɲ	jain1238	nan	221	FIRE	48_fire_a	
+955	PnarJaintia-49_fish-1	PnarJaintia	49_fish	d a kʰ a	jain1238	nan	227	FISH	49_fish_a	
+956	PnarJaintia-4_ashes-1	PnarJaintia	4_ashes	t p a i	jain1238	nan	646	ASH	4_ashes_a	
+957	PnarJaintia-50_five-1	PnarJaintia	50_five	s a n	jain1238	nan	493	FIVE	50_five_a	
+958	PnarJaintia-51_tofloat-1	PnarJaintia	51_tofloat	p ɛ r	jain1238	nan	1574	FLOAT	51_tofloat_a	
+959	PnarJaintia-52_toflow-1	PnarJaintia	52_toflow	t oːi̯ d	jain1238	nan	2003	FLOW	52_toflow_a	
+960	PnarJaintia-53_flower-1	PnarJaintia	53_flower	s n̩ t u	jain1238	nan	239	FLOWER	53_flower_a	
+961	PnarJaintia-54_tofly-1	PnarJaintia	54_tofly	p n̩ h ɛ r	jain1238	nan	1441	FLY (MOVE THROUGH AIR)	54_tofly_a	
+962	PnarJaintia-55_fog-1	PnarJaintia	55_fog	l ʔ ɔ ʔ + kʰ n̩ d a w	jain1238	nan	249	FOG	55_fog_c	
+963	PnarJaintia-56_foot-1	PnarJaintia	56_foot	k dʒ a t	jain1238	nan	1301	FOOT	56_foot_a	
+964	PnarJaintia-57_four-1	PnarJaintia	57_four	s o	jain1238	nan	1500	FOUR	57_four_a	
+965	PnarJaintia-58_freeze-1	PnarJaintia	58_freeze	tʰ a ʔ	jain1238	nan	1431	FREEZE	58_freeze_a	
+966	PnarJaintia-59_fruit-1	PnarJaintia	59_fruit	s ɔ ʔ	jain1238	nan	1507	FRUIT	59_fruit_a	
+967	PnarJaintia-5_at-1	PnarJaintia	5_at	h a	jain1238	nan	1461	AT	5_at_a	
+968	PnarJaintia-60_give-1	PnarJaintia	60_give	e	jain1238	nan	1447	GIVE	60_give_a	
+970	PnarJaintia-62_grass-1	PnarJaintia	62_grass	pʰ l a ŋ	jain1238	nan	606	GRASS	62_grass_a	
+971	PnarJaintia-63_green-1	PnarJaintia	63_green	j r̩ ŋ a m	jain1238	nan	1425	GREEN	63_green_a	
+972	PnarJaintia-64_gutsintestines-1	PnarJaintia	64_gutsintestines	s ɛ r	jain1238	nan	1334	GUTS	64_gutsintestines_a	
+973	PnarJaintia-65_hair-1	PnarJaintia	65_hair	s ɲʲ o ʔ	jain1238	nan	1040	HAIR	65_hair_a	
+974	PnarJaintia-66_hand-1	PnarJaintia	66_hand	k t i	jain1238	nan	1277	HAND	66_hand_a	
+975	PnarJaintia-67_he-1	PnarJaintia	67_he	u	jain1238	nan	1211	HE	67_he_a	
+976	PnarJaintia-68_head-1	PnarJaintia	68_head	kʰ l e i ʔ	jain1238	nan	1256	HEAD	68_head_a	
+977	PnarJaintia-69_hear-1	PnarJaintia	69_hear	s i a w	jain1238	nan	1408	HEAR	69_hear_a	
+978	PnarJaintia-6_backanat-1	PnarJaintia	6_backanat	r n̩ kʰ i	jain1238	nan	1291	BACK	6_backanat_b	
+979	PnarJaintia-70_heart-1	PnarJaintia	70_heart	k l ɔ ŋ + s a m	jain1238	nan	1223	HEART	70_heart_a	
+980	PnarJaintia-71_heavy-1	PnarJaintia	71_heavy	kʰ i a	jain1238	nan	1210	HEAVY	71_heavy_c	
+981	PnarJaintia-72_here-1	PnarJaintia	72_here	h e i i	jain1238	nan	136	HERE	72_here_a	
+982	PnarJaintia-73_hit-1	PnarJaintia	73_hit	d a t	jain1238	nan	1433	HIT	73_hit_c	
+983	PnarJaintia-74_holdtake-1	PnarJaintia	74_holdtake	tʃ ɪ m	jain1238	nan	2104	HOLD OR TAKE	74_holdtake_a	
+984	PnarJaintia-75_how-1	PnarJaintia	75_how	k a mː ɔ n	jain1238	nan	1239	HOW	75_how_a	
+985	PnarJaintia-76_hunt-1	PnarJaintia	76_hunt	l a i + s i ɛ t + d ɔ ʔ	jain1238	nan	1435	HUNT	76_hunt_c	
+986	PnarJaintia-77_husband-1	PnarJaintia	77_husband	l ɔ k	jain1238	nan	1200	HUSBAND	77_husband_b	
+987	PnarJaintia-78_i-1	PnarJaintia	78_i	ŋ a	jain1238	nan	1209	I	78_i_a	
+988	PnarJaintia-79_ice-1	PnarJaintia	79_ice	tʰ a ʔ	jain1238	nan	617	ICE	79_ice_a	
+989	PnarJaintia-7_bad-1	PnarJaintia	7_bad	s i ʔ	jain1238	nan	1292	BAD	7_bad_c	
+990	PnarJaintia-80_if-1	PnarJaintia	80_if	l a d a	jain1238	nan	1459	IF	80_if_a	
+991	PnarJaintia-81_in-1	PnarJaintia	81_in	h a	jain1238	nan	1460	IN	81_in_a	
+992	PnarJaintia-82_kill-1	PnarJaintia	82_kill	p n̩ j a p	jain1238	nan	1417	KILL	82_kill_a	
+993	PnarJaintia-83_know-1	PnarJaintia	83_know	t ɪ p	jain1238	nan	3626	KNOW	83_know_a	
+994	PnarJaintia-84_lake-1	PnarJaintia	84_lake	p u ŋ	jain1238	nan	624	LAKE	84_lake_a	
+995	PnarJaintia-85_laugh-1	PnarJaintia	85_laugh	r kʰ a i	jain1238	nan	1355	LAUGH	85_laugh_a	
+996	PnarJaintia-86_leaf-1	PnarJaintia	86_leaf	s l a	jain1238	nan	628	LEAF	86_leaf_a	
+997	PnarJaintia-87_leftside-1	PnarJaintia	87_leftside	t i d i ɛ ŋ	jain1238	nan	244	LEFT	87_leftside_a	
+998	PnarJaintia-88_leg-1	PnarJaintia	88_leg	k dʒ a t	jain1238	nan	1297	LEG	88_leg_a	
+999	PnarJaintia-89_toliedeceive-1	PnarJaintia	89_toliedeceive	dʒ l ɛ r	jain1238	nan	601	LIE (MISLEAD)	89_toliedeceive_c	
+1000	PnarJaintia-8_barkoftree-1	PnarJaintia	8_barkoftree	s e i ʔ	jain1238	nan	1204	BARK	8_barkoftree_a	
+1001	PnarJaintia-90_live-1	PnarJaintia	90_live	ɪ m	jain1238	nan	1422	BE ALIVE	90_live_a	
+1002	PnarJaintia-91_liver-1	PnarJaintia	91_liver	n oː d	jain1238	nan	1224	LIVER	91_liver_a	
+1003	PnarJaintia-92_long-1	PnarJaintia	92_long	dʒ r ɔ ŋ	jain1238	nan	1203	LONG	92_long_a	
+1004	PnarJaintia-93_louse-1	PnarJaintia	93_louse	k s i	jain1238	nan	1392	LOUSE	93_louse_a	
+1005	PnarJaintia-94_manmale-1	PnarJaintia	94_manmale	c n̩ r a ŋ	jain1238	nan	2106	MALE PERSON	94_manmale_a	
+1006	PnarJaintia-95_many-1	PnarJaintia	95_many	b o n	jain1238	nan	1198	MANY	95_many_a	
+1007	PnarJaintia-96_meatflesh-1	PnarJaintia	96_meatflesh	d ɔ ʔ	jain1238	nan	2615	FLESH OR MEAT	96_meatflesh_a	
+1008	PnarJaintia-97_mother-1	PnarJaintia	97_mother	b e i	jain1238	nan	1216	MOTHER	97_mother_a	
+1009	PnarJaintia-98_mountain-1	PnarJaintia	98_mountain	l o m	jain1238	nan	639	MOUNTAIN	98_mountain_a	
+1010	PnarJaintia-99_mouth-1	PnarJaintia	99_mouth	k t e i n	jain1238	nan	674	MOUTH	99_mouth_c	
+1011	PnarJaintia-9_because-1	PnarJaintia	9_because	n e i bʰ a ʔ	jain1238	nan	1157	BECAUSE	9_because_c	
+1012	WarLamin-100_name-1	WarLamin	100_name	t v ɪ ə ŋ	warj1242	aml	1405	NAME	100_name_c	
+1013	WarLamin-102_near-1	WarLamin	102_near	t j a n	warj1242	aml	1942	NEAR	102_near_a	
+1014	WarLamin-103_neck-1	WarLamin	103_neck	r d a ŋ	warj1242	aml	1333	NECK	103_neck_a	
+1015	WarLamin-104_new-1	WarLamin	104_new	θ m aː	warj1242	aml	1231	NEW	104_new_a	
+1016	WarLamin-105_night-1	WarLamin	105_night	l ə m a ʔ	warj1242	aml	1233	NIGHT	105_night_a	
+1017	WarLamin-106_nose-1	WarLamin	106_nose	m ə r k ɒ̃ ŋ	warj1242	aml	1221	NOSE	106_nose_b	
+1018	WarLamin-107_not-1	WarLamin	107_not	t ɒ ʔ + t ə	warj1242	aml	1240	NOT	107_not_b	
+1019	WarLamin-108_old-1	WarLamin	108_old	s ə r e m	warj1242	aml	1229	OLD	108_old_a	
+1020	WarLamin-109_one-1	WarLamin	109_one	m i	warj1242	aml	1493	ONE	109_one_b	
+1021	WarLamin-10_belly-1	WarLamin	10_belly	p ɒ ʔ	warj1242	aml	1251	BELLY	10_belly_a	
+1022	WarLamin-111_person-1	WarLamin	111_person	t j ə p r e ʊ	warj1242	aml	683	PERSON	111_person_a	
+1023	WarLamin-112_toplay-1	WarLamin	112_toplay	kʰ i r ʊ	warj1242	aml	1413	PLAY	112_toplay_c	
+1024	WarLamin-113_topull-1	WarLamin	113_topull	p ə t ɪ a ʔ	warj1242	aml	1455	PULL	113_topull_c	
+1025	WarLamin-114_topush-1	WarLamin	114_topush	kʰ ə + j i t	warj1242	aml	1452	PUSH	114_topush_c	
+1026	WarLamin-115_torain-1	WarLamin	115_torain	s l aː	warj1242	aml	1253	RAIN (RAINING)	115_torain_a	
+1027	WarLamin-116_red-1	WarLamin	116_red	s ɪ a	warj1242	aml	156	RED	116_red_a	
+1028	WarLamin-117_rightcorrect-1	WarLamin	117_rightcorrect	t ɒ ʔ	warj1242	aml	1725	CORRECT (RIGHT)	117_rightcorrect_b	
+1029	WarLamin-118_rightside-1	WarLamin	118_rightside	d i + p a r + t a + m ɒ n	warj1242	aml	1019	RIGHT	118_rightside_a	
+1030	WarLamin-119_river-1	WarLamin	119_river	ʔ a m	warj1242	aml	666	RIVER	119_river_c	
+1031	WarLamin-11_big-1	WarLamin	11_big	m ɪ a	warj1242	aml	1202	BIG	11_big_b	
+1032	WarLamin-120_road-1	WarLamin	120_road	s ə r ɒ k	warj1242	aml	667	ROAD	120_road_c	
+1033	WarLamin-121_root-1	WarLamin	121_root	ʃ i t	warj1242	aml	670	ROOT	121_root_b	
+1034	WarLamin-122_rope-1	WarLamin	122_rope	t ə r ʊ	warj1242	aml	1218	ROPE	122_rope_c	
+1035	WarLamin-123_rotten-1	WarLamin	123_rotten	kʰ v i	warj1242	aml	1728	ROTTEN	123_rotten_c	
+1036	WarLamin-124_torub-1	WarLamin	124_torub	k ə tʃ ʊ t	warj1242	aml	1449	RUB	124_torub_a	
+1037	WarLamin-125_salt-1	WarLamin	125_salt	p ʊ ʔ	warj1242	aml	1274	SALT	125_salt_a	
+1038	WarLamin-126_sand-1	WarLamin	126_sand	s ə r v ʊ	warj1242	aml	671	SAND	126_sand_b	
+1039	WarLamin-127_tosay-1	WarLamin	127_tosay	ʔ ɒ ŋ	warj1242	aml	1458	SAY	127_tosay_a	
+1040	WarLamin-128_toscratch-1	WarLamin	128_toscratch	kʰ ə b ɒ ʔ	warj1242	aml	1436	SCRATCH	128_toscratch_b	
+1041	WarLamin-129_sea-1	WarLamin	129_sea	d ʊ r ɪ ə ʊ	warj1242	aml	1474	SEA	129_sea_a	
+1042	WarLamin-12_bird-1	WarLamin	12_bird	k s e m	warj1242	aml	937	BIRD	12_bird_a	
+1043	WarLamin-130_see-1	WarLamin	130_see	m a ʔ	warj1242	aml	1409	SEE	130_see_c	
+1044	WarLamin-131_seed-1	WarLamin	131_seed	t j ʊ s b a	warj1242	aml	714	SEED	131_seed_a	
+1045	WarLamin-132_tosew-1	WarLamin	132_tosew	s ʊ	warj1242	aml	1457	SEW	132_tosew_a	
+1046	WarLamin-133_sharp-1	WarLamin	133_sharp	n e p	warj1242	aml	1396	SHARP	133_sharp_a	
+1047	WarLamin-134_short-1	WarLamin	134_short	tʃ r i t	warj1242	aml	1645	SHORT	134_short_c	
+1048	WarLamin-135_tosing-1	WarLamin	135_tosing	r v ʊ	warj1242	aml	1261	SING	135_tosing_a	
+1049	WarLamin-136_tosit-1	WarLamin	136_tosit	ʃ k ɪ ə	warj1242	aml	1416	SIT	136_tosit_b	
+1050	WarLamin-137_skin-1	WarLamin	137_skin	s ɪ ə ʔ	warj1242	aml	763	SKIN	137_skin_a	
+1051	WarLamin-139_tosleep-1	WarLamin	139_tosleep	θ ɪ ə ʔ	warj1242	aml	1585	SLEEP	139_tosleep_a	
+1052	WarLamin-13_tobite-1	WarLamin	13_tobite	h i t	warj1242	aml	1403	BITE	13_tobite_c	
+1053	WarLamin-140_small-1	WarLamin	140_small	s b ɪ ə t	warj1242	aml	1246	SMALL	140_small_d	
+1054	WarLamin-141_tosmell-1	WarLamin	141_tosmell	r ʔ ɪ ə ŋ	warj1242	aml	2124	SMELL	141_tosmell_c	
+1055	WarLamin-142_smoke-1	WarLamin	142_smoke	t d e m	warj1242	aml	778	SMOKE (EXHAUST)	142_smoke_a	
+1056	WarLamin-143_smooth-1	WarLamin	143_smooth	t j ə lː i ʔ	warj1242	aml	1234	SMOOTH	143_smooth_a	
+1057	WarLamin-144_snake-1	WarLamin	144_snake	p s e n	warj1242	aml	730	SNAKE	144_snake_a	
+1058	WarLamin-145_snow-1	WarLamin	145_snow	k s ɪ ə ŋ + m ə ŋ	warj1242	aml	784	SNOW	145_snow_c	
+1059	WarLamin-146_some-1	WarLamin	146_some	ʃ i t j ĩ ŋ	warj1242	aml	1241	SOME	146_some_c	
+1060	WarLamin-147_tospit-1	WarLamin	147_tospit	p ə θ e ʊ	warj1242	aml	1440	SPIT	147_tospit_b	
+1061	WarLamin-148_tosplit-1	WarLamin	148_tosplit	pʰ i t	warj1242	aml	1437	SPLIT	148_tosplit_a	
+1063	WarLamin-149_tosqueeze-1	WarLamin	149_tosqueeze	tʃ ə p ɪ ə	warj1242	aml	1414	SQUEEZE	149_tosqueeze_c	
+1064	WarLamin-14_black-1	WarLamin	14_black	p r i ŋ	warj1242	aml	163	BLACK	14_black_b	
+1065	WarLamin-150_tostabpierce-1	WarLamin	150_tostabpierce	t ə d ʊ ŋ	warj1242	aml	1434	STAB	150_tostabpierce_a	
+1066	WarLamin-151_tostand-1	WarLamin	151_tostand	r ə ŋ	warj1242	aml	1442	STAND	151_tostand_a	
+1067	WarLamin-152_star-1	WarLamin	152_star	kʰ l ʊ ə + ʃ m e n	warj1242	aml	1430	STAR	152_star_b	
+1068	WarLamin-153_stickofwood-1	WarLamin	153_stickofwood	p ə r ɪ a	warj1242	aml	1295	STICK	153_stickofwood_c	
+1069	WarLamin-154_stone-1	WarLamin	154_stone	ʃ m ɪ a	warj1242	aml	857	STONE	154_stone_a	
+1070	WarLamin-155_straight-1	WarLamin	155_straight	b ɪ t	warj1242	aml	1404	STRAIGHT	155_straight_a	
+1071	WarLamin-156_tosuck-1	WarLamin	156_tosuck	t j ʊ r	warj1242	aml	1421	SUCK	156_tosuck_c	
+1072	WarLamin-157_sun-1	WarLamin	157_sun	n j ʊ ŋ a	warj1242	aml	1343	SUN	157_sun_a	
+1073	WarLamin-158_toswell-1	WarLamin	158_toswell	ʔ a t	warj1242	aml	1573	SWELL	158_toswell_a	
+1074	WarLamin-159_toswim-1	WarLamin	159_toswim	r ɪ ə ŋ	warj1242	aml	1439	SWIM	159_toswim_a	
+1075	WarLamin-15_blood-1	WarLamin	15_blood	r ʊ ə	warj1242	aml	946	BLOOD	15_blood_a	
+1076	WarLamin-160_tail-1	WarLamin	160_tail	t d ɒ ŋ	warj1242	aml	1220	TAIL	160_tail_a	
+1077	WarLamin-161_that-1	WarLamin	161_that	k e	warj1242	aml	78	THAT	161_that_b	
+1079	WarLamin-162_there-1	WarLamin	162_there	t ʊ + t ʊ n	warj1242	aml	1937	THERE	162_there_c	
+1080	WarLamin-163_they-1	WarLamin	163_they	j ə	warj1242	aml	817	THEY	163_they_c	
+1081	WarLamin-164_thick-1	WarLamin	164_thick	r b e n	warj1242	aml	1244	THICK	164_thick_a	
+1084	WarLamin-167_this-1	WarLamin	167_this	k e	warj1242	aml	1214	THIS	167_this_a	
+1086	WarLamin-168_thou-1	WarLamin	168_thou	ɪ ə m	warj1242	aml	1215	THOU	168_thou_b	
+1088	WarLamin-169_three-1	WarLamin	169_three	l a	warj1242	aml	492	THREE	169_three_a	
+1089	WarLamin-16_blow-1	WarLamin	16_blow	p e t	warj1242	aml	175	BLOW (OF WIND)	16_blow_d	
+1090	WarLamin-170_tothrow-1	WarLamin	170_tothrow	pʰ ə d a t	warj1242	aml	1456	THROW	170_tothrow_d	
+1091	WarLamin-171_totie-1	WarLamin	171_totie	k ʊ t	warj1242	aml	1917	TIE	171_totie_c	
+1092	WarLamin-172_tongue-1	WarLamin	172_tongue	kʰ l i t	warj1242	aml	1205	TONGUE	172_tongue_a	
+1093	WarLamin-173_tooth-1	WarLamin	173_tooth	l ə m e n	warj1242	aml	1380	TOOTH	173_tooth_b	
+1094	WarLamin-174_tree-1	WarLamin	174_tree	t v ɪ a	warj1242	aml	906	TREE	174_tree_b	
+1095	WarLamin-175_toturn-1	WarLamin	175_toturn	kʰ ə r v i	warj1242	aml	1588	TURN	175_toturn_c	
+1096	WarLamin-176_two-1	WarLamin	176_two	ʔ ʊ̃ ə	warj1242	aml	1498	TWO	176_two_a	
+1097	WarLamin-177_tovomit-1	WarLamin	177_tovomit	h ə r ɒ ʔ	warj1242	aml	1278	VOMIT	177_tovomit_b	
+1098	WarLamin-178_towalk-1	WarLamin	178_towalk	l ɪ a	warj1242	aml	1443	WALK	178_towalk_d	
+1099	WarLamin-179_warm-1	WarLamin	179_warm	d ɒ t	warj1242	aml	1232	WARM	179_warm_c	
+1100	WarLamin-17_bone-1	WarLamin	17_bone	tʃ ɪ ə ʔ	warj1242	aml	1394	BONE	17_bone_a	
+1101	WarLamin-180_towash-1	WarLamin	180_towash	k s i	warj1242	aml	1453	WASH	180_towash_a	
+1102	WarLamin-181_water-1	WarLamin	181_water	ʔ a m	warj1242	aml	948	WATER	181_water_a	
+1103	WarLamin-182_we-1	WarLamin	182_we	ʔ ɪ ə	warj1242	aml	1212	WE	182_we_c	
+1104	WarLamin-183_wet-1	WarLamin	183_wet	t j ə r i ə ʔ	warj1242	aml	1726	WET	183_wet_a	
+1105	WarLamin-184_what-1	WarLamin	184_what	i + a	warj1242	aml	1236	WHAT	184_what_a	
+1106	WarLamin-185_when-1	WarLamin	185_when	d a ŋ + j a ʔ	warj1242	aml	1238	WHEN	185_when_c	
+1107	WarLamin-186_where-1	WarLamin	186_where	t i + j a ʔ	warj1242	aml	1237	WHERE	186_where_c	
+1108	WarLamin-187_white-1	WarLamin	187_white	s l a ŋ	warj1242	aml	1335	WHITE	187_white_b	
+1109	WarLamin-188_who-1	WarLamin	188_who	u	warj1242	aml	1235	WHO	188_who_c	
+1111	WarLamin-189_wide-1	WarLamin	189_wide	h ɪ a ŋ	warj1242	aml	1243	WIDE	189_wide_b	
+1112	WarLamin-18_breathe-1	WarLamin	18_breathe	r e ŋ + h ə n s ʊ	warj1242	aml	1407	BREATHE	18_breathe_a	
+1113	WarLamin-190_wife-1	WarLamin	190_wife	k ə + l ɒ k	warj1242	aml	1199	WIFE	190_wife_d	
+1114	WarLamin-191_wind-1	WarLamin	191_wind	s r ʊ ə	warj1242	aml	960	WIND	191_wind_a	
+1115	WarLamin-192_wing-1	WarLamin	192_wing	θ ə b ə ɪ a r	warj1242	aml	1257	WING	192_wing_a	
+1116	WarLamin-193_towipe-1	WarLamin	193_towipe	ʃ ʔ ɪ ə ʔ	warj1242	aml	1454	WIPE	193_towipe_d	
+1117	WarLamin-194_with-1	WarLamin	194_with	b ə ʔ	warj1242	aml	1340	WITH	194_with_a	
+1118	WarLamin-195_woman-1	WarLamin	195_woman	h ə θ a	warj1242	aml	962	WOMAN	195_woman_a	
+1119	WarLamin-196_woodsforest-1	WarLamin	196_woodsforest	k ə r m ɪ a	warj1242	aml	420	FOREST	196_woodsforest_c	
+1120	WarLamin-197_worm-1	WarLamin	197_worm	kʰ v i	warj1242	aml	1219	WORM	197_worm_a	
+1121	WarLamin-198_yeyoupl-1	WarLamin	198_yeyoupl	h i	warj1242	aml	1213	YOU	198_yeyoupl_a	
+1122	WarLamin-199_year-1	WarLamin	199_year	s e m	warj1242	aml	1226	YEAR	199_year_a	
+1123	WarLamin-19_burn-1	WarLamin	19_burn	ɵ/θ a ŋ	warj1242	aml	2102	BURN	19_burn_a	
+1124	WarLamin-1_all-1	WarLamin	1_all	b ə r ɒ ʔ	warj1242	aml	98	ALL	1_all_a	
+1125	WarLamin-200_yellow-1	WarLamin	200_yellow	t ŋ ʊ ə	warj1242	aml	1424	YELLOW	200_yellow_b	
+1126	WarLamin-20_child-1	WarLamin	20_child	h ʊ n	warj1242	aml	2099	CHILD	20_child_a	
+1127	WarLamin-21_cloud-1	WarLamin	21_cloud	l ə m p e m	warj1242	aml	1489	CLOUD	21_cloud_b	
+1128	WarLamin-22_cold-1	WarLamin	22_cold	k t j a m	warj1242	aml	1287	COLD	22_cold_c	
+1129	WarLamin-23_come-1	WarLamin	23_come	v a	warj1242	aml	1446	COME	23_come_a	
+1131	WarLamin-24_count-1	WarLamin	24_count	tʃ aː	warj1242	aml	1420	COUNT	24_count_c	
+1132	WarLamin-25_cut-1	WarLamin	25_cut	p a m	warj1242	aml	1432	CUT	25_cut_c	
+1133	WarLamin-26_day-1	WarLamin	26_day	ʃ ŋ aː	warj1242	aml	1225	DAY (NOT NIGHT)	26_day_a	
+1134	WarLamin-27_die-1	WarLamin	27_die	j i p	warj1242	aml	1494	DIE	27_die_a	
+1135	WarLamin-28_dig-1	WarLamin	28_dig	t ɪ ə ʔ	warj1242	aml	1418	DIG	28_dig_a	
+1136	WarLamin-29_dirty-1	WarLamin	29_dirty	tʃ ə m e t	warj1242	aml	1230	DIRTY	29_dirty_d	
+1137	WarLamin-2_and-1	WarLamin	2_and	w aː	warj1242	aml	1577	AND	2_and_c	
+1138	WarLamin-30_dog-1	WarLamin	30_dog	k s ɪ a	warj1242	aml	2009	DOG	30_dog_a	
+1139	WarLamin-31_drink-1	WarLamin	31_drink	d e ʔ	warj1242	aml	1401	DRINK	31_drink_a	
+1140	WarLamin-32_dry-1	WarLamin	32_dry	rʰ ɪ ə ŋ	warj1242	aml	1398	DRY	32_dry_a	
+1141	WarLamin-33_dullblunt-1	WarLamin	33_dullblunt	l e n	warj1242	aml	379	BLUNT	33_dullblunt_d	
+1142	WarLamin-34_dust-1	WarLamin	34_dust	t j ə l pʰ ʊ ʔ	warj1242	aml	2	DUST	34_dust_b	
+1143	WarLamin-35_ear-1	WarLamin	35_ear	t ə r a ŋ	warj1242	aml	1247	EAR	35_ear_b	
+1145	WarLamin-37_eat-1	WarLamin	37_eat	b ʊ ə	warj1242	aml	1336	EAT	37_eat_a	
+1146	WarLamin-38_egg-1	WarLamin	38_egg	s ʔ i	warj1242	aml	744	EGG	38_egg_b	
+1147	WarLamin-39_eye-1	WarLamin	39_eye	m a t	warj1242	aml	1248	EYE	39_eye_a	
+1149	WarLamin-40_tofall-1	WarLamin	40_tofall	h ə r e m	warj1242	aml	1280	FALL	40_tofall_c	
+1150	WarLamin-41_far-1	WarLamin	41_far	tʃ ŋ ʊ	warj1242	aml	1406	FAR	41_far_a	
+1151	WarLamin-42_fatgrease-1	WarLamin	42_fatgrease	l ə ʔ ɒ t	warj1242	aml	323	FAT (ORGANIC SUBSTANCE)	42_fatgrease_d	
+1152	WarLamin-43_father-1	WarLamin	43_father	p a	warj1242	aml	1217	FATHER	43_father_a	
+1153	WarLamin-44_tofear-1	WarLamin	44_tofear	k t ɪ ə ŋ	warj1242	aml	1419	FEAR (BE AFRAID)	44_tofear_a	
+1154	WarLamin-45_feather-1	WarLamin	45_feather	θ ə b ə ɪ a r	warj1242	aml	1201	FEATHER	45_feather_a	
+1156	WarLamin-48_fire-1	WarLamin	48_fire	ʃ m e n	warj1242	aml	221	FIRE	48_fire_b	
+1157	WarLamin-49_fish-1	WarLamin	49_fish	h i	warj1242	aml	227	FISH	49_fish_a	
+1158	WarLamin-4_ashes-1	WarLamin	4_ashes	t v ʊ	warj1242	aml	646	ASH	4_ashes_c	
+1159	WarLamin-50_five-1	WarLamin	50_five	r a n	warj1242	aml	493	FIVE	50_five_a	
+1160	WarLamin-51_tofloat-1	WarLamin	51_tofloat	s p e r	warj1242	aml	1574	FLOAT	51_tofloat_a	
+1161	WarLamin-52_toflow-1	WarLamin	52_toflow	p ɒ r	warj1242	aml	2003	FLOW	52_toflow_b	
+1162	WarLamin-53_flower-1	WarLamin	53_flower	kʰ l ʊ ə	warj1242	aml	239	FLOWER	53_flower_b	
+1163	WarLamin-54_tofly-1	WarLamin	54_tofly	p ɪ a r	warj1242	aml	1441	FLY (MOVE THROUGH AIR)	54_tofly_c	
+1164	WarLamin-55_fog-1	WarLamin	55_fog	d ʊ m	warj1242	aml	249	FOG	55_fog_a	
+1165	WarLamin-56_foot-1	WarLamin	56_foot	n ɪ a	warj1242	aml	1301	FOOT	56_foot_b	
+1166	WarLamin-57_four-1	WarLamin	57_four	r ɪ a	warj1242	aml	1500	FOUR	57_four_a	
+1167	WarLamin-58_freeze-1	WarLamin	58_freeze	tʰ a ʔ	warj1242	aml	1431	FREEZE	58_freeze_a	
+1168	WarLamin-59_fruit-1	WarLamin	59_fruit	s ɒ ʔ	warj1242	aml	1507	FRUIT	59_fruit_a	
+1169	WarLamin-5_at-1	WarLamin	5_at	t i	warj1242	aml	1461	AT	5_at_b	
+1170	WarLamin-60_give-1	WarLamin	60_give	ʔ aː	warj1242	aml	1447	GIVE	60_give_a	
+1171	WarLamin-61_good-1	WarLamin	61_good	m ɪ ə t	warj1242	aml	1035	GOOD	61_good_b	
+1172	WarLamin-62_grass-1	WarLamin	62_grass	s m ʊ t	warj1242	aml	606	GRASS	62_grass_b	
+1173	WarLamin-63_green-1	WarLamin	63_green	tʃ ə r ŋ a m	warj1242	aml	1425	GREEN	63_green_a	
+1174	WarLamin-64_gutsintestines-1	WarLamin	64_gutsintestines	n ɒ r	warj1242	aml	1334	GUTS	64_gutsintestines_a	
+1175	WarLamin-65_hair-1	WarLamin	65_hair	s ʊ ʔ	warj1242	aml	1040	HAIR	65_hair_a	
+1176	WarLamin-66_hand-1	WarLamin	66_hand	t aː	warj1242	aml	1277	HAND	66_hand_a	
+1177	WarLamin-67_he-1	WarLamin	67_he	u	warj1242	aml	1211	HE	67_he_a	
+1178	WarLamin-68_head-1	WarLamin	68_head	kʰ l ɪ a	warj1242	aml	1256	HEAD	68_head_a	
+1179	WarLamin-69_hear-1	WarLamin	69_hear	s ã ʔ	warj1242	aml	1408	HEAR	69_hear_b	
+1180	WarLamin-6_backanat-1	WarLamin	6_backanat	t ə m p ɒ ŋ	warj1242	aml	1291	BACK	6_backanat_c	
+1181	WarLamin-70_heart-1	WarLamin	70_heart	k l ɒ ŋ + r ʊ ə	warj1242	aml	1223	HEART	70_heart_a	
+1182	WarLamin-71_heavy-1	WarLamin	71_heavy	s t ʊ ʔ	warj1242	aml	1210	HEAVY	71_heavy_d	
+1183	WarLamin-72_here-1	WarLamin	72_here	t i eː	warj1242	aml	136	HERE	72_here_a	
+1184	WarLamin-73_hit-1	WarLamin	73_hit	d a t	warj1242	aml	1433	HIT	73_hit_c	
+1185	WarLamin-74_holdtake-1	WarLamin	74_holdtake	l ʊ m	warj1242	aml	2104	HOLD OR TAKE	74_holdtake_c	
+1186	WarLamin-75_how-1	WarLamin	75_how	k i j a ʔ	warj1242	aml	1239	HOW	75_how_c	
+1187	WarLamin-76_hunt-1	WarLamin	76_hunt	p ə t a r	warj1242	aml	1435	HUNT	76_hunt_d	
+1188	WarLamin-77_husband-1	WarLamin	77_husband	l ɒ k	warj1242	aml	1200	HUSBAND	77_husband_a	
+1189	WarLamin-78_i-1	WarLamin	78_i	ŋ ə	warj1242	aml	1209	I	78_i_a	
+1190	WarLamin-79_ice-1	WarLamin	79_ice	tʰ a ʔ	warj1242	aml	617	ICE	79_ice_a	
+1191	WarLamin-7_bad-1	WarLamin	7_bad	k ɒ̃ m	warj1242	aml	1292	BAD	7_bad_d	
+1192	WarLamin-80_if-1	WarLamin	80_if	n i m ə	warj1242	aml	1459	IF	80_if_b	
+1193	WarLamin-81_in-1	WarLamin	81_in	t i	warj1242	aml	1460	IN	81_in_b	
+1194	WarLamin-82_kill-1	WarLamin	82_kill	p ə j i p	warj1242	aml	1417	KILL	82_kill_a	
+1195	WarLamin-83_know-1	WarLamin	83_know	t ɒ ʔ	warj1242	aml	3626	KNOW	83_know_a	
+1196	WarLamin-84_lake-1	WarLamin	84_lake	s ʊ	warj1242	aml	624	LAKE	84_lake_b	
+1197	WarLamin-85_laugh-1	WarLamin	85_laugh	r ʊ	warj1242	aml	1355	LAUGH	85_laugh_c	
+1198	WarLamin-86_leaf-1	WarLamin	86_leaf	s l i	warj1242	aml	628	LEAF	86_leaf_a	
+1199	WarLamin-87_leftside-1	WarLamin	87_leftside	d i + p a r + t a + d ɪ ə ŋ	warj1242	aml	244	LEFT	87_leftside_a	
+1200	WarLamin-88_leg-1	WarLamin	88_leg	n ɪ a	warj1242	aml	1297	LEG	88_leg_b	
+1201	WarLamin-89_toliedeceive-1	WarLamin	89_toliedeceive	p ə r ɒ ʔ	warj1242	aml	601	LIE (MISLEAD)	89_toliedeceive_d	
+1202	WarLamin-8_barkoftree-1	WarLamin	8_barkoftree	s ɪ ə ʔ	warj1242	aml	1204	BARK	8_barkoftree_a	
+1203	WarLamin-90_live-1	WarLamin	90_live	p ʔ e m	warj1242	aml	1422	BE ALIVE	90_live_a	
+1204	WarLamin-91_liver-1	WarLamin	91_liver	k θ i m	warj1242	aml	1224	LIVER	91_liver_b	
+1205	WarLamin-92_long-1	WarLamin	92_long	k ə r ɒ ŋ	warj1242	aml	1203	LONG	92_long_a	
+1206	WarLamin-93_louse-1	WarLamin	93_louse	k s a	warj1242	aml	1392	LOUSE	93_louse_a	
+1207	WarLamin-94_manmale-1	WarLamin	94_manmale	t ə r m a	warj1242	aml	2106	MALE PERSON	94_manmale_b	
+1208	WarLamin-95_many-1	WarLamin	95_many	ʃ i b ʊ ə	warj1242	aml	1198	MANY	95_many_a	
+1209	WarLamin-96_meatflesh-1	WarLamin	96_meatflesh	d ɒ ʔ	warj1242	aml	2615	FLESH OR MEAT	96_meatflesh_a	
+1210	WarLamin-97_mother-1	WarLamin	97_mother	m aː	warj1242	aml	1216	MOTHER	97_mother_a	
+1211	WarLamin-98_mountain-1	WarLamin	98_mountain	p d e ŋ	warj1242	aml	639	MOUNTAIN	98_mountain_b	
+1212	WarLamin-99_mouth-1	WarLamin	99_mouth	t k ɒ ŋ	warj1242	aml	674	MOUTH	99_mouth_d	
+1213	WarLamin-9_because-1	WarLamin	9_because	k a ʔ	warj1242	aml	1157	BECAUSE	9_because_d	

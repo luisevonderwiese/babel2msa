@@ -1,0 +1,1611 @@
+	ID	DOCULECT	CONCEPT	Segments	GLOTTOCODE	ISO_CODE	CONCEPTICON_ID	CONCEPTICON_GLOSS	COGNATES	FORM
+0	Borong-100_hepushes-1	Borong	100_hepushes	kp e t a n o k e	boro1279	ksr	1452	PUSH	117	
+1	Borong-101_hewashes-1	Borong	101_hewashes	s o ŋ gb a ŋ	boro1279	ksr	1453	WASH	135	
+2	Borong-102_hedigs-1	Borong	102_hedigs	t o g u ŋ k e n	boro1279	ksr	1418	DIG	27	
+3	Borong-103_hecuts-1	Borong	103_hecuts	k o t o	boro1279	ksr	1432	CUT	41	
+4	Borong-104_some-1	Borong	104_some	t o s i	boro1279	ksr	1241	SOME	63	
+5	Borong-105_short-1	Borong	105_short	t o r o d a a m o ŋ	boro1279	ksr	1645	SHORT	79	
+6	Borong-106_wind-1	Borong	106_wind	h a a m o k	boro1279	ksr	960	WIND	85	
+7	Borong-107_sky-1	Borong	107_sky	s i w e k	boro1279	ksr	1732	SKY	101	
+8	Borong-108_dust-1	Borong	108_dust	i l a w e l a	boro1279	ksr	2	DUST	129	
+9	Borong-109_lake-1	Borong	109_lake	a ŋ g o ŋ	boro1279	ksr	624	LAKE	11	
+10	Borong-10_hesays-1	Borong	10_hesays	dz o	boro1279	ksr	1458	SAY	6	
+11	Borong-110_itsflower-1	Borong	110_itsflower	dz u r a	boro1279	ksr	239	FLOWER	3	
+13	Borong-112_stick-1	Borong	112_stick	t a a k	boro1279	ksr	1295	STICK	67	
+14	Borong-113_worm-1	Borong	113_worm	g e n a m b e ŋ	boro1279	ksr	1219	WORM	75	
+15	Borong-114_snake-1	Borong	114_snake	m o k o l e ŋ	boro1279	ksr	730	SNAKE	109	
+16	Borong-115_animal-1	Borong	115_animal	o s o ŋ	boro1279	ksr	619	ANIMAL	107	
+17	Borong-116_itsback-1	Borong	116_itsback	g e m a s i t	boro1279	ksr	1291	BACK	123	
+18	Borong-117_itswing-1	Borong	117_itswing	e ŋ g a ŋ	boro1279	ksr	1257	WING	7	
+20	Borong-119_hevomits-1	Borong	119_hevomits	l o n	boro1279	ksr	1278	VOMIT	33	
+22	Borong-120_helaughs-1	Borong	120_helaughs	dz o m o	boro1279	ksr	1355	LAUGH	53	
+23	Borong-121_hesucks-1	Borong	121_hesucks	b u g o	boro1279	ksr	1421	SUCK	65	
+25	Borong-123_hespits-1	Borong	123_hespits	s u l a a k	boro1279	ksr	1440	SPIT	115	
+26	Borong-124_old-1	Borong	124_old	k e r u g a h a	boro1279	ksr	1229	OLD	103	
+28	Borong-126_dull-1	Borong	126_dull	dz i t a kp a a k	boro1279	ksr	379	BLUNT	9	
+31	Borong-129_hisfather-1	Borong	129_hisfather	n e m u ŋ	boro1279	ksr	1217	FATHER	83	
+33	Borong-130_hismother-1	Borong	130_hismother	m a ŋ	boro1279	ksr	1216	MOTHER	55	
+34	Borong-131_shesews-1	Borong	131_shesews	e u ŋ m e	boro1279	ksr	1457	SEW	21	
+35	Borong-132_rope-1	Borong	132_rope	dz o w a k	boro1279	ksr	1218	ROPE	111	
+37	Borong-134_hecounts-1	Borong	134_hecounts	w e e ŋ g o	boro1279	ksr	1420	COUNT	95	
+38	Borong-135_theyplay-1	Borong	135_theyplay	a o ŋ g o l o k	boro1279	ksr	1413	PLAY	139	
+44	Borong-140_itswells-1	Borong	140_itswells	s o m a r o	boro1279	ksr	1573	SWELL	43	
+48	Borong-17_hecomes-1	Borong	17_hecomes	w a a	boro1279	ksr	1446	COME	114	
+49	Borong-18_hesits-1	Borong	18_hesits	r a	boro1279	ksr	1416	SIT	130	
+50	Borong-19_hegivesme-1	Borong	19_hegivesme	n o n	boro1279	ksr	1447	GIVE	8	
+51	Borong-1_i-1	Borong	1_i	n i	boro1279	ksr	1209	I	0	
+52	Borong-20_hestands-1	Borong	20_hestands	n a n	boro1279	ksr	1442	STAND	14	
+53	Borong-21_all-1	Borong	21_all	k u u y a	boro1279	ksr	98	ALL	18	
+54	Borong-22_many-1	Borong	22_many	m a m a g u	boro1279	ksr	1198	MANY	28	
+55	Borong-23_night-1	Borong	23_night	k e t e k	boro1279	ksr	1233	NIGHT	32	
+56	Borong-24_long-1	Borong	24_long	k o r i g a	boro1279	ksr	1203	LONG	44	
+57	Borong-25_big-1	Borong	25_big	s o m a t a	boro1279	ksr	1202	BIG	52	
+58	Borong-26_small-1	Borong	26_small	m e r a a k	boro1279	ksr	1246	SMALL	60	
+59	Borong-27_star-1	Borong	27_star	s e ŋ g e l e u	boro1279	ksr	1430	STAR	68	
+60	Borong-28_sun-1	Borong	28_sun	w e e ŋ	boro1279	ksr	1343	SUN	80	
+61	Borong-29_cloud-1	Borong	29_cloud	k o o s u k	boro1279	ksr	1489	CLOUD	84	
+62	Borong-2_thou-1	Borong	2_thou	g i	boro1279	ksr	1215	THOU	2	
+64	Borong-31_itsbelly-1	Borong	31_itsbelly	k e r i	boro1279	ksr	1251	BELLY	96	
+65	Borong-32_itsnose-1	Borong	32_itsnose	s e w a ŋ	boro1279	ksr	1221	NOSE	104	
+66	Borong-33_itsheart-1	Borong	33_itsheart	b a k o t a	boro1279	ksr	1223	HEART	116	
+67	Borong-34_itsfat-1	Borong	34_itsfat	k e l e g a	boro1279	ksr	323	FAT (ORGANIC SUBSTANCE)	59	
+68	Borong-35_itsneck-1	Borong	35_itsneck	a r e	boro1279	ksr	1333	NECK	122	
+69	Borong-36_itshair-1	Borong	36_itshair	dz u i	boro1279	ksr	1040	HAIR	132	
+70	Borong-37_hedies-1	Borong	37_hedies	k o m u	boro1279	ksr	1494	DIE	136	
+71	Borong-38_heseesme-1	Borong	38_heseesme	n i i	boro1279	ksr	1409	SEE	138	
+72	Borong-39_hesleeps-1	Borong	39_hesleeps	e	boro1279	ksr	1585	SLEEP	10	
+73	Borong-3_we-1	Borong	3_we	n o n o	boro1279	ksr	1212	WE	4	
+74	Borong-40_heeats-1	Borong	40_heeats	n e	boro1279	ksr	1336	EAT	12	
+75	Borong-41_hebitesit-1	Borong	41_hebitesit	k i	boro1279	ksr	1403	BITE	16	
+76	Borong-42_black-1	Borong	42_black	i n dz a ŋ a	boro1279	ksr	163	BLACK	20	
+77	Borong-43_green-1	Borong	43_green	a s o ŋ + a s o ŋ	boro1279	ksr	1425	GREEN	26	
+78	Borong-44_white-1	Borong	44_white	t a t a a ŋ k o t a	boro1279	ksr	1335	WHITE	30	
+79	Borong-45_red-1	Borong	45_red	o s o g a	boro1279	ksr	156	RED	34	
+80	Borong-46_yellow-1	Borong	46_yellow	g o g o o k o t a	boro1279	ksr	1424	YELLOW	36	
+81	Borong-47_good-1	Borong	47_good	a u a a	boro1279	ksr	1035	GOOD	38	
+83	Borong-49_new-1	Borong	49_new	gb i l i a	boro1279	ksr	1231	NEW	48	
+84	Borong-4_who-1	Borong	4_who	m o ŋ	boro1279	ksr	1235	WHO	74	
+85	Borong-50_itisdry-1	Borong	50_itisdry	t o b o r i	boro1279	ksr	1398	DRY	54	
+87	Borong-52_itsname-1	Borong	52_itsname	dz a k o t a	boro1279	ksr	1405	NAME	62	
+88	Borong-53_not-1	Borong	53_not	m e n d e	boro1279	ksr	1240	NOT	64	
+89	Borong-54_itburns-1	Borong	54_itburns	dz e	boro1279	ksr	1428	BURNING	66	
+90	Borong-55_road-1	Borong	55_road	k a n a k	boro1279	ksr	667	ROAD	70	
+91	Borong-56_water-1	Borong	56_water	a p u k	boro1279	ksr	948	WATER	72	
+92	Borong-57_smoke-1	Borong	57_smoke	k a a s o k	boro1279	ksr	778	SMOKE (EXHAUST)	82	
+95	Borong-5_what-1	Borong	5_what	n a m u ŋ a k	boro1279	ksr	1236	WHAT	110	
+96	Borong-60_sand-1	Borong	60_sand	s a k a s i ŋ	boro1279	ksr	671	SAND	92	
+97	Borong-61_stone-1	Borong	61_stone	dz a m o k	boro1279	ksr	857	STONE	98	
+98	Borong-62_mountain-1	Borong	62_mountain	b a a ŋ a	boro1279	ksr	639	MOUNTAIN	100	
+99	Borong-63_ashes-1	Borong	63_ashes	t o o k	boro1279	ksr	646	ASH	102	
+100	Borong-64_earth-1	Borong	64_earth	n a m o k	boro1279	ksr	1228	EARTH (SOIL)	106	
+101	Borong-65_itsleaf-1	Borong	65_itsleaf	s e ŋ	boro1279	ksr	628	LEAF	108	
+102	Borong-66_tree-1	Borong	66_tree	i k	boro1279	ksr	906	TREE	118	
+103	Borong-67_itsroot-1	Borong	67_itsroot	t i i t a	boro1279	ksr	670	ROOT	120	
+104	Borong-68_itsseed-1	Borong	68_itsseed	k o t a	boro1279	ksr	714	SEED	124	
+105	Borong-69_itsear-1	Borong	69_itsear	g e dz a	boro1279	ksr	1247	EAR	126	
+106	Borong-6_that-1	Borong	6_that	l o	boro1279	ksr	78	THAT	22	
+107	Borong-70_louse-1	Borong	70_louse	i m o ŋ	boro1279	ksr	1392	LOUSE	128	
+108	Borong-71_dog-1	Borong	71_dog	k a s u k	boro1279	ksr	2009	DOG	134	
+109	Borong-72_bird-1	Borong	72_bird	k o o ŋ	boro1279	ksr	937	BIRD	69	
+110	Borong-73_woman-1	Borong	73_woman	e m b a k	boro1279	ksr	962	WOMAN	91	
+112	Borong-75_itsblood-1	Borong	75_itsblood	s a y a	boro1279	ksr	946	BLOOD	127	
+113	Borong-76_hishand-1	Borong	76_hishand	b o r o k	boro1279	ksr	1277	HAND	39	
+114	Borong-77_itstongue-1	Borong	77_itstongue	n e s e l a ŋ	boro1279	ksr	1205	TONGUE	57	
+115	Borong-78_itstooth-1	Borong	78_itstooth	dz o t	boro1279	ksr	1380	TOOTH	51	
+116	Borong-79_itsfoot-1	Borong	79_itsfoot	k a n i	boro1279	ksr	1301	FOOT	81	
+117	Borong-7_this-1	Borong	7_this	i	boro1279	ksr	1214	THIS	40	
+118	Borong-80_itstail-1	Borong	80_itstail	dz i	boro1279	ksr	1220	TAIL	105	
+120	Borong-82_itseye-1	Borong	82_itseye	dz a a	boro1279	ksr	1248	EYE	15	
+122	Borong-84_itshead-1	Borong	84_itshead	o s o g a	boro1279	ksr	1256	HEAD	71	
+123	Borong-85_itsbone-1	Borong	85_itsbone	s i i t a	boro1279	ksr	1394	BONE	89	
+124	Borong-86_he-1	Borong	86_he	i	boro1279	ksr	1211	HE	99	
+125	Borong-87_ye-1	Borong	87_ye	o ŋ o	boro1279	ksr	1213	YOU	113	
+126	Borong-88_they-1	Borong	88_they	i o ŋ o ŋ o ŋ	boro1279	ksr	817	THEY	125	
+127	Borong-89_where-1	Borong	89_where	d a a ŋ e ŋ	boro1279	ksr	1237	WHERE	1	
+128	Borong-8_one-1	Borong	8_one	m o t o o ŋ g o k	boro1279	ksr	1493	ONE	76	
+129	Borong-90_how-1	Borong	90_how	n o m a i ŋ	boro1279	ksr	1239	HOW	61	
+130	Borong-91_and-1	Borong	91_and	a n o	boro1279	ksr	1577	AND	77	
+131	Borong-92_there-1	Borong	92_there	e n d u	boro1279	ksr	1937	THERE	93	
+132	Borong-93_rightside-1	Borong	93_rightside	o r o w a k	boro1279	ksr	1019	RIGHT	121	
+133	Borong-94_leftside-1	Borong	94_leftside	k a n i k	boro1279	ksr	244	LEFT	131	
+134	Borong-95_heholds-1	Borong	95_heholds	m e	boro1279	ksr	1448	HOLD	23	
+135	Borong-96_hefalls-1	Borong	96_hefalls	k a m a a	boro1279	ksr	1280	FALL	45	
+136	Borong-97_heturns-1	Borong	97_heturns	m e l e e n	boro1279	ksr	1444	TURN AROUND	49	
+137	Borong-98_hethrows-1	Borong	98_hethrows	m e s a o	boro1279	ksr	1456	THROW	5	
+138	Borong-99_hepulls-1	Borong	99_hepulls	o r o	boro1279	ksr	1455	PULL	137	
+139	Borong-9_two-1	Borong	9_two	w o i k	boro1279	ksr	1498	TWO	112	
+140	Burum-100_hepushes-1	Burum	100_hepushes	kp e t a l i a n	buru1306	bmu	1452	PUSH	855	
+141	Burum-101_hewashes-1	Burum	101_hewashes	s o ŋ g a ŋ	buru1306	bmu	1453	WASH	135	
+142	Burum-102_hedigs-1	Burum	102_hedigs	e ts o	buru1306	bmu	1418	DIG	815	
+143	Burum-103_hecuts-1	Burum	103_hecuts	ɔ r ɔ ŋ g ɔ	buru1306	bmu	1432	CUT	818	
+144	Burum-104_some-1	Burum	104_some	t o s a t	buru1306	bmu	1241	SOME	63	
+145	Burum-105_short-1	Burum	105_short	t ɔ r ɔ p	buru1306	bmu	1645	SHORT	385	
+146	Burum-106_wind-1	Burum	106_wind	l u h u t	buru1306	bmu	960	WIND	467	
+147	Burum-107_sky-1	Burum	107_sky	s u e p	buru1306	bmu	1732	SKY	857	
+148	Burum-108_dust-1	Burum	108_dust	n e s a k	buru1306	bmu	2	DUST	334	
+149	Burum-109_lake-1	Burum	109_lake	a ŋ g ɔ	buru1306	bmu	624	LAKE	11	
+150	Burum-10_hesays-1	Burum	10_hesays	dz i	buru1306	bmu	1458	SAY	6	
+151	Burum-110_itsflower-1	Burum	110_itsflower	dz u r a	buru1306	bmu	239	FLOWER	3	
+153	Burum-112_stick-1	Burum	112_stick	k a m b i m	buru1306	bmu	1295	STICK	373	
+154	Burum-113_worm-1	Burum	113_worm	m a ŋ g i k	buru1306	bmu	1219	WORM	847	
+155	Burum-114_snake-1	Burum	114_snake	m o k o l e ŋ	buru1306	bmu	730	SNAKE	109	
+156	Burum-115_animal-1	Burum	115_animal	s u m b u p	buru1306	bmu	619	ANIMAL	856	
+157	Burum-116_itsback-1	Burum	116_itsback	g ɔ n e s e m	buru1306	bmu	1291	BACK	858	
+158	Burum-117_itswing-1	Burum	117_itswing	g i n g i n	buru1306	bmu	1257	WING	821	
+160	Burum-119_hevomits-1	Burum	119_hevomits	l o n	buru1306	bmu	1278	VOMIT	33	
+162	Burum-120_helaughs-1	Burum	120_helaughs	g i s i h i	buru1306	bmu	1355	LAUGH	833	
+163	Burum-121_hesucks-1	Burum	121_hesucks	b o b o k	buru1306	bmu	1421	SUCK	832	
+165	Burum-123_hespits-1	Burum	123_hespits	s ɔ w ɔ t	buru1306	bmu	1440	SPIT	851	
+166	Burum-124_old-1	Burum	124_old	w a l a k ŋ i	buru1306	bmu	1229	OLD	461	
+168	Burum-126_dull-1	Burum	126_dull	m ɔ h ɔ m ŋ i	buru1306	bmu	379	BLUNT	819	
+171	Burum-129_hisfather-1	Burum	129_hisfather	i w i	buru1306	bmu	1217	FATHER	368	
+173	Burum-130_hismother-1	Burum	130_hismother	n a m	buru1306	bmu	1216	MOTHER	382	
+174	Burum-131_shesews-1	Burum	131_shesews	u m e	buru1306	bmu	1457	SEW	21	
+175	Burum-132_rope-1	Burum	132_rope	k i s a	buru1306	bmu	1218	ROPE	459	
+177	Burum-134_hecounts-1	Burum	134_hecounts	o y e n	buru1306	bmu	1420	COUNT	446	
+178	Burum-135_theyplay-1	Burum	135_theyplay	m ɔ n a h ɔ t	buru1306	bmu	1413	PLAY	863	
+184	Burum-140_itswells-1	Burum	140_itswells	kp a r i	buru1306	bmu	1573	SWELL	817	
+188	Burum-17_hecomes-1	Burum	17_hecomes	k a	buru1306	bmu	1446	COME	421	
+189	Burum-18_hesits-1	Burum	18_hesits	t a	buru1306	bmu	1416	SIT	130	
+190	Burum-19_hegivesme-1	Burum	19_hegivesme	n i ŋ g i	buru1306	bmu	1447	GIVE	324	
+191	Burum-1_i-1	Burum	1_i	n i	buru1306	bmu	1209	I	0	
+192	Burum-20_hestands-1	Burum	20_hestands	k i n	buru1306	bmu	1442	STAND	330	
+193	Burum-21_all-1	Burum	21_all	kp a kp a k	buru1306	bmu	98	ALL	825	
+194	Burum-22_many-1	Burum	22_many	g ɔ t p ɔ k	buru1306	bmu	1198	MANY	829	
+195	Burum-23_night-1	Burum	23_night	s u ŋ g e m	buru1306	bmu	1233	NIGHT	831	
+196	Burum-24_long-1	Burum	24_long	k ɔ r i p ŋ i	buru1306	bmu	1203	LONG	44	
+197	Burum-25_big-1	Burum	25_big	k e t a ŋ i	buru1306	bmu	1202	BIG	838	
+198	Burum-26_small-1	Burum	26_small	m o r o ŋ i	buru1306	bmu	1246	SMALL	843	
+199	Burum-27_star-1	Burum	27_star	s e ŋ g e l e u	buru1306	bmu	1430	STAR	68	
+200	Burum-28_sun-1	Burum	28_sun	w e l g ɔ n	buru1306	bmu	1343	SUN	848	
+201	Burum-29_cloud-1	Burum	29_cloud	k o u s u	buru1306	bmu	1489	CLOUD	84	
+202	Burum-2_thou-1	Burum	2_thou	g i	buru1306	bmu	1215	THOU	2	
+204	Burum-31_itsbelly-1	Burum	31_itsbelly	g ɔ l ɔ m	buru1306	bmu	1251	BELLY	861	
+205	Burum-32_itsnose-1	Burum	32_itsnose	s ɔ h ɔ r ɔ	buru1306	bmu	1221	NOSE	416	
+206	Burum-33_itsheart-1	Burum	33_itsheart	w e l + b ɔ t	buru1306	bmu	1223	HEART	824	
+207	Burum-34_itsfat-1	Burum	34_itsfat	k e l ɔ k	buru1306	bmu	323	FAT (ORGANIC SUBSTANCE)	59	
+208	Burum-35_itsneck-1	Burum	35_itsneck	dz ɔ l	buru1306	bmu	1333	NECK	849	
+209	Burum-36_itshair-1	Burum	36_itshair	dz u p	buru1306	bmu	1040	HAIR	132	
+210	Burum-37_hedies-1	Burum	37_hedies	k ɔ m u	buru1306	bmu	1494	DIE	136	
+211	Burum-38_heseesme-1	Burum	38_heseesme	n e k	buru1306	bmu	1409	SEE	428	
+212	Burum-39_hesleeps-1	Burum	39_hesleeps	a h ɔ	buru1306	bmu	1585	SLEEP	820	
+213	Burum-3_we-1	Burum	3_we	n i n i	buru1306	bmu	1212	WE	160	
+214	Burum-40_heeats-1	Burum	40_heeats	n e	buru1306	bmu	1336	EAT	12	
+215	Burum-41_hebitesit-1	Burum	41_hebitesit	y ɔ h ɔ	buru1306	bmu	1403	BITE	332	
+216	Burum-42_black-1	Burum	42_black	t ɔ w u ŋ i	buru1306	bmu	163	BLACK	823	
+217	Burum-43_green-1	Burum	43_green	g ɔ r ɔ k ŋ i	buru1306	bmu	1425	GREEN	827	
+218	Burum-44_white-1	Burum	44_white	t u a t ŋ i	buru1306	bmu	1335	WHITE	828	
+219	Burum-45_red-1	Burum	45_red	p i s i k ŋ i	buru1306	bmu	156	RED	442	
+220	Burum-46_yellow-1	Burum	46_yellow	g o h o t ŋ i	buru1306	bmu	1424	YELLOW	36	
+221	Burum-47_good-1	Burum	47_good	ɔ l i p ŋ i	buru1306	bmu	1035	GOOD	354	
+223	Burum-49_new-1	Burum	49_new	d ɔ l ɔ k ŋ i	buru1306	bmu	1231	NEW	359	
+224	Burum-4_who-1	Burum	4_who	k u n	buru1306	bmu	1235	WHO	852	
+225	Burum-50_itisdry-1	Burum	50_itisdry	ɔ r ɔ ŋ g ɔ	buru1306	bmu	1398	DRY	361	
+227	Burum-52_itsname-1	Burum	52_itsname	kp e t	buru1306	bmu	1405	NAME	841	
+228	Burum-53_not-1	Burum	53_not	kp a h ɔ p	buru1306	bmu	1240	NOT	844	
+229	Burum-54_itburns-1	Burum	54_itburns	dz e	buru1306	bmu	1428	BURNING	66	
+230	Burum-55_road-1	Burum	55_road	k ɔ n a	buru1306	bmu	667	ROAD	70	
+231	Burum-56_water-1	Burum	56_water	o u	buru1306	bmu	948	WATER	508	
+232	Burum-57_smoke-1	Burum	57_smoke	k a s a k	buru1306	bmu	778	SMOKE (EXHAUST)	82	
+235	Burum-5_what-1	Burum	5_what	w a n i a	buru1306	bmu	1236	WHAT	426	
+236	Burum-60_sand-1	Burum	60_sand	s a k	buru1306	bmu	671	SAND	92	
+237	Burum-61_stone-1	Burum	61_stone	k ɔ t	buru1306	bmu	857	STONE	403	
+238	Burum-62_mountain-1	Burum	62_mountain	k u n d u ŋ i	buru1306	bmu	639	MOUNTAIN	864	
+239	Burum-63_ashes-1	Burum	63_ashes	k a u	buru1306	bmu	646	ASH	411	
+240	Burum-64_earth-1	Burum	64_earth	g ɔ l m e	buru1306	bmu	1228	EARTH (SOIL)	853	
+241	Burum-65_itsleaf-1	Burum	65_itsleaf	s i n	buru1306	bmu	628	LEAF	108	
+242	Burum-66_tree-1	Burum	66_tree	i p	buru1306	bmu	906	TREE	118	
+243	Burum-67_itsroot-1	Burum	67_itsroot	dz a l ɔ	buru1306	bmu	670	ROOT	865	
+244	Burum-68_itsseed-1	Burum	68_itsseed	k ɔ t	buru1306	bmu	714	SEED	124	
+245	Burum-69_itsear-1	Burum	69_itsear	k e ts a p	buru1306	bmu	1247	EAR	126	
+246	Burum-6_that-1	Burum	6_that	m e	buru1306	bmu	78	THAT	547	
+247	Burum-70_louse-1	Burum	70_louse	i m i n	buru1306	bmu	1392	LOUSE	128	
+248	Burum-71_dog-1	Burum	71_dog	k i a m	buru1306	bmu	2009	DOG	826	
+249	Burum-72_bird-1	Burum	72_bird	n e i	buru1306	bmu	937	BIRD	237	
+250	Burum-73_woman-1	Burum	73_woman	a m b i	buru1306	bmu	962	WOMAN	91	
+252	Burum-75_itsblood-1	Burum	75_itsblood	s e p	buru1306	bmu	946	BLOOD	127	
+253	Burum-76_hishand-1	Burum	76_hishand	b ɔ r ɔ	buru1306	bmu	1277	HAND	164	
+254	Burum-77_itstongue-1	Burum	77_itstongue	n e s e l a m	buru1306	bmu	1205	TONGUE	57	
+255	Burum-78_itstooth-1	Burum	78_itstooth	dz i t	buru1306	bmu	1380	TOOTH	51	
+256	Burum-79_itsfoot-1	Burum	79_itsfoot	k a n a	buru1306	bmu	1301	FOOT	81	
+257	Burum-7_this-1	Burum	7_this	k e	buru1306	bmu	1214	THIS	846	
+258	Burum-80_itstail-1	Burum	80_itstail	d a i	buru1306	bmu	1220	TAIL	105	
+260	Burum-82_itseye-1	Burum	82_itseye	dz e	buru1306	bmu	1248	EYE	15	
+262	Burum-84_itshead-1	Burum	84_itshead	n o r u k	buru1306	bmu	1256	HEAD	845	
+263	Burum-85_itsbone-1	Burum	85_itsbone	s i h i t	buru1306	bmu	1394	BONE	89	
+264	Burum-86_he-1	Burum	86_he	i	buru1306	bmu	1211	HE	99	
+265	Burum-87_ye-1	Burum	87_ye	i n i	buru1306	bmu	1213	YOU	238	
+266	Burum-88_they-1	Burum	88_they	y e ŋ ɔ n	buru1306	bmu	817	THEY	822	
+267	Burum-89_where-1	Burum	89_where	d e n e k e	buru1306	bmu	1237	WHERE	555	
+268	Burum-8_one-1	Burum	8_one	m o h o t	buru1306	bmu	1493	ONE	860	
+269	Burum-90_how-1	Burum	90_how	d e n e p	buru1306	bmu	1239	HOW	834	
+270	Burum-91_and-1	Burum	91_and	m i	buru1306	bmu	1577	AND	191	
+271	Burum-92_there-1	Burum	92_there	e n d u	buru1306	bmu	1937	THERE	93	
+272	Burum-93_rightside-1	Burum	93_rightside	ɔ l	buru1306	bmu	1019	RIGHT	854	
+273	Burum-94_leftside-1	Burum	94_leftside	kp a n i	buru1306	bmu	244	LEFT	131	
+274	Burum-95_heholds-1	Burum	95_heholds	m a	buru1306	bmu	1448	HOLD	23	
+275	Burum-96_hefalls-1	Burum	96_hefalls	h e	buru1306	bmu	1280	FALL	837	
+276	Burum-97_heturns-1	Burum	97_heturns	m e l e ŋ	buru1306	bmu	1444	TURN AROUND	49	
+277	Burum-98_hethrows-1	Burum	98_hethrows	g i l i a n	buru1306	bmu	1456	THROW	850	
+278	Burum-99_hepulls-1	Burum	99_hepulls	a r ɔ	buru1306	bmu	1455	PULL	137	
+279	Burum-9_two-1	Burum	9_two	y a h a t	buru1306	bmu	1498	TWO	424	
+280	Dedua-100_hepushes-1	Dedua	100_hepushes	t u ŋ g e	dedu1240	ded	1452	PUSH	212	
+281	Dedua-101_hewashes-1	Dedua	101_hewashes	dz u a k	dedu1240	ded	1453	WASH	235	
+282	Dedua-102_hedigs-1	Dedua	102_hedigs	u s u	dedu1240	ded	1418	DIG	149	
+283	Dedua-103_hecuts-1	Dedua	103_hecuts	h e r e g e	dedu1240	ded	1432	CUT	166	
+284	Dedua-104_some-1	Dedua	104_some	g o	dedu1240	ded	1241	SOME	193	
+285	Dedua-105_short-1	Dedua	105_short	w e g e n	dedu1240	ded	1645	SHORT	200	
+286	Dedua-106_wind-1	Dedua	106_wind	f i r a ŋ	dedu1240	ded	960	WIND	202	
+287	Dedua-107_sky-1	Dedua	107_sky	k u r u m e ŋ	dedu1240	ded	1732	SKY	216	
+288	Dedua-108_dust-1	Dedua	108_dust	w o n d o k	dedu1240	ded	2	DUST	230	
+289	Dedua-109_lake-1	Dedua	109_lake	dz o k o ŋ	dedu1240	ded	624	LAKE	11	
+290	Dedua-10_hesays-1	Dedua	10_hesays	d e	dedu1240	ded	1458	SAY	6	
+291	Dedua-110_itsflower-1	Dedua	110_itsflower	o r i	dedu1240	ded	239	FLOWER	3	
+293	Dedua-112_stick-1	Dedua	112_stick	gb a r u	dedu1240	ded	1295	STICK	198	
+294	Dedua-113_worm-1	Dedua	113_worm	gb o s u	dedu1240	ded	1219	WORM	188	
+295	Dedua-114_snake-1	Dedua	114_snake	b ɔ i dz o k	dedu1240	ded	730	SNAKE	228	
+296	Dedua-115_animal-1	Dedua	115_animal	y a ŋ	dedu1240	ded	619	ANIMAL	208	
+297	Dedua-116_itsback-1	Dedua	116_itsback	n a d e	dedu1240	ded	1291	BACK	222	
+298	Dedua-117_itswing-1	Dedua	117_itswing	kp e g a ŋ	dedu1240	ded	1257	WING	7	
+300	Dedua-119_hevomits-1	Dedua	119_hevomits	u r u n	dedu1240	ded	1278	VOMIT	163	
+302	Dedua-120_helaughs-1	Dedua	120_helaughs	dz o m o r e	dedu1240	ded	1355	LAUGH	53	
+303	Dedua-121_hesucks-1	Dedua	121_hesucks	a b e r e	dedu1240	ded	1421	SUCK	181	
+305	Dedua-123_hespits-1	Dedua	123_hespits	s o f o k	dedu1240	ded	1440	SPIT	140	
+306	Dedua-124_old-1	Dedua	124_old	e s e a	dedu1240	ded	1229	OLD	210	
+308	Dedua-126_dull-1	Dedua	126_dull	e n a r a kp a k	dedu1240	ded	379	BLUNT	234	
+311	Dedua-129_hisfather-1	Dedua	129_hisfather	m a m	dedu1240	ded	1217	FATHER	224	
+313	Dedua-130_hismother-1	Dedua	130_hismother	n e ŋ g a k	dedu1240	ded	1216	MOTHER	186	
+314	Dedua-131_shesews-1	Dedua	131_shesews	kp e b i	dedu1240	ded	1457	SEW	157	
+315	Dedua-132_rope-1	Dedua	132_rope	w i t i k	dedu1240	ded	1218	ROPE	142	
+317	Dedua-134_hecounts-1	Dedua	134_hecounts	ɔ s o	dedu1240	ded	1420	COUNT	220	
+318	Dedua-135_theyplay-1	Dedua	135_theyplay	a r i a k	dedu1240	ded	1413	PLAY	236	
+324	Dedua-140_itswells-1	Dedua	140_itswells	s i w i ŋ e	dedu1240	ded	1573	SWELL	172	
+328	Dedua-17_hecomes-1	Dedua	17_hecomes	e r e	dedu1240	ded	1446	COME	221	
+329	Dedua-18_hesits-1	Dedua	18_hesits	t a k	dedu1240	ded	1416	SIT	130	
+330	Dedua-19_hegivesme-1	Dedua	19_hegivesme	n e n	dedu1240	ded	1447	GIVE	8	
+331	Dedua-1_i-1	Dedua	1_i	n i	dedu1240	ded	1209	I	0	
+332	Dedua-20_hestands-1	Dedua	20_hestands	n a n	dedu1240	ded	1442	STAND	14	
+333	Dedua-21_all-1	Dedua	21_all	s a s a w a	dedu1240	ded	98	ALL	146	
+334	Dedua-22_many-1	Dedua	22_many	h o m a k	dedu1240	ded	1198	MANY	152	
+335	Dedua-23_night-1	Dedua	23_night	t o f o n a k	dedu1240	ded	1233	NIGHT	155	
+336	Dedua-24_long-1	Dedua	24_long	h e r e a	dedu1240	ded	1203	LONG	44	
+337	Dedua-25_big-1	Dedua	25_big	k u n e ŋ	dedu1240	ded	1202	BIG	169	
+338	Dedua-26_small-1	Dedua	26_small	k a p i a	dedu1240	ded	1246	SMALL	177	
+339	Dedua-27_star-1	Dedua	27_star	b ɔ p i ŋ	dedu1240	ded	1430	STAR	180	
+340	Dedua-28_sun-1	Dedua	28_sun	w o n a k	dedu1240	ded	1343	SUN	187	
+341	Dedua-29_cloud-1	Dedua	29_cloud	k u r u m e ŋ	dedu1240	ded	1489	CLOUD	195	
+342	Dedua-2_thou-1	Dedua	2_thou	g e	dedu1240	ded	1215	THOU	2	
+344	Dedua-31_itsbelly-1	Dedua	31_itsbelly	k e r a	dedu1240	ded	1251	BELLY	96	
+345	Dedua-32_itsnose-1	Dedua	32_itsnose	s o g e	dedu1240	ded	1221	NOSE	213	
+346	Dedua-33_itsheart-1	Dedua	33_itsheart	w o s o + h o n d u ŋ	dedu1240	ded	1223	HEART	219	
+347	Dedua-34_itsfat-1	Dedua	34_itsfat	w o k e m a ŋ	dedu1240	ded	323	FAT (ORGANIC SUBSTANCE)	182	
+348	Dedua-35_itsneck-1	Dedua	35_itsneck	u b e	dedu1240	ded	1333	NECK	229	
+349	Dedua-36_itshair-1	Dedua	36_itshair	dz o w e	dedu1240	ded	1040	HAIR	231	
+350	Dedua-37_hedies-1	Dedua	37_hedies	h o m e	dedu1240	ded	1494	DIE	136	
+351	Dedua-38_heseesme-1	Dedua	38_heseesme	n e n	dedu1240	ded	1409	SEE	239	
+352	Dedua-39_hesleeps-1	Dedua	39_hesleeps	f e	dedu1240	ded	1585	SLEEP	10	
+353	Dedua-3_we-1	Dedua	3_we	n i n i	dedu1240	ded	1212	WE	160	
+354	Dedua-40_heeats-1	Dedua	40_heeats	n e	dedu1240	ded	1336	EAT	12	
+355	Dedua-41_hebitesit-1	Dedua	41_hebitesit	k i	dedu1240	ded	1403	BITE	16	
+356	Dedua-42_black-1	Dedua	42_black	dz a dz u	dedu1240	ded	163	BLACK	145	
+357	Dedua-43_green-1	Dedua	43_green	ɔ r ɔ ŋ b ɔ r i k	dedu1240	ded	1425	GREEN	148	
+358	Dedua-44_white-1	Dedua	44_white	k o ŋ a k	dedu1240	ded	1335	WHITE	150	
+359	Dedua-45_red-1	Dedua	45_red	s a k + s a k	dedu1240	ded	156	RED	154	
+360	Dedua-46_yellow-1	Dedua	46_yellow	dz a g e a	dedu1240	ded	1424	YELLOW	156	
+361	Dedua-47_good-1	Dedua	47_good	g o m b u ŋ a	dedu1240	ded	1035	GOOD	162	
+363	Dedua-49_new-1	Dedua	49_new	gb o r i a	dedu1240	ded	1231	NEW	48	
+364	Dedua-4_who-1	Dedua	4_who	m o ŋ	dedu1240	ded	1235	WHO	74	
+365	Dedua-50_itisdry-1	Dedua	50_itisdry	k e r e ŋ	dedu1240	ded	1398	DRY	167	
+367	Dedua-52_itsname-1	Dedua	52_itsname	k i w a	dedu1240	ded	1405	NAME	175	
+368	Dedua-53_not-1	Dedua	53_not	m i	dedu1240	ded	1240	NOT	179	
+369	Dedua-54_itburns-1	Dedua	54_itburns	dz a	dedu1240	ded	1428	BURNING	66	
+370	Dedua-55_road-1	Dedua	55_road	s i ŋ	dedu1240	ded	667	ROAD	183	
+371	Dedua-56_water-1	Dedua	56_water	d o k u	dedu1240	ded	948	WATER	189	
+372	Dedua-57_smoke-1	Dedua	57_smoke	h u s u k	dedu1240	ded	778	SMOKE (EXHAUST)	82	
+375	Dedua-5_what-1	Dedua	5_what	d a f i	dedu1240	ded	1236	WHAT	233	
+376	Dedua-60_sand-1	Dedua	60_sand	m o ŋ g e ŋ	dedu1240	ded	671	SAND	201	
+377	Dedua-61_stone-1	Dedua	61_stone	h o k	dedu1240	ded	857	STONE	205	
+378	Dedua-62_mountain-1	Dedua	62_mountain	t i k i	dedu1240	ded	639	MOUNTAIN	207	
+379	Dedua-63_ashes-1	Dedua	63_ashes	h a m a	dedu1240	ded	646	ASH	211	
+380	Dedua-64_earth-1	Dedua	64_earth	b ɔ n e k	dedu1240	ded	1228	EARTH (SOIL)	214	
+381	Dedua-65_itsleaf-1	Dedua	65_itsleaf	m a r i	dedu1240	ded	628	LEAF	215	
+382	Dedua-66_tree-1	Dedua	66_tree	i k	dedu1240	ded	906	TREE	118	
+383	Dedua-67_itsroot-1	Dedua	67_itsroot	g o d e	dedu1240	ded	670	ROOT	223	
+384	Dedua-68_itsseed-1	Dedua	68_itsseed	h o n d u ŋ	dedu1240	ded	714	SEED	227	
+385	Dedua-69_itsear-1	Dedua	69_itsear	h e dz a	dedu1240	ded	1247	EAR	126	
+386	Dedua-6_that-1	Dedua	6_that	y o	dedu1240	ded	78	THAT	22	
+387	Dedua-70_louse-1	Dedua	70_louse	y o m i ŋ	dedu1240	ded	1392	LOUSE	128	
+388	Dedua-71_dog-1	Dedua	71_dog	k a s i	dedu1240	ded	2009	DOG	134	
+389	Dedua-72_bird-1	Dedua	72_bird	n e ŋ	dedu1240	ded	937	BIRD	237	
+390	Dedua-73_woman-1	Dedua	73_woman	ŋ a k	dedu1240	ded	962	WOMAN	206	
+392	Dedua-75_itsblood-1	Dedua	75_itsblood	s a w a	dedu1240	ded	946	BLOOD	127	
+393	Dedua-76_hishand-1	Dedua	76_hishand	m a r i	dedu1240	ded	1277	HAND	164	
+394	Dedua-77_itstongue-1	Dedua	77_itstongue	n a m e ŋ	dedu1240	ded	1205	TONGUE	184	
+395	Dedua-78_itstooth-1	Dedua	78_itstooth	e n a r	dedu1240	ded	1380	TOOTH	147	
+396	Dedua-79_itsfoot-1	Dedua	79_itsfoot	h a n i	dedu1240	ded	1301	FOOT	81	
+397	Dedua-7_this-1	Dedua	7_this	i	dedu1240	ded	1214	THIS	40	
+398	Dedua-80_itstail-1	Dedua	80_itstail	dz i	dedu1240	ded	1220	TAIL	105	
+400	Dedua-82_itseye-1	Dedua	82_itseye	k i w a	dedu1240	ded	1248	EYE	141	
+402	Dedua-84_itshead-1	Dedua	84_itshead	f u f u	dedu1240	ded	1256	HEAD	174	
+403	Dedua-85_itsbone-1	Dedua	85_itsbone	s i r	dedu1240	ded	1394	BONE	89	
+404	Dedua-86_he-1	Dedua	86_he	y e	dedu1240	ded	1211	HE	99	
+405	Dedua-87_ye-1	Dedua	87_ye	ŋ e n i	dedu1240	ded	1213	YOU	238	
+406	Dedua-88_they-1	Dedua	88_they	y e n i	dedu1240	ded	817	THEY	226	
+407	Dedua-89_where-1	Dedua	89_where	d a h a e	dedu1240	ded	1237	WHERE	159	
+408	Dedua-8_one-1	Dedua	8_one	m o k g u	dedu1240	ded	1493	ONE	199	
+409	Dedua-90_how-1	Dedua	90_how	d a f i	dedu1240	ded	1239	HOW	176	
+410	Dedua-91_and-1	Dedua	91_and	a m a	dedu1240	ded	1577	AND	191	
+411	Dedua-92_there-1	Dedua	92_there	e d i	dedu1240	ded	1937	THERE	93	
+412	Dedua-93_rightside-1	Dedua	93_rightside	f o i	dedu1240	ded	1019	RIGHT	217	
+413	Dedua-94_leftside-1	Dedua	94_leftside	k a n a	dedu1240	ded	244	LEFT	131	
+414	Dedua-95_heholds-1	Dedua	95_heholds	m e	dedu1240	ded	1448	HOLD	23	
+415	Dedua-96_hefalls-1	Dedua	96_hefalls	m a	dedu1240	ded	1280	FALL	161	
+416	Dedua-97_heturns-1	Dedua	97_heturns	m e r e n	dedu1240	ded	1444	TURN AROUND	49	
+417	Dedua-98_hethrows-1	Dedua	98_hethrows	w a	dedu1240	ded	1456	THROW	190	
+418	Dedua-99_hepulls-1	Dedua	99_hepulls	t a e	dedu1240	ded	1455	PULL	196	
+419	Dedua-9_two-1	Dedua	9_two	y o h o k a ŋ	dedu1240	ded	1498	TWO	225	
+420	Kate-100_hepushes-1	Kate	100_hepushes	t u ŋ k e	kate1253	kmg	1452	PUSH	212	
+421	Kate-101_hewashes-1	Kate	101_hewashes	dz u r e	kate1253	kmg	1453	WASH	249	
+422	Kate-102_hedigs-1	Kate	102_hedigs	w i s e	kate1253	kmg	1418	DIG	149	
+423	Kate-103_hecuts-1	Kate	103_hecuts	h e t ɔ c n e	kate1253	kmg	1432	CUT	315	
+424	Kate-104_some-1	Kate	104_some	g ɔ c	kate1253	kmg	1241	SOME	193	
+425	Kate-105_short-1	Kate	105_short	b e m b e ŋ	kate1253	kmg	1645	SHORT	270	
+426	Kate-106_wind-1	Kate	106_wind	m ɔ ŋ ɔ ŋ	kate1253	kmg	960	WIND	303	
+427	Kate-107_sky-1	Kate	107_sky	s a m b ɔ ŋ	kate1253	kmg	1732	SKY	312	
+428	Kate-108_dust-1	Kate	108_dust	g ɔ c	kate1253	kmg	2	DUST	321	
+429	Kate-109_lake-1	Kate	109_lake	dz ɔ k ɔ ŋ	kate1253	kmg	624	LAKE	11	
+430	Kate-10_hesays-1	Kate	10_hesays	m u	kate1253	kmg	1458	SAY	251	
+431	Kate-110_itsflower-1	Kate	110_itsflower	ɔ r i	kate1253	kmg	239	FLOWER	3	
+433	Kate-112_stick-1	Kate	112_stick	gb a r u	kate1253	kmg	1295	STICK	198	
+434	Kate-113_worm-1	Kate	113_worm	gb a s u	kate1253	kmg	1219	WORM	188	
+435	Kate-114_snake-1	Kate	114_snake	h o m a	kate1253	kmg	730	SNAKE	295	
+436	Kate-115_animal-1	Kate	115_animal	kp o w i	kate1253	kmg	619	ANIMAL	305	
+437	Kate-116_itsback-1	Kate	116_itsback	r ɔ p e	kate1253	kmg	1291	BACK	310	
+438	Kate-117_itswing-1	Kate	117_itswing	f a k e c	kate1253	kmg	1257	WING	241	
+440	Kate-119_hevomits-1	Kate	119_hevomits	m a ŋ u	kate1253	kmg	1278	VOMIT	265	
+442	Kate-120_helaughs-1	Kate	120_helaughs	g ɔ w i e	kate1253	kmg	1355	LAUGH	275	
+443	Kate-121_hesucks-1	Kate	121_hesucks	a p u r u	kate1253	kmg	1421	SUCK	282	
+445	Kate-123_hespits-1	Kate	123_hespits	t ɔ f e c	kate1253	kmg	1440	SPIT	140	
+446	Kate-124_old-1	Kate	124_old	r a ŋ gb a ŋ	kate1253	kmg	1229	OLD	291	
+448	Kate-126_dull-1	Kate	126_dull	m i c + m ɔ ŋ	kate1253	kmg	379	BLUNT	250	
+451	Kate-129_hisfather-1	Kate	129_hisfather	m a m a c	kate1253	kmg	1217	FATHER	224	
+453	Kate-130_hismother-1	Kate	130_hismother	n e ŋ g o c	kate1253	kmg	1216	MOTHER	186	
+454	Kate-131_shesews-1	Kate	131_shesews	gb ɔ t ɔ	kate1253	kmg	1457	SEW	252	
+455	Kate-132_rope-1	Kate	132_rope	m u c	kate1253	kmg	1218	ROPE	289	
+457	Kate-134_hecounts-1	Kate	134_hecounts	w o s e	kate1253	kmg	1420	COUNT	220	
+458	Kate-135_theyplay-1	Kate	135_theyplay	m a m a s i r i	kate1253	kmg	1413	PLAY	318	
+464	Kate-140_itswells-1	Kate	140_itswells	s i w i ŋ n e	kate1253	kmg	1573	SWELL	172	
+468	Kate-17_hecomes-1	Kate	17_hecomes	w e f u	kate1253	kmg	1446	COME	316	
+469	Kate-18_hesits-1	Kate	18_hesits	ŋ e	kate1253	kmg	1416	SIT	323	
+470	Kate-19_hegivesme-1	Kate	19_hegivesme	n a r e	kate1253	kmg	1447	GIVE	243	
+471	Kate-1_i-1	Kate	1_i	n o	kate1253	kmg	1209	I	245	
+472	Kate-20_hestands-1	Kate	20_hestands	d o m a	kate1253	kmg	1442	STAND	248	
+473	Kate-21_all-1	Kate	21_all	s a s a w a	kate1253	kmg	98	ALL	146	
+474	Kate-22_many-1	Kate	22_many	b o c y a h a	kate1253	kmg	1198	MANY	260	
+475	Kate-23_night-1	Kate	23_night	ŋ a f e	kate1253	kmg	1233	NIGHT	263	
+476	Kate-24_long-1	Kate	24_long	dz o r i c n e	kate1253	kmg	1203	LONG	268	
+477	Kate-25_big-1	Kate	25_big	k ɔ c gb e n e	kate1253	kmg	1202	BIG	273	
+478	Kate-26_small-1	Kate	26_small	p i t i c n e	kate1253	kmg	1246	SMALL	279	
+479	Kate-27_star-1	Kate	27_star	b ɔ p i ŋ	kate1253	kmg	1430	STAR	180	
+480	Kate-28_sun-1	Kate	28_sun	dz o a ŋ	kate1253	kmg	1343	SUN	286	
+481	Kate-29_cloud-1	Kate	29_cloud	k a r o r a c	kate1253	kmg	1489	CLOUD	290	
+482	Kate-2_thou-1	Kate	2_thou	g o	kate1253	kmg	1215	THOU	292	
+484	Kate-31_itsbelly-1	Kate	31_itsbelly	b u	kate1253	kmg	1251	BELLY	304	
+485	Kate-32_itsnose-1	Kate	32_itsnose	s ɔ k e	kate1253	kmg	1221	NOSE	213	
+486	Kate-33_itsheart-1	Kate	33_itsheart	b u + h ɔ n d ɔ ŋ	kate1253	kmg	1223	HEART	314	
+487	Kate-34_itsfat-1	Kate	34_itsfat	w o k e m a ŋ	kate1253	kmg	323	FAT (ORGANIC SUBSTANCE)	182	
+488	Kate-35_itsneck-1	Kate	35_itsneck	u p e	kate1253	kmg	1333	NECK	229	
+489	Kate-36_itshair-1	Kate	36_itshair	dz ɔ w ɔ	kate1253	kmg	1040	HAIR	231	
+490	Kate-37_hedies-1	Kate	37_hedies	h ɔ m o	kate1253	kmg	1494	DIE	136	
+491	Kate-38_heseesme-1	Kate	38_heseesme	h o n e c n u	kate1253	kmg	1409	SEE	242	
+492	Kate-39_hesleeps-1	Kate	39_hesleeps	f o	kate1253	kmg	1585	SLEEP	10	
+493	Kate-3_we-1	Kate	3_we	ŋ ɔ ŋ ɔ c	kate1253	kmg	1212	WE	4	
+494	Kate-40_heeats-1	Kate	40_heeats	n ɔ	kate1253	kmg	1336	EAT	12	
+495	Kate-41_hebitesit-1	Kate	41_hebitesit	k i	kate1253	kmg	1403	BITE	16	
+496	Kate-42_black-1	Kate	42_black	g ɔ g ɔ p ɔ c	kate1253	kmg	163	BLACK	253	
+497	Kate-43_green-1	Kate	43_green	ɔ r ɔ ŋ b ɔ r i c	kate1253	kmg	1425	GREEN	148	
+498	Kate-44_white-1	Kate	44_white	k a p ŋ + k a p ŋ	kate1253	kmg	1335	WHITE	258	
+499	Kate-45_red-1	Kate	45_red	b ɔ b ɔ r o ŋ	kate1253	kmg	156	RED	259	
+500	Kate-46_yellow-1	Kate	46_yellow	b ɔ ŋ e ŋ n e	kate1253	kmg	1424	YELLOW	261	
+501	Kate-47_good-1	Kate	47_good	b i a ŋ n e	kate1253	kmg	1035	GOOD	264	
+503	Kate-49_new-1	Kate	49_new	gb ɔ r i c n e	kate1253	kmg	1231	NEW	48	
+504	Kate-4_who-1	Kate	4_who	m o c	kate1253	kmg	1235	WHO	74	
+505	Kate-50_itisdry-1	Kate	50_itisdry	k e r e ŋ k e	kate1253	kmg	1398	DRY	167	
+507	Kate-52_itsname-1	Kate	52_itsname	dz ɔ n e	kate1253	kmg	1405	NAME	276	
+508	Kate-53_not-1	Kate	53_not	m i	kate1253	kmg	1240	NOT	179	
+509	Kate-54_itburns-1	Kate	54_itburns	dz a	kate1253	kmg	1428	BURNING	66	
+510	Kate-55_road-1	Kate	55_road	h a t a	kate1253	kmg	667	ROAD	283	
+511	Kate-56_water-1	Kate	56_water	o p ɔ	kate1253	kmg	948	WATER	285	
+512	Kate-57_smoke-1	Kate	57_smoke	h o s ɔ c	kate1253	kmg	778	SMOKE (EXHAUST)	82	
+515	Kate-5_what-1	Kate	5_what	w e m o	kate1253	kmg	1236	WHAT	240	
+516	Kate-60_sand-1	Kate	60_sand	m o ŋ g e ŋ	kate1253	kmg	671	SAND	201	
+517	Kate-61_stone-1	Kate	61_stone	kp ɔ n ɔ	kate1253	kmg	857	STONE	299	
+518	Kate-62_mountain-1	Kate	62_mountain	t i k i	kate1253	kmg	639	MOUNTAIN	207	
+519	Kate-63_ashes-1	Kate	63_ashes	dz a f e	kate1253	kmg	646	ASH	306	
+520	Kate-64_earth-1	Kate	64_earth	m ɔ r e ŋ	kate1253	kmg	1228	EARTH (SOIL)	308	
+521	Kate-65_itsleaf-1	Kate	65_itsleaf	r e h a c	kate1253	kmg	628	LEAF	311	
+522	Kate-66_tree-1	Kate	66_tree	y ɔ c	kate1253	kmg	906	TREE	313	
+523	Kate-67_itsroot-1	Kate	67_itsroot	g ɔ t ɔ	kate1253	kmg	670	ROOT	223	
+524	Kate-68_itsseed-1	Kate	68_itsseed	h ɔ n d ɔ ŋ	kate1253	kmg	714	SEED	227	
+525	Kate-69_itsear-1	Kate	69_itsear	h a ts e c	kate1253	kmg	1247	EAR	126	
+526	Kate-6_that-1	Kate	6_that	i	kate1253	kmg	78	THAT	271	
+527	Kate-70_louse-1	Kate	70_louse	i m e ŋ	kate1253	kmg	1392	LOUSE	128	
+528	Kate-71_dog-1	Kate	71_dog	kp ɔ t o	kate1253	kmg	2009	DOG	322	
+529	Kate-72_bird-1	Kate	72_bird	w i p e	kate1253	kmg	937	BIRD	297	
+530	Kate-73_woman-1	Kate	73_woman	ŋ o k a c	kate1253	kmg	962	WOMAN	206	
+532	Kate-75_itsblood-1	Kate	75_itsblood	s o c	kate1253	kmg	946	BLOOD	127	
+533	Kate-76_hishand-1	Kate	76_hishand	m e	kate1253	kmg	1277	HAND	267	
+534	Kate-77_itstongue-1	Kate	77_itstongue	n a m e ŋ	kate1253	kmg	1205	TONGUE	184	
+535	Kate-78_itstooth-1	Kate	78_itstooth	m i c	kate1253	kmg	1380	TOOTH	300	
+536	Kate-79_itsfoot-1	Kate	79_itsfoot	k i k e	kate1253	kmg	1301	FOOT	281	
+537	Kate-7_this-1	Kate	7_this	dz i	kate1253	kmg	1214	THIS	280	
+538	Kate-80_itstail-1	Kate	80_itstail	g e c	kate1253	kmg	1220	TAIL	302	
+540	Kate-82_itseye-1	Kate	82_itseye	dz ɔ ŋ e	kate1253	kmg	1248	EYE	246	
+542	Kate-84_itshead-1	Kate	84_itshead	kp i ts e c	kate1253	kmg	1256	HEAD	257	
+543	Kate-85_itsbone-1	Kate	85_itsbone	s i e c	kate1253	kmg	1394	BONE	89	
+544	Kate-86_he-1	Kate	86_he	e	kate1253	kmg	1211	HE	99	
+545	Kate-87_ye-1	Kate	87_ye	ŋ o ŋ e	kate1253	kmg	1213	YOU	113	
+546	Kate-88_they-1	Kate	88_they	y a ŋ e	kate1253	kmg	817	THEY	278	
+547	Kate-89_where-1	Kate	89_where	w e n a	kate1253	kmg	1237	WHERE	247	
+548	Kate-8_one-1	Kate	8_one	m o c y a h a	kate1253	kmg	1493	ONE	199	
+549	Kate-90_how-1	Kate	90_how	w e n i ŋ u c	kate1253	kmg	1239	HOW	317	
+550	Kate-91_and-1	Kate	91_and	e m e	kate1253	kmg	1577	AND	191	
+551	Kate-92_there-1	Kate	92_there	o c n a	kate1253	kmg	1937	THERE	298	
+552	Kate-93_rightside-1	Kate	93_rightside	f ɔ r e	kate1253	kmg	1019	RIGHT	277	
+553	Kate-94_leftside-1	Kate	94_leftside	kp a n a	kate1253	kmg	244	LEFT	131	
+554	Kate-95_heholds-1	Kate	95_heholds	r o	kate1253	kmg	1448	HOLD	244	
+555	Kate-96_hefalls-1	Kate	96_hefalls	w a h a	kate1253	kmg	1280	FALL	272	
+556	Kate-97_heturns-1	Kate	97_heturns	b ɔ r i s i e	kate1253	kmg	1444	TURN AROUND	284	
+557	Kate-98_hethrows-1	Kate	98_hethrows	b e h e	kate1253	kmg	1456	THROW	296	
+558	Kate-99_hepulls-1	Kate	99_hepulls	f ɔ r e	kate1253	kmg	1455	PULL	307	
+559	Kate-9_two-1	Kate	9_two	y a y a h e c	kate1253	kmg	1498	TWO	225	
+560	Komba-100_hepushes-1	Komba	100_hepushes	m a a t i	komb1273	kpf	1452	PUSH	406	
+561	Komba-101_hewashes-1	Komba	101_hewashes	s ɔ g o n	komb1273	kpf	1453	WASH	135	
+562	Komba-102_hedigs-1	Komba	102_hedigs	k e d a	komb1273	kpf	1418	DIG	336	
+563	Komba-103_hecuts-1	Komba	103_hecuts	m ɔ n ɔ g a	komb1273	kpf	1432	CUT	366	
+564	Komba-104_some-1	Komba	104_some	n ɔ b u t	komb1273	kpf	1241	SOME	379	
+565	Komba-105_short-1	Komba	105_short	t ɔ r ɔ p	komb1273	kpf	1645	SHORT	385	
+566	Komba-106_wind-1	Komba	106_wind	b e r o m	komb1273	kpf	960	WIND	386	
+567	Komba-107_sky-1	Komba	107_sky	s u b e m	komb1273	kpf	1732	SKY	402	
+568	Komba-108_dust-1	Komba	108_dust	i s a k	komb1273	kpf	2	DUST	334	
+569	Komba-109_lake-1	Komba	109_lake	d e g ɔ n	komb1273	kpf	624	LAKE	11	
+570	Komba-10_hesays-1	Komba	10_hesays	s	komb1273	kpf	1458	SAY	6	
+571	Komba-110_itsflower-1	Komba	110_itsflower	b ɔ l o	komb1273	kpf	239	FLOWER	339	
+573	Komba-112_stick-1	Komba	112_stick	k a b a m	komb1273	kpf	1295	STICK	373	
+574	Komba-113_worm-1	Komba	113_worm	g u k	komb1273	kpf	1219	WORM	188	
+575	Komba-114_snake-1	Komba	114_snake	m u l u m	komb1273	kpf	730	SNAKE	394	
+576	Komba-115_animal-1	Komba	115_animal	z u	komb1273	kpf	619	ANIMAL	400	
+577	Komba-116_itsback-1	Komba	116_itsback	k ɔ d ɔ t	komb1273	kpf	1291	BACK	408	
+578	Komba-117_itswing-1	Komba	117_itswing	a w ɔ t	komb1273	kpf	1257	WING	409	
+580	Komba-119_hevomits-1	Komba	119_hevomits	m o h a t	komb1273	kpf	1278	VOMIT	364	
+582	Komba-120_helaughs-1	Komba	120_helaughs	g i r ɔ ŋ	komb1273	kpf	1355	LAUGH	371	
+583	Komba-121_hesucks-1	Komba	121_hesucks	m u s u k u	komb1273	kpf	1421	SUCK	377	
+585	Komba-123_hespits-1	Komba	123_hespits	t ɔ p	komb1273	kpf	1440	SPIT	397	
+586	Komba-124_old-1	Komba	124_old	s o b ɔ	komb1273	kpf	1229	OLD	392	
+588	Komba-126_dull-1	Komba	126_dull	p a l ɔ m ŋ ɔ	komb1273	kpf	379	BLUNT	388	
+591	Komba-129_hisfather-1	Komba	129_hisfather	i w ɔ	komb1273	kpf	1217	FATHER	368	
+593	Komba-130_hismother-1	Komba	130_hismother	m a m	komb1273	kpf	1216	MOTHER	382	
+594	Komba-131_shesews-1	Komba	131_shesews	g a r e	komb1273	kpf	1457	SEW	338	
+595	Komba-132_rope-1	Komba	132_rope	t ɔ k	komb1273	kpf	1218	ROPE	412	
+597	Komba-134_hecounts-1	Komba	134_hecounts	s ɔ l ɔ p k u	komb1273	kpf	1420	COUNT	398	
+598	Komba-135_theyplay-1	Komba	135_theyplay	s e r o	komb1273	kpf	1413	PLAY	415	
+604	Komba-140_itswells-1	Komba	140_itswells	s u k	komb1273	kpf	1573	SWELL	328	
+608	Komba-17_hecomes-1	Komba	17_hecomes	g a	komb1273	kpf	1446	COME	421	
+609	Komba-18_hesits-1	Komba	18_hesits	t a	komb1273	kpf	1416	SIT	130	
+610	Komba-19_hegivesme-1	Komba	19_hegivesme	n i h	komb1273	kpf	1447	GIVE	324	
+611	Komba-1_i-1	Komba	1_i	n ɔ	komb1273	kpf	1209	I	245	
+612	Komba-20_hestands-1	Komba	20_hestands	k i n	komb1273	kpf	1442	STAND	330	
+613	Komba-21_all-1	Komba	21_all	a k s i k	komb1273	kpf	98	ALL	335	
+614	Komba-22_many-1	Komba	22_many	b i w i r ɔ	komb1273	kpf	1198	MANY	343	
+615	Komba-23_night-1	Komba	23_night	ŋ a t i k	komb1273	kpf	1233	NIGHT	350	
+616	Komba-24_long-1	Komba	24_long	k ɔ r e p	komb1273	kpf	1203	LONG	44	
+617	Komba-25_big-1	Komba	25_big	p a t ɔ	komb1273	kpf	1202	BIG	363	
+618	Komba-26_small-1	Komba	26_small	m ɔ i k t ɔ	komb1273	kpf	1246	SMALL	372	
+619	Komba-27_star-1	Komba	27_star	s e g e l a k	komb1273	kpf	1430	STAR	68	
+620	Komba-28_sun-1	Komba	28_sun	m i r ɔ s i ŋ	komb1273	kpf	1343	SUN	384	
+621	Komba-29_cloud-1	Komba	29_cloud	s a s a	komb1273	kpf	1489	CLOUD	389	
+622	Komba-2_thou-1	Komba	2_thou	g ɔ	komb1273	kpf	1215	THOU	292	
+624	Komba-31_itsbelly-1	Komba	31_itsbelly	t i p	komb1273	kpf	1251	BELLY	407	
+625	Komba-32_itsnose-1	Komba	32_itsnose	s ɔ g ɔ n	komb1273	kpf	1221	NOSE	416	
+626	Komba-33_itsheart-1	Komba	33_itsheart	k a b i a m	komb1273	kpf	1223	HEART	419	
+627	Komba-34_itsfat-1	Komba	34_itsfat	k e l ɔ k	komb1273	kpf	323	FAT (ORGANIC SUBSTANCE)	59	
+628	Komba-35_itsneck-1	Komba	35_itsneck	g ɔ d u	komb1273	kpf	1333	NECK	422	
+629	Komba-36_itshair-1	Komba	36_itshair	s ɔ m o t	komb1273	kpf	1040	HAIR	425	
+630	Komba-37_hedies-1	Komba	37_hedies	m u	komb1273	kpf	1494	DIE	427	
+631	Komba-38_heseesme-1	Komba	38_heseesme	n e k	komb1273	kpf	1409	SEE	428	
+632	Komba-39_hesleeps-1	Komba	39_hesleeps	z i	komb1273	kpf	1585	SLEEP	327	
+633	Komba-3_we-1	Komba	3_we	n e n	komb1273	kpf	1212	WE	160	
+634	Komba-40_heeats-1	Komba	40_heeats	n i	komb1273	kpf	1336	EAT	12	
+635	Komba-41_hebitesit-1	Komba	41_hebitesit	z i h i	komb1273	kpf	1403	BITE	332	
+636	Komba-42_black-1	Komba	42_black	s u m u n + s u m u n	komb1273	kpf	163	BLACK	333	
+637	Komba-43_green-1	Komba	43_green	w ɔ h ɔ n + w ɔ h ɔ n	komb1273	kpf	1425	GREEN	337	
+638	Komba-44_white-1	Komba	44_white	k a u + k a u	komb1273	kpf	1335	WHITE	341	
+639	Komba-45_red-1	Komba	45_red	k u r i ŋ	komb1273	kpf	156	RED	345	
+640	Komba-46_yellow-1	Komba	46_yellow	g i b a ŋ + g i b a ŋ	komb1273	kpf	1424	YELLOW	348	
+641	Komba-47_good-1	Komba	47_good	ɔ l i p ŋ ɔ	komb1273	kpf	1035	GOOD	354	
+643	Komba-49_new-1	Komba	49_new	i r a k ŋ ɔ	komb1273	kpf	1231	NEW	359	
+644	Komba-4_who-1	Komba	4_who	ŋ ɔ i	komb1273	kpf	1235	WHO	381	
+645	Komba-50_itisdry-1	Komba	50_itisdry	a r a r ɔ ŋ	komb1273	kpf	1398	DRY	361	
+647	Komba-52_itsname-1	Komba	52_itsname	k u t	komb1273	kpf	1405	NAME	370	
+648	Komba-53_not-1	Komba	53_not	m ɔ	komb1273	kpf	1240	NOT	179	
+649	Komba-54_itburns-1	Komba	54_itburns	s i	komb1273	kpf	1428	BURNING	66	
+650	Komba-55_road-1	Komba	55_road	m ɔ t ɔ p	komb1273	kpf	667	ROAD	378	
+651	Komba-56_water-1	Komba	56_water	t o	komb1273	kpf	948	WATER	383	
+652	Komba-57_smoke-1	Komba	57_smoke	m u d o	komb1273	kpf	778	SMOKE (EXHAUST)	393	
+655	Komba-5_what-1	Komba	5_what	w a n	komb1273	kpf	1236	WHAT	426	
+656	Komba-60_sand-1	Komba	60_sand	s a k	komb1273	kpf	671	SAND	92	
+657	Komba-61_stone-1	Komba	61_stone	k ɔ t	komb1273	kpf	857	STONE	403	
+658	Komba-62_mountain-1	Komba	62_mountain	b a k ŋ a	komb1273	kpf	639	MOUNTAIN	405	
+659	Komba-63_ashes-1	Komba	63_ashes	k a u	komb1273	kpf	646	ASH	411	
+660	Komba-64_earth-1	Komba	64_earth	a n	komb1273	kpf	1228	EARTH (SOIL)	414	
+661	Komba-65_itsleaf-1	Komba	65_itsleaf	i i n	komb1273	kpf	628	LEAF	108	
+662	Komba-66_tree-1	Komba	66_tree	n a k	komb1273	kpf	906	TREE	418	
+663	Komba-67_itsroot-1	Komba	67_itsroot	ɔ d ɔ ŋ	komb1273	kpf	670	ROOT	420	
+664	Komba-68_itsseed-1	Komba	68_itsseed	k e e t	komb1273	kpf	714	SEED	417	
+665	Komba-69_itsear-1	Komba	69_itsear	k i d a p	komb1273	kpf	1247	EAR	126	
+666	Komba-6_that-1	Komba	6_that	z o	komb1273	kpf	78	THAT	22	
+667	Komba-70_louse-1	Komba	70_louse	i m e n	komb1273	kpf	1392	LOUSE	128	
+668	Komba-71_dog-1	Komba	71_dog	w a u	komb1273	kpf	2009	DOG	347	
+669	Komba-72_bird-1	Komba	72_bird	n i	komb1273	kpf	937	BIRD	237	
+670	Komba-73_woman-1	Komba	73_woman	a b ɔ n	komb1273	kpf	962	WOMAN	91	
+672	Komba-75_itsblood-1	Komba	75_itsblood	s e p	komb1273	kpf	946	BLOOD	127	
+673	Komba-76_hishand-1	Komba	76_hishand	b i t	komb1273	kpf	1277	HAND	340	
+674	Komba-77_itstongue-1	Komba	77_itstongue	n ɔ b ɔ l a m	komb1273	kpf	1205	TONGUE	57	
+675	Komba-78_itstooth-1	Komba	78_itstooth	s ɔ t	komb1273	kpf	1380	TOOTH	51	
+676	Komba-79_itsfoot-1	Komba	79_itsfoot	k i	komb1273	kpf	1301	FOOT	281	
+677	Komba-7_this-1	Komba	7_this	z i	komb1273	kpf	1214	THIS	280	
+678	Komba-80_itstail-1	Komba	80_itstail	d a a	komb1273	kpf	1220	TAIL	105	
+680	Komba-82_itseye-1	Komba	82_itseye	s i	komb1273	kpf	1248	EYE	15	
+682	Komba-84_itshead-1	Komba	84_itshead	k a u k	komb1273	kpf	1256	HEAD	369	
+683	Komba-85_itsbone-1	Komba	85_itsbone	t ɔ n	komb1273	kpf	1394	BONE	325	
+684	Komba-86_he-1	Komba	86_he	z ɔ k	komb1273	kpf	1211	HE	396	
+685	Komba-87_ye-1	Komba	87_ye	z e n	komb1273	kpf	1213	YOU	326	
+686	Komba-88_they-1	Komba	88_they	z ɔ k	komb1273	kpf	817	THEY	410	
+687	Komba-89_where-1	Komba	89_where	w a n ɔ n	komb1273	kpf	1237	WHERE	355	
+688	Komba-8_one-1	Komba	8_one	k ɔ n o k	komb1273	kpf	1493	ONE	401	
+689	Komba-90_how-1	Komba	90_how	i k ɔ i + a z o	komb1273	kpf	1239	HOW	380	
+690	Komba-91_and-1	Komba	91_and	o p ŋ ɔ	komb1273	kpf	1577	AND	351	
+691	Komba-92_there-1	Komba	92_there	a d e	komb1273	kpf	1937	THERE	93	
+692	Komba-93_rightside-1	Komba	93_rightside	b o n	komb1273	kpf	1019	RIGHT	342	
+693	Komba-94_leftside-1	Komba	94_leftside	k a n e	komb1273	kpf	244	LEFT	131	
+694	Komba-95_heholds-1	Komba	95_heholds	m i	komb1273	kpf	1448	HOLD	23	
+695	Komba-96_hefalls-1	Komba	96_hefalls	l o k g i	komb1273	kpf	1280	FALL	360	
+696	Komba-97_heturns-1	Komba	97_heturns	p u r i k	komb1273	kpf	1444	TURN AROUND	374	
+697	Komba-98_hethrows-1	Komba	98_hethrows	p a n	komb1273	kpf	1456	THROW	329	
+698	Komba-99_hepulls-1	Komba	99_hepulls	o l o ŋ	komb1273	kpf	1455	PULL	137	
+699	Komba-9_two-1	Komba	9_two	z ɔ h ɔ t	komb1273	kpf	1498	TWO	424	
+700	Kube-100_hepushes-1	Kube	100_hepushes	i g o k g e	kube1244	kgf	1452	PUSH	463	
+701	Kube-101_hewashes-1	Kube	101_hewashes	dz u a k	kube1244	kgf	1453	WASH	235	
+702	Kube-102_hedigs-1	Kube	102_hedigs	o r o	kube1244	kgf	1418	DIG	432	
+703	Kube-103_hecuts-1	Kube	103_hecuts	h e r i	kube1244	kgf	1432	CUT	166	
+704	Kube-104_some-1	Kube	104_some	t o s e	kube1244	kgf	1241	SOME	63	
+705	Kube-105_short-1	Kube	105_short	h o t o ŋ	kube1244	kgf	1645	SHORT	460	
+706	Kube-106_wind-1	Kube	106_wind	r u f u k	kube1244	kgf	960	WIND	467	
+707	Kube-107_sky-1	Kube	107_sky	k u g l u m e ŋ	kube1244	kgf	1732	SKY	216	
+708	Kube-108_dust-1	Kube	108_dust	i w a i	kube1244	kgf	2	DUST	449	
+709	Kube-109_lake-1	Kube	109_lake	dz e k e ŋ	kube1244	kgf	624	LAKE	11	
+710	Kube-10_hesays-1	Kube	10_hesays	dz e	kube1244	kgf	1458	SAY	6	
+711	Kube-110_itsflower-1	Kube	110_itsflower	dz u r i	kube1244	kgf	239	FLOWER	3	
+713	Kube-112_stick-1	Kube	112_stick	gb a r u	kube1244	kgf	1295	STICK	198	
+714	Kube-113_worm-1	Kube	113_worm	gb o s u	kube1244	kgf	1219	WORM	188	
+715	Kube-114_snake-1	Kube	114_snake	m o k o r e ŋ	kube1244	kgf	730	SNAKE	109	
+716	Kube-115_animal-1	Kube	115_animal	y a ŋ	kube1244	kgf	619	ANIMAL	208	
+717	Kube-116_itsback-1	Kube	116_itsback	g e m a g i	kube1244	kgf	1291	BACK	123	
+718	Kube-117_itswing-1	Kube	117_itswing	kp e g a n	kube1244	kgf	1257	WING	7	
+720	Kube-119_hevomits-1	Kube	119_hevomits	r o n	kube1244	kgf	1278	VOMIT	33	
+722	Kube-120_helaughs-1	Kube	120_helaughs	d e s i	kube1244	kgf	1355	LAUGH	438	
+723	Kube-121_hesucks-1	Kube	121_hesucks	b i ts i	kube1244	kgf	1421	SUCK	444	
+725	Kube-123_hespits-1	Kube	123_hespits	s o f o k	kube1244	kgf	1440	SPIT	140	
+726	Kube-124_old-1	Kube	124_old	w a h a r a	kube1244	kgf	1229	OLD	461	
+728	Kube-126_dull-1	Kube	126_dull	dz i r a kp a h a k	kube1244	kgf	379	BLUNT	9	
+731	Kube-129_hisfather-1	Kube	129_hisfather	m a ŋ g i	kube1244	kgf	1217	FATHER	457	
+733	Kube-130_hismother-1	Kube	130_hismother	n e ŋ g e	kube1244	kgf	1216	MOTHER	186	
+734	Kube-131_shesews-1	Kube	131_shesews	kp e w i	kube1244	kgf	1457	SEW	157	
+735	Kube-132_rope-1	Kube	132_rope	h i s a	kube1244	kgf	1218	ROPE	459	
+737	Kube-134_hecounts-1	Kube	134_hecounts	o r o n	kube1244	kgf	1420	COUNT	446	
+738	Kube-135_theyplay-1	Kube	135_theyplay	a g l i a k	kube1244	kgf	1413	PLAY	236	
+744	Kube-140_itswells-1	Kube	140_itswells	b o ŋ g e	kube1244	kgf	1573	SWELL	464	
+748	Kube-17_hecomes-1	Kube	17_hecomes	e r e	kube1244	kgf	1446	COME	221	
+749	Kube-18_hesits-1	Kube	18_hesits	t a k	kube1244	kgf	1416	SIT	130	
+750	Kube-19_hegivesme-1	Kube	19_hegivesme	n e n	kube1244	kgf	1447	GIVE	8	
+751	Kube-1_i-1	Kube	1_i	n i	kube1244	kgf	1209	I	0	
+752	Kube-20_hestands-1	Kube	20_hestands	n a n	kube1244	kgf	1442	STAND	14	
+753	Kube-21_all-1	Kube	21_all	m o k dz o ŋ	kube1244	kgf	98	ALL	435	
+754	Kube-22_many-1	Kube	22_many	s a s a r a	kube1244	kgf	1198	MANY	440	
+755	Kube-23_night-1	Kube	23_night	s i ŋ i	kube1244	kgf	1233	NIGHT	445	
+756	Kube-24_long-1	Kube	24_long	h o r u a	kube1244	kgf	1203	LONG	44	
+757	Kube-25_big-1	Kube	25_big	k u n e ŋ	kube1244	kgf	1202	BIG	169	
+758	Kube-26_small-1	Kube	26_small	k o m o g a	kube1244	kgf	1246	SMALL	456	
+759	Kube-27_star-1	Kube	27_star	s i k i r u	kube1244	kgf	1430	STAR	68	
+760	Kube-28_sun-1	Kube	28_sun	k a i w e	kube1244	kgf	1343	SUN	462	
+761	Kube-29_cloud-1	Kube	29_cloud	h o s e s u	kube1244	kgf	1489	CLOUD	84	
+762	Kube-2_thou-1	Kube	2_thou	g i	kube1244	kgf	1215	THOU	2	
+764	Kube-31_itsbelly-1	Kube	31_itsbelly	t o m e ŋ	kube1244	kgf	1251	BELLY	470	
+765	Kube-32_itsnose-1	Kube	32_itsnose	s e r e	kube1244	kgf	1221	NOSE	455	
+766	Kube-33_itsheart-1	Kube	33_itsheart	w e b o g o k m e	kube1244	kgf	1223	HEART	472	
+767	Kube-34_itsfat-1	Kube	34_itsfat	h a r e k	kube1244	kgf	323	FAT (ORGANIC SUBSTANCE)	59	
+768	Kube-35_itsneck-1	Kube	35_itsneck	e b a s i g l a	kube1244	kgf	1333	NECK	468	
+769	Kube-36_itshair-1	Kube	36_itshair	dz u	kube1244	kgf	1040	HAIR	132	
+770	Kube-37_hedies-1	Kube	37_hedies	h u m u	kube1244	kgf	1494	DIE	136	
+771	Kube-38_heseesme-1	Kube	38_heseesme	n i	kube1244	kgf	1409	SEE	138	
+772	Kube-39_hesleeps-1	Kube	39_hesleeps	f e	kube1244	kgf	1585	SLEEP	10	
+773	Kube-3_we-1	Kube	3_we	n i n i	kube1244	kgf	1212	WE	160	
+774	Kube-40_heeats-1	Kube	40_heeats	n e	kube1244	kgf	1336	EAT	12	
+775	Kube-41_hebitesit-1	Kube	41_hebitesit	k i	kube1244	kgf	1403	BITE	16	
+776	Kube-42_black-1	Kube	42_black	dz a p e r a	kube1244	kgf	163	BLACK	433	
+777	Kube-43_green-1	Kube	43_green	g e r i k + m e r i a	kube1244	kgf	1425	GREEN	436	
+778	Kube-44_white-1	Kube	44_white	r a r a k	kube1244	kgf	1335	WHITE	437	
+779	Kube-45_red-1	Kube	45_red	p e s i a	kube1244	kgf	156	RED	442	
+780	Kube-46_yellow-1	Kube	46_yellow	gb a o k + gb a o k	kube1244	kgf	1424	YELLOW	443	
+781	Kube-47_good-1	Kube	47_good	f i a	kube1244	kgf	1035	GOOD	447	
+783	Kube-49_new-1	Kube	49_new	gb e r i a	kube1244	kgf	1231	NEW	48	
+784	Kube-4_who-1	Kube	4_who	m o ŋ	kube1244	kgf	1235	WHO	74	
+785	Kube-50_itisdry-1	Kube	50_itisdry	i r e g e	kube1244	kgf	1398	DRY	451	
+787	Kube-52_itsname-1	Kube	52_itsname	k i w a	kube1244	kgf	1405	NAME	175	
+788	Kube-53_not-1	Kube	53_not	m u n d a	kube1244	kgf	1240	NOT	64	
+789	Kube-54_itburns-1	Kube	54_itburns	dz e	kube1244	kgf	1428	BURNING	66	
+790	Kube-55_road-1	Kube	55_road	h e n a	kube1244	kgf	667	ROAD	70	
+791	Kube-56_water-1	Kube	56_water	d o k u	kube1244	kgf	948	WATER	189	
+792	Kube-57_smoke-1	Kube	57_smoke	h o f a k	kube1244	kgf	778	SMOKE (EXHAUST)	82	
+795	Kube-5_what-1	Kube	5_what	n e m a k	kube1244	kgf	1236	WHAT	429	
+796	Kube-60_sand-1	Kube	60_sand	s a k e s a	kube1244	kgf	671	SAND	92	
+797	Kube-61_stone-1	Kube	61_stone	g o k m e a	kube1244	kgf	857	STONE	469	
+798	Kube-62_mountain-1	Kube	62_mountain	b o ŋ a	kube1244	kgf	639	MOUNTAIN	100	
+799	Kube-63_ashes-1	Kube	63_ashes	h o m a	kube1244	kgf	646	ASH	211	
+800	Kube-64_earth-1	Kube	64_earth	b a e k	kube1244	kgf	1228	EARTH (SOIL)	214	
+801	Kube-65_itsleaf-1	Kube	65_itsleaf	h a r e ŋ	kube1244	kgf	628	LEAF	471	
+802	Kube-66_tree-1	Kube	66_tree	i k	kube1244	kgf	906	TREE	118	
+803	Kube-67_itsroot-1	Kube	67_itsroot	g e t e	kube1244	kgf	670	ROOT	223	
+804	Kube-68_itsseed-1	Kube	68_itsseed	g o k m e	kube1244	kgf	714	SEED	473	
+805	Kube-69_itsear-1	Kube	69_itsear	g e dz a	kube1244	kgf	1247	EAR	126	
+806	Kube-6_that-1	Kube	6_that	y o	kube1244	kgf	78	THAT	22	
+807	Kube-70_louse-1	Kube	70_louse	i m i n	kube1244	kgf	1392	LOUSE	128	
+808	Kube-71_dog-1	Kube	71_dog	k a dz u	kube1244	kgf	2009	DOG	134	
+809	Kube-72_bird-1	Kube	72_bird	n e i	kube1244	kgf	937	BIRD	237	
+810	Kube-73_woman-1	Kube	73_woman	e m b a k	kube1244	kgf	962	WOMAN	91	
+812	Kube-75_itsblood-1	Kube	75_itsblood	s a w a	kube1244	kgf	946	BLOOD	127	
+813	Kube-76_hishand-1	Kube	76_hishand	m e r i	kube1244	kgf	1277	HAND	164	
+814	Kube-77_itstongue-1	Kube	77_itstongue	e dz e r a ŋ	kube1244	kgf	1205	TONGUE	57	
+815	Kube-78_itstooth-1	Kube	78_itstooth	dz e g l	kube1244	kgf	1380	TOOTH	51	
+816	Kube-79_itsfoot-1	Kube	79_itsfoot	h e n i	kube1244	kgf	1301	FOOT	81	
+817	Kube-7_this-1	Kube	7_this	i	kube1244	kgf	1214	THIS	40	
+818	Kube-80_itstail-1	Kube	80_itstail	dz i	kube1244	kgf	1220	TAIL	105	
+820	Kube-82_itseye-1	Kube	82_itseye	k i w a	kube1244	kgf	1248	EYE	141	
+822	Kube-84_itshead-1	Kube	84_itshead	o g u	kube1244	kgf	1256	HEAD	458	
+823	Kube-85_itsbone-1	Kube	85_itsbone	s i g l	kube1244	kgf	1394	BONE	89	
+824	Kube-86_he-1	Kube	86_he	i	kube1244	kgf	1211	HE	99	
+825	Kube-87_ye-1	Kube	87_ye	i n i	kube1244	kgf	1213	YOU	238	
+826	Kube-88_they-1	Kube	88_they	i ŋ e ŋ	kube1244	kgf	817	THEY	434	
+827	Kube-89_where-1	Kube	89_where	d i m i a	kube1244	kgf	1237	WHERE	465	
+828	Kube-8_one-1	Kube	8_one	m o m a k g u	kube1244	kgf	1493	ONE	199	
+829	Kube-90_how-1	Kube	90_how	d e i k	kube1244	kgf	1239	HOW	452	
+830	Kube-91_and-1	Kube	91_and	w a ŋ u	kube1244	kgf	1577	AND	450	
+831	Kube-92_there-1	Kube	92_there	e r i	kube1244	kgf	1937	THERE	93	
+832	Kube-93_rightside-1	Kube	93_rightside	f o i	kube1244	kgf	1019	RIGHT	217	
+833	Kube-94_leftside-1	Kube	94_leftside	k a n a	kube1244	kgf	244	LEFT	131	
+834	Kube-95_heholds-1	Kube	95_heholds	m e	kube1244	kgf	1448	HOLD	23	
+835	Kube-96_hefalls-1	Kube	96_hefalls	m a	kube1244	kgf	1280	FALL	161	
+836	Kube-97_heturns-1	Kube	97_heturns	m e r e n	kube1244	kgf	1444	TURN AROUND	49	
+837	Kube-98_hethrows-1	Kube	98_hethrows	w a i	kube1244	kgf	1456	THROW	190	
+838	Kube-99_hepulls-1	Kube	99_hepulls	f e g l e	kube1244	kgf	1455	PULL	430	
+839	Kube-9_two-1	Kube	9_two	r e h e k	kube1244	kgf	1498	TWO	424	
+840	Mape-100_hepushes-1	Mape	100_hepushes	t u ŋ g a	mape1249	mlh	1452	PUSH	212	
+841	Mape-101_hewashes-1	Mape	101_hewashes	k e dz u r e	mape1249	mlh	1453	WASH	249	
+842	Mape-102_hedigs-1	Mape	102_hedigs	u s e	mape1249	mlh	1418	DIG	149	
+843	Mape-103_hecuts-1	Mape	103_hecuts	k e t i k g a	mape1249	mlh	1432	CUT	481	
+844	Mape-104_some-1	Mape	104_some	g ɔ	mape1249	mlh	1241	SOME	193	
+845	Mape-105_short-1	Mape	105_short	b e m b e ŋ	mape1249	mlh	1645	SHORT	270	
+846	Mape-106_wind-1	Mape	106_wind	m ɔ ŋ u ŋ	mape1249	mlh	960	WIND	303	
+847	Mape-107_sky-1	Mape	107_sky	s a m b ɔ ŋ g o	mape1249	mlh	1732	SKY	312	
+848	Mape-108_dust-1	Mape	108_dust	y a k	mape1249	mlh	2	DUST	496	
+849	Mape-109_lake-1	Mape	109_lake	dz ɔ g ɔ ŋ	mape1249	mlh	624	LAKE	11	
+850	Mape-10_hesays-1	Mape	10_hesays	m i	mape1249	mlh	1458	SAY	251	
+851	Mape-110_itsflower-1	Mape	110_itsflower	ɔ r i	mape1249	mlh	239	FLOWER	3	
+853	Mape-112_stick-1	Mape	112_stick	gb a r u	mape1249	mlh	1295	STICK	198	
+854	Mape-113_worm-1	Mape	113_worm	gb ɔ s u	mape1249	mlh	1219	WORM	188	
+855	Mape-114_snake-1	Mape	114_snake	k o b e ŋ	mape1249	mlh	730	SNAKE	500	
+856	Mape-115_animal-1	Mape	115_animal	dz o m a k	mape1249	mlh	619	ANIMAL	498	
+857	Mape-116_itsback-1	Mape	116_itsback	ŋ a r i	mape1249	mlh	1291	BACK	494	
+858	Mape-117_itswing-1	Mape	117_itswing	gb e w ɔ	mape1249	mlh	1257	WING	475	
+860	Mape-119_hevomits-1	Mape	119_hevomits	g i w u	mape1249	mlh	1278	VOMIT	490	
+862	Mape-120_helaughs-1	Mape	120_helaughs	g o w e e	mape1249	mlh	1355	LAUGH	275	
+863	Mape-121_hesucks-1	Mape	121_hesucks	m u d u g a a	mape1249	mlh	1421	SUCK	489	
+865	Mape-123_hespits-1	Mape	123_hespits	t i f a k	mape1249	mlh	1440	SPIT	140	
+866	Mape-124_old-1	Mape	124_old	r a ŋ gb a ŋ	mape1249	mlh	1229	OLD	291	
+868	Mape-126_dull-1	Mape	126_dull	k i m ɔ ŋ i n e	mape1249	mlh	379	BLUNT	474	
+871	Mape-129_hisfather-1	Mape	129_hisfather	m a m a	mape1249	mlh	1217	FATHER	224	
+873	Mape-130_hismother-1	Mape	130_hismother	n a ŋ g o	mape1249	mlh	1216	MOTHER	186	
+874	Mape-131_shesews-1	Mape	131_shesews	gb ɔ r u	mape1249	mlh	1457	SEW	252	
+875	Mape-132_rope-1	Mape	132_rope	n i ŋ g i ŋ	mape1249	mlh	1218	ROPE	505	
+877	Mape-134_hecounts-1	Mape	134_hecounts	ɔ s e	mape1249	mlh	1420	COUNT	220	
+878	Mape-135_theyplay-1	Mape	135_theyplay	m a s i r i g a	mape1249	mlh	1413	PLAY	483	
+884	Mape-140_itswells-1	Mape	140_itswells	s i w i ŋ	mape1249	mlh	1573	SWELL	172	
+888	Mape-17_hecomes-1	Mape	17_hecomes	w a p e	mape1249	mlh	1446	COME	518	
+889	Mape-18_hesits-1	Mape	18_hesits	ŋ e	mape1249	mlh	1416	SIT	323	
+890	Mape-19_hegivesme-1	Mape	19_hegivesme	n a r e	mape1249	mlh	1447	GIVE	243	
+891	Mape-1_i-1	Mape	1_i	n o	mape1249	mlh	1209	I	245	
+892	Mape-20_hestands-1	Mape	20_hestands	d i m i	mape1249	mlh	1442	STAND	248	
+893	Mape-21_all-1	Mape	21_all	s ɔ s ɔ w ɔ	mape1249	mlh	98	ALL	146	
+894	Mape-22_many-1	Mape	22_many	b o i a h a	mape1249	mlh	1198	MANY	260	
+895	Mape-23_night-1	Mape	23_night	u w u	mape1249	mlh	1233	NIGHT	484	
+896	Mape-24_long-1	Mape	24_long	dz o r a i k n e	mape1249	mlh	1203	LONG	268	
+897	Mape-25_big-1	Mape	25_big	y a s o g o	mape1249	mlh	1202	BIG	493	
+898	Mape-26_small-1	Mape	26_small	m e n d a k n e	mape1249	mlh	1246	SMALL	499	
+899	Mape-27_star-1	Mape	27_star	b ɔ p i ŋ	mape1249	mlh	1430	STAR	180	
+900	Mape-28_sun-1	Mape	28_sun	w e g i	mape1249	mlh	1343	SUN	509	
+901	Mape-29_cloud-1	Mape	29_cloud	g ɔ w e ŋ	mape1249	mlh	1489	CLOUD	513	
+902	Mape-2_thou-1	Mape	2_thou	g o	mape1249	mlh	1215	THOU	292	
+904	Mape-31_itsbelly-1	Mape	31_itsbelly	a t a	mape1249	mlh	1251	BELLY	515	
+905	Mape-32_itsnose-1	Mape	32_itsnose	s i k ɔ	mape1249	mlh	1221	NOSE	213	
+906	Mape-33_itsheart-1	Mape	33_itsheart	m a k i + k ɔ r u ŋ	mape1249	mlh	1223	HEART	516	
+907	Mape-34_itsfat-1	Mape	34_itsfat	w i dz i	mape1249	mlh	323	FAT (ORGANIC SUBSTANCE)	485	
+908	Mape-35_itsneck-1	Mape	35_itsneck	u b e	mape1249	mlh	1333	NECK	229	
+909	Mape-36_itshair-1	Mape	36_itshair	k a ŋ dz a ŋ	mape1249	mlh	1040	HAIR	519	
+910	Mape-37_hedies-1	Mape	37_hedies	k ɔ m e	mape1249	mlh	1494	DIE	136	
+911	Mape-38_heseesme-1	Mape	38_heseesme	ŋ o n e n u	mape1249	mlh	1409	SEE	242	
+912	Mape-39_hesleeps-1	Mape	39_hesleeps	kp e	mape1249	mlh	1585	SLEEP	476	
+913	Mape-3_we-1	Mape	3_we	ŋ ɔ ŋ u	mape1249	mlh	1212	WE	4	
+914	Mape-40_heeats-1	Mape	40_heeats	n a	mape1249	mlh	1336	EAT	12	
+915	Mape-41_hebitesit-1	Mape	41_hebitesit	k i	mape1249	mlh	1403	BITE	16	
+916	Mape-42_black-1	Mape	42_black	g ɔ g ɔ w u k	mape1249	mlh	163	BLACK	253	
+917	Mape-43_green-1	Mape	43_green	b u g e	mape1249	mlh	1425	GREEN	479	
+918	Mape-44_white-1	Mape	44_white	k a p ŋ + k a p ŋ	mape1249	mlh	1335	WHITE	258	
+919	Mape-45_red-1	Mape	45_red	b ɔ b ɔ r o ŋ	mape1249	mlh	156	RED	259	
+920	Mape-46_yellow-1	Mape	46_yellow	b o b o ŋ e ŋ	mape1249	mlh	1424	YELLOW	261	
+921	Mape-47_good-1	Mape	47_good	f i i n e	mape1249	mlh	1035	GOOD	447	
+923	Mape-49_new-1	Mape	49_new	gb ɔ i n e	mape1249	mlh	1231	NEW	48	
+924	Mape-4_who-1	Mape	4_who	m o c	mape1249	mlh	1235	WHO	74	
+925	Mape-50_itisdry-1	Mape	50_itisdry	dz i g a	mape1249	mlh	1398	DRY	491	
+927	Mape-52_itsname-1	Mape	52_itsname	dz i ŋ ɔ	mape1249	mlh	1405	NAME	276	
+928	Mape-53_not-1	Mape	53_not	s o	mape1249	mlh	1240	NOT	503	
+929	Mape-54_itburns-1	Mape	54_itburns	dz a	mape1249	mlh	1428	BURNING	66	
+930	Mape-55_road-1	Mape	55_road	k a r i	mape1249	mlh	667	ROAD	507	
+931	Mape-56_water-1	Mape	56_water	o w u	mape1249	mlh	948	WATER	508	
+932	Mape-57_smoke-1	Mape	57_smoke	k o s ɔ k	mape1249	mlh	778	SMOKE (EXHAUST)	82	
+935	Mape-5_what-1	Mape	5_what	w a m o	mape1249	mlh	1236	WHAT	240	
+936	Mape-60_sand-1	Mape	60_sand	m a g e ŋ	mape1249	mlh	671	SAND	201	
+937	Mape-61_stone-1	Mape	61_stone	k ɔ k	mape1249	mlh	857	STONE	205	
+938	Mape-62_mountain-1	Mape	62_mountain	t i k i	mape1249	mlh	639	MOUNTAIN	207	
+939	Mape-63_ashes-1	Mape	63_ashes	dz a f e	mape1249	mlh	646	ASH	306	
+940	Mape-64_earth-1	Mape	64_earth	m ɔ r e ŋ	mape1249	mlh	1228	EARTH (SOIL)	308	
+941	Mape-65_itsleaf-1	Mape	65_itsleaf	r e k a k	mape1249	mlh	628	LEAF	311	
+942	Mape-66_tree-1	Mape	66_tree	y ɔ k	mape1249	mlh	906	TREE	313	
+943	Mape-67_itsroot-1	Mape	67_itsroot	g ɔ r u	mape1249	mlh	670	ROOT	223	
+944	Mape-68_itsseed-1	Mape	68_itsseed	f ɔ ŋ ɔ ŋ	mape1249	mlh	714	SEED	517	
+945	Mape-69_itsear-1	Mape	69_itsear	k a dz e	mape1249	mlh	1247	EAR	126	
+946	Mape-6_that-1	Mape	6_that	ɔ	mape1249	mlh	78	THAT	482	
+947	Mape-70_louse-1	Mape	70_louse	i m e ŋ	mape1249	mlh	1392	LOUSE	128	
+948	Mape-71_dog-1	Mape	71_dog	kp o r o	mape1249	mlh	2009	DOG	322	
+949	Mape-72_bird-1	Mape	72_bird	w ɔ r ɔ	mape1249	mlh	937	BIRD	506	
+950	Mape-73_woman-1	Mape	73_woman	ŋ i g o k	mape1249	mlh	962	WOMAN	206	
+952	Mape-75_itsblood-1	Mape	75_itsblood	d a r i	mape1249	mlh	946	BLOOD	511	
+953	Mape-76_hishand-1	Mape	76_hishand	m e	mape1249	mlh	1277	HAND	267	
+954	Mape-77_itstongue-1	Mape	77_itstongue	e r ɔ ŋ	mape1249	mlh	1205	TONGUE	497	
+955	Mape-78_itstooth-1	Mape	78_itstooth	m i s i ɔ	mape1249	mlh	1380	TOOTH	512	
+956	Mape-79_itsfoot-1	Mape	79_itsfoot	k i g ɔ	mape1249	mlh	1301	FOOT	281	
+957	Mape-7_this-1	Mape	7_this	ɔ i	mape1249	mlh	1214	THIS	504	
+958	Mape-80_itstail-1	Mape	80_itstail	dz i	mape1249	mlh	1220	TAIL	105	
+960	Mape-82_itseye-1	Mape	82_itseye	dz i ŋ ɔ	mape1249	mlh	1248	EYE	246	
+962	Mape-84_itshead-1	Mape	84_itshead	kp ɔ r u	mape1249	mlh	1256	HEAD	495	
+963	Mape-85_itsbone-1	Mape	85_itsbone	s i a k	mape1249	mlh	1394	BONE	89	
+964	Mape-86_he-1	Mape	86_he	i	mape1249	mlh	1211	HE	99	
+965	Mape-87_ye-1	Mape	87_ye	ŋ o ŋ a i	mape1249	mlh	1213	YOU	113	
+966	Mape-88_they-1	Mape	88_they	y a ŋ a	mape1249	mlh	817	THEY	278	
+967	Mape-89_where-1	Mape	89_where	u r o o	mape1249	mlh	1237	WHERE	480	
+968	Mape-8_one-1	Mape	8_one	m o k o t o ŋ	mape1249	mlh	1493	ONE	520	
+969	Mape-90_how-1	Mape	90_how	u r i ŋ u	mape1249	mlh	1239	HOW	492	
+970	Mape-91_and-1	Mape	91_and	e m e	mape1249	mlh	1577	AND	191	
+971	Mape-92_there-1	Mape	92_there	a r o o	mape1249	mlh	1937	THERE	514	
+972	Mape-93_rightside-1	Mape	93_rightside	f ɔ r e	mape1249	mlh	1019	RIGHT	277	
+973	Mape-94_leftside-1	Mape	94_leftside	kp a n a	mape1249	mlh	244	LEFT	131	
+974	Mape-95_heholds-1	Mape	95_heholds	r o	mape1249	mlh	1448	HOLD	244	
+975	Mape-96_hefalls-1	Mape	96_hefalls	w a k i	mape1249	mlh	1280	FALL	272	
+976	Mape-97_heturns-1	Mape	97_heturns	p e r i s i e	mape1249	mlh	1444	TURN AROUND	284	
+977	Mape-98_hethrows-1	Mape	98_hethrows	w ɔ k e	mape1249	mlh	1456	THROW	502	
+978	Mape-99_hepulls-1	Mape	99_hepulls	f u r u g a	mape1249	mlh	1455	PULL	307	
+979	Mape-9_two-1	Mape	9_two	y o y o k a k	mape1249	mlh	1498	TWO	225	
+980	Mesem-100_hepushes-1	Mesem	100_hepushes	o t ə g ə	mese1244	mci	1452	PUSH	606	
+981	Mesem-101_hewashes-1	Mesem	101_hewashes	ə l i	mese1244	mci	1453	WASH	615	
+982	Mesem-102_hedigs-1	Mesem	102_hedigs	l o	mese1244	mci	1418	DIG	544	
+983	Mesem-103_hecuts-1	Mesem	103_hecuts	l a n t i	mese1244	mci	1432	CUT	557	
+984	Mesem-104_some-1	Mesem	104_some	b u t	mese1244	mci	1241	SOME	550	
+985	Mesem-105_short-1	Mesem	105_short	d a n dz i	mese1244	mci	1645	SHORT	542	
+986	Mesem-106_wind-1	Mesem	106_wind	t ə g ə	mese1244	mci	960	WIND	548	
+987	Mesem-107_sky-1	Mesem	107_sky	n o m b ə	mese1244	mci	1732	SKY	578	
+988	Mesem-108_dust-1	Mesem	108_dust	w a n a w a n a	mese1244	mci	2	DUST	554	
+989	Mesem-109_lake-1	Mesem	109_lake	l ə m	mese1244	mci	624	LAKE	522	
+990	Mesem-10_hesays-1	Mesem	10_hesays	dz ə	mese1244	mci	1458	SAY	6	
+991	Mesem-110_itsflower-1	Mesem	110_itsflower	dz o l m a n	mese1244	mci	239	FLOWER	3	
+993	Mesem-112_stick-1	Mesem	112_stick	o n z e	mese1244	mci	1295	STICK	571	
+994	Mesem-113_worm-1	Mesem	113_worm	g ọ/o	mese1244	mci	1219	WORM	536	
+995	Mesem-114_snake-1	Mesem	114_snake	a s į/i	mese1244	mci	730	SNAKE	556	
+996	Mesem-115_animal-1	Mesem	115_animal	dz i	mese1244	mci	619	ANIMAL	400	
+997	Mesem-116_itsback-1	Mesem	116_itsback	b e s e t	mese1244	mci	1291	BACK	570	
+998	Mesem-117_itswing-1	Mesem	117_itswing	kp o g o	mese1244	mci	1257	WING	577	
+1000	Mesem-119_hevomits-1	Mesem	119_hevomits	n u a	mese1244	mci	1278	VOMIT	527	
+1002	Mesem-120_helaughs-1	Mesem	120_helaughs	y ə y ə n	mese1244	mci	1355	LAUGH	540	
+1003	Mesem-121_hesucks-1	Mesem	121_hesucks	b ə s ə	mese1244	mci	1421	SUCK	561	
+1005	Mesem-123_hespits-1	Mesem	123_hespits	dz ə t u p a	mese1244	mci	1440	SPIT	535	
+1006	Mesem-124_old-1	Mesem	124_old	kp ə n	mese1244	mci	1229	OLD	529	
+1008	Mesem-126_dull-1	Mesem	126_dull	k o k ŋ + kp i ə k n̩	mese1244	mci	379	BLUNT	575	
+1011	Mesem-129_hisfather-1	Mesem	129_hisfather	b i p	mese1244	mci	1217	FATHER	521	
+1013	Mesem-130_hismother-1	Mesem	130_hismother	m a m	mese1244	mci	1216	MOTHER	382	
+1014	Mesem-131_shesews-1	Mesem	131_shesews	o s ə	mese1244	mci	1457	SEW	546	
+1015	Mesem-132_rope-1	Mesem	132_rope	t ə k	mese1244	mci	1218	ROPE	412	
+1017	Mesem-134_hecounts-1	Mesem	134_hecounts	u s u n	mese1244	mci	1420	COUNT	582	
+1018	Mesem-135_theyplay-1	Mesem	135_theyplay	dz ə g o dz ə	mese1244	mci	1413	PLAY	531	
+1024	Mesem-140_itswells-1	Mesem	140_itswells	s i m e n	mese1244	mci	1573	SWELL	530	
+1028	Mesem-17_hecomes-1	Mesem	17_hecomes	k o	mese1244	mci	1446	COME	610	
+1029	Mesem-18_hesits-1	Mesem	18_hesits	t a	mese1244	mci	1416	SIT	130	
+1030	Mesem-19_hegivesme-1	Mesem	19_hegivesme	n a k a	mese1244	mci	1447	GIVE	619	
+1031	Mesem-1_i-1	Mesem	1_i	n ą/a	mese1244	mci	1209	I	245	
+1032	Mesem-20_hestands-1	Mesem	20_hestands	t a	mese1244	mci	1442	STAND	532	
+1033	Mesem-21_all-1	Mesem	21_all	p ə s ə kp e p	mese1244	mci	98	ALL	541	
+1034	Mesem-22_many-1	Mesem	22_many	k i r i s i	mese1244	mci	1198	MANY	553	
+1035	Mesem-23_night-1	Mesem	23_night	m i m b a	mese1244	mci	1233	NIGHT	562	
+1036	Mesem-24_long-1	Mesem	24_long	k e p m̩	mese1244	mci	1203	LONG	567	
+1037	Mesem-25_big-1	Mesem	25_big	k ə i t n̩	mese1244	mci	1202	BIG	576	
+1038	Mesem-26_small-1	Mesem	26_small	n a m z i	mese1244	mci	1246	SMALL	585	
+1039	Mesem-27_star-1	Mesem	27_star	dz ə m ə r i n dz ə	mese1244	mci	1430	STAR	588	
+1040	Mesem-28_sun-1	Mesem	28_sun	k ə s u	mese1244	mci	1343	SUN	590	
+1041	Mesem-29_cloud-1	Mesem	29_cloud	k u m b u	mese1244	mci	1489	CLOUD	592	
+1042	Mesem-2_thou-1	Mesem	2_thou	g ą/a	mese1244	mci	1215	THOU	292	
+1044	Mesem-31_itsbelly-1	Mesem	31_itsbelly	t i p	mese1244	mci	1251	BELLY	407	
+1045	Mesem-32_itsnose-1	Mesem	32_itsnose	s i ŋ g e ŋ	mese1244	mci	1221	NOSE	605	
+1046	Mesem-33_itsheart-1	Mesem	33_itsheart	w e m b ə + k ə t	mese1244	mci	1223	HEART	608	
+1047	Mesem-34_itsfat-1	Mesem	34_itsfat	k e r ə k	mese1244	mci	323	FAT (ORGANIC SUBSTANCE)	59	
+1048	Mesem-35_itsneck-1	Mesem	35_itsneck	a n d e ŋ	mese1244	mci	1333	NECK	591	
+1049	Mesem-36_itshair-1	Mesem	36_itshair	dz u p	mese1244	mci	1040	HAIR	132	
+1050	Mesem-37_hedies-1	Mesem	37_hedies	f ə k i	mese1244	mci	1494	DIE	534	
+1051	Mesem-38_heseesme-1	Mesem	38_heseesme	n ə g ə i	mese1244	mci	1409	SEE	618	
+1052	Mesem-39_hesleeps-1	Mesem	39_hesleeps	w e	mese1244	mci	1585	SLEEP	528	
+1053	Mesem-3_we-1	Mesem	3_we	n į/i	mese1244	mci	1212	WE	160	
+1054	Mesem-40_heeats-1	Mesem	40_heeats	n i n	mese1244	mci	1336	EAT	12	
+1055	Mesem-41_hebitesit-1	Mesem	41_hebitesit	y e	mese1244	mci	1403	BITE	537	
+1056	Mesem-42_black-1	Mesem	42_black	s ə m b o p m	mese1244	mci	163	BLACK	539	
+1057	Mesem-43_green-1	Mesem	43_green	k o k ŋ	mese1244	mci	1425	GREEN	545	
+1058	Mesem-44_white-1	Mesem	44_white	s a g a t n̩	mese1244	mci	1335	WHITE	551	
+1059	Mesem-45_red-1	Mesem	45_red	k u k ŋ	mese1244	mci	156	RED	558	
+1060	Mesem-46_yellow-1	Mesem	46_yellow	a l a ŋ	mese1244	mci	1424	YELLOW	560	
+1061	Mesem-47_good-1	Mesem	47_good	s a ŋ g a m	mese1244	mci	1035	GOOD	564	
+1063	Mesem-49_new-1	Mesem	49_new	g o r ə ŋ	mese1244	mci	1231	NEW	572	
+1064	Mesem-4_who-1	Mesem	4_who	a l a	mese1244	mci	1235	WHO	587	
+1065	Mesem-50_itisdry-1	Mesem	50_itisdry	a l a ŋ g ə	mese1244	mci	1398	DRY	361	
+1067	Mesem-52_itsname-1	Mesem	52_itsname	k o t	mese1244	mci	1405	NAME	370	
+1068	Mesem-53_not-1	Mesem	53_not	k ə m	mese1244	mci	1240	NOT	586	
+1069	Mesem-54_itburns-1	Mesem	54_itburns	dz i	mese1244	mci	1428	BURNING	66	
+1070	Mesem-55_road-1	Mesem	55_road	k ə	mese1244	mci	667	ROAD	70	
+1071	Mesem-56_water-1	Mesem	56_water	t u	mese1244	mci	948	WATER	383	
+1072	Mesem-57_smoke-1	Mesem	57_smoke	k ə s ə	mese1244	mci	778	SMOKE (EXHAUST)	82	
+1075	Mesem-5_what-1	Mesem	5_what	w a n a	mese1244	mci	1236	WHAT	426	
+1076	Mesem-60_sand-1	Mesem	60_sand	g a ŋ a	mese1244	mci	671	SAND	595	
+1077	Mesem-61_stone-1	Mesem	61_stone	n a n dz a	mese1244	mci	857	STONE	523	
+1078	Mesem-62_mountain-1	Mesem	62_mountain	k a l a ŋ	mese1244	mci	639	MOUNTAIN	601	
+1079	Mesem-63_ashes-1	Mesem	63_ashes	dz i t a	mese1244	mci	646	ASH	603	
+1080	Mesem-64_earth-1	Mesem	64_earth	m i s a	mese1244	mci	1228	EARTH (SOIL)	604	
+1081	Mesem-65_itsleaf-1	Mesem	65_itsleaf	s i n	mese1244	mci	628	LEAF	108	
+1082	Mesem-66_tree-1	Mesem	66_tree	t ə	mese1244	mci	906	TREE	607	
+1083	Mesem-67_itsroot-1	Mesem	67_itsroot	k i n d i r i	mese1244	mci	670	ROOT	611	
+1084	Mesem-68_itsseed-1	Mesem	68_itsseed	k ə t	mese1244	mci	714	SEED	124	
+1085	Mesem-69_itsear-1	Mesem	69_itsear	b ə b ə t	mese1244	mci	1247	EAR	602	
+1086	Mesem-6_that-1	Mesem	6_that	m e i	mese1244	mci	78	THAT	547	
+1087	Mesem-70_louse-1	Mesem	70_louse	l ə m	mese1244	mci	1392	LOUSE	614	
+1088	Mesem-71_dog-1	Mesem	71_dog	t ą/a	mese1244	mci	2009	DOG	616	
+1089	Mesem-72_bird-1	Mesem	72_bird	l a u	mese1244	mci	937	BIRD	617	
+1090	Mesem-73_woman-1	Mesem	73_woman	i m b i	mese1244	mci	962	WOMAN	91	
+1092	Mesem-75_itsblood-1	Mesem	75_itsblood	s i p	mese1244	mci	946	BLOOD	127	
+1093	Mesem-76_hishand-1	Mesem	76_hishand	b ə t	mese1244	mci	1277	HAND	340	
+1094	Mesem-77_itstongue-1	Mesem	77_itstongue	n a m b a l a ŋ	mese1244	mci	1205	TONGUE	57	
+1095	Mesem-78_itstooth-1	Mesem	78_itstooth	dz ə t	mese1244	mci	1380	TOOTH	51	
+1096	Mesem-79_itsfoot-1	Mesem	79_itsfoot	k ə t	mese1244	mci	1301	FOOT	568	
+1097	Mesem-7_this-1	Mesem	7_this	w i	mese1244	mci	1214	THIS	583	
+1098	Mesem-80_itstail-1	Mesem	80_itstail	d a k	mese1244	mci	1220	TAIL	597	
+1100	Mesem-82_itseye-1	Mesem	82_itseye	dz i	mese1244	mci	1248	EYE	15	
+1102	Mesem-84_itshead-1	Mesem	84_itshead	n o k	mese1244	mci	1256	HEAD	574	
+1103	Mesem-85_itsbone-1	Mesem	85_itsbone	s i e t	mese1244	mci	1394	BONE	89	
+1104	Mesem-86_he-1	Mesem	86_he	l ə	mese1244	mci	1211	HE	396	
+1105	Mesem-87_ye-1	Mesem	87_ye	l į/i	mese1244	mci	1213	YOU	238	
+1106	Mesem-88_they-1	Mesem	88_they	l e n e	mese1244	mci	817	THEY	609	
+1107	Mesem-89_where-1	Mesem	89_where	d e n e	mese1244	mci	1237	WHERE	555	
+1108	Mesem-8_one-1	Mesem	8_one	kp e dz i	mese1244	mci	1493	ONE	594	
+1109	Mesem-90_how-1	Mesem	90_how	d i s i	mese1244	mci	1239	HOW	569	
+1110	Mesem-91_and-1	Mesem	91_and	m i m b i	mese1244	mci	1577	AND	584	
+1111	Mesem-92_there-1	Mesem	92_there	i n d a	mese1244	mci	1937	THERE	93	
+1112	Mesem-93_rightside-1	Mesem	93_rightside	p a n a	mese1244	mci	1019	RIGHT	599	
+1113	Mesem-94_leftside-1	Mesem	94_leftside	k a n a	mese1244	mci	244	LEFT	131	
+1114	Mesem-95_heholds-1	Mesem	95_heholds	w a ŋ g a	mese1244	mci	1448	HOLD	526	
+1115	Mesem-96_hefalls-1	Mesem	96_hefalls	k a o	mese1244	mci	1280	FALL	549	
+1116	Mesem-97_heturns-1	Mesem	97_heturns	g i r i dz ə	mese1244	mci	1444	TURN AROUND	600	
+1117	Mesem-98_hethrows-1	Mesem	98_hethrows	k ə t i p e	mese1244	mci	1456	THROW	596	
+1118	Mesem-99_hepulls-1	Mesem	99_hepulls	m e n d a	mese1244	mci	1455	PULL	598	
+1119	Mesem-9_two-1	Mesem	9_two	dz e b a	mese1244	mci	1498	TWO	612	
+1120	Mindik-100_hepushes-1	Mindik	100_hepushes	m e a kp o	buru1306	bmu	1452	PUSH	878	
+1121	Mindik-101_hewashes-1	Mindik	101_hewashes	s o ŋ g a ŋ	buru1306	bmu	1453	WASH	135	
+1122	Mindik-102_hedigs-1	Mindik	102_hedigs	e ts o	buru1306	bmu	1418	DIG	815	
+1123	Mindik-103_hecuts-1	Mindik	103_hecuts	kp i t i	buru1306	bmu	1432	CUT	870	
+1124	Mindik-104_some-1	Mindik	104_some	t o s a t	buru1306	bmu	1241	SOME	63	
+1125	Mindik-105_short-1	Mindik	105_short	t ɔ r ɔ p	buru1306	bmu	1645	SHORT	385	
+1126	Mindik-106_wind-1	Mindik	106_wind	l u h u t	buru1306	bmu	960	WIND	467	
+1127	Mindik-107_sky-1	Mindik	107_sky	k u r u m e n	buru1306	bmu	1732	SKY	216	
+1128	Mindik-108_dust-1	Mindik	108_dust	i w a i	buru1306	bmu	2	DUST	449	
+1129	Mindik-109_lake-1	Mindik	109_lake	a ŋ g ɔ	buru1306	bmu	624	LAKE	11	
+1130	Mindik-10_hesays-1	Mindik	10_hesays	dz i	buru1306	bmu	1458	SAY	6	
+1131	Mindik-110_itsflower-1	Mindik	110_itsflower	dz u r a	buru1306	bmu	239	FLOWER	3	
+1133	Mindik-112_stick-1	Mindik	112_stick	t a h a p	buru1306	bmu	1295	STICK	67	
+1134	Mindik-113_worm-1	Mindik	113_worm	g u s u	buru1306	bmu	1219	WORM	188	
+1135	Mindik-114_snake-1	Mindik	114_snake	m o k o l e ŋ	buru1306	bmu	730	SNAKE	109	
+1136	Mindik-115_animal-1	Mindik	115_animal	s u m b u p	buru1306	bmu	619	ANIMAL	856	
+1137	Mindik-116_itsback-1	Mindik	116_itsback	g e m a t	buru1306	bmu	1291	BACK	123	
+1138	Mindik-117_itswing-1	Mindik	117_itswing	g i n g i n	buru1306	bmu	1257	WING	821	
+1140	Mindik-119_hevomits-1	Mindik	119_hevomits	l o n	buru1306	bmu	1278	VOMIT	33	
+1142	Mindik-120_helaughs-1	Mindik	120_helaughs	b o t a k ɔ l	buru1306	bmu	1355	LAUGH	873	
+1143	Mindik-121_hesucks-1	Mindik	121_hesucks	b o ts o	buru1306	bmu	1421	SUCK	444	
+1145	Mindik-123_hespits-1	Mindik	123_hespits	s ɔ w ɔ t	buru1306	bmu	1440	SPIT	851	
+1146	Mindik-124_old-1	Mindik	124_old	w a l a k ŋ i	buru1306	bmu	1229	OLD	461	
+1148	Mindik-126_dull-1	Mindik	126_dull	dz ɔ t b ɔ t ɔ m	buru1306	bmu	379	BLUNT	866	
+1151	Mindik-129_hisfather-1	Mindik	129_hisfather	m a m	buru1306	bmu	1217	FATHER	224	
+1153	Mindik-130_hismother-1	Mindik	130_hismother	n a m o n	buru1306	bmu	1216	MOTHER	382	
+1154	Mindik-131_shesews-1	Mindik	131_shesews	u m e	buru1306	bmu	1457	SEW	21	
+1155	Mindik-132_rope-1	Mindik	132_rope	k i s a	buru1306	bmu	1218	ROPE	459	
+1157	Mindik-134_hecounts-1	Mindik	134_hecounts	o y o n	buru1306	bmu	1420	COUNT	446	
+1158	Mindik-135_theyplay-1	Mindik	135_theyplay	a ŋ g o l a t	buru1306	bmu	1413	PLAY	139	
+1164	Mindik-140_itswells-1	Mindik	140_itswells	b o ŋ g o	buru1306	bmu	1573	SWELL	464	
+1168	Mindik-17_hecomes-1	Mindik	17_hecomes	k a	buru1306	bmu	1446	COME	421	
+1169	Mindik-18_hesits-1	Mindik	18_hesits	t a	buru1306	bmu	1416	SIT	130	
+1170	Mindik-19_hegivesme-1	Mindik	19_hegivesme	n i ŋ g i	buru1306	bmu	1447	GIVE	324	
+1171	Mindik-1_i-1	Mindik	1_i	n i	buru1306	bmu	1209	I	0	
+1172	Mindik-20_hestands-1	Mindik	20_hestands	k i n	buru1306	bmu	1442	STAND	330	
+1173	Mindik-21_all-1	Mindik	21_all	m o o k e t a ŋ i	buru1306	bmu	98	ALL	867	
+1174	Mindik-22_many-1	Mindik	22_many	s e s e ŋ i	buru1306	bmu	1198	MANY	440	
+1175	Mindik-23_night-1	Mindik	23_night	s u ŋ g e m	buru1306	bmu	1233	NIGHT	831	
+1176	Mindik-24_long-1	Mindik	24_long	k ɔ r i p ŋ i	buru1306	bmu	1203	LONG	44	
+1177	Mindik-25_big-1	Mindik	25_big	k e t a ŋ i	buru1306	bmu	1202	BIG	838	
+1178	Mindik-26_small-1	Mindik	26_small	k o m o k ŋ i	buru1306	bmu	1246	SMALL	456	
+1179	Mindik-27_star-1	Mindik	27_star	s e ŋ g e l e u	buru1306	bmu	1430	STAR	68	
+1180	Mindik-28_sun-1	Mindik	28_sun	w e h o n	buru1306	bmu	1343	SUN	848	
+1181	Mindik-29_cloud-1	Mindik	29_cloud	k o u s u	buru1306	bmu	1489	CLOUD	84	
+1182	Mindik-2_thou-1	Mindik	2_thou	g i	buru1306	bmu	1215	THOU	2	
+1184	Mindik-31_itsbelly-1	Mindik	31_itsbelly	i r i p	buru1306	bmu	1251	BELLY	884	
+1185	Mindik-32_itsnose-1	Mindik	32_itsnose	s ɔ ŋ g ɔ r ɔ	buru1306	bmu	1221	NOSE	416	
+1186	Mindik-33_itsheart-1	Mindik	33_itsheart	w e l + b ɔ t	buru1306	bmu	1223	HEART	824	
+1187	Mindik-34_itsfat-1	Mindik	34_itsfat	k e l ɔ k	buru1306	bmu	323	FAT (ORGANIC SUBSTANCE)	59	
+1188	Mindik-35_itsneck-1	Mindik	35_itsneck	dz ɔ l	buru1306	bmu	1333	NECK	849	
+1189	Mindik-36_itshair-1	Mindik	36_itshair	dz u p	buru1306	bmu	1040	HAIR	132	
+1190	Mindik-37_hedies-1	Mindik	37_hedies	k o m u	buru1306	bmu	1494	DIE	136	
+1191	Mindik-38_heseesme-1	Mindik	38_heseesme	n e k	buru1306	bmu	1409	SEE	428	
+1192	Mindik-39_hesleeps-1	Mindik	39_hesleeps	a h ɔ	buru1306	bmu	1585	SLEEP	820	
+1193	Mindik-3_we-1	Mindik	3_we	n i n i	buru1306	bmu	1212	WE	160	
+1194	Mindik-40_heeats-1	Mindik	40_heeats	n e	buru1306	bmu	1336	EAT	12	
+1195	Mindik-41_hebitesit-1	Mindik	41_hebitesit	y ɔ h ɔ	buru1306	bmu	1403	BITE	332	
+1196	Mindik-42_black-1	Mindik	42_black	i n dz a ŋ i	buru1306	bmu	163	BLACK	20	
+1197	Mindik-43_green-1	Mindik	43_green	t ɔ ŋ g ɔ n + t ɔ ŋ g ɔ n	buru1306	bmu	1425	GREEN	868	
+1198	Mindik-44_white-1	Mindik	44_white	t o a t ŋ i	buru1306	bmu	1335	WHITE	828	
+1199	Mindik-45_red-1	Mindik	45_red	p ɔ s i k ŋ i	buru1306	bmu	156	RED	442	
+1200	Mindik-46_yellow-1	Mindik	46_yellow	g i b a ŋ i	buru1306	bmu	1424	YELLOW	871	
+1201	Mindik-47_good-1	Mindik	47_good	ɔ l i p ŋ i	buru1306	bmu	1035	GOOD	354	
+1203	Mindik-49_new-1	Mindik	49_new	d ɔ l ɔ k ŋ i	buru1306	bmu	1231	NEW	359	
+1204	Mindik-4_who-1	Mindik	4_who	k ɔ n	buru1306	bmu	1235	WHO	852	
+1205	Mindik-50_itisdry-1	Mindik	50_itisdry	ɔ r ɔ ŋ g o	buru1306	bmu	1398	DRY	361	
+1207	Mindik-52_itsname-1	Mindik	52_itsname	k u r a p	buru1306	bmu	1405	NAME	876	
+1208	Mindik-53_not-1	Mindik	53_not	kp a h o	buru1306	bmu	1240	NOT	844	
+1209	Mindik-54_itburns-1	Mindik	54_itburns	dz e	buru1306	bmu	1428	BURNING	66	
+1210	Mindik-55_road-1	Mindik	55_road	k ɔ n a	buru1306	bmu	667	ROAD	70	
+1211	Mindik-56_water-1	Mindik	56_water	o u	buru1306	bmu	948	WATER	508	
+1212	Mindik-57_smoke-1	Mindik	57_smoke	k o w a k	buru1306	bmu	778	SMOKE (EXHAUST)	82	
+1215	Mindik-5_what-1	Mindik	5_what	n ɔ w ɔ	buru1306	bmu	1236	WHAT	875	
+1216	Mindik-60_sand-1	Mindik	60_sand	s a k o s i ŋ	buru1306	bmu	671	SAND	92	
+1217	Mindik-61_stone-1	Mindik	61_stone	k ɔ t	buru1306	bmu	857	STONE	403	
+1218	Mindik-62_mountain-1	Mindik	62_mountain	k u n d u ŋ i	buru1306	bmu	639	MOUNTAIN	864	
+1219	Mindik-63_ashes-1	Mindik	63_ashes	k a u	buru1306	bmu	646	ASH	411	
+1220	Mindik-64_earth-1	Mindik	64_earth	b a l o ŋ	buru1306	bmu	1228	EARTH (SOIL)	879	
+1221	Mindik-65_itsleaf-1	Mindik	65_itsleaf	s i n	buru1306	bmu	628	LEAF	108	
+1222	Mindik-66_tree-1	Mindik	66_tree	i p	buru1306	bmu	906	TREE	118	
+1223	Mindik-67_itsroot-1	Mindik	67_itsroot	dz a l ɔ	buru1306	bmu	670	ROOT	865	
+1224	Mindik-68_itsseed-1	Mindik	68_itsseed	k ɔ t	buru1306	bmu	714	SEED	124	
+1225	Mindik-69_itsear-1	Mindik	69_itsear	k e ts a p	buru1306	bmu	1247	EAR	126	
+1226	Mindik-6_that-1	Mindik	6_that	m e	buru1306	bmu	78	THAT	547	
+1227	Mindik-70_louse-1	Mindik	70_louse	i m i n	buru1306	bmu	1392	LOUSE	128	
+1228	Mindik-71_dog-1	Mindik	71_dog	k i a m	buru1306	bmu	2009	DOG	826	
+1229	Mindik-72_bird-1	Mindik	72_bird	n e i	buru1306	bmu	937	BIRD	237	
+1230	Mindik-73_woman-1	Mindik	73_woman	a m b i	buru1306	bmu	962	WOMAN	91	
+1232	Mindik-75_itsblood-1	Mindik	75_itsblood	s e p	buru1306	bmu	946	BLOOD	127	
+1233	Mindik-76_hishand-1	Mindik	76_hishand	dz ɔ t	buru1306	bmu	1277	HAND	869	
+1234	Mindik-77_itstongue-1	Mindik	77_itstongue	n e s o l a m	buru1306	bmu	1205	TONGUE	57	
+1235	Mindik-78_itstooth-1	Mindik	78_itstooth	dz ɔ t	buru1306	bmu	1380	TOOTH	51	
+1236	Mindik-79_itsfoot-1	Mindik	79_itsfoot	k a n a	buru1306	bmu	1301	FOOT	81	
+1237	Mindik-7_this-1	Mindik	7_this	m u	buru1306	bmu	1214	THIS	877	
+1238	Mindik-80_itstail-1	Mindik	80_itstail	l o u	buru1306	bmu	1220	TAIL	881	
+1240	Mindik-82_itseye-1	Mindik	82_itseye	dz e	buru1306	bmu	1248	EYE	15	
+1242	Mindik-84_itshead-1	Mindik	84_itshead	n o r u k	buru1306	bmu	1256	HEAD	845	
+1243	Mindik-85_itsbone-1	Mindik	85_itsbone	s i h i t	buru1306	bmu	1394	BONE	89	
+1244	Mindik-86_he-1	Mindik	86_he	i	buru1306	bmu	1211	HE	99	
+1245	Mindik-87_ye-1	Mindik	87_ye	i ŋ i ŋ i	buru1306	bmu	1213	YOU	238	
+1246	Mindik-88_they-1	Mindik	88_they	y e ŋ g ɔ n	buru1306	bmu	817	THEY	822	
+1247	Mindik-89_where-1	Mindik	89_where	d e n o k e	buru1306	bmu	1237	WHERE	555	
+1248	Mindik-8_one-1	Mindik	8_one	m o k u ŋ	buru1306	bmu	1493	ONE	199	
+1249	Mindik-90_how-1	Mindik	90_how	d e n o w o	buru1306	bmu	1239	HOW	834	
+1250	Mindik-91_and-1	Mindik	91_and	a m i	buru1306	bmu	1577	AND	191	
+1251	Mindik-92_there-1	Mindik	92_there	e n d u	buru1306	bmu	1937	THERE	93	
+1252	Mindik-93_rightside-1	Mindik	93_rightside	h ɔ l	buru1306	bmu	1019	RIGHT	854	
+1253	Mindik-94_leftside-1	Mindik	94_leftside	k a n i	buru1306	bmu	244	LEFT	131	
+1254	Mindik-95_heholds-1	Mindik	95_heholds	m e	buru1306	bmu	1448	HOLD	23	
+1255	Mindik-96_hefalls-1	Mindik	96_hefalls	h e	buru1306	bmu	1280	FALL	837	
+1256	Mindik-97_heturns-1	Mindik	97_heturns	m e l e ŋ	buru1306	bmu	1444	TURN AROUND	49	
+1257	Mindik-98_hethrows-1	Mindik	98_hethrows	m o s o	buru1306	bmu	1456	THROW	5	
+1258	Mindik-99_hepulls-1	Mindik	99_hepulls	h ɔ r ɔ	buru1306	bmu	1455	PULL	137	
+1259	Mindik-9_two-1	Mindik	9_two	w ɔ i t	buru1306	bmu	1498	TWO	112	
+1260	Nabak-100_hepushes-1	Nabak	100_hepushes	ɔ t ɔ p e	naba1256	naf	1452	PUSH	670	
+1261	Nabak-101_hewashes-1	Nabak	101_hewashes	dz u r u dz i	naba1256	naf	1453	WASH	623	
+1262	Nabak-102_hedigs-1	Nabak	102_hedigs	k i ŋ g a dz i	naba1256	naf	1418	DIG	638	
+1263	Nabak-103_hecuts-1	Nabak	103_hecuts	e t i	naba1256	naf	1432	CUT	653	
+1264	Nabak-104_some-1	Nabak	104_some	n o t	naba1256	naf	1241	SOME	663	
+1265	Nabak-105_short-1	Nabak	105_short	k u t u m ə ŋ	naba1256	naf	1645	SHORT	671	
+1266	Nabak-106_wind-1	Nabak	106_wind	t ɔ g ɔ	naba1256	naf	960	WIND	548	
+1267	Nabak-107_sky-1	Nabak	107_sky	k u r u r u ŋ	naba1256	naf	1732	SKY	216	
+1268	Nabak-108_dust-1	Nabak	108_dust	kp i t n ə k i	naba1256	naf	2	DUST	686	
+1269	Nabak-109_lake-1	Nabak	109_lake	l ə m u n ə ŋ	naba1256	naf	624	LAKE	522	
+1270	Nabak-10_hesays-1	Nabak	10_hesays	dz e i	naba1256	naf	1458	SAY	6	
+1271	Nabak-110_itsflower-1	Nabak	110_itsflower	k ə t	naba1256	naf	239	FLOWER	621	
+1273	Nabak-112_stick-1	Nabak	112_stick	w a n dz o m	naba1256	naf	1295	STICK	649	
+1274	Nabak-113_worm-1	Nabak	113_worm	gb i k	naba1256	naf	1219	WORM	652	
+1275	Nabak-114_snake-1	Nabak	114_snake	n o m b e	naba1256	naf	730	SNAKE	629	
+1276	Nabak-115_animal-1	Nabak	115_animal	s o ŋ g o	naba1256	naf	619	ANIMAL	624	
+1277	Nabak-116_itsback-1	Nabak	116_itsback	b a m	naba1256	naf	1291	BACK	627	
+1278	Nabak-117_itswing-1	Nabak	117_itswing	p ɔ p	naba1256	naf	1257	WING	642	
+1280	Nabak-119_hevomits-1	Nabak	119_hevomits	o k dz i	naba1256	naf	1278	VOMIT	633	
+1282	Nabak-120_helaughs-1	Nabak	120_helaughs	y ə i n dz i	naba1256	naf	1355	LAUGH	644	
+1283	Nabak-121_hesucks-1	Nabak	121_hesucks	b ə s ə i	naba1256	naf	1421	SUCK	561	
+1285	Nabak-123_hespits-1	Nabak	123_hespits	dz a w a k	naba1256	naf	1440	SPIT	645	
+1286	Nabak-124_old-1	Nabak	124_old	ŋ o k ŋ	naba1256	naf	1229	OLD	620	
+1288	Nabak-126_dull-1	Nabak	126_dull	k u g e p i n	naba1256	naf	379	BLUNT	622	
+1291	Nabak-129_hisfather-1	Nabak	129_hisfather	b i p	naba1256	naf	1217	FATHER	521	
+1293	Nabak-130_hismother-1	Nabak	130_hismother	m a m	naba1256	naf	1216	MOTHER	382	
+1294	Nabak-131_shesews-1	Nabak	131_shesews	o u	naba1256	naf	1457	SEW	648	
+1295	Nabak-132_rope-1	Nabak	132_rope	dz e	naba1256	naf	1218	ROPE	625	
+1297	Nabak-134_hecounts-1	Nabak	134_hecounts	m a k u n dz i	naba1256	naf	1420	COUNT	628	
+1298	Nabak-135_theyplay-1	Nabak	135_theyplay	kp e p	naba1256	naf	1413	PLAY	637	
+1304	Nabak-140_itswells-1	Nabak	140_itswells	s ə m e	naba1256	naf	1573	SWELL	530	
+1308	Nabak-17_hecomes-1	Nabak	17_hecomes	kp e	naba1256	naf	1446	COME	680	
+1309	Nabak-18_hesits-1	Nabak	18_hesits	t a	naba1256	naf	1416	SIT	130	
+1310	Nabak-19_hegivesme-1	Nabak	19_hegivesme	n a i	naba1256	naf	1447	GIVE	626	
+1311	Nabak-1_i-1	Nabak	1_i	n ə ŋ	naba1256	naf	1209	I	245	
+1312	Nabak-20_hestands-1	Nabak	20_hestands	t a	naba1256	naf	1442	STAND	532	
+1313	Nabak-21_all-1	Nabak	21_all	i l i n s a kp e p	naba1256	naf	98	ALL	640	
+1314	Nabak-22_many-1	Nabak	22_many	k i l i s i k	naba1256	naf	1198	MANY	553	
+1315	Nabak-23_night-1	Nabak	23_night	t ə m b u y a t	naba1256	naf	1233	NIGHT	651	
+1316	Nabak-24_long-1	Nabak	24_long	t e e p m ə ŋ	naba1256	naf	1203	LONG	657	
+1317	Nabak-25_big-1	Nabak	25_big	t a e m b a	naba1256	naf	1202	BIG	660	
+1318	Nabak-26_small-1	Nabak	26_small	i s i k ŋ e n	naba1256	naf	1246	SMALL	664	
+1319	Nabak-27_star-1	Nabak	27_star	w e n z i m	naba1256	naf	1430	STAR	667	
+1320	Nabak-28_sun-1	Nabak	28_sun	k ə s u k	naba1256	naf	1343	SUN	674	
+1321	Nabak-29_cloud-1	Nabak	29_cloud	dz a n dz a	naba1256	naf	1489	CLOUD	677	
+1322	Nabak-2_thou-1	Nabak	2_thou	g ə ŋ	naba1256	naf	1215	THOU	292	
+1324	Nabak-31_itsbelly-1	Nabak	31_itsbelly	t i p	naba1256	naf	1251	BELLY	407	
+1325	Nabak-32_itsnose-1	Nabak	32_itsnose	ŋ i ŋ ə ŋ	naba1256	naf	1221	NOSE	679	
+1326	Nabak-33_itsheart-1	Nabak	33_itsheart	g u m + k ə t	naba1256	naf	1223	HEART	684	
+1327	Nabak-34_itsfat-1	Nabak	34_itsfat	k e r a k	naba1256	naf	323	FAT (ORGANIC SUBSTANCE)	59	
+1328	Nabak-35_itsneck-1	Nabak	35_itsneck	ŋ a n d e	naba1256	naf	1333	NECK	591	
+1329	Nabak-36_itshair-1	Nabak	36_itshair	dz u p	naba1256	naf	1040	HAIR	132	
+1330	Nabak-37_hedies-1	Nabak	37_hedies	g ə k i	naba1256	naf	1494	DIE	534	
+1331	Nabak-38_heseesme-1	Nabak	38_heseesme	n i	naba1256	naf	1409	SEE	138	
+1332	Nabak-39_hesleeps-1	Nabak	39_hesleeps	w e	naba1256	naf	1585	SLEEP	528	
+1333	Nabak-3_we-1	Nabak	3_we	n i n	naba1256	naf	1212	WE	160	
+1334	Nabak-40_heeats-1	Nabak	40_heeats	n i	naba1256	naf	1336	EAT	12	
+1335	Nabak-41_hebitesit-1	Nabak	41_hebitesit	i	naba1256	naf	1403	BITE	332	
+1336	Nabak-42_black-1	Nabak	42_black	s o p m ə ŋ	naba1256	naf	163	BLACK	634	
+1337	Nabak-43_green-1	Nabak	43_green	a r a ŋ ə ŋ	naba1256	naf	1425	GREEN	643	
+1338	Nabak-44_white-1	Nabak	44_white	s a t n ə ŋ	naba1256	naf	1335	WHITE	551	
+1339	Nabak-45_red-1	Nabak	45_red	ŋ a m ə ŋ	naba1256	naf	156	RED	647	
+1340	Nabak-46_yellow-1	Nabak	46_yellow	a r a r a ŋ	naba1256	naf	1424	YELLOW	560	
+1341	Nabak-47_good-1	Nabak	47_good	kp e m b e n ə ŋ	naba1256	naf	1035	GOOD	654	
+1343	Nabak-49_new-1	Nabak	49_new	a r a k ŋ ə ŋ	naba1256	naf	1231	NEW	359	
+1344	Nabak-4_who-1	Nabak	4_who	k u r e k i	naba1256	naf	1235	WHO	678	
+1345	Nabak-50_itisdry-1	Nabak	50_itisdry	k o	naba1256	naf	1398	DRY	659	
+1347	Nabak-52_itsname-1	Nabak	52_itsname	dz i k ə t	naba1256	naf	1405	NAME	62	
+1348	Nabak-53_not-1	Nabak	53_not	k u	naba1256	naf	1240	NOT	665	
+1349	Nabak-54_itburns-1	Nabak	54_itburns	dz i	naba1256	naf	1428	BURNING	66	
+1350	Nabak-55_road-1	Nabak	55_road	s e t	naba1256	naf	667	ROAD	668	
+1351	Nabak-56_water-1	Nabak	56_water	t u	naba1256	naf	948	WATER	383	
+1352	Nabak-57_smoke-1	Nabak	57_smoke	k ə s ə k	naba1256	naf	778	SMOKE (EXHAUST)	82	
+1355	Nabak-5_what-1	Nabak	5_what	p i t n e	naba1256	naf	1236	WHAT	630	
+1356	Nabak-60_sand-1	Nabak	60_sand	g a m b i b i t	naba1256	naf	671	SAND	675	
+1357	Nabak-61_stone-1	Nabak	61_stone	n a n dz ə ŋ	naba1256	naf	857	STONE	523	
+1358	Nabak-62_mountain-1	Nabak	62_mountain	k a l ə ŋ	naba1256	naf	639	MOUNTAIN	601	
+1359	Nabak-63_ashes-1	Nabak	63_ashes	k ɔ u	naba1256	naf	646	ASH	411	
+1360	Nabak-64_earth-1	Nabak	64_earth	m i s a t	naba1256	naf	1228	EARTH (SOIL)	604	
+1361	Nabak-65_itsleaf-1	Nabak	65_itsleaf	s i n	naba1256	naf	628	LEAF	108	
+1362	Nabak-66_tree-1	Nabak	66_tree	t ə p	naba1256	naf	906	TREE	607	
+1363	Nabak-67_itsroot-1	Nabak	67_itsroot	k i n d i	naba1256	naf	670	ROOT	611	
+1364	Nabak-68_itsseed-1	Nabak	68_itsseed	k ə t	naba1256	naf	714	SEED	124	
+1365	Nabak-69_itsear-1	Nabak	69_itsear	w a k	naba1256	naf	1247	EAR	681	
+1366	Nabak-6_that-1	Nabak	6_that	k e	naba1256	naf	78	THAT	655	
+1367	Nabak-70_louse-1	Nabak	70_louse	e m i n	naba1256	naf	1392	LOUSE	128	
+1368	Nabak-71_dog-1	Nabak	71_dog	t a m	naba1256	naf	2009	DOG	616	
+1369	Nabak-72_bird-1	Nabak	72_bird	a g a	naba1256	naf	937	BIRD	650	
+1370	Nabak-73_woman-1	Nabak	73_woman	i m b i	naba1256	naf	962	WOMAN	91	
+1372	Nabak-75_itsblood-1	Nabak	75_itsblood	s i p	naba1256	naf	946	BLOOD	127	
+1373	Nabak-76_hishand-1	Nabak	76_hishand	b e t	naba1256	naf	1277	HAND	340	
+1374	Nabak-77_itstongue-1	Nabak	77_itstongue	n a m b a r a m	naba1256	naf	1205	TONGUE	57	
+1375	Nabak-78_itstooth-1	Nabak	78_itstooth	dz e t	naba1256	naf	1380	TOOTH	51	
+1376	Nabak-79_itsfoot-1	Nabak	79_itsfoot	s e t	naba1256	naf	1301	FOOT	631	
+1377	Nabak-7_this-1	Nabak	7_this	k a p i	naba1256	naf	1214	THIS	672	
+1378	Nabak-80_itstail-1	Nabak	80_itstail	d a k	naba1256	naf	1220	TAIL	597	
+1380	Nabak-82_itseye-1	Nabak	82_itseye	dz i	naba1256	naf	1248	EYE	15	
+1382	Nabak-84_itshead-1	Nabak	84_itshead	ŋ o k a n dz i	naba1256	naf	1256	HEAD	669	
+1383	Nabak-85_itsbone-1	Nabak	85_itsbone	k a n dz i ŋ	naba1256	naf	1394	BONE	673	
+1384	Nabak-86_he-1	Nabak	86_he	ə k	naba1256	naf	1211	HE	396	
+1385	Nabak-87_ye-1	Nabak	87_ye	i n	naba1256	naf	1213	YOU	238	
+1386	Nabak-88_they-1	Nabak	88_they	ə k	naba1256	naf	817	THEY	410	
+1387	Nabak-89_where-1	Nabak	89_where	d e n	naba1256	naf	1237	WHERE	555	
+1388	Nabak-8_one-1	Nabak	8_one	kp e p	naba1256	naf	1493	ONE	594	
+1389	Nabak-90_how-1	Nabak	90_how	dz i g o k	naba1256	naf	1239	HOW	662	
+1390	Nabak-91_and-1	Nabak	91_and	ɔ p m e	naba1256	naf	1577	AND	351	
+1391	Nabak-92_there-1	Nabak	92_there	k a i n d e	naba1256	naf	1937	THERE	682	
+1392	Nabak-93_rightside-1	Nabak	93_rightside	p a n a ŋ	naba1256	naf	1019	RIGHT	599	
+1393	Nabak-94_leftside-1	Nabak	94_leftside	k a n e n	naba1256	naf	244	LEFT	131	
+1394	Nabak-95_heholds-1	Nabak	95_heholds	m i	naba1256	naf	1448	HOLD	23	
+1395	Nabak-96_hefalls-1	Nabak	96_hefalls	t o dz i	naba1256	naf	1280	FALL	658	
+1396	Nabak-97_heturns-1	Nabak	97_heturns	g i r i dz ə i	naba1256	naf	1444	TURN AROUND	600	
+1397	Nabak-98_hethrows-1	Nabak	98_hethrows	k ə t i m p e	naba1256	naf	1456	THROW	596	
+1398	Nabak-99_hepulls-1	Nabak	99_hepulls	m a n d a i	naba1256	naf	1455	PULL	598	
+1399	Nabak-9_two-1	Nabak	9_two	dz u t	naba1256	naf	1498	TWO	685	
+1400	Ono-100_hepushes-1	Ono	100_hepushes	b i r a	onoo1246	ons	1452	PUSH	763	
+1401	Ono-101_hewashes-1	Ono	101_hewashes	s a u k	onoo1246	ons	1453	WASH	764	
+1402	Ono-102_hedigs-1	Ono	102_hedigs	k e p i k i t o	onoo1246	ons	1418	DIG	694	
+1403	Ono-103_hecuts-1	Ono	103_hecuts	k i t o t	onoo1246	ons	1432	CUT	718	
+1404	Ono-104_some-1	Ono	104_some	n a t	onoo1246	ons	1241	SOME	730	
+1405	Ono-105_short-1	Ono	105_short	b o m g o i	onoo1246	ons	1645	SHORT	742	
+1406	Ono-106_wind-1	Ono	106_wind	m o m o	onoo1246	ons	960	WIND	754	
+1407	Ono-107_sky-1	Ono	107_sky	kp e l i	onoo1246	ons	1732	SKY	759	
+1408	Ono-108_dust-1	Ono	108_dust	k i n e k i n e	onoo1246	ons	2	DUST	750	
+1409	Ono-109_lake-1	Ono	109_lake	n a m u ŋ	onoo1246	ons	624	LAKE	771	
+1410	Ono-10_hesays-1	Ono	10_hesays	r a	onoo1246	ons	1458	SAY	774	
+1411	Ono-110_itsflower-1	Ono	110_itsflower	dz u r a i	onoo1246	ons	239	FLOWER	3	
+1413	Ono-112_stick-1	Ono	112_stick	p o k u p	onoo1246	ons	1295	STICK	729	
+1414	Ono-113_worm-1	Ono	113_worm	b o s o	onoo1246	ons	1219	WORM	188	
+1415	Ono-114_snake-1	Ono	114_snake	k o m a	onoo1246	ons	730	SNAKE	295	
+1416	Ono-115_animal-1	Ono	115_animal	o s o m	onoo1246	ons	619	ANIMAL	107	
+1417	Ono-116_itsback-1	Ono	116_itsback	r o m o	onoo1246	ons	1291	BACK	766	
+1418	Ono-117_itswing-1	Ono	117_itswing	gb i m g i l i u	onoo1246	ons	1257	WING	773	
+1420	Ono-119_hevomits-1	Ono	119_hevomits	m a d o g i	onoo1246	ons	1278	VOMIT	701	
+1422	Ono-120_helaughs-1	Ono	120_helaughs	t e n i	onoo1246	ons	1355	LAUGH	690	
+1423	Ono-121_hesucks-1	Ono	121_hesucks	m u z u l u k i	onoo1246	ons	1421	SUCK	377	
+1425	Ono-123_hespits-1	Ono	123_hespits	m ŋ e k a t	onoo1246	ons	1440	SPIT	697	
+1426	Ono-124_old-1	Ono	124_old	l e w i t n e	onoo1246	ons	1229	OLD	712	
+1428	Ono-126_dull-1	Ono	126_dull	ŋ e t ŋ e m i d a i n e	onoo1246	ons	379	BLUNT	693	
+1431	Ono-129_hisfather-1	Ono	129_hisfather	m a g a	onoo1246	ons	1217	FATHER	713	
+1433	Ono-130_hismother-1	Ono	130_hismother	n a g a	onoo1246	ons	1216	MOTHER	703	
+1434	Ono-131_shesews-1	Ono	131_shesews	gb e t u t	onoo1246	ons	1457	SEW	252	
+1435	Ono-132_rope-1	Ono	132_rope	r a n o m	onoo1246	ons	1218	ROPE	687	
+1437	Ono-134_hecounts-1	Ono	134_hecounts	d a p o r i	onoo1246	ons	1420	COUNT	709	
+1438	Ono-135_theyplay-1	Ono	135_theyplay	gb a t	onoo1246	ons	1413	PLAY	717	
+1444	Ono-140_itswells-1	Ono	140_itswells	s u e	onoo1246	ons	1573	SWELL	328	
+1448	Ono-17_hecomes-1	Ono	17_hecomes	s a	onoo1246	ons	1446	COME	765	
+1449	Ono-18_hesits-1	Ono	18_hesits	m e r i	onoo1246	ons	1416	SIT	745	
+1450	Ono-19_hegivesme-1	Ono	19_hegivesme	n i n	onoo1246	ons	1447	GIVE	8	
+1451	Ono-1_i-1	Ono	1_i	n ɔ	onoo1246	ons	1209	I	245	
+1452	Ono-20_hestands-1	Ono	20_hestands	o k o r e	onoo1246	ons	1442	STAND	698	
+1453	Ono-21_all-1	Ono	21_all	k o r o p	onoo1246	ons	98	ALL	704	
+1454	Ono-22_many-1	Ono	22_many	l o u l o u t ŋ e	onoo1246	ons	1198	MANY	714	
+1455	Ono-23_night-1	Ono	23_night	r u w o	onoo1246	ons	1233	NIGHT	723	
+1456	Ono-24_long-1	Ono	24_long	k i r o i n e	onoo1246	ons	1203	LONG	44	
+1457	Ono-25_big-1	Ono	25_big	s u a i n e	onoo1246	ons	1202	BIG	733	
+1458	Ono-26_small-1	Ono	26_small	n i g a t n e	onoo1246	ons	1246	SMALL	740	
+1459	Ono-27_star-1	Ono	27_star	s e r e k i ŋ	onoo1246	ons	1430	STAR	743	
+1460	Ono-28_sun-1	Ono	28_sun	k a i w e	onoo1246	ons	1343	SUN	462	
+1461	Ono-29_cloud-1	Ono	29_cloud	k e z o ŋ	onoo1246	ons	1489	CLOUD	752	
+1462	Ono-2_thou-1	Ono	2_thou	g e	onoo1246	ons	1215	THOU	2	
+1464	Ono-31_itsbelly-1	Ono	31_itsbelly	k a i	onoo1246	ons	1251	BELLY	760	
+1465	Ono-32_itsnose-1	Ono	32_itsnose	s o t	onoo1246	ons	1221	NOSE	762	
+1466	Ono-33_itsheart-1	Ono	33_itsheart	k o m b a ŋ i	onoo1246	ons	1223	HEART	738	
+1467	Ono-34_itsfat-1	Ono	34_itsfat	k e l o k	onoo1246	ons	323	FAT (ORGANIC SUBSTANCE)	59	
+1468	Ono-35_itsneck-1	Ono	35_itsneck	e b i	onoo1246	ons	1333	NECK	229	
+1469	Ono-36_itshair-1	Ono	36_itshair	dz o u	onoo1246	ons	1040	HAIR	132	
+1470	Ono-37_hedies-1	Ono	37_hedies	s e u k i	onoo1246	ons	1494	DIE	772	
+1471	Ono-38_heseesme-1	Ono	38_heseesme	n a n	onoo1246	ons	1409	SEE	239	
+1472	Ono-39_hesleeps-1	Ono	39_hesleeps	p a	onoo1246	ons	1585	SLEEP	688	
+1473	Ono-3_we-1	Ono	3_we	ŋ e d o	onoo1246	ons	1212	WE	696	
+1474	Ono-40_heeats-1	Ono	40_heeats	n i	onoo1246	ons	1336	EAT	12	
+1475	Ono-41_hebitesit-1	Ono	41_hebitesit	k i	onoo1246	ons	1403	BITE	16	
+1476	Ono-42_black-1	Ono	42_black	d i k a	onoo1246	ons	163	BLACK	706	
+1477	Ono-43_green-1	Ono	43_green	w i s i k a	onoo1246	ons	1425	GREEN	711	
+1478	Ono-44_white-1	Ono	44_white	l i b e k a	onoo1246	ons	1335	WHITE	716	
+1479	Ono-45_red-1	Ono	45_red	w e ŋ e m k a	onoo1246	ons	156	RED	721	
+1480	Ono-46_yellow-1	Ono	46_yellow	y a ŋ a i k e	onoo1246	ons	1424	YELLOW	724	
+1481	Ono-47_good-1	Ono	47_good	m a i n e	onoo1246	ons	1035	GOOD	726	
+1483	Ono-49_new-1	Ono	49_new	w e l e	onoo1246	ons	1231	NEW	728	
+1484	Ono-4_who-1	Ono	4_who	m a n e	onoo1246	ons	1235	WHO	720	
+1485	Ono-50_itisdry-1	Ono	50_itisdry	dz i p k i	onoo1246	ons	1398	DRY	734	
+1487	Ono-52_itsname-1	Ono	52_itsname	d e i	onoo1246	ons	1405	NAME	741	
+1488	Ono-53_not-1	Ono	53_not	m i	onoo1246	ons	1240	NOT	179	
+1489	Ono-54_itburns-1	Ono	54_itburns	dz i	onoo1246	ons	1428	BURNING	66	
+1490	Ono-55_road-1	Ono	55_road	n u m a	onoo1246	ons	667	ROAD	748	
+1491	Ono-56_water-1	Ono	56_water	d o k u	onoo1246	ons	948	WATER	189	
+1492	Ono-57_smoke-1	Ono	57_smoke	ŋ a u p	onoo1246	ons	778	SMOKE (EXHAUST)	758	
+1495	Ono-5_what-1	Ono	5_what	o n o k a	onoo1246	ons	1236	WHAT	769	
+1496	Ono-60_sand-1	Ono	60_sand	gb a l a k	onoo1246	ons	671	SAND	757	
+1497	Ono-61_stone-1	Ono	61_stone	w e s i	onoo1246	ons	857	STONE	731	
+1498	Ono-62_mountain-1	Ono	62_mountain	b o n a g a	onoo1246	ons	639	MOUNTAIN	100	
+1499	Ono-63_ashes-1	Ono	63_ashes	k a u	onoo1246	ons	646	ASH	411	
+1500	Ono-64_earth-1	Ono	64_earth	k e p e	onoo1246	ons	1228	EARTH (SOIL)	761	
+1501	Ono-65_itsleaf-1	Ono	65_itsleaf	m e t i	onoo1246	ons	628	LEAF	747	
+1502	Ono-66_tree-1	Ono	66_tree	e k i	onoo1246	ons	906	TREE	735	
+1503	Ono-67_itsroot-1	Ono	67_itsroot	ŋ o d i	onoo1246	ons	670	ROOT	692	
+1504	Ono-68_itsseed-1	Ono	68_itsseed	w a u	onoo1246	ons	714	SEED	770	
+1505	Ono-69_itsear-1	Ono	69_itsear	k e t	onoo1246	ons	1247	EAR	126	
+1506	Ono-6_that-1	Ono	6_that	e r i	onoo1246	ons	78	THAT	710	
+1507	Ono-70_louse-1	Ono	70_louse	e m e n	onoo1246	ons	1392	LOUSE	128	
+1508	Ono-71_dog-1	Ono	71_dog	k a s i	onoo1246	ons	2009	DOG	134	
+1509	Ono-72_bird-1	Ono	72_bird	n a ŋ i	onoo1246	ons	937	BIRD	237	
+1510	Ono-73_woman-1	Ono	73_woman	ŋ e r e p	onoo1246	ons	962	WOMAN	700	
+1512	Ono-75_itsblood-1	Ono	75_itsblood	w e ŋ e m i	onoo1246	ons	946	BLOOD	767	
+1513	Ono-76_hishand-1	Ono	76_hishand	m e	onoo1246	ons	1277	HAND	267	
+1514	Ono-77_itstongue-1	Ono	77_itstongue	b e l a k a m i	onoo1246	ons	1205	TONGUE	727	
+1515	Ono-78_itstooth-1	Ono	78_itstooth	ŋ e t	onoo1246	ons	1380	TOOTH	746	
+1516	Ono-79_itsfoot-1	Ono	79_itsfoot	k i	onoo1246	ons	1301	FOOT	281	
+1517	Ono-7_this-1	Ono	7_this	i	onoo1246	ons	1214	THIS	40	
+1518	Ono-80_itstail-1	Ono	80_itstail	d a i	onoo1246	ons	1220	TAIL	105	
+1520	Ono-82_itseye-1	Ono	82_itseye	d e i	onoo1246	ons	1248	EYE	15	
+1522	Ono-84_itshead-1	Ono	84_itshead	l e w i t	onoo1246	ons	1256	HEAD	739	
+1523	Ono-85_itsbone-1	Ono	85_itsbone	s e t	onoo1246	ons	1394	BONE	89	
+1524	Ono-86_he-1	Ono	86_he	e	onoo1246	ons	1211	HE	99	
+1525	Ono-87_ye-1	Ono	87_ye	ŋ i n e	onoo1246	ons	1213	YOU	238	
+1526	Ono-88_they-1	Ono	88_they	e ŋ e	onoo1246	ons	817	THEY	434	
+1527	Ono-89_where-1	Ono	89_where	d i a	onoo1246	ons	1237	WHERE	465	
+1528	Ono-8_one-1	Ono	8_one	w e k u	onoo1246	ons	1493	ONE	755	
+1529	Ono-90_how-1	Ono	90_how	d a l e o	onoo1246	ons	1239	HOW	689	
+1530	Ono-91_and-1	Ono	91_and	m i	onoo1246	ons	1577	AND	191	
+1531	Ono-92_there-1	Ono	92_there	e r i	onoo1246	ons	1937	THERE	93	
+1532	Ono-93_rightside-1	Ono	93_rightside	w a r a g e	onoo1246	ons	1019	RIGHT	751	
+1533	Ono-94_leftside-1	Ono	94_leftside	w e s i	onoo1246	ons	244	LEFT	768	
+1534	Ono-95_heholds-1	Ono	95_heholds	m i	onoo1246	ons	1448	HOLD	23	
+1535	Ono-96_hefalls-1	Ono	96_hefalls	k e t i	onoo1246	ons	1280	FALL	722	
+1536	Ono-97_heturns-1	Ono	97_heturns	m a i ŋ g i	onoo1246	ons	1444	TURN AROUND	732	
+1537	Ono-98_hethrows-1	Ono	98_hethrows	gb e l i g i	onoo1246	ons	1456	THROW	749	
+1538	Ono-99_hepulls-1	Ono	99_hepulls	w o r a ŋ	onoo1246	ons	1455	PULL	137	
+1539	Ono-9_two-1	Ono	9_two	e t k e	onoo1246	ons	1498	TWO	725	
+1540	Selepet-100_hepushes-1	Selepet	100_hepushes	h ɔ p u n	sele1250	spl	1452	PUSH	808	
+1541	Selepet-101_hewashes-1	Selepet	101_hewashes	p u r i	sele1250	spl	1453	WASH	813	
+1542	Selepet-102_hedigs-1	Selepet	102_hedigs	a i	sele1250	spl	1418	DIG	775	
+1543	Selepet-103_hecuts-1	Selepet	103_hecuts	h ɔ r e	sele1250	spl	1432	CUT	787	
+1544	Selepet-104_some-1	Selepet	104_some	n o b o t	sele1250	spl	1241	SOME	379	
+1545	Selepet-105_short-1	Selepet	105_short	t ɔ l ɔ w ɔ k	sele1250	spl	1645	SHORT	385	
+1546	Selepet-106_wind-1	Selepet	106_wind	b e r o m	sele1250	spl	960	WIND	386	
+1547	Selepet-107_sky-1	Selepet	107_sky	h i b i m	sele1250	spl	1732	SKY	402	
+1548	Selepet-108_dust-1	Selepet	108_dust	w a h a p	sele1250	spl	2	DUST	811	
+1549	Selepet-109_lake-1	Selepet	109_lake	d e g ɔ n	sele1250	spl	624	LAKE	11	
+1550	Selepet-10_hesays-1	Selepet	10_hesays	y	sele1250	spl	1458	SAY	6	
+1551	Selepet-110_itsflower-1	Selepet	110_itsflower	s u r i	sele1250	spl	239	FLOWER	3	
+1553	Selepet-112_stick-1	Selepet	112_stick	k a p a m	sele1250	spl	1295	STICK	373	
+1554	Selepet-113_worm-1	Selepet	113_worm	w i k	sele1250	spl	1219	WORM	652	
+1555	Selepet-114_snake-1	Selepet	114_snake	h a b e	sele1250	spl	730	SNAKE	790	
+1556	Selepet-115_animal-1	Selepet	115_animal	s o g o	sele1250	spl	619	ANIMAL	624	
+1557	Selepet-116_itsback-1	Selepet	116_itsback	k ɔ d ɔ t	sele1250	spl	1291	BACK	408	
+1558	Selepet-117_itswing-1	Selepet	117_itswing	p e g a m	sele1250	spl	1257	WING	7	
+1560	Selepet-119_hevomits-1	Selepet	119_hevomits	m o h a t	sele1250	spl	1278	VOMIT	364	
+1562	Selepet-120_helaughs-1	Selepet	120_helaughs	g i r i ŋ	sele1250	spl	1355	LAUGH	371	
+1563	Selepet-121_hesucks-1	Selepet	121_hesucks	m u s u k u	sele1250	spl	1421	SUCK	377	
+1565	Selepet-123_hespits-1	Selepet	123_hespits	t ɔ p	sele1250	spl	1440	SPIT	397	
+1566	Selepet-124_old-1	Selepet	124_old	s o b o	sele1250	spl	1229	OLD	392	
+1568	Selepet-126_dull-1	Selepet	126_dull	p ɔ l ɔ m ŋ e	sele1250	spl	379	BLUNT	388	
+1571	Selepet-129_hisfather-1	Selepet	129_hisfather	a w ɔ	sele1250	spl	1217	FATHER	368	
+1573	Selepet-130_hismother-1	Selepet	130_hismother	m ɔ m ɔ	sele1250	spl	1216	MOTHER	382	
+1574	Selepet-131_shesews-1	Selepet	131_shesews	g ɔ r e	sele1250	spl	1457	SEW	338	
+1575	Selepet-132_rope-1	Selepet	132_rope	i p	sele1250	spl	1218	ROPE	778	
+1577	Selepet-134_hecounts-1	Selepet	134_hecounts	s ɔ l i k u	sele1250	spl	1420	COUNT	398	
+1578	Selepet-135_theyplay-1	Selepet	135_theyplay	h e ŋ	sele1250	spl	1413	PLAY	777	
+1584	Selepet-140_itswells-1	Selepet	140_itswells	s u k	sele1250	spl	1573	SWELL	328	
+1588	Selepet-17_hecomes-1	Selepet	17_hecomes	g a	sele1250	spl	1446	COME	421	
+1589	Selepet-18_hesits-1	Selepet	18_hesits	t a	sele1250	spl	1416	SIT	130	
+1590	Selepet-19_hegivesme-1	Selepet	19_hegivesme	n i h i	sele1250	spl	1447	GIVE	324	
+1591	Selepet-1_i-1	Selepet	1_i	n ɔ	sele1250	spl	1209	I	245	
+1592	Selepet-20_hestands-1	Selepet	20_hestands	k i n	sele1250	spl	1442	STAND	330	
+1593	Selepet-21_all-1	Selepet	21_all	k e r e k	sele1250	spl	98	ALL	783	
+1594	Selepet-22_many-1	Selepet	22_many	b i w i r ɔ	sele1250	spl	1198	MANY	343	
+1595	Selepet-23_night-1	Selepet	23_night	o m o ŋ	sele1250	spl	1233	NIGHT	789	
+1596	Selepet-24_long-1	Selepet	24_long	k ɔ l i p	sele1250	spl	1203	LONG	44	
+1597	Selepet-25_big-1	Selepet	25_big	p a t o	sele1250	spl	1202	BIG	363	
+1598	Selepet-26_small-1	Selepet	26_small	t i p i ŋ e	sele1250	spl	1246	SMALL	796	
+1599	Selepet-27_star-1	Selepet	27_star	p e t u	sele1250	spl	1430	STAR	798	
+1600	Selepet-28_sun-1	Selepet	28_sun	d e w u t ɔ	sele1250	spl	1343	SUN	801	
+1601	Selepet-29_cloud-1	Selepet	29_cloud	e l e m	sele1250	spl	1489	CLOUD	803	
+1602	Selepet-2_thou-1	Selepet	2_thou	g ɔ	sele1250	spl	1215	THOU	292	
+1604	Selepet-31_itsbelly-1	Selepet	31_itsbelly	t e p	sele1250	spl	1251	BELLY	407	
+1605	Selepet-32_itsnose-1	Selepet	32_itsnose	h ɔ m e	sele1250	spl	1221	NOSE	812	
+1606	Selepet-33_itsheart-1	Selepet	33_itsheart	k a b i a m	sele1250	spl	1223	HEART	419	
+1607	Selepet-34_itsfat-1	Selepet	34_itsfat	k e l u	sele1250	spl	323	FAT (ORGANIC SUBSTANCE)	59	
+1608	Selepet-35_itsneck-1	Selepet	35_itsneck	o b e	sele1250	spl	1333	NECK	229	
+1609	Selepet-36_itshair-1	Selepet	36_itshair	s o m o t	sele1250	spl	1040	HAIR	425	
+1610	Selepet-37_hedies-1	Selepet	37_hedies	m u	sele1250	spl	1494	DIE	427	
+1611	Selepet-38_heseesme-1	Selepet	38_heseesme	n e k	sele1250	spl	1409	SEE	428	
+1612	Selepet-39_hesleeps-1	Selepet	39_hesleeps	i	sele1250	spl	1585	SLEEP	327	
+1613	Selepet-3_we-1	Selepet	3_we	n e n	sele1250	spl	1212	WE	160	
+1614	Selepet-40_heeats-1	Selepet	40_heeats	n i	sele1250	spl	1336	EAT	12	
+1615	Selepet-41_hebitesit-1	Selepet	41_hebitesit	i h i	sele1250	spl	1403	BITE	332	
+1616	Selepet-42_black-1	Selepet	42_black	h e l e ŋ	sele1250	spl	163	BLACK	782	
+1617	Selepet-43_green-1	Selepet	43_green	g o l ɔ	sele1250	spl	1425	GREEN	785	
+1618	Selepet-44_white-1	Selepet	44_white	k a o k	sele1250	spl	1335	WHITE	341	
+1619	Selepet-45_red-1	Selepet	45_red	k u r i ŋ	sele1250	spl	156	RED	345	
+1620	Selepet-46_yellow-1	Selepet	46_yellow	g i b a ŋ	sele1250	spl	1424	YELLOW	348	
+1621	Selepet-47_good-1	Selepet	47_good	ɔ l i p ŋ e	sele1250	spl	1035	GOOD	354	
+1623	Selepet-49_new-1	Selepet	49_new	ɔ i ŋ e	sele1250	spl	1231	NEW	791	
+1624	Selepet-4_who-1	Selepet	4_who	ɔ l ɔ	sele1250	spl	1235	WHO	587	
+1625	Selepet-50_itisdry-1	Selepet	50_itisdry	h ɔ r ɔ ŋ	sele1250	spl	1398	DRY	361	
+1627	Selepet-52_itsname-1	Selepet	52_itsname	k u t	sele1250	spl	1405	NAME	370	
+1628	Selepet-53_not-1	Selepet	53_not	k i	sele1250	spl	1240	NOT	665	
+1629	Selepet-54_itburns-1	Selepet	54_itburns	s i	sele1250	spl	1428	BURNING	66	
+1630	Selepet-55_road-1	Selepet	55_road	g i o p	sele1250	spl	667	ROAD	800	
+1631	Selepet-56_water-1	Selepet	56_water	t o	sele1250	spl	948	WATER	383	
+1632	Selepet-57_smoke-1	Selepet	57_smoke	u t u n	sele1250	spl	778	SMOKE (EXHAUST)	804	
+1635	Selepet-5_what-1	Selepet	5_what	w u ɔ n	sele1250	spl	1236	WHAT	426	
+1636	Selepet-60_sand-1	Selepet	60_sand	s a k	sele1250	spl	671	SAND	92	
+1637	Selepet-61_stone-1	Selepet	61_stone	k ɔ t	sele1250	spl	857	STONE	403	
+1638	Selepet-62_mountain-1	Selepet	62_mountain	g i b ɔ ŋ e	sele1250	spl	639	MOUNTAIN	781	
+1639	Selepet-63_ashes-1	Selepet	63_ashes	k ɔ u	sele1250	spl	646	ASH	411	
+1640	Selepet-64_earth-1	Selepet	64_earth	h ɔ n	sele1250	spl	1228	EARTH (SOIL)	414	
+1641	Selepet-65_itsleaf-1	Selepet	65_itsleaf	e s e n	sele1250	spl	628	LEAF	108	
+1642	Selepet-66_tree-1	Selepet	66_tree	n a k	sele1250	spl	906	TREE	418	
+1643	Selepet-67_itsroot-1	Selepet	67_itsroot	g i h i t	sele1250	spl	670	ROOT	810	
+1644	Selepet-68_itsseed-1	Selepet	68_itsseed	k e h e t	sele1250	spl	714	SEED	417	
+1645	Selepet-69_itsear-1	Selepet	69_itsear	ɔ d ɔ p	sele1250	spl	1247	EAR	806	
+1646	Selepet-6_that-1	Selepet	6_that	y a	sele1250	spl	78	THAT	22	
+1647	Selepet-70_louse-1	Selepet	70_louse	i m e n	sele1250	spl	1392	LOUSE	128	
+1648	Selepet-71_dog-1	Selepet	71_dog	s o s o	sele1250	spl	2009	DOG	786	
+1649	Selepet-72_bird-1	Selepet	72_bird	n ɔ i	sele1250	spl	937	BIRD	237	
+1650	Selepet-73_woman-1	Selepet	73_woman	i b i	sele1250	spl	962	WOMAN	91	
+1652	Selepet-75_itsblood-1	Selepet	75_itsblood	h e p	sele1250	spl	946	BLOOD	127	
+1653	Selepet-76_hishand-1	Selepet	76_hishand	b ɔ t	sele1250	spl	1277	HAND	340	
+1654	Selepet-77_itstongue-1	Selepet	77_itstongue	n i b i l a m	sele1250	spl	1205	TONGUE	57	
+1655	Selepet-78_itstooth-1	Selepet	78_itstooth	s ɔ t	sele1250	spl	1380	TOOTH	51	
+1656	Selepet-79_itsfoot-1	Selepet	79_itsfoot	k ɔ i	sele1250	spl	1301	FOOT	281	
+1657	Selepet-7_this-1	Selepet	7_this	y u	sele1250	spl	1214	THIS	793	
+1658	Selepet-80_itstail-1	Selepet	80_itstail	h a p e	sele1250	spl	1220	TAIL	807	
+1660	Selepet-82_itseye-1	Selepet	82_itseye	s e n	sele1250	spl	1248	EYE	15	
+1662	Selepet-84_itshead-1	Selepet	84_itshead	k u n	sele1250	spl	1256	HEAD	669	
+1663	Selepet-85_itsbone-1	Selepet	85_itsbone	h a h i t	sele1250	spl	1394	BONE	89	
+1664	Selepet-86_he-1	Selepet	86_he	y ɔ k	sele1250	spl	1211	HE	396	
+1665	Selepet-87_ye-1	Selepet	87_ye	y e n	sele1250	spl	1213	YOU	326	
+1666	Selepet-88_they-1	Selepet	88_they	y ɔ k	sele1250	spl	817	THEY	410	
+1667	Selepet-89_where-1	Selepet	89_where	w o n ɔ n	sele1250	spl	1237	WHERE	355	
+1668	Selepet-8_one-1	Selepet	8_one	k o n o k	sele1250	spl	1493	ONE	401	
+1669	Selepet-90_how-1	Selepet	90_how	g i r a	sele1250	spl	1239	HOW	792	
+1670	Selepet-91_and-1	Selepet	91_and	o t m u	sele1250	spl	1577	AND	797	
+1671	Selepet-92_there-1	Selepet	92_there	e d a	sele1250	spl	1937	THERE	93	
+1672	Selepet-93_rightside-1	Selepet	93_rightside	b o n	sele1250	spl	1019	RIGHT	342	
+1673	Selepet-94_leftside-1	Selepet	94_leftside	k a n e	sele1250	spl	244	LEFT	131	
+1674	Selepet-95_heholds-1	Selepet	95_heholds	m i	sele1250	spl	1448	HOLD	23	
+1675	Selepet-96_hefalls-1	Selepet	96_hefalls	k i o ŋ	sele1250	spl	1280	FALL	788	
+1676	Selepet-97_heturns-1	Selepet	97_heturns	p u r i k	sele1250	spl	1444	TURN AROUND	374	
+1677	Selepet-98_hethrows-1	Selepet	98_hethrows	p i l a	sele1250	spl	1456	THROW	802	
+1678	Selepet-99_hepulls-1	Selepet	99_hepulls	d ɔ i	sele1250	spl	1455	PULL	805	
+1679	Selepet-9_two-1	Selepet	9_two	y ɔ h ɔ p	sele1250	spl	1498	TWO	424	
+1680	Timbe-100_hepushes-1	Timbe	100_hepushes	h o k o k	timb1251	tim	1452	PUSH	925	
+1681	Timbe-101_hewashes-1	Timbe	101_hewashes	p u l i	timb1251	tim	1453	WASH	813	
+1682	Timbe-102_hedigs-1	Timbe	102_hedigs	k e n d ɔ	timb1251	tim	1418	DIG	336	
+1683	Timbe-103_hecuts-1	Timbe	103_hecuts	h ɔ r i	timb1251	tim	1432	CUT	787	
+1684	Timbe-104_some-1	Timbe	104_some	b i k	timb1251	tim	1241	SOME	903	
+1685	Timbe-105_short-1	Timbe	105_short	t ɔ l ɔ w ɔ k	timb1251	tim	1645	SHORT	385	
+1686	Timbe-106_wind-1	Timbe	106_wind	s e r u	timb1251	tim	960	WIND	918	
+1687	Timbe-107_sky-1	Timbe	107_sky	h i b i m	timb1251	tim	1732	SKY	402	
+1688	Timbe-108_dust-1	Timbe	108_dust	g a h a p	timb1251	tim	2	DUST	811	
+1689	Timbe-109_lake-1	Timbe	109_lake	b ɔ t g u m	timb1251	tim	624	LAKE	888	
+1690	Timbe-10_hesays-1	Timbe	10_hesays	m a	timb1251	tim	1458	SAY	887	
+1691	Timbe-110_itsflower-1	Timbe	110_itsflower	h u r i	timb1251	tim	239	FLOWER	3	
+1693	Timbe-112_stick-1	Timbe	112_stick	b u h ɔ	timb1251	tim	1295	STICK	907	
+1694	Timbe-113_worm-1	Timbe	113_worm	g i p m a ŋ	timb1251	tim	1219	WORM	536	
+1695	Timbe-114_snake-1	Timbe	114_snake	n i a b i	timb1251	tim	730	SNAKE	629	
+1696	Timbe-115_animal-1	Timbe	115_animal	y o	timb1251	tim	619	ANIMAL	400	
+1697	Timbe-116_itsback-1	Timbe	116_itsback	h a m e	timb1251	tim	1291	BACK	926	
+1698	Timbe-117_itswing-1	Timbe	117_itswing	b ɔ b ɔ l ɔ m	timb1251	tim	1257	WING	886	
+1700	Timbe-119_hevomits-1	Timbe	119_hevomits	m u h a t	timb1251	tim	1278	VOMIT	364	
+1702	Timbe-120_helaughs-1	Timbe	120_helaughs	g i r i ŋ	timb1251	tim	1355	LAUGH	371	
+1703	Timbe-121_hesucks-1	Timbe	121_hesucks	m u s u k u	timb1251	tim	1421	SUCK	377	
+1705	Timbe-123_hespits-1	Timbe	123_hespits	t ɔ w u t	timb1251	tim	1440	SPIT	920	
+1706	Timbe-124_old-1	Timbe	124_old	s ɔ b ɔ	timb1251	tim	1229	OLD	392	
+1708	Timbe-126_dull-1	Timbe	126_dull	p ɔ l ɔ m ŋ e	timb1251	tim	379	BLUNT	388	
+1711	Timbe-129_hisfather-1	Timbe	129_hisfather	e w e	timb1251	tim	1217	FATHER	368	
+1713	Timbe-130_hismother-1	Timbe	130_hismother	m e m e	timb1251	tim	1216	MOTHER	382	
+1714	Timbe-131_shesews-1	Timbe	131_shesews	p a r u t	timb1251	tim	1457	SEW	913	
+1715	Timbe-132_rope-1	Timbe	132_rope	t ɔ k	timb1251	tim	1218	ROPE	412	
+1717	Timbe-134_hecounts-1	Timbe	134_hecounts	o y a ŋ	timb1251	tim	1420	COUNT	446	
+1718	Timbe-135_theyplay-1	Timbe	135_theyplay	h ɔ l i m a k	timb1251	tim	1413	PLAY	929	
+1724	Timbe-140_itswells-1	Timbe	140_itswells	k a u l e	timb1251	tim	1573	SWELL	894	
+1728	Timbe-17_hecomes-1	Timbe	17_hecomes	g u	timb1251	tim	1446	COME	421	
+1729	Timbe-18_hesits-1	Timbe	18_hesits	t a	timb1251	tim	1416	SIT	130	
+1730	Timbe-19_hegivesme-1	Timbe	19_hegivesme	n i ŋ	timb1251	tim	1447	GIVE	324	
+1731	Timbe-1_i-1	Timbe	1_i	n ɔ	timb1251	tim	1209	I	245	
+1732	Timbe-20_hestands-1	Timbe	20_hestands	k i n	timb1251	tim	1442	STAND	330	
+1733	Timbe-21_all-1	Timbe	21_all	h ɔ r o w ɔ k	timb1251	tim	98	ALL	890	
+1734	Timbe-22_many-1	Timbe	22_many	b i w i r ɔ	timb1251	tim	1198	MANY	343	
+1735	Timbe-23_night-1	Timbe	23_night	h a d ɔ k	timb1251	tim	1233	NIGHT	899	
+1736	Timbe-24_long-1	Timbe	24_long	k ɔ l i p	timb1251	tim	1203	LONG	44	
+1737	Timbe-25_big-1	Timbe	25_big	h u m o	timb1251	tim	1202	BIG	906	
+1738	Timbe-26_small-1	Timbe	26_small	b ɔ l e ŋ e	timb1251	tim	1246	SMALL	908	
+1739	Timbe-27_star-1	Timbe	27_star	p i t u ŋ	timb1251	tim	1430	STAR	798	
+1740	Timbe-28_sun-1	Timbe	28_sun	p o i a p	timb1251	tim	1343	SUN	916	
+1741	Timbe-29_cloud-1	Timbe	29_cloud	h a m a d a t	timb1251	tim	1489	CLOUD	922	
+1742	Timbe-2_thou-1	Timbe	2_thou	g ɔ	timb1251	tim	1215	THOU	292	
+1744	Timbe-31_itsbelly-1	Timbe	31_itsbelly	t e p	timb1251	tim	1251	BELLY	407	
+1745	Timbe-32_itsnose-1	Timbe	32_itsnose	h ɔ m e	timb1251	tim	1221	NOSE	812	
+1746	Timbe-33_itsheart-1	Timbe	33_itsheart	o k o t	timb1251	tim	1223	HEART	893	
+1747	Timbe-34_itsfat-1	Timbe	34_itsfat	k e l u	timb1251	tim	323	FAT (ORGANIC SUBSTANCE)	59	
+1748	Timbe-35_itsneck-1	Timbe	35_itsneck	h a n	timb1251	tim	1333	NECK	924	
+1749	Timbe-36_itshair-1	Timbe	36_itshair	d u m u t	timb1251	tim	1040	HAIR	425	
+1750	Timbe-37_hedies-1	Timbe	37_hedies	m o	timb1251	tim	1494	DIE	427	
+1751	Timbe-38_heseesme-1	Timbe	38_heseesme	n e k	timb1251	tim	1409	SEE	428	
+1752	Timbe-39_hesleeps-1	Timbe	39_hesleeps	y e	timb1251	tim	1585	SLEEP	327	
+1753	Timbe-3_we-1	Timbe	3_we	n e n	timb1251	tim	1212	WE	160	
+1754	Timbe-40_heeats-1	Timbe	40_heeats	n i	timb1251	tim	1336	EAT	12	
+1755	Timbe-41_hebitesit-1	Timbe	41_hebitesit	i h i	timb1251	tim	1403	BITE	332	
+1756	Timbe-42_black-1	Timbe	42_black	h e l e ŋ	timb1251	tim	163	BLACK	782	
+1757	Timbe-43_green-1	Timbe	43_green	g o l ɔ	timb1251	tim	1425	GREEN	785	
+1758	Timbe-44_white-1	Timbe	44_white	k a u	timb1251	tim	1335	WHITE	341	
+1759	Timbe-45_red-1	Timbe	45_red	g i l ɔ m ŋ e	timb1251	tim	156	RED	895	
+1760	Timbe-46_yellow-1	Timbe	46_yellow	g i b a ŋ	timb1251	tim	1424	YELLOW	348	
+1761	Timbe-47_good-1	Timbe	47_good	ɔ l i p ŋ e	timb1251	tim	1035	GOOD	354	
+1763	Timbe-49_new-1	Timbe	49_new	i r a k ŋ e	timb1251	tim	1231	NEW	359	
+1764	Timbe-4_who-1	Timbe	4_who	k i ɔ	timb1251	tim	1235	WHO	919	
+1765	Timbe-50_itisdry-1	Timbe	50_itisdry	k a m i l i	timb1251	tim	1398	DRY	905	
+1767	Timbe-52_itsname-1	Timbe	52_itsname	k o t	timb1251	tim	1405	NAME	370	
+1768	Timbe-53_not-1	Timbe	53_not	b o	timb1251	tim	1240	NOT	910	
+1769	Timbe-54_itburns-1	Timbe	54_itburns	o	timb1251	tim	1428	BURNING	911	
+1770	Timbe-55_road-1	Timbe	55_road	d ɔ p	timb1251	tim	667	ROAD	912	
+1771	Timbe-56_water-1	Timbe	56_water	t u	timb1251	tim	948	WATER	383	
+1772	Timbe-57_smoke-1	Timbe	57_smoke	d ɔ w o k	timb1251	tim	778	SMOKE (EXHAUST)	927	
+1775	Timbe-5_what-1	Timbe	5_what	w a n	timb1251	tim	1236	WHAT	426	
+1776	Timbe-60_sand-1	Timbe	60_sand	s a k	timb1251	tim	671	SAND	92	
+1777	Timbe-61_stone-1	Timbe	61_stone	k ɔ t	timb1251	tim	857	STONE	403	
+1778	Timbe-62_mountain-1	Timbe	62_mountain	g i b ɔ ŋ e	timb1251	tim	639	MOUNTAIN	781	
+1779	Timbe-63_ashes-1	Timbe	63_ashes	k a u	timb1251	tim	646	ASH	411	
+1780	Timbe-64_earth-1	Timbe	64_earth	h ɔ n	timb1251	tim	1228	EARTH (SOIL)	414	
+1781	Timbe-65_itsleaf-1	Timbe	65_itsleaf	e s e n	timb1251	tim	628	LEAF	108	
+1782	Timbe-66_tree-1	Timbe	66_tree	l ɔ w i n	timb1251	tim	906	TREE	900	
+1783	Timbe-67_itsroot-1	Timbe	67_itsroot	k ɔ d ɔ r ɔ	timb1251	tim	670	ROOT	611	
+1784	Timbe-68_itsseed-1	Timbe	68_itsseed	k ɔ d e t	timb1251	tim	714	SEED	897	
+1785	Timbe-69_itsear-1	Timbe	69_itsear	ɔ d ɔ p	timb1251	tim	1247	EAR	806	
+1786	Timbe-6_that-1	Timbe	6_that	i d ɔ	timb1251	tim	78	THAT	896	
+1787	Timbe-70_louse-1	Timbe	70_louse	i m e n	timb1251	tim	1392	LOUSE	128	
+1788	Timbe-71_dog-1	Timbe	71_dog	d u a	timb1251	tim	2009	DOG	891	
+1789	Timbe-72_bird-1	Timbe	72_bird	l a u t	timb1251	tim	937	BIRD	617	
+1790	Timbe-73_woman-1	Timbe	73_woman	ɔ b ɔ i	timb1251	tim	962	WOMAN	91	
+1792	Timbe-75_itsblood-1	Timbe	75_itsblood	g i l ɔ m	timb1251	tim	946	BLOOD	923	
+1793	Timbe-76_hishand-1	Timbe	76_hishand	b ɔ t	timb1251	tim	1277	HAND	340	
+1794	Timbe-77_itstongue-1	Timbe	77_itstongue	e l e w o t	timb1251	tim	1205	TONGUE	901	
+1795	Timbe-78_itstooth-1	Timbe	78_itstooth	d ɔ t	timb1251	tim	1380	TOOTH	51	
+1796	Timbe-79_itsfoot-1	Timbe	79_itsfoot	k e i	timb1251	tim	1301	FOOT	281	
+1797	Timbe-7_this-1	Timbe	7_this	i	timb1251	tim	1214	THIS	40	
+1798	Timbe-80_itstail-1	Timbe	80_itstail	d a p e	timb1251	tim	1220	TAIL	807	
+1800	Timbe-82_itseye-1	Timbe	82_itseye	d e w u n	timb1251	tim	1248	EYE	889	
+1802	Timbe-84_itshead-1	Timbe	84_itshead	k a u t	timb1251	tim	1256	HEAD	369	
+1803	Timbe-85_itsbone-1	Timbe	85_itsbone	h a h i t	timb1251	tim	1394	BONE	89	
+1804	Timbe-86_he-1	Timbe	86_he	y ɔ k	timb1251	tim	1211	HE	396	
+1805	Timbe-87_ye-1	Timbe	87_ye	y e	timb1251	tim	1213	YOU	326	
+1806	Timbe-88_they-1	Timbe	88_they	y ɔ k	timb1251	tim	817	THEY	410	
+1807	Timbe-89_where-1	Timbe	89_where	w a n ɔ n	timb1251	tim	1237	WHERE	355	
+1808	Timbe-8_one-1	Timbe	8_one	k ɔ n o k	timb1251	tim	1493	ONE	401	
+1809	Timbe-90_how-1	Timbe	90_how	g a i n + h i n a r e	timb1251	tim	1239	HOW	904	
+1810	Timbe-91_and-1	Timbe	91_and	a k d o	timb1251	tim	1577	AND	915	
+1811	Timbe-92_there-1	Timbe	92_there	i d ɔ	timb1251	tim	1937	THERE	93	
+1812	Timbe-93_rightside-1	Timbe	93_rightside	b u n	timb1251	tim	1019	RIGHT	342	
+1813	Timbe-94_leftside-1	Timbe	94_leftside	k a n e	timb1251	tim	244	LEFT	131	
+1814	Timbe-95_heholds-1	Timbe	95_heholds	m e	timb1251	tim	1448	HOLD	23	
+1815	Timbe-96_hefalls-1	Timbe	96_hefalls	g i	timb1251	tim	1280	FALL	898	
+1816	Timbe-97_heturns-1	Timbe	97_heturns	p u r i k	timb1251	tim	1444	TURN AROUND	374	
+1817	Timbe-98_hethrows-1	Timbe	98_hethrows	h e p u	timb1251	tim	1456	THROW	921	
+1818	Timbe-99_hepulls-1	Timbe	99_hepulls	o l o ŋ a k	timb1251	tim	1455	PULL	137	
+1819	Timbe-9_two-1	Timbe	9_two	l ɔ u w ɔ	timb1251	tim	1498	TWO	909	
+1820	Tobo-100_hepushes-1	Tobo	100_hepushes	kp e a t i	tobo1251	kgf	1452	PUSH	947	
+1821	Tobo-101_hewashes-1	Tobo	101_hewashes	dz u a	tobo1251	kgf	1453	WASH	235	
+1822	Tobo-102_hedigs-1	Tobo	102_hedigs	a s ɔ	tobo1251	kgf	1418	DIG	935	
+1823	Tobo-103_hecuts-1	Tobo	103_hecuts	k ɔ r i	tobo1251	kgf	1432	CUT	166	
+1824	Tobo-104_some-1	Tobo	104_some	t o s a t	tobo1251	kgf	1241	SOME	63	
+1825	Tobo-105_short-1	Tobo	105_short	k a t o ŋ	tobo1251	kgf	1645	SHORT	460	
+1826	Tobo-106_wind-1	Tobo	106_wind	l u h u t	tobo1251	kgf	960	WIND	467	
+1827	Tobo-107_sky-1	Tobo	107_sky	k u r e m e n	tobo1251	kgf	1732	SKY	216	
+1828	Tobo-108_dust-1	Tobo	108_dust	i w a i	tobo1251	kgf	2	DUST	449	
+1829	Tobo-109_lake-1	Tobo	109_lake	dz o k ɔ m	tobo1251	kgf	624	LAKE	11	
+1830	Tobo-10_hesays-1	Tobo	10_hesays	dz i	tobo1251	kgf	1458	SAY	6	
+1831	Tobo-110_itsflower-1	Tobo	110_itsflower	dz u r i	tobo1251	kgf	239	FLOWER	3	
+1833	Tobo-112_stick-1	Tobo	112_stick	b i m	tobo1251	kgf	1295	STICK	373	
+1834	Tobo-113_worm-1	Tobo	113_worm	g u s u	tobo1251	kgf	1219	WORM	188	
+1835	Tobo-114_snake-1	Tobo	114_snake	k e m a l a	tobo1251	kgf	730	SNAKE	946	
+1836	Tobo-115_animal-1	Tobo	115_animal	y a ŋ	tobo1251	kgf	619	ANIMAL	208	
+1837	Tobo-116_itsback-1	Tobo	116_itsback	g e m a t	tobo1251	kgf	1291	BACK	123	
+1838	Tobo-117_itswing-1	Tobo	117_itswing	kp e g a m	tobo1251	kgf	1257	WING	7	
+1840	Tobo-119_hevomits-1	Tobo	119_hevomits	l o n	tobo1251	kgf	1278	VOMIT	33	
+1842	Tobo-120_helaughs-1	Tobo	120_helaughs	g i s i h i	tobo1251	kgf	1355	LAUGH	833	
+1843	Tobo-121_hesucks-1	Tobo	121_hesucks	b i ts i	tobo1251	kgf	1421	SUCK	444	
+1845	Tobo-123_hespits-1	Tobo	123_hespits	s o t k ɔ n	tobo1251	kgf	1440	SPIT	945	
+1846	Tobo-124_old-1	Tobo	124_old	w a l a h a	tobo1251	kgf	1229	OLD	461	
+1848	Tobo-126_dull-1	Tobo	126_dull	dz e r a kp a	tobo1251	kgf	379	BLUNT	9	
+1851	Tobo-129_hisfather-1	Tobo	129_hisfather	m a m	tobo1251	kgf	1217	FATHER	224	
+1853	Tobo-130_hismother-1	Tobo	130_hismother	n a ŋ g i	tobo1251	kgf	1216	MOTHER	186	
+1854	Tobo-131_shesews-1	Tobo	131_shesews	kp a l i	tobo1251	kgf	1457	SEW	942	
+1855	Tobo-132_rope-1	Tobo	132_rope	s ɔ h a p	tobo1251	kgf	1218	ROPE	943	
+1857	Tobo-134_hecounts-1	Tobo	134_hecounts	o y o n	tobo1251	kgf	1420	COUNT	446	
+1858	Tobo-135_theyplay-1	Tobo	135_theyplay	a r i a t	tobo1251	kgf	1413	PLAY	236	
+1864	Tobo-140_itswells-1	Tobo	140_itswells	b u ŋ g u	tobo1251	kgf	1573	SWELL	464	
+1868	Tobo-17_hecomes-1	Tobo	17_hecomes	k a	tobo1251	kgf	1446	COME	421	
+1869	Tobo-18_hesits-1	Tobo	18_hesits	t a	tobo1251	kgf	1416	SIT	130	
+1870	Tobo-19_hegivesme-1	Tobo	19_hegivesme	n e m	tobo1251	kgf	1447	GIVE	8	
+1871	Tobo-1_i-1	Tobo	1_i	n i	tobo1251	kgf	1209	I	0	
+1872	Tobo-20_hestands-1	Tobo	20_hestands	n a n	tobo1251	kgf	1442	STAND	14	
+1873	Tobo-21_all-1	Tobo	21_all	e ŋ a l e k	tobo1251	kgf	98	ALL	933	
+1874	Tobo-22_many-1	Tobo	22_many	s e s i a	tobo1251	kgf	1198	MANY	440	
+1875	Tobo-23_night-1	Tobo	23_night	s i ŋ i a h a	tobo1251	kgf	1233	NIGHT	445	
+1876	Tobo-24_long-1	Tobo	24_long	k ɔ r u a	tobo1251	kgf	1203	LONG	44	
+1877	Tobo-25_big-1	Tobo	25_big	b a i a	tobo1251	kgf	1202	BIG	941	
+1878	Tobo-26_small-1	Tobo	26_small	k o m o r a	tobo1251	kgf	1246	SMALL	456	
+1879	Tobo-27_star-1	Tobo	27_star	s e k e l o	tobo1251	kgf	1430	STAR	68	
+1880	Tobo-28_sun-1	Tobo	28_sun	k a i w e	tobo1251	kgf	1343	SUN	462	
+1881	Tobo-29_cloud-1	Tobo	29_cloud	k o s u	tobo1251	kgf	1489	CLOUD	84	
+1882	Tobo-2_thou-1	Tobo	2_thou	g i	tobo1251	kgf	1215	THOU	2	
+1884	Tobo-31_itsbelly-1	Tobo	31_itsbelly	k e r a p	tobo1251	kgf	1251	BELLY	96	
+1885	Tobo-32_itsnose-1	Tobo	32_itsnose	s ɔ h ɔ r i	tobo1251	kgf	1221	NOSE	416	
+1886	Tobo-33_itsheart-1	Tobo	33_itsheart	w e i + b ɔ t	tobo1251	kgf	1223	HEART	824	
+1887	Tobo-34_itsfat-1	Tobo	34_itsfat	k a l a k	tobo1251	kgf	323	FAT (ORGANIC SUBSTANCE)	59	
+1888	Tobo-35_itsneck-1	Tobo	35_itsneck	dz e l	tobo1251	kgf	1333	NECK	849	
+1889	Tobo-36_itshair-1	Tobo	36_itshair	dz u	tobo1251	kgf	1040	HAIR	132	
+1890	Tobo-37_hedies-1	Tobo	37_hedies	k ɔ m u	tobo1251	kgf	1494	DIE	136	
+1891	Tobo-38_heseesme-1	Tobo	38_heseesme	n e n	tobo1251	kgf	1409	SEE	239	
+1892	Tobo-39_hesleeps-1	Tobo	39_hesleeps	g ɔ o h e	tobo1251	kgf	1585	SLEEP	930	
+1893	Tobo-3_we-1	Tobo	3_we	n i n i	tobo1251	kgf	1212	WE	160	
+1894	Tobo-40_heeats-1	Tobo	40_heeats	n e	tobo1251	kgf	1336	EAT	12	
+1895	Tobo-41_hebitesit-1	Tobo	41_hebitesit	k i	tobo1251	kgf	1403	BITE	16	
+1896	Tobo-42_black-1	Tobo	42_black	dz a p a l a	tobo1251	kgf	163	BLACK	433	
+1897	Tobo-43_green-1	Tobo	43_green	a s o ŋ a	tobo1251	kgf	1425	GREEN	26	
+1898	Tobo-44_white-1	Tobo	44_white	l a l a p	tobo1251	kgf	1335	WHITE	437	
+1899	Tobo-45_red-1	Tobo	45_red	p ɔ s ɔ h a	tobo1251	kgf	156	RED	442	
+1900	Tobo-46_yellow-1	Tobo	46_yellow	gb a o t + gb a o t	tobo1251	kgf	1424	YELLOW	443	
+1901	Tobo-47_good-1	Tobo	47_good	e h a	tobo1251	kgf	1035	GOOD	938	
+1903	Tobo-49_new-1	Tobo	49_new	gb i l i k	tobo1251	kgf	1231	NEW	48	
+1904	Tobo-4_who-1	Tobo	4_who	m ɔ ŋ	tobo1251	kgf	1235	WHO	74	
+1905	Tobo-50_itisdry-1	Tobo	50_itisdry	dz i p k ɔ	tobo1251	kgf	1398	DRY	734	
+1907	Tobo-52_itsname-1	Tobo	52_itsname	k i w a	tobo1251	kgf	1405	NAME	175	
+1908	Tobo-53_not-1	Tobo	53_not	m ɔ n d ɔ	tobo1251	kgf	1240	NOT	64	
+1909	Tobo-54_itburns-1	Tobo	54_itburns	dz e	tobo1251	kgf	1428	BURNING	66	
+1910	Tobo-55_road-1	Tobo	55_road	k ɔ n a	tobo1251	kgf	667	ROAD	70	
+1911	Tobo-56_water-1	Tobo	56_water	d u k u	tobo1251	kgf	948	WATER	189	
+1912	Tobo-57_smoke-1	Tobo	57_smoke	k a s a k	tobo1251	kgf	778	SMOKE (EXHAUST)	82	
+1915	Tobo-5_what-1	Tobo	5_what	n ɔ m a t	tobo1251	kgf	1236	WHAT	429	
+1916	Tobo-60_sand-1	Tobo	60_sand	s a k	tobo1251	kgf	671	SAND	92	
+1917	Tobo-61_stone-1	Tobo	61_stone	b a ŋ a	tobo1251	kgf	857	STONE	931	
+1918	Tobo-62_mountain-1	Tobo	62_mountain	b o h o ŋ a	tobo1251	kgf	639	MOUNTAIN	100	
+1919	Tobo-63_ashes-1	Tobo	63_ashes	k a m a	tobo1251	kgf	646	ASH	211	
+1920	Tobo-64_earth-1	Tobo	64_earth	b a i t	tobo1251	kgf	1228	EARTH (SOIL)	214	
+1921	Tobo-65_itsleaf-1	Tobo	65_itsleaf	k a r e m	tobo1251	kgf	628	LEAF	471	
+1922	Tobo-66_tree-1	Tobo	66_tree	i p	tobo1251	kgf	906	TREE	118	
+1923	Tobo-67_itsroot-1	Tobo	67_itsroot	ɔ n d e	tobo1251	kgf	670	ROOT	420	
+1924	Tobo-68_itsseed-1	Tobo	68_itsseed	g o p i	tobo1251	kgf	714	SEED	940	
+1925	Tobo-69_itsear-1	Tobo	69_itsear	k e s a p	tobo1251	kgf	1247	EAR	126	
+1926	Tobo-6_that-1	Tobo	6_that	m i	tobo1251	kgf	78	THAT	547	
+1927	Tobo-70_louse-1	Tobo	70_louse	i m i n	tobo1251	kgf	1392	LOUSE	128	
+1928	Tobo-71_dog-1	Tobo	71_dog	k i a m	tobo1251	kgf	2009	DOG	826	
+1929	Tobo-72_bird-1	Tobo	72_bird	n i	tobo1251	kgf	937	BIRD	237	
+1930	Tobo-73_woman-1	Tobo	73_woman	e m b a t	tobo1251	kgf	962	WOMAN	91	
+1932	Tobo-75_itsblood-1	Tobo	75_itsblood	s a p	tobo1251	kgf	946	BLOOD	127	
+1933	Tobo-76_hishand-1	Tobo	76_hishand	m ɔ r ɔ	tobo1251	kgf	1277	HAND	164	
+1934	Tobo-77_itstongue-1	Tobo	77_itstongue	e dz e l ɔ m	tobo1251	kgf	1205	TONGUE	57	
+1935	Tobo-78_itstooth-1	Tobo	78_itstooth	dz ɔ t	tobo1251	kgf	1380	TOOTH	51	
+1936	Tobo-79_itsfoot-1	Tobo	79_itsfoot	k a n i	tobo1251	kgf	1301	FOOT	81	
+1937	Tobo-7_this-1	Tobo	7_this	m u	tobo1251	kgf	1214	THIS	877	
+1938	Tobo-80_itstail-1	Tobo	80_itstail	dz i	tobo1251	kgf	1220	TAIL	105	
+1940	Tobo-82_itseye-1	Tobo	82_itseye	kp a t	tobo1251	kgf	1248	EYE	936	
+1942	Tobo-84_itshead-1	Tobo	84_itshead	n o r o k	tobo1251	kgf	1256	HEAD	845	
+1943	Tobo-85_itsbone-1	Tobo	85_itsbone	s i h i t	tobo1251	kgf	1394	BONE	89	
+1944	Tobo-86_he-1	Tobo	86_he	i	tobo1251	kgf	1211	HE	99	
+1945	Tobo-87_ye-1	Tobo	87_ye	i n i	tobo1251	kgf	1213	YOU	238	
+1946	Tobo-88_they-1	Tobo	88_they	i n i	tobo1251	kgf	817	THEY	226	
+1947	Tobo-89_where-1	Tobo	89_where	d u m u a	tobo1251	kgf	1237	WHERE	465	
+1948	Tobo-8_one-1	Tobo	8_one	m o h o k	tobo1251	kgf	1493	ONE	860	
+1949	Tobo-90_how-1	Tobo	90_how	d a s o ŋ	tobo1251	kgf	1239	HOW	939	
+1950	Tobo-91_and-1	Tobo	91_and	w a m u	tobo1251	kgf	1577	AND	450	
+1951	Tobo-92_there-1	Tobo	92_there	e r e	tobo1251	kgf	1937	THERE	93	
+1952	Tobo-93_rightside-1	Tobo	93_rightside	h ɔ l a	tobo1251	kgf	1019	RIGHT	854	
+1953	Tobo-94_leftside-1	Tobo	94_leftside	kp a n a	tobo1251	kgf	244	LEFT	131	
+1954	Tobo-95_heholds-1	Tobo	95_heholds	k a s a	tobo1251	kgf	1448	HOLD	934	
+1955	Tobo-96_hefalls-1	Tobo	96_hefalls	m a	tobo1251	kgf	1280	FALL	161	
+1956	Tobo-97_heturns-1	Tobo	97_heturns	m e l e ŋ	tobo1251	kgf	1444	TURN AROUND	49	
+1957	Tobo-98_hethrows-1	Tobo	98_hethrows	w a i	tobo1251	kgf	1456	THROW	190	
+1958	Tobo-99_hepulls-1	Tobo	99_hepulls	m ɔ s ɔ l	tobo1251	kgf	1455	PULL	944	
+1959	Tobo-9_two-1	Tobo	9_two	r ɔ h ɔ t	tobo1251	kgf	1498	TWO	424	

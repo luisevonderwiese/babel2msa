@@ -1,0 +1,712 @@
+	ID	DOCULECT	CONCEPT	Segments	GLOTTOCODE	ISO_CODE	CONCEPTICON_ID	CONCEPTICON_GLOSS	COGNATES	FORM
+0	Achagua-100_who-1	Achagua	100_who	t á/a n a	acha1250	aca	1235	WHO	947	
+1	Achagua-101_woman-1	Achagua	101_woman	í/i i n e t oo	acha1250	aca	962	WOMAN	968	
+2	Achagua-101_woman-2	Achagua	101_woman	í/i i n a	acha1250	aca	962	WOMAN	968	
+3	Achagua-102_yellow-1	Achagua	102_yellow	m e r ee k ii	acha1250	aca	1424	YELLOW	971	
+4	Achagua-10_blood-1	Achagua	10_blood	ii r a i	acha1250	aca	946	BLOOD	97	
+5	Achagua-11_bone-1	Achagua	11_bone	j a h i ʃ i	acha1250	aca	1394	BONE	108	
+6	Achagua-13_breast2-1	Achagua	13_breast2	k u t a ʃ i	acha1250	aca	1402	BREAST	120	
+7	Achagua-15_burn2-1	Achagua	15_burn2	e: m a i r i	acha1250	aca	2102	BURN	130	
+8	Achagua-16_claw-1	Achagua	16_claw	j u b a w i a ʃ i	acha1250	aca	72	CLAW	138	
+9	Achagua-17_cloud-1	Achagua	17_cloud	s aa n a i	acha1250	aca	1489	CLOUD	143	
+10	Achagua-18_cold-1	Achagua	18_cold	k a s a l i n i:	acha1250	aca	1287	COLD	153	
+11	Achagua-19_come-1	Achagua	19_come	i: n u e r i	acha1250	aca	1446	COME	169	
+12	Achagua-1_i-1	Achagua	1_i	n u j a	acha1250	aca	1209	I	1	
+13	Achagua-20_die-1	Achagua	20_die	m a: n a l i:	acha1250	aca	1494	DIE	177	
+14	Achagua-21_dog-1	Achagua	21_dog	a u l i	acha1250	aca	2009	DOG	190	
+15	Achagua-22_drink-1	Achagua	22_drink	i: r e r i	acha1250	aca	1401	DRINK	196	
+16	Achagua-24_ear-1	Achagua	24_ear	w i b a ʃ i	acha1250	aca	1247	EAR	219	
+17	Achagua-25_earth-1	Achagua	25_earth	k a i n a b i	acha1250	aca	1228	EARTH (SOIL)	228	
+18	Achagua-26_eat-1	Achagua	26_eat	i: j e r i	acha1250	aca	1336	EAT	232	
+19	Achagua-27_egg-1	Achagua	27_egg	ee w i ʃ i	acha1250	aca	744	EGG	246	
+20	Achagua-28_eye-1	Achagua	28_eye	t u i ʃ i	acha1250	aca	1248	EYE	254	
+21	Achagua-2_all-1	Achagua	2_all	k i n i n a m a	acha1250	aca	98	ALL	9	
+22	Achagua-30_fire-1	Achagua	30_fire	tʃ i tʃ a i	acha1250	aca	221	FIRE	272	
+23	Achagua-31_fishn-1	Achagua	31_fishn	k u b a i	acha1250	aca	227	FISH	273	
+24	Achagua-32_flesh-1	Achagua	32_flesh	i: n a ʃ i	acha1250	aca	2259	FLESH	281	
+25	Achagua-33_flyv-1	Achagua	33_flyv	j a: r e r i u	acha1250	aca	1441	FLY (MOVE THROUGH AIR)	297	
+26	Achagua-34_foot-1	Achagua	34_foot	i: b a ʃ i	acha1250	aca	1301	FOOT	306	
+27	Achagua-35_full-1	Achagua	35_full	k a: w a i	acha1250	aca	1429	FULL	317	
+28	Achagua-36_give-1	Achagua	36_give	j aa i r i	acha1250	aca	1447	GIVE	326	
+29	Achagua-37_good-1	Achagua	37_good	s a i k a	acha1250	aca	1035	GOOD	329	
+30	Achagua-38_grease-1	Achagua	38_grease	j uu w i k a	acha1250	aca	323	FAT (ORGANIC SUBSTANCE)	338	
+31	Achagua-39_green-1	Achagua	39_green	u l e: j i	acha1250	aca	1425	GREEN	349	
+32	Achagua-3_ash-1	Achagua	3_ash	b a: l i	acha1250	aca	646	ASH	27	
+33	Achagua-40_hair-1	Achagua	40_hair	b a i n a ʃ i	acha1250	aca	1040	HAIR	353	
+34	Achagua-41_hand-1	Achagua	41_hand	k a h i ʃ i	acha1250	aca	1277	HAND	370	
+35	Achagua-42_head-1	Achagua	42_head	w i t a ʃ i	acha1250	aca	1256	HEAD	379	
+36	Achagua-43_hear-1	Achagua	43_hear	e: m e r i	acha1250	aca	1408	HEAR	390	
+37	Achagua-44_heart-1	Achagua	44_heart	w o w a ʃ i	acha1250	aca	1223	HEART	400	
+38	Achagua-45_horn-1	Achagua	45_horn	tʃ a: l a ʃ i	acha1250	aca	1393	HORN (ANATOMY)	406	
+39	Achagua-46_hot-1	Achagua	46_hot	a m u a i	acha1250	aca	1286	HOT	416	
+40	Achagua-47_kill-1	Achagua	47_kill	i: n u e r i	acha1250	aca	1417	KILL	426	
+41	Achagua-48_knee-1	Achagua	48_knee	j u r u i ʃ i	acha1250	aca	1371	KNEE	435	
+42	Achagua-49_know-1	Achagua	49_know	e: w e r i	acha1250	aca	1410	KNOW (SOMETHING)	446	
+43	Achagua-49_know-2	Achagua	49_know	j a l e: n a:	acha1250	aca	1410	KNOW (SOMETHING)	443	
+44	Achagua-4_bark-1	Achagua	4_bark	i: m a n a ʃ i	acha1250	aca	1204	BARK	37	
+45	Achagua-50_leaf-1	Achagua	50_leaf	b a n a b a i	acha1250	aca	628	LEAF	453	
+46	Achagua-51_lie-1	Achagua	51_lie	k u a n i r i u	acha1250	aca	215	LIE DOWN	463	
+47	Achagua-52_liver-1	Achagua	52_liver	tʃ a: l i ʃ i	acha1250	aca	1224	LIVER	472	
+48	Achagua-53_long-1	Achagua	53_long	m a tʃ e: n i:	acha1250	aca	1203	LONG	482	
+49	Achagua-54_louse-1	Achagua	54_louse	w i t e n e ʃ i	acha1250	aca	1392	LOUSE	488	
+50	Achagua-55_manadultmale-1	Achagua	55_manadultmale	w a ʃ i a l i k u e r i	acha1250	aca	1554	MAN	501	
+51	Achagua-56_many-1	Achagua	56_many	b a h i a l a	acha1250	aca	1198	MANY	506	
+52	Achagua-57_moon-1	Achagua	57_moon	k e: r i	acha1250	aca	1313	MOON	521	
+53	Achagua-58_mountain-1	Achagua	58_mountain	d ú/u u l i	acha1250	aca	639	MOUNTAIN	536	
+54	Achagua-59_mouth-1	Achagua	59_mouth	n u m a ʃ i	acha1250	aca	674	MOUTH	546	
+55	Achagua-5_belly-1	Achagua	5_belly	j a w a i ʃ i	acha1250	aca	1251	BELLY	39	
+56	Achagua-60_name-1	Achagua	60_name	h i ʔ i n a ʃ i	acha1250	aca	1405	NAME	547	
+57	Achagua-61_neck-1	Achagua	61_neck	w a: ʃ i	acha1250	aca	1333	NECK	555	
+58	Achagua-62_new-1	Achagua	62_new	w a: l i:	acha1250	aca	1231	NEW	572	
+59	Achagua-63_night-1	Achagua	63_night	t a: j e	acha1250	aca	1233	NIGHT	584	
+60	Achagua-64_nose-1	Achagua	64_nose	d a k u ʃ i	acha1250	aca	1221	NOSE	591	
+61	Achagua-65_not-1	Achagua	65_not	m a	acha1250	aca	1240	NOT	593	
+62	Achagua-65_not-2	Achagua	65_not	h oo k a i	acha1250	aca	1240	NOT	601	
+63	Achagua-66_one-1	Achagua	66_one	a: b a i	acha1250	aca	1493	ONE	613	
+64	Achagua-67_path-1	Achagua	67_path	i n i h i b a:	acha1250	aca	2252	PATH	618	
+65	Achagua-68_person-1	Achagua	68_person	w e n à/a i w i k a	acha1250	aca	683	PERSON	635	
+66	Achagua-69_rain-1	Achagua	69_rain	j ú/u w e r i u	acha1250	aca	658	RAIN (PRECIPITATION)	637	
+67	Achagua-6_big-1	Achagua	6_big	m aa n u ii	acha1250	aca	1202	BIG	58	
+68	Achagua-70_red-1	Achagua	70_red	k í/i r a i	acha1250	aca	156	RED	653	
+69	Achagua-71_root-1	Achagua	71_root	h í/i i tʃ u ʃ i	acha1250	aca	670	ROOT	663	
+70	Achagua-72_round-1	Achagua	72_round	m a k a	acha1250	aca	1395	ROUND	668	
+71	Achagua-73_sand-1	Achagua	73_sand	k á/a i n a	acha1250	aca	671	SAND	680	
+72	Achagua-74_say-1	Achagua	74_say	m á/a i r i	acha1250	aca	1458	SAY	689	
+73	Achagua-75_see-1	Achagua	75_see	k á/a b e r i	acha1250	aca	1409	SEE	695	
+74	Achagua-76_seed-1	Achagua	76_seed	í/i i m i ʃ i	acha1250	aca	714	SEED	705	
+75	Achagua-77_sit-1	Achagua	77_sit	w á/a a i r i u	acha1250	aca	1416	SIT	710	
+76	Achagua-78_skin-1	Achagua	78_skin	í/i i m a n a ʃ i	acha1250	aca	763	SKIN	728	
+77	Achagua-79_sleep-1	Achagua	79_sleep	m á/a a i r i	acha1250	aca	1585	SLEEP	738	
+78	Achagua-7_bird-1	Achagua	7_bird	m í/i ʃ i d u	acha1250	aca	937	BIRD	66	
+79	Achagua-80_small-1	Achagua	80_small	p i: t u i t u:	acha1250	aca	1246	SMALL	746	
+80	Achagua-81_smoke-1	Achagua	81_smoke	í/i i s a n i n aa	acha1250	aca	778	SMOKE (EXHAUST)	755	
+81	Achagua-82_stand-1	Achagua	82_stand	b a r u e r i u	acha1250	aca	1442	STAND	762	
+82	Achagua-83_star-1	Achagua	83_star	s á/a a l ii	acha1250	aca	1430	STAR	16	
+83	Achagua-84_stone-1	Achagua	84_stone	í/i i b a	acha1250	aca	857	STONE	777	
+84	Achagua-85_sun-1	Achagua	85_sun	k á/a i w i a	acha1250	aca	1343	SUN	788	
+85	Achagua-86_swim-1	Achagua	86_swim	j á/a m a r e r i u	acha1250	aca	1439	SWIM	795	
+86	Achagua-87_tail-1	Achagua	87_tail	í/i i ʃ i ʃ i	acha1250	aca	1220	TAIL	809	
+87	Achagua-88_that-1	Achagua	88_that	l i á/a r a	acha1250	aca	78	THAT	826	
+88	Achagua-88_that-2	Achagua	88_that	r u á/a r a	acha1250	aca	78	THAT	826	
+89	Achagua-89_this-1	Achagua	89_this	l i á/a n i	acha1250	aca	1214	THIS	826	
+90	Achagua-89_this-2	Achagua	89_this	r u a n i	acha1250	aca	1214	THIS	835	
+91	Achagua-89_this-3	Achagua	89_this	n á/a a n i	acha1250	aca	1214	THIS	837	
+92	Achagua-8_bite-1	Achagua	8_bite	á/a m u a	acha1250	aca	1403	BITE	79	
+93	Achagua-90_thouyou-1	Achagua	90_thouyou	i j á/a	acha1250	aca	1215	THOU	844	
+94	Achagua-91_tongue-1	Achagua	91_tongue	í/i n a n ee ʃ i	acha1250	aca	1205	TONGUE	857	
+95	Achagua-92_tooth-1	Achagua	92_tooth	é/e e ʃ i	acha1250	aca	1380	TOOTH	862	
+96	Achagua-93_treewood-1	Achagua	93_treewood	á/a i k u b a	acha1250	aca	906	TREE	879	
+97	Achagua-94_two-1	Achagua	94_two	tʃ á/a m a i	acha1250	aca	1498	TWO	887	
+98	Achagua-95_walk-1	Achagua	95_walk	h í/i n e r i u	acha1250	aca	1443	WALK	894	
+99	Achagua-96_water-1	Achagua	96_water	ʃ i á/a t a i	acha1250	aca	948	WATER	909	
+100	Achagua-97_we-1	Achagua	97_we	w a j á/a	acha1250	aca	1212	WE	911	
+101	Achagua-98_what-1	Achagua	98_what	t á/a n a	acha1250	aca	1236	WHAT	947	
+102	Achagua-99_white-1	Achagua	99_white	k a b á/a l a i	acha1250	aca	1335	WHITE	943	
+103	Achagua-9_black-1	Achagua	9_black	k a tʃ a h u l a i l a u	acha1250	aca	163	BLACK	89	
+104	Baniwa-100_who-1	Baniwa	100_who	k ó/o a k a	bani1255	bwi	1235	WHO	948	
+105	Baniwa-101_woman-1	Baniwa	101_woman	í/i i n a r o	bani1255	bwi	962	WOMAN	968	
+106	Baniwa-102_yellow-1	Baniwa	102_yellow	é/e e w a	bani1255	bwi	1424	YELLOW	981	
+107	Baniwa-10_blood-1	Baniwa	10_blood	ii r a n aa	bani1255	bwi	946	BLOOD	97	
+108	Baniwa-11_bone-1	Baniwa	11_bone	á/a a p i	bani1255	bwi	1394	BONE	108	
+109	Baniwa-12_breast1-1	Baniwa	12_breast1	í/i i n i	bani1255	bwi	1402	BREAST	117	
+110	Baniwa-14_burn1-1	Baniwa	14_burn1	h aa k a	bani1255	bwi	2102	BURN	129	
+111	Baniwa-15_burn2-1	Baniwa	15_burn2	m a	bani1255	bwi	2102	BURN	130	
+112	Baniwa-16_claw-1	Baniwa	16_claw	ts ó/o t a	bani1255	bwi	72	CLAW	140	
+113	Baniwa-17_cloud-1	Baniwa	17_cloud	ee n ó/o t o n a	bani1255	bwi	1489	CLOUD	144	
+114	Baniwa-17_cloud-2	Baniwa	17_cloud	i dz a d a w a k a	bani1255	bwi	1489	CLOUD	152	
+115	Baniwa-18_cold-1	Baniwa	18_cold	h á/a p e	bani1255	bwi	1287	COLD	165	
+116	Baniwa-19_come-1	Baniwa	19_come	n o	bani1255	bwi	1446	COME	169	
+117	Baniwa-1_i-1	Baniwa	1_i	ɲ ó/o a	bani1255	bwi	1209	I	1	
+118	Baniwa-20_die-1	Baniwa	20_die	m a l í/i o m e	bani1255	bwi	1494	DIE	178	
+119	Baniwa-21_dog-1	Baniwa	21_dog	ts ii n o	bani1255	bwi	2009	DOG	187	
+120	Baniwa-22_drink-1	Baniwa	22_drink	í/i i r a	bani1255	bwi	1401	DRINK	196	
+121	Baniwa-23_dryn-1	Baniwa	23_dryn	m ee tt á/a t a	bani1255	bwi	1786	DRY UP	209	
+122	Baniwa-24_ear-1	Baniwa	24_ear	h ee n i	bani1255	bwi	1247	EAR	8	
+123	Baniwa-24_ear-2	Baniwa	24_ear	h i n á/a k o l i k o	bani1255	bwi	1247	EAR	217	
+124	Baniwa-25_earth-1	Baniwa	25_earth	h í/i i p a i	bani1255	bwi	1228	EARTH (SOIL)	222	
+125	Baniwa-26_eat-1	Baniwa	26_eat	í/i i ɲ a	bani1255	bwi	1336	EAT	232	
+126	Baniwa-27_egg-1	Baniwa	27_egg	é/e e w h e	bani1255	bwi	744	EGG	246	
+127	Baniwa-28_eye-1	Baniwa	28_eye	tʰ i	bani1255	bwi	1248	EYE	254	
+128	Baniwa-2_all-1	Baniwa	2_all	pʰ á/a ʎ a i	bani1255	bwi	98	ALL	11	
+129	Baniwa-30_fire-1	Baniwa	30_fire	tt í/i dz ee	bani1255	bwi	221	FIRE	272	
+130	Baniwa-31_fishn-1	Baniwa	31_fishn	k ó/o pʰ e	bani1255	bwi	227	FISH	273	
+131	Baniwa-32_flesh-1	Baniwa	32_flesh	í/i i p e	bani1255	bwi	2259	FLESH	288	
+132	Baniwa-33_flyv-1	Baniwa	33_flyv	á/a a r a	bani1255	bwi	1441	FLY (MOVE THROUGH AIR)	297	
+133	Baniwa-34_foot-1	Baniwa	34_foot	h í/i i p a	bani1255	bwi	1301	FOOT	306	
+134	Baniwa-35_full-1	Baniwa	35_full	p á/a kʰ a m e i	bani1255	bwi	1429	FULL	314	
+135	Baniwa-36_give-1	Baniwa	36_give	á/a a	bani1255	bwi	1447	GIVE	326	
+136	Baniwa-37_good-1	Baniwa	37_good	m á/a ts i a	bani1255	bwi	1035	GOOD	330	
+137	Baniwa-38_grease-1	Baniwa	38_grease	í/i i tt i	bani1255	bwi	323	FAT (ORGANIC SUBSTANCE)	345	
+138	Baniwa-39_green-1	Baniwa	39_green	h í/i p o l e	bani1255	bwi	1425	GREEN	349	
+139	Baniwa-3_ash-1	Baniwa	3_ash	w á/a dz o l e	bani1255	bwi	646	ASH	26	
+140	Baniwa-40_hair-1	Baniwa	40_hair	ts í/i k o l e	bani1255	bwi	1040	HAIR	359	
+141	Baniwa-41_hand-1	Baniwa	41_hand	k á/a a p i	bani1255	bwi	1277	HAND	370	
+142	Baniwa-42_head-1	Baniwa	42_head	h i w í/i d a	bani1255	bwi	1256	HEAD	379	
+143	Baniwa-43_hear-1	Baniwa	43_hear	h i m a	bani1255	bwi	1408	HEAR	390	
+144	Baniwa-43_hear-2	Baniwa	43_hear	h i m ee t a	bani1255	bwi	1408	HEAR	390	
+145	Baniwa-44_heart-1	Baniwa	44_heart	k aa l e	bani1255	bwi	1223	HEART	393	
+146	Baniwa-45_horn-1	Baniwa	45_horn	ts ó/o w a	bani1255	bwi	1393	HORN (ANATOMY)	404	
+147	Baniwa-46_hot-1	Baniwa	46_hot	h á/a m o	bani1255	bwi	1286	HOT	416	
+148	Baniwa-47_kill-1	Baniwa	47_kill	í/i i n o a	bani1255	bwi	1417	KILL	426	
+149	Baniwa-48_knee-1	Baniwa	48_knee	h ó/o o rʰ i	bani1255	bwi	1371	KNEE	435	
+150	Baniwa-49_know-1	Baniwa	49_know	á/a a ɲ ee	bani1255	bwi	1410	KNOW (SOMETHING)	443	
+151	Baniwa-4_bark-1	Baniwa	4_bark	y a	bani1255	bwi	1204	BARK	30	
+152	Baniwa-50_leaf-1	Baniwa	50_leaf	p a n a pʰ e	bani1255	bwi	628	LEAF	453	
+153	Baniwa-50_leaf-2	Baniwa	50_leaf	pʰ e	bani1255	bwi	628	LEAF	453	
+154	Baniwa-51_lie-1	Baniwa	51_lie	k u a	bani1255	bwi	215	LIE DOWN	463	
+155	Baniwa-51_lie-2	Baniwa	51_lie	ɻ h u a	bani1255	bwi	215	LIE DOWN	463	
+156	Baniwa-52_liver-1	Baniwa	52_liver	ʃ ó/o p a n a	bani1255	bwi	1224	LIVER	475	
+157	Baniwa-53_long-1	Baniwa	53_long	y á/a p i	bani1255	bwi	1203	LONG	484	
+158	Baniwa-54_louse-1	Baniwa	54_louse	t o w í/i d a	bani1255	bwi	1392	LOUSE	488	
+159	Baniwa-55_manadultmale-1	Baniwa	55_manadultmale	a ts í/i a n l i	bani1255	bwi	1554	MAN	501	
+160	Baniwa-55_manadultmale-2	Baniwa	55_manadultmale	n e w í/i k i	bani1255	bwi	1554	MAN	505	
+161	Baniwa-56_many-1	Baniwa	56_many	h a n í/i p a	bani1255	bwi	1198	MANY	507	
+162	Baniwa-56_many-2	Baniwa	56_many	h ó/o r e	bani1255	bwi	1198	MANY	513	
+163	Baniwa-56_many-3	Baniwa	56_many	m a n ó/o p e	bani1255	bwi	1198	MANY	507	
+164	Baniwa-57_moon-1	Baniwa	57_moon	k é/e e r i	bani1255	bwi	1313	MOON	521	
+165	Baniwa-58_mountain-1	Baniwa	58_mountain	h i dz á/a p a	bani1255	bwi	639	MOUNTAIN	13	
+166	Baniwa-58_mountain-2	Baniwa	58_mountain	h í/i i p a n a	bani1255	bwi	639	MOUNTAIN	537	
+167	Baniwa-59_mouth-1	Baniwa	59_mouth	n ó/o m a	bani1255	bwi	674	MOUTH	546	
+168	Baniwa-5_belly-1	Baniwa	5_belly	ʃ á/a d a	bani1255	bwi	1251	BELLY	48	
+169	Baniwa-60_name-1	Baniwa	60_name	ii p í/i t a n a	bani1255	bwi	1405	NAME	554	
+170	Baniwa-61_neck-1	Baniwa	61_neck	n ó/o o r o	bani1255	bwi	1333	NECK	560	
+171	Baniwa-62_new-1	Baniwa	62_new	é/e e m i	bani1255	bwi	1231	NEW	565	
+172	Baniwa-62_new-2	Baniwa	62_new	w a l i	bani1255	bwi	1231	NEW	572	
+173	Baniwa-62_new-3	Baniwa	62_new	y a p i á/a p a l i	bani1255	bwi	1231	NEW	571	
+174	Baniwa-63_night-1	Baniwa	63_night	d é/e e p i	bani1255	bwi	1233	NIGHT	584	
+175	Baniwa-64_nose-1	Baniwa	64_nose	h i t á/a k o	bani1255	bwi	1221	NOSE	591	
+176	Baniwa-65_not-1	Baniwa	65_not	m a	bani1255	bwi	1240	NOT	593	
+177	Baniwa-65_not-2	Baniwa	65_not	ñ á/a m e	bani1255	bwi	1240	NOT	597	
+178	Baniwa-66_one-1	Baniwa	66_one	a a p a	bani1255	bwi	1493	ONE	613	
+179	Baniwa-67_path-1	Baniwa	67_path	i n í/i p o	bani1255	bwi	2252	PATH	618	
+180	Baniwa-67_path-2	Baniwa	67_path	aa p ó/o w a	bani1255	bwi	2252	PATH	14	
+181	Baniwa-67_path-3	Baniwa	67_path	aa p o w á/a n aa	bani1255	bwi	2252	PATH	14	
+182	Baniwa-68_person-1	Baniwa	68_person	n e w í/i k i	bani1255	bwi	683	PERSON	635	
+183	Baniwa-69_rain-1	Baniwa	69_rain	í/i i dz a	bani1255	bwi	658	RAIN (PRECIPITATION)	643	
+184	Baniwa-6_big-1	Baniwa	6_big	m a k a	bani1255	bwi	1202	BIG	50	
+185	Baniwa-70_red-1	Baniwa	70_red	ii r a i	bani1255	bwi	156	RED	653	
+186	Baniwa-70_red-2	Baniwa	70_red	k é/e e r a m a	bani1255	bwi	156	RED	653	
+187	Baniwa-71_root-1	Baniwa	71_root	p a l i	bani1255	bwi	670	ROOT	661	
+188	Baniwa-72_round-1	Baniwa	72_round	m a dz a k á/a ɲ u	bani1255	bwi	1395	ROUND	668	
+189	Baniwa-73_sand-1	Baniwa	73_sand	k á/a i d a	bani1255	bwi	671	SAND	680	
+190	Baniwa-74_say-1	Baniwa	74_say	k a í/i t e	bani1255	bwi	1458	SAY	690	
+191	Baniwa-75_see-1	Baniwa	75_see	k á/a p a	bani1255	bwi	1409	SEE	695	
+192	Baniwa-76_seed-1	Baniwa	76_seed	é/e e kʰ e	bani1255	bwi	714	SEED	701	
+193	Baniwa-77_sit-1	Baniwa	77_sit	o ó/o w h aa	bani1255	bwi	1416	SIT	710	
+194	Baniwa-78_skin-1	Baniwa	78_skin	y a	bani1255	bwi	763	SKIN	725	
+195	Baniwa-79_sleep-1	Baniwa	79_sleep	í/i m aa	bani1255	bwi	1585	SLEEP	738	
+196	Baniwa-7_bird-1	Baniwa	7_bird	k é/e p i r a	bani1255	bwi	937	BIRD	67	
+197	Baniwa-80_small-1	Baniwa	80_small	ts ú/u u	bani1255	bwi	1246	SMALL	746	
+198	Baniwa-81_smoke-1	Baniwa	81_smoke	í/i i tt a	bani1255	bwi	778	SMOKE (EXHAUST)	755	
+199	Baniwa-82_stand-1	Baniwa	82_stand	é/e e m a	bani1255	bwi	1442	STAND	759	
+200	Baniwa-83_star-1	Baniwa	83_star	h i w í/i rʰ i	bani1255	bwi	1430	STAR	775	
+201	Baniwa-84_stone-1	Baniwa	84_stone	h ii p a d a	bani1255	bwi	857	STONE	777	
+202	Baniwa-85_sun-1	Baniwa	85_sun	k á/a m o i	bani1255	bwi	1343	SUN	784	
+203	Baniwa-86_swim-1	Baniwa	86_swim	aa ʃ aa	bani1255	bwi	1439	SWIM	799	
+204	Baniwa-86_swim-2	Baniwa	86_swim	aa ɲ i	bani1255	bwi	1439	SWIM	798	
+205	Baniwa-87_tail-1	Baniwa	87_tail	ii tt í/i p i	bani1255	bwi	1220	TAIL	809	
+206	Baniwa-88_that-1	Baniwa	88_that	ʎ i e r a h a	bani1255	bwi	78	THAT	826	
+207	Baniwa-89_this-1	Baniwa	89_this	ɪ h í/i e h e	bani1255	bwi	1214	THIS	826	
+208	Baniwa-8_bite-1	Baniwa	8_bite	mʰ o a	bani1255	bwi	1403	BITE	79	
+209	Baniwa-90_thouyou-1	Baniwa	90_thouyou	h í/i a	bani1255	bwi	1215	THOU	21	
+210	Baniwa-90_thouyou-2	Baniwa	90_thouyou	v o c ê/e	bani1255	bwi	1215	THOU	847	
+211	Baniwa-91_tongue-1	Baniwa	91_tongue	ee n e n e	bani1255	bwi	1205	TONGUE	857	
+212	Baniwa-92_tooth-1	Baniwa	92_tooth	ee tsʰ a	bani1255	bwi	1380	TOOTH	862	
+213	Baniwa-92_tooth-2	Baniwa	92_tooth	dz a w i e r e	bani1255	bwi	1380	TOOTH	868	
+214	Baniwa-92_tooth-3	Baniwa	92_tooth	ee	bani1255	bwi	1380	TOOTH	862	
+215	Baniwa-92_tooth-4	Baniwa	92_tooth	k a k o	bani1255	bwi	1380	TOOTH	871	
+216	Baniwa-92_tooth-5	Baniwa	92_tooth	l i k o e	bani1255	bwi	1380	TOOTH	872	
+217	Baniwa-93_treewood-1	Baniwa	93_treewood	h a i k o	bani1255	bwi	906	TREE	879	
+218	Baniwa-94_two-1	Baniwa	94_two	dz a m a	bani1255	bwi	1498	TWO	887	
+219	Baniwa-95_walk-1	Baniwa	95_walk	á/a a ɲ i	bani1255	bwi	1443	WALK	901	
+220	Baniwa-95_walk-2	Baniwa	95_walk	ee m á/a ɲ i	bani1255	bwi	1443	WALK	900	
+221	Baniwa-96_water-1	Baniwa	96_water	ó/o o n i	bani1255	bwi	948	WATER	910	
+222	Baniwa-97_we-1	Baniwa	97_we	w h í/i a	bani1255	bwi	1212	WE	911	
+223	Baniwa-97_we-2	Baniwa	97_we	w a	bani1255	bwi	1212	WE	911	
+224	Baniwa-98_what-1	Baniwa	98_what	k ô/o a k a ʔ	bani1255	bwi	1236	WHAT	948	
+225	Baniwa-99_white-1	Baniwa	99_white	h á/a l e	bani1255	bwi	1335	WHITE	943	
+226	Baniwa-99_white-2	Baniwa	99_white	y a l a n a w i	bani1255	bwi	1335	WHITE	944	
+227	Baniwa-9_black-1	Baniwa	9_black	í/i i tt a	bani1255	bwi	163	BLACK	86	
+228	Kabiyari-100_who-1	Kabiyari	100_who	m i kʰ a	cabi1241	cbb	1235	WHO	950	
+229	Kabiyari-100_who-2	Kabiyari	100_who	a rʰ i	cabi1241	cbb	1235	WHO	960	
+230	Kabiyari-100_who-3	Kabiyari	100_who	u mʰ a	cabi1241	cbb	1235	WHO	959	
+231	Kabiyari-101_woman-1	Kabiyari	101_woman	n a n á/a w í/i	cabi1241	cbb	962	WOMAN	23	
+232	Kabiyari-102_yellow-1	Kabiyari	102_yellow	k a r a w a r i	cabi1241	cbb	1424	YELLOW	981	
+233	Kabiyari-10_blood-1	Kabiyari	10_blood	í/i ʔ i r a	cabi1241	cbb	946	BLOOD	97	
+234	Kabiyari-11_bone-1	Kabiyari	11_bone	j a p i	cabi1241	cbb	1394	BONE	108	
+235	Kabiyari-13_breast2-1	Kabiyari	13_breast2	j i	cabi1241	cbb	1402	BREAST	117	
+236	Kabiyari-13_breast2-2	Kabiyari	13_breast2	u kʰ u t a	cabi1241	cbb	1402	BREAST	120	
+237	Kabiyari-15_burn2-1	Kabiyari	15_burn2	k a h e m a	cabi1241	cbb	2102	BURN	130	
+238	Kabiyari-15_burn2-2	Kabiyari	15_burn2	h ee m a	cabi1241	cbb	2102	BURN	130	
+239	Kabiyari-16_claw-1	Kabiyari	16_claw	u ʔ u p a	cabi1241	cbb	72	CLAW	138	
+240	Kabiyari-18_cold-1	Kabiyari	18_cold	p e ʔ e	cabi1241	cbb	1287	COLD	165	
+241	Kabiyari-19_come-1	Kabiyari	19_come	m i r a a n i	cabi1241	cbb	1446	COME	7	
+242	Kabiyari-19_come-2	Kabiyari	19_come	a n aa	cabi1241	cbb	1446	COME	169	
+243	Kabiyari-1_i-1	Kabiyari	1_i	ɲ ú/u	cabi1241	cbb	1209	I	1	
+244	Kabiyari-1_i-2	Kabiyari	1_i	n u	cabi1241	cbb	1209	I	1	
+245	Kabiyari-20_die-1	Kabiyari	20_die	m i k uu	cabi1241	cbb	1494	DIE	180	
+246	Kabiyari-21_dog-1	Kabiyari	21_dog	t ʃ aa w i	cabi1241	cbb	2009	DOG	189	
+247	Kabiyari-22_drink-1	Kabiyari	22_drink	i r á/a	cabi1241	cbb	1401	DRINK	196	
+248	Kabiyari-23_dryn-1	Kabiyari	23_dryn	i w á/a	cabi1241	cbb	1786	DRY UP	205	
+249	Kabiyari-24_ear-1	Kabiyari	24_ear	u ʔ u w i	cabi1241	cbb	1247	EAR	219	
+250	Kabiyari-25_earth-1	Kabiyari	25_earth	t a ʔ k a a r i	cabi1241	cbb	1228	EARTH (SOIL)	228	
+251	Kabiyari-26_eat-1	Kabiyari	26_eat	tʃʰ a	cabi1241	cbb	1336	EAT	232	
+252	Kabiyari-27_egg-1	Kabiyari	27_egg	é/e e w h é/e	cabi1241	cbb	744	EGG	246	
+253	Kabiyari-28_eye-1	Kabiyari	28_eye	tʰ u	cabi1241	cbb	1248	EYE	254	
+254	Kabiyari-29_feather-1	Kabiyari	29_feather	a p á/a n a	cabi1241	cbb	1201	FEATHER	256	
+255	Kabiyari-2_all-1	Kabiyari	2_all	p u t ʔ i	cabi1241	cbb	98	ALL	17	
+256	Kabiyari-30_fire-1	Kabiyari	30_fire	k i r a ʔ a r i	cabi1241	cbb	221	FIRE	272	
+257	Kabiyari-31_fishn-1	Kabiyari	31_fishn	ʔ u lː e	cabi1241	cbb	227	FISH	276	
+258	Kabiyari-32_flesh-1	Kabiyari	32_flesh	ʔ ii	cabi1241	cbb	2259	FLESH	288	
+259	Kabiyari-33_flyv-1	Kabiyari	33_flyv	á/a a r a	cabi1241	cbb	1441	FLY (MOVE THROUGH AIR)	297	
+260	Kabiyari-34_foot-1	Kabiyari	34_foot	h í/i i p a	cabi1241	cbb	1301	FOOT	306	
+261	Kabiyari-35_full-1	Kabiyari	35_full	m a n u ʔ	cabi1241	cbb	1429	FULL	316	
+262	Kabiyari-35_full-2	Kabiyari	35_full	m i y a n a	cabi1241	cbb	1429	FULL	12	
+263	Kabiyari-36_give-1	Kabiyari	36_give	aa	cabi1241	cbb	1447	GIVE	326	
+264	Kabiyari-37_good-1	Kabiyari	37_good	tʃ u n i k a	cabi1241	cbb	1035	GOOD	332	
+265	Kabiyari-38_grease-1	Kabiyari	38_grease	í/i ʔ i t̪ i	cabi1241	cbb	323	FAT (ORGANIC SUBSTANCE)	345	
+266	Kabiyari-39_green-1	Kabiyari	39_green	p u r é/e	cabi1241	cbb	1425	GREEN	349	
+267	Kabiyari-3_ash-1	Kabiyari	3_ash	p a ʔ a r i	cabi1241	cbb	646	ASH	27	
+268	Kabiyari-40_hair-1	Kabiyari	40_hair	tʃ u n a	cabi1241	cbb	1040	HAIR	359	
+269	Kabiyari-41_hand-1	Kabiyari	41_hand	k aa p i	cabi1241	cbb	1277	HAND	370	
+270	Kabiyari-42_head-1	Kabiyari	42_head	h i w í/i t a	cabi1241	cbb	1256	HEAD	379	
+271	Kabiyari-43_hear-1	Kabiyari	43_hear	h e m e	cabi1241	cbb	1408	HEAR	390	
+272	Kabiyari-44_heart-1	Kabiyari	44_heart	k a r e t a	cabi1241	cbb	1223	HEART	393	
+273	Kabiyari-45_horn-1	Kabiyari	45_horn	n u i r e	cabi1241	cbb	1393	HORN (ANATOMY)	408	
+274	Kabiyari-46_hot-1	Kabiyari	46_hot	m u ʔ ú/u	cabi1241	cbb	1286	HOT	416	
+275	Kabiyari-47_kill-1	Kabiyari	47_kill	n u a	cabi1241	cbb	1417	KILL	426	
+276	Kabiyari-48_knee-1	Kabiyari	48_knee	u rʰ u n a	cabi1241	cbb	1371	KNEE	435	
+277	Kabiyari-48_knee-2	Kabiyari	48_knee	h u r u	cabi1241	cbb	1371	KNEE	435	
+278	Kabiyari-49_know-1	Kabiyari	49_know	a r a ɲ ú/u	cabi1241	cbb	1410	KNOW (SOMETHING)	443	
+279	Kabiyari-50_leaf-1	Kabiyari	50_leaf	a p a n a	cabi1241	cbb	628	LEAF	453	
+280	Kabiyari-51_lie-1	Kabiyari	51_lie	k u ʔ a p u	cabi1241	cbb	215	LIE DOWN	463	
+281	Kabiyari-51_lie-2	Kabiyari	51_lie	h u a p u k u	cabi1241	cbb	215	LIE DOWN	463	
+282	Kabiyari-52_liver-1	Kabiyari	52_liver	ú/u u p a n a	cabi1241	cbb	1224	LIVER	475	
+283	Kabiyari-53_long-1	Kabiyari	53_long	w i a	cabi1241	cbb	1203	LONG	486	
+284	Kabiyari-54_louse-1	Kabiyari	54_louse	n i í/i	cabi1241	cbb	1392	LOUSE	488	
+285	Kabiyari-55_manadultmale-1	Kabiyari	55_manadultmale	t̪ i j á/a r i	cabi1241	cbb	1554	MAN	501	
+286	Kabiyari-56_many-1	Kabiyari	56_many	m uu r a	cabi1241	cbb	1198	MANY	509	
+287	Kabiyari-57_moon-1	Kabiyari	57_moon	k é/e e r i	cabi1241	cbb	1313	MOON	521	
+288	Kabiyari-58_mountain-1	Kabiyari	58_mountain	m a r e n a	cabi1241	cbb	639	MOUNTAIN	531	
+289	Kabiyari-58_mountain-2	Kabiyari	58_mountain	t a k a r i	cabi1241	cbb	639	MOUNTAIN	538	
+290	Kabiyari-59_mouth-1	Kabiyari	59_mouth	n u m a	cabi1241	cbb	674	MOUTH	546	
+291	Kabiyari-5_belly-1	Kabiyari	5_belly	t e r e	cabi1241	cbb	1251	BELLY	46	
+292	Kabiyari-60_name-1	Kabiyari	60_name	íí/iː	cabi1241	cbb	1405	NAME	554	
+293	Kabiyari-61_neck-1	Kabiyari	61_neck	k a ɲ a p i	cabi1241	cbb	1333	NECK	558	
+294	Kabiyari-62_new-1	Kabiyari	62_new	w á/a r i t̪ é/e	cabi1241	cbb	1231	NEW	572	
+295	Kabiyari-63_night-1	Kabiyari	63_night	n é/e á/a p i	cabi1241	cbb	1233	NIGHT	584	
+296	Kabiyari-64_nose-1	Kabiyari	64_nose	h i t á/a k ú/u	cabi1241	cbb	1221	NOSE	591	
+297	Kabiyari-65_not-1	Kabiyari	65_not	u k a	cabi1241	cbb	1240	NOT	601	
+298	Kabiyari-66_one-1	Kabiyari	66_one	p a p u	cabi1241	cbb	1493	ONE	613	
+299	Kabiyari-67_path-1	Kabiyari	67_path	a p ú/u h á/a	cabi1241	cbb	2252	PATH	14	
+300	Kabiyari-67_path-2	Kabiyari	67_path	j ó/o o p u	cabi1241	cbb	2252	PATH	14	
+301	Kabiyari-67_path-3	Kabiyari	67_path	a j á/a p ú/u	cabi1241	cbb	2252	PATH	14	
+302	Kabiyari-68_person-1	Kabiyari	68_person	n é/e k i ɾ i	cabi1241	cbb	683	PERSON	635	
+303	Kabiyari-69_rain-1	Kabiyari	69_rain	p e ʔ e kʰ e	cabi1241	cbb	658	RAIN (PRECIPITATION)	640	
+304	Kabiyari-69_rain-2	Kabiyari	69_rain	p e h e	cabi1241	cbb	658	RAIN (PRECIPITATION)	640	
+305	Kabiyari-6_big-1	Kabiyari	6_big	m a n u ʔ ú/u	cabi1241	cbb	1202	BIG	58	
+306	Kabiyari-70_red-1	Kabiyari	70_red	k í/i i r a	cabi1241	cbb	156	RED	653	
+307	Kabiyari-71_root-1	Kabiyari	71_root	a p á/a r e	cabi1241	cbb	670	ROOT	661	
+308	Kabiyari-72_round-1	Kabiyari	72_round	p a β uu d ú/u	cabi1241	cbb	1395	ROUND	667	
+309	Kabiyari-73_sand-1	Kabiyari	73_sand	k á/a ʔ a	cabi1241	cbb	671	SAND	680	
+310	Kabiyari-74_say-1	Kabiyari	74_say	í/i m a	cabi1241	cbb	1458	SAY	689	
+311	Kabiyari-75_see-1	Kabiyari	75_see	i kʰ á/a	cabi1241	cbb	1409	SEE	695	
+312	Kabiyari-76_seed-1	Kabiyari	76_seed	k a + k a k i t j i h e	cabi1241	cbb	714	SEED	707	
+313	Kabiyari-77_sit-1	Kabiyari	77_sit	t u ʔ n a	cabi1241	cbb	1416	SIT	714	
+314	Kabiyari-78_skin-1	Kabiyari	78_skin	í/i ʔ a m i	cabi1241	cbb	763	SKIN	728	
+315	Kabiyari-79_sleep-1	Kabiyari	79_sleep	i m á/a a	cabi1241	cbb	1585	SLEEP	738	
+316	Kabiyari-7_bird-1	Kabiyari	7_bird	ʔ u p i r a	cabi1241	cbb	937	BIRD	67	
+317	Kabiyari-7_bird-2	Kabiyari	7_bird	k u ʔ p i r a	cabi1241	cbb	937	BIRD	67	
+318	Kabiyari-80_small-1	Kabiyari	80_small	k a r i tʃʰ ũ ĩ	cabi1241	cbb	1246	SMALL	746	
+319	Kabiyari-81_smoke-1	Kabiyari	81_smoke	í/i t̪ a r i	cabi1241	cbb	778	SMOKE (EXHAUST)	755	
+320	Kabiyari-82_stand-1	Kabiyari	82_stand	p a tʃʰ a	cabi1241	cbb	1442	STAND	761	
+321	Kabiyari-83_star-1	Kabiyari	83_star	w i r í/i ɲ u	cabi1241	cbb	1430	STAR	775	
+322	Kabiyari-84_stone-1	Kabiyari	84_stone	h í/i i p a	cabi1241	cbb	857	STONE	777	
+323	Kabiyari-85_sun-1	Kabiyari	85_sun	a b e	cabi1241	cbb	1343	SUN	786	
+324	Kabiyari-85_sun-2	Kabiyari	85_sun	e r i	cabi1241	cbb	1343	SUN	789	
+325	Kabiyari-86_swim-1	Kabiyari	86_swim	a w á/a p a	cabi1241	cbb	1439	SWIM	799	
+326	Kabiyari-87_tail-1	Kabiyari	87_tail	t̪ i p i	cabi1241	cbb	1220	TAIL	809	
+327	Kabiyari-87_tail-2	Kabiyari	87_tail	m uu k u	cabi1241	cbb	1220	TAIL	811	
+328	Kabiyari-88_that-1	Kabiyari	88_that	j a t a	cabi1241	cbb	78	THAT	826	
+329	Kabiyari-88_that-2	Kabiyari	88_that	j a r a	cabi1241	cbb	78	THAT	826	
+330	Kabiyari-89_this-1	Kabiyari	89_this	d o ʔ ó/o	cabi1241	cbb	1214	THIS	835	
+331	Kabiyari-8_bite-1	Kabiyari	8_bite	a mʰ e	cabi1241	cbb	1403	BITE	79	
+332	Kabiyari-90_thouyou-1	Kabiyari	90_thouyou	pʰ é/e	cabi1241	cbb	1215	THOU	21	
+333	Kabiyari-90_thouyou-2	Kabiyari	90_thouyou	p i	cabi1241	cbb	1215	THOU	21	
+334	Kabiyari-91_tongue-1	Kabiyari	91_tongue	n e n i p á/a	cabi1241	cbb	1205	TONGUE	857	
+335	Kabiyari-92_tooth-1	Kabiyari	92_tooth	ʔ í/i a	cabi1241	cbb	1380	TOOTH	862	
+336	Kabiyari-93_treewood-1	Kabiyari	93_treewood	ʔ a h aa	cabi1241	cbb	906	TREE	881	
+337	Kabiyari-94_two-1	Kabiyari	94_two	tʃ u m aa	cabi1241	cbb	1498	TWO	887	
+338	Kabiyari-95_walk-1	Kabiyari	95_walk	aa	cabi1241	cbb	1443	WALK	901	
+339	Kabiyari-96_water-1	Kabiyari	96_water	ú/u u n i	cabi1241	cbb	948	WATER	910	
+340	Kabiyari-97_we-1	Kabiyari	97_we	w h é/e	cabi1241	cbb	1212	WE	911	
+341	Kabiyari-97_we-2	Kabiyari	97_we	w a	cabi1241	cbb	1212	WE	911	
+342	Kabiyari-98_what-1	Kabiyari	98_what	m i kʰ a	cabi1241	cbb	1236	WHAT	950	
+343	Kabiyari-98_what-2	Kabiyari	98_what	a rʰ i	cabi1241	cbb	1236	WHAT	960	
+344	Kabiyari-98_what-3	Kabiyari	98_what	u mʰ a	cabi1241	cbb	1236	WHAT	959	
+345	Kabiyari-99_white-1	Kabiyari	99_white	k a t a r e: i r i	cabi1241	cbb	1335	WHITE	939	
+346	Kabiyari-99_white-2	Kabiyari	99_white	j a r a n e	cabi1241	cbb	1335	WHITE	944	
+347	Kabiyari-9_black-1	Kabiyari	9_black	k e w e r e r i	cabi1241	cbb	163	BLACK	88	
+348	Piapoco-100_who-1	Piapoco	100_who	k à/a i n á/a	piap1246	pio	1235	WHO	947	
+349	Piapoco-100_who-2	Piapoco	100_who	k a w i n á/a	piap1246	pio	1235	WHO	947	
+350	Piapoco-101_woman-1	Piapoco	101_woman	i n a n á/a i	piap1246	pio	962	WOMAN	968	
+351	Piapoco-102_yellow-1	Piapoco	102_yellow	é/e e w a	piap1246	pio	1424	YELLOW	981	
+352	Piapoco-102_yellow-2	Piapoco	102_yellow	é:/eː w é:/eː ɾ i	piap1246	pio	1424	YELLOW	981	
+353	Piapoco-10_blood-1	Piapoco	10_blood	i ɾ á/a i	piap1246	pio	946	BLOOD	97	
+354	Piapoco-11_bone-1	Piapoco	11_bone	a p i	piap1246	pio	1394	BONE	108	
+355	Piapoco-12_breast1-1	Piapoco	12_breast1	ì/i n i	piap1246	pio	1402	BREAST	117	
+356	Piapoco-13_breast2-1	Piapoco	13_breast2	u k u t a	piap1246	pio	1402	BREAST	120	
+357	Piapoco-15_burn2-1	Piapoco	15_burn2	e m á/a k a	piap1246	pio	2102	BURN	130	
+358	Piapoco-16_claw-1	Piapoco	16_claw	y ú/u u b a	piap1246	pio	72	CLAW	138	
+359	Piapoco-16_claw-2	Piapoco	16_claw	u b a	piap1246	pio	72	CLAW	138	
+360	Piapoco-17_cloud-1	Piapoco	17_cloud	a k a l è/e e	piap1246	pio	1489	CLOUD	150	
+361	Piapoco-18_cold-1	Piapoco	18_cold	k a s a l í/i n í:/iː ɾ i	piap1246	pio	1287	COLD	153	
+362	Piapoco-19_come-1	Piapoco	19_come	n ù/u a k a w a + n é/e e s e	piap1246	pio	1446	COME	169	
+363	Piapoco-1_i-1	Piapoco	1_i	n ú/u a	piap1246	pio	1209	I	1	
+364	Piapoco-20_die-1	Piapoco	20_die	é/e t á/a k a w a	piap1246	pio	1494	DIE	185	
+365	Piapoco-21_dog-1	Piapoco	21_dog	j à/a l i d u	piap1246	pio	2009	DOG	190	
+366	Piapoco-22_drink-1	Piapoco	22_drink	ì/i ɾ a k a	piap1246	pio	1401	DRINK	196	
+367	Piapoco-23_dryn-1	Piapoco	23_dryn	tʃ u ì/i ɾ i	piap1246	pio	1786	DRY UP	206	
+368	Piapoco-24_ear-1	Piapoco	24_ear	u w i	piap1246	pio	1247	EAR	219	
+369	Piapoco-25_earth-1	Piapoco	25_earth	k á/a l i	piap1246	pio	1228	EARTH (SOIL)	228	
+370	Piapoco-26_eat-1	Piapoco	26_eat	j á:/aː k a	piap1246	pio	1336	EAT	232	
+371	Piapoco-27_egg-1	Piapoco	27_egg	j éː/eː w é/e s i	piap1246	pio	744	EGG	246	
+372	Piapoco-28_eye-1	Piapoco	28_eye	t u í/i	piap1246	pio	1248	EYE	254	
+373	Piapoco-29_feather-1	Piapoco	29_feather	b á/a i k a	piap1246	pio	1201	FEATHER	257	
+374	Piapoco-2_all-1	Piapoco	2_all	k a n á/a n a m a	piap1246	pio	98	ALL	9	
+375	Piapoco-2_all-2	Piapoco	2_all	m a k á/a i t a	piap1246	pio	98	ALL	18	
+376	Piapoco-30_fire-1	Piapoco	30_fire	k i tʃ á/a i	piap1246	pio	221	FIRE	272	
+377	Piapoco-30_fire-2	Piapoco	30_fire	s í/i j á/a i	piap1246	pio	221	FIRE	272	
+378	Piapoco-31_fishn-1	Piapoco	31_fishn	k u b á/a i	piap1246	pio	227	FISH	273	
+379	Piapoco-32_flesh-1	Piapoco	32_flesh	ii n á/a s i	piap1246	pio	2259	FLESH	281	
+380	Piapoco-33_flyv-1	Piapoco	33_flyv	j á/a l a k a w a	piap1246	pio	1441	FLY (MOVE THROUGH AIR)	297	
+381	Piapoco-34_foot-1	Piapoco	34_foot	a b à/a l i	piap1246	pio	1301	FOOT	306	
+382	Piapoco-37_good-1	Piapoco	37_good	k a j á/a b é:/eː ɾ i	piap1246	pio	1035	GOOD	333	
+383	Piapoco-38_grease-1	Piapoco	38_grease	i s é:/eː n á/a	piap1246	pio	323	FAT (ORGANIC SUBSTANCE)	345	
+384	Piapoco-39_green-1	Piapoco	39_green	i p ù/u l é:/eː ɾ i	piap1246	pio	1425	GREEN	349	
+385	Piapoco-3_ash-1	Piapoco	3_ash	b a l ì/i i	piap1246	pio	646	ASH	27	
+386	Piapoco-3_ash-2	Piapoco	3_ash	i b a l ì/i i n á/a	piap1246	pio	646	ASH	27	
+387	Piapoco-40_hair-1	Piapoco	40_hair	i tʃ ù/u n a	piap1246	pio	1040	HAIR	359	
+388	Piapoco-41_hand-1	Piapoco	41_hand	k á:/aː p i	piap1246	pio	1277	HAND	370	
+389	Piapoco-42_head-1	Piapoco	42_head	n u i w i t a	piap1246	pio	1256	HEAD	379	
+390	Piapoco-43_hear-1	Piapoco	43_hear	é/e m ì/i a k a	piap1246	pio	1408	HEAR	390	
+391	Piapoco-44_heart-1	Piapoco	44_heart	n u w à/a w a	piap1246	pio	1223	HEART	400	
+392	Piapoco-44_heart-2	Piapoco	44_heart	í:/iː ɾ i k u	piap1246	pio	1223	HEART	393	
+393	Piapoco-46_hot-1	Piapoco	46_hot	ù/u u l é:/eː ɾ i	piap1246	pio	1286	HOT	413	
+394	Piapoco-47_kill-1	Piapoco	47_kill	é/e t á/a i d a k a	piap1246	pio	1417	KILL	422	
+395	Piapoco-47_kill-2	Piapoco	47_kill	n u á/a k a	piap1246	pio	1417	KILL	426	
+396	Piapoco-49_know-1	Piapoco	49_know	a l í/i a k a w a	piap1246	pio	1410	KNOW (SOMETHING)	444	
+397	Piapoco-50_leaf-1	Piapoco	50_leaf	i b á/a i n á/a	piap1246	pio	628	LEAF	453	
+398	Piapoco-52_liver-1	Piapoco	52_liver	u b a n a	piap1246	pio	1224	LIVER	475	
+399	Piapoco-53_long-1	Piapoco	53_long	k á/a a l é/e e r i	piap1246	pio	1203	LONG	484	
+400	Piapoco-54_louse-1	Piapoco	54_louse	k ù/u l i b à/a u	piap1246	pio	1392	LOUSE	491	
+401	Piapoco-56_many-1	Piapoco	56_many	k á/a n a n a m a	piap1246	pio	1198	MANY	510	
+402	Piapoco-56_many-2	Piapoco	56_many	m a n u b a	piap1246	pio	1198	MANY	507	
+403	Piapoco-56_many-3	Piapoco	56_many	m a i n i	piap1246	pio	1198	MANY	520	
+404	Piapoco-57_moon-1	Piapoco	57_moon	k é:/eː ɾ i	piap1246	pio	1313	MOON	521	
+405	Piapoco-58_mountain-1	Piapoco	58_mountain	d ú/u l i	piap1246	pio	639	MOUNTAIN	536	
+406	Piapoco-59_mouth-1	Piapoco	59_mouth	n ù/u m a	piap1246	pio	674	MOUTH	546	
+407	Piapoco-5_belly-1	Piapoco	5_belly	d è/e e	piap1246	pio	1251	BELLY	46	
+408	Piapoco-60_name-1	Piapoco	60_name	í/i p i d e n á/a	piap1246	pio	1405	NAME	554	
+409	Piapoco-61_neck-1	Piapoco	61_neck	k a n á/a p i	piap1246	pio	1333	NECK	558	
+410	Piapoco-62_new-1	Piapoco	62_new	w à/a l i s à/a i r i	piap1246	pio	1231	NEW	572	
+411	Piapoco-63_night-1	Piapoco	63_night	k a t á/a	piap1246	pio	1233	NIGHT	580	
+412	Piapoco-64_nose-1	Piapoco	64_nose	í/i d a k u	piap1246	pio	1221	NOSE	591	
+413	Piapoco-65_not-1	Piapoco	65_not	k à/a m i t a	piap1246	pio	1240	NOT	597	
+414	Piapoco-66_one-1	Piapoco	66_one	a b ì/i	piap1246	pio	1493	ONE	613	
+415	Piapoco-66_one-2	Piapoco	66_one	a b e	piap1246	pio	1493	ONE	613	
+416	Piapoco-67_path-1	Piapoco	67_path	à/a j a p u	piap1246	pio	2252	PATH	14	
+417	Piapoco-68_person-1	Piapoco	68_person	w e n à/a i w i k a	piap1246	pio	683	PERSON	635	
+418	Piapoco-69_rain-1	Piapoco	69_rain	u n í/i a	piap1246	pio	658	RAIN (PRECIPITATION)	644	
+419	Piapoco-6_big-1	Piapoco	6_big	m a n u í/i ɾ i	piap1246	pio	1202	BIG	58	
+420	Piapoco-70_red-1	Piapoco	70_red	k í:/iː ɾ a k a	piap1246	pio	156	RED	653	
+421	Piapoco-71_root-1	Piapoco	71_root	i p ì/i tʃ u	piap1246	pio	670	ROOT	661	
+422	Piapoco-73_sand-1	Piapoco	73_sand	k a i n a	piap1246	pio	671	SAND	680	
+423	Piapoco-74_say-1	Piapoco	74_say	í/i m a	piap1246	pio	1458	SAY	689	
+424	Piapoco-75_see-1	Piapoco	75_see	i k á/a k a	piap1246	pio	1409	SEE	695	
+425	Piapoco-77_sit-1	Piapoco	77_sit	a w i n a k a w a	piap1246	pio	1416	SIT	710	
+426	Piapoco-78_skin-1	Piapoco	78_skin	í/i m a m i	piap1246	pio	763	SKIN	728	
+427	Piapoco-79_sleep-1	Piapoco	79_sleep	i m á/a k a	piap1246	pio	1585	SLEEP	738	
+428	Piapoco-7_bird-1	Piapoco	7_bird	m à/a s i b è/e e	piap1246	pio	937	BIRD	66	
+429	Piapoco-7_bird-2	Piapoco	7_bird	k u ì/i p ì/i r a	piap1246	pio	937	BIRD	67	
+430	Piapoco-80_small-1	Piapoco	80_small	a tʃ ú/u m é:/eː ɾ i	piap1246	pio	1246	SMALL	746	
+431	Piapoco-82_stand-1	Piapoco	82_stand	b à/a l ù/u a n í/i c a w a	piap1246	pio	1442	STAND	762	
+432	Piapoco-83_star-1	Piapoco	83_star	d ù/u l u p ù/u t a	piap1246	pio	1430	STAR	772	
+433	Piapoco-84_stone-1	Piapoco	84_stone	í/i b a	piap1246	pio	857	STONE	777	
+434	Piapoco-85_sun-1	Piapoco	85_sun	è/e e r i	piap1246	pio	1343	SUN	789	
+435	Piapoco-86_swim-1	Piapoco	86_swim	m à/a l a k a w a	piap1246	pio	1439	SWIM	795	
+436	Piapoco-87_tail-1	Piapoco	87_tail	j à/a a p u s à/a i	piap1246	pio	1220	TAIL	806	
+437	Piapoco-88_that-1	Piapoco	88_that	j á:/aː ɾ a	piap1246	pio	78	THAT	826	
+438	Piapoco-89_this-1	Piapoco	89_this	j á/a i	piap1246	pio	1214	THIS	20	
+439	Piapoco-89_this-2	Piapoco	89_this	ú/u á/a i	piap1246	pio	1214	THIS	835	
+440	Piapoco-8_bite-1	Piapoco	8_bite	i tʃ i k ú/u a d a k a	piap1246	pio	1403	BITE	75	
+441	Piapoco-8_bite-2	Piapoco	8_bite	i m a s á/a a k a	piap1246	pio	1403	BITE	79	
+442	Piapoco-8_bite-3	Piapoco	8_bite	n u a m í/i a d a k a	piap1246	pio	1403	BITE	79	
+443	Piapoco-8_bite-4	Piapoco	8_bite	j aa m í/i a k a	piap1246	pio	1403	BITE	79	
+444	Piapoco-8_bite-5	Piapoco	8_bite	j ú/u u k a k a	piap1246	pio	1403	BITE	83	
+445	Piapoco-90_thouyou-1	Piapoco	90_thouyou	p í/i a	piap1246	pio	1215	THOU	21	
+446	Piapoco-91_tongue-1	Piapoco	91_tongue	n è/e n e	piap1246	pio	1205	TONGUE	857	
+447	Piapoco-92_tooth-1	Piapoco	92_tooth	j è/e i	piap1246	pio	1380	TOOTH	862	
+448	Piapoco-93_treewood-1	Piapoco	93_treewood	j é/e e t a n á/a	piap1246	pio	906	TREE	877	
+449	Piapoco-93_treewood-2	Piapoco	93_treewood	à/a i k u	piap1246	pio	906	TREE	879	
+450	Piapoco-94_two-1	Piapoco	94_two	p u tʃ á/a i b a	piap1246	pio	1498	TWO	889	
+451	Piapoco-95_walk-1	Piapoco	95_walk	n u è/e p u n í/i k a w a	piap1246	pio	1443	WALK	898	
+452	Piapoco-96_water-1	Piapoco	96_water	ú/u u n i	piap1246	pio	948	WATER	910	
+453	Piapoco-97_we-1	Piapoco	97_we	w í/i a	piap1246	pio	1212	WE	911	
+454	Piapoco-98_what-1	Piapoco	98_what	k à/a i n á/a	piap1246	pio	1236	WHAT	947	
+455	Piapoco-98_what-2	Piapoco	98_what	k a w i n á/a	piap1246	pio	1236	WHAT	947	
+456	Piapoco-99_white-1	Piapoco	99_white	k a b a l è/e e ɾ i	piap1246	pio	1335	WHITE	943	
+457	Piapoco-9_black-1	Piapoco	9_black	k ú:/uː l í:/iː ɾ i	piap1246	pio	163	BLACK	88	
+458	Resigaro-100_who-1	Resigaro	100_who	k é/e e n í/i	resi1247	rgr	1235	WHO	947	
+459	Resigaro-101_woman-1	Resigaro	101_woman	i n á/a a d ó/o	resi1247	rgr	962	WOMAN	968	
+460	Resigaro-102_yellow-1	Resigaro	102_yellow	d o g í/i i g a ʔ é/e ʔ	resi1247	rgr	1424	YELLOW	976	
+461	Resigaro-10_blood-1	Resigaro	10_blood	ii d ú/u	resi1247	rgr	946	BLOOD	97	
+462	Resigaro-11_bone-1	Resigaro	11_bone	a á/a p í/i	resi1247	rgr	1394	BONE	108	
+463	Resigaro-13_breast2-1	Resigaro	13_breast2	ó/o ʔ k ó/o t á/a a p í/i g ú/u	resi1247	rgr	1402	BREAST	120	
+464	Resigaro-15_burn2-1	Resigaro	15_burn2	h oo kʰ ú/u	resi1247	rgr	2102	BURN	129	
+465	Resigaro-16_claw-1	Resigaro	16_claw	h i ʔ t á/a v í/i	resi1247	rgr	72	CLAW	140	
+466	Resigaro-17_cloud-1	Resigaro	17_cloud	i í/i tsʰ ú/u	resi1247	rgr	1489	CLOUD	152	
+467	Resigaro-18_cold-1	Resigaro	18_cold	h i ʔ p íí/iː ʔ	resi1247	rgr	1287	COLD	165	
+468	Resigaro-18_cold-2	Resigaro	18_cold	t aa	resi1247	rgr	1287	COLD	5	
+469	Resigaro-19_come-1	Resigaro	19_come	ts a ʔ n ú/u	resi1247	rgr	1446	COME	169	
+470	Resigaro-1_i-1	Resigaro	1_i	ó/o	resi1247	rgr	1209	I	6	
+471	Resigaro-20_die-1	Resigaro	20_die	k a i n é/e e + dʒ ú/u	resi1247	rgr	1494	DIE	182	
+472	Resigaro-21_dog-1	Resigaro	21_dog	í/i i n í/i	resi1247	rgr	2009	DOG	187	
+473	Resigaro-22_drink-1	Resigaro	22_drink	i ʔ d ú/u	resi1247	rgr	1401	DRINK	196	
+474	Resigaro-23_dryn-1	Resigaro	23_dryn	m a k á/a d ú/u	resi1247	rgr	1786	DRY UP	210	
+475	Resigaro-24_ear-1	Resigaro	24_ear	h e n á/a k ó/o	resi1247	rgr	1247	EAR	217	
+476	Resigaro-25_earth-1	Resigaro	25_earth	h i h i	resi1247	rgr	1228	EARTH (SOIL)	226	
+477	Resigaro-26_eat-1	Resigaro	26_eat	a ʔ m i t ú/u	resi1247	rgr	1336	EAT	235	
+478	Resigaro-27_egg-1	Resigaro	27_egg	e é/e v é/e ú/u	resi1247	rgr	744	EGG	246	
+479	Resigaro-28_eye-1	Resigaro	28_eye	i h l u h í/i	resi1247	rgr	1248	EYE	254	
+480	Resigaro-29_feather-1	Resigaro	29_feather	ts í/i i n á/a h í/i	resi1247	rgr	1201	FEATHER	10	
+481	Resigaro-2_all-1	Resigaro	2_all	pʰ é/e ʔ t ó/o ʔ	resi1247	rgr	98	ALL	17	
+482	Resigaro-30_fire-1	Resigaro	30_fire	o ʔ k o n á/a ʔ	resi1247	rgr	221	FIRE	267	
+483	Resigaro-31_fishn-1	Resigaro	31_fishn	á/a m oo g í/i	resi1247	rgr	227	FISH	278	
+484	Resigaro-32_flesh-1	Resigaro	32_flesh	g í/i ʔ í/i	resi1247	rgr	2259	FLESH	288	
+485	Resigaro-33_flyv-1	Resigaro	33_flyv	a d ú/u	resi1247	rgr	1441	FLY (MOVE THROUGH AIR)	297	
+486	Resigaro-34_foot-1	Resigaro	34_foot	h ii ʔ p ú/u	resi1247	rgr	1301	FOOT	306	
+487	Resigaro-35_full-1	Resigaro	35_full	p o tsʰ í/i ʔ m ó/o	resi1247	rgr	1429	FULL	314	
+488	Resigaro-36_give-1	Resigaro	36_give	aa ʔ n í/i	resi1247	rgr	1447	GIVE	326	
+489	Resigaro-37_good-1	Resigaro	37_good	k a ʃ ó/o ʔ	resi1247	rgr	1035	GOOD	334	
+490	Resigaro-38_grease-1	Resigaro	38_grease	pʰ e d ee ʔ k á/a t a s í/i	resi1247	rgr	323	FAT (ORGANIC SUBSTANCE)	343	
+491	Resigaro-39_green-1	Resigaro	39_green	i p o g í/i ʔ	resi1247	rgr	1425	GREEN	349	
+492	Resigaro-3_ash-1	Resigaro	3_ash	ó/o k ó/o n ii g i ʒ í/i h ú/u	resi1247	rgr	646	ASH	25	
+493	Resigaro-40_hair-1	Resigaro	40_hair	h í/i v e ʔ á/a dʒ ii ʔ ó/o	resi1247	rgr	1040	HAIR	358	
+494	Resigaro-41_hand-1	Resigaro	41_hand	k é/e	resi1247	rgr	1277	HAND	370	
+495	Resigaro-42_head-1	Resigaro	42_head	h í/i v e ú/u	resi1247	rgr	1256	HEAD	379	
+496	Resigaro-43_hear-1	Resigaro	43_hear	h é/e ʔ m ú/u	resi1247	rgr	1408	HEAR	390	
+497	Resigaro-44_heart-1	Resigaro	44_heart	v á/a f o ú/u	resi1247	rgr	1223	HEART	400	
+498	Resigaro-45_horn-1	Resigaro	45_horn	ii j β i í/i	resi1247	rgr	1393	HORN (ANATOMY)	408	
+499	Resigaro-46_hot-1	Resigaro	46_hot	h a ʔ m o ʔ	resi1247	rgr	1286	HOT	416	
+500	Resigaro-47_kill-1	Resigaro	47_kill	k a i n é/e e kʰ ú/u	resi1247	rgr	1417	KILL	423	
+501	Resigaro-47_kill-2	Resigaro	47_kill	m ó/o tsʰ ó/o	resi1247	rgr	1417	KILL	428	
+502	Resigaro-48_knee-1	Resigaro	48_knee	h o ʔ d ó/o n a ú/u	resi1247	rgr	1371	KNEE	435	
+503	Resigaro-49_know-1	Resigaro	49_know	m a n a á/a t ó/o ʔ	resi1247	rgr	1410	KNOW (SOMETHING)	443	
+504	Resigaro-4_bark-1	Resigaro	4_bark	d a ʔ m í/i	resi1247	rgr	1204	BARK	37	
+505	Resigaro-50_leaf-1	Resigaro	50_leaf	a p á/a n á/a ʔ aa m í/i	resi1247	rgr	628	LEAF	453	
+506	Resigaro-51_lie-1	Resigaro	51_lie	ʃ o ó/o n é/e ʒ ú/u	resi1247	rgr	215	LIE DOWN	463	
+507	Resigaro-52_liver-1	Resigaro	52_liver	o p á/a a n ú/u	resi1247	rgr	1224	LIVER	475	
+508	Resigaro-53_long-1	Resigaro	53_long	ts e i n ó/o ʔ	resi1247	rgr	1203	LONG	482	
+509	Resigaro-54_louse-1	Resigaro	54_louse	n e t e tsʰ í/i ʔ ó/o	resi1247	rgr	1392	LOUSE	488	
+510	Resigaro-55_manadultmale-1	Resigaro	55_manadultmale	a ts á/a a g í/i	resi1247	rgr	1554	MAN	501	
+511	Resigaro-56_many-1	Resigaro	56_many	a n̥ e p ú:/uː ʔ	resi1247	rgr	1198	MANY	507	
+512	Resigaro-57_moon-1	Resigaro	57_moon	k e é/e g í/i	resi1247	rgr	1313	MOON	521	
+513	Resigaro-58_mountain-1	Resigaro	58_mountain	t é/e g a h ú/u	resi1247	rgr	639	MOUNTAIN	13	
+514	Resigaro-59_mouth-1	Resigaro	59_mouth	n ó/o	resi1247	rgr	674	MOUTH	546	
+515	Resigaro-5_belly-1	Resigaro	5_belly	ii ʔ ʃ á/a ú/u	resi1247	rgr	1251	BELLY	48	
+516	Resigaro-60_name-1	Resigaro	60_name	ii v ú/u	resi1247	rgr	1405	NAME	554	
+517	Resigaro-61_neck-1	Resigaro	61_neck	i ñ o tʃʰ í/i	resi1247	rgr	1333	NECK	560	
+518	Resigaro-62_new-1	Resigaro	62_new	b e ʔ é/e	resi1247	rgr	1231	NEW	569	
+519	Resigaro-63_night-1	Resigaro	63_night	n aa p í/i	resi1247	rgr	1233	NIGHT	584	
+520	Resigaro-64_nose-1	Resigaro	64_nose	h i t á/a k ó/o	resi1247	rgr	1221	NOSE	591	
+521	Resigaro-65_not-1	Resigaro	65_not	n ii	resi1247	rgr	1240	NOT	598	
+522	Resigaro-65_not-2	Resigaro	65_not	m a	resi1247	rgr	1240	NOT	593	
+523	Resigaro-66_one-1	Resigaro	66_one	p a t o pʰ e	resi1247	rgr	1493	ONE	613	
+524	Resigaro-66_one-2	Resigaro	66_one	s a g ú/u	resi1247	rgr	1493	ONE	616	
+525	Resigaro-67_path-1	Resigaro	67_path	a dʒ á/a p ó/o	resi1247	rgr	2252	PATH	14	
+526	Resigaro-67_path-2	Resigaro	67_path	é/e h u ú/u h í/i	resi1247	rgr	2252	PATH	14	
+527	Resigaro-68_person-1	Resigaro	68_person	i n á/a a v i ʔ ʒ a á/a n i g í/i	resi1247	rgr	683	PERSON	635	
+528	Resigaro-69_rain-1	Resigaro	69_rain	f á/a ʔ v o ó/o ts í/i	resi1247	rgr	658	RAIN (PRECIPITATION)	642	
+529	Resigaro-6_big-1	Resigaro	6_big	dʒ i dʒ á/a ʔ aa m í/i	resi1247	rgr	1202	BIG	54	
+530	Resigaro-70_red-1	Resigaro	70_red	k e d á/a v i í/i ʔ	resi1247	rgr	156	RED	653	
+531	Resigaro-71_root-1	Resigaro	71_root	t é/e b a k é/e	resi1247	rgr	670	ROOT	661	
+532	Resigaro-72_round-1	Resigaro	72_round	p a v uu d u	resi1247	rgr	1395	ROUND	667	
+533	Resigaro-73_sand-1	Resigaro	73_sand	m e n í/i i g í/i	resi1247	rgr	671	SAND	677	
+534	Resigaro-74_say-1	Resigaro	74_say	k e m ú/u	resi1247	rgr	1458	SAY	686	
+535	Resigaro-75_see-1	Resigaro	75_see	tsʰ e n í/i	resi1247	rgr	1409	SEE	696	
+536	Resigaro-76_seed-1	Resigaro	76_seed	h í/i m i ú/u	resi1247	rgr	714	SEED	705	
+537	Resigaro-77_sit-1	Resigaro	77_sit	í/i tsʰ ú/u	resi1247	rgr	1416	SIT	714	
+538	Resigaro-77_sit-2	Resigaro	77_sit	i ʔ tsʰ á/a k á/a	resi1247	rgr	1416	SIT	714	
+539	Resigaro-78_skin-1	Resigaro	78_skin	e é/e m ú/u	resi1247	rgr	763	SKIN	728	
+540	Resigaro-79_sleep-1	Resigaro	79_sleep	í/i m ú/u	resi1247	rgr	1585	SLEEP	738	
+541	Resigaro-7_bird-1	Resigaro	7_bird	k ó/o ʔ p í/i i d ú/u	resi1247	rgr	937	BIRD	67	
+542	Resigaro-7_bird-2	Resigaro	7_bird	a d o v í/i i g í/i	resi1247	rgr	937	BIRD	70	
+543	Resigaro-80_small-1	Resigaro	80_small	k a r i tʃʰ ũ ĩ	resi1247	rgr	1246	SMALL	746	
+544	Resigaro-81_smoke-1	Resigaro	81_smoke	i í/i tsʰ ú/u	resi1247	rgr	778	SMOKE (EXHAUST)	755	
+545	Resigaro-82_stand-1	Resigaro	82_stand	i ʔ t ó/o ṇ ú/u	resi1247	rgr	1442	STAND	763	
+546	Resigaro-83_star-1	Resigaro	83_star	h i v í/i i g í/i	resi1247	rgr	1430	STAR	775	
+547	Resigaro-84_stone-1	Resigaro	84_stone	v íí/iː ʃ i ʔ ó/o ú/u	resi1247	rgr	857	STONE	782	
+548	Resigaro-85_sun-1	Resigaro	85_sun	h á/a ʔ í/i	resi1247	rgr	1343	SUN	788	
+549	Resigaro-86_swim-1	Resigaro	86_swim	o ʔ v á/a p ú/u	resi1247	rgr	1439	SWIM	799	
+550	Resigaro-87_tail-1	Resigaro	87_tail	tsʰ í/i i p í/i	resi1247	rgr	1220	TAIL	809	
+551	Resigaro-88_that-1	Resigaro	88_that	a í/i	resi1247	rgr	78	THAT	20	
+552	Resigaro-89_this-1	Resigaro	89_this	g i ʔ í/i	resi1247	rgr	1214	THIS	831	
+553	Resigaro-89_this-2	Resigaro	89_this	d o ʔ ó/o	resi1247	rgr	1214	THIS	835	
+554	Resigaro-8_bite-1	Resigaro	8_bite	e m ú/u	resi1247	rgr	1403	BITE	79	
+555	Resigaro-90_thouyou-1	Resigaro	90_thouyou	h a ʔ á/a	resi1247	rgr	1215	THOU	843	
+556	Resigaro-90_thouyou-2	Resigaro	90_thouyou	pʰ á/a	resi1247	rgr	1215	THOU	21	
+557	Resigaro-90_thouyou-3	Resigaro	90_thouyou	pʰ ú/u	resi1247	rgr	1215	THOU	21	
+558	Resigaro-91_tongue-1	Resigaro	91_tongue	e ʔ h é/e e p é/e	resi1247	rgr	1205	TONGUE	854	
+559	Resigaro-92_tooth-1	Resigaro	92_tooth	o n é/e	resi1247	rgr	1380	TOOTH	864	
+560	Resigaro-93_treewood-1	Resigaro	93_treewood	a v á/a a n a ʔ é/e	resi1247	rgr	906	TREE	881	
+561	Resigaro-94_two-1	Resigaro	94_two	m i g aa k ú/u	resi1247	rgr	1498	TWO	890	
+562	Resigaro-95_walk-1	Resigaro	95_walk	h í/i ʔ v u	resi1247	rgr	1443	WALK	899	
+563	Resigaro-96_water-1	Resigaro	96_water	h oo n í/i	resi1247	rgr	948	WATER	910	
+564	Resigaro-97_we-1	Resigaro	97_we	m uu ʔ á/a	resi1247	rgr	1212	WE	916	
+565	Resigaro-97_we-2	Resigaro	97_we	f a ʔ á/a	resi1247	rgr	1212	WE	911	
+566	Resigaro-98_what-1	Resigaro	98_what	k ee n i	resi1247	rgr	1236	WHAT	947	
+567	Resigaro-98_what-2	Resigaro	98_what	k oo n i	resi1247	rgr	1236	WHAT	947	
+568	Resigaro-9_black-1	Resigaro	9_black	ts a pʰ ó/o ʔ	resi1247	rgr	163	BLACK	89	
+569	Tariana-100_who-1	Tariana	100_who	k w a n a	tari1256	tae	1235	WHO	947	
+570	Tariana-1_i-1	Tariana	1_i	n u h a	tari1256	tae	1209	I	1	
+571	Tariana-21_dog-1	Tariana	21_dog	tʃ í/i n u	tari1256	tae	2009	DOG	187	
+572	Tariana-29_feather-1	Tariana	29_feather	d í/i tʃ a	tari1256	tae	1201	FEATHER	259	
+573	Tariana-29_feather-2	Tariana	29_feather	d í/i tʃ a ɾ e	tari1256	tae	1201	FEATHER	10	
+574	Tariana-29_feather-3	Tariana	29_feather	d a ɾ u pʰ e m á/a m a	tari1256	tae	1201	FEATHER	262	
+575	Tariana-43_hear-1	Tariana	43_hear	h í/i m a	tari1256	tae	1408	HEAR	390	
+576	Tariana-51_lie-1	Tariana	51_lie	s w á/a	tari1256	tae	215	LIE DOWN	463	
+577	Tariana-58_mountain-1	Tariana	58_mountain	m a k a p u l i k ú/u d a	tari1256	tae	639	MOUNTAIN	534	
+578	Tariana-65_not-1	Tariana	65_not	m a	tari1256	tae	1240	NOT	593	
+579	Tariana-87_tail-1	Tariana	87_tail	d i tʃ í/i m a	tari1256	tae	1220	TAIL	809	
+580	Tariana-87_tail-2	Tariana	87_tail	d i s i p í/i	tari1256	tae	1220	TAIL	809	
+581	Tariana-89_this-1	Tariana	89_this	h ĩ	tari1256	tae	1214	THIS	831	
+582	Tariana-90_thouyou-1	Tariana	90_thouyou	p i h a	tari1256	tae	1215	THOU	21	
+583	Tariana-90_thouyou-2	Tariana	90_thouyou	pʰ i a	tari1256	tae	1215	THOU	21	
+584	Tariana-90_thouyou-3	Tariana	90_thouyou	i h a	tari1256	tae	1215	THOU	844	
+585	Tariana-97_we-1	Tariana	97_we	w a h a	tari1256	tae	1212	WE	911	
+586	Warekena-15_burn2-1	Warekena	15_burn2	m é/e n i k e t a	ware1255	nan	2102	BURN	130	
+587	Warekena-19_come-1	Warekena	19_come	w í/i n a	ware1255	nan	1446	COME	7	
+588	Warekena-19_come-2	Warekena	19_come	w á/a d i	ware1255	nan	1446	COME	175	
+589	Warekena-36_give-1	Warekena	36_give	h u w a	ware1255	nan	1447	GIVE	327	
+590	Warekena-50_leaf-1	Warekena	50_leaf	pʰ e	ware1255	nan	628	LEAF	453	
+591	Warekena-50_leaf-2	Warekena	50_leaf	a p a n a pʰ e	ware1255	nan	628	LEAF	453	
+592	Warekena-58_mountain-1	Warekena	58_mountain	h i d á/a p a	ware1255	nan	639	MOUNTAIN	13	
+593	Warekena-65_not-1	Warekena	65_not	m a	ware1255	nan	1240	NOT	593	
+594	Warekena-65_not-2	Warekena	65_not	n a l é/e	ware1255	nan	1240	NOT	598	
+595	Warekena-71_root-1	Warekena	71_root	i l i	ware1255	nan	670	ROOT	663	
+596	Warekena-74_say-1	Warekena	74_say	m á/a k a	ware1255	nan	1458	SAY	688	
+597	Warekena-74_say-2	Warekena	74_say	k a s a l é/e t a	ware1255	nan	1458	SAY	690	
+598	Warekena-76_seed-1	Warekena	76_seed	i h i n a	ware1255	nan	714	SEED	707	
+599	Warekena-88_that-1	Warekena	88_that	l a	ware1255	nan	78	THAT	826	
+600	Warekena-88_that-2	Warekena	88_that	d i	ware1255	nan	78	THAT	831	
+601	Warekena-88_that-3	Warekena	88_that	n i	ware1255	nan	78	THAT	831	
+602	Warekena-89_this-1	Warekena	89_this	t i	ware1255	nan	1214	THIS	831	
+603	Warekena-94_two-1	Warekena	94_two	d a m a	ware1255	nan	1498	TWO	887	
+604	Warekena-97_we-1	Warekena	97_we	w a	ware1255	nan	1212	WE	911	
+605	Warekena-97_we-2	Warekena	97_we	w i	ware1255	nan	1212	WE	911	
+606	Yukuna-100_who-1	Yukuna	100_who	n a h l o	yucu1253	ycn	1235	WHO	955	
+607	Yukuna-101_woman-1	Yukuna	101_woman	i n a n a ɾ u	yucu1253	ycn	962	WOMAN	968	
+608	Yukuna-102_yellow-1	Yukuna	102_yellow	j e w a n i	yucu1253	ycn	1424	YELLOW	981	
+609	Yukuna-10_blood-1	Yukuna	10_blood	í/i ɾ a h i	yucu1253	ycn	946	BLOOD	97	
+610	Yukuna-10_blood-2	Yukuna	10_blood	h i ɾ á/a	yucu1253	ycn	946	BLOOD	97	
+611	Yukuna-11_bone-1	Yukuna	11_bone	a pʰ i n á/a m i h i	yucu1253	ycn	1394	BONE	108	
+612	Yukuna-13_breast2-1	Yukuna	13_breast2	tʃ u ʔ u tʃ ú/u	yucu1253	ycn	1402	BREAST	3	
+613	Yukuna-14_burn1-1	Yukuna	14_burn1	k á/a r a ʔ a k a h e	yucu1253	ycn	2102	BURN	129	
+614	Yukuna-16_claw-1	Yukuna	16_claw	u ʔ u p a	yucu1253	ycn	72	CLAW	138	
+615	Yukuna-17_cloud-1	Yukuna	17_cloud	h u n i + h u w á/a k a ʔ a l a	yucu1253	ycn	1489	CLOUD	150	
+616	Yukuna-18_cold-1	Yukuna	18_cold	i p e ʔ e n í/i	yucu1253	ycn	1287	COLD	165	
+617	Yukuna-19_come-1	Yukuna	19_come	i pʰ a k a h e	yucu1253	ycn	1446	COME	173	
+618	Yukuna-19_come-2	Yukuna	19_come	w a í/i tʃ a	yucu1253	ycn	1446	COME	175	
+619	Yukuna-1_i-1	Yukuna	1_i	n u k á/a	yucu1253	ycn	1209	I	1	
+620	Yukuna-20_die-1	Yukuna	20_die	t a k a ʔ a k a h e	yucu1253	ycn	1494	DIE	185	
+621	Yukuna-21_dog-1	Yukuna	21_dog	w a l ú/u	yucu1253	ycn	2009	DOG	194	
+622	Yukuna-22_drink-1	Yukuna	22_drink	i ʔ i ɾ a k a h e	yucu1253	ycn	1401	DRINK	196	
+623	Yukuna-23_dryn-1	Yukuna	23_dryn	m a k á/a r a ʔ a k a j e	yucu1253	ycn	1786	DRY UP	210	
+624	Yukuna-24_ear-1	Yukuna	24_ear	i ʔ i h w i h í/i	yucu1253	ycn	1247	EAR	219	
+625	Yukuna-25_earth-1	Yukuna	25_earth	t e ʔ e ɾ í/i	yucu1253	ycn	1228	EARTH (SOIL)	229	
+626	Yukuna-26_eat-1	Yukuna	26_eat	a h ɲ a k a h e	yucu1253	ycn	1336	EAT	232	
+627	Yukuna-27_egg-1	Yukuna	27_egg	e h w e h i	yucu1253	ycn	744	EGG	246	
+628	Yukuna-28_eye-1	Yukuna	28_eye	i h l u h í/i	yucu1253	ycn	1248	EYE	254	
+629	Yukuna-29_feather-1	Yukuna	29_feather	tʃ i h n e h i	yucu1253	ycn	1201	FEATHER	10	
+630	Yukuna-2_all-1	Yukuna	2_all	p i j u k e h a	yucu1253	ycn	98	ALL	17	
+631	Yukuna-30_fire-1	Yukuna	30_fire	h i j á/a	yucu1253	ycn	221	FIRE	272	
+632	Yukuna-30_fire-2	Yukuna	30_fire	k e ɾ a ʔ a t a n i	yucu1253	ycn	221	FIRE	272	
+633	Yukuna-31_fishn-1	Yukuna	31_fishn	k ú/u p e	yucu1253	ycn	227	FISH	273	
+634	Yukuna-32_flesh-1	Yukuna	32_flesh	r i ʔ í/i	yucu1253	ycn	2259	FLESH	288	
+635	Yukuna-33_flyv-1	Yukuna	33_flyv	a h ɾ a k a h e	yucu1253	ycn	1441	FLY (MOVE THROUGH AIR)	297	
+636	Yukuna-34_foot-1	Yukuna	34_foot	h i ʔ i m a h i	yucu1253	ycn	1301	FOOT	306	
+637	Yukuna-35_full-1	Yukuna	35_full	m a n o ʔ o k a j e	yucu1253	ycn	1429	FULL	316	
+638	Yukuna-36_give-1	Yukuna	36_give	a ʔ a k a j e	yucu1253	ycn	1447	GIVE	326	
+639	Yukuna-37_good-1	Yukuna	37_good	p a l a n i	yucu1253	ycn	1035	GOOD	337	
+640	Yukuna-38_grease-1	Yukuna	38_grease	h i l a h i	yucu1253	ycn	323	FAT (ORGANIC SUBSTANCE)	346	
+641	Yukuna-39_green-1	Yukuna	39_green	i p u ɾ e n i	yucu1253	ycn	1425	GREEN	349	
+642	Yukuna-3_ash-1	Yukuna	3_ash	p a i ʔ i l á/a	yucu1253	ycn	646	ASH	27	
+643	Yukuna-40_hair-1	Yukuna	40_hair	w i l a h i	yucu1253	ycn	1040	HAIR	359	
+644	Yukuna-41_hand-1	Yukuna	41_hand	j á/a t e ʔ e l a h i	yucu1253	ycn	1277	HAND	373	
+645	Yukuna-42_head-1	Yukuna	42_head	w í/i l a ʔ a ɾ u h i	yucu1253	ycn	1256	HEAD	379	
+646	Yukuna-43_hear-1	Yukuna	43_hear	h e m a ʔ a k a h e	yucu1253	ycn	1408	HEAR	390	
+647	Yukuna-44_heart-1	Yukuna	44_heart	w a h w e h i	yucu1253	ycn	1223	HEART	400	
+648	Yukuna-45_horn-1	Yukuna	45_horn	r i ʔ i w a w i	yucu1253	ycn	1393	HORN (ANATOMY)	408	
+649	Yukuna-46_hot-1	Yukuna	46_hot	i m a ʔ a n í/i	yucu1253	ycn	1286	HOT	417	
+650	Yukuna-47_kill-1	Yukuna	47_kill	n ó/o k a h e	yucu1253	ycn	1417	KILL	426	
+651	Yukuna-48_knee-1	Yukuna	48_knee	r i ʔ i r ú/u p a ʃ i	yucu1253	ycn	1371	KNEE	435	
+652	Yukuna-49_know-1	Yukuna	49_know	w e ʔ e p í/i k a h e	yucu1253	ycn	1410	KNOW (SOMETHING)	446	
+653	Yukuna-4_bark-1	Yukuna	4_bark	í/i m a h i	yucu1253	ycn	1204	BARK	37	
+654	Yukuna-50_leaf-1	Yukuna	50_leaf	w í/i ʃ u ʔ u p e	yucu1253	ycn	628	LEAF	456	
+655	Yukuna-51_lie-1	Yukuna	51_lie	t o ʔ o k a j o	yucu1253	ycn	215	LIE DOWN	465	
+656	Yukuna-52_liver-1	Yukuna	52_liver	p a n a j i	yucu1253	ycn	1224	LIVER	475	
+657	Yukuna-53_long-1	Yukuna	53_long	w a pʰ e r e n i	yucu1253	ycn	1203	LONG	484	
+658	Yukuna-54_louse-1	Yukuna	54_louse	r i n e	yucu1253	ycn	1392	LOUSE	488	
+659	Yukuna-55_manadultmale-1	Yukuna	55_manadultmale	a tʃ i ɲ á/a	yucu1253	ycn	1554	MAN	501	
+660	Yukuna-56_many-1	Yukuna	56_many	ʃ a ʔ a pʰ á/a	yucu1253	ycn	1198	MANY	514	
+661	Yukuna-57_moon-1	Yukuna	57_moon	k e ɾ i	yucu1253	ycn	1313	MOON	521	
+662	Yukuna-58_mountain-1	Yukuna	58_mountain	j e n u ɾ i	yucu1253	ycn	639	MOUNTAIN	536	
+663	Yukuna-59_mouth-1	Yukuna	59_mouth	n u m a h i	yucu1253	ycn	674	MOUTH	546	
+664	Yukuna-5_belly-1	Yukuna	5_belly	h u l a h i	yucu1253	ycn	1251	BELLY	47	
+665	Yukuna-60_name-1	Yukuna	60_name	i í/i h i	yucu1253	ycn	1405	NAME	554	
+666	Yukuna-61_neck-1	Yukuna	61_neck	n ú/u r u p i h i	yucu1253	ycn	1333	NECK	560	
+667	Yukuna-62_new-1	Yukuna	62_new	w a h é/e	yucu1253	ycn	1231	NEW	572	
+668	Yukuna-63_night-1	Yukuna	63_night	l a p í/i	yucu1253	ycn	1233	NIGHT	584	
+669	Yukuna-64_nose-1	Yukuna	64_nose	t a k u h i	yucu1253	ycn	1221	NOSE	591	
+670	Yukuna-65_not-1	Yukuna	65_not	u n k á/a	yucu1253	ycn	1240	NOT	601	
+671	Yukuna-66_one-1	Yukuna	66_one	p a h l u w á/a h a	yucu1253	ycn	1493	ONE	613	
+672	Yukuna-67_path-1	Yukuna	67_path	i ñ e ʔ e p ú/u	yucu1253	ycn	2252	PATH	618	
+673	Yukuna-68_person-1	Yukuna	68_person	i n a ʔ u k é/e	yucu1253	ycn	683	PERSON	635	
+674	Yukuna-69_rain-1	Yukuna	69_rain	h u n i	yucu1253	ycn	658	RAIN (PRECIPITATION)	644	
+675	Yukuna-6_big-1	Yukuna	6_big	ɲ ó/o p o ʔ o h l o	yucu1253	ycn	1202	BIG	57	
+676	Yukuna-70_red-1	Yukuna	70_red	k e ɾ a n i	yucu1253	ycn	156	RED	653	
+677	Yukuna-71_root-1	Yukuna	71_root	h i ʔ i l a h i	yucu1253	ycn	670	ROOT	663	
+678	Yukuna-73_sand-1	Yukuna	73_sand	k e ʔ p é/e	yucu1253	ycn	671	SAND	680	
+679	Yukuna-74_say-1	Yukuna	74_say	m í/i	yucu1253	ycn	1458	SAY	689	
+680	Yukuna-75_see-1	Yukuna	75_see	a m á/a k a h e	yucu1253	ycn	1409	SEE	699	
+681	Yukuna-76_seed-1	Yukuna	76_seed	i j i j i	yucu1253	ycn	714	SEED	707	
+682	Yukuna-77_sit-1	Yukuna	77_sit	j á/a ʔ a k a h o	yucu1253	ycn	1416	SIT	718	
+683	Yukuna-77_sit-2	Yukuna	77_sit	y á/a ʔ a k a j e	yucu1253	ycn	1416	SIT	718	
+684	Yukuna-78_skin-1	Yukuna	78_skin	í/i m a h i	yucu1253	ycn	763	SKIN	728	
+685	Yukuna-79_sleep-1	Yukuna	79_sleep	k a m á/a t a k a h o	yucu1253	ycn	1585	SLEEP	738	
+686	Yukuna-7_bird-1	Yukuna	7_bird	k u p i r a ʔ a pʰ á/a	yucu1253	ycn	937	BIRD	67	
+687	Yukuna-80_small-1	Yukuna	80_small	k a m u ʔ u j i n i	yucu1253	ycn	1246	SMALL	747	
+688	Yukuna-81_smoke-1	Yukuna	81_smoke	i h a	yucu1253	ycn	778	SMOKE (EXHAUST)	755	
+689	Yukuna-82_stand-1	Yukuna	82_stand	t á/a r a ʔ a k a j o	yucu1253	ycn	1442	STAND	767	
+690	Yukuna-83_star-1	Yukuna	83_star	i w i h ɾ í/i	yucu1253	ycn	1430	STAR	775	
+691	Yukuna-84_stone-1	Yukuna	84_stone	h i p a	yucu1253	ycn	857	STONE	777	
+692	Yukuna-85_sun-1	Yukuna	85_sun	k a m ú/u	yucu1253	ycn	1343	SUN	784	
+693	Yukuna-86_swim-1	Yukuna	86_swim	i ʔ i w a p a k a h e	yucu1253	ycn	1439	SWIM	799	
+694	Yukuna-87_tail-1	Yukuna	87_tail	h i p i h i	yucu1253	ycn	1220	TAIL	809	
+695	Yukuna-88_that-1	Yukuna	88_that	m a ɾ í/i	yucu1253	ycn	78	THAT	820	
+696	Yukuna-89_this-1	Yukuna	89_this	k e l e	yucu1253	ycn	1214	THIS	831	
+697	Yukuna-8_bite-1	Yukuna	8_bite	a h m a ʔ a k a h e	yucu1253	ycn	1403	BITE	79	
+698	Yukuna-90_thouyou-1	Yukuna	90_thouyou	i k á/a	yucu1253	ycn	1215	THOU	844	
+699	Yukuna-90_thouyou-2	Yukuna	90_thouyou	p i k á/a	yucu1253	ycn	1215	THOU	21	
+700	Yukuna-91_tongue-1	Yukuna	91_tongue	l e n a h i	yucu1253	ycn	1205	TONGUE	857	
+701	Yukuna-92_tooth-1	Yukuna	92_tooth	a i h í/i	yucu1253	ycn	1380	TOOTH	22	
+702	Yukuna-93_treewood-1	Yukuna	93_treewood	a ʔ a w a n á/a	yucu1253	ycn	906	TREE	881	
+703	Yukuna-94_two-1	Yukuna	94_two	i j a m á/a	yucu1253	ycn	1498	TWO	887	
+704	Yukuna-95_walk-1	Yukuna	95_walk	j a ʔ a p á/a k a j e	yucu1253	ycn	1443	WALK	901	
+705	Yukuna-96_water-1	Yukuna	96_water	h ú/u n i	yucu1253	ycn	948	WATER	910	
+706	Yukuna-97_we-1	Yukuna	97_we	w e k á/a	yucu1253	ycn	1212	WE	911	
+707	Yukuna-97_we-2	Yukuna	97_we	w e k á/a	yucu1253	ycn	1212	WE	911	
+708	Yukuna-98_what-1	Yukuna	98_what	n a	yucu1253	ycn	1236	WHAT	925	
+709	Yukuna-99_white-1	Yukuna	99_white	j a r e n i	yucu1253	ycn	1335	WHITE	944	
+710	Yukuna-9_black-1	Yukuna	9_black	k a m e n i	yucu1253	ycn	163	BLACK	91	

@@ -1,0 +1,1207 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+8669	24820	constenlachibchan-Boruca	boru1252		bark	1204	BARK		kuáʔs	k u a ʔ s
+8670	24821	constenlachibchan-Bribri	brib1243		bark	1204	BARK		axkuʊ́	a x k u ʊ
+8671	24822	constenlachibchan-Buglere	bugl1243		bark	1204	BARK		kwaɾa	k w a ɾ a
+8672	24823	constenlachibchan-Cabecar	cabe1245		bark	1204	BARK		hkuʊ́	h k u ʊ
+8674	24825	constenlachibchan-Chibcha	chib1270		bark	1204	BARK		huka	h u k a
+8677	24828	constenlachibchan-MalekuJaika	male1297		bark	1204	BARK		leki:	l e k iː
+8679	24830	constenlachibchan-Ngabere	ngab1239		bark	1204	BARK		kwata	k w a t a
+8680	24831	constenlachibchan-Pech	pech1241		bark	1204	BARK		kã́wã̀	k ã w ã
+8681	24832	constenlachibchan-Rama	rama1270		bark	1204	BARK		u:k	uː k
+8682	24833	constenlachibchan-SanBlasKuna	sanb1242		bark	1204	BARK		ukka	u k a
+8683	24834	constenlachibchan-Teribe	teri1250		bark	1204	BARK		kuótà	k u o t a
+8745	24896	hubercolumbian-Bari	bari1297		bark	1204	BARK		ʔəgʃuɾə	ʔ ə g ʃ u ɾ ə
+8751	24902	hubercolumbian-Chimila	chim1309		bark	1204	BARK		kámanta	k a m a n t a
+8756	24907	hubercolumbian-Dimina	mala1522		bark	1204	BARK		anʒoma	a n ʒ o m a
+8766	24917	hubercolumbian-Ika	arhu1242		bark	1204	BARK		azómi̵	a z o m ɨ
+8771	24922	hubercolumbian-Kogui	cogu1240		bark	1204	BARK		kəldihúba	k ə l d i h u b a
+8795	24946	hubercolumbian-TuneboCentral	cent2150		bark	1204	BARK		umá	u m a
+22701	38852	hubercolumbian-Bari	bari1297		belly	1251	BELLY		ʔiʃirə	ʔ i ʃ i r ə
+22702	38853	hubercolumbian-Bari	bari1297		belly	1251	BELLY		ʔiʃirə	ʔ i ʃ i r ə
+22719	38870	hubercolumbian-Chimila	chim1309		belly	1251	BELLY		ɾússukuéɾiniʔ	ɾ u s s u k u e ɾ i n i ʔ
+22720	38871	hubercolumbian-Chimila	chim1309		belly	1251	BELLY		júmmesuʔ	j u m m e s u ʔ
+22730	38881	hubercolumbian-Dimina	mala1522		belly	1251	BELLY		doabíga	d o a b i g a
+22731	38882	hubercolumbian-Dimina	mala1522		belly	1251	BELLY		ti̵mi̵ki̵na	t ɨ m ɨ k ɨ n a
+22752	38903	hubercolumbian-Ika	arhu1242		belly	1251	BELLY		zúnkəni̵	z u n k ə n ɨ
+22753	38904	hubercolumbian-Ika	arhu1242		belly	1251	BELLY		zúnkəni̵	z u n k ə n ɨ
+22762	38913	hubercolumbian-Kogui	cogu1240		belly	1251	BELLY		díʒək	d i ʒ ə k
+22763	38914	hubercolumbian-Kogui	cogu1240		belly	1251	BELLY		díʒək	d i ʒ ə k
+22806	38957	hubercolumbian-TuneboCentral	cent2150		belly	1251	BELLY		urá	u r a
+22807	38958	hubercolumbian-TuneboCentral	cent2150		belly	1251	BELLY		jira	j i r a
+27623	43774	constenlachibchan-Boruca	boru1252		big	1202	BIG		kɾíʔ	k ɾ i ʔ
+27624	43775	constenlachibchan-Bribri	brib1243		big	1202	BIG		bɪ̌diè	b ɪ d i e
+27625	43776	constenlachibchan-Buglere	bugl1243		big	1202	BIG		kweɾi	k w e ɾ i
+27626	43777	constenlachibchan-Cabecar	cabe1245		big	1202	BIG		tã́ĩ́	t ã ĩ
+27628	43779	constenlachibchan-Chibcha	chib1270		big	1202	BIG		kuhuma	k u h u m a
+27631	43782	constenlachibchan-MalekuJaika	male1297		big	1202	BIG		ni:kaŋe:	n iː k a ŋ eː
+27633	43784	constenlachibchan-Ngabere	ngab1239		big	1202	BIG		kɾi	k ɾ i
+27634	43785	constenlachibchan-Pech	pech1241		big	1202	BIG		àʔká	a ʔ k a
+27635	43786	constenlachibchan-Rama	rama1270		big	1202	BIG		ta:ɾa	t aː ɾ a
+27636	43787	constenlachibchan-SanBlasKuna	sanb1242		big	1202	BIG		tumma	t u m a
+27637	43788	constenlachibchan-Teribe	teri1250		big	1202	BIG		kɪ́s	k ɪ s
+27805	43956	hubercolumbian-Bari	bari1297		big	1202	BIG		ʔabirə	ʔ a b i r ə
+27814	43965	hubercolumbian-Chimila	chim1309		big	1202	BIG		kuéeritúʔ	k u e e r i t u ʔ
+27820	43971	hubercolumbian-Dimina	mala1522		big	1202	BIG		tiukwega	t i u k w e g a
+27831	43982	hubercolumbian-Ika	arhu1242		big	1202	BIG		awə́nʔ kawa	a w ə n ʔ + k a w a
+27837	43988	hubercolumbian-Kogui	cogu1240		big	1202	BIG		ətémə	ə t e m ə
+27866	44017	hubercolumbian-TuneboCentral	cent2150		big	1202	BIG		kúmaca	k u m a c a
+30026	46177	constenlachibchan-Boruca	boru1252		bird	937	BIRD		dù	d u
+30027	46178	constenlachibchan-Bribri	brib1243		bird	937	BIRD		dú	d u
+30028	46179	constenlachibchan-Buglere	bugl1243		bird	937	BIRD		bdada	b d a d a
+30029	46180	constenlachibchan-Cabecar	cabe1245		bird	937	BIRD		dù	d u
+30031	46182	constenlachibchan-Chibcha	chib1270		bird	937	BIRD		sue	s u e
+30034	46185	constenlachibchan-MalekuJaika	male1297		bird	937	BIRD		ŋiskaka:	ŋ i s k a k aː
+30036	46187	constenlachibchan-Ngabere	ngab1239		bird	937	BIRD		nukwɔ	n u k w ɔ
+30037	46188	constenlachibchan-Pech	pech1241		bird	937	BIRD		kwàs	k w a s
+30038	46189	constenlachibchan-Rama	rama1270		bird	937	BIRD		sin-sak	s i n + s a k
+30039	46190	constenlachibchan-SanBlasKuna	sanb1242		bird	937	BIRD		sikkwi	s i k w i
+30040	46191	constenlachibchan-Teribe	teri1250		bird	937	BIRD		sínũã̀	s i n ũ ã
+30202	46353	hubercolumbian-Bari	bari1297		bird	937	BIRD		daɾəkbiɾə	d a ɾ ə k b i ɾ ə
+30210	46361	hubercolumbian-Chimila	chim1309		bird	937	BIRD		kiitíkkui	k iː t i k k u i
+30216	46367	hubercolumbian-Dimina	mala1522		bird	937	BIRD		suri	s u r i
+30225	46376	hubercolumbian-Ika	arhu1242		bird	937	BIRD		sisío	s i s i o
+30230	46381	hubercolumbian-Kogui	cogu1240		bird	937	BIRD		nubá	n u b a
+30257	46408	hubercolumbian-TuneboCentral	cent2150		bird	937	BIRD		ruwásira	r u w a s i r a
+32358	48509	constenlachibchan-Boruca	boru1252		bite	1403	BITE		túʔ	t u ʔ
+32359	48510	constenlachibchan-Bribri	brib1243		bite	1403	BITE		kʊ	k ʊ
+32360	48511	constenlachibchan-Buglere	bugl1243		bite	1403	BITE		gute	g u t e
+32361	48512	constenlachibchan-Cabecar	cabe1245		bite	1403	BITE		kʊ	k ʊ
+32363	48514	constenlachibchan-Chibcha	chib1270		bite	1403	BITE		ka	k a
+32366	48517	constenlachibchan-MalekuJaika	male1297		bite	1403	BITE		tʃiu:	tʃ i uː
+32368	48519	constenlachibchan-Ngabere	ngab1239		bite	1403	BITE		kwet	k w e t
+32369	48520	constenlachibchan-Pech	pech1241		bite	1403	BITE		sáhkɾàh	s a h k ɾ a h
+32370	48521	constenlachibchan-Rama	rama1270		bite	1403	BITE		aɾŋul	a ɾ ŋ u l
+32371	48522	constenlachibchan-SanBlasKuna	sanb1242		bite	1403	BITE		kunn	k u n
+32372	48523	constenlachibchan-Teribe	teri1250		bite	1403	BITE		uɪ́	u ɪ
+32559	48710	hubercolumbian-Bari	bari1297		bite	1403	BITE		koonə	k oː n ə
+32568	48719	hubercolumbian-Chimila	chim1309		bite	1403	BITE		ráawa	r a a w a
+32573	48724	hubercolumbian-Dimina	mala1522		bite	1403	BITE		kikáate	k i k a a t e
+32583	48734	hubercolumbian-Ika	arhu1242		bite	1403	BITE		kəkúsən	k ə k u s ə n
+32588	48739	hubercolumbian-Kogui	cogu1240		bite	1403	BITE		hauldíhĩ	h a u l d i h ĩ
+32610	48761	hubercolumbian-TuneboCentral	cent2150		bite	1403	BITE		kóʔnro	k o ʔ n r o
+35010	51161	constenlachibchan-Boruca	boru1252		black	163	BLACK		tùɾìnát	t u ɾ i n a t
+35011	51162	constenlachibchan-Bribri	brib1243		black	163	BLACK		daɺǒɺǒ	d a ɺ o ɺ o
+35012	51163	constenlachibchan-Buglere	bugl1243		black	163	BLACK		heɾe	h e ɾ e
+35013	51164	constenlachibchan-Cabecar	cabe1245		black	163	BLACK		doɺódã̀	d o ɺ o d ã
+35015	51166	constenlachibchan-Chibcha	chib1270		black	163	BLACK		mɨhɨsio	m ɨ h ɨ s i o
+35018	51169	constenlachibchan-MalekuJaika	male1297		black	163	BLACK		utʃu:li iŋa:	u tʃ uː l i + i ŋ aː
+35020	51171	constenlachibchan-Ngabere	ngab1239		black	163	BLACK		dɾɯne	d ɾ ɯ n e
+35021	51172	constenlachibchan-Pech	pech1241		black	163	BLACK		sã̀wnkwa	s ã w n k w a
+35022	51173	constenlachibchan-Rama	rama1270		black	163	BLACK		paɾŋa	p a ɾ ŋ a
+35023	51174	constenlachibchan-SanBlasKuna	sanb1242		black	163	BLACK		sitʃi	s i tʃ i
+35024	51175	constenlachibchan-Teribe	teri1250		black	163	BLACK		sòksĩ́	s o k s ĩ
+35161	51312	hubercolumbian-Bari	bari1297		black	163	BLACK		baaɾə	b aː ɾ ə
+35170	51321	hubercolumbian-Chimila	chim1309		black	163	BLACK		sihtú	s i h t u
+35175	51326	hubercolumbian-Dimina	mala1522		black	163	BLACK		ami̵kʃi	a m ɨ k ʃ i
+35187	51338	hubercolumbian-Ika	arhu1242		black	163	BLACK		twi kawa	t w i + k a w a
+35192	51343	hubercolumbian-Kogui	cogu1240		black	163	BLACK		abəìksi̵	a b ə i k s ɨ
+35216	51367	hubercolumbian-TuneboCentral	cent2150		black	163	BLACK		baksója	b a k s o j a
+38444	54595	constenlachibchan-Boruca	boru1252		blood	946	BLOOD		dʒìbí	dʒ i b i
+38445	54596	constenlachibchan-Bribri	brib1243		blood	946	BLOOD		apɪ̂	a p ɪ
+38446	54597	constenlachibchan-Buglere	bugl1243		blood	946	BLOOD		be	b e
+38447	54598	constenlachibchan-Cabecar	cabe1245		blood	946	BLOOD		pí	p i
+38449	54600	constenlachibchan-Chibcha	chib1270		blood	946	BLOOD		ba	b a
+38452	54603	constenlachibchan-MalekuJaika	male1297		blood	946	BLOOD		li:	l iː
+38454	54605	constenlachibchan-Ngabere	ngab1239		blood	946	BLOOD		dɔɾi	d ɔ ɾ i
+38455	54606	constenlachibchan-Pech	pech1241		blood	946	BLOOD		ù:ɾì	uː ɾ i
+38456	54607	constenlachibchan-Rama	rama1270		blood	946	BLOOD		aiɾbi:	a i ɾ b iː
+38457	54608	constenlachibchan-SanBlasKuna	sanb1242		blood	946	BLOOD		ape	a p e
+38458	54609	constenlachibchan-Teribe	teri1250		blood	946	BLOOD		sɾɪ́ŋ	s ɾ ɪ ŋ
+38576	54727	hubercolumbian-Bari	bari1297		blood	946	BLOOD		ʔaabirə	ʔ aː b i r ə
+38583	54734	hubercolumbian-Chimila	chim1309		blood	946	BLOOD		éŋŋaʔ	e ŋ ŋ a ʔ
+38588	54739	hubercolumbian-Dimina	mala1522		blood	946	BLOOD		i̵ma	ɨ m a
+38599	54750	hubercolumbian-Ika	arhu1242		blood	946	BLOOD		ʤwa	dʒ w a
+38604	54755	hubercolumbian-Kogui	cogu1240		blood	946	BLOOD		ə́bbi	ə b b i
+38628	54779	hubercolumbian-TuneboCentral	cent2150		blood	946	BLOOD		àba	a b a
+46658	62809	constenlachibchan-Boruca	boru1252		bone	1394	BONE		dèt-kɾá	d e t + k ɾ a
+46659	62810	constenlachibchan-Bribri	brib1243		bone	1394	BONE		ditʃǎʔ	d i tʃ a ʔ
+46660	62811	constenlachibchan-Buglere	bugl1243		bone	1394	BONE		gda	g d a
+46661	62812	constenlachibchan-Cabecar	cabe1245		bone	1394	BONE		tʃitʃʔá	tʃ i tʃ ʔ a
+46663	62814	constenlachibchan-Chibcha	chib1270		bone	1394	BONE		kɨnɨ	k ɨ n ɨ
+46666	62817	constenlachibchan-MalekuJaika	male1297		bone	1394	BONE		ko:ɾa	k oː ɾ a
+46668	62819	constenlachibchan-Ngabere	ngab1239		bone	1394	BONE		kɾɔ	k ɾ ɔ
+46669	62820	constenlachibchan-Pech	pech1241		bone	1394	BONE		pájã̀	p a j ã
+46670	62821	constenlachibchan-Rama	rama1270		bone	1394	BONE		a:luk	aː l u k
+46671	62822	constenlachibchan-SanBlasKuna	sanb1242		bone	1394	BONE		kala	k a l a
+46672	62823	constenlachibchan-Teribe	teri1250		bone	1394	BONE		dobógɺo	d o b o g ɺ o
+46805	62956	hubercolumbian-Bari	bari1297		bone	1394	BONE		kaɾaɾə	k a ɾ a ɾ ə
+46812	62963	hubercolumbian-Chimila	chim1309		bone	1394	BONE		kíkkɾa	k i k k ɾ a
+46818	62969	hubercolumbian-Dimina	mala1522		bone	1394	BONE		ki̵ki̵ra	k ɨ k ɨ r a
+46829	62980	hubercolumbian-Ika	arhu1242		bone	1394	BONE		wésu	w e s u
+46835	62986	hubercolumbian-Kogui	cogu1240		bone	1394	BONE		zəldáxəldə	z ə l d a x ə l d ə
+46858	63009	hubercolumbian-TuneboCentral	cent2150		bone	1394	BONE		kárara	k a r a r a
+56736	72889	constenlachibchan-Boruca	boru1252		breast	1402	BREAST		kàʔ	k a ʔ
+56737	72890	constenlachibchan-Bribri	brib1243		breast	1402	BREAST		tsǔʔ	t s u ʔ
+56738	72891	constenlachibchan-Buglere	bugl1243		breast	1402	BREAST		tusú	t u s u
+56739	72892	constenlachibchan-Cabecar	cabe1245		breast	1402	BREAST		tsú	t s u
+56741	72894	constenlachibchan-Chibcha	chib1270		breast	1402	BREAST		tʲue	tʲ u e
+56744	72897	constenlachibchan-MalekuJaika	male1297		breast	1402	BREAST		ko:ɾi	k oː ɾ i
+56746	72899	constenlachibchan-Ngabere	ngab1239		breast	1402	BREAST		kẽã	k ẽ ã
+56747	72900	constenlachibchan-Pech	pech1241		breast	1402	BREAST		tútú	t u t u
+56748	72901	constenlachibchan-Rama	rama1270		breast	1402	BREAST		ka:ŋali:	k aː ŋ a l iː
+56749	72902	constenlachibchan-SanBlasKuna	sanb1242		breast	1402	BREAST		nu:	n uː
+56750	72903	constenlachibchan-Teribe	teri1250		breast	1402	BREAST		nókuò	n o k u o
+56898	73051	hubercolumbian-Bari	bari1297		breast	1402	BREAST		turə	t u r ə
+56907	73060	hubercolumbian-Chimila	chim1309		breast	1402	BREAST		káaʔ	k a a ʔ
+56912	73065	hubercolumbian-Dimina	mala1522		breast	1402	BREAST		túdu	t u d u
+56920	73073	hubercolumbian-Ika	arhu1242		breast	1402	BREAST		tu	t u
+56925	73078	hubercolumbian-Kogui	cogu1240		breast	1402	BREAST		sumí	s u m i
+56948	73101	hubercolumbian-TuneboCentral	cent2150		breast	1402	BREAST		sutá	s u t a
+64344	80497	hubercolumbian-Bari	bari1297		burn	2102	BURN		saʃininə	s a ʃ i n i n ə
+64356	80509	hubercolumbian-Chimila	chim1309		burn	2102	BURN		ákketi	a k k e t i
+64364	80517	hubercolumbian-Dimina	mala1522		burn	2102	BURN		puʒi	p u ʒ i
+64365	80518	hubercolumbian-Dimina	mala1522		burn	2102	BURN		gaʃi	g a ʃ i
+64378	80531	hubercolumbian-Ika	arhu1242		burn	2102	BURN		aʔnésən	a ʔ n e s ə n
+64379	80532	hubercolumbian-Ika	arhu1242		burn	2102	BURN		púnən	p u n ə n
+64384	80537	hubercolumbian-Kogui	cogu1240		burn	2102	BURN		púldi	p u l d i
+64385	80538	hubercolumbian-Kogui	cogu1240		burn	2102	BURN		jóʃĩ	j o ʃ ĩ
+64419	80572	hubercolumbian-TuneboCentral	cent2150		burn	2102	BURN		waʔnínro	w a ʔ n i n r o
+91331	107484	constenlachibchan-Boruca	boru1252		cloud	1489	CLOUD		bók	b o k
+91332	107485	constenlachibchan-Bribri	brib1243		cloud	1489	CLOUD		bṍ	b õ
+91333	107486	constenlachibchan-Buglere	bugl1243		cloud	1489	CLOUD		boga	b o g a
+91334	107487	constenlachibchan-Cabecar	cabe1245		cloud	1489	CLOUD		bõ̀	b õ
+91336	107489	constenlachibchan-Chibcha	chib1270		cloud	1489	CLOUD		ʔaoa	ʔ a o a
+91339	107492	constenlachibchan-MalekuJaika	male1297		cloud	1489	CLOUD		piu:	p i uː
+91341	107494	constenlachibchan-Ngabere	ngab1239		cloud	1489	CLOUD		mɯta	m ɯ t a
+91342	107495	constenlachibchan-Pech	pech1241		cloud	1489	CLOUD		wanàk	w a n a k
+91343	107496	constenlachibchan-Rama	rama1270		cloud	1489	CLOUD		nu:nikka:s	n uː n i k aː s
+91344	107497	constenlachibchan-SanBlasKuna	sanb1242		cloud	1489	CLOUD		mola	m o l a
+91345	107498	constenlachibchan-Teribe	teri1250		cloud	1489	CLOUD		ɸóŋ	ɸ o ŋ
+91516	107669	hubercolumbian-Bari	bari1297		cloud	1489	CLOUD		badunə	b a d u n ə
+91521	107674	hubercolumbian-Chimila	chim1309		cloud	1489	CLOUD		mónseʔ	m o n s e ʔ
+91526	107679	hubercolumbian-Dimina	mala1522		cloud	1489	CLOUD		moɲa sen	m o ɲ a + s e n
+91535	107688	hubercolumbian-Ika	arhu1242		cloud	1489	CLOUD		mə́ɲi̵	m ə ɲ ɨ
+91540	107693	hubercolumbian-Kogui	cogu1240		cloud	1489	CLOUD		máuwi	m a u w i
+91563	107716	hubercolumbian-TuneboCentral	cent2150		cloud	1489	CLOUD		bowaramá	b o w a r a m a
+94928	111081	constenlachibchan-Boruca	boru1252		cold	1287	COLD		sèxká	s e x k a
+94929	111082	constenlachibchan-Bribri	brib1243		cold	1287	COLD		sẽ̂ssẽ̌	s ẽ s ẽ
+94930	111083	constenlachibchan-Buglere	bugl1243		cold	1287	COLD		skeke	s k e k e
+94931	111084	constenlachibchan-Cabecar	cabe1245		cold	1287	COLD		tsḗ	t s ẽ
+94933	111086	constenlachibchan-Chibcha	chib1270		cold	1287	COLD		nɨko	n ɨ k o
+94936	111089	constenlachibchan-MalekuJaika	male1297		cold	1287	COLD		tʃitʃi:xa	tʃ i tʃ iː x a
+94938	111091	constenlachibchan-Ngabere	ngab1239		cold	1287	COLD		tibo	t i b o
+94939	111092	constenlachibchan-Pech	pech1241		cold	1287	COLD		sã̀jwá	s ã j w a
+94940	111093	constenlachibchan-Rama	rama1270		cold	1287	COLD		saima	s a i m a
+94941	111094	constenlachibchan-SanBlasKuna	sanb1242		cold	1287	COLD		tiopikwa	t i o p i k w a
+94942	111095	constenlachibchan-Teribe	teri1250		cold	1287	COLD		séntè	s e n t e
+95069	111222	hubercolumbian-Bari	bari1297		cold	1287	COLD		dukajnə	d u k a j n ə
+95079	111232	hubercolumbian-Chimila	chim1309		cold	1287	COLD		súkku	s u k k u
+95080	111233	hubercolumbian-Chimila	chim1309		cold	1287	COLD		hok	h o k
+95081	111234	hubercolumbian-Chimila	chim1309		cold	1287	COLD		hótte	h o t t e
+95087	111240	hubercolumbian-Dimina	mala1522		cold	1287	COLD		sinsí̵n	s i n s ɨ n
+95100	111253	hubercolumbian-Ika	arhu1242		cold	1287	COLD		aʔsirísən	a ʔ s i r i s ə n
+95105	111258	hubercolumbian-Kogui	cogu1240		cold	1287	COLD		ʃətʃə́tguĩ	ʃ ə t ʃ ə t g u ĩ
+95129	111282	hubercolumbian-TuneboCentral	cent2150		cold	1287	COLD		sukínro	s u k i n r o
+98549	114702	constenlachibchan-Boruca	boru1252		come	1446	COME		dàbàk	d a b a k
+98550	114703	constenlachibchan-Bribri	brib1243		come	1446	COME		dɪ	d ɪ
+98551	114704	constenlachibchan-Buglere	bugl1243		come	1446	COME		tʃige	tʃ i g e
+98552	114705	constenlachibchan-Cabecar	cabe1245		come	1446	COME		de	d e
+98554	114707	constenlachibchan-Chibcha	chib1270		come	1446	COME		nɨ	n ɨ
+98557	114710	constenlachibchan-MalekuJaika	male1297		come	1446	COME		to-ki:	t o + k iː
+98559	114712	constenlachibchan-Ngabere	ngab1239		come	1446	COME		kite	k i t e
+98560	114713	constenlachibchan-Pech	pech1241		come	1446	COME		tèʔk	t e ʔ k
+98561	114714	constenlachibchan-Rama	rama1270		come	1446	COME		si:k	s iː k
+98562	114715	constenlachibchan-SanBlasKuna	sanb1242		come	1446	COME		ta-ke	t a + k e
+98563	114716	constenlachibchan-Teribe	teri1250		come	1446	COME		ték	t e k
+98745	114898	hubercolumbian-Bari	bari1297		come	1446	COME		kiɾə	k i ɾ ə
+98752	114905	hubercolumbian-Chimila	chim1309		come	1446	COME		hátta	h a t t a
+98759	114912	hubercolumbian-Dimina	mala1522		come	1446	COME		nakan	n a k a n
+98771	114924	hubercolumbian-Ika	arhu1242		come	1446	COME		nákən	n a k ə n
+98776	114929	hubercolumbian-Kogui	cogu1240		come	1446	COME		náʃĩ	n a ʃ ĩ
+98800	114953	hubercolumbian-TuneboCentral	cent2150		come	1446	COME		wikínro	w i k i n r o
+126951	143106	hubercolumbian-Bari	bari1297		die	1494	DIE		ʃidi̵rikbajkajnə	ʃ i d ɨ r i k b a j k a j n ə
+126963	143118	hubercolumbian-Chimila	chim1309		die	1494	DIE		juúta	j u u t a
+126968	143123	hubercolumbian-Dimina	mala1522		die	1494	DIE		widá	w i d a
+126969	143124	hubercolumbian-Dimina	mala1522		die	1494	DIE		wizi	w i z i
+126979	143134	hubercolumbian-Ika	arhu1242		die	1494	DIE		wíʧən	w i tʃ ə n
+126984	143139	hubercolumbian-Kogui	cogu1240		die	1494	DIE		ʃuíʃĩ	ʃ u i ʃ ĩ
+127012	143167	hubercolumbian-TuneboCentral	cent2150		die	1494	DIE		ʃininro	ʃ i n i n r o
+127013	143168	hubercolumbian-TuneboCentral	cent2150		die	1494	DIE		jarinro	j a r i n r o
+135365	151520	constenlachibchan-Boruca	boru1252		dog	2009	DOG		àúx	a u x
+135366	151521	constenlachibchan-Bribri	brib1243		dog	2009	DOG		tʃítʃì	tʃ i tʃ i
+135367	151522	constenlachibchan-Buglere	bugl1243		dog	2009	DOG		to	t o
+135368	151523	constenlachibchan-Cabecar	cabe1245		dog	2009	DOG		tʃítʃì	tʃ i tʃ i
+135370	151525	constenlachibchan-Chibcha	chib1270		dog	2009	DOG		to	t o
+135373	151528	constenlachibchan-MalekuJaika	male1297		dog	2009	DOG		au:si	a uː s i
+135375	151530	constenlachibchan-Ngabere	ngab1239		dog	2009	DOG		nu	n u
+135376	151531	constenlachibchan-Pech	pech1241		dog	2009	DOG		ʃúʃù	ʃ u ʃ u
+135377	151532	constenlachibchan-Rama	rama1270		dog	2009	DOG		tausuŋ	t a u s u ŋ
+135378	151533	constenlachibchan-SanBlasKuna	sanb1242		dog	2009	DOG		atʃu	a tʃ u
+135379	151534	constenlachibchan-Teribe	teri1250		dog	2009	DOG		ʃíʃì	ʃ i ʃ i
+135519	151674	hubercolumbian-Bari	bari1297		dog	2009	DOG		dudabərə	d u d a b ə r ə
+135527	151682	hubercolumbian-Chimila	chim1309		dog	2009	DOG		ⁿdéekruʔ	ⁿd e e k r u ʔ
+135534	151689	hubercolumbian-Dimina	mala1522		dog	2009	DOG		ki̵nsi	k ɨ n s i
+135542	151697	hubercolumbian-Ika	arhu1242		dog	2009	DOG		péri̵	p e r ɨ
+135547	151702	hubercolumbian-Kogui	cogu1240		dog	2009	DOG		píju	p i j u
+135570	151725	hubercolumbian-TuneboCentral	cent2150		dog	2009	DOG		bájara	b a j a r a
+141831	157986	constenlachibchan-Boruca	boru1252		drink	1401	DRINK		dʒáŋ	dʒ a ŋ
+141832	157987	constenlachibchan-Bribri	brib1243		drink	1401	DRINK		dʒa	dʒ a
+141833	157988	constenlachibchan-Buglere	bugl1243		drink	1401	DRINK		hai	h a i
+141834	157989	constenlachibchan-Cabecar	cabe1245		drink	1401	DRINK		dʒɪ	dʒ ɪ
+141836	157991	constenlachibchan-Chibcha	chib1270		drink	1401	DRINK		iohotɨ	i o h o t ɨ
+141839	157994	constenlachibchan-MalekuJaika	male1297		drink	1401	DRINK		tʃa:	tʃ aː
+141841	157996	constenlachibchan-Ngabere	ngab1239		drink	1401	DRINK		ɲã	ɲ ã
+141842	157997	constenlachibchan-Pech	pech1241		drink	1401	DRINK		tòk	t o k
+141843	157998	constenlachibchan-Rama	rama1270		drink	1401	DRINK		ŋw	ŋ w
+141844	157999	constenlachibchan-SanBlasKuna	sanb1242		drink	1401	DRINK		kope	k o p e
+141845	158000	constenlachibchan-Teribe	teri1250		drink	1401	DRINK		iɪ́	i ɪ
+141984	158139	hubercolumbian-Bari	bari1297		drink	1401	DRINK		ʔajgsajnə	ʔ a j g s a j n ə
+141993	158148	hubercolumbian-Chimila	chim1309		drink	1401	DRINK		uk	u k
+141998	158153	hubercolumbian-Dimina	mala1522		drink	1401	DRINK		anga	a n g a
+142008	158163	hubercolumbian-Ika	arhu1242		drink	1401	DRINK		aʔgən	a ʔ g ə n
+142014	158169	hubercolumbian-Kogui	cogu1240		drink	1401	DRINK		túʃĩ	t u ʃ ĩ
+142038	158193	hubercolumbian-TuneboCentral	cent2150		drink	1401	DRINK		jáʔnro	j a ʔ n r o
+145464	161619	constenlachibchan-Boruca	boru1252		dry	1398	DRY		tskènká	t s k e n k a
+145465	161620	constenlachibchan-Bribri	brib1243		dry	1398	DRY		pôppǒ	p o p o
+145466	161621	constenlachibchan-Buglere	bugl1243		dry	1398	DRY		ulen	u l e n
+145467	161622	constenlachibchan-Cabecar	cabe1245		dry	1398	DRY		pó	p o
+145469	161624	constenlachibchan-Chibcha	chib1270		dry	1398	DRY		βutʲua	β u tʲ u a
+145472	161627	constenlachibchan-MalekuJaika	male1297		dry	1398	DRY		tiɬa:-xa	t i ɬ aː + x a
+145474	161629	constenlachibchan-Ngabere	ngab1239		dry	1398	DRY		nɣta-ɾe	n ɣ t a + ɾ e
+145475	161630	constenlachibchan-Pech	pech1241		dry	1398	DRY		a:ɾá:ni	aː ɾ aː n i
+145476	161631	constenlachibchan-Rama	rama1270		dry	1398	DRY		plu:sba	p l uː s b a
+145477	161632	constenlachibchan-SanBlasKuna	sanb1242		dry	1398	DRY		tinna	t i n a
+145478	161633	constenlachibchan-Teribe	teri1250		dry	1398	DRY		idógɺo	i d o g ɺ o
+145628	161783	hubercolumbian-Bari	bari1297		dry	1398	DRY		buɾuninə	b u ɾ u n i n ə
+145636	161791	hubercolumbian-Chimila	chim1309		dry	1398	DRY		ᵐbrontaʔ	ⁿb r o n t a ʔ
+145641	161796	hubercolumbian-Dimina	mala1522		dry	1398	DRY		ʒíta	ʒ i t a
+145642	161797	hubercolumbian-Dimina	mala1522		dry	1398	DRY		hanáni̵nka	h a n a n ɨ n k a
+145652	161807	hubercolumbian-Ika	arhu1242		dry	1398	DRY		ʤómi̵	dʒ o m ɨ
+145659	161814	hubercolumbian-Kogui	cogu1240		dry	1398	DRY		kánane	k a n a n e
+145684	161839	hubercolumbian-TuneboCentral	cent2150		dry	1398	DRY		ínkʷatro	i n kʷ a t r o
+150919	167074	constenlachibchan-Boruca	boru1252		ear	1247	EAR		kuágàx	k u a g a x
+150920	167075	constenlachibchan-Bribri	brib1243		ear	1247	EAR		kukʊ́	k u k ʊ
+150921	167076	constenlachibchan-Buglere	bugl1243		ear	1247	EAR		olo	o l o
+150922	167077	constenlachibchan-Cabecar	cabe1245		ear	1247	EAR		kukʊ́	k u k ʊ
+150924	167079	constenlachibchan-Chibcha	chib1270		ear	1247	EAR		kuhu-ka	k u h u + k a
+150927	167082	constenlachibchan-MalekuJaika	male1297		ear	1247	EAR		toko:	t o k oː
+150929	167084	constenlachibchan-Ngabere	ngab1239		ear	1247	EAR		olo	o l o
+150930	167085	constenlachibchan-Pech	pech1241		ear	1247	EAR		sũh	s ũ h
+150931	167086	constenlachibchan-Rama	rama1270		ear	1247	EAR		ku-ka:	k u + k aː
+150932	167087	constenlachibchan-SanBlasKuna	sanb1242		ear	1247	EAR		uaja	u a j a
+150933	167088	constenlachibchan-Teribe	teri1250		ear	1247	EAR		kuòŋ-uó	k u o ŋ + u o
+151059	167214	hubercolumbian-Bari	bari1297		ear	1247	EAR		kokʧirə	k o k tʃ i r ə
+151066	167221	hubercolumbian-Chimila	chim1309		ear	1247	EAR		kússaka	k u s s a k a
+151071	167226	hubercolumbian-Dimina	mala1522		ear	1247	EAR		kukwá	k u k w a
+151081	167236	hubercolumbian-Ika	arhu1242		ear	1247	EAR		kúkkwi̵	k u k k w ɨ
+151086	167241	hubercolumbian-Kogui	cogu1240		ear	1247	EAR		kúxa	k u x a
+151110	167265	hubercolumbian-TuneboCentral	cent2150		ear	1247	EAR		kukahá	k u k a h a
+151111	167266	hubercolumbian-TuneboCentral	cent2150		ear	1247	EAR		kukaʃá	k u k a ʃ a
+153891	170046	constenlachibchan-Boruca	boru1252		earthsoil	1228	EARTH (SOIL)		táb	t a b
+153892	170047	constenlachibchan-Bribri	brib1243		earthsoil	1228	EARTH (SOIL)		ídʒʊ̀k	i dʒ ʊ k
+153893	170048	constenlachibchan-Buglere	bugl1243		earthsoil	1228	EARTH (SOIL)		dbi	d b i
+153894	170049	constenlachibchan-Cabecar	cabe1245		earthsoil	1228	EARTH (SOIL)		hĩʃkʊ́	h ĩ ʃ k ʊ
+153896	170051	constenlachibchan-Chibcha	chib1270		earthsoil	1228	EARTH (SOIL)		histʲa	h i s tʲ a
+153899	170054	constenlachibchan-MalekuJaika	male1297		earthsoil	1228	EARTH (SOIL)		laka:	l a k aː
+153901	170056	constenlachibchan-Ngabere	ngab1239		earthsoil	1228	EARTH (SOIL)		dɔbrɔ	d ɔ b r ɔ
+153902	170057	constenlachibchan-Pech	pech1241		earthsoil	1228	EARTH (SOIL)		kúk	k u k
+153903	170058	constenlachibchan-Rama	rama1270		earthsoil	1228	EARTH (SOIL)		taki	t a k i
+153904	170059	constenlachibchan-SanBlasKuna	sanb1242		earthsoil	1228	EARTH (SOIL)		nappa	n a p a
+153905	170060	constenlachibchan-Teribe	teri1250		earthsoil	1228	EARTH (SOIL)		kɺúŋ	k ɺ u ŋ
+153962	170117	hubercolumbian-Bari	bari1297		earthsoil	1228	EARTH (SOIL)		ʔiʃtanə	ʔ i ʃ t a n ə
+153970	170125	hubercolumbian-Chimila	chim1309		earthsoil	1228	EARTH (SOIL)		íttiʔ	i t t i ʔ
+153979	170134	hubercolumbian-Dimina	mala1522		earthsoil	1228	EARTH (SOIL)		ki̵ngi̵ma	k ɨ n g ɨ m a
+153990	170145	hubercolumbian-Ika	arhu1242		earthsoil	1228	EARTH (SOIL)		káʔa	k a ʔ a
+153995	170150	hubercolumbian-Kogui	cogu1240		earthsoil	1228	EARTH (SOIL)		kággi	k a g g i
+154029	170184	hubercolumbian-TuneboCentral	cent2150		earthsoil	1228	EARTH (SOIL)		káhka	k a h k a
+156394	172549	constenlachibchan-Boruca	boru1252		eat	1336	EAT		túʔ	t u ʔ
+156395	172550	constenlachibchan-Bribri	brib1243		eat	1336	EAT		tʃka	tʃ k a
+156396	172551	constenlachibchan-Buglere	bugl1243		eat	1336	EAT		bliɾe	b l i ɾ e
+156397	172552	constenlachibchan-Cabecar	cabe1245		eat	1336	EAT		dʒakɪ	dʒ a k ɪ
+156399	172554	constenlachibchan-Chibcha	chib1270		eat	1336	EAT		so	s o
+156402	172557	constenlachibchan-MalekuJaika	male1297		eat	1336	EAT		laki:	l a k iː
+156404	172559	constenlachibchan-Ngabere	ngab1239		eat	1336	EAT		mɾɣɾe	m ɾ ɣ ɾ e
+156405	172560	constenlachibchan-Pech	pech1241		eat	1336	EAT		ã̀ʔ	ã ʔ
+156406	172561	constenlachibchan-Rama	rama1270		eat	1336	EAT		altuŋwa	a l t u ŋ w a
+156407	172562	constenlachibchan-SanBlasKuna	sanb1242		eat	1336	EAT		kunne	k u n e
+156408	172563	constenlachibchan-Teribe	teri1250		eat	1336	EAT		ií	i i
+156558	172713	hubercolumbian-Bari	bari1297		eat	1336	EAT		kaɾəbəsajnə	k a ɾ ə b ə s a j n ə
+156567	172722	hubercolumbian-Chimila	chim1309		eat	1336	EAT		kénne	k e n n e
+156568	172723	hubercolumbian-Chimila	chim1309		eat	1336	EAT		ⁿdjée	ⁿd j e e
+156569	172724	hubercolumbian-Chimila	chim1309		eat	1336	EAT		cosas blandas	c o s a s + b l a n d a s
+156570	172725	hubercolumbian-Chimila	chim1309		eat	1336	EAT		kok	k o k
+156571	172726	hubercolumbian-Chimila	chim1309		eat	1336	EAT		cosas duras	c o s a s + d u r a s
+156577	172732	hubercolumbian-Dimina	mala1522		eat	1336	EAT		ʒa	ʒ a
+156578	172733	hubercolumbian-Dimina	mala1522		eat	1336	EAT		gan	g a n
+156590	172745	hubercolumbian-Ika	arhu1242		eat	1336	EAT		gən	g ə n
+156591	172746	hubercolumbian-Ika	arhu1242		eat	1336	EAT		zən	z ə n
+156596	172751	hubercolumbian-Kogui	cogu1240		eat	1336	EAT		záhĩ	z a h ĩ
+156597	172752	hubercolumbian-Kogui	cogu1240		eat	1336	EAT		gáhĩ	g a h ĩ
+156627	172782	hubercolumbian-TuneboCentral	cent2150		eat	1336	EAT		jájinro	j a j i n r o
+158896	175054	hubercolumbian-Bari	bari1297		egg	744	EGG		ʔaanə	ʔ aː n ə
+158904	175062	hubercolumbian-Chimila	chim1309		egg	744	EGG		kíiroʔráʔ	k i i r o ʔ r a ʔ
+158905	175063	hubercolumbian-Chimila	chim1309		egg	744	EGG		ʔraʔ	ʔ r a ʔ
+158910	175068	hubercolumbian-Dimina	mala1522		egg	744	EGG		nikuma	n i k u m a
+158921	175079	hubercolumbian-Ika	arhu1242		egg	744	EGG		wébu	w e b u
+158926	175084	hubercolumbian-Kogui	cogu1240		egg	744	EGG		guíbu	g u i b u
+158948	175106	hubercolumbian-TuneboCentral	cent2150		egg	744	EGG		aʔná	a ʔ n a
+169300	185458	constenlachibchan-Boruca	boru1252		eye	1248	EYE		kàʔíʃ kúb	k a ʔ i ʃ + k u b
+169301	185459	constenlachibchan-Bribri	brib1243		eye	1248	EYE		uʊ́baɺà	u ʊ b a ɺ a
+169302	185460	constenlachibchan-Buglere	bugl1243		eye	1248	EYE		gwagwa	g w a g w a
+169303	185461	constenlachibchan-Cabecar	cabe1245		eye	1248	EYE		uʊ́baɺà	u ʊ b a ɺ a
+169305	185463	constenlachibchan-Chibcha	chib1270		eye	1248	EYE		upkua	u p k u a
+169308	185466	constenlachibchan-MalekuJaika	male1297		eye	1248	EYE		ɸiɬi	ɸ i ɬ i
+169310	185468	constenlachibchan-Ngabere	ngab1239		eye	1248	EYE		okwɔ	o k w ɔ
+169311	185469	constenlachibchan-Pech	pech1241		eye	1248	EYE		wà	w a
+169312	185470	constenlachibchan-Rama	rama1270		eye	1248	EYE		up	u p
+169313	185471	constenlachibchan-SanBlasKuna	sanb1242		eye	1248	EYE		ipia	i p i a
+169314	185472	constenlachibchan-Teribe	teri1250		eye	1248	EYE		bòkuò	b o k u o
+169463	185621	hubercolumbian-Bari	bari1297		eye	1248	EYE		ooɾə	oː ɾ ə
+169464	185622	hubercolumbian-Bari	bari1297		eye	1248	EYE		ooʃinə	oː ʃ i n ə
+169472	185630	hubercolumbian-Chimila	chim1309		eye	1248	EYE		wáakuaʔ	w a a k u a ʔ
+169478	185636	hubercolumbian-Dimina	mala1522		eye	1248	EYE		uma	u m a
+169487	185645	hubercolumbian-Ika	arhu1242		eye	1248	EYE		úmi̵	u m ɨ
+169493	185651	hubercolumbian-Kogui	cogu1240		eye	1248	EYE		úba	u b a
+169515	185673	hubercolumbian-TuneboCentral	cent2150		eye	1248	EYE		ùba	u b a
+184768	200928	constenlachibchan-Boruca	boru1252		feather	1201	FEATHER		ká	k a
+184769	200929	constenlachibchan-Bribri	brib1243		feather	1201	FEATHER		kʊ́	k ʊ
+184770	200930	constenlachibchan-Buglere	bugl1243		feather	1201	FEATHER		ga	g a
+184771	200931	constenlachibchan-Cabecar	cabe1245		feather	1201	FEATHER		kʊ́	k ʊ
+184773	200933	constenlachibchan-Chibcha	chib1270		feather	1201	FEATHER		ɣaka	ɣ a k a
+184776	200936	constenlachibchan-MalekuJaika	male1297		feather	1201	FEATHER		i:ɬa	iː ɬ a
+184778	200938	constenlachibchan-Ngabere	ngab1239		feather	1201	FEATHER		kɔ	k ɔ
+184779	200939	constenlachibchan-Pech	pech1241		feather	1201	FEATHER		ṹs	ũ s
+184780	200940	constenlachibchan-Rama	rama1270		feather	1201	FEATHER		a:bak	aː b a k
+184781	200941	constenlachibchan-SanBlasKuna	sanb1242		feather	1201	FEATHER		apsala	a p s a l a
+184782	200942	constenlachibchan-Teribe	teri1250		feather	1201	FEATHER		zók	z o k
+184801	200961	hubercolumbian-Bari	bari1297		feather	1201	FEATHER		ni̵i̵ barokbərə	n ɨ ɨ + b a r o k b ə r ə
+184808	200968	hubercolumbian-Chimila	chim1309		feather	1201	FEATHER		páaɾandaʔ	p a a ɾ a n d a ʔ
+184813	200973	hubercolumbian-Dimina	mala1522		feather	1201	FEATHER		ki̵nti̵na	k ɨ n t ɨ n a
+184822	200982	hubercolumbian-Ika	arhu1242		feather	1201	FEATHER		prantánu	p r a n t a n u
+184827	200987	hubercolumbian-Kogui	cogu1240		feather	1201	FEATHER		mə́nta	m ə n t a
+184851	201011	hubercolumbian-TuneboCentral	cent2150		feather	1201	FEATHER		áma	a m a
+187128	219781	hubercolumbian-Bari	bari1297		fleshormeat	2615	FLESH OR MEAT		ʔajaɾiɾə	ʔ a j a ɾ i ɾ ə
+187141	219794	hubercolumbian-Dimina	mala1522		fleshormeat	2615	FLESH OR MEAT		rema	r e m a
+187142	219795	hubercolumbian-Dimina	mala1522		fleshormeat	2615	FLESH OR MEAT		gi̵tá	g ɨ t a
+187153	219806	hubercolumbian-Ika	arhu1242		fleshormeat	2615	FLESH OR MEAT		gə́ʧi̵	g ə tʃ ɨ
+187158	219811	hubercolumbian-Kogui	cogu1240		fleshormeat	2615	FLESH OR MEAT		gátə	g a t ə
+187185	219838	hubercolumbian-TuneboCentral	cent2150		fleshormeat	2615	FLESH OR MEAT		surá	s u r a
+192759	225412	hubercolumbian-Bari	bari1297		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ʔakaʧijuunə	ʔ a k a tʃ i j uː n ə
+192766	225419	hubercolumbian-Chimila	chim1309		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		kútta	k u t t a
+192771	225424	hubercolumbian-Dimina	mala1522		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		si̵rán	s ɨ r a n
+192781	225434	hubercolumbian-Ika	arhu1242		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		drínən	d r i n ə n
+192782	225435	hubercolumbian-Ika	arhu1242		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		drúnən	d r u n ə n
+192787	225440	hubercolumbian-Kogui	cogu1240		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		huehuénĩ	h u e h u e n ĩ
+195933	228586	constenlachibchan-Boruca	boru1252		foot	1301	FOOT		kùɾáskuà	k u ɾ a s k u a
+195934	228587	constenlachibchan-Bribri	brib1243		foot	1301	FOOT		kaɺʊ́	k a ɺ ʊ
+195935	228588	constenlachibchan-Buglere	bugl1243		foot	1301	FOOT		seɾa	s e ɾ a
+195936	228589	constenlachibchan-Cabecar	cabe1245		foot	1301	FOOT		kaɺʊ́	k a ɺ ʊ
+195938	228591	constenlachibchan-Chibcha	chib1270		foot	1301	FOOT		kihitʲa	k i h i tʲ a
+195941	228594	constenlachibchan-MalekuJaika	male1297		foot	1301	FOOT		ɬo:ki tʃa:	ɬ oː k i + tʃ aː
+195943	228596	constenlachibchan-Ngabere	ngab1239		foot	1301	FOOT		ŋoto	ŋ o t o
+195944	228597	constenlachibchan-Pech	pech1241		foot	1301	FOOT		tàh	t a h
+195945	228598	constenlachibchan-Rama	rama1270		foot	1301	FOOT		ka:t	k aː t
+195946	228599	constenlachibchan-SanBlasKuna	sanb1242		foot	1301	FOOT		naka	n a k a
+195947	228600	constenlachibchan-Teribe	teri1250		foot	1301	FOOT		ʃkóŋ	ʃ k o ŋ
+196065	228718	hubercolumbian-Bari	bari1297		foot	1301	FOOT		kixturə	k i x t u r ə
+196073	228726	hubercolumbian-Chimila	chim1309		foot	1301	FOOT		kássa	k a s s a
+196078	228731	hubercolumbian-Dimina	mala1522		foot	1301	FOOT		ki̵sá	k ɨ s a
+196088	228741	hubercolumbian-Ika	arhu1242		foot	1301	FOOT		kə́tti̵	k ə t t ɨ
+196093	228746	hubercolumbian-Kogui	cogu1240		foot	1301	FOOT		kása	k a s a
+196117	228770	hubercolumbian-TuneboCentral	cent2150		foot	1301	FOOT		keskára	k e s k a r a
+209166	241819	hubercolumbian-Bari	bari1297		full	1429	FULL		ʔiʃiʔdəsonə	ʔ i ʃ i ʔ d ə s o n ə
+209175	241828	hubercolumbian-Chimila	chim1309		full	1429	FULL		kúuti	k u u t i
+209181	241834	hubercolumbian-Dimina	mala1522		full	1429	FULL		kut	k u t
+209189	241842	hubercolumbian-Ika	arhu1242		full	1429	FULL		kóʔo	k o ʔ o
+209194	241847	hubercolumbian-Kogui	cogu1240		full	1429	FULL		hiə́ldə	h i ə l d ə
+209223	241876	hubercolumbian-TuneboCentral	cent2150		full	1429	FULL		kʷinhak biro	kʷ i n h a k + b i r o
+214328	246981	constenlachibchan-Boruca	boru1252		give	1447	GIVE		dóʔ	d o ʔ
+214329	246982	constenlachibchan-Bribri	brib1243		give	1447	GIVE		abẽ	a b ẽ
+214330	246983	constenlachibchan-Buglere	bugl1243		give	1447	GIVE		kete	k e t e
+214331	246984	constenlachibchan-Cabecar	cabe1245		give	1447	GIVE		bẽ	b ẽ
+214333	246986	constenlachibchan-Chibcha	chib1270		give	1447	GIVE		nɨ	n ɨ
+214336	246989	constenlachibchan-MalekuJaika	male1297		give	1447	GIVE		ta:	t aː
+214338	246991	constenlachibchan-Ngabere	ngab1239		give	1447	GIVE		bĩ	b ĩ
+214339	246992	constenlachibchan-Pech	pech1241		give	1447	GIVE		ã̀h	ã h
+214340	246993	constenlachibchan-Rama	rama1270		give	1447	GIVE		taŋ	t a ŋ
+214341	246994	constenlachibchan-SanBlasKuna	sanb1242		give	1447	GIVE		ukke	u k e
+214342	246995	constenlachibchan-Teribe	teri1250		give	1447	GIVE		sɪ́ŋ	s ɪ ŋ
+214487	247140	hubercolumbian-Bari	bari1297		give	1447	GIVE		ʔidajnə	ʔ i d a j n ə
+214496	247149	hubercolumbian-Chimila	chim1309		give	1447	GIVE		ⁿdée	ⁿd e e
+214504	247157	hubercolumbian-Dimina	mala1522		give	1447	GIVE		akaui	a k a u i
+214516	247169	hubercolumbian-Ika	arhu1242		give	1447	GIVE		aʔwésən	a ʔ w e s ə n
+214522	247175	hubercolumbian-Kogui	cogu1240		give	1447	GIVE		akkãìuwi	a k k ã i u w i
+214546	247199	hubercolumbian-TuneboCentral	cent2150		give	1447	GIVE		wíkinro	w i k i n r o
+220444	253100	constenlachibchan-Boruca	boru1252		good	1035	GOOD		mòɾéŋ	m o ɾ e ŋ
+220445	253101	constenlachibchan-Bribri	brib1243		good	1035	GOOD		buǎʔ	b u a ʔ
+220446	253102	constenlachibchan-Buglere	bugl1243		good	1035	GOOD		no	n o
+220447	253103	constenlachibchan-Cabecar	cabe1245		good	1035	GOOD		bʊ́ɪ	b ʊ ɪ
+220449	253105	constenlachibchan-Chibcha	chib1270		good	1035	GOOD		tʲo	tʲ o
+220452	253108	constenlachibchan-MalekuJaika	male1297		good	1035	GOOD		maɾa:la:ɸaɾiŋa:	m a ɾ aː l aː ɸ a ɾ i ŋ aː
+220454	253110	constenlachibchan-Ngabere	ngab1239		good	1035	GOOD		kɔ̃ɪ̃	k ɔ̃ ɪ̃
+220455	253111	constenlachibchan-Pech	pech1241		good	1035	GOOD		ã́jjã̀	ã j ã
+220456	253112	constenlachibchan-Rama	rama1270		good	1035	GOOD		mali:ma	m a l iː m a
+220457	253113	constenlachibchan-SanBlasKuna	sanb1242		good	1035	GOOD		nu-eti	n u + e t i
+220458	253114	constenlachibchan-Teribe	teri1250		good	1035	GOOD		kʰóbe	kʰ o b e
+220611	253267	hubercolumbian-Bari	bari1297		good	1035	GOOD		sabaⁱninə	s a b ai n i n ə
+220623	253279	hubercolumbian-Chimila	chim1309		good	1035	GOOD		be	b e
+220630	253286	hubercolumbian-Dimina	mala1522		good	1035	GOOD		zúni̵nka	z u n ɨ n k a
+220640	253296	hubercolumbian-Ika	arhu1242		good	1035	GOOD		du kawa	d u + k a w a
+220647	253303	hubercolumbian-Kogui	cogu1240		good	1035	GOOD		həìnʃiʒe	h ə i n ʃ i ʒ e
+220671	253327	hubercolumbian-TuneboCentral	cent2150		good	1035	GOOD		ájro	a j r o
+228318	260974	constenlachibchan-Boruca	boru1252		green	1425	GREEN		uàʔká	u a ʔ k a
+228319	260975	constenlachibchan-Bribri	brib1243		green	1425	GREEN		tsipâsipǎ	t s i p a s i p a
+228320	260976	constenlachibchan-Buglere	bugl1243		green	1425	GREEN		leɾeɾe	l e ɾ e ɾ e
+228321	260977	constenlachibchan-Cabecar	cabe1245		green	1425	GREEN		spã́	s p ã
+228323	260979	constenlachibchan-Chibcha	chib1270		green	1425	GREEN		tʲɨskiko	tʲ ɨ s k i k o
+228326	260982	constenlachibchan-MalekuJaika	male1297		green	1425	GREEN		ɬa:ŋa	ɬ aː ŋ a
+228328	260984	constenlachibchan-Ngabere	ngab1239		green	1425	GREEN		kaɾe	k a ɾ e
+228329	260985	constenlachibchan-Pech	pech1241		green	1425	GREEN		sáʔka	s a ʔ k a
+228330	260986	constenlachibchan-Rama	rama1270		green	1425	GREEN		ŋaɾŋaɾiŋma	ŋ a ɾ ŋ a ɾ i ŋ m a
+228331	260987	constenlachibchan-SanBlasKuna	sanb1242		green	1425	GREEN		aɾati	a ɾ a t i
+228332	260988	constenlachibchan-Teribe	teri1250		green	1425	GREEN		dìŋdíŋ	d i ŋ d i ŋ
+228421	261077	hubercolumbian-Bari	bari1297		green	1425	GREEN		birajkaɾanə	b i r a j k a ɾ a n ə
+228428	261084	hubercolumbian-Chimila	chim1309		green	1425	GREEN		káarasáŋanaatúu	k a a r a s a ŋ a n aː t u u
+228433	261089	hubercolumbian-Dimina	mala1522		green	1425	GREEN		ítiki	i t i k i
+228447	261103	hubercolumbian-Ika	arhu1242		green	1425	GREEN		ʧíkirúru	tʃ i k i r u r u
+228452	261108	hubercolumbian-Kogui	cogu1240		green	1425	GREEN		ətáʃi	ə t a ʃ i
+228476	261132	hubercolumbian-TuneboCentral	cent2150		green	1425	GREEN		tikája	t i k a j a
+234418	267074	constenlachibchan-Boruca	boru1252		hair	1040	HAIR		ʃíxtkà	ʃ i x t k a
+234419	267075	constenlachibchan-Bribri	brib1243		hair	1040	HAIR		tsã́	t s ã
+234420	267076	constenlachibchan-Buglere	bugl1243		hair	1040	HAIR		tʃugaga	tʃ u g a g a
+234421	267077	constenlachibchan-Cabecar	cabe1245		hair	1040	HAIR		tsã́-kṹ kʊ	t s ã + k ũ + k ʊ
+234423	267079	constenlachibchan-Chibcha	chib1270		hair	1040	HAIR		tsɨe	t s ɨ e
+234426	267082	constenlachibchan-MalekuJaika	male1297		hair	1040	HAIR		i:ɬa	iː ɬ a
+234428	267084	constenlachibchan-Ngabere	ngab1239		hair	1040	HAIR		dokwɔdɾɯ	d o k w ɔ d ɾ ɯ
+234429	267085	constenlachibchan-Pech	pech1241		hair	1040	HAIR		ṹs	ũ s
+234430	267086	constenlachibchan-Rama	rama1270		hair	1040	HAIR		uli:s	u l iː s
+234431	267087	constenlachibchan-SanBlasKuna	sanb1242		hair	1040	HAIR		sa-ila	s a + i l a
+234432	267088	constenlachibchan-Teribe	teri1250		hair	1040	HAIR		kóŋzò	k o ŋ z o
+238111	270767	constenlachibchan-Boruca	boru1252		hand	1277	HAND		dʒùɾéʔ	dʒ u ɾ e ʔ
+238112	270768	constenlachibchan-Bribri	brib1243		hand	1277	HAND		uɺa	u ɺ a
+238113	270769	constenlachibchan-Buglere	bugl1243		hand	1277	HAND		ko	k o
+238114	270770	constenlachibchan-Cabecar	cabe1245		hand	1277	HAND		huɺà	h u ɺ a
+238116	270772	constenlachibchan-Chibcha	chib1270		hand	1277	HAND		ɨta	ɨ t a
+238119	270775	constenlachibchan-MalekuJaika	male1297		hand	1277	HAND		kuki:	k u k iː
+238121	270777	constenlachibchan-Ngabere	ngab1239		hand	1277	HAND		kise	k i s e
+238122	270778	constenlachibchan-Pech	pech1241		hand	1277	HAND		swà	s w a
+238123	270779	constenlachibchan-Rama	rama1270		hand	1277	HAND		kwi:k	k w iː k
+238124	270780	constenlachibchan-SanBlasKuna	sanb1242		hand	1277	HAND		aɾkan	a ɾ k a n
+238125	270781	constenlachibchan-Teribe	teri1250		hand	1277	HAND		óɾkuò	o ɾ k u o
+238262	270918	hubercolumbian-Bari	bari1297		hand	1277	HAND		ʔakdurə	ʔ a k d u r ə
+238263	270919	hubercolumbian-Bari	bari1297		hand	1277	HAND		ʔaxdurə	ʔ a x d u r ə
+238272	270928	hubercolumbian-Chimila	chim1309		hand	1277	HAND		háttakɾaʔ	h a t t a k ɾ a ʔ
+238278	270934	hubercolumbian-Dimina	mala1522		hand	1277	HAND		gúla	g u l a
+238287	270943	hubercolumbian-Ika	arhu1242		hand	1277	HAND		gúnni̵	g u n n ɨ
+238292	270948	hubercolumbian-Kogui	cogu1240		hand	1277	HAND		káuxəldə	k a u x ə l d ə
+238315	270971	hubercolumbian-TuneboCentral	cent2150		hand	1277	HAND		átkara	a t k a r a
+243681	276338	constenlachibchan-Boruca	boru1252		head	1256	HEAD		sà-gɾá	s a + g ɾ a
+243682	276339	constenlachibchan-Bribri	brib1243		head	1256	HEAD		uʊ̂kìd	u ʊ k i d
+243683	276340	constenlachibchan-Buglere	bugl1243		head	1256	HEAD		tʃuga	tʃ u g a
+243684	276341	constenlachibchan-Cabecar	cabe1245		head	1256	HEAD		tsã́-kṹ	t s ã + k ũ
+243686	276343	constenlachibchan-Chibcha	chib1270		head	1256	HEAD		tsɨskɨ	t s ɨ s k ɨ
+243689	276346	constenlachibchan-MalekuJaika	male1297		head	1256	HEAD		tʃa:	tʃ aː
+243691	276348	constenlachibchan-Ngabere	ngab1239		head	1256	HEAD		dokwɔ	d o k w ɔ
+243692	276349	constenlachibchan-Pech	pech1241		head	1256	HEAD		sã́	s ã
+243693	276350	constenlachibchan-Rama	rama1270		head	1256	HEAD		ki:ŋ	k iː ŋ
+243694	276351	constenlachibchan-SanBlasKuna	sanb1242		head	1256	HEAD		nono	n o n o
+243695	276352	constenlachibchan-Teribe	teri1250		head	1256	HEAD		kógo	k o g o
+243817	276474	hubercolumbian-Bari	bari1297		head	1256	HEAD		sajʔbərə	s a j ʔ b ə r ə
+243825	276482	hubercolumbian-Chimila	chim1309		head	1256	HEAD		háakɾa	h a a k ɾ a
+243830	276487	hubercolumbian-Dimina	mala1522		head	1256	HEAD		ʃamúnku	ʃ a m u n k u
+243839	276496	hubercolumbian-Ika	arhu1242		head	1256	HEAD		sakúku	s a k u k u
+243845	276502	hubercolumbian-Kogui	cogu1240		head	1256	HEAD		sáŋkəldə	s a ŋ k ə l d ə
+243869	276526	hubercolumbian-TuneboCentral	cent2150		head	1256	HEAD		kʷìsa	kʷ i s a
+246641	279298	constenlachibchan-Boruca	boru1252		hear	1408	HEAR		dóxk	d o x k
+246642	279299	constenlachibchan-Bribri	brib1243		hear	1408	HEAR		stsɪ	s t s ɪ
+246643	279300	constenlachibchan-Buglere	bugl1243		hear	1408	HEAR		tʃuge	tʃ u g e
+246644	279301	constenlachibchan-Cabecar	cabe1245		hear	1408	HEAR		ksɪ	k s ɪ
+246646	279303	constenlachibchan-Chibcha	chib1270		hear	1408	HEAR		nɨpkua	n ɨ p k u a
+246649	279306	constenlachibchan-MalekuJaika	male1297		hear	1408	HEAR		tai:ki	t a iː k i
+246651	279308	constenlachibchan-Ngabere	ngab1239		hear	1408	HEAR		nu	n u
+246652	279309	constenlachibchan-Pech	pech1241		hear	1408	HEAR		weʃ	w e ʃ
+246653	279310	constenlachibchan-Rama	rama1270		hear	1408	HEAR		alkuk	a l k u k
+246654	279311	constenlachibchan-SanBlasKuna	sanb1242		hear	1408	HEAR		itto	i t o
+246655	279312	constenlachibchan-Teribe	teri1250		hear	1408	HEAR		kúk	k u k
+246764	279421	hubercolumbian-Bari	bari1297		hear	1408	HEAR		ʔanajʃunə	ʔ a n a j ʃ u n ə
+246775	279432	hubercolumbian-Chimila	chim1309		hear	1408	HEAR		nok	n o k
+246780	279437	hubercolumbian-Dimina	mala1522		hear	1408	HEAR		ni̵kkwá	n ɨ k k w a
+246790	279447	hubercolumbian-Ika	arhu1242		hear	1408	HEAR		nóʔkwən	n o ʔ k w ə n
+246796	279453	hubercolumbian-Kogui	cogu1240		hear	1408	HEAR		núkʃĩ	n u k ʃ ĩ
+246818	279475	hubercolumbian-TuneboCentral	cent2150		hear	1408	HEAR		rakʷinro	r a kʷ i n r o
+248351	281008	hubercolumbian-Bari	bari1297		heart	1223	HEART		bosəɾə	b o s ə ɾ ə
+248359	281016	hubercolumbian-Chimila	chim1309		heart	1223	HEART		tóoʔ	t o o ʔ
+248364	281021	hubercolumbian-Dimina	mala1522		heart	1223	HEART		kunʃamanduri	k u n ʃ a m a n d u r i
+248371	281028	hubercolumbian-Ika	arhu1242		heart	1223	HEART		ʤwawíka	dʒ w a w i k a
+248376	281033	hubercolumbian-Kogui	cogu1240		heart	1223	HEART		hánəlduldi	h a n ə l d u l d i
+248402	281059	hubercolumbian-TuneboCentral	cent2150		heart	1223	HEART		urá	u r a
+263247	295907	hubercolumbian-Bari	bari1297		hornanatomy	1393	HORN (ANATOMY)		ʔaanə	ʔ aː n ə
+263254	295914	hubercolumbian-Chimila	chim1309		hornanatomy	1393	HORN (ANATOMY)		káatjukraʔ	k a a t j u k r a ʔ
+263259	295919	hubercolumbian-Dimina	mala1522		hornanatomy	1393	HORN (ANATOMY)		kaʃu	k a ʃ u
+263263	295923	hubercolumbian-Ika	arhu1242		hornanatomy	1393	HORN (ANATOMY)		káʧa	k a tʃ a
+263264	295924	hubercolumbian-Ika	arhu1242		hornanatomy	1393	HORN (ANATOMY)		káʧu	k a tʃ u
+263269	295929	hubercolumbian-Kogui	cogu1240		hornanatomy	1393	HORN (ANATOMY)		kə́ʧu	k ə tʃ u
+263293	295953	hubercolumbian-TuneboCentral	cent2150		hornanatomy	1393	HORN (ANATOMY)		kʷiskara	kʷ i s k a r a
+266127	298787	constenlachibchan-Boruca	boru1252		hotorwarm	2272	HOT OR WARM		dʒìká	dʒ i k a
+266128	298788	constenlachibchan-Bribri	brib1243		hotorwarm	2272	HOT OR WARM		bâbbǎ	b a b a
+266129	298789	constenlachibchan-Buglere	bugl1243		hotorwarm	2272	HOT OR WARM		hute	h u t e
+266130	298790	constenlachibchan-Cabecar	cabe1245		hotorwarm	2272	HOT OR WARM		buɪ́	b u ɪ
+266132	298792	constenlachibchan-Chibcha	chib1270		hotorwarm	2272	HOT OR WARM		tʲiptupkwa	tʲ i p t u p k w a
+266135	298795	constenlachibchan-MalekuJaika	male1297		hotorwarm	2272	HOT OR WARM		toke:-ʝa	t o k eː + ʝ a
+266137	298797	constenlachibchan-Ngabere	ngab1239		hotorwarm	2272	HOT OR WARM		ŋiɾe	ŋ i ɾ e
+266138	298798	constenlachibchan-Pech	pech1241		hotorwarm	2272	HOT OR WARM		patàʔok	p a t a ʔ o k
+266139	298799	constenlachibchan-Rama	rama1270		hotorwarm	2272	HOT OR WARM		tuku:-ba	t u k uː + b a
+266140	298800	constenlachibchan-SanBlasKuna	sanb1242		hotorwarm	2272	HOT OR WARM		ueti	u e t i
+266141	298801	constenlachibchan-Teribe	teri1250		hotorwarm	2272	HOT OR WARM		kʰɺík	kʰ ɺ i k
+274471	307131	constenlachibchan-Boruca	boru1252		i	1209	I		át	a t
+274472	307132	constenlachibchan-Bribri	brib1243		i	1209	I		dʒěʔ	dʒ e ʔ
+274473	307133	constenlachibchan-Buglere	bugl1243		i	1209	I		tʃa	tʃ a
+274474	307134	constenlachibchan-Cabecar	cabe1245		i	1209	I		dʒís	dʒ i s
+274476	307136	constenlachibchan-Chibcha	chib1270		i	1209	I		hɨtʲa	h ɨ tʲ a
+274479	307139	constenlachibchan-MalekuJaika	male1297		i	1209	I		ton	t o n
+274481	307141	constenlachibchan-Ngabere	ngab1239		i	1209	I		ti	t i
+274482	307142	constenlachibchan-Pech	pech1241		i	1209	I		tas	t a s
+274483	307143	constenlachibchan-Rama	rama1270		i	1209	I		na:s	n aː s
+274484	307144	constenlachibchan-SanBlasKuna	sanb1242		i	1209	I		ani	a n i
+274485	307145	constenlachibchan-Teribe	teri1250		i	1209	I		tʰà	tʰ a
+274571	307231	hubercolumbian-Bari	bari1297		i	1209	I		naj	n a j
+274578	307238	hubercolumbian-Chimila	chim1309		i	1209	I		náaɾi	n a a ɾ i
+274583	307243	hubercolumbian-Dimina	mala1522		i	1209	I		ra	r a
+274592	307252	hubercolumbian-Ika	arhu1242		i	1209	I		nən	n ə n
+274593	307253	hubercolumbian-Ika	arhu1242		i	1209	I		nə́ʔən	n ə ʔ ə n
+274598	307258	hubercolumbian-Kogui	cogu1240		i	1209	I		nə́s	n ə s
+274623	307283	hubercolumbian-TuneboCentral	cent2150		i	1209	I		ása	a s a
+287287	319947	constenlachibchan-Boruca	boru1252		kill	1417	KILL		áiʔ	a i ʔ
+287288	319948	constenlachibchan-Bribri	brib1243		kill	1417	KILL		kʊt	k ʊ t
+287289	319949	constenlachibchan-Buglere	bugl1243		kill	1417	KILL		gweda	g w e d a
+287290	319950	constenlachibchan-Cabecar	cabe1245		kill	1417	KILL		kot	k o t
+287292	319952	constenlachibchan-Chibcha	chib1270		kill	1417	KILL		ɣu	ɣ u
+287295	319955	constenlachibchan-MalekuJaika	male1297		kill	1417	KILL		kua:	k u aː
+287297	319957	constenlachibchan-Ngabere	ngab1239		kill	1417	KILL		kɔmike	k ɔ m i k e
+287298	319958	constenlachibchan-Pech	pech1241		kill	1417	KILL		àmàs	a m a s
+287299	319959	constenlachibchan-Rama	rama1270		kill	1417	KILL		maliŋ	m a l i ŋ
+287300	319960	constenlachibchan-SanBlasKuna	sanb1242		kill	1417	KILL		opurkwe	o p u r k w e
+287301	319961	constenlachibchan-Teribe	teri1250		kill	1417	KILL		zɾʊ́k	z ɾ ʊ k
+287424	320084	hubercolumbian-Chimila	chim1309		kill	1417	KILL		ᵑguah	ⁿg u a h
+287430	320090	hubercolumbian-Dimina	mala1522		kill	1417	KILL		gwaʒi	g w a ʒ i
+287440	320100	hubercolumbian-Ika	arhu1242		kill	1417	KILL		gwákən	g w a k ə n
+287445	320105	hubercolumbian-Kogui	cogu1240		kill	1417	KILL		guáʃi	g u a ʃ i
+287468	320128	hubercolumbian-TuneboCentral	cent2150		kill	1417	KILL		jáuwinro	j a u w i n r o
+290109	322769	hubercolumbian-Chimila	chim1309		knee	1371	KNEE		kréeʔ	k r e e ʔ
+290114	322774	hubercolumbian-Dimina	mala1522		knee	1371	KNEE		bi̵nki̵ká	b ɨ n k ɨ k a
+290123	322783	hubercolumbian-Ika	arhu1242		knee	1371	KNEE		biukə́ni̵	b i u k ə n ɨ
+290128	322788	hubercolumbian-Kogui	cogu1240		knee	1371	KNEE		núldu	n u l d u
+290152	322812	hubercolumbian-TuneboCentral	cent2150		knee	1371	KNEE		kuskára	k u s k a r a
+294227	326887	constenlachibchan-Boruca	boru1252		knowsomething	1410	KNOW (SOMETHING)		uí	u i
+294228	326888	constenlachibchan-Bribri	brib1243		knowsomething	1410	KNOW (SOMETHING)		uxtʃ-ẽ	u x tʃ + ẽ
+294229	326889	constenlachibchan-Buglere	bugl1243		knowsomething	1410	KNOW (SOMETHING)		uɲ-e	u ɲ + e
+294230	326890	constenlachibchan-Cabecar	cabe1245		knowsomething	1410	KNOW (SOMETHING)		hudʒ-ẽ	h u dʒ + ẽ
+294232	326892	constenlachibchan-Chibcha	chib1270		knowsomething	1410	KNOW (SOMETHING)		mukan	m u k a n
+294235	326895	constenlachibchan-MalekuJaika	male1297		knowsomething	1410	KNOW (SOMETHING)		uɾa:-xe	u ɾ aː + x e
+294237	326897	constenlachibchan-Ngabere	ngab1239		knowsomething	1410	KNOW (SOMETHING)		gaɾe	g a ɾ e
+294238	326898	constenlachibchan-Pech	pech1241		knowsomething	1410	KNOW (SOMETHING)		àɾíɾ	a ɾ i ɾ
+294239	326899	constenlachibchan-Rama	rama1270		knowsomething	1410	KNOW (SOMETHING)		ŋwa	ŋ w a
+294240	326900	constenlachibchan-SanBlasKuna	sanb1242		knowsomething	1410	KNOW (SOMETHING)		wisi	w i s i
+294241	326901	constenlachibchan-Teribe	teri1250		knowsomething	1410	KNOW (SOMETHING)		hmídɪ̀	h m i d ɪ
+294317	326977	hubercolumbian-Bari	bari1297		knowsomething	1410	KNOW (SOMETHING)		kamənə	k a m ə n ə
+294324	326984	hubercolumbian-Chimila	chim1309		knowsomething	1410	KNOW (SOMETHING)		wi	w i
+294325	326985	hubercolumbian-Chimila	chim1309		knowsomething	1410	KNOW (SOMETHING)		wíkka	w i k k a
+294331	326991	hubercolumbian-Dimina	mala1522		knowsomething	1410	KNOW (SOMETHING)		kʒantikwaga	k ʒ a n t i k w a g a
+294340	327000	hubercolumbian-Ika	arhu1242		knowsomething	1410	KNOW (SOMETHING)		agə́nkwən	a g ə n k w ə n
+294346	327006	hubercolumbian-Kogui	cogu1240		knowsomething	1410	KNOW (SOMETHING)		akkuáldi	a k k u a l d i
+294370	327030	hubercolumbian-TuneboCentral	cent2150		knowsomething	1410	KNOW (SOMETHING)		istínro	i s t i n r o
+301880	334540	constenlachibchan-Boruca	boru1252		leaf	628	LEAF		ká	k a
+301881	334541	constenlachibchan-Bribri	brib1243		leaf	628	LEAF		kʊ́	k ʊ
+301882	334542	constenlachibchan-Buglere	bugl1243		leaf	628	LEAF		ga	g a
+301883	334543	constenlachibchan-Cabecar	cabe1245		leaf	628	LEAF		kʊ́	k ʊ
+301885	334545	constenlachibchan-Chibcha	chib1270		leaf	628	LEAF		kɨe	k ɨ e
+301888	334548	constenlachibchan-MalekuJaika	male1297		leaf	628	LEAF		au:ki	a uː k i
+301890	334550	constenlachibchan-Ngabere	ngab1239		leaf	628	LEAF		kʔ	k ʔ
+301891	334551	constenlachibchan-Pech	pech1241		leaf	628	LEAF		á	a
+301892	334552	constenlachibchan-Rama	rama1270		leaf	628	LEAF		ka:	k aː
+301893	334553	constenlachibchan-SanBlasKuna	sanb1242		leaf	628	LEAF		ka:	k aː
+301894	334554	constenlachibchan-Teribe	teri1250		leaf	628	LEAF		kʰɺógà	kʰ ɺ o g a
+302065	334725	hubercolumbian-Chimila	chim1309		leaf	628	LEAF		rúŋhakakáa	r u ŋ h a k a k a a
+302066	334726	hubercolumbian-Chimila	chim1309		leaf	628	LEAF		kakáa	k a k a a
+302071	334731	hubercolumbian-Dimina	mala1522		leaf	628	LEAF		ki̵nata	k ɨ n a t a
+302079	334739	hubercolumbian-Ika	arhu1242		leaf	628	LEAF		kən záʧi̵	k ə n + z a tʃ ɨ
+302084	334744	hubercolumbian-Kogui	cogu1240		leaf	628	LEAF		kəldixã́i	k ə l d i x ã i
+302106	334766	hubercolumbian-TuneboCentral	cent2150		leaf	628	LEAF		karkahá	k a r k a h a
+302107	334767	hubercolumbian-TuneboCentral	cent2150		leaf	628	LEAF		karkaʃá	k a r k a ʃ a
+316723	349383	constenlachibchan-Boruca	boru1252		liver	1224	LIVER		kóʔ-k	k o ʔ + k
+316724	349384	constenlachibchan-Bribri	brib1243		liver	1224	LIVER		ẽ̂d	ẽ d
+316725	349385	constenlachibchan-Buglere	bugl1243		liver	1224	LIVER		ta-kwa	t a + k w a
+316726	349386	constenlachibchan-Cabecar	cabe1245		liver	1224	LIVER		hẽ̂d	h ẽ d
+316728	349388	constenlachibchan-Chibcha	chib1270		liver	1224	LIVER		tɨhɨ-βa	t ɨ h ɨ + β a
+316731	349391	constenlachibchan-MalekuJaika	male1297		liver	1224	LIVER		kua:-ki	k u aː + k i
+316733	349393	constenlachibchan-Ngabere	ngab1239		liver	1224	LIVER		mɔtɔ	m ɔ t ɔ
+316734	349394	constenlachibchan-Pech	pech1241		liver	1224	LIVER		hɾá	h ɾ a
+316735	349395	constenlachibchan-Rama	rama1270		liver	1224	LIVER		psa	p s a
+316736	349396	constenlachibchan-SanBlasKuna	sanb1242		liver	1224	LIVER		pi:na	p iː n a
+316737	349397	constenlachibchan-Teribe	teri1250		liver	1224	LIVER		uò	u o
+316831	349491	hubercolumbian-Chimila	chim1309		liver	1224	LIVER		káawiʔ	k a a w i ʔ
+316836	349496	hubercolumbian-Dimina	mala1522		liver	1224	LIVER		anʒbita	a n ʒ b i t a
+316847	349507	hubercolumbian-Ika	arhu1242		liver	1224	LIVER		hígɾu	h i g ɾ u
+316852	349512	hubercolumbian-Kogui	cogu1240		liver	1224	LIVER		əbbítə	ə b b i t ə
+316874	349534	hubercolumbian-TuneboCentral	cent2150		liver	1224	LIVER		kuʔkúba	k u ʔ k u b a
+319592	352252	constenlachibchan-Boruca	boru1252		long	1203	LONG		biògát	b i o g a t
+319593	352253	constenlachibchan-Bribri	brib1243		long	1203	LONG		bitsĩ̌	b i t s ĩ
+319594	352254	constenlachibchan-Buglere	bugl1243		long	1203	LONG		heike	h e i k e
+319595	352255	constenlachibchan-Cabecar	cabe1245		long	1203	LONG		batsĩ́	b a t s ĩ
+319597	352257	constenlachibchan-Chibcha	chib1270		long	1203	LONG		ɣahasio	ɣ a h a s i o
+319600	352260	constenlachibchan-MalekuJaika	male1297		long	1203	LONG		ɬaɾa:tene:	ɬ a ɾ aː t e n eː
+319602	352262	constenlachibchan-Ngabere	ngab1239		long	1203	LONG		ŋa	ŋ a
+319603	352263	constenlachibchan-Pech	pech1241		long	1203	LONG		bà:jkti	b aː j k t i
+319604	352264	constenlachibchan-Rama	rama1270		long	1203	LONG		suma	s u m a
+319605	352265	constenlachibchan-SanBlasKuna	sanb1242		long	1203	LONG		suiti	s u i t i
+319606	352266	constenlachibchan-Teribe	teri1250		long	1203	LONG		kʰɺòtáɾeŋ	kʰ ɺ o t a ɾ e ŋ
+319719	352379	hubercolumbian-Bari	bari1297		long	1203	LONG		itukuridə	i t u k u r i d ə
+319726	352386	hubercolumbian-Chimila	chim1309		long	1203	LONG		ᵑgáari	ⁿg a a r i
+319727	352387	hubercolumbian-Chimila	chim1309		long	1203	LONG		ŋáari	ŋ a a r i
+319733	352393	hubercolumbian-Dimina	mala1522		long	1203	LONG		riinukka	r iː n u k k a
+319742	352402	hubercolumbian-Ika	arhu1242		long	1203	LONG		gári	g a r i
+319748	352408	hubercolumbian-Kogui	cogu1240		long	1203	LONG		wẽ́ʒilukka	w ẽ ʒ i l u k k a
+319772	352432	hubercolumbian-TuneboCentral	cent2150		long	1203	LONG		enará	e n a r a
+323374	356034	hubercolumbian-Bari	bari1297		louse	1392	LOUSE		kuɾə	k u ɾ ə
+323382	356042	hubercolumbian-Chimila	chim1309		louse	1392	LOUSE		kúuʔ	k u u ʔ
+323387	356047	hubercolumbian-Dimina	mala1522		louse	1392	LOUSE		sanze	s a n z e
+323396	356056	hubercolumbian-Ika	arhu1242		louse	1392	LOUSE		ku	k u
+323401	356061	hubercolumbian-Kogui	cogu1240		louse	1392	LOUSE		kuwí	k u w i
+323423	356083	hubercolumbian-TuneboCentral	cent2150		louse	1392	LOUSE		kúria	k u r i a
+330152	362813	constenlachibchan-Boruca	boru1252		man	1554	MAN		kóŋróxk	k o ŋ r o x k
+330153	362814	constenlachibchan-Bribri	brib1243		man	1554	MAN		uɪ̂b	u ɪ b
+330154	362815	constenlachibchan-Buglere	bugl1243		man	1554	MAN		blále	b l a l e
+330155	362816	constenlachibchan-Cabecar	cabe1245		man	1554	MAN		hadʒɪ́uàʔ	h a dʒ ɪ u a ʔ
+330157	362818	constenlachibchan-Chibcha	chib1270		man	1554	MAN		tʲa	tʲ a
+330160	362821	constenlachibchan-MalekuJaika	male1297		man	1554	MAN		otʃa:paka:	o tʃ aː p a k aː
+330162	362823	constenlachibchan-Ngabere	ngab1239		man	1554	MAN		bɾaɾe	b ɾ a ɾ e
+330163	362824	constenlachibchan-Pech	pech1241		man	1554	MAN		àɾwã́	a ɾ w ã
+330164	362825	constenlachibchan-Rama	rama1270		man	1554	MAN		nki:kna	n k iː k n a
+330165	362826	constenlachibchan-SanBlasKuna	sanb1242		man	1554	MAN		matʃeɾet	m a tʃ e ɾ e t
+330166	362827	constenlachibchan-Teribe	teri1250		man	1554	MAN		dòbén	d o b e n
+330328	362989	hubercolumbian-Bari	bari1297		man	1554	MAN		daɾə	d a ɾ ə
+330335	362996	hubercolumbian-Chimila	chim1309		man	1554	MAN		sáawiɾiʔ	s a a w i ɾ i ʔ
+330340	363001	hubercolumbian-Dimina	mala1522		man	1554	MAN		terua	t e r u a
+330350	363011	hubercolumbian-Ika	arhu1242		man	1554	MAN		ʧéⁱrwa	tʃ ei r w a
+330356	363017	hubercolumbian-Kogui	cogu1240		man	1554	MAN		sigí	s i g i
+330379	363040	hubercolumbian-TuneboCentral	cent2150		man	1554	MAN		séra	s e r a
+332118	364779	hubercolumbian-Bari	bari1297		many	1198	MANY		ʔwiɾə	ʔ w i ɾ ə
+332127	364788	hubercolumbian-Chimila	chim1309		many	1198	MANY		ᵐbúnne	ⁿb u n n e
+332128	364789	hubercolumbian-Chimila	chim1309		many	1198	MANY		kágwari	k a g w a r i
+332136	364797	hubercolumbian-Dimina	mala1522		many	1198	MANY		bigwí	b i g w i
+332137	364798	hubercolumbian-Dimina	mala1522		many	1198	MANY		kumiŋʃa	k u m i ŋ ʃ a
+332150	364811	hubercolumbian-Ika	arhu1242		many	1198	MANY		reʔmási	r e ʔ m a s i
+332151	364812	hubercolumbian-Ika	arhu1242		many	1198	MANY		zəguró	z ə g u r o
+332158	364819	hubercolumbian-Kogui	cogu1240		many	1198	MANY		məʧúwi	m ə tʃ u w i
+332192	364853	hubercolumbian-TuneboCentral	cent2150		many	1198	MANY		járhiro	j a r h i r o
+344143	376804	constenlachibchan-Boruca	boru1252		moon	1313	MOON		tèbéx	t e b e x
+344144	376805	constenlachibchan-Bribri	brib1243		moon	1313	MOON		sǐuʊ̀	s i u ʊ
+344145	376806	constenlachibchan-Buglere	bugl1243		moon	1313	MOON		dai	d a i
+344146	376807	constenlachibchan-Cabecar	cabe1245		moon	1313	MOON		tuɺù	t u ɺ u
+344148	376809	constenlachibchan-Chibcha	chib1270		moon	1313	MOON		tʲie	tʲ i e
+344151	376812	constenlachibchan-MalekuJaika	male1297		moon	1313	MOON		ɬixi:	ɬ i x iː
+344153	376814	constenlachibchan-Ngabere	ngab1239		moon	1313	MOON		sɣ	s ɣ
+344154	376815	constenlachibchan-Pech	pech1241		moon	1313	MOON		jwì	j w i
+344155	376816	constenlachibchan-Rama	rama1270		moon	1313	MOON		tukan	t u k a n
+344156	376817	constenlachibchan-SanBlasKuna	sanb1242		moon	1313	MOON		ni:	n iː
+344157	376818	constenlachibchan-Teribe	teri1250		moon	1313	MOON		mók	m o k
+344321	376982	hubercolumbian-Bari	bari1297		moon	1313	MOON		ʧibajrə	tʃ i b a j r ə
+344327	376988	hubercolumbian-Chimila	chim1309		moon	1313	MOON		máamasuʔ	m a a m a s u ʔ
+344333	376994	hubercolumbian-Dimina	mala1522		moon	1313	MOON		saga	s a g a
+344334	376995	hubercolumbian-Dimina	mala1522		moon	1313	MOON		sibiákukwi	s i b i a k u k w i
+344343	377004	hubercolumbian-Ika	arhu1242		moon	1313	MOON		tíma	t i m a
+344348	377009	hubercolumbian-Kogui	cogu1240		moon	1313	MOON		sáxa	s a x a
+344370	377031	hubercolumbian-TuneboCentral	cent2150		moon	1313	MOON		siʔjora	s i ʔ j o r a
+344371	377032	hubercolumbian-TuneboCentral	cent2150		moon	1313	MOON		siʔjára	s i ʔ j a r a
+350653	383317	constenlachibchan-Boruca	boru1252		mountain	639	MOUNTAIN		dʒàbáʔtáŋ	dʒ a b a ʔ t a ŋ
+350654	383318	constenlachibchan-Bribri	brib1243		mountain	639	MOUNTAIN		kã̂ batà	k ã + b a t a
+350655	383319	constenlachibchan-Buglere	bugl1243		mountain	639	MOUNTAIN		hwitʃuga	h w i tʃ u g a
+350656	383320	constenlachibchan-Cabecar	cabe1245		mountain	639	MOUNTAIN		kã́ batà	k ã + b a t a
+350658	383322	constenlachibchan-Chibcha	chib1270		mountain	639	MOUNTAIN		ɣua	ɣ u a
+350661	383325	constenlachibchan-MalekuJaika	male1297		mountain	639	MOUNTAIN		okteki:	o k t e k iː
+350663	383327	constenlachibchan-Ngabere	ngab1239		mountain	639	MOUNTAIN		ŋutio	ŋ u t i o
+350664	383328	constenlachibchan-Pech	pech1241		mountain	639	MOUNTAIN		ʃókà	ʃ o k a
+350665	383329	constenlachibchan-Rama	rama1270		mountain	639	MOUNTAIN		ta:sup	t aː s u p
+350666	383330	constenlachibchan-SanBlasKuna	sanb1242		mountain	639	MOUNTAIN		jala	j a l a
+350667	383331	constenlachibchan-Teribe	teri1250		mountain	639	MOUNTAIN		dɺùb	d ɺ u b
+350799	383463	hubercolumbian-Bari	bari1297		mountain	639	MOUNTAIN		dʲi̵i̵rədə	dʲ ɨ ɨ r ə d ə
+350809	383473	hubercolumbian-Chimila	chim1309		mountain	639	MOUNTAIN		íttikóŋgraʔ	i t t i k o ŋ g r a ʔ
+350814	383478	hubercolumbian-Dimina	mala1522		mountain	639	MOUNTAIN		ki̵nki̵na	k ɨ n k ɨ n a
+350821	383485	hubercolumbian-Ika	arhu1242		mountain	639	MOUNTAIN		gwírkəni̵	g w i r k ə n ɨ
+350822	383486	hubercolumbian-Ika	arhu1242		mountain	639	MOUNTAIN		gwírkənən	g w i r k ə n ə n
+350827	383491	hubercolumbian-Kogui	cogu1240		mountain	639	MOUNTAIN		gáxa	g a x a
+350828	383492	hubercolumbian-Kogui	cogu1240		mountain	639	MOUNTAIN		guínue	g u i n u e
+350846	383510	hubercolumbian-TuneboCentral	cent2150		mountain	639	MOUNTAIN		cubara	c u b a r a
+353182	385846	constenlachibchan-Boruca	boru1252		mouth	674	MOUTH		ká-sà	k a + s a
+353183	385847	constenlachibchan-Bribri	brib1243		mouth	674	MOUTH		axkʊ́	a x k ʊ
+353184	385848	constenlachibchan-Buglere	bugl1243		mouth	674	MOUTH		ka	k a
+353185	385849	constenlachibchan-Cabecar	cabe1245		mouth	674	MOUTH		hkʊ́	h k ʊ
+353187	385851	constenlachibchan-Chibcha	chib1270		mouth	674	MOUTH		kɨhɨka	k ɨ h ɨ k a
+353190	385854	constenlachibchan-MalekuJaika	male1297		mouth	674	MOUTH		koki:	k o k iː
+353192	385856	constenlachibchan-Ngabere	ngab1239		mouth	674	MOUTH		ka-da	k a + d a
+353193	385857	constenlachibchan-Pech	pech1241		mouth	674	MOUTH		sà:pà	s aː p a
+353194	385858	constenlachibchan-Rama	rama1270		mouth	674	MOUTH		ka-ka:	k a + k aː
+353195	385859	constenlachibchan-SanBlasKuna	sanb1242		mouth	674	MOUTH		ka-kka	k a + k a
+353196	385860	constenlachibchan-Teribe	teri1250		mouth	674	MOUTH		kʰá-mo	kʰ a + m o
+353312	385976	hubercolumbian-Chimila	chim1309		mouth	674	MOUTH		kákkua	k a k k u a
+353318	385982	hubercolumbian-Dimina	mala1522		mouth	674	MOUTH		nambunúka	n a m b u n u k a
+353329	385993	hubercolumbian-Ika	arhu1242		mouth	674	MOUTH		kə́kka	k ə k k a
+353334	385998	hubercolumbian-Kogui	cogu1240		mouth	674	MOUTH		káxa	k a x a
+353357	386021	hubercolumbian-TuneboCentral	cent2150		mouth	674	MOUTH		kaka	k a k a
+358328	390992	hubercolumbian-Bari	bari1297		name	1405	NAME		ʔaaɾə	ʔ aː ɾ ə
+358334	390998	hubercolumbian-Chimila	chim1309		name	1405	NAME		kákewaʔ	k a k e w a ʔ
+358339	391003	hubercolumbian-Dimina	mala1522		name	1405	NAME		ʒaginukka	ʒ a g i n u k k a
+358349	391013	hubercolumbian-Ika	arhu1242		name	1405	NAME		záʔki núga	z a ʔ k i + n u g a
+358354	391018	hubercolumbian-Kogui	cogu1240		name	1405	NAME		axaʒúkka	a x a ʒ u k k a
+358375	391039	hubercolumbian-TuneboCentral	cent2150		name	1405	NAME		áhka	a h k a
+364447	397114	constenlachibchan-Boruca	boru1252		neck	1333	NECK		ìŋsá	i ŋ s a
+364448	397115	constenlachibchan-Bribri	brib1243		neck	1333	NECK		kuɺǐʔ	k u ɺ i ʔ
+364449	397116	constenlachibchan-Buglere	bugl1243		neck	1333	NECK		siɾoska	s i ɾ o s k a
+364450	397117	constenlachibchan-Cabecar	cabe1245		neck	1333	NECK		kulí	k u l i
+364452	397119	constenlachibchan-Chibcha	chib1270		neck	1333	NECK		gɨ	g ɨ
+364455	397122	constenlachibchan-MalekuJaika	male1297		neck	1333	NECK		ko:lo	k oː l o
+364457	397124	constenlachibchan-Ngabere	ngab1239		neck	1333	NECK		ɾɔɾɔ	ɾ ɔ ɾ ɔ
+364458	397125	constenlachibchan-Pech	pech1241		neck	1333	NECK		táwásã́	t a w a s ã
+364459	397126	constenlachibchan-Rama	rama1270		neck	1333	NECK		ki:ŋkat	k iː ŋ k a t
+364460	397127	constenlachibchan-SanBlasKuna	sanb1242		neck	1333	NECK		tukkarwala	t u k a r w a l a
+364461	397128	constenlachibchan-Teribe	teri1250		neck	1333	NECK		bɪ̀ŋdó	b ɪ ŋ d o
+364609	397276	hubercolumbian-Bari	bari1297		neck	1333	NECK		booɾə	b oː ɾ ə
+364618	397285	hubercolumbian-Chimila	chim1309		neck	1333	NECK		ɾúwaʔ	ɾ u w a ʔ
+364624	397291	hubercolumbian-Dimina	mala1522		neck	1333	NECK		guanuána	g u a n u a n a
+364635	397302	hubercolumbian-Ika	arhu1242		neck	1333	NECK		gáʔni̵	g a ʔ n ɨ
+364640	397307	hubercolumbian-Kogui	cogu1240		neck	1333	NECK		gáklda	g a k l d a
+364662	397329	hubercolumbian-TuneboCentral	cent2150		neck	1333	NECK		jáʔnkukara	j a ʔ n k u k a r a
+368517	401184	constenlachibchan-Boruca	boru1252		new	1231	NEW		kìnká	k i n k a
+368518	401185	constenlachibchan-Bribri	brib1243		new	1231	NEW		pã̌ã̀ɺĩ̀	p ã ã ɺ ĩ
+368519	401186	constenlachibchan-Buglere	bugl1243		new	1231	NEW		hageɾe	h a g e ɾ e
+368520	401187	constenlachibchan-Cabecar	cabe1245		new	1231	NEW		spã́'nã̀	s p ã n ã
+368522	401189	constenlachibchan-Chibcha	chib1270		new	1231	NEW		βihitsa	β i h i t s a
+368525	401192	constenlachibchan-MalekuJaika	male1297		new	1231	NEW		ɬa:ŋalu:ɾi	ɬ aː ŋ a l uː ɾ i
+368527	401194	constenlachibchan-Ngabere	ngab1239		new	1231	NEW		mɣtɣ	m ɣ t ɣ
+368528	401195	constenlachibchan-Pech	pech1241		new	1231	NEW		wàjʔkà	w a j ʔ k a
+368529	401196	constenlachibchan-Rama	rama1270		new	1231	NEW		abi:sa	a b iː s a
+368530	401197	constenlachibchan-SanBlasKuna	sanb1242		new	1231	NEW		pi:ni	p iː n i
+368531	401198	constenlachibchan-Teribe	teri1250		new	1231	NEW		tàgɺɪ́ŋ	t a g ɺ ɪ ŋ
+368673	401340	hubercolumbian-Bari	bari1297		new	1231	NEW		baʧininə	b a tʃ i n i n ə
+368680	401347	hubercolumbian-Chimila	chim1309		new	1231	NEW		tákkeʔ	t a k k e ʔ
+368685	401352	hubercolumbian-Dimina	mala1522		new	1231	NEW		ambi̵sí	a m b ɨ s i
+368695	401362	hubercolumbian-Ika	arhu1242		new	1231	NEW		abítti	a b i t t i
+368700	401367	hubercolumbian-Kogui	cogu1240		new	1231	NEW		abísə	a b i s ə
+368725	401392	hubercolumbian-TuneboCentral	cent2150		new	1231	NEW		íbsoja	i b s o j a
+371271	403938	constenlachibchan-Boruca	boru1252		night	1233	NIGHT		bìgát	b i g a t
+371272	403939	constenlachibchan-Bribri	brib1243		night	1233	NIGHT		dadʒẽ̂uè	d a dʒ ẽ u e
+371273	403940	constenlachibchan-Buglere	bugl1243		night	1233	NIGHT		ŋaheɾe	ŋ a h e ɾ e
+371274	403941	constenlachibchan-Cabecar	cabe1245		night	1233	NIGHT		tauídã̀	t a u i d ã
+371276	403943	constenlachibchan-Chibcha	chib1270		night	1233	NIGHT		tsa	t s a
+371279	403946	constenlachibchan-MalekuJaika	male1297		night	1233	NIGHT		tiu:ɾika:	t i uː ɾ i k aː
+371281	403948	constenlachibchan-Ngabere	ngab1239		night	1233	NIGHT		deu	d e u
+371282	403949	constenlachibchan-Pech	pech1241		night	1233	NIGHT		kàká	k a k a
+371283	403950	constenlachibchan-Rama	rama1270		night	1233	NIGHT		kik	k i k
+371284	403951	constenlachibchan-SanBlasKuna	sanb1242		night	1233	NIGHT		muttikki	m u t i k i
+371285	403952	constenlachibchan-Teribe	teri1250		night	1233	NIGHT		ʃkɪ́	ʃ k ɪ
+371443	404110	hubercolumbian-Bari	bari1297		night	1233	NIGHT		bajgdaninə	b a j g d a n i n ə
+371450	404117	hubercolumbian-Chimila	chim1309		night	1233	NIGHT		síhnaka	s i h n a k a
+371456	404123	hubercolumbian-Dimina	mala1522		night	1233	NIGHT		ʃe	ʃ e
+371466	404133	hubercolumbian-Ika	arhu1242		night	1233	NIGHT		séⁱaʔ	s ei a ʔ
+371471	404138	hubercolumbian-Kogui	cogu1240		night	1233	NIGHT		sési̵ŋ	s e s ɨ ŋ
+371493	404160	hubercolumbian-TuneboCentral	cent2150		night	1233	NIGHT		ʃékara	ʃ e k a r a
+377107	409774	constenlachibchan-Boruca	boru1252		nose	1221	NOSE		ʃìská	ʃ i s k a
+377108	409775	constenlachibchan-Bribri	brib1243		nose	1221	NOSE		dʒɪ̂k	dʒ ɪ k
+377109	409776	constenlachibchan-Buglere	bugl1243		nose	1221	NOSE		se	s e
+377110	409777	constenlachibchan-Cabecar	cabe1245		nose	1221	NOSE		dʒík	dʒ i k
+377112	409779	constenlachibchan-Chibcha	chib1270		nose	1221	NOSE		saka	s a k a
+377115	409782	constenlachibchan-MalekuJaika	male1297		nose	1221	NOSE		tai:ki	t a iː k i
+377117	409784	constenlachibchan-Ngabere	ngab1239		nose	1221	NOSE		ĩsɔ̃	ĩ s ɔ̃
+377118	409785	constenlachibchan-Pech	pech1241		nose	1221	NOSE		tã́jsá	t ã j s a
+377119	409786	constenlachibchan-Rama	rama1270		nose	1221	NOSE		taik	t a i k
+377120	409787	constenlachibchan-SanBlasKuna	sanb1242		nose	1221	NOSE		asu	a s u
+377121	409788	constenlachibchan-Teribe	teri1250		nose	1221	NOSE		nékuò	n e k u o
+377261	409928	hubercolumbian-Bari	bari1297		nose	1221	NOSE		nisi̵rə	n i s ɨ r ə
+377269	409936	hubercolumbian-Chimila	chim1309		nose	1221	NOSE		ⁿda	ⁿd a
+377274	409941	hubercolumbian-Dimina	mala1522		nose	1221	NOSE		sunkí̵na	s u n k ɨ n a
+377275	409942	hubercolumbian-Dimina	mala1522		nose	1221	NOSE		mĩʃuá	m ĩ ʃ u a
+377284	409951	hubercolumbian-Ika	arhu1242		nose	1221	NOSE		misúŋi̵	m i s u ŋ ɨ
+377285	409952	hubercolumbian-Ika	arhu1242		nose	1221	NOSE		bisúŋi	b i s u ŋ i
+377290	409957	hubercolumbian-Kogui	cogu1240		nose	1221	NOSE		hunúkkəldə	h u n u k k ə l d ə
+377312	409979	hubercolumbian-TuneboCentral	cent2150		nose	1221	NOSE		reʃa	r e ʃ a
+378845	411512	hubercolumbian-Bari	bari1297		not	1240	NOT		ʔwaɾa	ʔ w a ɾ a
+378852	411519	hubercolumbian-Chimila	chim1309		not	1240	NOT		jum	j u m
+378853	411520	hubercolumbian-Chimila	chim1309		not	1240	NOT		nii	n iː
+378854	411521	hubercolumbian-Chimila	chim1309		not	1240	NOT		nokenta	n o k e n t a
+378861	411528	hubercolumbian-Dimina	mala1522		not	1240	NOT		ə̃ʔə	ə̃ ʔ ə
+378870	411537	hubercolumbian-Ika	arhu1242		not	1240	NOT		néki	n e k i
+378871	411538	hubercolumbian-Ika	arhu1242		not	1240	NOT		néʔki	n e ʔ k i
+378877	411544	hubercolumbian-Kogui	cogu1240		not	1240	NOT		ə̃ʔə̃	ə̃ ʔ ə̃
+378878	411545	hubercolumbian-Kogui	cogu1240		not	1240	NOT		nəldəgə́lde	n ə l d ə g ə l d e
+378911	411578	hubercolumbian-TuneboCentral	cent2150		not	1240	NOT		bátro	b a t r o
+389367	422034	constenlachibchan-Boruca	boru1252		one	1493	ONE		éʔtsi	e ʔ t s i
+389368	422035	constenlachibchan-Bribri	brib1243		one	1493	ONE		e	e
+389369	422036	constenlachibchan-Buglere	bugl1243		one	1493	ONE		ite	i t e
+389370	422037	constenlachibchan-Cabecar	cabe1245		one	1493	ONE		é	e
+389372	422039	constenlachibchan-Chibcha	chib1270		one	1493	ONE		ata	a t a
+389375	422042	constenlachibchan-MalekuJaika	male1297		one	1493	ONE		ana:katʃuma:	a n aː k a tʃ u m aː
+389377	422044	constenlachibchan-Ngabere	ngab1239		one	1493	ONE		ti	t i
+389378	422045	constenlachibchan-Pech	pech1241		one	1493	ONE		ás	a s
+389379	422046	constenlachibchan-Rama	rama1270		one	1493	ONE		saimiŋ	s a i m i ŋ
+389380	422047	constenlachibchan-SanBlasKuna	sanb1242		one	1493	ONE		kwenna	k w e n a
+389381	422048	constenlachibchan-Teribe	teri1250		one	1493	ONE		ɾa	ɾ a
+389554	422221	hubercolumbian-Bari	bari1297		one	1493	ONE		ʔitonə	ʔ i t o n ə
+389560	422227	hubercolumbian-Chimila	chim1309		one	1493	ONE		kúttenda ássuʔ	k u t t e n d a + a s s u ʔ
+389566	422233	hubercolumbian-Dimina	mala1522		one	1493	ONE		ingwi	i n g w i
+389576	422243	hubercolumbian-Ika	arhu1242		one	1493	ONE		ínʔgwi	i n ʔ g w i
+389581	422248	hubercolumbian-Kogui	cogu1240		one	1493	ONE		ézua	e z u a
+389606	422273	hubercolumbian-TuneboCentral	cent2150		one	1493	ONE		úbistija	u b i s t i j a
+432165	464833	constenlachibchan-Boruca	boru1252		red	156	RED		dɾùbát	d ɾ u b a t
+432166	464834	constenlachibchan-Bribri	brib1243		red	156	RED		bã̌tk	b ã t k
+432167	464835	constenlachibchan-Buglere	bugl1243		red	156	RED		dabeɾe	d a b e ɾ e
+432168	464836	constenlachibchan-Cabecar	cabe1245		red	156	RED		batsɪ́	b a t s ɪ
+432170	464838	constenlachibchan-Chibcha	chib1270		red	156	RED		hiiso	h i i s o
+432173	464841	constenlachibchan-MalekuJaika	male1297		red	156	RED		kata:ɬiŋ iŋa:	k a t aː ɬ i ŋ + i ŋ aː
+432175	464843	constenlachibchan-Ngabere	ngab1239		red	156	RED		tãĩ	t ã ĩ
+432176	464844	constenlachibchan-Pech	pech1241		red	156	RED		pã́wã̀	p ã w ã
+432177	464845	constenlachibchan-Rama	rama1270		red	156	RED		sa:la	s aː l a
+432178	464846	constenlachibchan-SanBlasKuna	sanb1242		red	156	RED		kinnitti	k i n i t i
+432179	464847	constenlachibchan-Teribe	teri1250		red	156	RED		sɾɪ̀ɾɪ́n	s ɾ ɪ ɾ ɪ n
+432354	465022	hubercolumbian-Bari	bari1297		red	156	RED		bokoɾanə	b o k o ɾ a n ə
+432361	465029	hubercolumbian-Chimila	chim1309		red	156	RED		krootúʔ	k r oː t u ʔ
+432366	465034	hubercolumbian-Dimina	mala1522		red	156	RED		i̵nzisi	ɨ n z i s i
+432376	465044	hubercolumbian-Ika	arhu1242		red	156	RED		ziʔ	z i ʔ
+432382	465050	hubercolumbian-Kogui	cogu1240		red	156	RED		ətsí̵ʃi	ə ts ɨ ʃ i
+432408	465076	hubercolumbian-TuneboCentral	cent2150		red	156	RED		buw̃ája	b u w̃ a j a
+444305	476974	hubercolumbian-Bari	bari1297		root	670	ROOT		ʔajʃirə	ʔ a j ʃ i r ə
+444313	476982	hubercolumbian-Chimila	chim1309		root	670	ROOT		kanáasi	k a n a a s i
+444318	476987	hubercolumbian-Dimina	mala1522		root	670	ROOT		ki̵n ʃiwana	k ɨ n + ʃ i w a n a
+444330	476999	hubercolumbian-Ika	arhu1242		root	670	ROOT		akə́tti̵	a k ə t t ɨ
+444336	477005	hubercolumbian-Kogui	cogu1240		root	670	ROOT		kəʧihuálda	k ə tʃ i h u a l d a
+444364	477033	hubercolumbian-TuneboCentral	cent2150		root	670	ROOT		siʔjá	s i ʔ j a
+448705	481374	hubercolumbian-Bari	bari1297		round	1395	ROUND		ʔorə	ʔ o r ə
+448713	481382	hubercolumbian-Chimila	chim1309		round	1395	ROUND		ᵐbrambranna	ⁿb r a m b r a n n a
+448718	481387	hubercolumbian-Dimina	mala1522		round	1395	ROUND		i̵nduru	ɨ n d u r u
+448727	481396	hubercolumbian-Ika	arhu1242		round	1395	ROUND		kókoro	k o k o r o
+448732	481401	hubercolumbian-Kogui	cogu1240		round	1395	ROUND		ahuinĩ́	a h u i n ĩ
+448755	481424	hubercolumbian-TuneboCentral	cent2150		round	1395	ROUND		úbitro	u b i t r o
+456116	488785	constenlachibchan-Boruca	boru1252		sand	671	SAND		ùb	u b
+456117	488786	constenlachibchan-Bribri	brib1243		sand	671	SAND		stsã̌ʔ	s t s ã ʔ
+456118	488787	constenlachibchan-Buglere	bugl1243		sand	671	SAND		uba	u b a
+456119	488788	constenlachibchan-Cabecar	cabe1245		sand	671	SAND		tsã́	t s ã
+456121	488790	constenlachibchan-Chibcha	chib1270		sand	671	SAND		ɣuantsa	ɣ u a n t s a
+456124	488793	constenlachibchan-MalekuJaika	male1297		sand	671	SAND		uɬi:xa	u ɬ iː x a
+456126	488795	constenlachibchan-Ngabere	ngab1239		sand	671	SAND		ɯma	ɯ m a
+456127	488796	constenlachibchan-Pech	pech1241		sand	671	SAND		úʔù	u ʔ u
+456128	488797	constenlachibchan-Rama	rama1270		sand	671	SAND		unta:s	u n t aː s
+456129	488798	constenlachibchan-SanBlasKuna	sanb1242		sand	671	SAND		ukkuppa	u k u p a
+456130	488799	constenlachibchan-Teribe	teri1250		sand	671	SAND		ɺa	ɺ a
+456258	488927	hubercolumbian-Bari	bari1297		sand	671	SAND		ʔuŋdərə	ʔ u ŋ d ə r ə
+456265	488934	hubercolumbian-Chimila	chim1309		sand	671	SAND		sáasaɾiʔ	s a a s a ɾ i ʔ
+456270	488939	hubercolumbian-Dimina	mala1522		sand	671	SAND		unʒu	u n ʒ u
+456281	488950	hubercolumbian-Ika	arhu1242		sand	671	SAND		úzu	u z u
+456286	488955	hubercolumbian-Kogui	cogu1240		sand	671	SAND		uwĩ́	u w ĩ
+456308	488977	hubercolumbian-TuneboCentral	cent2150		sand	671	SAND		umta	u m t a
+456309	488978	hubercolumbian-TuneboCentral	cent2150		sand	671	SAND		umita	u m i t a
+459106	491775	constenlachibchan-Boruca	boru1252		say	1458	SAY		dʒuàk	dʒ u a k
+459107	491776	constenlachibchan-Bribri	brib1243		say	1458	SAY		dʒɪ	dʒ ɪ
+459108	491777	constenlachibchan-Buglere	bugl1243		say	1458	SAY		dgwenedu	d g w e n e d u
+459109	491778	constenlachibchan-Cabecar	cabe1245		say	1458	SAY		dʒɪ	dʒ ɪ
+459111	491780	constenlachibchan-Chibcha	chib1270		say	1458	SAY		gu	g u
+459114	491783	constenlachibchan-MalekuJaika	male1297		say	1458	SAY		ki:	k iː
+459116	491785	constenlachibchan-Ngabere	ngab1239		say	1458	SAY		ŋeɾe	ŋ e ɾ e
+459117	491786	constenlachibchan-Pech	pech1241		say	1458	SAY		tìʔ	t i ʔ
+459118	491787	constenlachibchan-Rama	rama1270		say	1458	SAY		auŋ	a u ŋ
+459119	491788	constenlachibchan-SanBlasKuna	sanb1242		say	1458	SAY		soke	s o k e
+459120	491789	constenlachibchan-Teribe	teri1250		say	1458	SAY		ɺí	ɺ i
+459205	491874	hubercolumbian-Bari	bari1297		say	1458	SAY		ʔaabəkajnə	ʔ aː b ə k a j n ə
+459213	491882	hubercolumbian-Chimila	chim1309		say	1458	SAY		ⁿdeŋ	ⁿd e ŋ
+459221	491890	hubercolumbian-Dimina	mala1522		say	1458	SAY		i̵gwii	ɨ g w iː
+459222	491891	hubercolumbian-Dimina	mala1522		say	1458	SAY		gwaʃi	g w a ʃ i
+459233	491902	hubercolumbian-Ika	arhu1242		say	1458	SAY		ʒən	ʒ ə n
+459234	491903	hubercolumbian-Ika	arhu1242		say	1458	SAY		gwakən	g w a k ə n
+459240	491909	hubercolumbian-Kogui	cogu1240		say	1458	SAY		akbẽìhi	a k b ẽ i h i
+459241	491910	hubercolumbian-Kogui	cogu1240		say	1458	SAY		guáʃi	g u a ʃ i
+459270	491939	hubercolumbian-TuneboCentral	cent2150		say	1458	SAY		wakínro	w a k i n r o
+464765	497435	constenlachibchan-Boruca	boru1252		see	1409	SEE		íʃt	i ʃ t
+464766	497436	constenlachibchan-Bribri	brib1243		see	1409	SEE		sũ	s ũ
+464767	497437	constenlachibchan-Buglere	bugl1243		see	1409	SEE		tiẽ	t i ẽ
+464768	497438	constenlachibchan-Cabecar	cabe1245		see	1409	SEE		sũ	s ũ
+464770	497440	constenlachibchan-Chibcha	chib1270		see	1409	SEE		ihistɨ	i h i s t ɨ
+464773	497443	constenlachibchan-MalekuJaika	male1297		see	1409	SEE		kua:ki	k u aː k i
+464775	497445	constenlachibchan-Ngabere	ngab1239		see	1409	SEE		tũ	t ũ
+464776	497446	constenlachibchan-Pech	pech1241		see	1409	SEE		ʃã̀ʔ	ʃ ã ʔ
+464777	497447	constenlachibchan-Rama	rama1270		see	1409	SEE		suŋ	s u ŋ
+464778	497448	constenlachibchan-SanBlasKuna	sanb1242		see	1409	SEE		takke	t a k e
+464779	497449	constenlachibchan-Teribe	teri1250		see	1409	SEE		ĩ́k	ĩ k
+464959	497629	hubercolumbian-Bari	bari1297		see	1409	SEE		majnə	m a j n ə
+464967	497637	hubercolumbian-Chimila	chim1309		see	1409	SEE		túu	t u u
+464975	497645	hubercolumbian-Dimina	mala1522		see	1409	SEE		tuá	t u a
+464984	497654	hubercolumbian-Ika	arhu1242		see	1409	SEE		ʧwən	tʃ w ə n
+464985	497655	hubercolumbian-Ika	arhu1242		see	1409	SEE		wáʔkən	w a ʔ k ə n
+464990	497660	hubercolumbian-Kogui	cogu1240		see	1409	SEE		tṹwi	t ũ w i
+465013	497683	hubercolumbian-TuneboCentral	cent2150		see	1409	SEE		waʔitínro	w a ʔ i t i n r o
+465014	497684	hubercolumbian-TuneboCentral	cent2150		see	1409	SEE		istínro	i s t i n r o
+466536	499206	hubercolumbian-Bari	bari1297		seed	714	SEED		ʔakokbə	ʔ a k o k b ə
+466547	499217	hubercolumbian-Chimila	chim1309		seed	714	SEED		ʔrúuʔ	ʔ r u u ʔ
+466553	499223	hubercolumbian-Dimina	mala1522		seed	714	SEED		ʒanduna	ʒ a n d u n a
+466562	499232	hubercolumbian-Ika	arhu1242		seed	714	SEED		zaʤúna	z a dʒ u n a
+466567	499237	hubercolumbian-Kogui	cogu1240		seed	714	SEED		zúla	z u l a
+466595	499265	hubercolumbian-TuneboCentral	cent2150		seed	714	SEED		rurá	r u r a
+494525	527197	hubercolumbian-Bari	bari1297		skin	763	SKIN		ʔai̵gʃurə	ʔ a ɨ g ʃ u r ə
+494534	527206	hubercolumbian-Chimila	chim1309		skin	763	SKIN		manta	m a n t a
+494539	527211	hubercolumbian-Dimina	mala1522		skin	763	SKIN		anʒoma	a n ʒ o m a
+494553	527225	hubercolumbian-Kogui	cogu1240		skin	763	SKIN		ahúbə	a h u b ə
+494575	527247	hubercolumbian-TuneboCentral	cent2150		skin	763	SKIN		umá	u m a
+498986	531658	constenlachibchan-Boruca	boru1252		sleep	1585	SLEEP		kàb	k a b
+498987	531659	constenlachibchan-Bribri	brib1243		sleep	1585	SLEEP		kapɪ	k a p ɪ
+498988	531660	constenlachibchan-Buglere	bugl1243		sleep	1585	SLEEP		gbe	g b e
+498989	531661	constenlachibchan-Cabecar	cabe1245		sleep	1585	SLEEP		kapɪ	k a p ɪ
+498991	531663	constenlachibchan-Chibcha	chib1270		sleep	1585	SLEEP		kɨβɨ	k ɨ β ɨ
+498994	531666	constenlachibchan-MalekuJaika	male1297		sleep	1585	SLEEP		tʃu:xi	tʃ uː x i
+498996	531668	constenlachibchan-Ngabere	ngab1239		sleep	1585	SLEEP		kimɪ̃	k i m ɪ̃
+498997	531669	constenlachibchan-Pech	pech1241		sleep	1585	SLEEP		ók	o k
+498998	531670	constenlachibchan-Rama	rama1270		sleep	1585	SLEEP		kami	k a m i
+498999	531671	constenlachibchan-SanBlasKuna	sanb1242		sleep	1585	SLEEP		kape	k a p e
+499000	531672	constenlachibchan-Teribe	teri1250		sleep	1585	SLEEP		pɪ́	p ɪ
+499162	531834	hubercolumbian-Bari	bari1297		sleep	1585	SLEEP		ʔoʃkək	ʔ o ʃ k ə k
+499168	531840	hubercolumbian-Chimila	chim1309		sleep	1585	SLEEP		sáara	s a a r a
+499173	531845	hubercolumbian-Dimina	mala1522		sleep	1585	SLEEP		ki̵ɲai	k ɨ ɲ a i
+499183	531855	hubercolumbian-Ika	arhu1242		sleep	1585	SLEEP		kə́mmən	k ə m m ə n
+499188	531860	hubercolumbian-Kogui	cogu1240		sleep	1585	SLEEP		kəbáʃĩ	k ə b a ʃ ĩ
+499210	531882	hubercolumbian-TuneboCentral	cent2150		sleep	1585	SLEEP		káminro	k a m i n r o
+502534	535208	constenlachibchan-Boruca	boru1252		small	1246	SMALL		ìstàmúɾá	i s t a m u ɾ a
+502535	535209	constenlachibchan-Bribri	brib1243		small	1246	SMALL		tsǐd	t s i d
+502536	535210	constenlachibchan-Buglere	bugl1243		small	1246	SMALL		soli	s o l i
+502537	535211	constenlachibchan-Cabecar	cabe1245		small	1246	SMALL		dʒuɺɪ́ɺà	dʒ u ɺ ɪ ɺ a
+502539	535213	constenlachibchan-Chibcha	chib1270		small	1246	SMALL		inɣe tsunɣa	i n ɣ e + t s u n ɣ a
+502542	535216	constenlachibchan-MalekuJaika	male1297		small	1246	SMALL		noko:tʃa:	n o k oː tʃ aː
+502544	535218	constenlachibchan-Ngabere	ngab1239		small	1246	SMALL		tʃi	tʃ i
+502545	535219	constenlachibchan-Pech	pech1241		small	1246	SMALL		jéʔ	j e ʔ
+502546	535220	constenlachibchan-Rama	rama1270		small	1246	SMALL		suksuk	s u k s u k
+502547	535221	constenlachibchan-SanBlasKuna	sanb1242		small	1246	SMALL		tottokwa	t o t o k w a
+502548	535222	constenlachibchan-Teribe	teri1250		small	1246	SMALL		tíɾà	t i ɾ a
+502724	535398	hubercolumbian-Bari	bari1297		small	1246	SMALL		bakuɾə	b a k u ɾ ə
+502735	535409	hubercolumbian-Chimila	chim1309		small	1246	SMALL		ⁿdíssutúʔ	ⁿd i s s u t u ʔ
+502741	535415	hubercolumbian-Dimina	mala1522		small	1246	SMALL		ákwia	a k w i a
+502751	535425	hubercolumbian-Ika	arhu1242		small	1246	SMALL		ingí̵ kawa	i n g ɨ + k a w a
+502758	535432	hubercolumbian-Kogui	cogu1240		small	1246	SMALL		nóŋgutse	n o ŋ g u ts e
+502787	535461	hubercolumbian-TuneboCentral	cent2150		small	1246	SMALL		kónua	k o n u a
+506908	539584	constenlachibchan-Boruca	boru1252		smokeexhaust	778	SMOKE (EXHAUST)		dʒìdʒà	dʒ i dʒ a
+506909	539585	constenlachibchan-Bribri	brib1243		smokeexhaust	778	SMOKE (EXHAUST)		ʃkaɺã̂	ʃ k a ɺ ã
+506910	539586	constenlachibchan-Buglere	bugl1243		smokeexhaust	778	SMOKE (EXHAUST)		hiã́	h i ã
+506911	539587	constenlachibchan-Cabecar	cabe1245		smokeexhaust	778	SMOKE (EXHAUST)		ʃkaɺã́	ʃ k a ɺ ã
+506913	539589	constenlachibchan-Chibcha	chib1270		smokeexhaust	778	SMOKE (EXHAUST)		i-e	i + e
+506916	539592	constenlachibchan-MalekuJaika	male1297		smokeexhaust	778	SMOKE (EXHAUST)		uxu:ma	u x uː m a
+506918	539594	constenlachibchan-Ngabere	ngab1239		smokeexhaust	778	SMOKE (EXHAUST)		ŋɯbɯ	ŋ ɯ b ɯ
+506919	539595	constenlachibchan-Pech	pech1241		smokeexhaust	778	SMOKE (EXHAUST)		wãs	w ã s
+506920	539596	constenlachibchan-Rama	rama1270		smokeexhaust	778	SMOKE (EXHAUST)		sawa	s a w a
+506921	539597	constenlachibchan-SanBlasKuna	sanb1242		smokeexhaust	778	SMOKE (EXHAUST)		wa:	w aː
+506922	539598	constenlachibchan-Teribe	teri1250		smokeexhaust	778	SMOKE (EXHAUST)		ɲó	ɲ o
+507073	539749	hubercolumbian-Bari	bari1297		smokeexhaust	778	SMOKE (EXHAUST)		ʔirəkbərə	ʔ i r ə k b ə r ə
+507080	539756	hubercolumbian-Chimila	chim1309		smokeexhaust	778	SMOKE (EXHAUST)		íŋŋaʔ	i ŋ ŋ a ʔ
+507086	539762	hubercolumbian-Dimina	mala1522		smokeexhaust	778	SMOKE (EXHAUST)		suta	s u t a
+507096	539772	hubercolumbian-Ika	arhu1242		smokeexhaust	778	SMOKE (EXHAUST)		záʧa	z a tʃ a
+507101	539777	hubercolumbian-Kogui	cogu1240		smokeexhaust	778	SMOKE (EXHAUST)		ĩhiá	ĩ h i a
+507124	539800	hubercolumbian-TuneboCentral	cent2150		smokeexhaust	778	SMOKE (EXHAUST)		íjara	i j a r a
+532203	564879	hubercolumbian-Bari	bari1297		star	1430	STAR		totubiɾə	t o t u b i ɾ ə
+532210	564886	hubercolumbian-Chimila	chim1309		star	1430	STAR		ⁿdjóttuwáŋa	ⁿd j o t t u w a ŋ a
+532215	564891	hubercolumbian-Dimina	mala1522		star	1430	STAR		ʒandumaja	ʒ a n d u m a j a
+532225	564901	hubercolumbian-Ika	arhu1242		star	1430	STAR		wirakóʔku	w i r a k o ʔ k u
+532230	564906	hubercolumbian-Kogui	cogu1240		star	1430	STAR		zuméja	z u m e j a
+532252	564928	hubercolumbian-TuneboCentral	cent2150		star	1430	STAR		ùba	u b a
+538577	571254	constenlachibchan-Boruca	boru1252		stone	857	STONE		káŋ	k a ŋ
+538578	571255	constenlachibchan-Bribri	brib1243		stone	857	STONE		âk	a k
+538579	571256	constenlachibchan-Buglere	bugl1243		stone	857	STONE		ke	k e
+538580	571257	constenlachibchan-Cabecar	cabe1245		stone	857	STONE		hák	h a k
+538582	571259	constenlachibchan-Chibcha	chib1270		stone	857	STONE		hɨka	h ɨ k a
+538585	571262	constenlachibchan-MalekuJaika	male1297		stone	857	STONE		oktaɾa:	o k t a ɾ aː
+538587	571264	constenlachibchan-Ngabere	ngab1239		stone	857	STONE		hɔ	h ɔ
+538588	571265	constenlachibchan-Pech	pech1241		stone	857	STONE		sàʔ	s a ʔ
+538589	571266	constenlachibchan-Rama	rama1270		stone	857	STONE		ŋali:ŋ	ŋ a l iː ŋ
+538590	571267	constenlachibchan-SanBlasKuna	sanb1242		stone	857	STONE		akkwa	a k w a
+538591	571268	constenlachibchan-Teribe	teri1250		stone	857	STONE		àk	a k
+538743	571420	hubercolumbian-Bari	bari1297		stone	857	STONE		ʔajnə	ʔ a j n ə
+538751	571428	hubercolumbian-Chimila	chim1309		stone	857	STONE		kɾeekákkui	k ɾ eː k a k k u i
+538756	571433	hubercolumbian-Dimina	mala1522		stone	857	STONE		i̵ngina	ɨ n g i n a
+538765	571442	hubercolumbian-Ika	arhu1242		stone	857	STONE		áʔni̵	a ʔ n ɨ
+538770	571447	hubercolumbian-Kogui	cogu1240		stone	857	STONE		hə́ggi	h ə g g i
+538792	571469	hubercolumbian-TuneboCentral	cent2150		stone	857	STONE		áka	a k a
+547945	580622	constenlachibchan-Boruca	boru1252		sun	1343	SUN		kà-k	k a + k
+547946	580623	constenlachibchan-Bribri	brib1243		sun	1343	SUN		dí-uʊ̀	d i + u ʊ
+547947	580624	constenlachibchan-Buglere	bugl1243		sun	1343	SUN		tʃwi	tʃ w i
+547948	580625	constenlachibchan-Cabecar	cabe1245		sun	1343	SUN		kã-úʊ́	k ã + u ʊ
+547950	580627	constenlachibchan-Chibcha	chib1270		sun	1343	SUN		sua	s u a
+547953	580630	constenlachibchan-MalekuJaika	male1297		sun	1343	SUN		to:xi	t oː x i
+547955	580632	constenlachibchan-Ngabere	ngab1239		sun	1343	SUN		ɲɔnɔ	ɲ ɔ n ɔ
+547956	580633	constenlachibchan-Pech	pech1241		sun	1343	SUN		ã̀:	ãː
+547957	580634	constenlachibchan-Rama	rama1270		sun	1343	SUN		alka	a l k a
+547958	580635	constenlachibchan-SanBlasKuna	sanb1242		sun	1343	SUN		ta-ta	t a + t a
+547959	580636	constenlachibchan-Teribe	teri1250		sun	1343	SUN		dɺò	d ɺ o
+548124	580801	hubercolumbian-Bari	bari1297		sun	1343	SUN		jããnə	j ã ã n ə
+548131	580808	hubercolumbian-Chimila	chim1309		sun	1343	SUN		ⁿdíŋŋaʔ	ⁿd i ŋ ŋ a ʔ
+548132	580809	hubercolumbian-Chimila	chim1309		sun	1343	SUN		pénaritóoroʔ	p e n a r i t o o r o ʔ
+548133	580810	hubercolumbian-Chimila	chim1309		sun	1343	SUN		páapasuʔ	p a a p a s u ʔ
+548139	580816	hubercolumbian-Dimina	mala1522		sun	1343	SUN		mamaduísa ʤúi	m a m a d u i s a + dʒ u i
+548151	580828	hubercolumbian-Ika	arhu1242		sun	1343	SUN		ʤwi	dʒ w i
+548156	580833	hubercolumbian-Kogui	cogu1240		sun	1343	SUN		máma	m a m a
+548157	580834	hubercolumbian-Kogui	cogu1240		sun	1343	SUN		niṹwi	n i ũ w i
+548180	580857	hubercolumbian-TuneboCentral	cent2150		sun	1343	SUN		raʔsa	r a ʔ s a
+555174	587851	hubercolumbian-Bari	bari1297		swim	1439	SWIM		ʔarugbisəkajnə	ʔ a r u g b i s ə k a j n ə
+555181	587858	hubercolumbian-Chimila	chim1309		swim	1439	SWIM		háari	h a a r i
+555187	587864	hubercolumbian-Dimina	mala1522		swim	1439	SWIM		wekubi	w e k u b i
+555196	587873	hubercolumbian-Ika	arhu1242		swim	1439	SWIM		punténən	p u n t e n ə n
+555201	587878	hubercolumbian-Kogui	cogu1240		swim	1439	SWIM		huẽ́ni	h u ẽ n i
+557468	590145	constenlachibchan-Boruca	boru1252		tail	1220	TAIL		kuàntsá	k u a n t s a
+557469	590146	constenlachibchan-Bribri	brib1243		tail	1220	TAIL		baɺḗk	b a ɺ ẽ k
+557470	590147	constenlachibchan-Buglere	bugl1243		tail	1220	TAIL		skugda	s k u g d a
+557471	590148	constenlachibchan-Cabecar	cabe1245		tail	1220	TAIL		baɺḗk	b a ɺ ẽ k
+557473	590150	constenlachibchan-Chibcha	chib1270		tail	1220	TAIL		suhuka	s u h u k a
+557476	590153	constenlachibchan-MalekuJaika	male1297		tail	1220	TAIL		tuki:	t u k iː
+557478	590155	constenlachibchan-Ngabere	ngab1239		tail	1220	TAIL		kɯbaɾa	k ɯ b a ɾ a
+557479	590156	constenlachibchan-Pech	pech1241		tail	1220	TAIL		pàɾ	p a ɾ
+557480	590157	constenlachibchan-Rama	rama1270		tail	1220	TAIL		tuk	t u k
+557481	590158	constenlachibchan-SanBlasKuna	sanb1242		tail	1220	TAIL		punnu	p u n u
+557482	590159	constenlachibchan-Teribe	teri1250		tail	1220	TAIL		ɸɺàk	ɸ ɺ a k
+557616	590293	hubercolumbian-Bari	bari1297		tail	1220	TAIL		ʔaɾikunə	ʔ a ɾ i k u n ə
+557624	590301	hubercolumbian-Chimila	chim1309		tail	1220	TAIL		ᵐbúkkɾa	ⁿb u k k ɾ a
+557632	590309	hubercolumbian-Dimina	mala1522		tail	1220	TAIL		duʃki̵na	d u ʃ k ɨ n a
+557647	590324	hubercolumbian-Ika	arhu1242		tail	1220	TAIL		ʤóʔo	dʒ o ʔ o
+557652	590329	hubercolumbian-Kogui	cogu1240		tail	1220	TAIL		núggi	n u g g i
+557676	590353	hubercolumbian-TuneboCentral	cent2150		tail	1220	TAIL		rustára	r u s t a r a
+567002	599681	hubercolumbian-Bari	bari1297		that	78	THAT		ʔobajnə	ʔ o b a j n ə
+567013	599692	hubercolumbian-Chimila	chim1309		that	78	THAT		nóoweʔ	n o o w e ʔ
+567019	599698	hubercolumbian-Dimina	mala1522		that	78	THAT		mema ni̵nka	m e m a + n ɨ n k a
+567028	599707	hubercolumbian-Ika	arhu1242		that	78	THAT		ʒí̵ka	ʒ ɨ k a
+567034	599713	hubercolumbian-Kogui	cogu1240		that	78	THAT		tuálde	t u a l d e
+567062	599741	hubercolumbian-TuneboCentral	cent2150		that	78	THAT		éja	e j a
+577948	610627	constenlachibchan-Boruca	boru1252		this	1214	THIS		uéʔ	u e ʔ
+577949	610628	constenlachibchan-Bribri	brib1243		this	1214	THIS		ɪ̌ʔ	ɪ ʔ
+577950	610629	constenlachibchan-Buglere	bugl1243		this	1214	THIS		ai	a i
+577951	610630	constenlachibchan-Cabecar	cabe1245		this	1214	THIS		hí	h i
+577953	610632	constenlachibchan-Chibcha	chib1270		this	1214	THIS		sisɨ	s i s ɨ
+577956	610635	constenlachibchan-MalekuJaika	male1297		this	1214	THIS		ni:	n iː
+577958	610637	constenlachibchan-Ngabere	ngab1239		this	1214	THIS		ne	n e
+577959	610638	constenlachibchan-Pech	pech1241		this	1214	THIS		ĩ́	ĩ
+577960	610639	constenlachibchan-Rama	rama1270		this	1214	THIS		niŋ	n i ŋ
+577961	610640	constenlachibchan-SanBlasKuna	sanb1242		this	1214	THIS		we	w e
+577962	610641	constenlachibchan-Teribe	teri1250		this	1214	THIS		hũ	h ũ
+578085	610764	hubercolumbian-Bari	bari1297		this	1214	THIS		idəbajnə	i d ə b a j n ə
+578095	610774	hubercolumbian-Chimila	chim1309		this	1214	THIS		áarite	a a r i t e
+578101	610780	hubercolumbian-Dimina	mala1522		this	1214	THIS		ima	i m a
+578113	610792	hubercolumbian-Ika	arhu1242		this	1214	THIS		éⁱma	ei m a
+578118	610797	hubercolumbian-Kogui	cogu1240		this	1214	THIS		hálde	h a l d e
+578147	610826	hubercolumbian-TuneboCentral	cent2150		this	1214	THIS		úʃa	u ʃ a
+578148	610827	hubercolumbian-TuneboCentral	cent2150		this	1214	THIS		uha	u h a
+580100	612782	constenlachibchan-Boruca	boru1252		thou	1215	THOU		bá	b a
+580101	612783	constenlachibchan-Bribri	brib1243		thou	1215	THOU		běʔ	b e ʔ
+580102	612784	constenlachibchan-Buglere	bugl1243		thou	1215	THOU		ba	b a
+580103	612785	constenlachibchan-Cabecar	cabe1245		thou	1215	THOU		bá	b a
+580105	612787	constenlachibchan-Chibcha	chib1270		thou	1215	THOU		mɨe	m ɨ e
+580108	612790	constenlachibchan-MalekuJaika	male1297		thou	1215	THOU		po:	p oː
+580110	612792	constenlachibchan-Ngabere	ngab1239		thou	1215	THOU		mɔ	m ɔ
+580111	612793	constenlachibchan-Pech	pech1241		thou	1215	THOU		pa	p a
+580112	612794	constenlachibchan-Rama	rama1270		thou	1215	THOU		ma:	m aː
+580113	612795	constenlachibchan-SanBlasKuna	sanb1242		thou	1215	THOU		pe	p e
+580114	612796	constenlachibchan-Teribe	teri1250		thou	1215	THOU		ɸà	ɸ a
+580284	612966	hubercolumbian-Bari	bari1297		thou	1215	THOU		bai	b a i
+580291	612973	hubercolumbian-Chimila	chim1309		thou	1215	THOU		ámma	a m m a
+580296	612978	hubercolumbian-Dimina	mala1522		thou	1215	THOU		ma	m a
+580306	612988	hubercolumbian-Ika	arhu1242		thou	1215	THOU		ma	m a
+580311	612993	hubercolumbian-Kogui	cogu1240		thou	1215	THOU		má	m a
+580338	613020	hubercolumbian-TuneboCentral	cent2150		thou	1215	THOU		báʔa	b a ʔ a
+596037	628724	constenlachibchan-Boruca	boru1252		tongue	1205	TONGUE		kuátkuà	k u a t k u a
+596038	628725	constenlachibchan-Bribri	brib1243		tongue	1205	TONGUE		kǔʔ	k u ʔ
+596039	628726	constenlachibchan-Buglere	bugl1243		tongue	1205	TONGUE		kwiɾa	k w i ɾ a
+596040	628727	constenlachibchan-Cabecar	cabe1245		tongue	1205	TONGUE		kú	k u
+596042	628729	constenlachibchan-Chibcha	chib1270		tongue	1205	TONGUE		pkua	p k u a
+596045	628732	constenlachibchan-MalekuJaika	male1297		tongue	1205	TONGUE		ku:	k uː
+596047	628734	constenlachibchan-Ngabere	ngab1239		tongue	1205	TONGUE		tɯdɾɔ	t ɯ d ɾ ɔ
+596048	628735	constenlachibchan-Pech	pech1241		tongue	1205	TONGUE		ùwà	u w a
+596049	628736	constenlachibchan-Rama	rama1270		tongue	1205	TONGUE		ku:p	k uː p
+596050	628737	constenlachibchan-SanBlasKuna	sanb1242		tongue	1205	TONGUE		kwapinni	k w a p i n i
+596051	628738	constenlachibchan-Teribe	teri1250		tongue	1205	TONGUE		kʰèɾkuó	kʰ e ɾ k u o
+596181	628868	hubercolumbian-Bari	bari1297		tongue	1205	TONGUE		kobi̵nə	k o b ɨ n ə
+596189	628876	hubercolumbian-Chimila	chim1309		tongue	1205	TONGUE		kuáaʔ	k u a a ʔ
+596195	628882	hubercolumbian-Dimina	mala1522		tongue	1205	TONGUE		kongi̵ra	k o n g ɨ r a
+596206	628893	hubercolumbian-Ika	arhu1242		tongue	1205	TONGUE		koríʔgəni̵	k o r i ʔ g ə n ɨ
+596211	628898	hubercolumbian-Kogui	cogu1240		tongue	1205	TONGUE		huáŋgəldə	h u a ŋ g ə l d ə
+596233	628920	hubercolumbian-TuneboCentral	cent2150		tongue	1205	TONGUE		kùwa	k u w a
+598238	630925	constenlachibchan-Boruca	boru1252		tooth	1380	TOOTH		síʔ	s i ʔ
+598239	630926	constenlachibchan-Bribri	brib1243		tooth	1380	TOOTH		aká	a k a
+598240	630927	constenlachibchan-Buglere	bugl1243		tooth	1380	TOOTH		dau	d a u
+598241	630928	constenlachibchan-Cabecar	cabe1245		tooth	1380	TOOTH		kà	k a
+598243	630930	constenlachibchan-Chibcha	chib1270		tooth	1380	TOOTH		sika	s i k a
+598246	630933	constenlachibchan-MalekuJaika	male1297		tooth	1380	TOOTH		oka:	o k aː
+598248	630935	constenlachibchan-Ngabere	ngab1239		tooth	1380	TOOTH		tu	t u
+598249	630936	constenlachibchan-Pech	pech1241		tooth	1380	TOOTH		kĩ́ʔ	k ĩ ʔ
+598250	630937	constenlachibchan-Rama	rama1270		tooth	1380	TOOTH		si:k	s iː k
+598251	630938	constenlachibchan-SanBlasKuna	sanb1242		tooth	1380	TOOTH		nukala	n u k a l a
+598252	630939	constenlachibchan-Teribe	teri1250		tooth	1380	TOOTH		kòuó	k o u o
+598359	631046	hubercolumbian-Bari	bari1297		tooth	1380	TOOTH		duduurə	d u d uː r ə
+598368	631055	hubercolumbian-Chimila	chim1309		tooth	1380	TOOTH		ⁿdi	ⁿd i
+598373	631060	hubercolumbian-Dimina	mala1522		tooth	1380	TOOTH		kikká	k i k k a
+598382	631069	hubercolumbian-Ika	arhu1242		tooth	1380	TOOTH		kə́kki̵	k ə k k ɨ
+598387	631074	hubercolumbian-Kogui	cogu1240		tooth	1380	TOOTH		huáldə	h u a l d ə
+598410	631097	hubercolumbian-TuneboCentral	cent2150		tooth	1380	TOOTH		rúʔra	r u ʔ r a
+602587	635274	constenlachibchan-Boruca	boru1252		tree	906	TREE		kɾáŋ	k ɾ a ŋ
+602588	635275	constenlachibchan-Bribri	brib1243		tree	906	TREE		káɺ	k a ɺ
+602589	635276	constenlachibchan-Buglere	bugl1243		tree	906	TREE		gli	g l i
+602590	635277	constenlachibchan-Cabecar	cabe1245		tree	906	TREE		kaɺ	k a ɺ
+602592	635279	constenlachibchan-Chibcha	chib1270		tree	906	TREE		kɨe	k ɨ e
+602595	635282	constenlachibchan-MalekuJaika	male1297		tree	906	TREE		ko:ɾa	k oː ɾ a
+602597	635284	constenlachibchan-Ngabere	ngab1239		tree	906	TREE		kɾi	k ɾ i
+602598	635285	constenlachibchan-Pech	pech1241		tree	906	TREE		pã̀jh	p ã j h
+602599	635286	constenlachibchan-Rama	rama1270		tree	906	TREE		ka:t	k aː t
+602600	635287	constenlachibchan-SanBlasKuna	sanb1242		tree	906	TREE		sappi	s a p i
+602601	635288	constenlachibchan-Teribe	teri1250		tree	906	TREE		kʰɔ́	kʰ ɔ
+602763	635450	hubercolumbian-Bari	bari1297		tree	906	TREE		kããnə	k ã ã n ə
+602770	635457	hubercolumbian-Chimila	chim1309		tree	906	TREE		ká	k a
+602776	635463	hubercolumbian-Dimina	mala1522		tree	906	TREE		ki̵n	k ɨ n
+602787	635474	hubercolumbian-Ika	arhu1242		tree	906	TREE		kən	k ə n
+602793	635480	hubercolumbian-Kogui	cogu1240		tree	906	TREE		kə́ldi	k ə l d i
+602818	635505	hubercolumbian-TuneboCentral	cent2150		tree	906	TREE		kárukʷa	k a r u kʷ a
+611073	643760	constenlachibchan-Boruca	boru1252		two	1498	TWO		búʔk	b u ʔ k
+611074	643761	constenlachibchan-Bribri	brib1243		two	1498	TWO		bʊ	b ʊ
+611075	643762	constenlachibchan-Buglere	bugl1243		two	1498	TWO		boke	b o k e
+611076	643763	constenlachibchan-Cabecar	cabe1245		two	1498	TWO		bo	b o
+611078	643765	constenlachibchan-Chibcha	chib1270		two	1498	TWO		bo	b o
+611081	643768	constenlachibchan-MalekuJaika	male1297		two	1498	TWO		pauŋka	p a u ŋ k a
+611083	643770	constenlachibchan-Ngabere	ngab1239		two	1498	TWO		bu	b u
+611084	643771	constenlachibchan-Pech	pech1241		two	1498	TWO		pók	p o k
+611085	643772	constenlachibchan-Rama	rama1270		two	1498	TWO		puksak	p u k s a k
+611086	643773	constenlachibchan-SanBlasKuna	sanb1242		two	1498	TWO		po:	p oː
+611087	643774	constenlachibchan-Teribe	teri1250		two	1498	TWO		bʊ́	b ʊ
+611260	643947	hubercolumbian-Bari	bari1297		two	1498	TWO		ʔisaminə	ʔ i s a m i n ə
+611268	643955	hubercolumbian-Chimila	chim1309		two	1498	TWO		búnaʔ	b u n a ʔ
+611273	643960	hubercolumbian-Dimina	mala1522		two	1498	TWO		mowa	m o w a
+611286	643973	hubercolumbian-Ika	arhu1242		two	1498	TWO		móᵘga	m ou g a
+611291	643978	hubercolumbian-Kogui	cogu1240		two	1498	TWO		móʒũa	m o ʒ ũ a
+611316	644003	hubercolumbian-TuneboCentral	cent2150		two	1498	TWO		bukája	b u k a j a
+626932	679593	constenlachibchan-Boruca	boru1252		white	1335	WHITE		suát	s u a t
+626933	679594	constenlachibchan-Bribri	brib1243		white	1335	WHITE		sadǔdǔ	s a d u d u
+626934	679595	constenlachibchan-Buglere	bugl1243		white	1335	WHITE		hutɾe	h u t ɾ e
+626935	679596	constenlachibchan-Cabecar	cabe1245		white	1335	WHITE		sadúù	s a d u u
+626937	679598	constenlachibchan-Chibcha	chib1270		white	1335	WHITE		pkɨhɨsio	p k ɨ h ɨ s i o
+626940	679601	constenlachibchan-MalekuJaika	male1297		white	1335	WHITE		ʝaki: pala: iŋa:	ʝ a k iː + p a l aː + i ŋ aː
+626942	679603	constenlachibchan-Ngabere	ngab1239		white	1335	WHITE		ŋweɲe	ŋ w e ɲ e
+626943	679604	constenlachibchan-Pech	pech1241		white	1335	WHITE		kàbísás	k a b i s a s
+626944	679605	constenlachibchan-Rama	rama1270		white	1335	WHITE		plu:ma	p l uː m a
+626945	679606	constenlachibchan-SanBlasKuna	sanb1242		white	1335	WHITE		sippu	s i p u
+626946	679607	constenlachibchan-Teribe	teri1250		white	1335	WHITE		ɸɺùɾún	ɸ ɺ u ɾ u n
+627108	679769	hubercolumbian-Bari	bari1297		white	1335	WHITE		bahʧirə	b a h tʃ i r ə
+627116	679777	hubercolumbian-Chimila	chim1309		white	1335	WHITE		sómmotúʔ	s o m m o t u ʔ
+627122	679783	hubercolumbian-Dimina	mala1522		white	1335	WHITE		ambi̵nʃi	a m b ɨ n ʃ i
+627136	679797	hubercolumbian-Ika	arhu1242		white	1335	WHITE		búnsi kawa	b u n s i + k a w a
+627141	679802	hubercolumbian-Kogui	cogu1240		white	1335	WHITE		abúʧi	a b u tʃ i
+627167	679828	hubercolumbian-TuneboCentral	cent2150		white	1335	WHITE		kʷasája	kʷ a s a j a
+629565	682318	hubercolumbian-Bari	bari1297		who	1235	WHO		ʔamaj	ʔ a m a j
+629566	682319	hubercolumbian-Bari	bari1297		who	1235	WHO		ʔami	ʔ a m i
+629576	682329	hubercolumbian-Chimila	chim1309		who	1235	WHO		ᵐbíkki	ⁿb i k k i
+629581	682334	hubercolumbian-Dimina	mala1522		who	1235	WHO		nene	n e n e
+629593	682346	hubercolumbian-Ika	arhu1242		who	1235	WHO		íni̵	i n ɨ
+629594	682347	hubercolumbian-Ika	arhu1242		who	1235	WHO		béma	b e m a
+629601	682354	hubercolumbian-Kogui	cogu1240		who	1235	WHO		mẽ́	m ẽ
+629633	682386	hubercolumbian-TuneboCentral	cent2150		who	1235	WHO		reʔrá	r e ʔ r a
+639756	692511	constenlachibchan-Boruca	boru1252		woman	962	WOMAN		ɾamɾóxk	ɾ a m ɾ o x k
+639757	692512	constenlachibchan-Bribri	brib1243		woman	962	WOMAN		aɺá-kʊ̀ɺ	a ɺ a + k ʊ ɺ
+639758	692513	constenlachibchan-Buglere	bugl1243		woman	962	WOMAN		mũĩŋa	m ũ ĩ ŋ a
+639759	692514	constenlachibchan-Cabecar	cabe1245		woman	962	WOMAN		aɺâ-kɺʊ̀	a ɺ a + k ɺ ʊ
+639761	692516	constenlachibchan-Chibcha	chib1270		woman	962	WOMAN		βuhutʲa	β u h u tʲ a
+639764	692519	constenlachibchan-MalekuJaika	male1297		woman	962	WOMAN		kuɾi:xuɾi:	k u ɾ iː x u ɾ iː
+639766	692521	constenlachibchan-Ngabere	ngab1239		woman	962	WOMAN		meɾi	m e ɾ i
+639767	692522	constenlachibchan-Pech	pech1241		woman	962	WOMAN		kóɾtà	k o ɾ t a
+639768	692523	constenlachibchan-Rama	rama1270		woman	962	WOMAN		kuma:	k u m aː
+639769	692524	constenlachibchan-SanBlasKuna	sanb1242		woman	962	WOMAN		ome	o m e
+639770	692525	constenlachibchan-Teribe	teri1250		woman	962	WOMAN		uàɺɪ́	u a ɺ ɪ
+639954	692709	hubercolumbian-Bari	bari1297		woman	962	WOMAN		bioɾə	b i o ɾ ə
+639960	692715	hubercolumbian-Chimila	chim1309		woman	962	WOMAN		júŋwiriʔ	j u ŋ w i r i ʔ
+639967	692722	hubercolumbian-Dimina	mala1522		woman	962	WOMAN		mena	m e n a
+639976	692731	hubercolumbian-Ika	arhu1242		woman	962	WOMAN		aʔmía	a ʔ m i a
+639982	692737	hubercolumbian-Kogui	cogu1240		woman	962	WOMAN		múnʒi	m u n ʒ i
+640013	692768	hubercolumbian-TuneboCentral	cent2150		woman	962	WOMAN		wiw̃ara	w i w̃ a r a

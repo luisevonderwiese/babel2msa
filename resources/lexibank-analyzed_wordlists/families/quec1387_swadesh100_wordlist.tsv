@@ -1,0 +1,2578 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+8767	24918	hubercolumbian-Inga	inga1252		bark	1204	BARK		káspi kára	k a s p i + k a r a
+9480	25631	wold-ImbaburaQuechua	imba1240		bark	1204	BARK		kiru_kara	k i ɾ u + k a ɾ a
+22571	38722	crossandean-Apuri	apur1253		belly	1251	BELLY		wiksa	w i k s a
+22572	38723	crossandean-Apurimac	east2551		belly	1251	BELLY		wiksa	w i k s a
+22573	38724	crossandean-Atalla	huan1249		belly	1251	BELLY		wiksa	w i k s a
+22574	38725	crossandean-Ayacucho	ayac1239		belly	1251	BELLY		wiksa	w i k s a
+22575	38726	crossandean-Azuay	azua1234		belly	1251	BELLY		huigsa	w i χ a
+22576	38727	crossandean-Cacra-Hongos	cacr1238		belly	1251	BELLY		wiksa	w i k s a
+22577	38728	crossandean-Chachapoyas	chac1250		belly	1251	BELLY		wiksa	w i k s a
+22578	38729	crossandean-Chetilla	caja1238		belly	1251	BELLY		paĉa	p a ʈʂ a
+22579	38730	crossandean-Curva	apol1241		belly	1251	BELLY		wixsa	w i x s a
+22580	38731	crossandean-Curva	apol1241		belly	1251	BELLY		wisa	w i s a
+22581	38732	crossandean-Cuzco	cusc1236		belly	1251	BELLY		wixsa	w i x s a
+22582	38733	crossandean-Huallaga	hual1241		belly	1251	BELLY		pača	p a tʃ a
+22583	38734	crossandean-Huanca	huay1241		belly	1251	BELLY		pata	p a t a
+22584	38735	crossandean-Huangascar	azan1238		belly	1251	BELLY		wiksa	w i k s a
+22585	38736	crossandean-HuarazHuailas	huai1241		belly	1251	BELLY		pacha	p a tʃ a
+22586	38737	crossandean-Inkawasi	lamb1276		belly	1251	BELLY		paĉa	p a ʈʂ a
+22588	38739	crossandean-Jauja	jauj1238		belly	1251	BELLY		pata	p a t a
+22590	38741	crossandean-Lamas	sanm1289		belly	1251	BELLY		wiksa	w i k s a
+22591	38742	crossandean-Laraos	yauy1235		belly	1251	BELLY		wiksa	w i k s a
+22592	38743	crossandean-Lincha-Tana	tana1291		belly	1251	BELLY		wiksa	w i k s a
+22593	38744	crossandean-Maragua	sout2991		belly	1251	BELLY		wixsa	w i x s a
+22594	38745	crossandean-Napo	napo1242		belly	1251	BELLY		huicsa	w i k s a
+22595	38746	crossandean-Pacaraos	paca1245		belly	1251	BELLY		patra	p a ʈʂ a
+22596	38747	crossandean-Pastaza	sout2990		belly	1251	BELLY		vicsa	w i k s a
+22597	38748	crossandean-Pocona	coch1274		belly	1251	BELLY		wisa	w i s a
+22598	38749	crossandean-Puno	puno1238		belly	1251	BELLY		wiksa	w i k s a
+22599	38750	crossandean-SanPedro	sanp1258		belly	1251	BELLY		wiksa	w i k s a
+22600	38751	crossandean-Santiagueno	sant1432		belly	1251	BELLY		wiksa	w i x s a
+22601	38752	crossandean-Serena	tena1240		belly	1251	BELLY		iksa	i k s a
+22602	38753	crossandean-Tarma	yaru1256		belly	1251	BELLY		paĉa	p a ʈʂ a
+22603	38754	crossandean-Troje	nort3351		belly	1251	BELLY		wixsa	w i x s a
+22604	38755	crossandean-Yanac	coro1247		belly	1251	BELLY		paĉa	p a ʈʂ a
+22754	38905	hubercolumbian-Inga	inga1252		belly	1251	BELLY		wígsa	w i g s a
+22755	38906	hubercolumbian-Inga	inga1252		belly	1251	BELLY		wígsa	w i g s a
+23863	40014	wold-ImbaburaQuechua	imba1240		belly	1251	BELLY		wiksa	w i k s a
+27639	43790	crossandean-Apuri	apur1253		big	1202	BIG		hatun	h a t u n
+27640	43791	crossandean-Apurimac	east2551		big	1202	BIG		hatun	h a t u n
+27641	43792	crossandean-Atalla	huan1249		big	1202	BIG		hatun	h a t u n
+27642	43793	crossandean-Ayacucho	ayac1239		big	1202	BIG		hatun	h a t u ŋ
+27643	43794	crossandean-Azuay	azua1234		big	1202	BIG		jatun	h a t u n
+27644	43795	crossandean-Cacra-Hongos	cacr1238		big	1202	BIG		hatun	h a t u n
+27645	43796	crossandean-Chachapoyas	chac1250		big	1202	BIG		atun	a t u n
+27646	43797	crossandean-Chetilla	caja1238		big	1202	BIG		atun	a t u n
+27647	43798	crossandean-Curva	apol1241		big	1202	BIG		athun	a tʰ u n
+27648	43799	crossandean-Cuzco	cusc1236		big	1202	BIG		hatun	h a t u n
+27649	43800	crossandean-Huallaga	hual1241		big	1202	BIG		hatun	h a t u n
+27650	43801	crossandean-Huanca	huay1241		big	1202	BIG		hatun	h a t u n
+27651	43802	crossandean-Huangascar	azan1238		big	1202	BIG		hatun	h a t u n
+27652	43803	crossandean-HuarazHuailas	huai1241		big	1202	BIG		hatun	h a t u n
+27653	43804	crossandean-Inkawasi	lamb1276		big	1202	BIG		atun	a t u n
+27655	43806	crossandean-Jauja	jauj1238		big	1202	BIG		hatun	h a t u n
+27657	43808	crossandean-Lamas	sanm1289		big	1202	BIG		atun	a t u n
+27658	43809	crossandean-Laraos	yauy1235		big	1202	BIG		hatun	h a t u n
+27659	43810	crossandean-Lincha-Tana	tana1291		big	1202	BIG		hatun	h a t u n
+27660	43811	crossandean-Maragua	sout2991		big	1202	BIG		hatun	h a t u n
+27661	43812	crossandean-Napo	napo1242		big	1202	BIG		jatun	h a t u n
+27662	43813	crossandean-Pacaraos	paca1245		big	1202	BIG		hatun	x a t u ŋ
+27663	43814	crossandean-Pastaza	sout2990		big	1202	BIG		atun	a t u n
+27664	43815	crossandean-Pocona	coch1274		big	1202	BIG		hatun	h a t u n
+27665	43816	crossandean-Puno	puno1238		big	1202	BIG		hatun	h a t u n
+27666	43817	crossandean-SanPedro	sanp1258		big	1202	BIG		hatun	h a t u n
+27667	43818	crossandean-Santiagueno	sant1432		big	1202	BIG		atun	a t u n
+27668	43819	crossandean-Serena	tena1240		big	1202	BIG		atun	a t u n
+27669	43820	crossandean-Tarma	yaru1256		big	1202	BIG		xatun̊	χ a t u ŋ
+27670	43821	crossandean-Troje	nort3351		big	1202	BIG		hatun	h a t u n
+27671	43822	crossandean-Yanac	coro1247		big	1202	BIG		atun	a t u n
+27832	43983	hubercolumbian-Inga	inga1252		big	1202	BIG		atun	a t u n
+29081	45232	wold-ImbaburaQuechua	imba1240		big	1202	BIG		jatun	x a t u ŋ
+30042	46193	crossandean-Apuri	apur1253		bird	937	BIRD		pishqu	p i ʃ q o
+30043	46194	crossandean-Apurimac	east2551		bird	937	BIRD		pichinko	p i tʃ i n k o
+30044	46195	crossandean-Apurimac	east2551		bird	937	BIRD		pisqo	p i s q o
+30045	46196	crossandean-Apurimac	east2551		bird	937	BIRD		urpitu	u r p i t u
+30046	46197	crossandean-Atalla	huan1249		bird	937	BIRD		pičiwsa	p i tʃ i w s a
+30047	46198	crossandean-Ayacucho	ayac1239		bird	937	BIRD		urpitu	u ɾ p i t u
+30048	46199	crossandean-Ayacucho	ayac1239		bird	937	BIRD		pisqo	p i s χ o
+30049	46200	crossandean-Azuay	azua1234		bird	937	BIRD		pishcu	p i ʃ k u
+30050	46201	crossandean-Cacra-Hongos	cacr1238		bird	937	BIRD		pishqu	p i ʃ q o
+30051	46202	crossandean-Chachapoyas	chac1250		bird	937	BIRD		pishku	p i ʃ k u
+30052	46203	crossandean-Chetilla	caja1238		bird	937	BIRD		pišγu	p i ʃ ʁ u
+30053	46204	crossandean-Curva	apol1241		bird	937	BIRD		p'isqu	pʼ i s q u
+30054	46205	crossandean-Cuzco	cusc1236		bird	937	BIRD		pičinku	p i tʃ i n k u
+30055	46206	crossandean-Cuzco	cusc1236		bird	937	BIRD		pičinchu	p i tʃ i n kʰ u
+30056	46207	crossandean-Huallaga	hual1241		bird	937	BIRD		pišqu	p i ʃ q u
+30057	46208	crossandean-Huanca	huay1241		bird	937	BIRD		pishqu	p i ʃ ʔ u
+30058	46209	crossandean-Huangascar	azan1238		bird	937	BIRD		pishqu	p i ʃ q o
+30059	46210	crossandean-HuarazHuailas	huai1241		bird	937	BIRD		pishqu	p i ʃ q u
+30060	46211	crossandean-Inkawasi	lamb1276		bird	937	BIRD		kuru	k u r u
+30062	46213	crossandean-Jauja	jauj1238		bird	937	BIRD		pishqu	p i ʃ ʔ u
+30064	46215	crossandean-Lamas	sanm1289		bird	937	BIRD		pishku	p i ʃ k u
+30065	46216	crossandean-Laraos	yauy1235		bird	937	BIRD		pišqu	p i ʃ q u
+30066	46217	crossandean-Lincha-Tana	tana1291		bird	937	BIRD		pishqu	p i ʃ q o
+30067	46218	crossandean-Maragua	sout2991		bird	937	BIRD		p'isqu	pʼ i s q u
+30068	46219	crossandean-Napo	napo1242		bird	937	BIRD		pishcu	p i ʃ k u
+30069	46220	crossandean-Pacaraos	paca1245		bird	937	BIRD		pishqu	p i ʃ χ o
+30070	46221	crossandean-Pastaza	sout2990		bird	937	BIRD		pishcu	p i ʃ k u
+30071	46222	crossandean-Pocona	coch1274		bird	937	BIRD		p'isγu	pʼ i s ʁ u
+30072	46223	crossandean-Puno	puno1238		bird	937	BIRD		p'isqu	pʼ i s q u
+30073	46224	crossandean-SanPedro	sanp1258		bird	937	BIRD		pishqu	p i ʃ q o
+30074	46225	crossandean-Santiagueno	sant1432		bird	937	BIRD		pishqo	p i ʃ q o
+30075	46226	crossandean-Serena	tena1240		bird	937	BIRD		pišku	p i ʃ k u
+30076	46227	crossandean-Tarma	yaru1256		bird	937	BIRD		pišxu	p i ʃ χ o
+30077	46228	crossandean-Troje	nort3351		bird	937	BIRD		pišku	p i ʃ k u
+30078	46229	crossandean-Yanac	coro1247		bird	937	BIRD		pišqu	p i ʃ q u
+30226	46377	hubercolumbian-Inga	inga1252		bird	937	BIRD		písku	p i s k u
+31438	47589	wold-ImbaburaQuechua	imba1240		bird	937	BIRD		pishku	p i ʃ k u
+32374	48525	crossandean-Apuri	apur1253		bite	1403	BITE		kani-	k a n i
+32375	48526	crossandean-Apurimac	east2551		bite	1403	BITE		kachu	k a tʃ u
+32376	48527	crossandean-Apurimac	east2551		bite	1403	BITE		kani	k a n i
+32377	48528	crossandean-Atalla	huan1249		bite	1403	BITE		kača.	k a tʃ a
+32378	48529	crossandean-Ayacucho	ayac1239		bite	1403	BITE		kani	k a n i
+32379	48530	crossandean-Azuay	azua1234		bite	1403	BITE		cani-na	k a n i + n a
+32380	48531	crossandean-Cacra-Hongos	cacr1238		bite	1403	BITE		kani-	k a n i
+32381	48532	crossandean-Chachapoyas	chac1250		bite	1403	BITE		kani	k a n i
+32382	48533	crossandean-Chetilla	caja1238		bite	1403	BITE		kani.	k a n i
+32383	48534	crossandean-Curva	apol1241		bite	1403	BITE		kani.	k a n i
+32384	48535	crossandean-Cuzco	cusc1236		bite	1403	BITE		kani.	k a n i
+32385	48536	crossandean-Huallaga	hual1241		bite	1403	BITE		kañi.	k a ɲ i
+32386	48537	crossandean-Huanca	huay1241		bite	1403	BITE		kaniy	k a n i
+32387	48538	crossandean-Huangascar	azan1238		bite	1403	BITE		kani-	k a n i
+32388	48539	crossandean-HuarazHuailas	huai1241		bite	1403	BITE		kani	k a n i
+32389	48540	crossandean-Inkawasi	lamb1276		bite	1403	BITE		kani.	k a n i
+32391	48542	crossandean-Jauja	jauj1238		bite	1403	BITE		kaniy	k a n i
+32393	48544	crossandean-Lamas	sanm1289		bite	1403	BITE		kani	k a n i
+32394	48545	crossandean-Laraos	yauy1235		bite	1403	BITE		kaĉu.	k a ʈʂ u
+32395	48546	crossandean-Lincha-Tana	tana1291		bite	1403	BITE		kani-	k a n i
+32396	48547	crossandean-Maragua	sout2991		bite	1403	BITE		kani.	k a n i
+32397	48548	crossandean-Napo	napo1242		bite	1403	BITE		canina	k a n i + n a
+32398	48549	crossandean-Pacaraos	paca1245		bite	1403	BITE		kani	k a n i
+32399	48550	crossandean-Pastaza	sout2990		bite	1403	BITE		canina	k a n i + n a
+32400	48551	crossandean-Pocona	coch1274		bite	1403	BITE		kani.	k a n i
+32401	48552	crossandean-Puno	puno1238		bite	1403	BITE		kani.	k a n i
+32402	48553	crossandean-SanPedro	sanp1258		bite	1403	BITE		kani-	k a n i
+32403	48554	crossandean-Santiagueno	sant1432		bite	1403	BITE		kaniy	k a n iː
+32404	48555	crossandean-Serena	tena1240		bite	1403	BITE		kani.	k a n i
+32405	48556	crossandean-Tarma	yaru1256		bite	1403	BITE		kani	k a n i
+32406	48557	crossandean-Troje	nort3351		bite	1403	BITE		kani.	k a n i
+32407	48558	crossandean-Yanac	coro1247		bite	1403	BITE		kani.	k a n i
+32584	48735	hubercolumbian-Inga	inga1252		bite	1403	BITE		kaníj	k a n i j
+33528	49679	wold-ImbaburaQuechua	imba1240		bite	1403	BITE		kanina	k a n i n a
+35026	51177	crossandean-Apuri	apur1253		black	163	BLACK		yana	j a n a
+35027	51178	crossandean-Apurimac	east2551		black	163	BLACK		yana	j a n a
+35028	51179	crossandean-Atalla	huan1249		black	163	BLACK		yana	j a n a
+35029	51180	crossandean-Ayacucho	ayac1239		black	163	BLACK		yana	j a n a
+35030	51181	crossandean-Azuay	azua1234		black	163	BLACK		yana	j a n a
+35031	51182	crossandean-Cacra-Hongos	cacr1238		black	163	BLACK		yana	j a n a
+35032	51183	crossandean-Chachapoyas	chac1250		black	163	BLACK		yana	j a n a
+35033	51184	crossandean-Chetilla	caja1238		black	163	BLACK		yana	j a n a
+35034	51185	crossandean-Curva	apol1241		black	163	BLACK		yana	j a n a
+35035	51186	crossandean-Cuzco	cusc1236		black	163	BLACK		yana	j a n a
+35036	51187	crossandean-Huallaga	hual1241		black	163	BLACK		yana	j a n a
+35037	51188	crossandean-Huanca	huay1241		black	163	BLACK		yana	j a n a
+35038	51189	crossandean-Huangascar	azan1238		black	163	BLACK		yana	j a n a
+35039	51190	crossandean-HuarazHuailas	huai1241		black	163	BLACK		yana	j a ɲ a
+35040	51191	crossandean-Inkawasi	lamb1276		black	163	BLACK		yana	j a n a
+35042	51193	crossandean-Jauja	jauj1238		black	163	BLACK		yana	j a n a
+35044	51195	crossandean-Lamas	sanm1289		black	163	BLACK		yana	j a n a
+35045	51196	crossandean-Laraos	yauy1235		black	163	BLACK		yana	j a n a
+35046	51197	crossandean-Lincha-Tana	tana1291		black	163	BLACK		yana	j a n a
+35047	51198	crossandean-Maragua	sout2991		black	163	BLACK		yana	j a n a
+35048	51199	crossandean-Napo	napo1242		black	163	BLACK		yana	j a n a
+35049	51200	crossandean-Pacaraos	paca1245		black	163	BLACK		yana	j a n a
+35050	51201	crossandean-Pastaza	sout2990		black	163	BLACK		yana	j a n a
+35051	51202	crossandean-Pocona	coch1274		black	163	BLACK		yana	j a n a
+35052	51203	crossandean-Puno	puno1238		black	163	BLACK		yana	j a n a
+35053	51204	crossandean-SanPedro	sanp1258		black	163	BLACK		yana	j a n a
+35054	51205	crossandean-Santiagueno	sant1432		black	163	BLACK		yana	j a n a
+35055	51206	crossandean-Serena	tena1240		black	163	BLACK		yana	j a n a
+35056	51207	crossandean-Tarma	yaru1256		black	163	BLACK		yana	j a n a
+35057	51208	crossandean-Troje	nort3351		black	163	BLACK		yana	j a n a
+35058	51209	crossandean-Yanac	coro1247		black	163	BLACK		yana	j a n a
+35188	51339	hubercolumbian-Inga	inga1252		black	163	BLACK		jána	j a n a
+36051	52202	wold-ImbaburaQuechua	imba1240		black	163	BLACK		yana	j a n a
+38460	54611	crossandean-Apuri	apur1253		blood	946	BLOOD		yawar	j a w a ɾ
+38461	54612	crossandean-Apurimac	east2551		blood	946	BLOOD		yawar	j a w a r
+38462	54613	crossandean-Atalla	huan1249		blood	946	BLOOD		yawar	j a w a r
+38463	54614	crossandean-Ayacucho	ayac1239		blood	946	BLOOD		yawar	j a w a ɾ
+38464	54615	crossandean-Azuay	azua1234		blood	946	BLOOD		yahuar	j a w a ɾ
+38465	54616	crossandean-Cacra-Hongos	cacr1238		blood	946	BLOOD		yawar	j a w a l
+38466	54617	crossandean-Chachapoyas	chac1250		blood	946	BLOOD		yawar	j a w a r
+38467	54618	crossandean-Chetilla	caja1238		blood	946	BLOOD		yawar	j a w a r
+38468	54619	crossandean-Curva	apol1241		blood	946	BLOOD		λawar	ʎ a w a r
+38469	54620	crossandean-Cuzco	cusc1236		blood	946	BLOOD		yawar	j a w a r
+38470	54621	crossandean-Huallaga	hual1241		blood	946	BLOOD		yawar	j a w a r
+38471	54622	crossandean-Huanca	huay1241		blood	946	BLOOD		yawar	j a w a r
+38472	54623	crossandean-Huangascar	azan1238		blood	946	BLOOD		yawar	j a w a ɾ
+38473	54624	crossandean-HuarazHuailas	huai1241		blood	946	BLOOD		yawar	j a w a ɾ
+38474	54625	crossandean-Inkawasi	lamb1276		blood	946	BLOOD		yawar	j a w a r
+38476	54627	crossandean-Jauja	jauj1238		blood	946	BLOOD		yawar	j a w a r
+38478	54629	crossandean-Lamas	sanm1289		blood	946	BLOOD		yawar	j a w a r
+38479	54630	crossandean-Laraos	yauy1235		blood	946	BLOOD		yawar	j a w a r
+38480	54631	crossandean-Lincha-Tana	tana1291		blood	946	BLOOD		yawar	j a w a ɾ
+38481	54632	crossandean-Maragua	sout2991		blood	946	BLOOD		yawar	j a w a r
+38482	54633	crossandean-Napo	napo1242		blood	946	BLOOD		rahuai	r a w ai
+38483	54634	crossandean-Pacaraos	paca1245		blood	946	BLOOD		yawar	j a w a ɾ
+38484	54635	crossandean-Pastaza	sout2990		blood	946	BLOOD		yawar	j a w a r
+38485	54636	crossandean-Pocona	coch1274		blood	946	BLOOD		λawar	ʎ a w a r
+38486	54637	crossandean-Puno	puno1238		blood	946	BLOOD		yawar	j a w a r
+38487	54638	crossandean-SanPedro	sanp1258		blood	946	BLOOD		yawar	j a w a ɾ
+38488	54639	crossandean-Santiagueno	sant1432		blood	946	BLOOD		yaar	j aː ɾ
+38489	54640	crossandean-Serena	tena1240		blood	946	BLOOD		yawaŕ	j a w a r̥
+38490	54641	crossandean-Tarma	yaru1256		blood	946	BLOOD		yawar	j a w a ʐ
+38491	54642	crossandean-Troje	nort3351		blood	946	BLOOD		yawař	j a w a r̝
+38492	54643	crossandean-Yanac	coro1247		blood	946	BLOOD		yawaŕ	j a w a r̥
+38600	54751	hubercolumbian-Inga	inga1252		blood	946	BLOOD		jawár	j a w a r
+39792	55943	wold-ImbaburaQuechua	imba1240		blood	946	BLOOD		yawar	j a w a ɾ
+46674	62825	crossandean-Apuri	apur1253		bone	1394	BONE		tullu	t u ʎ u
+46675	62826	crossandean-Apurimac	east2551		bone	1394	BONE		tullu	t u ʎ u
+46676	62827	crossandean-Atalla	huan1249		bone	1394	BONE		tuλu	t u ʎ u
+46677	62828	crossandean-Ayacucho	ayac1239		bone	1394	BONE		tullu	t u ʎ u
+46678	62829	crossandean-Azuay	azua1234		bone	1394	BONE		tullu	t u ʎ u
+46679	62830	crossandean-Cacra-Hongos	cacr1238		bone	1394	BONE		tullu	t u ʎ u
+46680	62831	crossandean-Chachapoyas	chac1250		bone	1394	BONE		tullu	t u dʑ u
+46681	62832	crossandean-Chetilla	caja1238		bone	1394	BONE		tudžu	t u dʒ u
+46682	62833	crossandean-Curva	apol1241		bone	1394	BONE		tuλu	t u ʎ u
+46683	62834	crossandean-Cuzco	cusc1236		bone	1394	BONE		tuλu	t u ʎ u
+46684	62835	crossandean-Huallaga	hual1241		bone	1394	BONE		tuλu	t u ʎ u
+46685	62836	crossandean-Huanca	huay1241		bone	1394	BONE		tullu	t u ʎ u
+46686	62837	crossandean-Huangascar	azan1238		bone	1394	BONE		tullu	t u ʎ u
+46687	62838	crossandean-HuarazHuailas	huai1241		bone	1394	BONE		tullu	t u ʎ u
+46688	62839	crossandean-Inkawasi	lamb1276		bone	1394	BONE		tužu	t u ʒ u
+46690	62841	crossandean-Jauja	jauj1238		bone	1394	BONE		tullu	t u ʎ u
+46692	62843	crossandean-Lamas	sanm1289		bone	1394	BONE		tullu	t u dʑ u
+46693	62844	crossandean-Laraos	yauy1235		bone	1394	BONE		tuλu	t u ʎ u
+46694	62845	crossandean-Lincha-Tana	tana1291		bone	1394	BONE		tullu	t u ʎ u
+46695	62846	crossandean-Maragua	sout2991		bone	1394	BONE		tuλu	t u ʎ u
+46696	62847	crossandean-Napo	napo1242		bone	1394	BONE		tullu	t u ʎ u
+46697	62848	crossandean-Pacaraos	paca1245		bone	1394	BONE		tulu	t u l u
+46698	62849	crossandean-Pastaza	sout2990		bone	1394	BONE		tullu	t u ʎ u
+46699	62850	crossandean-Pocona	coch1274		bone	1394	BONE		tuλu	t u ʎ u
+46700	62851	crossandean-Puno	puno1238		bone	1394	BONE		tuλu	t u ʎ u
+46701	62852	crossandean-SanPedro	sanp1258		bone	1394	BONE		tullu	t u ʎ u
+46702	62853	crossandean-Santiagueno	sant1432		bone	1394	BONE		tullu	t u ʒ u
+46703	62854	crossandean-Serena	tena1240		bone	1394	BONE		tuλu	t u ʎ u
+46704	62855	crossandean-Tarma	yaru1256		bone	1394	BONE		tulu	t u l u
+46705	62856	crossandean-Troje	nort3351		bone	1394	BONE		tužu	t u ʒ u
+46706	62857	crossandean-Yanac	coro1247		bone	1394	BONE		tuλu	t u ʎ u
+46830	62981	hubercolumbian-Inga	inga1252		bone	1394	BONE		túlʲu	t u lʲ u
+48046	64197	wold-ImbaburaQuechua	imba1240		bone	1394	BONE		tullu	t u ʒ u
+56752	72905	crossandean-Apuri	apur1253		breast	1402	BREAST		chichi	tʃ i tʃ i
+56753	72906	crossandean-Apuri	apur1253		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56754	72907	crossandean-Apurimac	east2551		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56755	72908	crossandean-Atalla	huan1249		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56756	72909	crossandean-Ayacucho	ayac1239		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56757	72910	crossandean-Azuay	azua1234		breast	1402	BREAST		quinzhu, pugru	q i n ʒ u
+56758	72911	crossandean-Azuay	azua1234		breast	1402	BREAST		quinzhu, pugru	p u g ɾ u
+56759	72912	crossandean-Cacra-Hongos	cacr1238		breast	1402	BREAST		chichi	tʃ i tʃ i
+56760	72913	crossandean-Cacra-Hongos	cacr1238		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56761	72914	crossandean-Chachapoyas	chac1250		breast	1402	BREAST		chuchu	tʃ u tʃ u
+56762	72915	crossandean-Chachapoyas	chac1250		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56763	72916	crossandean-Chetilla	caja1238		breast	1402	BREAST		čuču	tʃ u tʃ u
+56764	72917	crossandean-Curva	apol1241		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56765	72918	crossandean-Cuzco	cusc1236		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56766	72919	crossandean-Huallaga	hual1241		breast	1402	BREAST		čuču	tʃ u tʃ u
+56767	72920	crossandean-Huallaga	hual1241		breast	1402	BREAST		čiči	tʃ i tʃ i
+56768	72921	crossandean-Huanca	huay1241		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56769	72922	crossandean-Huanca	huay1241		breast	1402	BREAST		chichi	tʃ i tʃ i
+56770	72923	crossandean-Huangascar	azan1238		breast	1402	BREAST		chichi	tʃ i tʃ i
+56771	72924	crossandean-Huangascar	azan1238		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56772	72925	crossandean-HuarazHuailas	huai1241		breast	1402	BREAST		ñuñu	ɳ u ɳ u
+56773	72926	crossandean-Inkawasi	lamb1276		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56775	72928	crossandean-Jauja	jauj1238		breast	1402	BREAST		chuchu	tʃ u tʃ u
+56777	72930	crossandean-Lamas	sanm1289		breast	1402	BREAST		chuchu	tʃ u tʃ u
+56778	72931	crossandean-Lamas	sanm1289		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56779	72932	crossandean-Laraos	yauy1235		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56780	72933	crossandean-Lincha-Tana	tana1291		breast	1402	BREAST		chichi	tʃ i tʃ i
+56781	72934	crossandean-Lincha-Tana	tana1291		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56782	72935	crossandean-Maragua	sout2991		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56783	72936	crossandean-Napo	napo1242		breast	1402	BREAST		chuchu	tʃ u tʃ u
+56784	72937	crossandean-Pacaraos	paca1245		breast	1402	BREAST		chuchu	tʃ u tʃ u
+56785	72938	crossandean-Pastaza	sout2990		breast	1402	BREAST		chuchu	tʃ u tʃ u
+56786	72939	crossandean-Pocona	coch1274		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56787	72940	crossandean-Puno	puno1238		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56788	72941	crossandean-SanPedro	sanp1258		breast	1402	BREAST		chichi	tʃ i tʃ i
+56789	72942	crossandean-SanPedro	sanp1258		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56790	72943	crossandean-Santiagueno	sant1432		breast	1402	BREAST		ñuñu	ɲ u ɲ u
+56791	72944	crossandean-Serena	tena1240		breast	1402	BREAST		čuču	tʃ u tʃ u
+56792	72945	crossandean-Tarma	yaru1256		breast	1402	BREAST		čuču	tʃ u tʃ u
+56793	72946	crossandean-Troje	nort3351		breast	1402	BREAST		čuču	tʃ u tʃ u
+56794	72947	crossandean-Yanac	coro1247		breast	1402	BREAST		seno	s e n o
+56921	73074	hubercolumbian-Inga	inga1252		breast	1402	BREAST		ʧúʧu	tʃ u tʃ u
+58093	74246	wold-ImbaburaQuechua	imba1240		breast	1402	BREAST		chuchu	tʃ u tʃ u
+64380	80533	hubercolumbian-Inga	inga1252		burn	2102	BURN		rupáj	r u p a j
+87337	103490	wold-ImbaburaQuechua	imba1240		claw	72	CLAW		sillu	s i ʒ u
+91347	107500	crossandean-Apuri	apur1253		cloud	1489	CLOUD		puyu	p u j u
+91348	107501	crossandean-Apurimac	east2551		cloud	1489	CLOUD		puyu	p u j u
+91349	107502	crossandean-Apurimac	east2551		cloud	1489	CLOUD		fuyu	f u j u
+91350	107503	crossandean-Atalla	huan1249		cloud	1489	CLOUD		puyu	p u j u
+91351	107504	crossandean-Ayacucho	ayac1239		cloud	1489	CLOUD		puyu	p u j u
+91352	107505	crossandean-Azuay	azua1234		cloud	1489	CLOUD		puyu	p u j u
+91353	107506	crossandean-Cacra-Hongos	cacr1238		cloud	1489	CLOUD		pukutay	p u k u t ai
+91354	107507	crossandean-Chachapoyas	chac1250		cloud	1489	CLOUD		puyu	p u j u
+91355	107508	crossandean-Chetilla	caja1238		cloud	1489	CLOUD		pu.kutay	p u k u t ai
+91356	107509	crossandean-Curva	apol1241		cloud	1489	CLOUD		phuyu	pʰ u j u
+91357	107510	crossandean-Cuzco	cusc1236		cloud	1489	CLOUD		phuyu	pʰ u j u
+91358	107511	crossandean-Huallaga	hual1241		cloud	1489	CLOUD		pu.kutay	p u k u t ai
+91359	107512	crossandean-Huanca	huay1241		cloud	1489	CLOUD		pukutay	p u k u t ai
+91360	107513	crossandean-Huangascar	azan1238		cloud	1489	CLOUD		puyu	p u j u
+91361	107514	crossandean-HuarazHuailas	huai1241		cloud	1489	CLOUD		pukutay	p u k u t ai
+91362	107515	crossandean-Inkawasi	lamb1276		cloud	1489	CLOUD		pu.ktay	p u k t ai
+91364	107517	crossandean-Jauja	jauj1238		cloud	1489	CLOUD		pukutay	p u k u t ai
+91366	107519	crossandean-Lamas	sanm1289		cloud	1489	CLOUD		puyu	p u j u
+91367	107520	crossandean-Laraos	yauy1235		cloud	1489	CLOUD		pu.kutay	p u k u t ai
+91368	107521	crossandean-Lincha-Tana	tana1291		cloud	1489	CLOUD		pukutay	p u k u t ai
+91369	107522	crossandean-Maragua	sout2991		cloud	1489	CLOUD		phuyu	pʰ u j u
+91370	107523	crossandean-Napo	napo1242		cloud	1489	CLOUD		puyu	p u j u
+91371	107524	crossandean-Pacaraos	paca1245		cloud	1489	CLOUD		pukutay	p u k u t ai
+91372	107525	crossandean-Pastaza	sout2990		cloud	1489	CLOUD		puyu	p u j u
+91373	107526	crossandean-Pocona	coch1274		cloud	1489	CLOUD		phuyu	pʰ u j u
+91374	107527	crossandean-Puno	puno1238		cloud	1489	CLOUD		phuyu	pʰ u j u
+91375	107528	crossandean-SanPedro	sanp1258		cloud	1489	CLOUD		puyu	p u j u
+91376	107529	crossandean-Santiagueno	sant1432		cloud	1489	CLOUD		puyu	p u j u
+91377	107530	crossandean-Serena	tena1240		cloud	1489	CLOUD		puyu	p u j u
+91378	107531	crossandean-Tarma	yaru1256		cloud	1489	CLOUD		pugutay	p u g u t ai
+91379	107532	crossandean-Troje	nort3351		cloud	1489	CLOUD		phuyu	pʰ u j u
+91380	107533	crossandean-Yanac	coro1247		cloud	1489	CLOUD		pu.kute	p u k u t eː
+91536	107689	hubercolumbian-Inga	inga1252		cloud	1489	CLOUD		púju	p u j u
+92510	108663	wold-ImbaburaQuechua	imba1240		cloud	1489	CLOUD		fuyu	ɸ u j u
+94944	111097	crossandean-Apuri	apur1253		cold	1287	COLD		chiri	tʃ i ɾ i
+94945	111098	crossandean-Apuri	apur1253		cold	1287	COLD		alalay	a l a l ai
+94946	111099	crossandean-Apurimac	east2551		cold	1287	COLD		chiri	tʃ i r i
+94947	111100	crossandean-Atalla	huan1249		cold	1287	COLD		čiri	tʃ i r i
+94948	111101	crossandean-Ayacucho	ayac1239		cold	1287	COLD		chiri	tʃ i ɾ i
+94949	111102	crossandean-Azuay	azua1234		cold	1287	COLD		chiri	tʃ i ɾ i
+94950	111103	crossandean-Cacra-Hongos	cacr1238		cold	1287	COLD		alalay	a l a l ai
+94951	111104	crossandean-Chachapoyas	chac1250		cold	1287	COLD		chiri	tʃ i r i
+94952	111105	crossandean-Chetilla	caja1238		cold	1287	COLD		čiri	tʃ i r i
+94953	111106	crossandean-Curva	apol1241		cold	1287	COLD		čiri	tʃ i r i
+94954	111107	crossandean-Cuzco	cusc1236		cold	1287	COLD		čiri	tʃ i r i
+94955	111108	crossandean-Huallaga	hual1241		cold	1287	COLD		qasa	q a s a
+94956	111109	crossandean-Huanca	huay1241		cold	1287	COLD		alalaq	a l a l a ʔ
+94957	111110	crossandean-Huangascar	azan1238		cold	1287	COLD		chiri	tʃ i ɾ i
+94958	111111	crossandean-Huangascar	azan1238		cold	1287	COLD		alalay	a l a l ai
+94959	111112	crossandean-HuarazHuailas	huai1241		cold	1287	COLD		alaalay	a l aː l ai
+94960	111113	crossandean-Inkawasi	lamb1276		cold	1287	COLD		xasa	x a s a
+94962	111115	crossandean-Jauja	jauj1238		cold	1287	COLD		alalaq	a l a l a ʔ
+94964	111117	crossandean-Lamas	sanm1289		cold	1287	COLD		chiri	tʃ i r i
+94965	111118	crossandean-Laraos	yauy1235		cold	1287	COLD		ala.la	a l a l a
+94966	111119	crossandean-Lincha-Tana	tana1291		cold	1287	COLD		alalay	a l a l ai
+94967	111120	crossandean-Lincha-Tana	tana1291		cold	1287	COLD		chiri	tʃ i ɾ i
+94968	111121	crossandean-Maragua	sout2991		cold	1287	COLD		čiri	tʃ i r i
+94969	111122	crossandean-Napo	napo1242		cold	1287	COLD		chiri	tʃ i r i
+94970	111123	crossandean-Pacaraos	paca1245		cold	1287	COLD		alalay	a l a l ai
+94971	111124	crossandean-Pastaza	sout2990		cold	1287	COLD		chiri	tʃ i r i
+94972	111125	crossandean-Pocona	coch1274		cold	1287	COLD		čiri	tʃ i r i
+94973	111126	crossandean-Puno	puno1238		cold	1287	COLD		čiri	tʃ i r i
+94974	111127	crossandean-SanPedro	sanp1258		cold	1287	COLD		chiri	tʃ i ɾ i
+94975	111128	crossandean-SanPedro	sanp1258		cold	1287	COLD		alalay	a l a l ai
+94976	111129	crossandean-Santiagueno	sant1432		cold	1287	COLD		chiri	tʃ i ɾ i
+94977	111130	crossandean-Serena	tena1240		cold	1287	COLD		čiri	tʃ i r i
+94978	111131	crossandean-Tarma	yaru1256		cold	1287	COLD		alala	a l a l a
+94979	111132	crossandean-Troje	nort3351		cold	1287	COLD		čiri	tʃ i r i
+94980	111133	crossandean-Yanac	coro1247		cold	1287	COLD		ala.la	a l a l a
+95101	111254	hubercolumbian-Inga	inga1252		cold	1287	COLD		kakúj	k a k u j
+96288	112441	wold-ImbaburaQuechua	imba1240		cold	1287	COLD		chiri	tʃ i ɾ i
+98565	114718	crossandean-Apuri	apur1253		come	1446	COME		hamu-	h a m u
+98566	114719	crossandean-Apurimac	east2551		come	1446	COME		hamu	h a m u
+98567	114720	crossandean-Atalla	huan1249		come	1446	COME		ha.mu.	h a m u
+98568	114721	crossandean-Ayacucho	ayac1239		come	1446	COME		hamu	h a m u
+98569	114722	crossandean-Azuay	azua1234		come	1446	COME		shamu-na	ʃ a m u + n a
+98570	114723	crossandean-Cacra-Hongos	cacr1238		come	1446	COME		hamu-	h a m u
+98571	114724	crossandean-Chachapoyas	chac1250		come	1446	COME		shamu	ʃ a m u
+98572	114725	crossandean-Chetilla	caja1238		come	1446	COME		ša.mu.	ʃ a m u
+98573	114726	crossandean-Curva	apol1241		come	1446	COME		ha.mu.	h a m u
+98574	114727	crossandean-Cuzco	cusc1236		come	1446	COME		ha.mu.	h a m u
+98575	114728	crossandean-Huallaga	hual1241		come	1446	COME		ša.mu.	ʃ a m u
+98576	114729	crossandean-Huanca	huay1241		come	1446	COME		shamuy	ʂ a m u
+98577	114730	crossandean-Huangascar	azan1238		come	1446	COME		hamu-	h a m u
+98578	114731	crossandean-HuarazHuailas	huai1241		come	1446	COME		shamuy	ʃ a m u
+98579	114732	crossandean-Inkawasi	lamb1276		come	1446	COME		ša.mu.	ʃ a m u
+98581	114734	crossandean-Jauja	jauj1238		come	1446	COME		aywamuy	ai w a + m u
+98584	114737	crossandean-Lamas	sanm1289		come	1446	COME		shamu	ʃ a m u
+98585	114738	crossandean-Laraos	yauy1235		come	1446	COME		ha.mu.	h a m u
+98586	114739	crossandean-Lincha-Tana	tana1291		come	1446	COME		hamu-	h a m u
+98587	114740	crossandean-Maragua	sout2991		come	1446	COME		ha.mu.	h a m u
+98588	114741	crossandean-Napo	napo1242		come	1446	COME		shamuna	ʃ a m u + n a
+98589	114742	crossandean-Pacaraos	paca1245		come	1446	COME		sha-mu	ʃ a m u
+98590	114743	crossandean-Pastaza	sout2990		come	1446	COME		shamuna	ʃ a m u + n a
+98591	114744	crossandean-Pocona	coch1274		come	1446	COME		ha.mu.	h a m u
+98592	114745	crossandean-Puno	puno1238		come	1446	COME		ha.mu.	h a m u
+98593	114746	crossandean-SanPedro	sanp1258		come	1446	COME		hamu-	h a m u
+98594	114747	crossandean-Santiagueno	sant1432		come	1446	COME		amuy	a m u
+98595	114748	crossandean-Serena	tena1240		come	1446	COME		ša.mu.	ʃ a m u
+98596	114749	crossandean-Tarma	yaru1256		come	1446	COME		šamu	ʃ a m u
+98597	114750	crossandean-Troje	nort3351		come	1446	COME		ša.mu.	ʃ a m u
+98598	114751	crossandean-Yanac	coro1247		come	1446	COME		ša.mu.	ʃ a m u
+98772	114925	hubercolumbian-Inga	inga1252		come	1446	COME		samúj	s a m u j
+99989	116142	wold-ImbaburaQuechua	imba1240		come	1446	COME		shamuna	ʃ a m u n a
+126787	142942	crossandean-Apuri	apur1253		die	1494	DIE		wañu-	w a ɲ u
+126788	142943	crossandean-Apurimac	east2551		die	1494	DIE		wañu	w a ɲ u
+126789	142944	crossandean-Atalla	huan1249		die	1494	DIE		wañu.	w a ɲ u
+126790	142945	crossandean-Ayacucho	ayac1239		die	1494	DIE		wañu	w a ɲ u
+126791	142946	crossandean-Azuay	azua1234		die	1494	DIE		huañuna	w a ɲ u + n a
+126792	142947	crossandean-Cacra-Hongos	cacr1238		die	1494	DIE		wañu-	w a ɲ u
+126793	142948	crossandean-Chachapoyas	chac1250		die	1494	DIE		wañu	w a ɲ u
+126794	142949	crossandean-Chetilla	caja1238		die	1494	DIE		wañu.	w a ɲ u
+126795	142950	crossandean-Curva	apol1241		die	1494	DIE		wañu.	w a ɲ u
+126796	142951	crossandean-Cuzco	cusc1236		die	1494	DIE		wañu.	w a ɲ u
+126797	142952	crossandean-Huallaga	hual1241		die	1494	DIE		wañu.	w a ɲ u
+126798	142953	crossandean-Huanca	huay1241		die	1494	DIE		wañuy	w a ɲ u
+126799	142954	crossandean-Huangascar	azan1238		die	1494	DIE		wañu-	w a ɲ u
+126800	142955	crossandean-HuarazHuailas	huai1241		die	1494	DIE		wanuy	w a ɲ u
+126801	142956	crossandean-Inkawasi	lamb1276		die	1494	DIE		wanu.	w a n u
+126803	142958	crossandean-Jauja	jauj1238		die	1494	DIE		wañuy	w a ɲ u
+126805	142960	crossandean-Lamas	sanm1289		die	1494	DIE		wañu	w a ɲ u
+126806	142961	crossandean-Laraos	yauy1235		die	1494	DIE		wañu.	w a ɲ u
+126807	142962	crossandean-Lincha-Tana	tana1291		die	1494	DIE		wañu-	w a ɲ u
+126808	142963	crossandean-Maragua	sout2991		die	1494	DIE		wañu.	w a ɲ u
+126809	142964	crossandean-Napo	napo1242		die	1494	DIE		huañuna	w a ɲ u + n a
+126810	142965	crossandean-Pacaraos	paca1245		die	1494	DIE		wañu-ku	w a ɲ u + k u
+126811	142966	crossandean-Pastaza	sout2990		die	1494	DIE		wañuna	w a ɲ u + n a
+126812	142967	crossandean-Pocona	coch1274		die	1494	DIE		wañu.	w a ɲ u
+126813	142968	crossandean-Puno	puno1238		die	1494	DIE		wañu.	w a ɲ u
+126814	142969	crossandean-SanPedro	sanp1258		die	1494	DIE		wañu-	w a ɲ u
+126815	142970	crossandean-Santiagueno	sant1432		die	1494	DIE		wañuy	w a ɲ u
+126816	142971	crossandean-Serena	tena1240		die	1494	DIE		wañu.	w a ɲ u
+126817	142972	crossandean-Tarma	yaru1256		die	1494	DIE		wanu	w a n u
+126818	142973	crossandean-Troje	nort3351		die	1494	DIE		wañu.	w a ɲ u
+126819	142974	crossandean-Yanac	coro1247		die	1494	DIE		wañu.	w a ɲ u
+126980	143135	hubercolumbian-Inga	inga1252		die	1494	DIE		waɲúj	w a ɲ u j
+128103	144258	wold-ImbaburaQuechua	imba1240		die	1494	DIE		wañuna	w a ɲ u n a
+135381	151536	crossandean-Apuri	apur1253		dog	2009	DOG		allqu	a ʎ q o
+135382	151537	crossandean-Apurimac	east2551		dog	2009	DOG		allqo	a ʎ q o
+135383	151538	crossandean-Apurimac	east2551		dog	2009	DOG		alqo	a l q o
+135384	151539	crossandean-Atalla	huan1249		dog	2009	DOG		aλχu	a ʎ χ u
+135385	151540	crossandean-Ayacucho	ayac1239		dog	2009	DOG		allqo	a ʎ χ o
+135386	151541	crossandean-Azuay	azua1234		dog	2009	DOG		allcu	a ʎ k u
+135387	151542	crossandean-Cacra-Hongos	cacr1238		dog	2009	DOG		allqu	a ʎ q o
+135388	151543	crossandean-Chachapoyas	chac1250		dog	2009	DOG		allku	a dʑ k u
+135389	151544	crossandean-Chetilla	caja1238		dog	2009	DOG		ačγu	a tʃ ʁ u
+135390	151545	crossandean-Curva	apol1241		dog	2009	DOG		alqu	a l q u
+135391	151546	crossandean-Cuzco	cusc1236		dog	2009	DOG		alqu	a l q u
+135392	151547	crossandean-Huallaga	hual1241		dog	2009	DOG		aλqu	a ʎ q u
+135393	151548	crossandean-Huanca	huay1241		dog	2009	DOG		allqu	a ʎ ʔ u
+135394	151549	crossandean-Huangascar	azan1238		dog	2009	DOG		allqu	a ʎ q o
+135395	151550	crossandean-HuarazHuailas	huai1241		dog	2009	DOG		allqu	a ʎ q u
+135396	151551	crossandean-Inkawasi	lamb1276		dog	2009	DOG		ažγu	a ʒ ʁ u
+135398	151553	crossandean-Jauja	jauj1238		dog	2009	DOG		allqu	a ʎ ʔ u
+135400	151555	crossandean-Lamas	sanm1289		dog	2009	DOG		allku	a dʑ k u
+135401	151556	crossandean-Laraos	yauy1235		dog	2009	DOG		alqu	a l q u
+135402	151557	crossandean-Lincha-Tana	tana1291		dog	2009	DOG		allqu	a ʎ q o
+135403	151558	crossandean-Maragua	sout2991		dog	2009	DOG		alqu	a l q u
+135404	151559	crossandean-Napo	napo1242		dog	2009	DOG		allcu	a ʎ k u
+135405	151560	crossandean-Pacaraos	paca1245		dog	2009	DOG		alqu	a l χ o
+135406	151561	crossandean-Pastaza	sout2990		dog	2009	DOG		allcu	a ʎ k u
+135407	151562	crossandean-Pocona	coch1274		dog	2009	DOG		alγu	a l ʁ u
+135408	151563	crossandean-Puno	puno1238		dog	2009	DOG		alqu	a l q u
+135409	151564	crossandean-SanPedro	sanp1258		dog	2009	DOG		allqu	a ʎ q o
+135410	151565	crossandean-Santiagueno	sant1432		dog	2009	DOG		allqo	a ʒ q o
+135411	151566	crossandean-Serena	tena1240		dog	2009	DOG		aλku	a ʎ k u
+135412	151567	crossandean-Tarma	yaru1256		dog	2009	DOG		alxu	a l χ o
+135413	151568	crossandean-Troje	nort3351		dog	2009	DOG		ažku	a ʒ k u
+135414	151569	crossandean-Yanac	coro1247		dog	2009	DOG		aλqu	a ʎ q u
+135543	151698	hubercolumbian-Inga	inga1252		dog	2009	DOG		álku	a l k u
+136770	152925	wold-ImbaburaQuechua	imba1240		dog	2009	DOG		allku	a ʒ k u
+141847	158002	crossandean-Apuri	apur1253		drink	1401	DRINK		upya	u p j a
+141848	158003	crossandean-Apurimac	east2551		drink	1401	DRINK		upya	u p j a
+141849	158004	crossandean-Atalla	huan1249		drink	1401	DRINK		upya.	u p j a
+141850	158005	crossandean-Ayacucho	ayac1239		drink	1401	DRINK		upya	u p j a
+141851	158006	crossandean-Azuay	azua1234		drink	1401	DRINK		upia-na	u p j a + n a
+141852	158007	crossandean-Cacra-Hongos	cacr1238		drink	1401	DRINK		upya	u p j a
+141853	158008	crossandean-Chachapoyas	chac1250		drink	1401	DRINK		upya	u p j a
+141854	158009	crossandean-Chetilla	caja1238		drink	1401	DRINK		upya.	u p j a
+141855	158010	crossandean-Curva	apol1241		drink	1401	DRINK		upya.	u p j a
+141856	158011	crossandean-Cuzco	cusc1236		drink	1401	DRINK		uxya.	u x j a
+141857	158012	crossandean-Huanca	huay1241		drink	1401	DRINK		upyay	u p j a
+141858	158013	crossandean-Huangascar	azan1238		drink	1401	DRINK		upya	u p j a
+141859	158014	crossandean-HuarazHuailas	huai1241		drink	1401	DRINK		upyay	u p j a
+141860	158015	crossandean-Inkawasi	lamb1276		drink	1401	DRINK		upya.	u p j a
+141862	158017	crossandean-Jauja	jauj1238		drink	1401	DRINK		upyay	u p j a
+141864	158019	crossandean-Lamas	sanm1289		drink	1401	DRINK		upya	u p j a
+141865	158020	crossandean-Laraos	yauy1235		drink	1401	DRINK		upya.	u p j a
+141866	158021	crossandean-Lincha-Tana	tana1291		drink	1401	DRINK		upya	u p j a
+141867	158022	crossandean-Maragua	sout2991		drink	1401	DRINK		uxya.	u x j a
+141868	158023	crossandean-Napo	napo1242		drink	1401	DRINK		upina	u p i + n a
+141869	158024	crossandean-Pacaraos	paca1245		drink	1401	DRINK		upya	u p j a
+141870	158025	crossandean-Pastaza	sout2990		drink	1401	DRINK		upyana	u p j a + n a
+141871	158026	crossandean-Pocona	coch1274		drink	1401	DRINK		uxya.	u x j a
+141872	158027	crossandean-Puno	puno1238		drink	1401	DRINK		uxa.	u x a
+141873	158028	crossandean-SanPedro	sanp1258		drink	1401	DRINK		upya	u p j a
+141874	158029	crossandean-Santiagueno	sant1432		drink	1401	DRINK		upyay	u p j a
+141875	158030	crossandean-Serena	tena1240		drink	1401	DRINK		upi.	u p i
+141876	158031	crossandean-Tarma	yaru1256		drink	1401	DRINK		upya	u p j a
+141877	158032	crossandean-Troje	nort3351		drink	1401	DRINK		ubya.	u b j a
+141878	158033	crossandean-Yanac	coro1247		drink	1401	DRINK		upya.	u p j a
+142009	158164	hubercolumbian-Inga	inga1252		drink	1401	DRINK		upjáj	u p j a j
+142828	158983	wold-ImbaburaQuechua	imba1240		drink	1401	DRINK		ufiana	u ɸ i a n a
+145480	161635	crossandean-Apuri	apur1253		dry	1398	DRY		chaki	tʃ a k i
+145481	161636	crossandean-Apurimac	east2551		dry	1398	DRY		chaki	tʃ a k i
+145482	161637	crossandean-Atalla	huan1249		dry	1398	DRY		čaki	tʃ a k i
+145483	161638	crossandean-Ayacucho	ayac1239		dry	1398	DRY		chaki	tʃ a k i
+145484	161639	crossandean-Azuay	azua1234		dry	1398	DRY		chaquishca	tʃ a k i + ʃ k a
+145485	161640	crossandean-Cacra-Hongos	cacr1238		dry	1398	DRY		chaki	tʃ a k i
+145486	161641	crossandean-Chachapoyas	chac1250		dry	1398	DRY		chaki	tʃ a k i
+145487	161642	crossandean-Chetilla	caja1238		dry	1398	DRY		čaki	tʃ a k i
+145488	161643	crossandean-Curva	apol1241		dry	1398	DRY		č'aki	tʃʼ a k i
+145489	161644	crossandean-Cuzco	cusc1236		dry	1398	DRY		č'aki	tʃʼ a k i
+145490	161645	crossandean-Huallaga	hual1241		dry	1398	DRY		čaki	tʃ a k i
+145491	161646	crossandean-Huanca	huay1241		dry	1398	DRY		chaki	tʃ a k i
+145492	161647	crossandean-Huangascar	azan1238		dry	1398	DRY		chaki	tʃ a k i
+145493	161648	crossandean-HuarazHuailas	huai1241		dry	1398	DRY		tsaki	ts a k i
+145494	161649	crossandean-Inkawasi	lamb1276		dry	1398	DRY		čaki	tʃ a k i
+145496	161651	crossandean-Jauja	jauj1238		dry	1398	DRY		chaki	tʃ a k i
+145498	161653	crossandean-Lamas	sanm1289		dry	1398	DRY		chaki	tʃ a k i
+145499	161654	crossandean-Laraos	yauy1235		dry	1398	DRY		čaki	tʃ a k i
+145500	161655	crossandean-Lincha-Tana	tana1291		dry	1398	DRY		chaki	tʃ a k i
+145501	161656	crossandean-Maragua	sout2991		dry	1398	DRY		č'aki	tʃʼ a k i
+145502	161657	crossandean-Napo	napo1242		dry	1398	DRY		chaquichina	tʃ a k i + tʃ i + n a
+145503	161658	crossandean-Pacaraos	paca1245		dry	1398	DRY		saki	s a k i
+145504	161659	crossandean-Pastaza	sout2990		dry	1398	DRY		chaquishca	tʃ a k i + ʃ k a
+145505	161660	crossandean-Pocona	coch1274		dry	1398	DRY		č'aki	tʃʼ a k i
+145506	161661	crossandean-Puno	puno1238		dry	1398	DRY		č'aki	tʃʼ a k i
+145507	161662	crossandean-SanPedro	sanp1258		dry	1398	DRY		chaki	tʃ a k i
+145508	161663	crossandean-Santiagueno	sant1432		dry	1398	DRY		chaki	tʃ a x i
+145509	161664	crossandean-Serena	tena1240		dry	1398	DRY		čaki.ška	tʃ a k i + ʃ k a
+145510	161665	crossandean-Tarma	yaru1256		dry	1398	DRY		čagi	tʃ a g i
+145511	161666	crossandean-Troje	nort3351		dry	1398	DRY		čaki.ška	tʃ a k i + ʃ k a
+145512	161667	crossandean-Yanac	coro1247		dry	1398	DRY		tsaki	ts a k i
+145653	161808	hubercolumbian-Inga	inga1252		dry	1398	DRY		tústa	t u s t a
+145654	161809	hubercolumbian-Inga	inga1252		dry	1398	DRY		ʧakíska	tʃ a k i s k a
+146438	162593	wold-ImbaburaQuechua	imba1240		dry	1398	DRY		chakishka	tʃ a k i ʃ k a
+150935	167090	crossandean-Apuri	apur1253		ear	1247	EAR		rinri	ɾ i n ɾ i
+150936	167091	crossandean-Apurimac	east2551		ear	1247	EAR		rinri	r i n r i
+150937	167092	crossandean-Apurimac	east2551		ear	1247	EAR		ninri	n i n r i
+150938	167093	crossandean-Atalla	huan1249		ear	1247	EAR		linri	l i n r i
+150939	167094	crossandean-Atalla	huan1249		ear	1247	EAR		rinri	r i n r i
+150940	167095	crossandean-Ayacucho	ayac1239		ear	1247	EAR		rinri	ɾ i ŋ ɾ i
+150941	167096	crossandean-Azuay	azua1234		ear	1247	EAR		ringri	ɾ i n ɾ i
+150942	167097	crossandean-Cacra-Hongos	cacr1238		ear	1247	EAR		rinri	l i n l i
+150943	167098	crossandean-Chachapoyas	chac1250		ear	1247	EAR		rinri	r i n r i
+150944	167099	crossandean-Chetilla	caja1238		ear	1247	EAR		rinri	r i n r i
+150945	167100	crossandean-Curva	apol1241		ear	1247	EAR		ninri	n i n r i
+150946	167101	crossandean-Curva	apol1241		ear	1247	EAR		linri	l i n r i
+150947	167102	crossandean-Cuzco	cusc1236		ear	1247	EAR		ninri	n i n r i
+150948	167103	crossandean-Cuzco	cusc1236		ear	1247	EAR		rinri	r i n r i
+150949	167104	crossandean-Huallaga	hual1241		ear	1247	EAR		rinri	r i n r i
+150950	167105	crossandean-Huanca	huay1241		ear	1247	EAR		linli	l i n l i
+150951	167106	crossandean-Huangascar	azan1238		ear	1247	EAR		rinri	ɾ i n ɾ i
+150952	167107	crossandean-HuarazHuailas	huai1241		ear	1247	EAR		rinri	ɾ i ɲ ɾ i
+150953	167108	crossandean-Inkawasi	lamb1276		ear	1247	EAR		řinri	r̝ i n r i
+150955	167110	crossandean-Jauja	jauj1238		ear	1247	EAR		linli	l i n l i
+150957	167112	crossandean-Lamas	sanm1289		ear	1247	EAR		rinri	r i n r i
+150958	167113	crossandean-Laraos	yauy1235		ear	1247	EAR		linri	l i n r i
+150959	167114	crossandean-Lincha-Tana	tana1291		ear	1247	EAR		rinri	l i n ɾ i
+150960	167115	crossandean-Maragua	sout2991		ear	1247	EAR		linri	l i n r i
+150961	167116	crossandean-Maragua	sout2991		ear	1247	EAR		ninri	n i n r i
+150962	167117	crossandean-Maragua	sout2991		ear	1247	EAR		nigri	n i g r i
+150963	167118	crossandean-Napo	napo1242		ear	1247	EAR		rinri	r i n r i
+150964	167119	crossandean-Pacaraos	paca1245		ear	1247	EAR		rinri	ɾ i ŋ ɾ i
+150965	167120	crossandean-Pastaza	sout2990		ear	1247	EAR		ɾinri	ɾ i n r i
+150966	167121	crossandean-Pocona	coch1274		ear	1247	EAR		ninri	n i n r i
+150967	167122	crossandean-Pocona	coch1274		ear	1247	EAR		linri	l i n r i
+150968	167123	crossandean-Puno	puno1238		ear	1247	EAR		ninri	n i n r i
+150969	167124	crossandean-Puno	puno1238		ear	1247	EAR		rinri	r i n r i
+150970	167125	crossandean-SanPedro	sanp1258		ear	1247	EAR		rinri	ɾ i n ɾ i
+150971	167126	crossandean-Santiagueno	sant1432		ear	1247	EAR		nigri	n i ŋ ɾ i
+150972	167127	crossandean-Serena	tena1240		ear	1247	EAR		ringri	r i ŋ r i
+150973	167128	crossandean-Tarma	yaru1256		ear	1247	EAR		rin̊ri	ʐ i ŋ ɾ i
+150974	167129	crossandean-Troje	nort3351		ear	1247	EAR		řinřin	r̝ i n r̝ i n
+150975	167130	crossandean-Yanac	coro1247		ear	1247	EAR		rinri	r i n r i
+151082	167237	hubercolumbian-Inga	inga1252		ear	1247	EAR		rínri	r i n r i
+152299	168454	wold-ImbaburaQuechua	imba1240		ear	1247	EAR		rinri	ʐ i ŋ ɾ i
+153991	170146	hubercolumbian-Inga	inga1252		earthsoil	1228	EARTH (SOIL)		álpa	a l p a
+154769	170924	wold-ImbaburaQuechua	imba1240		earthsoil	1228	EARTH (SOIL)		allpa	a ʒ p a
+156410	172565	crossandean-Apuri	apur1253		eat	1336	EAT		miku-	m i k u
+156411	172566	crossandean-Apurimac	east2551		eat	1336	EAT		manya	m a n j a
+156412	172567	crossandean-Apurimac	east2551		eat	1336	EAT		miju	m i χ u
+156413	172568	crossandean-Atalla	huan1249		eat	1336	EAT		mi.ku.	m i k u
+156414	172569	crossandean-Ayacucho	ayac1239		eat	1336	EAT		miku	m i k u
+156415	172570	crossandean-Azuay	azua1234		eat	1336	EAT		micu-na	m i k u + n a
+156416	172571	crossandean-Cacra-Hongos	cacr1238		eat	1336	EAT		miku-	m i k u
+156417	172572	crossandean-Chachapoyas	chac1250		eat	1336	EAT		miku	m i k u
+156418	172573	crossandean-Chetilla	caja1238		eat	1336	EAT		mi.ku.	m i k u
+156419	172574	crossandean-Curva	apol1241		eat	1336	EAT		mi.khu.	m i kʰ u
+156420	172575	crossandean-Cuzco	cusc1236		eat	1336	EAT		mi.xu.	m i x u
+156421	172576	crossandean-Huallaga	hual1241		eat	1336	EAT		mi.ku.	m i k u
+156422	172577	crossandean-Huanca	huay1241		eat	1336	EAT		mikuy	m i k u
+156423	172578	crossandean-Huangascar	azan1238		eat	1336	EAT		miku-	m i k u
+156424	172579	crossandean-HuarazHuailas	huai1241		eat	1336	EAT		mikuy	m i k u
+156425	172580	crossandean-Inkawasi	lamb1276		eat	1336	EAT		mi.ku.	m i k u
+156427	172582	crossandean-Jauja	jauj1238		eat	1336	EAT		mikuy	m i k u
+156429	172584	crossandean-Lamas	sanm1289		eat	1336	EAT		miku	m i k u
+156430	172585	crossandean-Laraos	yauy1235		eat	1336	EAT		mi.ku.	m i k u
+156431	172586	crossandean-Lincha-Tana	tana1291		eat	1336	EAT		miku-	m i k u
+156432	172587	crossandean-Maragua	sout2991		eat	1336	EAT		mi.khu.	m i kʰ u
+156433	172588	crossandean-Napo	napo1242		eat	1336	EAT		micuna	m i k u + n a
+156434	172589	crossandean-Pacaraos	paca1245		eat	1336	EAT		miku	m i k u
+156435	172590	crossandean-Pacaraos	paca1245		eat	1336	EAT		mika	m i k a
+156436	172591	crossandean-Pastaza	sout2990		eat	1336	EAT		micuna	m i k u + n a
+156437	172592	crossandean-Pocona	coch1274		eat	1336	EAT		mi.khu.	m i kʰ u
+156438	172593	crossandean-Puno	puno1238		eat	1336	EAT		mi.khu.	m i kʰ u
+156439	172594	crossandean-SanPedro	sanp1258		eat	1336	EAT		miku-	m i k u
+156440	172595	crossandean-Santiagueno	sant1432		eat	1336	EAT		mikuy	m i x u
+156441	172596	crossandean-Serena	tena1240		eat	1336	EAT		mi.ku.	m i k u
+156442	172597	crossandean-Tarma	yaru1256		eat	1336	EAT		miku	m i k u
+156443	172598	crossandean-Troje	nort3351		eat	1336	EAT		mi.ku.	m i k u
+156444	172599	crossandean-Yanac	coro1247		eat	1336	EAT		mi.ku.	m i k u
+156592	172747	hubercolumbian-Inga	inga1252		eat	1336	EAT		mĩkúj	m ĩ k u j
+157684	173842	wold-ImbaburaQuechua	imba1240		eat	1336	EAT		mikuna	m i k u n a
+158779	174937	crossandean-Apuri	apur1253		egg	744	EGG		runtu	ɾ u n t u
+158780	174938	crossandean-Apurimac	east2551		egg	744	EGG		runtu	r u n t u
+158781	174939	crossandean-Atalla	huan1249		egg	744	EGG		runtu	r u n t u
+158782	174940	crossandean-Ayacucho	ayac1239		egg	744	EGG		runtu	ɾ u n t u
+158783	174941	crossandean-Azuay	azua1234		egg	744	EGG		rurru	ɾ u r u
+158784	174942	crossandean-Cacra-Hongos	cacr1238		egg	744	EGG		runtu	l u n t u
+158785	174943	crossandean-Chachapoyas	chac1250		egg	744	EGG		runtu	r u n d u
+158786	174944	crossandean-Chetilla	caja1238		egg	744	EGG		ruru	r u r u
+158787	174945	crossandean-Curva	apol1241		egg	744	EGG		runtu	r u n t u
+158788	174946	crossandean-Cuzco	cusc1236		egg	744	EGG		runtu	r u n t u
+158789	174947	crossandean-Huallaga	hual1241		egg	744	EGG		runtu	r u n t u
+158790	174948	crossandean-Huanca	huay1241		egg	744	EGG		luntu	l u n t u
+158791	174949	crossandean-Huangascar	azan1238		egg	744	EGG		runtu	ɾ u n t u
+158792	174950	crossandean-HuarazHuailas	huai1241		egg	744	EGG		ruru	ɾ u ɾ u
+158793	174951	crossandean-Inkawasi	lamb1276		egg	744	EGG		řundu	r̝ u n d u
+158795	174953	crossandean-Jauja	jauj1238		egg	744	EGG		lulu	l u l u
+158797	174955	crossandean-Lamas	sanm1289		egg	744	EGG		runtu	r u n d u
+158798	174956	crossandean-Laraos	yauy1235		egg	744	EGG		runtu	r u n t u
+158799	174957	crossandean-Lincha-Tana	tana1291		egg	744	EGG		runtu	l u n t u
+158800	174958	crossandean-Maragua	sout2991		egg	744	EGG		řuntu	r̝ u n t u
+158801	174959	crossandean-Napo	napo1242		egg	744	EGG		lulun	l u l u n
+158802	174960	crossandean-Pacaraos	paca1245		egg	744	EGG		ruru	ɾ u ɾ u
+158803	174961	crossandean-Pastaza	sout2990		egg	744	EGG		lulun	l u l u n
+158804	174962	crossandean-Pocona	coch1274		egg	744	EGG		řuntu	r̝ u n t u
+158805	174963	crossandean-Puno	puno1238		egg	744	EGG		runtu	r u n t u
+158806	174964	crossandean-SanPedro	sanp1258		egg	744	EGG		runtu	ɾ u n t u
+158807	174965	crossandean-Santiagueno	sant1432		egg	744	EGG		runtu	ɾ u n t u
+158808	174966	crossandean-Serena	tena1240		egg	744	EGG		lulun	l u l u n
+158809	174967	crossandean-Tarma	yaru1256		egg	744	EGG		ruru	ʐ u ɾ u
+158810	174968	crossandean-Troje	nort3351		egg	744	EGG		lulun	l u l u n
+158811	174969	crossandean-Yanac	coro1247		egg	744	EGG		runtu	r u n t u
+158922	175080	hubercolumbian-Inga	inga1252		egg	744	EGG		wíbus	w i b u s
+160082	176240	wold-ImbaburaQuechua	imba1240		egg	744	EGG		lulun	l u l u ŋ
+169316	185474	crossandean-Apuri	apur1253		eye	1248	EYE		ñawi	ɲ a w i
+169317	185475	crossandean-Apurimac	east2551		eye	1248	EYE		ñawi	ɲ a w i
+169318	185476	crossandean-Atalla	huan1249		eye	1248	EYE		ñawi	ɲ a w i
+169319	185477	crossandean-Ayacucho	ayac1239		eye	1248	EYE		ñawi	ɲ a w i
+169320	185478	crossandean-Azuay	azua1234		eye	1248	EYE		ñahui	ɲ a w i
+169321	185479	crossandean-Cacra-Hongos	cacr1238		eye	1248	EYE		ñawi	ɲ a w i
+169322	185480	crossandean-Chachapoyas	chac1250		eye	1248	EYE		ñawi	ɲ a w i
+169323	185481	crossandean-Chetilla	caja1238		eye	1248	EYE		ñawi	ɲ a w i
+169324	185482	crossandean-Curva	apol1241		eye	1248	EYE		ñawi	ɲ a w i
+169325	185483	crossandean-Cuzco	cusc1236		eye	1248	EYE		ñawi	ɲ a w i
+169326	185484	crossandean-Huallaga	hual1241		eye	1248	EYE		ñawi	ɲ a w i
+169327	185485	crossandean-Huanca	huay1241		eye	1248	EYE		ñawi	ɲ a w i
+169328	185486	crossandean-Huangascar	azan1238		eye	1248	EYE		ñawi	ɲ a w i
+169329	185487	crossandean-HuarazHuailas	huai1241		eye	1248	EYE		ñawi	ɳ a w i
+169330	185488	crossandean-Inkawasi	lamb1276		eye	1248	EYE		nawi	n a w i
+169332	185490	crossandean-Jauja	jauj1238		eye	1248	EYE		ñawi	ɲ a w i
+169334	185492	crossandean-Lamas	sanm1289		eye	1248	EYE		ñawi	ɲ a w i
+169335	185493	crossandean-Laraos	yauy1235		eye	1248	EYE		ñawi	ɲ a w i
+169336	185494	crossandean-Lincha-Tana	tana1291		eye	1248	EYE		ñawi	ɲ a w i
+169337	185495	crossandean-Maragua	sout2991		eye	1248	EYE		ñawi	ɲ a w i
+169338	185496	crossandean-Napo	napo1242		eye	1248	EYE		ñahui	ɲ a w i
+169339	185497	crossandean-Pacaraos	paca1245		eye	1248	EYE		ñawi	ɲ a w i
+169340	185498	crossandean-Pastaza	sout2990		eye	1248	EYE		ñavi	ɲ a v i
+169341	185499	crossandean-Pocona	coch1274		eye	1248	EYE		ñawi	ɲ a w i
+169342	185500	crossandean-Puno	puno1238		eye	1248	EYE		ñawi	ɲ a w i
+169343	185501	crossandean-SanPedro	sanp1258		eye	1248	EYE		ñawi	ɲ a w i
+169344	185502	crossandean-Santiagueno	sant1432		eye	1248	EYE		ñawi	ɲ a w i
+169345	185503	crossandean-Serena	tena1240		eye	1248	EYE		ñaβi	ɲ a β i
+169346	185504	crossandean-Serena	tena1240		eye	1248	EYE		ñawi	ɲ a w i
+169347	185505	crossandean-Tarma	yaru1256		eye	1248	EYE		nawi	n a w i
+169348	185506	crossandean-Troje	nort3351		eye	1248	EYE		ñawi	ɲ a w i
+169349	185507	crossandean-Yanac	coro1247		eye	1248	EYE		ñawi	ɲ a w i
+169488	185646	hubercolumbian-Inga	inga1252		eye	1248	EYE		ɲáwi	ɲ a w i
+170728	186886	wold-ImbaburaQuechua	imba1240		eye	1248	EYE		ñawi_lulun	ɲ a w i + l u l u ŋ
+181966	198126	crossandean-Apuri	apur1253		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i ɾ a
+181967	198127	crossandean-Apurimac	east2551		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		untu	u n t u
+181968	198128	crossandean-Apurimac	east2551		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181969	198129	crossandean-Atalla	huan1249		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181970	198130	crossandean-Ayacucho	ayac1239		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i ɾ a
+181971	198131	crossandean-Azuay	azua1234		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		huira	w i ɾ a
+181972	198132	crossandean-Cacra-Hongos	cacr1238		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i l a
+181973	198133	crossandean-Chachapoyas	chac1250		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181974	198134	crossandean-Chetilla	caja1238		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181975	198135	crossandean-Curva	apol1241		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181976	198136	crossandean-Cuzco	cusc1236		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181977	198137	crossandean-Huallaga	hual1241		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181978	198138	crossandean-Huanca	huay1241		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wila	w i l a
+181979	198139	crossandean-Huangascar	azan1238		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i ɾ a
+181980	198140	crossandean-HuarazHuailas	huai1241		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i ɾ a
+181981	198141	crossandean-Inkawasi	lamb1276		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181983	198143	crossandean-Jauja	jauj1238		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wila	w i l a
+181985	198145	crossandean-Lamas	sanm1289		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181986	198146	crossandean-Laraos	yauy1235		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181987	198147	crossandean-Lincha-Tana	tana1291		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i ɾ a
+181988	198148	crossandean-Maragua	sout2991		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181989	198149	crossandean-Pacaraos	paca1245		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i ɾ a
+181990	198150	crossandean-Pastaza	sout2990		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		grasa	g r a s a
+181991	198151	crossandean-Pocona	coch1274		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181992	198152	crossandean-Puno	puno1238		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181993	198153	crossandean-SanPedro	sanp1258		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i ɾ a
+181994	198154	crossandean-Santiagueno	sant1432		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i ɾ a
+181995	198155	crossandean-Serena	tena1240		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ira	i r a
+181996	198156	crossandean-Tarma	yaru1256		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i ɾ a
+181997	198157	crossandean-Troje	nort3351		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+181998	198158	crossandean-Yanac	coro1247		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		wira	w i r a
+182721	198881	wold-ImbaburaQuechua	imba1240		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		vira	β i ɾ a
+184823	200983	hubercolumbian-Inga	inga1252		feather	1201	FEATHER		andũʧi	a n d ũ tʃ i
+185505	201665	wold-ImbaburaQuechua	imba1240		feather	1201	FEATHER		alas	a l a s
+187062	219715	crossandean-Apuri	apur1253		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187063	219716	crossandean-Apurimac	east2551		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187064	219717	crossandean-Atalla	huan1249		fleshormeat	2615	FLESH OR MEAT		ayča	ai tʃ a
+187065	219718	crossandean-Ayacucho	ayac1239		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187066	219719	crossandean-Azuay	azua1234		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187067	219720	crossandean-Cacra-Hongos	cacr1238		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187068	219721	crossandean-Chachapoyas	chac1250		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187069	219722	crossandean-Chetilla	caja1238		fleshormeat	2615	FLESH OR MEAT		ayča	ai tʃ a
+187070	219723	crossandean-Curva	apol1241		fleshormeat	2615	FLESH OR MEAT		ayča	ai tʃ a
+187071	219724	crossandean-Cuzco	cusc1236		fleshormeat	2615	FLESH OR MEAT		ayča	ai tʃ a
+187072	219725	crossandean-Huallaga	hual1241		fleshormeat	2615	FLESH OR MEAT		ayča	ai tʃ a
+187073	219726	crossandean-Huanca	huay1241		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187074	219727	crossandean-Huangascar	azan1238		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187075	219728	crossandean-HuarazHuailas	huai1241		fleshormeat	2615	FLESH OR MEAT		aytsa	ai ts a
+187076	219729	crossandean-Inkawasi	lamb1276		fleshormeat	2615	FLESH OR MEAT		ayča	ai tʃ a
+187078	219731	crossandean-Jauja	jauj1238		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187080	219733	crossandean-Lamas	sanm1289		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187081	219734	crossandean-Laraos	yauy1235		fleshormeat	2615	FLESH OR MEAT		ayča	ai tʃ a
+187082	219735	crossandean-Lincha-Tana	tana1291		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187083	219736	crossandean-Maragua	sout2991		fleshormeat	2615	FLESH OR MEAT		ayča	ai tʃ a
+187084	219737	crossandean-Napo	napo1242		fleshormeat	2615	FLESH OR MEAT		aicha	ai tʃ a
+187085	219738	crossandean-Pacaraos	paca1245		fleshormeat	2615	FLESH OR MEAT		aysa	ai s a
+187086	219739	crossandean-Pastaza	sout2990		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187087	219740	crossandean-Pocona	coch1274		fleshormeat	2615	FLESH OR MEAT		ayča	ai tʃ a
+187088	219741	crossandean-Puno	puno1238		fleshormeat	2615	FLESH OR MEAT		ayča	ai tʃ a
+187089	219742	crossandean-SanPedro	sanp1258		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187090	219743	crossandean-Santiagueno	sant1432		fleshormeat	2615	FLESH OR MEAT		aycha	ai tʃ a
+187091	219744	crossandean-Serena	tena1240		fleshormeat	2615	FLESH OR MEAT		ayča	ai tʃ a
+187092	219745	crossandean-Tarma	yaru1256		fleshormeat	2615	FLESH OR MEAT		ayča	ai tʃ a
+187093	219746	crossandean-Troje	nort3351		fleshormeat	2615	FLESH OR MEAT		ayča	ai tʃ a
+187094	219747	crossandean-Yanac	coro1247		fleshormeat	2615	FLESH OR MEAT		e:tsa	eː ts a
+187154	219807	hubercolumbian-Inga	inga1252		fleshormeat	2615	FLESH OR MEAT		ájʧa	a j tʃ a
+192615	225268	crossandean-Apuri	apur1253		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pawa-	p a w a
+192616	225269	crossandean-Apurimac	east2551		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pala	p a l a
+192617	225270	crossandean-Apurimac	east2551		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pawa	p a w a
+192618	225271	crossandean-Atalla	huan1249		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pawa.	p a w a
+192619	225272	crossandean-Ayacucho	ayac1239		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pawa	p a w a
+192620	225273	crossandean-Cacra-Hongos	cacr1238		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pawa-	p a w a
+192621	225274	crossandean-Chachapoyas	chac1250		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pawa	p a w a
+192622	225275	crossandean-Chetilla	caja1238		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pari	p a r i
+192623	225276	crossandean-Curva	apol1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		hala.ča.	h a l a + tʃ a
+192624	225277	crossandean-Cuzco	cusc1236		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		phawa.	pʰ a w a
+192625	225278	crossandean-Huallaga	hual1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pa:.ri.	p aː r i
+192626	225279	crossandean-Huanca	huay1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		paaliy	p aː l i
+192627	225280	crossandean-Huangascar	azan1238		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pawa-	p a w a
+192628	225281	crossandean-HuarazHuailas	huai1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		paari	p aː r i
+192629	225282	crossandean-Inkawasi	lamb1276		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pa.ri.	p a r i
+192631	225284	crossandean-Jauja	jauj1238		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		paaliy	p aː l i
+192633	225286	crossandean-Lamas	sanm1289		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pawa	p a w a
+192634	225287	crossandean-Laraos	yauy1235		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pawa.	p a w a
+192635	225288	crossandean-Lincha-Tana	tana1291		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pawa-	p a w a
+192636	225289	crossandean-Maragua	sout2991		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		phawa.	pʰ a w a
+192637	225290	crossandean-Napo	napo1242		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		huamburina	w a m b u + r i + n a
+192638	225291	crossandean-Pacaraos	paca1245		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		paari	p aː ɾ i
+192639	225292	crossandean-Pastaza	sout2990		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pawana	p a w a + n a
+192640	225293	crossandean-Pocona	coch1274		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		phawa.	pʰ a w a
+192641	225294	crossandean-Puno	puno1238		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		hala.nta.	h a l a + n t a
+192642	225295	crossandean-SanPedro	sanp1258		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pawa-	p a w a
+192643	225296	crossandean-Santiagueno	sant1432		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		paay	p aː
+192644	225297	crossandean-Serena	tena1240		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		wambu.ri.	w a m b u + r i
+192645	225298	crossandean-Tarma	yaru1256		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pa:ri	p aː ɾ i
+192646	225299	crossandean-Troje	nort3351		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		kažpa.	k a ʒ p a
+192647	225300	crossandean-Yanac	coro1247		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		vwelë.	b ue l ɛ
+192783	225436	hubercolumbian-Inga	inga1252		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		buláj	b u l a j
+193554	226207	wold-ImbaburaQuechua	imba1240		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		bulana	b u l a n a
+195949	228602	crossandean-Apuri	apur1253		foot	1301	FOOT		traki	ʈ a k i
+195950	228603	crossandean-Apurimac	east2551		foot	1301	FOOT		chaki	tʃ a k i
+195951	228604	crossandean-Atalla	huan1249		foot	1301	FOOT		čaki	tʃ a k i
+195952	228605	crossandean-Ayacucho	ayac1239		foot	1301	FOOT		chaki	tʃ a k i
+195953	228606	crossandean-Azuay	azua1234		foot	1301	FOOT		chaqui	tʃ a k i
+195954	228607	crossandean-Cacra-Hongos	cacr1238		foot	1301	FOOT		traki	ʈ a k i
+195955	228608	crossandean-Chachapoyas	chac1250		foot	1301	FOOT		ĉaki	ʈʂ a k i
+195956	228609	crossandean-Chetilla	caja1238		foot	1301	FOOT		ĉaki	ʈʂ a k i
+195957	228610	crossandean-Curva	apol1241		foot	1301	FOOT		čaki	tʃ a k i
+195958	228611	crossandean-Cuzco	cusc1236		foot	1301	FOOT		čaki	tʃ a k i
+195959	228612	crossandean-Huallaga	hual1241		foot	1301	FOOT		čaki	tʃ a k i
+195960	228613	crossandean-Huanca	huay1241		foot	1301	FOOT		traki	ʈʂ a k i
+195961	228614	crossandean-Huangascar	azan1238		foot	1301	FOOT		traki	ʈ a k i
+195962	228615	crossandean-HuarazHuailas	huai1241		foot	1301	FOOT		chaki	tʃ a k i
+195963	228616	crossandean-Inkawasi	lamb1276		foot	1301	FOOT		ĉaki	ʈʂ a k i
+195965	228618	crossandean-Jauja	jauj1238		foot	1301	FOOT		traki	ʈʂ a k i
+195967	228620	crossandean-Lamas	sanm1289		foot	1301	FOOT		chaki	tʃ a k i
+195968	228621	crossandean-Laraos	yauy1235		foot	1301	FOOT		ĉaki	ʈʂ a k i
+195969	228622	crossandean-Lincha-Tana	tana1291		foot	1301	FOOT		traki	ʈ a k i
+195970	228623	crossandean-Maragua	sout2991		foot	1301	FOOT		čaki	tʃ a k i
+195971	228624	crossandean-Napo	napo1242		foot	1301	FOOT		chaqui	tʃ a k i
+195972	228625	crossandean-Pacaraos	paca1245		foot	1301	FOOT		traki	ʈʂ a k i
+195973	228626	crossandean-Pastaza	sout2990		foot	1301	FOOT		chaqui	tʃ a k i
+195974	228627	crossandean-Pocona	coch1274		foot	1301	FOOT		čaki	tʃ a k i
+195975	228628	crossandean-Puno	puno1238		foot	1301	FOOT		čaki	tʃ a k i
+195976	228629	crossandean-SanPedro	sanp1258		foot	1301	FOOT		traki	ʈ a k i
+195977	228630	crossandean-Santiagueno	sant1432		foot	1301	FOOT		chaki	tʃ a x i
+195978	228631	crossandean-Serena	tena1240		foot	1301	FOOT		čaki	tʃ a k i
+195979	228632	crossandean-Tarma	yaru1256		foot	1301	FOOT		ĉagi	ʈʂ a g i
+195980	228633	crossandean-Troje	nort3351		foot	1301	FOOT		čaki	tʃ a k i
+195981	228634	crossandean-Yanac	coro1247		foot	1301	FOOT		ĉaki	ʈʂ a k i
+196089	228742	hubercolumbian-Inga	inga1252		foot	1301	FOOT		ʧáki	tʃ a k i
+196936	229589	wold-ImbaburaQuechua	imba1240		foot	1301	FOOT		chaki	tʃ a k i
+208998	241651	crossandean-Apuri	apur1253		full	1429	FULL		hunta	h u n t a
+208999	241652	crossandean-Apurimac	east2551		full	1429	FULL		llinpa	ʎ i n p a
+209000	241653	crossandean-Apurimac	east2551		full	1429	FULL		huntay	h u n t a
+209001	241654	crossandean-Atalla	huan1249		full	1429	FULL		hunta	h u n t a
+209002	241655	crossandean-Ayacucho	ayac1239		full	1429	FULL		hunta	h u n t a
+209003	241656	crossandean-Azuay	azua1234		full	1429	FULL		junda	h u n d a
+209004	241657	crossandean-Cacra-Hongos	cacr1238		full	1429	FULL		hunta	h u n t a
+209005	241658	crossandean-Chachapoyas	chac1250		full	1429	FULL		junta	x u n d a
+209006	241659	crossandean-Chetilla	caja1238		full	1429	FULL		unda	u n d a
+209007	241660	crossandean-Curva	apol1241		full	1429	FULL		hunt'a	h u n tʼ a
+209008	241661	crossandean-Cuzco	cusc1236		full	1429	FULL		hunt'a	h u n tʼ a
+209009	241662	crossandean-Huallaga	hual1241		full	1429	FULL		hunta	h u n t a
+209010	241663	crossandean-Huanca	huay1241		full	1429	FULL		hunta	h u n t a
+209011	241664	crossandean-Huangascar	azan1238		full	1429	FULL		hunta	h u n t a
+209012	241665	crossandean-HuarazHuailas	huai1241		full	1429	FULL		huntay	h u n t ai
+209013	241666	crossandean-Inkawasi	lamb1276		full	1429	FULL		unda	u n d a
+209015	241668	crossandean-Jauja	jauj1238		full	1429	FULL		hunta	h u n t a
+209017	241670	crossandean-Lamas	sanm1289		full	1429	FULL		junta	x u n d a
+209018	241671	crossandean-Laraos	yauy1235		full	1429	FULL		hunta	h u n t a
+209019	241672	crossandean-Lincha-Tana	tana1291		full	1429	FULL		hunta	h u n t a
+209020	241673	crossandean-Maragua	sout2991		full	1429	FULL		hunt'a	h u n tʼ a
+209021	241674	crossandean-Napo	napo1242		full	1429	FULL		junda	h u n d a
+209022	241675	crossandean-Pacaraos	paca1245		full	1429	FULL		hunta	x u n t a
+209023	241676	crossandean-Pastaza	sout2990		full	1429	FULL		unda	u n d a
+209024	241677	crossandean-Pocona	coch1274		full	1429	FULL		hunt'a	h u n tʼ a
+209025	241678	crossandean-Puno	puno1238		full	1429	FULL		hunt'a	h u n tʼ a
+209026	241679	crossandean-SanPedro	sanp1258		full	1429	FULL		hunta	h u n t a
+209027	241680	crossandean-Santiagueno	sant1432		full	1429	FULL		unta	u n t a
+209028	241681	crossandean-Serena	tena1240		full	1429	FULL		undakta	u n d a + k t a
+209029	241682	crossandean-Tarma	yaru1256		full	1429	FULL		xunta	χ o n t a
+209030	241683	crossandean-Troje	nort3351		full	1429	FULL		hunda	h u n d a
+209031	241684	crossandean-Yanac	coro1247		full	1429	FULL		unta	u n t a
+209190	241843	hubercolumbian-Inga	inga1252		full	1429	FULL		xúnda	x u n d a
+210010	242663	wold-ImbaburaQuechua	imba1240		full	1429	FULL		junda	x u n d a
+214344	246997	crossandean-Apuri	apur1253		give	1447	GIVE		qu-	q o
+214345	246998	crossandean-Apurimac	east2551		give	1447	GIVE		qo	q o
+214346	246999	crossandean-Atalla	huan1249		give	1447	GIVE		χu.	χ u
+214347	247000	crossandean-Ayacucho	ayac1239		give	1447	GIVE		qo	χ o
+214348	247001	crossandean-Azuay	azua1234		give	1447	GIVE		ku-na	k u + n a
+214349	247002	crossandean-Cacra-Hongos	cacr1238		give	1447	GIVE		qu-	q o
+214350	247003	crossandean-Chachapoyas	chac1250		give	1447	GIVE		ku	k u
+214351	247004	crossandean-Chetilla	caja1238		give	1447	GIVE		qu.	q u
+214352	247005	crossandean-Curva	apol1241		give	1447	GIVE		qu.	q u
+214353	247006	crossandean-Cuzco	cusc1236		give	1447	GIVE		qu.	q u
+214354	247007	crossandean-Huallaga	hual1241		give	1447	GIVE		qu.	q u
+214355	247008	crossandean-Huanca	huay1241		give	1447	GIVE		quy	ʔ u
+214356	247009	crossandean-Huangascar	azan1238		give	1447	GIVE		qu-	q o
+214357	247010	crossandean-Inkawasi	lamb1276		give	1447	GIVE		qu.	q u
+214359	247012	crossandean-Jauja	jauj1238		give	1447	GIVE		quy	ʔ u
+214361	247014	crossandean-Lamas	sanm1289		give	1447	GIVE		ku	k u
+214362	247015	crossandean-Laraos	yauy1235		give	1447	GIVE		qu.	q u
+214363	247016	crossandean-Lincha-Tana	tana1291		give	1447	GIVE		qu-	q o
+214364	247017	crossandean-Maragua	sout2991		give	1447	GIVE		qu.	q u
+214365	247018	crossandean-Napo	napo1242		give	1447	GIVE		cuna	k u + n a
+214366	247019	crossandean-Pacaraos	paca1245		give	1447	GIVE		qu	χ o
+214367	247020	crossandean-Pastaza	sout2990		give	1447	GIVE		cuna	k u + n a
+214368	247021	crossandean-Pocona	coch1274		give	1447	GIVE		ġu.	ɢ u
+214369	247022	crossandean-Puno	puno1238		give	1447	GIVE		qu.	q u
+214370	247023	crossandean-SanPedro	sanp1258		give	1447	GIVE		qu-	q o
+214371	247024	crossandean-Santiagueno	sant1432		give	1447	GIVE		qoy	q o
+214372	247025	crossandean-Serena	tena1240		give	1447	GIVE		ku.	k u
+214373	247026	crossandean-Tarma	yaru1256		give	1447	GIVE		xu	χ o
+214374	247027	crossandean-Troje	nort3351		give	1447	GIVE		ku.	k u
+214375	247028	crossandean-Yanac	coro1247		give	1447	GIVE		qu.	q u
+214517	247170	hubercolumbian-Inga	inga1252		give	1447	GIVE		karáj	k a r a j
+214518	247171	hubercolumbian-Inga	inga1252		give	1447	GIVE		kwáj	k w a j
+215688	248341	wold-ImbaburaQuechua	imba1240		give	1447	GIVE		kuna	k u n a
+220641	253297	hubercolumbian-Inga	inga1252		good	1035	GOOD		súma	s u m a
+220642	253298	hubercolumbian-Inga	inga1252		good	1035	GOOD		álʲi	a lʲ i
+221861	254517	wold-ImbaburaQuechua	imba1240		good	1035	GOOD		ali	a l i
+228334	260990	crossandean-Apurimac	east2551		green	1425	GREEN		qomir	q o m i r
+228335	260991	crossandean-Atalla	huan1249		green	1425	GREEN		χiwa	χ i w a
+228336	260992	crossandean-Ayacucho	ayac1239		green	1425	GREEN		qumiř	χ u m i ɽ
+228337	260993	crossandean-Azuay	azua1234		green	1425	GREEN		lumar	l u m a ɾ
+228338	260994	crossandean-Chachapoyas	chac1250		green	1425	GREEN		chikyaj	tʃ i k j a x
+228339	260995	crossandean-Chetilla	caja1238		green	1425	GREEN		čiγyax	tʃ i ʁ j a x
+228340	260996	crossandean-Curva	apol1241		green	1425	GREEN		q'umir	qʼ u m i r
+228341	260997	crossandean-Cuzco	cusc1236		green	1425	GREEN		q'umir	qʼ u m i r
+228342	260998	crossandean-Huallaga	hual1241		green	1425	GREEN		verde	b e r d e
+228343	260999	crossandean-Huanca	huay1241		green	1425	GREEN		birdi	b i ɾ d i
+228344	261000	crossandean-HuarazHuailas	huai1241		green	1425	GREEN		beri	b e ɾ i
+228345	261001	crossandean-Inkawasi	lamb1276		green	1425	GREEN		čiχyaχ	tʃ i χ j a χ
+228348	261004	crossandean-Lamas	sanm1289		green	1425	GREEN		chikjak	tʃ i k j a k
+228349	261005	crossandean-Laraos	yauy1235		green	1425	GREEN		verde	b e r d e
+228350	261006	crossandean-Maragua	sout2991		green	1425	GREEN		q'umir	qʼ u m i r
+228351	261007	crossandean-Napo	napo1242		green	1425	GREEN		birdi	b i r d i
+228352	261008	crossandean-Pacaraos	paca1245		green	1425	GREEN		berdi	b e r d i
+228353	261009	crossandean-Pastaza	sout2990		green	1425	GREEN		quillu	k i ʎ u
+228354	261010	crossandean-Pocona	coch1274		green	1425	GREEN		q'umir	qʼ u m i r
+228355	261011	crossandean-Puno	puno1238		green	1425	GREEN		q'umir	qʼ u m i r
+228356	261012	crossandean-Santiagueno	sant1432		green	1425	GREEN		qomer	q o m e ɾ
+228357	261013	crossandean-Serena	tena1240		green	1425	GREEN		verde	b e r d e
+228358	261014	crossandean-Troje	nort3351		green	1425	GREEN		verde	b e r d e
+228359	261015	crossandean-Yanac	coro1247		green	1425	GREEN		tsiqyaq	ts i q j a q
+228448	261104	hubercolumbian-Inga	inga1252		green	1425	GREEN		bírdi	b i r d i
+229285	261941	wold-ImbaburaQuechua	imba1240		green	1425	GREEN		birdi	b i ɾ d i
+238127	270783	crossandean-Apuri	apur1253		hand	1277	HAND		maki	m a k i
+238128	270784	crossandean-Apurimac	east2551		hand	1277	HAND		maki	m a k i
+238129	270785	crossandean-Atalla	huan1249		hand	1277	HAND		maki	m a k i
+238130	270786	crossandean-Ayacucho	ayac1239		hand	1277	HAND		maki	m a k i
+238131	270787	crossandean-Azuay	azua1234		hand	1277	HAND		maqui	m a k i
+238132	270788	crossandean-Cacra-Hongos	cacr1238		hand	1277	HAND		maki	m a k i
+238133	270789	crossandean-Chachapoyas	chac1250		hand	1277	HAND		maki	m a k i
+238134	270790	crossandean-Chetilla	caja1238		hand	1277	HAND		maki	m a k i
+238135	270791	crossandean-Curva	apol1241		hand	1277	HAND		maki	m a k i
+238136	270792	crossandean-Cuzco	cusc1236		hand	1277	HAND		maki	m a k i
+238137	270793	crossandean-Huallaga	hual1241		hand	1277	HAND		maki	m a k i
+238138	270794	crossandean-Huanca	huay1241		hand	1277	HAND		maki	m a k i
+238139	270795	crossandean-Huangascar	azan1238		hand	1277	HAND		maki	m a k i
+238140	270796	crossandean-HuarazHuailas	huai1241		hand	1277	HAND		maki	m a k i
+238141	270797	crossandean-Inkawasi	lamb1276		hand	1277	HAND		maki	m a k i
+238143	270799	crossandean-Jauja	jauj1238		hand	1277	HAND		maki	m a k i
+238145	270801	crossandean-Lamas	sanm1289		hand	1277	HAND		maki	m a k i
+238146	270802	crossandean-Laraos	yauy1235		hand	1277	HAND		maki	m a k i
+238147	270803	crossandean-Lincha-Tana	tana1291		hand	1277	HAND		maki	m a k i
+238148	270804	crossandean-Maragua	sout2991		hand	1277	HAND		maki	m a k i
+238149	270805	crossandean-Napo	napo1242		hand	1277	HAND		maqui	m a k i
+238150	270806	crossandean-Pacaraos	paca1245		hand	1277	HAND		maki	m a k i
+238151	270807	crossandean-Pastaza	sout2990		hand	1277	HAND		maqui	m a k i
+238152	270808	crossandean-Pocona	coch1274		hand	1277	HAND		maki	m a k i
+238153	270809	crossandean-Puno	puno1238		hand	1277	HAND		maki	m a k i
+238154	270810	crossandean-SanPedro	sanp1258		hand	1277	HAND		maki	m a k i
+238155	270811	crossandean-Santiagueno	sant1432		hand	1277	HAND		maki	m a x i
+238156	270812	crossandean-Serena	tena1240		hand	1277	HAND		maki	m a k i
+238157	270813	crossandean-Tarma	yaru1256		hand	1277	HAND		magi	m a g i
+238158	270814	crossandean-Troje	nort3351		hand	1277	HAND		maki	m a k i
+238159	270815	crossandean-Yanac	coro1247		hand	1277	HAND		maki	m a k i
+238288	270944	hubercolumbian-Inga	inga1252		hand	1277	HAND		máki	m a k i
+239219	271875	wold-ImbaburaQuechua	imba1240		hand	1277	HAND		maki	m a k i
+243697	276354	crossandean-Apuri	apur1253		head	1256	HEAD		uma	u m a
+243698	276355	crossandean-Apurimac	east2551		head	1256	HEAD		uma	u m a
+243699	276356	crossandean-Atalla	huan1249		head	1256	HEAD		uma	u m a
+243700	276357	crossandean-Ayacucho	ayac1239		head	1256	HEAD		uma	u m a
+243701	276358	crossandean-Azuay	azua1234		head	1256	HEAD		uma	u m a
+243702	276359	crossandean-Cacra-Hongos	cacr1238		head	1256	HEAD		uma	u m a
+243703	276360	crossandean-Chachapoyas	chac1250		head	1256	HEAD		uma	u m a
+243704	276361	crossandean-Chetilla	caja1238		head	1256	HEAD		uma	u m a
+243705	276362	crossandean-Curva	apol1241		head	1256	HEAD		uma	u m a
+243706	276363	crossandean-Cuzco	cusc1236		head	1256	HEAD		uma	u m a
+243707	276364	crossandean-Huallaga	hual1241		head	1256	HEAD		uma	u m a
+243708	276365	crossandean-Huanca	huay1241		head	1256	HEAD		uma	u m a
+243709	276366	crossandean-Huangascar	azan1238		head	1256	HEAD		uma	u m a
+243710	276367	crossandean-HuarazHuailas	huai1241		head	1256	HEAD		uma	u m a
+243711	276368	crossandean-Inkawasi	lamb1276		head	1256	HEAD		uma	u m a
+243713	276370	crossandean-Jauja	jauj1238		head	1256	HEAD		uma	u m a
+243715	276372	crossandean-Lamas	sanm1289		head	1256	HEAD		uma	u m a
+243716	276373	crossandean-Laraos	yauy1235		head	1256	HEAD		uma	u m a
+243717	276374	crossandean-Lincha-Tana	tana1291		head	1256	HEAD		uma	u m a
+243718	276375	crossandean-Maragua	sout2991		head	1256	HEAD		uma	u m a
+243719	276376	crossandean-Napo	napo1242		head	1256	HEAD		uma	u m a
+243720	276377	crossandean-Pacaraos	paca1245		head	1256	HEAD		uma	u m a
+243721	276378	crossandean-Pastaza	sout2990		head	1256	HEAD		uma	u m a
+243722	276379	crossandean-Pocona	coch1274		head	1256	HEAD		uma	u m a
+243723	276380	crossandean-Puno	puno1238		head	1256	HEAD		uma	u m a
+243724	276381	crossandean-SanPedro	sanp1258		head	1256	HEAD		uma	u m a
+243725	276382	crossandean-Santiagueno	sant1432		head	1256	HEAD		uma	u m a
+243726	276383	crossandean-Serena	tena1240		head	1256	HEAD		uma	u m a
+243727	276384	crossandean-Tarma	yaru1256		head	1256	HEAD		uma	u m a
+243728	276385	crossandean-Troje	nort3351		head	1256	HEAD		uma	u m a
+243729	276386	crossandean-Yanac	coro1247		head	1256	HEAD		uma	u m a
+243840	276497	hubercolumbian-Inga	inga1252		head	1256	HEAD		úma	u m a
+245116	277773	wold-ImbaburaQuechua	imba1240		head	1256	HEAD		uma	u m a
+246657	279314	crossandean-Apuri	apur1253		hear	1408	HEAR		uyari	u j a
+246658	279315	crossandean-Atalla	huan1249		hear	1408	HEAR		uya.ri.	u j a + r i
+246659	279316	crossandean-Ayacucho	ayac1239		hear	1408	HEAR		uyari	u j a + ɾ i
+246660	279317	crossandean-Azuay	azua1234		hear	1408	HEAR		uya-na	u j a + n a
+246661	279318	crossandean-Cacra-Hongos	cacr1238		hear	1408	HEAR		uyari	u j a
+246662	279319	crossandean-Chachapoyas	chac1250		hear	1408	HEAR		wiyari	w i j a + r i
+246663	279320	crossandean-Chetilla	caja1238		hear	1408	HEAR		uya.	u j a
+246664	279321	crossandean-Curva	apol1241		hear	1408	HEAR		uya.ri.	u j a + ɾ i
+246665	279322	crossandean-Cuzco	cusc1236		hear	1408	HEAR		uya.ri.	u j a + ɾ i
+246666	279323	crossandean-Huallaga	hual1241		hear	1408	HEAR		wiya.	w i j a
+246667	279324	crossandean-Huanca	huay1241		hear	1408	HEAR		uyaliy	u j a + l i
+246668	279325	crossandean-Huangascar	azan1238		hear	1408	HEAR		uyari	u j a
+246669	279326	crossandean-HuarazHuailas	huai1241		hear	1408	HEAR		wiyay	w i j a
+246670	279327	crossandean-Inkawasi	lamb1276		hear	1408	HEAR		uya.	u j a
+246672	279329	crossandean-Jauja	jauj1238		hear	1408	HEAR		uya	u j a
+246674	279331	crossandean-Lamas	sanm1289		hear	1408	HEAR		uyari	u j a + r i
+246675	279332	crossandean-Laraos	yauy1235		hear	1408	HEAR		uya.ri.	u j a
+246676	279333	crossandean-Lincha-Tana	tana1291		hear	1408	HEAR		uyari	u j a
+246677	279334	crossandean-Maragua	sout2991		hear	1408	HEAR		uya.ri.	u j a + ɾ i
+246678	279335	crossandean-Napo	napo1242		hear	1408	HEAR		uyana	u j a + n a
+246679	279336	crossandean-Pacaraos	paca1245		hear	1408	HEAR		uya	u j a
+246680	279337	crossandean-Pastaza	sout2990		hear	1408	HEAR		uyana	u j a + n a
+246681	279338	crossandean-Pocona	coch1274		hear	1408	HEAR		uya.ri.	u j a + ɾ i
+246682	279339	crossandean-Puno	puno1238		hear	1408	HEAR		uya.ri.	u j a + ɾ i
+246683	279340	crossandean-SanPedro	sanp1258		hear	1408	HEAR		uyari	u j a
+246684	279341	crossandean-Santiagueno	sant1432		hear	1408	HEAR		uyariy	u j a + ɾ iː
+246685	279342	crossandean-Serena	tena1240		hear	1408	HEAR		uya.	u j a
+246686	279343	crossandean-Tarma	yaru1256		hear	1408	HEAR		uya	u j a
+246687	279344	crossandean-Troje	nort3351		hear	1408	HEAR		uya.	u j a
+246688	279345	crossandean-Yanac	coro1247		hear	1408	HEAR		wiya.	w i j a
+246791	279448	hubercolumbian-Inga	inga1252		hear	1408	HEAR		ujáj	u j a j
+246792	279449	hubercolumbian-Inga	inga1252		hear	1408	HEAR		wijáj	w i j a j
+247908	280565	wold-ImbaburaQuechua	imba1240		hear	1408	HEAR		uyana	u j a n a
+248243	280900	crossandean-Apurimac	east2551		heart	1223	HEART		sonqo	s o n q o
+248244	280901	crossandean-Atalla	huan1249		heart	1223	HEART		sunġu	s u n ɢ u
+248245	280902	crossandean-Ayacucho	ayac1239		heart	1223	HEART		sonqo	s o ŋ χ o
+248246	280903	crossandean-Azuay	azua1234		heart	1223	HEART		shungu	ʃ u n g u
+248247	280904	crossandean-Cacra-Hongos	cacr1238		heart	1223	HEART		shunqu	ʃ o ŋ q u
+248248	280905	crossandean-Chachapoyas	chac1250		heart	1223	HEART		shunku	ʃ u n g u
+248249	280906	crossandean-Chetilla	caja1238		heart	1223	HEART		shonqo	ʃ o n q o
+248250	280907	crossandean-Curva	apol1241		heart	1223	HEART		sunqu	s u n q u
+248251	280908	crossandean-Cuzco	cusc1236		heart	1223	HEART		sunqu	s u n q u
+248252	280909	crossandean-Huallaga	hual1241		heart	1223	HEART		šunqu	ʃ u n q u
+248253	280910	crossandean-Huanca	huay1241		heart	1223	HEART		shunqu	ʂ u n ʔ u
+248254	280911	crossandean-Huangascar	azan1238		heart	1223	HEART		shunqu	ʃ o ŋ q u
+248255	280912	crossandean-HuarazHuailas	huai1241		heart	1223	HEART		shonqu	ʃ o ɲ q u
+248256	280913	crossandean-Inkawasi	lamb1276		heart	1223	HEART		corazón	k o r a z o n
+248258	280915	crossandean-Jauja	jauj1238		heart	1223	HEART		shunqu	ʂ u n ʔ u
+248260	280917	crossandean-Lamas	sanm1289		heart	1223	HEART		shunku	ʃ u n g u
+248261	280918	crossandean-Laraos	yauy1235		heart	1223	HEART		sunqu	s u n q u
+248262	280919	crossandean-Lincha-Tana	tana1291		heart	1223	HEART		shunqu	ʃ o ŋ q u
+248263	280920	crossandean-Maragua	sout2991		heart	1223	HEART		sunqu	s u n q u
+248264	280921	crossandean-Napo	napo1242		heart	1223	HEART		shungu	ʃ u n g u
+248265	280922	crossandean-Pacaraos	paca1245		heart	1223	HEART		shunqu	ʃ u ɴ χ u
+248266	280923	crossandean-Pastaza	sout2990		heart	1223	HEART		curasun	k u r a s u n
+248267	280924	crossandean-Pocona	coch1274		heart	1223	HEART		sunγu	s u n ʁ u
+248268	280925	crossandean-Puno	puno1238		heart	1223	HEART		sunqu	s u n q u
+248269	280926	crossandean-SanPedro	sanp1258		heart	1223	HEART		shunqu	ʃ o ŋ q u
+248270	280927	crossandean-Santiagueno	sant1432		heart	1223	HEART		sonqo	s o ŋ q o
+248271	280928	crossandean-Serena	tena1240		heart	1223	HEART		šungu	ʃ u n g u
+248272	280929	crossandean-Tarma	yaru1256		heart	1223	HEART		šun̊xu	ʃ o ŋ χ u
+248273	280930	crossandean-Troje	nort3351		heart	1223	HEART		šungu	ʃ u n g u
+248274	280931	crossandean-Yanac	coro1247		heart	1223	HEART		šunqu	ʃ u n q u
+248372	281029	hubercolumbian-Inga	inga1252		heart	1223	HEART		kurasún	k u r a s u n
+249256	281913	wold-ImbaburaQuechua	imba1240		heart	1223	HEART		shungu	ʃ u ŋ g u
+263174	295834	crossandean-Apuri	apur1253		hornanatomy	1393	HORN (ANATOMY)		waqra	w a q ɾ a
+263175	295835	crossandean-Apurimac	east2551		hornanatomy	1393	HORN (ANATOMY)		waqra	w a q r a
+263176	295836	crossandean-Atalla	huan1249		hornanatomy	1393	HORN (ANATOMY)		waχra	w a χ r a
+263177	295837	crossandean-Ayacucho	ayac1239		hornanatomy	1393	HORN (ANATOMY)		waqra	w a χ ɾ a
+263178	295838	crossandean-Azuay	azua1234		hornanatomy	1393	HORN (ANATOMY)		gachu	g a tʃ u
+263179	295839	crossandean-Cacra-Hongos	cacr1238		hornanatomy	1393	HORN (ANATOMY)		waqra	w a q l a
+263180	295840	crossandean-Chachapoyas	chac1250		hornanatomy	1393	HORN (ANATOMY)		wakra	w a k r a
+263181	295841	crossandean-Chetilla	caja1238		hornanatomy	1393	HORN (ANATOMY)		waqra	w a q r a
+263182	295842	crossandean-Curva	apol1241		hornanatomy	1393	HORN (ANATOMY)		waχra	w a χ r a
+263183	295843	crossandean-Cuzco	cusc1236		hornanatomy	1393	HORN (ANATOMY)		waχra	w a χ r a
+263184	295844	crossandean-Huallaga	hual1241		hornanatomy	1393	HORN (ANATOMY)		waχra	w a χ r a
+263185	295845	crossandean-Huanca	huay1241		hornanatomy	1393	HORN (ANATOMY)		waqla	w a ʔ l a
+263186	295846	crossandean-Huangascar	azan1238		hornanatomy	1393	HORN (ANATOMY)		waqra	w a q ɾ a
+263187	295847	crossandean-HuarazHuailas	huai1241		hornanatomy	1393	HORN (ANATOMY)		waqra	w a q ɾ a
+263188	295848	crossandean-Inkawasi	lamb1276		hornanatomy	1393	HORN (ANATOMY)		waχra	w a χ r a
+263190	295850	crossandean-Jauja	jauj1238		hornanatomy	1393	HORN (ANATOMY)		waqla	w a ʔ l a
+263192	295852	crossandean-Lamas	sanm1289		hornanatomy	1393	HORN (ANATOMY)		wakra	w a k r a
+263193	295853	crossandean-Laraos	yauy1235		hornanatomy	1393	HORN (ANATOMY)		waχra	w a χ r a
+263194	295854	crossandean-Lincha-Tana	tana1291		hornanatomy	1393	HORN (ANATOMY)		waqra	w a q ɾ a
+263195	295855	crossandean-Maragua	sout2991		hornanatomy	1393	HORN (ANATOMY)		waχra	w a χ r a
+263196	295856	crossandean-Napo	napo1242		hornanatomy	1393	HORN (ANATOMY)		cachu	k a tʃ u
+263197	295857	crossandean-Pacaraos	paca1245		hornanatomy	1393	HORN (ANATOMY)		waqra	w a χ ɾ a
+263198	295858	crossandean-Pastaza	sout2990		hornanatomy	1393	HORN (ANATOMY)		cachu	k a tʃ u
+263199	295859	crossandean-Pastaza	sout2990		hornanatomy	1393	HORN (ANATOMY)		curmita	k u r m i + t a
+263200	295860	crossandean-Pocona	coch1274		hornanatomy	1393	HORN (ANATOMY)		waχra	w a χ r a
+263201	295861	crossandean-Puno	puno1238		hornanatomy	1393	HORN (ANATOMY)		waχra	w a χ r a
+263202	295862	crossandean-SanPedro	sanp1258		hornanatomy	1393	HORN (ANATOMY)		waqra	w a q ɾ a
+263203	295863	crossandean-Santiagueno	sant1432		hornanatomy	1393	HORN (ANATOMY)		waqra	w a χ ɾ a
+263204	295864	crossandean-Serena	tena1240		hornanatomy	1393	HORN (ANATOMY)		kurnus	k u r n u s
+263205	295865	crossandean-Tarma	yaru1256		hornanatomy	1393	HORN (ANATOMY)		waxra	w a χ ɾ a
+263206	295866	crossandean-Troje	nort3351		hornanatomy	1393	HORN (ANATOMY)		γaču	ʁ a tʃ u
+263207	295867	crossandean-Troje	nort3351		hornanatomy	1393	HORN (ANATOMY)		gaču	g a tʃ u
+263208	295868	crossandean-Yanac	coro1247		hornanatomy	1393	HORN (ANATOMY)		waqra	w a q r a
+263265	295925	hubercolumbian-Inga	inga1252		hornanatomy	1393	HORN (ANATOMY)		káʧu	k a tʃ u
+263901	296561	wold-ImbaburaQuechua	imba1240		hornanatomy	1393	HORN (ANATOMY)		kachu	k a tʃ u
+266143	298803	crossandean-Apuri	apur1253		hotorwarm	2272	HOT OR WARM		quni	q o n i
+266144	298804	crossandean-Apurimac	east2551		hotorwarm	2272	HOT OR WARM		qoñi	q o ɲ i
+266145	298805	crossandean-Atalla	huan1249		hotorwarm	2272	HOT OR WARM		χuni	χ u n i
+266146	298806	crossandean-Ayacucho	ayac1239		hotorwarm	2272	HOT OR WARM		qoñi	χ o ɲ i
+266147	298807	crossandean-Azuay	azua1234		hotorwarm	2272	HOT OR WARM		cunug	k u n u g
+266148	298808	crossandean-Cacra-Hongos	cacr1238		hotorwarm	2272	HOT OR WARM		quni	q o n i
+266149	298809	crossandean-Chachapoyas	chac1250		hotorwarm	2272	HOT OR WARM		kuñu	k u ɲ u
+266150	298810	crossandean-Chetilla	caja1238		hotorwarm	2272	HOT OR WARM		quñu.χ	q u ɲ u χ
+266151	298811	crossandean-Curva	apol1241		hotorwarm	2272	HOT OR WARM		λiχti	ʎ i χ t i
+266152	298812	crossandean-Cuzco	cusc1236		hotorwarm	2272	HOT OR WARM		q'uñi	qʼ u ɲ i
+266153	298813	crossandean-Huallaga	hual1241		hotorwarm	2272	HOT OR WARM		aka.χ	a k a + χ
+266154	298814	crossandean-Huanca	huay1241		hotorwarm	2272	HOT OR WARM		akatraq	a k a + ʈʂ a + q
+266155	298815	crossandean-Huangascar	azan1238		hotorwarm	2272	HOT OR WARM		quni	q o n i
+266156	298816	crossandean-Inkawasi	lamb1276		hotorwarm	2272	HOT OR WARM		χuñu.χ	χ u ɲ u χ
+266158	298818	crossandean-Jauja	jauj1238		hotorwarm	2272	HOT OR WARM		akatraq	a k a + ʈʂ a + q
+266160	298820	crossandean-Lamas	sanm1289		hotorwarm	2272	HOT OR WARM		kuñu	k u ɲ u
+266161	298821	crossandean-Laraos	yauy1235		hotorwarm	2272	HOT OR WARM		aka.ča.q	a k a + tʃ a + q
+266162	298822	crossandean-Lincha-Tana	tana1291		hotorwarm	2272	HOT OR WARM		quni	q o n i
+266163	298823	crossandean-Maragua	sout2991		hotorwarm	2272	HOT OR WARM		q'uñi	qʼ u ɲ i
+266164	298824	crossandean-Napo	napo1242		hotorwarm	2272	HOT OR WARM		rupaj	r u p a
+266165	298825	crossandean-Pacaraos	paca1245		hotorwarm	2272	HOT OR WARM		quñu	χ o ɲ u
+266166	298826	crossandean-Pastaza	sout2990		hotorwarm	2272	HOT OR WARM		ɾupa	ɾ u p a
+266167	298827	crossandean-Pocona	coch1274		hotorwarm	2272	HOT OR WARM		rupha	r u pʰ a
+266168	298828	crossandean-Pocona	coch1274		hotorwarm	2272	HOT OR WARM		řupha	r̝ u pʰ a
+266169	298829	crossandean-Puno	puno1238		hotorwarm	2272	HOT OR WARM		q'uñi	qʼ u ɲ i
+266170	298830	crossandean-SanPedro	sanp1258		hotorwarm	2272	HOT OR WARM		quni	q o n i
+266171	298831	crossandean-Santiagueno	sant1432		hotorwarm	2272	HOT OR WARM		rupaq	ɾ u p a χ
+266172	298832	crossandean-Serena	tena1240		hotorwarm	2272	HOT OR WARM		rupa.k	r u p a k
+266173	298833	crossandean-Tarma	yaru1256		hotorwarm	2272	HOT OR WARM		aka	a k a
+266174	298834	crossandean-Tarma	yaru1256		hotorwarm	2272	HOT OR WARM		xunu	χ o n u
+266175	298835	crossandean-Troje	nort3351		hotorwarm	2272	HOT OR WARM		kunu.x	k u n u x
+266176	298836	crossandean-Yanac	coro1247		hotorwarm	2272	HOT OR WARM		ača.ča.q	a tʃ a + tʃ a + q
+274594	307254	hubercolumbian-Inga	inga1252		i	1209	I		núka	n u k a
+275520	308180	wold-ImbaburaQuechua	imba1240		i	1209	I		ñuka	ɲ u k a
+287441	320101	hubercolumbian-Inga	inga1252		kill	1417	KILL		waɲuʧíj	w a ɲ u tʃ i j
+288335	320995	wold-ImbaburaQuechua	imba1240		kill	1417	KILL		wañuchina	w a ɲ u tʃ i n a
+289986	322646	crossandean-Apuri	apur1253		knee	1371	KNEE		qunqur	q o n q o ɾ
+289987	322647	crossandean-Apurimac	east2551		knee	1371	KNEE		moqo	m o q o
+289988	322648	crossandean-Atalla	huan1249		knee	1371	KNEE		muχu	m u χ u
+289989	322649	crossandean-Ayacucho	ayac1239		knee	1371	KNEE		moqo	m o χ o
+289990	322650	crossandean-Azuay	azua1234		knee	1371	KNEE		cunguri	k u n g u ɾ i
+289991	322651	crossandean-Cacra-Hongos	cacr1238		knee	1371	KNEE		qunqur	q o n q o l
+289992	322652	crossandean-Chachapoyas	chac1250		knee	1371	KNEE		kunkuri	k u n g u r i
+289993	322653	crossandean-Chetilla	caja1238		knee	1371	KNEE		qunguri	q u n g u r i
+289994	322654	crossandean-Curva	apol1241		knee	1371	KNEE		qunqur	q u n q u r
+289995	322655	crossandean-Cuzco	cusc1236		knee	1371	KNEE		muqu	m u q u
+289996	322656	crossandean-Huallaga	hual1241		knee	1371	KNEE		qunqur	q u n q u r
+289997	322657	crossandean-Huanca	huay1241		knee	1371	KNEE		qunqul	ʔ u n ʔ u l
+289998	322658	crossandean-Huangascar	azan1238		knee	1371	KNEE		qunqur	q o n q o ɾ
+289999	322659	crossandean-HuarazHuailas	huai1241		knee	1371	KNEE		qonqor	q o ɲ q o ɾ
+290000	322660	crossandean-Inkawasi	lamb1276		knee	1371	KNEE		qunġuri	q u n ɢ u r i
+290002	322662	crossandean-Jauja	jauj1238		knee	1371	KNEE		qunqul	ʔ u n ʔ u l
+290004	322664	crossandean-Lamas	sanm1289		knee	1371	KNEE		kunkuri	k u n g u r i
+290005	322665	crossandean-Laraos	yauy1235		knee	1371	KNEE		qunqur	q u n q u r
+290006	322666	crossandean-Lincha-Tana	tana1291		knee	1371	KNEE		qunqur	q o n q o ɾ
+290007	322667	crossandean-Maragua	sout2991		knee	1371	KNEE		muqu	m u q u
+290008	322668	crossandean-Napo	napo1242		knee	1371	KNEE		cunguri	k u n g u r i
+290009	322669	crossandean-Pacaraos	paca1245		knee	1371	KNEE		qunqur	χ o ɴ χ u ɾ
+290010	322670	crossandean-Pastaza	sout2990		knee	1371	KNEE		cunguri	k u n g u r i
+290011	322671	crossandean-Pocona	coch1274		knee	1371	KNEE		čaki muγu	tʃ a k i + m u ʁ u
+290012	322672	crossandean-Puno	puno1238		knee	1371	KNEE		qunquri	q u n q u r i
+290013	322673	crossandean-SanPedro	sanp1258		knee	1371	KNEE		qunqur	q o n q o ɾ
+290014	322674	crossandean-Santiagueno	sant1432		knee	1371	KNEE		qonqori	q o ŋ q o ɾ i
+290015	322675	crossandean-Serena	tena1240		knee	1371	KNEE		muku	m u k u
+290016	322676	crossandean-Serena	tena1240		knee	1371	KNEE		kunguri	k u n g u r i
+290017	322677	crossandean-Tarma	yaru1256		knee	1371	KNEE		xun̊xur	χ o ɴ χ u ʐ
+290018	322678	crossandean-Troje	nort3351		knee	1371	KNEE		sampi	s a m p i
+290019	322679	crossandean-Yanac	coro1247		knee	1371	KNEE		qunquri	q u n q u r i
+290124	322784	hubercolumbian-Inga	inga1252		knee	1371	KNEE		kungúr	k u n g u r
+291229	323889	wold-ImbaburaQuechua	imba1240		knee	1371	KNEE		kunguri	k u ŋ g u ɾ i
+294243	326903	crossandean-Apuri	apur1253		knowsomething	1410	KNOW (SOMETHING)		yatra-	j a ʈ a
+294244	326904	crossandean-Apurimac	east2551		knowsomething	1410	KNOW (SOMETHING)		yacha	j a tʃ a
+294245	326905	crossandean-Atalla	huan1249		knowsomething	1410	KNOW (SOMETHING)		yača.	j a tʃ a
+294246	326906	crossandean-Ayacucho	ayac1239		knowsomething	1410	KNOW (SOMETHING)		yacha	j a tʃ a
+294247	326907	crossandean-Azuay	azua1234		knowsomething	1410	KNOW (SOMETHING)		yacha-na	j a tʃ a + n a
+294248	326908	crossandean-Cacra-Hongos	cacr1238		knowsomething	1410	KNOW (SOMETHING)		yatra-	j a ʈ a
+294249	326909	crossandean-Chachapoyas	chac1250		knowsomething	1410	KNOW (SOMETHING)		yaĉa	j a ʈʂ a
+294250	326910	crossandean-Chetilla	caja1238		knowsomething	1410	KNOW (SOMETHING)		yaĉa.	j a ʈʂ a
+294251	326911	crossandean-Curva	apol1241		knowsomething	1410	KNOW (SOMETHING)		yača.	j a tʃ a
+294252	326912	crossandean-Cuzco	cusc1236		knowsomething	1410	KNOW (SOMETHING)		yača.	j a tʃ a
+294253	326913	crossandean-Huallaga	hual1241		knowsomething	1410	KNOW (SOMETHING)		yača.	j a tʃ a
+294254	326914	crossandean-Huanca	huay1241		knowsomething	1410	KNOW (SOMETHING)		yatray	j a ʈʂ a
+294255	326915	crossandean-Huangascar	azan1238		knowsomething	1410	KNOW (SOMETHING)		yatra-	j a ʈ a
+294256	326916	crossandean-HuarazHuailas	huai1241		knowsomething	1410	KNOW (SOMETHING)		yachay	j a tʃ a
+294257	326917	crossandean-Inkawasi	lamb1276		knowsomething	1410	KNOW (SOMETHING)		yaĉa.	j a ʈʂ a
+294259	326919	crossandean-Jauja	jauj1238		knowsomething	1410	KNOW (SOMETHING)		yatray	j a ʈʂ a
+294261	326921	crossandean-Lamas	sanm1289		knowsomething	1410	KNOW (SOMETHING)		yacha	j a tʃ a
+294262	326922	crossandean-Laraos	yauy1235		knowsomething	1410	KNOW (SOMETHING)		yaĉa.	j a ʈʂ a
+294263	326923	crossandean-Lincha-Tana	tana1291		knowsomething	1410	KNOW (SOMETHING)		yatra-	j a ʈ a
+294264	326924	crossandean-Maragua	sout2991		knowsomething	1410	KNOW (SOMETHING)		yača.	j a tʃ a
+294265	326925	crossandean-Napo	napo1242		knowsomething	1410	KNOW (SOMETHING)		yachana	j a tʃ a + n a
+294266	326926	crossandean-Pacaraos	paca1245		knowsomething	1410	KNOW (SOMETHING)		yatra	j a ʈʂ a
+294267	326927	crossandean-Pastaza	sout2990		knowsomething	1410	KNOW (SOMETHING)		yachana	j a tʃ a + n a
+294268	326928	crossandean-Pocona	coch1274		knowsomething	1410	KNOW (SOMETHING)		yača.	j a tʃ a
+294269	326929	crossandean-Puno	puno1238		knowsomething	1410	KNOW (SOMETHING)		yača.	j a tʃ a
+294270	326930	crossandean-SanPedro	sanp1258		knowsomething	1410	KNOW (SOMETHING)		yatra-	j a ʈ a
+294271	326931	crossandean-Santiagueno	sant1432		knowsomething	1410	KNOW (SOMETHING)		yachay	j a tʃ a
+294272	326932	crossandean-Serena	tena1240		knowsomething	1410	KNOW (SOMETHING)		yača.	j a tʃ a
+294273	326933	crossandean-Tarma	yaru1256		knowsomething	1410	KNOW (SOMETHING)		yaĉa	j a ʈʂ a
+294274	326934	crossandean-Troje	nort3351		knowsomething	1410	KNOW (SOMETHING)		yača.	j a tʃ a
+294275	326935	crossandean-Yanac	coro1247		knowsomething	1410	KNOW (SOMETHING)		yaĉa.	j a ʈʂ a
+294341	327001	hubercolumbian-Inga	inga1252		knowsomething	1410	KNOW (SOMETHING)		jaʧáj	j a tʃ a j
+294872	327532	wold-ImbaburaQuechua	imba1240		knowsomething	1410	KNOW (SOMETHING)		yachana	j a tʃ a n a
+301896	334556	crossandean-Apuri	apur1253		leaf	628	LEAF		rapri	ɾ a p ɾ i
+301897	334557	crossandean-Apuri	apur1253		leaf	628	LEAF		yura	j u ɾ a
+301898	334558	crossandean-Apurimac	east2551		leaf	628	LEAF		rapi	r a p i
+301899	334559	crossandean-Atalla	huan1249		leaf	628	LEAF		rapi	r a p i
+301900	334560	crossandean-Ayacucho	ayac1239		leaf	628	LEAF		llaqe	ʎ a χ e
+301901	334561	crossandean-Ayacucho	ayac1239		leaf	628	LEAF		rapi	ɾ a p i
+301902	334562	crossandean-Azuay	azua1234		leaf	628	LEAF		panga	p a n g a
+301903	334563	crossandean-Cacra-Hongos	cacr1238		leaf	628	LEAF		lapla	l a p l a
+301904	334564	crossandean-Cacra-Hongos	cacr1238		leaf	628	LEAF		luya	ʃ u j a
+301905	334565	crossandean-Chachapoyas	chac1250		leaf	628	LEAF		rapra	r a p r a
+301906	334566	crossandean-Chetilla	caja1238		leaf	628	LEAF		rapra	r a p r a
+301907	334567	crossandean-Curva	apol1241		leaf	628	LEAF		raphi	r a pʰ i
+301908	334568	crossandean-Cuzco	cusc1236		leaf	628	LEAF		rap'i	r a pʼ i
+301909	334569	crossandean-Cuzco	cusc1236		leaf	628	LEAF		rapha	r a pʰ a
+301910	334570	crossandean-Cuzco	cusc1236		leaf	628	LEAF		rap'a	r a pʼ a
+301911	334571	crossandean-Cuzco	cusc1236		leaf	628	LEAF		raphi	r a pʰ i
+301912	334572	crossandean-Huallaga	hual1241		leaf	628	LEAF		rapra	r a p r a
+301913	334573	crossandean-Huanca	huay1241		leaf	628	LEAF		lapla	l a p l a
+301914	334574	crossandean-Huangascar	azan1238		leaf	628	LEAF		rapra	ɾ a p ɾ a
+301915	334575	crossandean-Huangascar	azan1238		leaf	628	LEAF		yura	j u ɾ a
+301916	334576	crossandean-HuarazHuailas	huai1241		leaf	628	LEAF		rapra	ɾ a p ɾ a
+301917	334577	crossandean-Inkawasi	lamb1276		leaf	628	LEAF		řapra	r̝ a p r a
+301919	334579	crossandean-Jauja	jauj1238		leaf	628	LEAF		lapla	l a p l a
+301921	334581	crossandean-Lamas	sanm1289		leaf	628	LEAF		rapra	r a p r a
+301922	334582	crossandean-Laraos	yauy1235		leaf	628	LEAF		lapra	l a p r a
+301923	334583	crossandean-Maragua	sout2991		leaf	628	LEAF		laqhi	l a qʰ i
+301924	334584	crossandean-Napo	napo1242		leaf	628	LEAF		panga	p a n g a
+301925	334585	crossandean-Pacaraos	paca1245		leaf	628	LEAF		rapra	ɾ a p ɾ a
+301926	334586	crossandean-Pastaza	sout2990		leaf	628	LEAF		panga	p a n g a
+301927	334587	crossandean-Pocona	coch1274		leaf	628	LEAF		laqhi	l a qʰ i
+301928	334588	crossandean-Puno	puno1238		leaf	628	LEAF		laphi	l a pʰ i
+301929	334589	crossandean-SanPedro	sanp1258		leaf	628	LEAF		rapra	ɾ a p ɾ a
+301930	334590	crossandean-Serena	tena1240		leaf	628	LEAF		panga	p a n g a
+301931	334591	crossandean-Tarma	yaru1256		leaf	628	LEAF		rapra	ʐ a p ɾ a
+301932	334592	crossandean-Troje	nort3351		leaf	628	LEAF		phanga	pʰ a n g a
+301933	334593	crossandean-Yanac	coro1247		leaf	628	LEAF		rapra	r a p r a
+302080	334740	hubercolumbian-Inga	inga1252		leaf	628	LEAF		pánga	p a n g a
+303207	335867	wold-ImbaburaQuechua	imba1240		leaf	628	LEAF		fanga	ɸ a ŋ g a
+316848	349508	hubercolumbian-Inga	inga1252		liver	1224	LIVER		súngu	s u n g u
+317680	350340	wold-ImbaburaQuechua	imba1240		liver	1224	LIVER		yana_shungu	j a n a + ʃ u ŋ g u
+319743	352403	hubercolumbian-Inga	inga1252		long	1203	LONG		súni	s u n i
+320733	353393	wold-ImbaburaQuechua	imba1240		long	1203	LONG		suni	s u n i
+323193	355853	crossandean-Apuri	apur1253		louse	1392	LOUSE		usa	u s a
+323194	355854	crossandean-Apurimac	east2551		louse	1392	LOUSE		usa	u s a
+323195	355855	crossandean-Atalla	huan1249		louse	1392	LOUSE		usa	u s a
+323196	355856	crossandean-Ayacucho	ayac1239		louse	1392	LOUSE		usa	u s a
+323197	355857	crossandean-Azuay	azua1234		louse	1392	LOUSE		usa	u s a
+323198	355858	crossandean-Cacra-Hongos	cacr1238		louse	1392	LOUSE		usa	u s a
+323199	355859	crossandean-Chachapoyas	chac1250		louse	1392	LOUSE		usa	u s a
+323200	355860	crossandean-Chetilla	caja1238		louse	1392	LOUSE		usa	u s a
+323201	355861	crossandean-Curva	apol1241		louse	1392	LOUSE		usa	u s a
+323202	355862	crossandean-Cuzco	cusc1236		louse	1392	LOUSE		usa	u s a
+323203	355863	crossandean-Huallaga	hual1241		louse	1392	LOUSE		usa	u s a
+323204	355864	crossandean-Huanca	huay1241		louse	1392	LOUSE		usa	u s a
+323205	355865	crossandean-Huangascar	azan1238		louse	1392	LOUSE		usa	u s a
+323206	355866	crossandean-HuarazHuailas	huai1241		louse	1392	LOUSE		uha	u x a
+323207	355867	crossandean-Inkawasi	lamb1276		louse	1392	LOUSE		lisu	l i s u
+323208	355868	crossandean-Inkawasi	lamb1276		louse	1392	LOUSE		lišu	l i ʃ u
+323210	355870	crossandean-Jauja	jauj1238		louse	1392	LOUSE		usa	u s a
+323212	355872	crossandean-Lamas	sanm1289		louse	1392	LOUSE		usa	u s a
+323213	355873	crossandean-Laraos	yauy1235		louse	1392	LOUSE		usa	u s a
+323214	355874	crossandean-Lincha-Tana	tana1291		louse	1392	LOUSE		usa	u s a
+323215	355875	crossandean-Maragua	sout2991		louse	1392	LOUSE		usa	u s a
+323216	355876	crossandean-Napo	napo1242		louse	1392	LOUSE		usa	u s a
+323217	355877	crossandean-Pacaraos	paca1245		louse	1392	LOUSE		uwa	u w a
+323218	355878	crossandean-Pastaza	sout2990		louse	1392	LOUSE		usa	u s a
+323219	355879	crossandean-Pocona	coch1274		louse	1392	LOUSE		usa	u s a
+323220	355880	crossandean-Puno	puno1238		louse	1392	LOUSE		usa	u s a
+323221	355881	crossandean-SanPedro	sanp1258		louse	1392	LOUSE		usa	u s a
+323222	355882	crossandean-Santiagueno	sant1432		louse	1392	LOUSE		usa	u s a
+323223	355883	crossandean-Serena	tena1240		louse	1392	LOUSE		usa	u s a
+323224	355884	crossandean-Tarma	yaru1256		louse	1392	LOUSE		uwa	u w a
+323225	355885	crossandean-Troje	nort3351		louse	1392	LOUSE		usa	u s a
+323226	355886	crossandean-Yanac	coro1247		louse	1392	LOUSE		usa	u s a
+323397	356057	hubercolumbian-Inga	inga1252		louse	1392	LOUSE		úsa	u s a
+330168	362829	crossandean-Apuri	apur1253		man	1554	MAN		qari	q a ɾ i
+330169	362830	crossandean-Apurimac	east2551		man	1554	MAN		qari	q a r i
+330170	362831	crossandean-Atalla	huan1249		man	1554	MAN		χari	χ a r i
+330171	362832	crossandean-Ayacucho	ayac1239		man	1554	MAN		qari	χ a ɾ i
+330172	362833	crossandean-Azuay	azua1234		man	1554	MAN		cari	k a ɾ i
+330173	362834	crossandean-Cacra-Hongos	cacr1238		man	1554	MAN		qali	q a l i
+330174	362835	crossandean-Chachapoyas	chac1250		man	1554	MAN		ullku	u dʑ k u
+330175	362836	crossandean-Chetilla	caja1238		man	1554	MAN		udžγu	u ʎ ʁ u
+330176	362837	crossandean-Curva	apol1241		man	1554	MAN		qhari	qʰ a r i
+330177	362838	crossandean-Cuzco	cusc1236		man	1554	MAN		qhari	qʰ a r i
+330178	362839	crossandean-Huallaga	hual1241		man	1554	MAN		uλqu	u ʎ q u
+330179	362840	crossandean-Huanca	huay1241		man	1554	MAN		kari	k a ɾ i
+330180	362841	crossandean-Huangascar	azan1238		man	1554	MAN		qari	q a ɾ i
+330181	362842	crossandean-HuarazHuailas	huai1241		man	1554	MAN		ollqu	o ʎ q u
+330182	362843	crossandean-Inkawasi	lamb1276		man	1554	MAN		užġu	u ʒ ɢ u
+330184	362845	crossandean-Jauja	jauj1238		man	1554	MAN		ullqu	u ʎ ʔ u
+330186	362847	crossandean-Lamas	sanm1289		man	1554	MAN		ullku	u dʑ k u
+330187	362848	crossandean-Laraos	yauy1235		man	1554	MAN		qari	q a r i
+330188	362849	crossandean-Lincha-Tana	tana1291		man	1554	MAN		qari	q a ɾ i
+330189	362850	crossandean-Maragua	sout2991		man	1554	MAN		qhari	qʰ a r i
+330190	362851	crossandean-Napo	napo1242		man	1554	MAN		cari	k a r i
+330191	362852	crossandean-Pacaraos	paca1245		man	1554	MAN		ulqu	u l χ o
+330192	362853	crossandean-Pastaza	sout2990		man	1554	MAN		cari	k a r i
+330193	362854	crossandean-Pocona	coch1274		man	1554	MAN		qhari	qʰ a r i
+330194	362855	crossandean-Puno	puno1238		man	1554	MAN		qhari	qʰ a r i
+330195	362856	crossandean-SanPedro	sanp1258		man	1554	MAN		qari	q a ɾ i
+330196	362857	crossandean-Santiagueno	sant1432		man	1554	MAN		qari	q a ɾ i
+330197	362858	crossandean-Serena	tena1240		man	1554	MAN		kari	k a r i
+330198	362859	crossandean-Tarma	yaru1256		man	1554	MAN		ulxu	o l χ u
+330199	362860	crossandean-Troje	nort3351		man	1554	MAN		khari	kʰ a r i
+330200	362861	crossandean-Yanac	coro1247		man	1554	MAN		uλqu	u ʎ q u
+330351	363012	hubercolumbian-Inga	inga1252		man	1554	MAN		rúna	r u n a
+331480	364141	wold-ImbaburaQuechua	imba1240		man	1554	MAN		kari	k a ɾ i
+331971	364632	crossandean-Apuri	apur1253		many	1198	MANY		achka	a tʃ k a
+331972	364633	crossandean-Apurimac	east2551		many	1198	MANY		aska	a s k a
+331973	364634	crossandean-Apurimac	east2551		many	1198	MANY		nisyu	n i s j u
+331974	364635	crossandean-Atalla	huan1249		many	1198	MANY		ačka	a tʃ k a
+331975	364636	crossandean-Ayacucho	ayac1239		many	1198	MANY		achka	a tʃ k a
+331976	364637	crossandean-Azuay	azua1234		many	1198	MANY		achca	a tʃ k a
+331977	364638	crossandean-Cacra-Hongos	cacr1238		many	1198	MANY		achka	a tʃ k a
+331978	364639	crossandean-Chetilla	caja1238		many	1198	MANY		ačka	a tʃ k a
+331979	364640	crossandean-Curva	apol1241		many	1198	MANY		ačkha	a tʃ kʰ a
+331980	364641	crossandean-Cuzco	cusc1236		many	1198	MANY		askha	a s kʰ a
+331981	364642	crossandean-Huallaga	hual1241		many	1198	MANY		ačka	a tʃ k a
+331982	364643	crossandean-Huanca	huay1241		many	1198	MANY		achka	a tʃ k a
+331983	364644	crossandean-Huangascar	azan1238		many	1198	MANY		achka	a tʃ k a
+331984	364645	crossandean-HuarazHuailas	huai1241		many	1198	MANY		atska	a tʃ k a
+331985	364646	crossandean-Inkawasi	lamb1276		many	1198	MANY		ačka	a tʃ k a
+331987	364648	crossandean-Jauja	jauj1238		many	1198	MANY		achka	a tʃ k a
+331989	364650	crossandean-Lamas	sanm1289		many	1198	MANY		achka	a tʃ k a
+331990	364651	crossandean-Laraos	yauy1235		many	1198	MANY		ačka	a tʃ k a
+331991	364652	crossandean-Lincha-Tana	tana1291		many	1198	MANY		achka	a tʃ k a
+331992	364653	crossandean-Maragua	sout2991		many	1198	MANY		aškha.s	a ʃ kʰ a + s
+331993	364654	crossandean-Napo	napo1242		many	1198	MANY		ashca	a ʃ k a
+331994	364655	crossandean-Pacaraos	paca1245		many	1198	MANY		isisii	i s i s iː
+331995	364656	crossandean-Pastaza	sout2990		many	1198	MANY		achca	a tʃ k a
+331996	364657	crossandean-Pastaza	sout2990		many	1198	MANY		yapa	j a p a
+331997	364658	crossandean-Pocona	coch1274		many	1198	MANY		aškha	a ʃ kʰ a
+331998	364659	crossandean-Puno	puno1238		many	1198	MANY		aškha	a ʃ kʰ a
+331999	364660	crossandean-SanPedro	sanp1258		many	1198	MANY		achka	a tʃ k a
+332000	364661	crossandean-Santiagueno	sant1432		many	1198	MANY		achka	a tʃ k a
+332001	364662	crossandean-Serena	tena1240		many	1198	MANY		aška	a ʃ k a
+332002	364663	crossandean-Tarma	yaru1256		many	1198	MANY		ačka	a tʃ k a
+332003	364664	crossandean-Troje	nort3351		many	1198	MANY		ačka	a tʃ k a
+332004	364665	crossandean-Yanac	coro1247		many	1198	MANY		atska	a ts k a
+332152	364813	hubercolumbian-Inga	inga1252		many	1198	MANY		áʧka	a tʃ k a
+332947	365608	wold-ImbaburaQuechua	imba1240		many	1198	MANY		achka	a tʃ k a
+344159	376820	crossandean-Apuri	apur1253		moon	1313	MOON		killa	k i ʎ a
+344160	376821	crossandean-Apurimac	east2551		moon	1313	MOON		killa	k i ʎ a
+344161	376822	crossandean-Atalla	huan1249		moon	1313	MOON		kiλa	k i ʎ a
+344162	376823	crossandean-Ayacucho	ayac1239		moon	1313	MOON		killa	k i ʎ a
+344163	376824	crossandean-Azuay	azua1234		moon	1313	MOON		quilla	k i ʎ a
+344164	376825	crossandean-Cacra-Hongos	cacr1238		moon	1313	MOON		killa	k i ʎ a
+344165	376826	crossandean-Chachapoyas	chac1250		moon	1313	MOON		killa	k i dʑ a
+344166	376827	crossandean-Chetilla	caja1238		moon	1313	MOON		kidya	k i dʑ a
+344167	376828	crossandean-Curva	apol1241		moon	1313	MOON		kiλa	k i ʎ a
+344168	376829	crossandean-Cuzco	cusc1236		moon	1313	MOON		kiλa	k i ʎ a
+344169	376830	crossandean-Huallaga	hual1241		moon	1313	MOON		kiλa	k i ʎ a
+344170	376831	crossandean-Huanca	huay1241		moon	1313	MOON		killa	k i ʎ a
+344171	376832	crossandean-Huangascar	azan1238		moon	1313	MOON		killa	k i ʎ a
+344172	376833	crossandean-HuarazHuailas	huai1241		moon	1313	MOON		killa	k i ʎ a
+344173	376834	crossandean-Inkawasi	lamb1276		moon	1313	MOON		kiža	k i ʒ a
+344175	376836	crossandean-Jauja	jauj1238		moon	1313	MOON		killa	k i ʎ a
+344177	376838	crossandean-Lamas	sanm1289		moon	1313	MOON		killa	k i dʑ a
+344178	376839	crossandean-Laraos	yauy1235		moon	1313	MOON		kiλa	k i ʎ a
+344179	376840	crossandean-Lincha-Tana	tana1291		moon	1313	MOON		killa	k i ʎ a
+344180	376841	crossandean-Maragua	sout2991		moon	1313	MOON		kiλa	k i ʎ a
+344181	376842	crossandean-Napo	napo1242		moon	1313	MOON		quilla	k i ʎ a
+344182	376843	crossandean-Pacaraos	paca1245		moon	1313	MOON		kila	k i l a
+344183	376844	crossandean-Pastaza	sout2990		moon	1313	MOON		quilla	k i ʎ a
+344184	376845	crossandean-Pocona	coch1274		moon	1313	MOON		kiλa	k i ʎ a
+344185	376846	crossandean-Puno	puno1238		moon	1313	MOON		kiλa	k i ʎ a
+344186	376847	crossandean-SanPedro	sanp1258		moon	1313	MOON		killa	k i ʎ a
+344187	376848	crossandean-Santiagueno	sant1432		moon	1313	MOON		killa	k i ʒ a
+344188	376849	crossandean-Serena	tena1240		moon	1313	MOON		kiλa	k i ʎ a
+344189	376850	crossandean-Tarma	yaru1256		moon	1313	MOON		kila	k i l a
+344190	376851	crossandean-Troje	nort3351		moon	1313	MOON		kiža	k i ʒ a
+344191	376852	crossandean-Yanac	coro1247		moon	1313	MOON		kiλa	k i ʎ a
+344344	377005	hubercolumbian-Inga	inga1252		moon	1313	MOON		kílʲa	k i lʲ a
+345514	378175	wold-ImbaburaQuechua	imba1240		moon	1313	MOON		killa	k i ʒ a
+350669	383333	crossandean-Apuri	apur1253		mountain	639	MOUNTAIN		urqu	o ɾ q u
+350670	383334	crossandean-Apurimac	east2551		mountain	639	MOUNTAIN		orqo	o r q o
+350671	383335	crossandean-Apurimac	east2551		mountain	639	MOUNTAIN		qirka	q i r k a
+350672	383336	crossandean-Atalla	huan1249		mountain	639	MOUNTAIN		urġu	u r ɢ u
+350673	383337	crossandean-Ayacucho	ayac1239		mountain	639	MOUNTAIN		orqo	o ɾ χ o
+350674	383338	crossandean-Azuay	azua1234		mountain	639	MOUNTAIN		urcu	u ɾ k u
+350675	383339	crossandean-Cacra-Hongos	cacr1238		mountain	639	MOUNTAIN		urqu	o l q u
+350676	383340	crossandean-Chachapoyas	chac1250		mountain	639	MOUNTAIN		urku	u r k u
+350677	383341	crossandean-Chetilla	caja1238		mountain	639	MOUNTAIN		urqu	u r q u
+350678	383342	crossandean-Curva	apol1241		mountain	639	MOUNTAIN		urqu	u r q u
+350679	383343	crossandean-Cuzco	cusc1236		mountain	639	MOUNTAIN		urqu	u r q u
+350680	383344	crossandean-Huallaga	hual1241		mountain	639	MOUNTAIN		hirka	h i r k a
+350681	383345	crossandean-Huanca	huay1241		mountain	639	MOUNTAIN		ulqu	u l ʔ u
+350682	383346	crossandean-Huangascar	azan1238		mountain	639	MOUNTAIN		urqu	o ɾ q u
+350683	383347	crossandean-HuarazHuailas	huai1241		mountain	639	MOUNTAIN		hirka	x i ɾ k a
+350684	383348	crossandean-Inkawasi	lamb1276		mountain	639	MOUNTAIN		χaγa	χ a ʁ a
+350686	383350	crossandean-Jauja	jauj1238		mountain	639	MOUNTAIN		ulqu	u l ʔ u
+350688	383352	crossandean-Lamas	sanm1289		mountain	639	MOUNTAIN		urku	u r k u
+350689	383353	crossandean-Laraos	yauy1235		mountain	639	MOUNTAIN		urqu	u r q u
+350690	383354	crossandean-Lincha-Tana	tana1291		mountain	639	MOUNTAIN		urqu	o ɾ q u
+350691	383355	crossandean-Maragua	sout2991		mountain	639	MOUNTAIN		urqu	u r q u
+350692	383356	crossandean-Napo	napo1242		mountain	639	MOUNTAIN		urcu	u r k u
+350693	383357	crossandean-Pacaraos	paca1245		mountain	639	MOUNTAIN		hirka	x i ɾ k a
+350694	383358	crossandean-Pastaza	sout2990		mountain	639	MOUNTAIN		urcu	u r k u
+350695	383359	crossandean-Pocona	coch1274		mountain	639	MOUNTAIN		urγu	u r ʁ u
+350696	383360	crossandean-Puno	puno1238		mountain	639	MOUNTAIN		urqu	u r q u
+350697	383361	crossandean-SanPedro	sanp1258		mountain	639	MOUNTAIN		urqu	o ɾ q u
+350698	383362	crossandean-Santiagueno	sant1432		mountain	639	MOUNTAIN		orqo	o ɾ q o
+350699	383363	crossandean-Serena	tena1240		mountain	639	MOUNTAIN		urku	u r k u
+350700	383364	crossandean-Tarma	yaru1256		mountain	639	MOUNTAIN		hirka	x i ɾ k a
+350701	383365	crossandean-Troje	nort3351		mountain	639	MOUNTAIN		urku	u r k u
+350702	383366	crossandean-Yanac	coro1247		mountain	639	MOUNTAIN		qaqa	q a q a
+350823	383487	hubercolumbian-Inga	inga1252		mountain	639	MOUNTAIN		awa saʧúku	a w a + s a tʃ u k u
+353198	385862	crossandean-Apuri	apur1253		mouth	674	MOUTH		shimi	ʃ i m i
+353199	385863	crossandean-Apurimac	east2551		mouth	674	MOUTH		simi	s i m i
+353200	385864	crossandean-Atalla	huan1249		mouth	674	MOUTH		simi	s i m i
+353201	385865	crossandean-Ayacucho	ayac1239		mouth	674	MOUTH		simi	s i m i
+353202	385866	crossandean-Azuay	azua1234		mouth	674	MOUTH		shimi	ʃ i m i
+353203	385867	crossandean-Cacra-Hongos	cacr1238		mouth	674	MOUTH		shimi	ʃ i m i
+353204	385868	crossandean-Chachapoyas	chac1250		mouth	674	MOUTH		shimi	ʃ i m i
+353205	385869	crossandean-Chetilla	caja1238		mouth	674	MOUTH		šimi	ʃ i m i
+353206	385870	crossandean-Curva	apol1241		mouth	674	MOUTH		simi	s i m i
+353207	385871	crossandean-Cuzco	cusc1236		mouth	674	MOUTH		simi	s i m i
+353208	385872	crossandean-Huallaga	hual1241		mouth	674	MOUTH		šimi	ʃ i m i
+353209	385873	crossandean-Huanca	huay1241		mouth	674	MOUTH		shimi	ʃ i m i
+353210	385874	crossandean-Huangascar	azan1238		mouth	674	MOUTH		shimi	ʃ i m i
+353211	385875	crossandean-HuarazHuailas	huai1241		mouth	674	MOUTH		shimi	ʃ i m i
+353212	385876	crossandean-Inkawasi	lamb1276		mouth	674	MOUTH		šimi	ʃ i m i
+353214	385878	crossandean-Jauja	jauj1238		mouth	674	MOUTH		shimi	ʃ i m i
+353216	385880	crossandean-Lamas	sanm1289		mouth	674	MOUTH		shimi	ʃ i m i
+353217	385881	crossandean-Laraos	yauy1235		mouth	674	MOUTH		šimi	ʃ i m i
+353218	385882	crossandean-Lincha-Tana	tana1291		mouth	674	MOUTH		shimi	ʃ i m i
+353219	385883	crossandean-Maragua	sout2991		mouth	674	MOUTH		simi	s i m i
+353220	385884	crossandean-Napo	napo1242		mouth	674	MOUTH		shimi	ʃ i m i
+353221	385885	crossandean-Pacaraos	paca1245		mouth	674	MOUTH		shimi	ʃ i m i
+353222	385886	crossandean-Pastaza	sout2990		mouth	674	MOUTH		shimi	ʃ i m i
+353223	385887	crossandean-Pocona	coch1274		mouth	674	MOUTH		simi	s i m i
+353224	385888	crossandean-Puno	puno1238		mouth	674	MOUTH		simi	s i m i
+353225	385889	crossandean-SanPedro	sanp1258		mouth	674	MOUTH		shimi	ʃ i m i
+353226	385890	crossandean-Santiagueno	sant1432		mouth	674	MOUTH		simi	s i m i
+353227	385891	crossandean-Serena	tena1240		mouth	674	MOUTH		šimi	ʃ i m i
+353228	385892	crossandean-Tarma	yaru1256		mouth	674	MOUTH		šimi	ʃ i m i
+353229	385893	crossandean-Troje	nort3351		mouth	674	MOUTH		šimi	ʃ i m i
+353230	385894	crossandean-Yanac	coro1247		mouth	674	MOUTH		šimi	ʃ i m i
+353330	385994	hubercolumbian-Inga	inga1252		mouth	674	MOUTH		sími	s i m i
+354513	387177	wold-ImbaburaQuechua	imba1240		mouth	674	MOUTH		shimi	ʃ i m i
+358173	390837	crossandean-Apuri	apur1253		name	1405	NAME		suti	s u t i
+358174	390838	crossandean-Apurimac	east2551		name	1405	NAME		suti	s u t i
+358175	390839	crossandean-Atalla	huan1249		name	1405	NAME		suti	s u t i
+358176	390840	crossandean-Ayacucho	ayac1239		name	1405	NAME		suti	s u t i
+358177	390841	crossandean-Azuay	azua1234		name	1405	NAME		shuti	ʃ u t i
+358178	390842	crossandean-Cacra-Hongos	cacr1238		name	1405	NAME		suti	h u t i
+358179	390843	crossandean-Chachapoyas	chac1250		name	1405	NAME		shuti	ʃ u t i
+358180	390844	crossandean-Chetilla	caja1238		name	1405	NAME		šuti	ʃ u t i
+358181	390845	crossandean-Curva	apol1241		name	1405	NAME		suti	s u t i
+358182	390846	crossandean-Cuzco	cusc1236		name	1405	NAME		suti	s u t i
+358183	390847	crossandean-Huallaga	hual1241		name	1405	NAME		huti	h u t i
+358184	390848	crossandean-Huanca	huay1241		name	1405	NAME		suti	s u t i
+358185	390849	crossandean-Huangascar	azan1238		name	1405	NAME		suti	s u t i
+358186	390850	crossandean-HuarazHuailas	huai1241		name	1405	NAME		huti	x u t i
+358187	390851	crossandean-Inkawasi	lamb1276		name	1405	NAME		šuti	ʃ u t i
+358189	390853	crossandean-Jauja	jauj1238		name	1405	NAME		suti	s u t i
+358191	390855	crossandean-Lamas	sanm1289		name	1405	NAME		shuti	ʃ u t i
+358192	390856	crossandean-Laraos	yauy1235		name	1405	NAME		suti	s u t i
+358193	390857	crossandean-Lincha-Tana	tana1291		name	1405	NAME		suti	s u t i
+358194	390858	crossandean-Maragua	sout2991		name	1405	NAME		suti	s u t i
+358195	390859	crossandean-Napo	napo1242		name	1405	NAME		shuti	ʃ u t i
+358196	390860	crossandean-Pacaraos	paca1245		name	1405	NAME		huti	x u t i
+358197	390861	crossandean-Pastaza	sout2990		name	1405	NAME		shuti	ʃ u t i
+358198	390862	crossandean-Pocona	coch1274		name	1405	NAME		suti	s u t i
+358199	390863	crossandean-Puno	puno1238		name	1405	NAME		suti	s u t i
+358200	390864	crossandean-SanPedro	sanp1258		name	1405	NAME		suti	s u t i
+358201	390865	crossandean-Santiagueno	sant1432		name	1405	NAME		suti	s u t i
+358202	390866	crossandean-Serena	tena1240		name	1405	NAME		šuti	ʃ u t i
+358203	390867	crossandean-Tarma	yaru1256		name	1405	NAME		xuti	χ o t i
+358204	390868	crossandean-Troje	nort3351		name	1405	NAME		šuti	ʃ u t i
+358205	390869	crossandean-Yanac	coro1247		name	1405	NAME		šuti	ʃ u t i
+358350	391014	hubercolumbian-Inga	inga1252		name	1405	NAME		súti	s u t i
+359343	392009	wold-ImbaburaQuechua	imba1240		name	1405	NAME		shuti	ʃ u t i
+364463	397130	crossandean-Apuri	apur1253		neck	1333	NECK		kunka	k u n k a
+364464	397131	crossandean-Apurimac	east2551		neck	1333	NECK		kunka	k u n k a
+364465	397132	crossandean-Atalla	huan1249		neck	1333	NECK		kunka	k u n k a
+364466	397133	crossandean-Ayacucho	ayac1239		neck	1333	NECK		kunka	k u n k a
+364467	397134	crossandean-Azuay	azua1234		neck	1333	NECK		cunga	k u n g a
+364468	397135	crossandean-Cacra-Hongos	cacr1238		neck	1333	NECK		kunka	k u n k a
+364469	397136	crossandean-Chachapoyas	chac1250		neck	1333	NECK		kunka	k u n g a
+364470	397137	crossandean-Chetilla	caja1238		neck	1333	NECK		kunga	k u n g a
+364471	397138	crossandean-Curva	apol1241		neck	1333	NECK		kunka	k u n k a
+364472	397139	crossandean-Cuzco	cusc1236		neck	1333	NECK		kunka	k u n k a
+364473	397140	crossandean-Huallaga	hual1241		neck	1333	NECK		kunka	k u n k a
+364474	397141	crossandean-Huanca	huay1241		neck	1333	NECK		kunka	k u n k a
+364475	397142	crossandean-Huangascar	azan1238		neck	1333	NECK		kunka	k u n k a
+364476	397143	crossandean-HuarazHuailas	huai1241		neck	1333	NECK		kunka	k u ɲ k a
+364477	397144	crossandean-Inkawasi	lamb1276		neck	1333	NECK		kunga	k u n g a
+364479	397146	crossandean-Jauja	jauj1238		neck	1333	NECK		kunka	k u n k a
+364481	397148	crossandean-Lamas	sanm1289		neck	1333	NECK		kunka	k u n g a
+364482	397149	crossandean-Laraos	yauy1235		neck	1333	NECK		kunka	k u n k a
+364483	397150	crossandean-Lincha-Tana	tana1291		neck	1333	NECK		kunka	k u n k a
+364484	397151	crossandean-Maragua	sout2991		neck	1333	NECK		kunka	k u n k a
+364485	397152	crossandean-Napo	napo1242		neck	1333	NECK		cunga	k u n g a
+364486	397153	crossandean-Pacaraos	paca1245		neck	1333	NECK		kunka	k u ŋ k a
+364487	397154	crossandean-Pastaza	sout2990		neck	1333	NECK		cunga	k u n g a
+364488	397155	crossandean-Pocona	coch1274		neck	1333	NECK		kunka	k u n k a
+364489	397156	crossandean-Puno	puno1238		neck	1333	NECK		kunka	k u n k a
+364490	397157	crossandean-SanPedro	sanp1258		neck	1333	NECK		kunka	k u n k a
+364491	397158	crossandean-Santiagueno	sant1432		neck	1333	NECK		kunka	k u ŋ k a
+364492	397159	crossandean-Serena	tena1240		neck	1333	NECK		kunga	k u n g a
+364493	397160	crossandean-Tarma	yaru1256		neck	1333	NECK		kun̊ka	k u ŋ k a
+364494	397161	crossandean-Troje	nort3351		neck	1333	NECK		kunga	k u n g a
+364495	397162	crossandean-Yanac	coro1247		neck	1333	NECK		kunka	k u n k a
+364636	397303	hubercolumbian-Inga	inga1252		neck	1333	NECK		kúnga	k u n g a
+365788	398455	wold-ImbaburaQuechua	imba1240		neck	1333	NECK		kunga	k u ŋ g a
+368533	401200	crossandean-Apuri	apur1253		new	1231	NEW		mushuq	m u ʃ o q
+368534	401201	crossandean-Apurimac	east2551		new	1231	NEW		mosoq	m o s o q
+368535	401202	crossandean-Apurimac	east2551		new	1231	NEW		musuq	m u s u q
+368536	401203	crossandean-Atalla	huan1249		new	1231	NEW		musuχ	m u s u χ
+368537	401204	crossandean-Ayacucho	ayac1239		new	1231	NEW		mosoq	m o s o χ
+368538	401205	crossandean-Azuay	azua1234		new	1231	NEW		mushug	m u ʃ u g
+368539	401206	crossandean-Cacra-Hongos	cacr1238		new	1231	NEW		mushuq	m u ʃ o q
+368540	401207	crossandean-Chachapoyas	chac1250		new	1231	NEW		mushuk	m u ʃ u k
+368541	401208	crossandean-Chetilla	caja1238		new	1231	NEW		mušuχ	m u ʃ u χ
+368542	401209	crossandean-Curva	apol1241		new	1231	NEW		musuχ	m u s u χ
+368543	401210	crossandean-Cuzco	cusc1236		new	1231	NEW		musuχ	m u s u χ
+368544	401211	crossandean-Huallaga	hual1241		new	1231	NEW		mušuχ	m u ʃ u χ
+368545	401212	crossandean-Huanca	huay1241		new	1231	NEW		mushuq	m u ʂ u ʔ
+368546	401213	crossandean-Huangascar	azan1238		new	1231	NEW		mushuq	m u ʃ o q
+368547	401214	crossandean-HuarazHuailas	huai1241		new	1231	NEW		mushoq	m u ʃ o q
+368548	401215	crossandean-Inkawasi	lamb1276		new	1231	NEW		mušux	m u ʃ u x
+368550	401217	crossandean-Jauja	jauj1238		new	1231	NEW		mushuq	m u ʂ u ʔ
+368552	401219	crossandean-Lamas	sanm1289		new	1231	NEW		mushuk	m u ʃ u k
+368553	401220	crossandean-Laraos	yauy1235		new	1231	NEW		mušuq	m u ʃ u q
+368554	401221	crossandean-Lincha-Tana	tana1291		new	1231	NEW		mushuq	m u ʃ o q
+368555	401222	crossandean-Maragua	sout2991		new	1231	NEW		musuχ	m u s u χ
+368556	401223	crossandean-Napo	napo1242		new	1231	NEW		mushuj	m u ʃ u
+368557	401224	crossandean-Pacaraos	paca1245		new	1231	NEW		mushuq	m u ʃ o χ
+368558	401225	crossandean-Pastaza	sout2990		new	1231	NEW		mushu	m u ʃ u
+368559	401226	crossandean-Pocona	coch1274		new	1231	NEW		musuχ	m u s u χ
+368560	401227	crossandean-Puno	puno1238		new	1231	NEW		musuχ	m u s u χ
+368561	401228	crossandean-SanPedro	sanp1258		new	1231	NEW		mushuq	m u ʃ o q
+368562	401229	crossandean-Santiagueno	sant1432		new	1231	NEW		mosoq	m o s o χ
+368563	401230	crossandean-Serena	tena1240		new	1231	NEW		mušux	m u ʃ u x
+368564	401231	crossandean-Tarma	yaru1256		new	1231	NEW		mušux	m u ʃ o χ
+368565	401232	crossandean-Troje	nort3351		new	1231	NEW		mušux	m u ʃ u x
+368566	401233	crossandean-Yanac	coro1247		new	1231	NEW		mušuq	m u ʃ u q
+368696	401363	hubercolumbian-Inga	inga1252		new	1231	NEW		músu	m u s u
+369685	402352	wold-ImbaburaQuechua	imba1240		new	1231	NEW		mushuj	m u ʃ u x
+371287	403954	crossandean-Apuri	apur1253		night	1233	NIGHT		tuta	t u t a
+371288	403955	crossandean-Apurimac	east2551		night	1233	NIGHT		tuta	t u t a
+371289	403956	crossandean-Atalla	huan1249		night	1233	NIGHT		tuta	t u t a
+371290	403957	crossandean-Ayacucho	ayac1239		night	1233	NIGHT		tuta	t u t a
+371291	403958	crossandean-Azuay	azua1234		night	1233	NIGHT		tuta	t u t a
+371292	403959	crossandean-Cacra-Hongos	cacr1238		night	1233	NIGHT		tuta	t u t a
+371293	403960	crossandean-Chachapoyas	chac1250		night	1233	NIGHT		tuta	t u t a
+371294	403961	crossandean-Chetilla	caja1238		night	1233	NIGHT		tuta	t u t a
+371295	403962	crossandean-Curva	apol1241		night	1233	NIGHT		tuta	t u t a
+371296	403963	crossandean-Cuzco	cusc1236		night	1233	NIGHT		tuta	t u t a
+371297	403964	crossandean-Huallaga	hual1241		night	1233	NIGHT		čaka.y	tʃ a k ai
+371298	403965	crossandean-Huanca	huay1241		night	1233	NIGHT		tuta	t u t a
+371299	403966	crossandean-Huangascar	azan1238		night	1233	NIGHT		tuta	t u t a
+371300	403967	crossandean-HuarazHuailas	huai1241		night	1233	NIGHT		paqas	p a q a s
+371301	403968	crossandean-HuarazHuailas	huai1241		night	1233	NIGHT		tsaqay	tʃ a q ai
+371302	403969	crossandean-Inkawasi	lamb1276		night	1233	NIGHT		tuta	t u t a
+371304	403971	crossandean-Jauja	jauj1238		night	1233	NIGHT		tuta	t u t a
+371306	403973	crossandean-Lamas	sanm1289		night	1233	NIGHT		tuta	t u t a
+371307	403974	crossandean-Laraos	yauy1235		night	1233	NIGHT		tuta	t u t a
+371308	403975	crossandean-Lincha-Tana	tana1291		night	1233	NIGHT		tuta	t u t a
+371309	403976	crossandean-Maragua	sout2991		night	1233	NIGHT		tuta	t u t a
+371310	403977	crossandean-Napo	napo1242		night	1233	NIGHT		tuta	t u t a
+371311	403978	crossandean-Pacaraos	paca1245		night	1233	NIGHT		waray	w a ɾ ai
+371312	403979	crossandean-Pocona	coch1274		night	1233	NIGHT		tuta	t u t a
+371313	403980	crossandean-Puno	puno1238		night	1233	NIGHT		tuta	t u t a
+371314	403981	crossandean-SanPedro	sanp1258		night	1233	NIGHT		tuta	t u t a
+371315	403982	crossandean-Santiagueno	sant1432		night	1233	NIGHT		tuta	t u t a
+371316	403983	crossandean-Serena	tena1240		night	1233	NIGHT		tuta	t u t a
+371317	403984	crossandean-Tarma	yaru1256		night	1233	NIGHT		paxas	p a χ a s
+371318	403985	crossandean-Troje	nort3351		night	1233	NIGHT		tuta	t u t a
+371319	403986	crossandean-Yanac	coro1247		night	1233	NIGHT		paġa.s	p a ɢ a s
+371467	404134	hubercolumbian-Inga	inga1252		night	1233	NIGHT		túta	t u t a
+372628	405295	wold-ImbaburaQuechua	imba1240		night	1233	NIGHT		tuta	t u t a
+377123	409790	crossandean-Apuri	apur1253		nose	1221	NOSE		sinqa	s e ŋ q a
+377124	409791	crossandean-Apurimac	east2551		nose	1221	NOSE		senqa	s e n q a
+377125	409792	crossandean-Atalla	huan1249		nose	1221	NOSE		sinġa	s i n ɢ a
+377126	409793	crossandean-Ayacucho	ayac1239		nose	1221	NOSE		senqa	s e ŋ χ a
+377127	409794	crossandean-Azuay	azua1234		nose	1221	NOSE		singa	s i n g a
+377128	409795	crossandean-Cacra-Hongos	cacr1238		nose	1221	NOSE		sinqa	s e ŋ q a
+377129	409796	crossandean-Chachapoyas	chac1250		nose	1221	NOSE		sinka	s i n g a
+377130	409797	crossandean-Chetilla	caja1238		nose	1221	NOSE		singa	s i n g a
+377131	409798	crossandean-Curva	apol1241		nose	1221	NOSE		sinqa	s i n q a
+377132	409799	crossandean-Cuzco	cusc1236		nose	1221	NOSE		sinqa	s i n q a
+377133	409800	crossandean-Huallaga	hual1241		nose	1221	NOSE		sinqa	s i n q a
+377134	409801	crossandean-Huanca	huay1241		nose	1221	NOSE		sinqa	s i n ʔ a
+377135	409802	crossandean-Huangascar	azan1238		nose	1221	NOSE		sinqa	s e ŋ q a
+377136	409803	crossandean-HuarazHuailas	huai1241		nose	1221	NOSE		senqa	s e ɲ q a
+377137	409804	crossandean-Inkawasi	lamb1276		nose	1221	NOSE		sinġa	s i n ɢ a
+377139	409806	crossandean-Jauja	jauj1238		nose	1221	NOSE		sinqa	s i n ʔ a
+377141	409808	crossandean-Lamas	sanm1289		nose	1221	NOSE		sinka	s i n g a
+377142	409809	crossandean-Laraos	yauy1235		nose	1221	NOSE		sinqa	s i n q a
+377143	409810	crossandean-Lincha-Tana	tana1291		nose	1221	NOSE		sinqa	s e ŋ q a
+377144	409811	crossandean-Maragua	sout2991		nose	1221	NOSE		sinqa	s i n q a
+377145	409812	crossandean-Napo	napo1242		nose	1221	NOSE		singa	s i n g a
+377146	409813	crossandean-Pacaraos	paca1245		nose	1221	NOSE		sinqa	s i ɴ χ a
+377147	409814	crossandean-Pastaza	sout2990		nose	1221	NOSE		singa	s i n g a
+377148	409815	crossandean-Pocona	coch1274		nose	1221	NOSE		sinγa	s i n ʁ a
+377149	409816	crossandean-Puno	puno1238		nose	1221	NOSE		sinqa	s i n q a
+377150	409817	crossandean-SanPedro	sanp1258		nose	1221	NOSE		sinqa	s e ŋ q a
+377151	409818	crossandean-Santiagueno	sant1432		nose	1221	NOSE		senqa	s e ŋ q a
+377152	409819	crossandean-Serena	tena1240		nose	1221	NOSE		singa	s i n g a
+377153	409820	crossandean-Tarma	yaru1256		nose	1221	NOSE		sin̊xa	s e ŋ χ a
+377154	409821	crossandean-Troje	nort3351		nose	1221	NOSE		singa	s i n g a
+377155	409822	crossandean-Yanac	coro1247		nose	1221	NOSE		sinqa	s i n q a
+377286	409953	hubercolumbian-Inga	inga1252		nose	1221	NOSE		sínga	s i n g a
+378507	411174	wold-ImbaburaQuechua	imba1240		nose	1221	NOSE		singa	s i ŋ g a
+378730	411397	crossandean-Apuri	apur1253		not	1240	NOT		mana	m a n a
+378731	411398	crossandean-Apurimac	east2551		not	1240	NOT		mana	m a n a
+378732	411399	crossandean-Atalla	huan1249		not	1240	NOT		mana	m a n a
+378733	411400	crossandean-Ayacucho	ayac1239		not	1240	NOT		mana	m a n a
+378734	411401	crossandean-Azuay	azua1234		not	1240	NOT		mana	m a n a
+378735	411402	crossandean-Cacra-Hongos	cacr1238		not	1240	NOT		mana	m a n a
+378736	411403	crossandean-Chachapoyas	chac1250		not	1240	NOT		mana	m a n a
+378737	411404	crossandean-Chetilla	caja1238		not	1240	NOT		mana	m a n a
+378738	411405	crossandean-Curva	apol1241		not	1240	NOT		mana	m a n a
+378739	411406	crossandean-Cuzco	cusc1236		not	1240	NOT		mana	m a n a
+378740	411407	crossandean-Huallaga	hual1241		not	1240	NOT		mana	m a n a
+378741	411408	crossandean-Huanca	huay1241		not	1240	NOT		mana	m a n a
+378742	411409	crossandean-Huangascar	azan1238		not	1240	NOT		mana	m a n a
+378743	411410	crossandean-HuarazHuailas	huai1241		not	1240	NOT		mana	m a ɲ a
+378744	411411	crossandean-Inkawasi	lamb1276		not	1240	NOT		mana	m a n a
+378746	411413	crossandean-Jauja	jauj1238		not	1240	NOT		mana	m a n a
+378748	411415	crossandean-Lamas	sanm1289		not	1240	NOT		mana	m a n a
+378749	411416	crossandean-Laraos	yauy1235		not	1240	NOT		mana	m a n a
+378750	411417	crossandean-Lincha-Tana	tana1291		not	1240	NOT		mana	m a n a
+378751	411418	crossandean-Maragua	sout2991		not	1240	NOT		mana	m a n a
+378752	411419	crossandean-Napo	napo1242		not	1240	NOT		mana	m a n a
+378753	411420	crossandean-Pacaraos	paca1245		not	1240	NOT		mana	m a n a
+378754	411421	crossandean-Pastaza	sout2990		not	1240	NOT		mana	m a n a
+378755	411422	crossandean-Pocona	coch1274		not	1240	NOT		mana	m a n a
+378756	411423	crossandean-Puno	puno1238		not	1240	NOT		mana	m a n a
+378757	411424	crossandean-SanPedro	sanp1258		not	1240	NOT		mana	m a n a
+378758	411425	crossandean-Santiagueno	sant1432		not	1240	NOT		mana	m a n a
+378759	411426	crossandean-Serena	tena1240		not	1240	NOT		mana	m a n a
+378760	411427	crossandean-Tarma	yaru1256		not	1240	NOT		mana	m a n a
+378761	411428	crossandean-Troje	nort3351		not	1240	NOT		mana	m a n a
+378762	411429	crossandean-Yanac	coro1247		not	1240	NOT		mana	m a n a
+378872	411539	hubercolumbian-Inga	inga1252		not	1240	NOT		mána	m a n a
+379571	412238	wold-ImbaburaQuechua	imba1240		not	1240	NOT		-chu	tʃ u
+389383	422050	crossandean-Apuri	apur1253		one	1493	ONE		huk	h u k
+389384	422051	crossandean-Apurimac	east2551		one	1493	ONE		huk	h u k
+389385	422052	crossandean-Apurimac	east2551		one	1493	ONE		huj	h u χ
+389386	422053	crossandean-Apurimac	east2551		one	1493	ONE		huq	h u q
+389387	422054	crossandean-Atalla	huan1249		one	1493	ONE		huk	h u k
+389388	422055	crossandean-Ayacucho	ayac1239		one	1493	ONE		huk	h u k
+389389	422056	crossandean-Azuay	azua1234		one	1493	ONE		shug	ʃ u g
+389390	422057	crossandean-Cacra-Hongos	cacr1238		one	1493	ONE		huk	h u k
+389391	422058	crossandean-Chachapoyas	chac1250		one	1493	ONE		suj	s u x
+389392	422059	crossandean-Chetilla	caja1238		one	1493	ONE		suχ	s u χ
+389393	422060	crossandean-Curva	apol1241		one	1493	ONE		ux	u x
+389394	422061	crossandean-Cuzco	cusc1236		one	1493	ONE		huχ	h u χ
+389395	422062	crossandean-Huallaga	hual1241		one	1493	ONE		huk	h u k
+389396	422063	crossandean-Huanca	huay1241		one	1493	ONE		suk	s u k
+389397	422064	crossandean-Huangascar	azan1238		one	1493	ONE		huk	h u k
+389398	422065	crossandean-HuarazHuailas	huai1241		one	1493	ONE		huk	x u k
+389399	422066	crossandean-Inkawasi	lamb1276		one	1493	ONE		uk	u k
+389401	422068	crossandean-Jauja	jauj1238		one	1493	ONE		huk	h u k
+389403	422070	crossandean-Lamas	sanm1289		one	1493	ONE		suk	s u k
+389404	422071	crossandean-Laraos	yauy1235		one	1493	ONE		huk	h u k
+389405	422072	crossandean-Lincha-Tana	tana1291		one	1493	ONE		huk	h u k
+389406	422073	crossandean-Maragua	sout2991		one	1493	ONE		ux	u x
+389407	422074	crossandean-Napo	napo1242		one	1493	ONE		shuj	ʃ u
+389408	422075	crossandean-Pacaraos	paca1245		one	1493	ONE		huk	x u k
+389409	422076	crossandean-Pastaza	sout2990		one	1493	ONE		shuc	ʃ u k
+389410	422077	crossandean-Pocona	coch1274		one	1493	ONE		ux	u x
+389411	422078	crossandean-Puno	puno1238		one	1493	ONE		ux	u x
+389412	422079	crossandean-SanPedro	sanp1258		one	1493	ONE		huk	h u k
+389413	422080	crossandean-Santiagueno	sant1432		one	1493	ONE		suk	s u x
+389414	422081	crossandean-Serena	tena1240		one	1493	ONE		šux	ʃ u x
+389415	422082	crossandean-Tarma	yaru1256		one	1493	ONE		xuk	χ o k
+389416	422083	crossandean-Troje	nort3351		one	1493	ONE		šux	ʃ u x
+389417	422084	crossandean-Yanac	coro1247		one	1493	ONE		uk	u k
+389577	422244	hubercolumbian-Inga	inga1252		one	1493	ONE		súg	s u g
+390776	423443	wold-ImbaburaQuechua	imba1240		one	1493	ONE		shuk	ʃ u k
+406011	438678	crossandean-Apuri	apur1253		person	683	PERSON		runa	ɾ u n a
+406012	438679	crossandean-Apurimac	east2551		person	683	PERSON		runa	r u n a
+406013	438680	crossandean-Atalla	huan1249		person	683	PERSON		runa	r u n a
+406014	438681	crossandean-Ayacucho	ayac1239		person	683	PERSON		runa	ɾ u n a
+406015	438682	crossandean-Azuay	azua1234		person	683	PERSON		shug runa	ʃ u g + ɾ u n a
+406016	438683	crossandean-Chachapoyas	chac1250		person	683	PERSON		runa	r u n a
+406017	438684	crossandean-Chetilla	caja1238		person	683	PERSON		runa	r u n a
+406018	438685	crossandean-Curva	apol1241		person	683	PERSON		runa	r u n a
+406019	438686	crossandean-Cuzco	cusc1236		person	683	PERSON		runa	r u n a
+406020	438687	crossandean-Huallaga	hual1241		person	683	PERSON		runa	r u n a
+406021	438688	crossandean-Huanca	huay1241		person	683	PERSON		nuna	n u n a
+406022	438689	crossandean-Huangascar	azan1238		person	683	PERSON		runa	ɾ u n a
+406023	438690	crossandean-HuarazHuailas	huai1241		person	683	PERSON		nuna	ɲ u ɲ a
+406024	438691	crossandean-Inkawasi	lamb1276		person	683	PERSON		runa	r u n a
+406026	438693	crossandean-Jauja	jauj1238		person	683	PERSON		nuna	n u n a
+406028	438695	crossandean-Lamas	sanm1289		person	683	PERSON		runa	r u n a
+406029	438696	crossandean-Laraos	yauy1235		person	683	PERSON		runa	r u n a
+406030	438697	crossandean-Lincha-Tana	tana1291		person	683	PERSON		runa	l u n a
+406031	438698	crossandean-Maragua	sout2991		person	683	PERSON		runa	r u n a
+406032	438699	crossandean-Maragua	sout2991		person	683	PERSON		řuna	r̝ u n a
+406033	438700	crossandean-Napo	napo1242		person	683	PERSON		runa	r u n a
+406034	438701	crossandean-Pacaraos	paca1245		person	683	PERSON		runa	ɾ u n a
+406035	438702	crossandean-Pastaza	sout2990		person	683	PERSON		runa	ɾ u n a
+406036	438703	crossandean-Pocona	coch1274		person	683	PERSON		řuna	r̝ u n a
+406037	438704	crossandean-Puno	puno1238		person	683	PERSON		runa	r u n a
+406038	438705	crossandean-SanPedro	sanp1258		person	683	PERSON		runa	ɾ u n a
+406039	438706	crossandean-Serena	tena1240		person	683	PERSON		runa	r u n a
+406040	438707	crossandean-Tarma	yaru1256		person	683	PERSON		nuna	n u n a
+406041	438708	crossandean-Troje	nort3351		person	683	PERSON		řuna	r̝ u n a
+406042	438709	crossandean-Yanac	coro1247		person	683	PERSON		runa	r u n a
+406917	439584	wold-ImbaburaQuechua	imba1240		person	683	PERSON		jinti	x i n d i
+425939	458607	crossandean-Apuri	apur1253		rainingorrain	2108	RAINING OR RAIN		para	p a ɾ a
+425940	458608	crossandean-Apurimac	east2551		rainingorrain	2108	RAINING OR RAIN		para	p a r a
+425941	458609	crossandean-Atalla	huan1249		rainingorrain	2108	RAINING OR RAIN		para	p a r a
+425942	458610	crossandean-Ayacucho	ayac1239		rainingorrain	2108	RAINING OR RAIN		para	p a ɾ a
+425943	458611	crossandean-Azuay	azua1234		rainingorrain	2108	RAINING OR RAIN		tamia	t a m j a
+425944	458612	crossandean-Cacra-Hongos	cacr1238		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425945	458613	crossandean-Chachapoyas	chac1250		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425946	458614	crossandean-Chetilla	caja1238		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425947	458615	crossandean-Curva	apol1241		rainingorrain	2108	RAINING OR RAIN		para	p a r a
+425948	458616	crossandean-Cuzco	cusc1236		rainingorrain	2108	RAINING OR RAIN		para	p a r a
+425949	458617	crossandean-Huallaga	hual1241		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425950	458618	crossandean-Huanca	huay1241		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425951	458619	crossandean-Huangascar	azan1238		rainingorrain	2108	RAINING OR RAIN		para	p a ɾ a
+425952	458620	crossandean-HuarazHuailas	huai1241		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425953	458621	crossandean-Inkawasi	lamb1276		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425955	458623	crossandean-Jauja	jauj1238		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425957	458625	crossandean-Lamas	sanm1289		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425958	458626	crossandean-Laraos	yauy1235		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425959	458627	crossandean-Lincha-Tana	tana1291		rainingorrain	2108	RAINING OR RAIN		para	p a ɾ a
+425960	458628	crossandean-Maragua	sout2991		rainingorrain	2108	RAINING OR RAIN		para	p a r a
+425961	458629	crossandean-Napo	napo1242		rainingorrain	2108	RAINING OR RAIN		tamia	t a m j a
+425962	458630	crossandean-Pacaraos	paca1245		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425963	458631	crossandean-Pastaza	sout2990		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425964	458632	crossandean-Pocona	coch1274		rainingorrain	2108	RAINING OR RAIN		para	p a r a
+425965	458633	crossandean-Puno	puno1238		rainingorrain	2108	RAINING OR RAIN		para	p a r a
+425966	458634	crossandean-SanPedro	sanp1258		rainingorrain	2108	RAINING OR RAIN		para	p a ɾ a
+425967	458635	crossandean-Santiagueno	sant1432		rainingorrain	2108	RAINING OR RAIN		para	p a ɾ a
+425968	458636	crossandean-Serena	tena1240		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425969	458637	crossandean-Tarma	yaru1256		rainingorrain	2108	RAINING OR RAIN		tanya	t a n j a
+425970	458638	crossandean-Troje	nort3351		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+425971	458639	crossandean-Yanac	coro1247		rainingorrain	2108	RAINING OR RAIN		tamya	t a m j a
+432181	464849	crossandean-Apuri	apur1253		red	156	RED		puka	p u k a
+432182	464850	crossandean-Apurimac	east2551		red	156	RED		puka	p u k a
+432183	464851	crossandean-Atalla	huan1249		red	156	RED		puka	p u k a
+432184	464852	crossandean-Ayacucho	ayac1239		red	156	RED		puka	p u k a
+432185	464853	crossandean-Azuay	azua1234		red	156	RED		puca, pichi	p u k a
+432186	464854	crossandean-Azuay	azua1234		red	156	RED		puca, pichi	p i tʃ i
+432187	464855	crossandean-Cacra-Hongos	cacr1238		red	156	RED		puka	p u k a
+432188	464856	crossandean-Chachapoyas	chac1250		red	156	RED		puka	p u k a
+432189	464857	crossandean-Chetilla	caja1238		red	156	RED		čupika	tʃ u p i k a
+432190	464858	crossandean-Curva	apol1241		red	156	RED		puka	p u k a
+432191	464859	crossandean-Cuzco	cusc1236		red	156	RED		puka	p u k a
+432192	464860	crossandean-Huallaga	hual1241		red	156	RED		puka	p u k a
+432193	464861	crossandean-Huanca	huay1241		red	156	RED		puka	p u k a
+432194	464862	crossandean-Huangascar	azan1238		red	156	RED		puka	p u k a
+432195	464863	crossandean-HuarazHuailas	huai1241		red	156	RED		puka	p u k a
+432196	464864	crossandean-Inkawasi	lamb1276		red	156	RED		čupika	tʃ u p i k a
+432198	464866	crossandean-Jauja	jauj1238		red	156	RED		puka	p u k a
+432200	464868	crossandean-Lamas	sanm1289		red	156	RED		puka	p u k a
+432201	464869	crossandean-Laraos	yauy1235		red	156	RED		puka	p u k a
+432202	464870	crossandean-Lincha-Tana	tana1291		red	156	RED		puka	p u k a
+432203	464871	crossandean-Maragua	sout2991		red	156	RED		puka	p u k a
+432204	464872	crossandean-Napo	napo1242		red	156	RED		puca	p u k a
+432205	464873	crossandean-Pacaraos	paca1245		red	156	RED		puka	p u k a
+432206	464874	crossandean-Pastaza	sout2990		red	156	RED		puca	p u k a
+432207	464875	crossandean-Pocona	coch1274		red	156	RED		puka	p u k a
+432208	464876	crossandean-Puno	puno1238		red	156	RED		puka	p u k a
+432209	464877	crossandean-SanPedro	sanp1258		red	156	RED		puka	p u k a
+432210	464878	crossandean-Santiagueno	sant1432		red	156	RED		puka	p u x a
+432211	464879	crossandean-Serena	tena1240		red	156	RED		puka	p u k a
+432212	464880	crossandean-Tarma	yaru1256		red	156	RED		puga	p u g a
+432213	464881	crossandean-Troje	nort3351		red	156	RED		puka	p u k a
+432214	464882	crossandean-Yanac	coro1247		red	156	RED		puka	p u k a
+432377	465045	hubercolumbian-Inga	inga1252		red	156	RED		púka	p u k a
+432378	465046	hubercolumbian-Inga	inga1252		red	156	RED		píʧi	p i tʃ i
+433342	466010	wold-ImbaburaQuechua	imba1240		red	156	RED		puka	p u k a
+441372	474040	crossandean-Apurimac	east2551		road	667	ROAD		ñan	ɲ a n
+441373	474041	crossandean-Atalla	huan1249		road	667	ROAD		camino	k a m i n o
+441374	474042	crossandean-Ayacucho	ayac1239		road	667	ROAD		ñan	ɲ a ŋ
+441375	474043	crossandean-Azuay	azua1234		road	667	ROAD		ñan	ɲ a n
+441376	474044	crossandean-Chachapoyas	chac1250		road	667	ROAD		ñan	ɲ a n
+441377	474045	crossandean-Chetilla	caja1238		road	667	ROAD		ñan	ɲ a n
+441378	474046	crossandean-Curva	apol1241		road	667	ROAD		ñan	ɲ a n
+441379	474047	crossandean-Cuzco	cusc1236		road	667	ROAD		ñan	ɲ a n
+441380	474048	crossandean-Huallaga	hual1241		road	667	ROAD		na:ni	n aː n i
+441381	474049	crossandean-Huanca	huay1241		road	667	ROAD		pulina	p u l i + n a
+441382	474050	crossandean-HuarazHuailas	huai1241		road	667	ROAD		naani	ɲ aː ɲ i
+441385	474054	crossandean-Lamas	sanm1289		road	667	ROAD		ñan	ɲ a n
+441386	474055	crossandean-Laraos	yauy1235		road	667	ROAD		kaminu	k a m i n u
+441387	474056	crossandean-Maragua	sout2991		road	667	ROAD		yan	j a n
+441388	474057	crossandean-Napo	napo1242		road	667	ROAD		ñambi	ɲ a m + b i
+441389	474058	crossandean-Pastaza	sout2990		road	667	ROAD		ñambi	ɲ a m + b i
+441390	474059	crossandean-Pastaza	sout2990		road	667	ROAD		trucha	ʈʂ u tʃ a
+441391	474060	crossandean-Pocona	coch1274		road	667	ROAD		yan	j a n
+441392	474061	crossandean-Puno	puno1238		road	667	ROAD		ñan	ɲ a n
+441393	474062	crossandean-Santiagueno	sant1432		road	667	ROAD		ñan	ɲ a n
+441394	474063	crossandean-Serena	tena1240		road	667	ROAD		ñan	ɲ a n
+441395	474064	crossandean-Tarma	yaru1256		road	667	ROAD		kaminu	k a m i n u
+441396	474065	crossandean-Troje	nort3351		road	667	ROAD		ñan	ɲ a n
+441397	474066	crossandean-Yanac	coro1247		road	667	ROAD		na:ni	n aː n i
+441746	474415	wold-ImbaburaQuechua	imba1240		road	667	ROAD		ñan	ɲ a ŋ
+444147	476816	crossandean-Apuri	apur1253		root	670	ROOT		sapi	s a p i
+444148	476817	crossandean-Apurimac	east2551		root	670	ROOT		sapi	s a p i
+444149	476818	crossandean-Atalla	huan1249		root	670	ROOT		sapi	s a p i
+444150	476819	crossandean-Ayacucho	ayac1239		root	670	ROOT		sapi	s a p i
+444151	476820	crossandean-Azuay	azua1234		root	670	ROOT		sapi	s a p i
+444152	476821	crossandean-Cacra-Hongos	cacr1238		root	670	ROOT		sapi	s a p i
+444153	476822	crossandean-Chachapoyas	chac1250		root	670	ROOT		sapi	s a p i
+444154	476823	crossandean-Chetilla	caja1238		root	670	ROOT		ĉupa	ʈʂ u p a
+444155	476824	crossandean-Curva	apol1241		root	670	ROOT		saphi	s a pʰ i
+444156	476825	crossandean-Cuzco	cusc1236		root	670	ROOT		saphi	s a pʰ i
+444157	476826	crossandean-Huallaga	hual1241		root	670	ROOT		sapi	s a p i
+444158	476827	crossandean-Huanca	huay1241		root	670	ROOT		sipi	s i p i
+444159	476828	crossandean-Huangascar	azan1238		root	670	ROOT		sapi	s a p i
+444160	476829	crossandean-HuarazHuailas	huai1241		root	670	ROOT		sipi	s i p i
+444161	476830	crossandean-Inkawasi	lamb1276		root	670	ROOT		ĉupa	ʈʂ u p a
+444163	476832	crossandean-Jauja	jauj1238		root	670	ROOT		sipi	s i p i
+444165	476834	crossandean-Lamas	sanm1289		root	670	ROOT		sapi	s a p i
+444166	476835	crossandean-Laraos	yauy1235		root	670	ROOT		raíz	r a i z
+444167	476836	crossandean-Lincha-Tana	tana1291		root	670	ROOT		sapi	s a p i
+444168	476837	crossandean-Maragua	sout2991		root	670	ROOT		saphi	s a pʰ i
+444169	476838	crossandean-Napo	napo1242		root	670	ROOT		angu	a n g u
+444170	476839	crossandean-Pacaraos	paca1245		root	670	ROOT		sapi	s a p i
+444171	476840	crossandean-Pastaza	sout2990		root	670	ROOT		angu	a n g u
+444172	476841	crossandean-Pocona	coch1274		root	670	ROOT		saphi	s a pʰ i
+444173	476842	crossandean-Puno	puno1238		root	670	ROOT		saphi	s a pʰ i
+444174	476843	crossandean-SanPedro	sanp1258		root	670	ROOT		sapi	s a p i
+444175	476844	crossandean-Santiagueno	sant1432		root	670	ROOT		sapi	s a p i
+444176	476845	crossandean-Serena	tena1240		root	670	ROOT		angu	a n g u
+444177	476846	crossandean-Tarma	yaru1256		root	670	ROOT		sapi	s a p i
+444178	476847	crossandean-Troje	nort3351		root	670	ROOT		sapi	s a p i
+444179	476848	crossandean-Troje	nort3351		root	670	ROOT		sipi	s i p i
+444180	476849	crossandean-Troje	nort3351		root	670	ROOT		pisi	p i s i
+444181	476850	crossandean-Yanac	coro1247		root	670	ROOT		ĉapa	ʈʂ a p a
+444331	477000	hubercolumbian-Inga	inga1252		root	670	ROOT		ángu	a n g u
+445395	478064	wold-ImbaburaQuechua	imba1240		root	670	ROOT		sapi	s a p i
+448728	481397	hubercolumbian-Inga	inga1252		round	1395	ROUND		múru	m u r u
+449358	482027	wold-ImbaburaQuechua	imba1240		round	1395	ROUND		muyundi	m u j u n d i
+456132	488801	crossandean-Apuri	apur1253		sand	671	SAND		aqu	a q o
+456133	488802	crossandean-Apurimac	east2551		sand	671	SAND		aqo	a q o
+456134	488803	crossandean-Atalla	huan1249		sand	671	SAND		aχu	a χ u
+456135	488804	crossandean-Ayacucho	ayac1239		sand	671	SAND		aqo	a χ o
+456136	488805	crossandean-Azuay	azua1234		sand	671	SAND		tiu	t i j u
+456137	488806	crossandean-Cacra-Hongos	cacr1238		sand	671	SAND		aqu	a q o
+456138	488807	crossandean-Chachapoyas	chac1250		sand	671	SAND		tiyu	t i j u
+456139	488808	crossandean-Chetilla	caja1238		sand	671	SAND		aγu	a ʁ u
+456140	488809	crossandean-Curva	apol1241		sand	671	SAND		aqu	a q u
+456141	488810	crossandean-Cuzco	cusc1236		sand	671	SAND		aqu	a q u
+456142	488811	crossandean-Huallaga	hual1241		sand	671	SAND		aqu.š	a q u ʃ
+456143	488812	crossandean-Huanca	huay1241		sand	671	SAND		aqu	a ʔ u
+456144	488813	crossandean-Huangascar	azan1238		sand	671	SAND		aqu	a q o
+456145	488814	crossandean-HuarazHuailas	huai1241		sand	671	SAND		allpa	a ʎ p a
+456146	488815	crossandean-Inkawasi	lamb1276		sand	671	SAND		aγu	a ʁ u
+456148	488817	crossandean-Jauja	jauj1238		sand	671	SAND		aqu	a ʔ u
+456150	488819	crossandean-Lamas	sanm1289		sand	671	SAND		tiyu	t i j u
+456151	488820	crossandean-Laraos	yauy1235		sand	671	SAND		aqu	a q u
+456152	488821	crossandean-Lincha-Tana	tana1291		sand	671	SAND		aqu	a q o
+456153	488822	crossandean-Maragua	sout2991		sand	671	SAND		t'iyu	tʼ i j u
+456154	488823	crossandean-Pastaza	sout2990		sand	671	SAND		tiyu	t i j u
+456155	488824	crossandean-Pocona	coch1274		sand	671	SAND		t'iyu	tʼ i j u
+456156	488825	crossandean-Puno	puno1238		sand	671	SAND		aqu	a q u
+456157	488826	crossandean-SanPedro	sanp1258		sand	671	SAND		aqu	a q o
+456158	488827	crossandean-Santiagueno	sant1432		sand	671	SAND		tiyu	t i j u
+456159	488828	crossandean-Serena	tena1240		sand	671	SAND		tsatsa	ts a ts a
+456160	488829	crossandean-Tarma	yaru1256		sand	671	SAND		šuxya	ç o χ j a
+456161	488830	crossandean-Troje	nort3351		sand	671	SAND		thiyu	tʰ i j u
+456162	488831	crossandean-Yanac	coro1247		sand	671	SAND		aqu	a q u
+456282	488951	hubercolumbian-Inga	inga1252		sand	671	SAND		kaskáxu	k a s k a x u
+457398	490067	wold-ImbaburaQuechua	imba1240		sand	671	SAND		tiyu	t i j u
+459235	491904	hubercolumbian-Inga	inga1252		say	1458	SAY		níj	n i j
+459982	492651	wold-ImbaburaQuechua	imba1240		say	1458	SAY		nina	n i n a
+464781	497451	crossandean-Apuri	apur1253		see	1409	SEE		qawa-	q a w a
+464782	497452	crossandean-Apuri	apur1253		see	1409	SEE		rika-	ɾ i k a
+464783	497453	crossandean-Apurimac	east2551		see	1409	SEE		qawa	q a w a
+464784	497454	crossandean-Apurimac	east2551		see	1409	SEE		riku	r i k u
+464785	497455	crossandean-Atalla	huan1249		see	1409	SEE		ri.ku.	r i k u
+464786	497456	crossandean-Ayacucho	ayac1239		see	1409	SEE		qawa	χ a w a
+464787	497457	crossandean-Ayacucho	ayac1239		see	1409	SEE		riku	ɾ i k u
+464788	497458	crossandean-Azuay	azua1234		see	1409	SEE		ricu-na	ɾ i k u + n a
+464789	497459	crossandean-Cacra-Hongos	cacr1238		see	1409	SEE		qawa-	q a w a
+464790	497460	crossandean-Cacra-Hongos	cacr1238		see	1409	SEE		rika-	l i k a
+464791	497461	crossandean-Chachapoyas	chac1250		see	1409	SEE		kawa	k a w a
+464792	497462	crossandean-Chachapoyas	chac1250		see	1409	SEE		riku	r i k u
+464793	497463	crossandean-Chetilla	caja1238		see	1409	SEE		ri.ka.	r i k a
+464794	497464	crossandean-Curva	apol1241		see	1409	SEE		ri.ku.	r i k u
+464795	497465	crossandean-Cuzco	cusc1236		see	1409	SEE		ri.ku.	r i k u
+464796	497466	crossandean-Huallaga	hual1241		see	1409	SEE		ri.ka.	r i k a
+464797	497467	crossandean-Huanca	huay1241		see	1409	SEE		likay	l i k a
+464798	497468	crossandean-Huangascar	azan1238		see	1409	SEE		qawa-	q a w a
+464799	497469	crossandean-Huangascar	azan1238		see	1409	SEE		rika-	ɾ i k a
+464800	497470	crossandean-HuarazHuailas	huai1241		see	1409	SEE		rikay	ɾ i k a
+464801	497471	crossandean-Inkawasi	lamb1276		see	1409	SEE		ri.ka.	r i k a
+464803	497473	crossandean-Jauja	jauj1238		see	1409	SEE		likay	l i k a
+464805	497475	crossandean-Lamas	sanm1289		see	1409	SEE		kawa	k a w a
+464806	497476	crossandean-Lamas	sanm1289		see	1409	SEE		riku	r i k u
+464807	497477	crossandean-Laraos	yauy1235		see	1409	SEE		ri.ka.	r i k a
+464808	497478	crossandean-Lincha-Tana	tana1291		see	1409	SEE		qawa-	q a w a
+464809	497479	crossandean-Lincha-Tana	tana1291		see	1409	SEE		rika-	l i k a
+464810	497480	crossandean-Maragua	sout2991		see	1409	SEE		ri.ku.	r i k u
+464811	497481	crossandean-Napo	napo1242		see	1409	SEE		ricuna	r i k u + n a
+464812	497482	crossandean-Pacaraos	paca1245		see	1409	SEE		rika	ɾ i k a
+464813	497483	crossandean-Pastaza	sout2990		see	1409	SEE		ɾicuna	ɾ i k u + n a
+464814	497484	crossandean-Pocona	coch1274		see	1409	SEE		ri.ku.	r i k u
+464815	497485	crossandean-Puno	puno1238		see	1409	SEE		ri.ku.	r i k u
+464816	497486	crossandean-SanPedro	sanp1258		see	1409	SEE		qawa-	q a w a
+464817	497487	crossandean-SanPedro	sanp1258		see	1409	SEE		rika-	ɾ i k a
+464818	497488	crossandean-Santiagueno	sant1432		see	1409	SEE		qaay	q aː
+464819	497489	crossandean-Serena	tena1240		see	1409	SEE		ri.ku.	r i k u
+464820	497490	crossandean-Tarma	yaru1256		see	1409	SEE		riga	ʐ i g a
+464821	497491	crossandean-Troje	nort3351		see	1409	SEE		ři.ku.	r̝ i k u
+464822	497492	crossandean-Yanac	coro1247		see	1409	SEE		ri.ka.	r i k a
+464986	497656	hubercolumbian-Inga	inga1252		see	1409	SEE		kawáj	k a w a j
+466197	498867	wold-ImbaburaQuechua	imba1240		see	1409	SEE		rikuna	ʐ i k u n a
+466404	499074	crossandean-Apurimac	east2551		seed	714	SEED		muju	m u χ u
+466405	499075	crossandean-Apurimac	east2551		seed	714	SEED		muhu	m u h u
+466406	499076	crossandean-Apurimac	east2551		seed	714	SEED		muqu	m u q u
+466407	499077	crossandean-Atalla	huan1249		seed	714	SEED		muxu	m u x u
+466408	499078	crossandean-Ayacucho	ayac1239		seed	714	SEED		muru	m u ɾ u
+466409	499079	crossandean-Ayacucho	ayac1239		seed	714	SEED		muya	m u j a
+466410	499080	crossandean-Azuay	azua1234		seed	714	SEED		muyu	m u j u
+466411	499081	crossandean-Chachapoyas	chac1250		seed	714	SEED		muru	m u r u
+466412	499082	crossandean-Chetilla	caja1238		seed	714	SEED		muru	m u r u
+466413	499083	crossandean-Curva	apol1241		seed	714	SEED		muxu	m u x u
+466414	499084	crossandean-Cuzco	cusc1236		seed	714	SEED		muxu	m u x u
+466415	499085	crossandean-Huallaga	hual1241		seed	714	SEED		muru	m u r u
+466416	499086	crossandean-Huanca	huay1241		seed	714	SEED		muhu	m u h u
+466417	499087	crossandean-HuarazHuailas	huai1241		seed	714	SEED		muru	m u ɾ u
+466418	499088	crossandean-Inkawasi	lamb1276		seed	714	SEED		semilla	s e m i ʎ a
+466420	499090	crossandean-Jauja	jauj1238		seed	714	SEED		muhu	m u h u
+466422	499092	crossandean-Lamas	sanm1289		seed	714	SEED		muru	m u r u
+466423	499093	crossandean-Laraos	yauy1235		seed	714	SEED		muni	m u n i
+466424	499094	crossandean-Maragua	sout2991		seed	714	SEED		muhu	m u h u
+466425	499095	crossandean-Napo	napo1242		seed	714	SEED		muyu	m u j u
+466426	499096	crossandean-Pacaraos	paca1245		seed	714	SEED		muru	m u ɾ u
+466427	499097	crossandean-Pastaza	sout2990		seed	714	SEED		muyu	m u j u
+466428	499098	crossandean-Pocona	coch1274		seed	714	SEED		muhu	m u h u
+466429	499099	crossandean-Puno	puno1238		seed	714	SEED		muxu	m u x u
+466430	499100	crossandean-Serena	tena1240		seed	714	SEED		muyu	m u j u
+466431	499101	crossandean-Tarma	yaru1256		seed	714	SEED		muru	m u ɾ u
+466432	499102	crossandean-Troje	nort3351		seed	714	SEED		muyu	m u j u
+466433	499103	crossandean-Yanac	coro1247		seed	714	SEED		muru	m u r u
+466563	499233	hubercolumbian-Inga	inga1252		seed	714	SEED		múju	m u j u
+467333	500003	wold-ImbaburaQuechua	imba1240		seed	714	SEED		muyu	m u j u
+490313	522985	crossandean-Apuri	apur1253		sit	1416	SIT		tiya	t i j a
+490314	522986	crossandean-Apurimac	east2551		sit	1416	SIT		tiya	t i j a
+490315	522987	crossandean-Apurimac	east2551		sit	1416	SIT		pachi	p a tʃ i
+490316	522988	crossandean-Atalla	huan1249		sit	1416	SIT		tiya.	t i j a
+490317	522989	crossandean-Ayacucho	ayac1239		sit	1416	SIT		tiya	t i j a
+490318	522990	crossandean-Azuay	azua1234		sit	1416	SIT		tia-ri-cu-na	t i j a + ɾ i + k u + n a
+490319	522991	crossandean-Cacra-Hongos	cacr1238		sit	1416	SIT		tiya	t i j a
+490320	522992	crossandean-Chachapoyas	chac1250		sit	1416	SIT		tiya	t i j a
+490321	522993	crossandean-Chetilla	caja1238		sit	1416	SIT		tiya.	t i j a
+490322	522994	crossandean-Curva	apol1241		sit	1416	SIT		tiya.	t i j a
+490323	522995	crossandean-Cuzco	cusc1236		sit	1416	SIT		tiya.	t i j a
+490324	522996	crossandean-Huallaga	hual1241		sit	1416	SIT		hama.	h a m a
+490325	522997	crossandean-Huanca	huay1241		sit	1416	SIT		tiyu	t i j u
+490326	522998	crossandean-Huangascar	azan1238		sit	1416	SIT		tiya	t i j a
+490327	522999	crossandean-Inkawasi	lamb1276		sit	1416	SIT		ta.	t a
+490329	523001	crossandean-Jauja	jauj1238		sit	1416	SIT		tiyu	t i j u
+490331	523003	crossandean-Lamas	sanm1289		sit	1416	SIT		tiya	t i j a
+490332	523004	crossandean-Laraos	yauy1235		sit	1416	SIT		tiya.	t i j a
+490333	523005	crossandean-Lincha-Tana	tana1291		sit	1416	SIT		tiya	t i j a
+490334	523006	crossandean-Maragua	sout2991		sit	1416	SIT		tiya.	t i j a
+490335	523007	crossandean-Napo	napo1242		sit	1416	SIT		tiarina	t i j a + r i + n a
+490336	523008	crossandean-Pacaraos	paca1245		sit	1416	SIT		kuka-raa	k u k u
+490337	523009	crossandean-Pacaraos	paca1245		sit	1416	SIT		chapa-ku	tʃ a p a
+490338	523010	crossandean-Pacaraos	paca1245		sit	1416	SIT		tayku	t ai + k u
+490339	523011	crossandean-Pastaza	sout2990		sit	1416	SIT		tirayina	t i j a + r i + n a
+490340	523012	crossandean-Pocona	coch1274		sit	1416	SIT		tiya.	t i j a
+490341	523013	crossandean-Puno	puno1238		sit	1416	SIT		tiya.	t i j a
+490342	523014	crossandean-SanPedro	sanp1258		sit	1416	SIT		tiya	t i j a
+490343	523015	crossandean-Santiagueno	sant1432		sit	1416	SIT		tiyakuy	t iː j a + x u
+490344	523016	crossandean-Serena	tena1240		sit	1416	SIT		tya.	t i j a
+490345	523017	crossandean-Tarma	yaru1256		sit	1416	SIT		ta:ku	t aː + k u
+490346	523018	crossandean-Troje	nort3351		sit	1416	SIT		tiya.	t i j a
+490347	523019	crossandean-Yanac	coro1247		sit	1416	SIT		ama.	a m a
+491367	524039	wold-ImbaburaQuechua	imba1240		sit	1416	SIT		tiyarina	t i j a ɾ i n a
+494421	527093	crossandean-Apuri	apur1253		skin	763	SKIN		qara	q a ɾ a
+494422	527094	crossandean-Apurimac	east2551		skin	763	SKIN		qara	q a r a
+494423	527095	crossandean-Atalla	huan1249		skin	763	SKIN		χara	χ a r a
+494424	527096	crossandean-Ayacucho	ayac1239		skin	763	SKIN		qara	χ a ɾ a
+494425	527097	crossandean-Azuay	azua1234		skin	763	SKIN		cara	k a ɾ a
+494426	527098	crossandean-Cacra-Hongos	cacr1238		skin	763	SKIN		qara	q a l a
+494427	527099	crossandean-Chachapoyas	chac1250		skin	763	SKIN		kara	k a r a
+494428	527100	crossandean-Chetilla	caja1238		skin	763	SKIN		qara	q a r a
+494429	527101	crossandean-Curva	apol1241		skin	763	SKIN		qara	q a r a
+494430	527102	crossandean-Cuzco	cusc1236		skin	763	SKIN		qara	q a r a
+494431	527103	crossandean-Huallaga	hual1241		skin	763	SKIN		qara	q a r a
+494432	527104	crossandean-Huanca	huay1241		skin	763	SKIN		uta	u t a
+494433	527105	crossandean-Huangascar	azan1238		skin	763	SKIN		qara	q a ɾ a
+494434	527106	crossandean-HuarazHuailas	huai1241		skin	763	SKIN		qara	q a ɾ a
+494435	527107	crossandean-Inkawasi	lamb1276		skin	763	SKIN		χara	χ a r a
+494437	527109	crossandean-Jauja	jauj1238		skin	763	SKIN		uta	u t a
+494439	527111	crossandean-Lamas	sanm1289		skin	763	SKIN		kara	k a r a
+494440	527112	crossandean-Laraos	yauy1235		skin	763	SKIN		qara	q a r a
+494441	527113	crossandean-Lincha-Tana	tana1291		skin	763	SKIN		qara	q a ɾ a
+494442	527114	crossandean-Maragua	sout2991		skin	763	SKIN		qara	q a r a
+494443	527115	crossandean-Napo	napo1242		skin	763	SKIN		cara	k a r a
+494444	527116	crossandean-Pacaraos	paca1245		skin	763	SKIN		qara	ʁ a ɾ a
+494445	527117	crossandean-Pastaza	sout2990		skin	763	SKIN		cara	k a r a
+494446	527118	crossandean-Pocona	coch1274		skin	763	SKIN		ġara	ɢ a r a
+494447	527119	crossandean-Puno	puno1238		skin	763	SKIN		qara	q a r a
+494448	527120	crossandean-SanPedro	sanp1258		skin	763	SKIN		qara	q a ɾ a
+494449	527121	crossandean-Santiagueno	sant1432		skin	763	SKIN		qara	q a ɾ a
+494450	527122	crossandean-Serena	tena1240		skin	763	SKIN		kara	k a r a
+494451	527123	crossandean-Tarma	yaru1256		skin	763	SKIN		xara	χ a ɾ a
+494452	527124	crossandean-Troje	nort3351		skin	763	SKIN		kara	k a r a
+494453	527125	crossandean-Yanac	coro1247		skin	763	SKIN		qara	q a r a
+494549	527221	hubercolumbian-Inga	inga1252		skin	763	SKIN		kára	k a r a
+495760	528432	wold-ImbaburaQuechua	imba1240		skin	763	SKIN		kara	k a ɾ a
+499002	531674	crossandean-Apuri	apur1253		sleep	1585	SLEEP		puñu-	p u ɲ u
+499003	531675	crossandean-Apurimac	east2551		sleep	1585	SLEEP		puñu	p u ɲ u
+499004	531676	crossandean-Atalla	huan1249		sleep	1585	SLEEP		puñu.	p u ɲ u
+499005	531677	crossandean-Ayacucho	ayac1239		sleep	1585	SLEEP		puñu	p u ɲ u
+499006	531678	crossandean-Azuay	azua1234		sleep	1585	SLEEP		puñu-na	p u ɲ u + n a
+499007	531679	crossandean-Cacra-Hongos	cacr1238		sleep	1585	SLEEP		puñu-	p u ɲ u
+499008	531680	crossandean-Chachapoyas	chac1250		sleep	1585	SLEEP		puñu	p u ɲ u
+499009	531681	crossandean-Chetilla	caja1238		sleep	1585	SLEEP		puñu.	p u ɲ u
+499010	531682	crossandean-Curva	apol1241		sleep	1585	SLEEP		puñu.	p u ɲ u
+499011	531683	crossandean-Cuzco	cusc1236		sleep	1585	SLEEP		puñu.	p u ɲ u
+499012	531684	crossandean-Huallaga	hual1241		sleep	1585	SLEEP		puñu.	p u ɲ u
+499013	531685	crossandean-Huanca	huay1241		sleep	1585	SLEEP		puñuy	p u ɲ u
+499014	531686	crossandean-Huangascar	azan1238		sleep	1585	SLEEP		puñu-	p u ɲ u
+499015	531687	crossandean-HuarazHuailas	huai1241		sleep	1585	SLEEP		punuy	p u ɲ u
+499016	531688	crossandean-Inkawasi	lamb1276		sleep	1585	SLEEP		punu.	p u n u
+499018	531690	crossandean-Jauja	jauj1238		sleep	1585	SLEEP		puñuy	p u ɲ u
+499020	531692	crossandean-Lamas	sanm1289		sleep	1585	SLEEP		puñu	p u ɲ u
+499021	531693	crossandean-Laraos	yauy1235		sleep	1585	SLEEP		puñu.	p u ɲ u
+499022	531694	crossandean-Lincha-Tana	tana1291		sleep	1585	SLEEP		puñu-	p u ɲ u
+499023	531695	crossandean-Maragua	sout2991		sleep	1585	SLEEP		puñu.	p u ɲ u
+499024	531696	crossandean-Napo	napo1242		sleep	1585	SLEEP		puñuna	p u ɲ u + n a
+499025	531697	crossandean-Pacaraos	paca1245		sleep	1585	SLEEP		puñu	p u ɲ u
+499026	531698	crossandean-Pastaza	sout2990		sleep	1585	SLEEP		puñuna	p u ɲ u + n a
+499027	531699	crossandean-Pocona	coch1274		sleep	1585	SLEEP		puñu.	p u ɲ u
+499028	531700	crossandean-Puno	puno1238		sleep	1585	SLEEP		puñu.	p u ɲ u
+499029	531701	crossandean-SanPedro	sanp1258		sleep	1585	SLEEP		puñu-	p u ɲ u
+499030	531702	crossandean-Santiagueno	sant1432		sleep	1585	SLEEP		puñuy	p u ɲ u
+499031	531703	crossandean-Serena	tena1240		sleep	1585	SLEEP		puñu.	p u ɲ u
+499032	531704	crossandean-Tarma	yaru1256		sleep	1585	SLEEP		punu	p u n u
+499033	531705	crossandean-Troje	nort3351		sleep	1585	SLEEP		puñu.	p u ɲ u
+499034	531706	crossandean-Yanac	coro1247		sleep	1585	SLEEP		puñu.	p u ɲ u
+499184	531856	hubercolumbian-Inga	inga1252		sleep	1585	SLEEP		puɲúj	p u ɲ u j
+500342	533015	wold-ImbaburaQuechua	imba1240		sleep	1585	SLEEP		puñuna	p u ɲ u n a
+502550	535224	crossandean-Apuri	apur1253		small	1246	SMALL		taksa	t a k s a
+502551	535225	crossandean-Apuri	apur1253		small	1246	SMALL		uchuk	u tʃ u k
+502552	535226	crossandean-Apurimac	east2551		small	1246	SMALL		chiki	tʃ i k i
+502553	535227	crossandean-Apurimac	east2551		small	1246	SMALL		chinki	tʃ i n k i
+502554	535228	crossandean-Apurimac	east2551		small	1246	SMALL		chinli	tʃ i n l i
+502555	535229	crossandean-Apurimac	east2551		small	1246	SMALL		huchuy	h u tʃ ui
+502556	535230	crossandean-Apurimac	east2551		small	1246	SMALL		taksa	t a k s a
+502557	535231	crossandean-Atalla	huan1249		small	1246	SMALL		taksa	t a k s a
+502558	535232	crossandean-Ayacucho	ayac1239		small	1246	SMALL		taksa	t a k s a
+502559	535233	crossandean-Ayacucho	ayac1239		small	1246	SMALL		uchuy	u tʃ ui
+502560	535234	crossandean-Azuay	azua1234		small	1246	SMALL		uchilla, cutu	u tʃ i + ʎ a
+502561	535235	crossandean-Azuay	azua1234		small	1246	SMALL		uchilla, cutu	k u t u
+502562	535236	crossandean-Cacra-Hongos	cacr1238		small	1246	SMALL		taksa	t a k s a
+502563	535237	crossandean-Cacra-Hongos	cacr1238		small	1246	SMALL		uchuk	u tʃ u k
+502564	535238	crossandean-Chachapoyas	chac1250		small	1246	SMALL		uchuylla	u tʃ ui + ʎ a
+502565	535239	crossandean-Chetilla	caja1238		small	1246	SMALL		takša	t a k ʃ a
+502566	535240	crossandean-Curva	apol1241		small	1246	SMALL		huč'uy	h u tʃʼ ui
+502567	535241	crossandean-Cuzco	cusc1236		small	1246	SMALL		huč'uy	h u tʃʼ ui
+502568	535242	crossandean-Huallaga	hual1241		small	1246	SMALL		ičik	i tʃ i k
+502569	535243	crossandean-Huanca	huay1241		small	1246	SMALL		uchuk	u tʃ u k
+502570	535244	crossandean-Huanca	huay1241		small	1246	SMALL		taksha	t a k ʂ a
+502571	535245	crossandean-Huangascar	azan1238		small	1246	SMALL		taksa	t a k s a
+502572	535246	crossandean-Huangascar	azan1238		small	1246	SMALL		uchuk	u tʃ u k
+502573	535247	crossandean-HuarazHuailas	huai1241		small	1246	SMALL		taksha	t a k ʃ a
+502574	535248	crossandean-Inkawasi	lamb1276		small	1246	SMALL		takša	t a k ʃ a
+502577	535251	crossandean-Jauja	jauj1238		small	1246	SMALL		taksha	t a k ʂ a
+502578	535252	crossandean-Jauja	jauj1238		small	1246	SMALL		uchuk	u tʃ u k
+502580	535254	crossandean-Lamas	sanm1289		small	1246	SMALL		taksha	t a k ʃ a
+502581	535255	crossandean-Laraos	yauy1235		small	1246	SMALL		učuy	u tʃ ui
+502582	535256	crossandean-Lincha-Tana	tana1291		small	1246	SMALL		taksa	t a k s a
+502583	535257	crossandean-Lincha-Tana	tana1291		small	1246	SMALL		uchuk	u tʃ u k
+502584	535258	crossandean-Maragua	sout2991		small	1246	SMALL		huč'uy	h u tʃʼ ui
+502585	535259	crossandean-Napo	napo1242		small	1246	SMALL		ichilla	i tʃ i + ʎ a
+502586	535260	crossandean-Pacaraos	paca1245		small	1246	SMALL		uchuk	u tʃ u k
+502587	535261	crossandean-Pastaza	sout2990		small	1246	SMALL		uchilla	u tʃ i + ʎ a
+502588	535262	crossandean-Pocona	coch1274		small	1246	SMALL		huč'uy	h u tʃʼ ui
+502589	535263	crossandean-Puno	puno1238		small	1246	SMALL		huč'uy	h u tʃʼ ui
+502590	535264	crossandean-SanPedro	sanp1258		small	1246	SMALL		taksa	t a k s a
+502591	535265	crossandean-SanPedro	sanp1258		small	1246	SMALL		uchuk	u tʃ u k
+502592	535266	crossandean-Santiagueno	sant1432		small	1246	SMALL		utula	u t u + l a
+502593	535267	crossandean-Serena	tena1240		small	1246	SMALL		iči.λa	i tʃ i + ʎ a
+502594	535268	crossandean-Tarma	yaru1256		small	1246	SMALL		ičikla	i tʃ i k + l a
+502595	535269	crossandean-Tarma	yaru1256		small	1246	SMALL		takša	t a k ʃ a
+502596	535270	crossandean-Troje	nort3351		small	1246	SMALL		uči.ža	u tʃ i + ʒ a
+502597	535271	crossandean-Yanac	coro1247		small	1246	SMALL		učuk	u tʃ u k
+502598	535272	crossandean-Yanac	coro1247		small	1246	SMALL		ičik	i tʃ i k
+502752	535426	hubercolumbian-Inga	inga1252		small	1246	SMALL		uʧúlʲa	u tʃ u lʲ a
+503985	536659	wold-ImbaburaQuechua	imba1240		small	1246	SMALL		uchilla	u tʃ i ʒ a
+506924	539600	crossandean-Apuri	apur1253		smokeexhaust	778	SMOKE (EXHAUST)		hushta	h u ʃ t a
+506925	539601	crossandean-Apurimac	east2551		smokeexhaust	778	SMOKE (EXHAUST)		qosñi	q o s ɲ i
+506926	539602	crossandean-Atalla	huan1249		smokeexhaust	778	SMOKE (EXHAUST)		χu.sñi	χ u s ɲ i
+506927	539603	crossandean-Ayacucho	ayac1239		smokeexhaust	778	SMOKE (EXHAUST)		qosni	χ o s n i
+506928	539604	crossandean-Azuay	azua1234		smokeexhaust	778	SMOKE (EXHAUST)		cusni	k u s n i
+506929	539605	crossandean-Cacra-Hongos	cacr1238		smokeexhaust	778	SMOKE (EXHAUST)		hushta	h u ʃ t a
+506930	539606	crossandean-Chachapoyas	chac1250		smokeexhaust	778	SMOKE (EXHAUST)		kusni	k u s n i
+506931	539607	crossandean-Chetilla	caja1238		smokeexhaust	778	SMOKE (EXHAUST)		qu.nday	q u n d ai
+506932	539608	crossandean-Curva	apol1241		smokeexhaust	778	SMOKE (EXHAUST)		q'u.sñi	qʼ u s ɲ i
+506933	539609	crossandean-Cuzco	cusc1236		smokeexhaust	778	SMOKE (EXHAUST)		q'u.sñi	qʼ u s ɲ i
+506934	539610	crossandean-Huallaga	hual1241		smokeexhaust	778	SMOKE (EXHAUST)		qu.štay	q u ʃ t ai
+506935	539611	crossandean-Huanca	huay1241		smokeexhaust	778	SMOKE (EXHAUST)		huntay	h u n t ai
+506936	539612	crossandean-Huangascar	azan1238		smokeexhaust	778	SMOKE (EXHAUST)		hushta	h u ʃ t a
+506937	539613	crossandean-HuarazHuailas	huai1241		smokeexhaust	778	SMOKE (EXHAUST)		qoshni	q o s n i
+506938	539614	crossandean-Inkawasi	lamb1276		smokeexhaust	778	SMOKE (EXHAUST)		χu.nday	χ u n d ai
+506941	539617	crossandean-Jauja	jauj1238		smokeexhaust	778	SMOKE (EXHAUST)		huntay	h u n t ai
+506944	539620	crossandean-Lamas	sanm1289		smokeexhaust	778	SMOKE (EXHAUST)		kusni	k u s n i
+506945	539621	crossandean-Laraos	yauy1235		smokeexhaust	778	SMOKE (EXHAUST)		qu.šni	q u ʃ n i
+506946	539622	crossandean-Lincha-Tana	tana1291		smokeexhaust	778	SMOKE (EXHAUST)		hushta	h u ʃ t a
+506947	539623	crossandean-Maragua	sout2991		smokeexhaust	778	SMOKE (EXHAUST)		q'u.sñi	qʼ u s ɲ i
+506948	539624	crossandean-Napo	napo1242		smokeexhaust	778	SMOKE (EXHAUST)		cushni	k u ʃ n i
+506949	539625	crossandean-Pacaraos	paca1245		smokeexhaust	778	SMOKE (EXHAUST)		quyay	χ o j ai
+506950	539626	crossandean-Pastaza	sout2990		smokeexhaust	778	SMOKE (EXHAUST)		cushni	k u ʃ n i
+506951	539627	crossandean-Pocona	coch1274		smokeexhaust	778	SMOKE (EXHAUST)		q'u.šñi	qʼ u ʃ ɲ i
+506952	539628	crossandean-Puno	puno1238		smokeexhaust	778	SMOKE (EXHAUST)		q'u.šñi	qʼ u ʃ ɲ i
+506953	539629	crossandean-SanPedro	sanp1258		smokeexhaust	778	SMOKE (EXHAUST)		hushta	h u ʃ t a
+506954	539630	crossandean-Santiagueno	sant1432		smokeexhaust	778	SMOKE (EXHAUST)		qosni	q o s n i
+506955	539631	crossandean-Serena	tena1240		smokeexhaust	778	SMOKE (EXHAUST)		ku.šñi	k u ʃ ɲ i
+506956	539632	crossandean-Tarma	yaru1256		smokeexhaust	778	SMOKE (EXHAUST)		xušĉi	χ o ʂ ʈʂ i
+506957	539633	crossandean-Troje	nort3351		smokeexhaust	778	SMOKE (EXHAUST)		ku.šni	k u ʃ n i
+506958	539634	crossandean-Yanac	coro1247		smokeexhaust	778	SMOKE (EXHAUST)		qu.nte	q u n t e
+507097	539773	hubercolumbian-Inga	inga1252		smokeexhaust	778	SMOKE (EXHAUST)		kúsni	k u s n i
+508243	540919	wold-ImbaburaQuechua	imba1240		smokeexhaust	778	SMOKE (EXHAUST)		kushni	k u ʃ n i
+529904	562580	crossandean-Apuri	apur1253		stand	1442	STAND		saya	s a j a
+529905	562581	crossandean-Apurimac	east2551		stand	1442	STAND		saya	s a j a
+529906	562582	crossandean-Atalla	huan1249		stand	1442	STAND		sa.ya.	s a j a
+529907	562583	crossandean-Ayacucho	ayac1239		stand	1442	STAND		saya	s a j a
+529908	562584	crossandean-Azuay	azua1234		stand	1442	STAND		shaya-na	ʃ a j a + n a
+529909	562585	crossandean-Cacra-Hongos	cacr1238		stand	1442	STAND		saya	h a j a
+529910	562586	crossandean-Chachapoyas	chac1250		stand	1442	STAND		shaya	ʃ a j a
+529911	562587	crossandean-Chetilla	caja1238		stand	1442	STAND		ša.ya.	ʃ a j a
+529912	562588	crossandean-Curva	apol1241		stand	1442	STAND		sa.ya.	s a j a
+529913	562589	crossandean-Cuzco	cusc1236		stand	1442	STAND		sa.ya.	s a j a
+529914	562590	crossandean-Huallaga	hual1241		stand	1442	STAND		ša.ya.	ʃ a j a
+529915	562591	crossandean-Huanca	huay1241		stand	1442	STAND		sa:kuy	s aː + k u
+529916	562592	crossandean-Huanca	huay1241		stand	1442	STAND		sa:kulay	s aː + k u + l a
+529917	562593	crossandean-Huangascar	azan1238		stand	1442	STAND		sayari	s a j a + ɾ i
+529918	562594	crossandean-HuarazHuailas	huai1241		stand	1442	STAND		shaakuy	ʃ aː + k u
+529919	562595	crossandean-Inkawasi	lamb1276		stand	1442	STAND		ša.ya.	ʃ a j a
+529922	562598	crossandean-Lamas	sanm1289		stand	1442	STAND		shaya	ʃ a j a
+529923	562599	crossandean-Laraos	yauy1235		stand	1442	STAND		sa.ya.	s a j a
+529924	562600	crossandean-Lincha-Tana	tana1291		stand	1442	STAND		sayari	s a j a + ɾ i
+529925	562601	crossandean-Maragua	sout2991		stand	1442	STAND		sa.ya.	s a j a
+529926	562602	crossandean-Napo	napo1242		stand	1442	STAND		shayarina	ʃ a j a + r i + n a
+529927	562603	crossandean-Pacaraos	paca1245		stand	1442	STAND		tratra	ʈʂ a ʈʂ a
+529928	562604	crossandean-Pastaza	sout2990		stand	1442	STAND		shayana	ʃ a j a + n a
+529929	562605	crossandean-Pocona	coch1274		stand	1442	STAND		sa.ya.	s a j a
+529930	562606	crossandean-Puno	puno1238		stand	1442	STAND		sa.ya.	s a j a
+529931	562607	crossandean-SanPedro	sanp1258		stand	1442	STAND		sayari	s a j a + ɾ i
+529932	562608	crossandean-Santiagueno	sant1432		stand	1442	STAND		sayay	s a j a
+529933	562609	crossandean-Serena	tena1240		stand	1442	STAND		ša.ya.	ʃ a j a
+529934	562610	crossandean-Tarma	yaru1256		stand	1442	STAND		šaya	ʃ a j a
+529935	562611	crossandean-Troje	nort3351		stand	1442	STAND		ša.ya.	ʃ a j a
+529936	562612	crossandean-Yanac	coro1247		stand	1442	STAND		ša:.	ʃ aː
+530898	563574	wold-ImbaburaQuechua	imba1240		stand	1442	STAND		shayarina	ʃ a j a ɾ i n a
+532059	564735	crossandean-Apuri	apur1253		star	1430	STAR		lusiru	l u s i ɾ u
+532060	564736	crossandean-Apuri	apur1253		star	1430	STAR		quyllur	q oi ʎ u ɾ
+532061	564737	crossandean-Atalla	huan1249		star	1430	STAR		luziru	l u z i r u
+532062	564738	crossandean-Ayacucho	ayac1239		star	1430	STAR		qoyllur	χ oi ʎ u ɾ
+532063	564739	crossandean-Azuay	azua1234		star	1430	STAR		cuillur	k ui ʎ u ɾ
+532064	564740	crossandean-Cacra-Hongos	cacr1238		star	1430	STAR		lusiru	ʃ u s i l u
+532065	564741	crossandean-Cacra-Hongos	cacr1238		star	1430	STAR		quyllur	q oi ʎ u l
+532066	564742	crossandean-Chetilla	caja1238		star	1430	STAR		luzeru	l u z e r u
+532067	564743	crossandean-Curva	apol1241		star	1430	STAR		quyλur	q ui ʎ u r
+532068	564744	crossandean-Cuzco	cusc1236		star	1430	STAR		č'aska	tʃʼ a s k a
+532069	564745	crossandean-Huallaga	hual1241		star	1430	STAR		quyλar	q ui ʎ a r
+532070	564746	crossandean-Huallaga	hual1241		star	1430	STAR		quyλur	q ui ʎ u r
+532071	564747	crossandean-Huanca	huay1241		star	1430	STAR		quyllur	h ui ʎ u r
+532072	564748	crossandean-Huangascar	azan1238		star	1430	STAR		lusiru	l u s i ɾ u
+532073	564749	crossandean-HuarazHuailas	huai1241		star	1430	STAR		qayllur	q ai ʎ u ɾ
+532074	564750	crossandean-Inkawasi	lamb1276		star	1430	STAR		χuyar	χ u j a r
+532076	564752	crossandean-Jauja	jauj1238		star	1430	STAR		quyllur	h ui ʎ u r
+532078	564754	crossandean-Lamas	sanm1289		star	1430	STAR		lusero	l u s e r o
+532079	564755	crossandean-Laraos	yauy1235		star	1430	STAR		quyλur	q ui ʎ u r
+532080	564756	crossandean-Lincha-Tana	tana1291		star	1430	STAR		lusiru	l u s i ɾ u
+532081	564757	crossandean-Lincha-Tana	tana1291		star	1430	STAR		quyllur	q oi ʎ u ɾ
+532082	564758	crossandean-Maragua	sout2991		star	1430	STAR		č'aska	tʃʼ a s k a
+532083	564759	crossandean-Pacaraos	paca1245		star	1430	STAR		loosero	l oː s e ɾ o
+532084	564760	crossandean-Pastaza	sout2990		star	1430	STAR		istirilla	i s t i r i ʎ a
+532085	564761	crossandean-Pocona	coch1274		star	1430	STAR		č'aska	tʃʼ a s k a
+532086	564762	crossandean-Puno	puno1238		star	1430	STAR		č'aska	tʃʼ a s k a
+532087	564763	crossandean-SanPedro	sanp1258		star	1430	STAR		lusiru	l u s i ɾ u
+532088	564764	crossandean-Santiagueno	sant1432		star	1430	STAR		qollur	q o ʒ u ɾ
+532089	564765	crossandean-Serena	tena1240		star	1430	STAR		estrella	e s t r e ʎ a
+532090	564766	crossandean-Tarma	yaru1256		star	1430	STAR		xuyl̃ar	χ oi ʎ a ʐ
+532091	564767	crossandean-Troje	nort3351		star	1430	STAR		luzeru	l u z e r u
+532092	564768	crossandean-Yanac	coro1247		star	1430	STAR		lose:ro	l o s eː r o
+532226	564902	hubercolumbian-Inga	inga1252		star	1430	STAR		istrílʲa	i s t r i lʲ a
+533265	565941	wold-ImbaburaQuechua	imba1240		star	1430	STAR		luziru	l u z i ɾ u
+538593	571270	crossandean-Apuri	apur1253		stone	857	STONE		rumi	ɾ u m i
+538594	571271	crossandean-Apurimac	east2551		stone	857	STONE		rumi	r u m i
+538595	571272	crossandean-Atalla	huan1249		stone	857	STONE		rumi	r u m i
+538596	571273	crossandean-Ayacucho	ayac1239		stone	857	STONE		rumi	ɾ u m i
+538597	571274	crossandean-Azuay	azua1234		stone	857	STONE		rumi	ɾ u m i
+538598	571275	crossandean-Cacra-Hongos	cacr1238		stone	857	STONE		rumi	l u m i
+538599	571276	crossandean-Chachapoyas	chac1250		stone	857	STONE		rumi	r u m i
+538600	571277	crossandean-Chetilla	caja1238		stone	857	STONE		rumi	r u m i
+538601	571278	crossandean-Curva	apol1241		stone	857	STONE		rumi	r u m i
+538602	571279	crossandean-Cuzco	cusc1236		stone	857	STONE		rumi	r u m i
+538603	571280	crossandean-Huallaga	hual1241		stone	857	STONE		rumi	r u m i
+538604	571281	crossandean-Huanca	huay1241		stone	857	STONE		lumi	l u m i
+538605	571282	crossandean-Huangascar	azan1238		stone	857	STONE		rumi	ɾ u m i
+538606	571283	crossandean-HuarazHuailas	huai1241		stone	857	STONE		rumi	ɾ u m i
+538607	571284	crossandean-Inkawasi	lamb1276		stone	857	STONE		řumi	r̝ u m i
+538609	571286	crossandean-Jauja	jauj1238		stone	857	STONE		lumi	l u m i
+538611	571288	crossandean-Lamas	sanm1289		stone	857	STONE		rumi	r u m i
+538612	571289	crossandean-Laraos	yauy1235		stone	857	STONE		rumi	r u m i
+538613	571290	crossandean-Lincha-Tana	tana1291		stone	857	STONE		rumi	l u m i
+538614	571291	crossandean-Maragua	sout2991		stone	857	STONE		řumi	r̝ u m i
+538615	571292	crossandean-Napo	napo1242		stone	857	STONE		rumi	r u m i
+538616	571293	crossandean-Pacaraos	paca1245		stone	857	STONE		rrumay	r u m ai
+538617	571294	crossandean-Pacaraos	paca1245		stone	857	STONE		rrumi	r u m i
+538618	571295	crossandean-Pastaza	sout2990		stone	857	STONE		ɾumi	ɾ u m i
+538619	571296	crossandean-Pocona	coch1274		stone	857	STONE		rumi	r u m i
+538620	571297	crossandean-Puno	puno1238		stone	857	STONE		rumi	r u m i
+538621	571298	crossandean-SanPedro	sanp1258		stone	857	STONE		rumi	ɾ u m i
+538622	571299	crossandean-Santiagueno	sant1432		stone	857	STONE		rumi	ɾ u m i
+538623	571300	crossandean-Serena	tena1240		stone	857	STONE		rumi	r u m i
+538624	571301	crossandean-Tarma	yaru1256		stone	857	STONE		rumi	ʐ u m i
+538625	571302	crossandean-Troje	nort3351		stone	857	STONE		rumi	r u m i
+538626	571303	crossandean-Yanac	coro1247		stone	857	STONE		rumi	r u m i
+538766	571443	hubercolumbian-Inga	inga1252		stone	857	STONE		ɾúmi	ɾ u m i
+547961	580638	crossandean-Apuri	apur1253		sun	1343	SUN		inti	i n t i
+547962	580639	crossandean-Apurimac	east2551		sun	1343	SUN		inti	i n t i
+547963	580640	crossandean-Atalla	huan1249		sun	1343	SUN		inti	i n t i
+547964	580641	crossandean-Ayacucho	ayac1239		sun	1343	SUN		inti	i n t i
+547965	580642	crossandean-Azuay	azua1234		sun	1343	SUN		inti	i n t i
+547966	580643	crossandean-Cacra-Hongos	cacr1238		sun	1343	SUN		inti	i n t i
+547967	580644	crossandean-Chachapoyas	chac1250		sun	1343	SUN		inti	i n d i
+547968	580645	crossandean-Chetilla	caja1238		sun	1343	SUN		rupa.y	r u p ai
+547969	580646	crossandean-Curva	apol1241		sun	1343	SUN		inti	i n t i
+547970	580647	crossandean-Cuzco	cusc1236		sun	1343	SUN		inti	i n t i
+547971	580648	crossandean-Huallaga	hual1241		sun	1343	SUN		inti	i n t i
+547972	580649	crossandean-Huanca	huay1241		sun	1343	SUN		inti	i n t i
+547973	580650	crossandean-Huangascar	azan1238		sun	1343	SUN		inti	i n t i
+547974	580651	crossandean-HuarazHuailas	huai1241		sun	1343	SUN		inti	i ɲ t i
+547975	580652	crossandean-Inkawasi	lamb1276		sun	1343	SUN		rupa.y	r u p ai
+547977	580654	crossandean-Jauja	jauj1238		sun	1343	SUN		inti	i n t i
+547979	580656	crossandean-Lamas	sanm1289		sun	1343	SUN		inti	i n d i
+547980	580657	crossandean-Laraos	yauy1235		sun	1343	SUN		inti	i n t i
+547981	580658	crossandean-Lincha-Tana	tana1291		sun	1343	SUN		inti	i n t i
+547982	580659	crossandean-Maragua	sout2991		sun	1343	SUN		inti	i n t i
+547983	580660	crossandean-Napo	napo1242		sun	1343	SUN		indi	i n d i
+547984	580661	crossandean-Pacaraos	paca1245		sun	1343	SUN		wilka	w i l k a
+547985	580662	crossandean-Pacaraos	paca1245		sun	1343	SUN		rrupay	r u p ai
+547986	580663	crossandean-Pastaza	sout2990		sun	1343	SUN		indi	i n d i
+547987	580664	crossandean-Pocona	coch1274		sun	1343	SUN		inti	i n t i
+547988	580665	crossandean-Puno	puno1238		sun	1343	SUN		inti	i n t i
+547989	580666	crossandean-SanPedro	sanp1258		sun	1343	SUN		inti	i n t i
+547990	580667	crossandean-Santiagueno	sant1432		sun	1343	SUN		inti	i n t i
+547991	580668	crossandean-Serena	tena1240		sun	1343	SUN		indi	i n d i
+547992	580669	crossandean-Tarma	yaru1256		sun	1343	SUN		inti	i n t i
+547993	580670	crossandean-Troje	nort3351		sun	1343	SUN		inti	i n t i
+547994	580671	crossandean-Yanac	coro1247		sun	1343	SUN		rupe:	r u p eː
+548152	580829	hubercolumbian-Inga	inga1252		sun	1343	SUN		índi	i n d i
+549383	582060	wold-ImbaburaQuechua	imba1240		sun	1343	SUN		inti	i n d i
+555055	587732	crossandean-Atalla	huan1249		swim	1439	SWIM		sambu.λa.	s a m b u + ʎ a
+555056	587733	crossandean-Ayacucho	ayac1239		swim	1439	SWIM		nadya	n a d j a
+555057	587734	crossandean-Azuay	azua1234		swim	1439	SWIM		huambu-na	w a m b u + n a
+555058	587735	crossandean-Chachapoyas	chac1250		swim	1439	SWIM		wayta	w ai t a
+555059	587736	crossandean-Chetilla	caja1238		swim	1439	SWIM		nada.	n a d a
+555060	587737	crossandean-Curva	apol1241		swim	1439	SWIM		sambu.λa.	s a m b u + ʎ a
+555061	587738	crossandean-Cuzco	cusc1236		swim	1439	SWIM		wayta.	w ai t a
+555062	587739	crossandean-Huallaga	hual1241		swim	1439	SWIM		narya.	n a r j a
+555063	587740	crossandean-Huanca	huay1241		swim	1439	SWIM		ma:tay	m aː t a
+555064	587741	crossandean-Inkawasi	lamb1276		swim	1439	SWIM		nada.	n a d a
+555067	587744	crossandean-Lamas	sanm1289		swim	1439	SWIM		wayta	w ai t a
+555068	587745	crossandean-Laraos	yauy1235		swim	1439	SWIM		nada.	n a d a
+555069	587746	crossandean-Maragua	sout2991		swim	1439	SWIM		wayt'a.	w ai tʼ a
+555070	587747	crossandean-Napo	napo1242		swim	1439	SWIM		huaitana	w ai t a + n a
+555071	587748	crossandean-Pastaza	sout2990		swim	1439	SWIM		waytana	w ai t a + n a
+555072	587749	crossandean-Pocona	coch1274		swim	1439	SWIM		wayt'a.	w ai tʼ a
+555073	587750	crossandean-Puno	puno1238		swim	1439	SWIM		tuyu.	t u j u
+555074	587751	crossandean-Santiagueno	sant1432		swim	1439	SWIM		waytay	w ai t a
+555075	587752	crossandean-Serena	tena1240		swim	1439	SWIM		wayta.	w ai t a
+555076	587753	crossandean-Tarma	yaru1256		swim	1439	SWIM		badu	b a d u
+555077	587754	crossandean-Troje	nort3351		swim	1439	SWIM		wambu.	w a m b u
+555078	587755	crossandean-Yanac	coro1247		swim	1439	SWIM		nada.	n a d a
+555197	587874	hubercolumbian-Inga	inga1252		swim	1439	SWIM		wajtáj	w a j t a j
+555814	588491	wold-ImbaburaQuechua	imba1240		swim	1439	SWIM		wambuna	w a m b u n a
+557484	590161	crossandean-Apuri	apur1253		tail	1220	TAIL		trupa	ʈ u p a
+557485	590162	crossandean-Apurimac	east2551		tail	1220	TAIL		chupa	tʃ u p a
+557486	590163	crossandean-Atalla	huan1249		tail	1220	TAIL		čupa	tʃ u p a
+557487	590164	crossandean-Ayacucho	ayac1239		tail	1220	TAIL		chupa	tʃ u p a
+557488	590165	crossandean-Azuay	azua1234		tail	1220	TAIL		chupa	tʃ u p a
+557489	590166	crossandean-Cacra-Hongos	cacr1238		tail	1220	TAIL		trupa	ʈ u p a
+557490	590167	crossandean-Chachapoyas	chac1250		tail	1220	TAIL		ĉupa	ʈʂ u p a
+557491	590168	crossandean-Chetilla	caja1238		tail	1220	TAIL		ĉupa	ʈʂ u p a
+557492	590169	crossandean-Curva	apol1241		tail	1220	TAIL		čupa	tʃ u p a
+557493	590170	crossandean-Cuzco	cusc1236		tail	1220	TAIL		čupa	tʃ u p a
+557494	590171	crossandean-Huallaga	hual1241		tail	1220	TAIL		čupa	tʃ u p a
+557495	590172	crossandean-Huanca	huay1241		tail	1220	TAIL		trupa	ʈʂ u p a
+557496	590173	crossandean-Huangascar	azan1238		tail	1220	TAIL		trupa	ʈ u p a
+557497	590174	crossandean-HuarazHuailas	huai1241		tail	1220	TAIL		chupa	tʃ u p a
+557498	590175	crossandean-Inkawasi	lamb1276		tail	1220	TAIL		ĉupa	ʈʂ u p a
+557500	590177	crossandean-Jauja	jauj1238		tail	1220	TAIL		trupa	ʈʂ u p a
+557502	590179	crossandean-Lamas	sanm1289		tail	1220	TAIL		chupa	tʃ u p a
+557503	590180	crossandean-Laraos	yauy1235		tail	1220	TAIL		ĉupa	ʈʂ u p a
+557504	590181	crossandean-Lincha-Tana	tana1291		tail	1220	TAIL		trupa	ʈ u p a
+557505	590182	crossandean-Maragua	sout2991		tail	1220	TAIL		čupa	tʃ u p a
+557506	590183	crossandean-Napo	napo1242		tail	1220	TAIL		chupa	tʃ u p a
+557507	590184	crossandean-Pacaraos	paca1245		tail	1220	TAIL		trupa	ʈʂ u p a
+557508	590185	crossandean-Pastaza	sout2990		tail	1220	TAIL		chupa	tʃ u p a
+557509	590186	crossandean-Pocona	coch1274		tail	1220	TAIL		čupa	tʃ u p a
+557510	590187	crossandean-Puno	puno1238		tail	1220	TAIL		čupa	tʃ u p a
+557511	590188	crossandean-SanPedro	sanp1258		tail	1220	TAIL		trupa	ʈ u p a
+557512	590189	crossandean-Santiagueno	sant1432		tail	1220	TAIL		chupa	tʃ u p a
+557513	590190	crossandean-Serena	tena1240		tail	1220	TAIL		čupa	tʃ u p a
+557514	590191	crossandean-Tarma	yaru1256		tail	1220	TAIL		ĉuba	ʈʂ u b a
+557515	590192	crossandean-Troje	nort3351		tail	1220	TAIL		čupa	tʃ u p a
+557516	590193	crossandean-Yanac	coro1247		tail	1220	TAIL		ĉupa	ʈʂ u p a
+557648	590325	hubercolumbian-Inga	inga1252		tail	1220	TAIL		ʧúpa	tʃ u p a
+558699	591376	wold-ImbaburaQuechua	imba1240		tail	1220	TAIL		chupa	tʃ u p a
+567029	599708	hubercolumbian-Inga	inga1252		that	78	THAT		ʧí	tʃ i
+567693	600372	wold-ImbaburaQuechua	imba1240		that	78	THAT		chay	tʃ a j
+577964	610643	crossandean-Apuri	apur1253		this	1214	THIS		kay	k ai
+577965	610644	crossandean-Apurimac	east2551		this	1214	THIS		kay	k ai
+577966	610645	crossandean-Atalla	huan1249		this	1214	THIS		kay	k ai
+577967	610646	crossandean-Ayacucho	ayac1239		this	1214	THIS		kay	k ai
+577968	610647	crossandean-Azuay	azua1234		this	1214	THIS		cay	k ai
+577969	610648	crossandean-Cacra-Hongos	cacr1238		this	1214	THIS		kay	k ai
+577970	610649	crossandean-Chachapoyas	chac1250		this	1214	THIS		kay	k ai
+577971	610650	crossandean-Chetilla	caja1238		this	1214	THIS		kay	k ai
+577972	610651	crossandean-Curva	apol1241		this	1214	THIS		kay	k ai
+577973	610652	crossandean-Cuzco	cusc1236		this	1214	THIS		kay	k ai
+577974	610653	crossandean-Huallaga	hual1241		this	1214	THIS		kay	k ai
+577975	610654	crossandean-Huanca	huay1241		this	1214	THIS		kay	k ai
+577976	610655	crossandean-Huangascar	azan1238		this	1214	THIS		kay	k ai
+577977	610656	crossandean-Inkawasi	lamb1276		this	1214	THIS		kay	k ai
+577979	610658	crossandean-Jauja	jauj1238		this	1214	THIS		kay	k ai
+577981	610660	crossandean-Lamas	sanm1289		this	1214	THIS		kay	k ai
+577982	610661	crossandean-Laraos	yauy1235		this	1214	THIS		kay	k ai
+577983	610662	crossandean-Lincha-Tana	tana1291		this	1214	THIS		kay	k ai
+577984	610663	crossandean-Maragua	sout2991		this	1214	THIS		kay	k ai
+577985	610664	crossandean-Napo	napo1242		this	1214	THIS		cai	k ai
+577986	610665	crossandean-Pacaraos	paca1245		this	1214	THIS		kay	k ai
+577987	610666	crossandean-Pastaza	sout2990		this	1214	THIS		cay	k ai
+577988	610667	crossandean-Pocona	coch1274		this	1214	THIS		kay	k ai
+577989	610668	crossandean-Puno	puno1238		this	1214	THIS		kay	k ai
+577990	610669	crossandean-SanPedro	sanp1258		this	1214	THIS		kay	k ai
+577991	610670	crossandean-Santiagueno	sant1432		this	1214	THIS		kay	k ai
+577992	610671	crossandean-Serena	tena1240		this	1214	THIS		kay	k ai
+577993	610672	crossandean-Tarma	yaru1256		this	1214	THIS		kay	k ai
+577994	610673	crossandean-Troje	nort3351		this	1214	THIS		kay	k ai
+577995	610674	crossandean-Yanac	coro1247		this	1214	THIS		ke:	k eː
+578114	610793	hubercolumbian-Inga	inga1252		this	1214	THIS		káj	k a j
+578777	611457	wold-ImbaburaQuechua	imba1240		this	1214	THIS		kay	k a j
+580116	612798	crossandean-Apuri	apur1253		thou	1215	THOU		qam	q a m
+580117	612799	crossandean-Apurimac	east2551		thou	1215	THOU		qan	q a n
+580118	612800	crossandean-Atalla	huan1249		thou	1215	THOU		χam	χ a m
+580119	612801	crossandean-Ayacucho	ayac1239		thou	1215	THOU		qam	χ a m
+580120	612802	crossandean-Azuay	azua1234		thou	1215	THOU		can	k a n
+580121	612803	crossandean-Cacra-Hongos	cacr1238		thou	1215	THOU		qam	q a m
+580122	612804	crossandean-Chachapoyas	chac1250		thou	1215	THOU		kam	k a m
+580123	612805	crossandean-Chetilla	caja1238		thou	1215	THOU		qam	q a m
+580124	612806	crossandean-Curva	apol1241		thou	1215	THOU		qan	q a n
+580125	612807	crossandean-Cuzco	cusc1236		thou	1215	THOU		qan	q a n
+580126	612808	crossandean-Huallaga	hual1241		thou	1215	THOU		qam	q a m
+580127	612809	crossandean-Huanca	huay1241		thou	1215	THOU		qam	q a m
+580128	612810	crossandean-Huangascar	azan1238		thou	1215	THOU		qam	q a m
+580129	612811	crossandean-HuarazHuailas	huai1241		thou	1215	THOU		qam	q a m
+580130	612812	crossandean-Inkawasi	lamb1276		thou	1215	THOU		xam	x a m
+580132	612814	crossandean-Jauja	jauj1238		thou	1215	THOU		qam	q a m
+580134	612816	crossandean-Lamas	sanm1289		thou	1215	THOU		kam	k a m
+580135	612817	crossandean-Laraos	yauy1235		thou	1215	THOU		qam	q a m
+580136	612818	crossandean-Lincha-Tana	tana1291		thou	1215	THOU		qam	q a m
+580137	612819	crossandean-Maragua	sout2991		thou	1215	THOU		qan	q a n
+580138	612820	crossandean-Napo	napo1242		thou	1215	THOU		can	k a n
+580139	612821	crossandean-Pacaraos	paca1245		thou	1215	THOU		qam	ʁ a m
+580140	612822	crossandean-Pastaza	sout2990		thou	1215	THOU		can	k a n
+580141	612823	crossandean-Pocona	coch1274		thou	1215	THOU		γan	ʁ a n
+580142	612824	crossandean-Puno	puno1238		thou	1215	THOU		qan	q a n
+580143	612825	crossandean-SanPedro	sanp1258		thou	1215	THOU		qam	q a m
+580144	612826	crossandean-Santiagueno	sant1432		thou	1215	THOU		qam	q a m
+580145	612827	crossandean-Serena	tena1240		thou	1215	THOU		kan	k a n
+580146	612828	crossandean-Tarma	yaru1256		thou	1215	THOU		xam	χ a m
+580147	612829	crossandean-Troje	nort3351		thou	1215	THOU		kan	k a n
+580148	612830	crossandean-Yanac	coro1247		thou	1215	THOU		qam	q a m
+580307	612989	hubercolumbian-Inga	inga1252		thou	1215	THOU		kám	k a m
+581029	613712	wold-ImbaburaQuechua	imba1240		thou	1215	THOU		kan	k a ŋ
+596053	628740	crossandean-Apuri	apur1253		tongue	1205	TONGUE		qallu	q a ʎ u
+596054	628741	crossandean-Apurimac	east2551		tongue	1205	TONGUE		qallu	q a ʎ u
+596055	628742	crossandean-Atalla	huan1249		tongue	1205	TONGUE		χaλu	χ a ʎ u
+596056	628743	crossandean-Ayacucho	ayac1239		tongue	1205	TONGUE		qallu	χ a ʎ u
+596057	628744	crossandean-Azuay	azua1234		tongue	1205	TONGUE		callu	k a ʎ u
+596058	628745	crossandean-Cacra-Hongos	cacr1238		tongue	1205	TONGUE		qallu	q a ʎ u
+596059	628746	crossandean-Chachapoyas	chac1250		tongue	1205	TONGUE		kallu	k a dʑ u
+596060	628747	crossandean-Chetilla	caja1238		tongue	1205	TONGUE		qadyu	q a dʑ u
+596061	628748	crossandean-Curva	apol1241		tongue	1205	TONGUE		qaλu	q a ʎ u
+596062	628749	crossandean-Cuzco	cusc1236		tongue	1205	TONGUE		qaλu	q a ʎ u
+596063	628750	crossandean-Huallaga	hual1241		tongue	1205	TONGUE		qaλu	q a ʎ u
+596064	628751	crossandean-Huanca	huay1241		tongue	1205	TONGUE		qallu	h a ʎ u
+596065	628752	crossandean-Huangascar	azan1238		tongue	1205	TONGUE		qallu	q a ʎ u
+596066	628753	crossandean-HuarazHuailas	huai1241		tongue	1205	TONGUE		qallu	q a ʎ u
+596067	628754	crossandean-Inkawasi	lamb1276		tongue	1205	TONGUE		qadžu	q a dʒ u
+596068	628755	crossandean-Inkawasi	lamb1276		tongue	1205	TONGUE		χadžu	χ a dʒ u
+596070	628757	crossandean-Jauja	jauj1238		tongue	1205	TONGUE		qallu	h a ʎ u
+596072	628759	crossandean-Lamas	sanm1289		tongue	1205	TONGUE		kallu	k a dʑ u
+596073	628760	crossandean-Laraos	yauy1235		tongue	1205	TONGUE		qaλu	q a ʎ u
+596074	628761	crossandean-Lincha-Tana	tana1291		tongue	1205	TONGUE		qallu	q a ʎ u
+596075	628762	crossandean-Maragua	sout2991		tongue	1205	TONGUE		qaλu	q a ʎ u
+596076	628763	crossandean-Napo	napo1242		tongue	1205	TONGUE		callu	k a ʎ u
+596077	628764	crossandean-Pacaraos	paca1245		tongue	1205	TONGUE		qallu	ʁ a ʎ u
+596078	628765	crossandean-Pacaraos	paca1245		tongue	1205	TONGUE		qalu	ʁ a l u
+596079	628766	crossandean-Pastaza	sout2990		tongue	1205	TONGUE		callu	k a ʎ u
+596080	628767	crossandean-Pocona	coch1274		tongue	1205	TONGUE		ġaλu	ɢ a ʎ u
+596081	628768	crossandean-Puno	puno1238		tongue	1205	TONGUE		qaλu	q a ʎ u
+596082	628769	crossandean-SanPedro	sanp1258		tongue	1205	TONGUE		qallu	q a ʎ u
+596083	628770	crossandean-Santiagueno	sant1432		tongue	1205	TONGUE		qallu	q a ʒ u
+596084	628771	crossandean-Serena	tena1240		tongue	1205	TONGUE		kaλu	k a ʎ u
+596085	628772	crossandean-Tarma	yaru1256		tongue	1205	TONGUE		xal̃u	χ a ʎ u
+596086	628773	crossandean-Troje	nort3351		tongue	1205	TONGUE		khažu	kʰ a ʒ u
+596087	628774	crossandean-Yanac	coro1247		tongue	1205	TONGUE		qaλu	q a ʎ u
+596207	628894	hubercolumbian-Inga	inga1252		tongue	1205	TONGUE		kálʲu	k a lʲ u
+597404	630091	wold-ImbaburaQuechua	imba1240		tongue	1205	TONGUE		jallu	x a ʒ u
+598254	630941	crossandean-Apuri	apur1253		tooth	1380	TOOTH		kiru	k i ɾ u
+598255	630942	crossandean-Apurimac	east2551		tooth	1380	TOOTH		kiru	k i r u
+598256	630943	crossandean-Atalla	huan1249		tooth	1380	TOOTH		kiru	k i r u
+598257	630944	crossandean-Ayacucho	ayac1239		tooth	1380	TOOTH		kiru	k i ɾ u
+598258	630945	crossandean-Azuay	azua1234		tooth	1380	TOOTH		quiru	k i ɾ u
+598259	630946	crossandean-Cacra-Hongos	cacr1238		tooth	1380	TOOTH		kiru	k i l u
+598260	630947	crossandean-Chachapoyas	chac1250		tooth	1380	TOOTH		kiru	k i r u
+598261	630948	crossandean-Chetilla	caja1238		tooth	1380	TOOTH		kiru	k i r u
+598262	630949	crossandean-Curva	apol1241		tooth	1380	TOOTH		kiru	k i r u
+598263	630950	crossandean-Cuzco	cusc1236		tooth	1380	TOOTH		kiru	k i r u
+598264	630951	crossandean-Huallaga	hual1241		tooth	1380	TOOTH		kiru	k i r u
+598265	630952	crossandean-Huanca	huay1241		tooth	1380	TOOTH		kilu	k i l u
+598266	630953	crossandean-Huangascar	azan1238		tooth	1380	TOOTH		kiru	k i ɾ u
+598267	630954	crossandean-HuarazHuailas	huai1241		tooth	1380	TOOTH		kiru	k i ɾ u
+598268	630955	crossandean-Inkawasi	lamb1276		tooth	1380	TOOTH		kiru	k i r u
+598270	630957	crossandean-Jauja	jauj1238		tooth	1380	TOOTH		kilu	k i l u
+598272	630959	crossandean-Lamas	sanm1289		tooth	1380	TOOTH		kiru	k i r u
+598273	630960	crossandean-Laraos	yauy1235		tooth	1380	TOOTH		kiru	k i r u
+598274	630961	crossandean-Lincha-Tana	tana1291		tooth	1380	TOOTH		kiru	k i ɾ u
+598275	630962	crossandean-Maragua	sout2991		tooth	1380	TOOTH		kiru	k i r u
+598276	630963	crossandean-Napo	napo1242		tooth	1380	TOOTH		quiru	k i r u
+598277	630964	crossandean-Pacaraos	paca1245		tooth	1380	TOOTH		kiru	k i ɾ u
+598278	630965	crossandean-Pastaza	sout2990		tooth	1380	TOOTH		quiru	k i r u
+598279	630966	crossandean-Pocona	coch1274		tooth	1380	TOOTH		kiru	k i r u
+598280	630967	crossandean-Puno	puno1238		tooth	1380	TOOTH		kiru	k i r u
+598281	630968	crossandean-SanPedro	sanp1258		tooth	1380	TOOTH		kiru	k i ɾ u
+598282	630969	crossandean-Santiagueno	sant1432		tooth	1380	TOOTH		kiru	k i ɾ u
+598283	630970	crossandean-Serena	tena1240		tooth	1380	TOOTH		kiru	k i r u
+598284	630971	crossandean-Tarma	yaru1256		tooth	1380	TOOTH		kiru	k i ɾ u
+598285	630972	crossandean-Troje	nort3351		tooth	1380	TOOTH		kiru	k i r u
+598286	630973	crossandean-Yanac	coro1247		tooth	1380	TOOTH		kiru	k i r u
+598383	631070	hubercolumbian-Inga	inga1252		tooth	1380	TOOTH		kíru	k i r u
+599586	632273	wold-ImbaburaQuechua	imba1240		tooth	1380	TOOTH		kiru	k i ɾ u
+602603	635290	crossandean-Apuri	apur1253		tree	906	TREE		qiru	q e ɾ u
+602604	635291	crossandean-Apurimac	east2551		tree	906	TREE		pisonay	p i s o n a
+602605	635292	crossandean-Apurimac	east2551		tree	906	TREE		sacha	s a tʃ a
+602606	635293	crossandean-Atalla	huan1249		tree	906	TREE		sača	s a tʃ a
+602607	635294	crossandean-Ayacucho	ayac1239		tree	906	TREE		sacha	s a tʃ a
+602608	635295	crossandean-Azuay	azua1234		tree	906	TREE		yura	j u ɾ a
+602609	635296	crossandean-Cacra-Hongos	cacr1238		tree	906	TREE		qiru	q e l u
+602610	635297	crossandean-Chachapoyas	chac1250		tree	906	TREE		yura	j u r a
+602611	635298	crossandean-Chetilla	caja1238		tree	906	TREE		qiru	q i r u
+602612	635299	crossandean-Curva	apol1241		tree	906	TREE		sač'a	s a tʃʼ a
+602613	635300	crossandean-Cuzco	cusc1236		tree	906	TREE		maλki	m a ʎ k i
+602614	635301	crossandean-Huallaga	hual1241		tree	906	TREE		qiru	q i r u
+602615	635302	crossandean-Huanca	huay1241		tree	906	TREE		hatra	h a ʈʂ a
+602616	635303	crossandean-Huangascar	azan1238		tree	906	TREE		qiru	q e ɾ u
+602617	635304	crossandean-HuarazHuailas	huai1241		tree	906	TREE		qeru	q e ɾ u
+602618	635305	crossandean-Inkawasi	lamb1276		tree	906	TREE		χiru	χ i r u
+602620	635307	crossandean-Jauja	jauj1238		tree	906	TREE		satra	s a ʈʂ a
+602622	635309	crossandean-Lamas	sanm1289		tree	906	TREE		yura	j u r a
+602623	635310	crossandean-Laraos	yauy1235		tree	906	TREE		munti	m u n t i
+602624	635311	crossandean-Lincha-Tana	tana1291		tree	906	TREE		qiru	q e ɾ u
+602625	635312	crossandean-Maragua	sout2991		tree	906	TREE		sač'a	s a tʃʼ a
+602626	635313	crossandean-Napo	napo1242		tree	906	TREE		ruya	r u j a
+602627	635314	crossandean-Pacaraos	paca1245		tree	906	TREE		qiru	χ e ɾ u
+602628	635315	crossandean-Pastaza	sout2990		tree	906	TREE		caspi	k a s p i
+602629	635316	crossandean-Pocona	coch1274		tree	906	TREE		sač'a	s a tʃʼ a
+602630	635317	crossandean-Puno	puno1238		tree	906	TREE		quqa	q u q a
+602631	635318	crossandean-SanPedro	sanp1258		tree	906	TREE		qiru	q e ɾ u
+602632	635319	crossandean-Santiagueno	sant1432		tree	906	TREE		taqo	t a χ o
+602633	635320	crossandean-Serena	tena1240		tree	906	TREE		yura	j u r a
+602634	635321	crossandean-Tarma	yaru1256		tree	906	TREE		xiru	χ e ɾ u
+602635	635322	crossandean-Troje	nort3351		tree	906	TREE		yura	j u r a
+602636	635323	crossandean-Yanac	coro1247		tree	906	TREE		aĉa	a ʈʂ a
+602788	635475	hubercolumbian-Inga	inga1252		tree	906	TREE		sáʧa	s a tʃ a
+603984	636671	wold-ImbaburaQuechua	imba1240		tree	906	TREE		yura	j u ɾ a
+611089	643776	crossandean-Apuri	apur1253		two	1498	TWO		ishkay	i ʃ k ai
+611090	643777	crossandean-Apurimac	east2551		two	1498	TWO		iskay	i s k ai
+611091	643778	crossandean-Atalla	huan1249		two	1498	TWO		iskay	i s k ai
+611092	643779	crossandean-Ayacucho	ayac1239		two	1498	TWO		iskay	i s k ai
+611093	643780	crossandean-Azuay	azua1234		two	1498	TWO		ishcay	i ʃ k ai
+611094	643781	crossandean-Cacra-Hongos	cacr1238		two	1498	TWO		ishkay	i ʃ k ai
+611095	643782	crossandean-Chachapoyas	chac1250		two	1498	TWO		ishkay	i ç k ai
+611096	643783	crossandean-Chetilla	caja1238		two	1498	TWO		iškay	i s k ai
+611097	643784	crossandean-Curva	apol1241		two	1498	TWO		iskay	i s k ai
+611098	643785	crossandean-Cuzco	cusc1236		two	1498	TWO		iskay	i s k ai
+611099	643786	crossandean-Huallaga	hual1241		two	1498	TWO		iškay	i s k ai
+611100	643787	crossandean-Huanca	huay1241		two	1498	TWO		ishkay	i ʃ k ai
+611101	643788	crossandean-Huangascar	azan1238		two	1498	TWO		ishkay	i ʃ k ai
+611102	643789	crossandean-HuarazHuailas	huai1241		two	1498	TWO		ishkay	i ʃ k ai
+611103	643790	crossandean-Inkawasi	lamb1276		two	1498	TWO		iškay	i s k ai
+611105	643792	crossandean-Jauja	jauj1238		two	1498	TWO		ishkay	i ʃ k ai
+611107	643794	crossandean-Lamas	sanm1289		two	1498	TWO		ishkay	i ç k ai
+611108	643795	crossandean-Laraos	yauy1235		two	1498	TWO		iškay	i ʃ k ai
+611109	643796	crossandean-Lincha-Tana	tana1291		two	1498	TWO		ishkay	i ʃ k ai
+611110	643797	crossandean-Maragua	sout2991		two	1498	TWO		iskay	i s k ai
+611111	643798	crossandean-Napo	napo1242		two	1498	TWO		ishcai	i ʃ k ai
+611112	643799	crossandean-Pacaraos	paca1245		two	1498	TWO		ishkay	i ç k ai
+611113	643800	crossandean-Pastaza	sout2990		two	1498	TWO		ishcay	i ʃ k ai
+611114	643801	crossandean-Pocona	coch1274		two	1498	TWO		iskay	i s k ai
+611115	643802	crossandean-Puno	puno1238		two	1498	TWO		iskay	i s k ai
+611116	643803	crossandean-SanPedro	sanp1258		two	1498	TWO		ishkay	i ʃ k ai
+611117	643804	crossandean-Santiagueno	sant1432		two	1498	TWO		ishkay	i ʃ k ai
+611118	643805	crossandean-Serena	tena1240		two	1498	TWO		iški	i ʃ k i
+611119	643806	crossandean-Tarma	yaru1256		two	1498	TWO		išgay	i ç g ai
+611120	643807	crossandean-Troje	nort3351		two	1498	TWO		iški	i ʃ k i
+611121	643808	crossandean-Yanac	coro1247		two	1498	TWO		iške:	i ʃ k eː
+611287	643974	hubercolumbian-Inga	inga1252		two	1498	TWO		ískaj	i s k a j
+612472	645159	wold-ImbaburaQuechua	imba1240		two	1498	TWO		ishkay	i ʃ k a j
+626948	679609	crossandean-Apuri	apur1253		white	1335	WHITE		yuraq	j u ɾ a q
+626949	679610	crossandean-Apurimac	east2551		white	1335	WHITE		yuraq	j u r a q
+626950	679611	crossandean-Atalla	huan1249		white	1335	WHITE		ruyaχ	r u j a χ
+626951	679612	crossandean-Atalla	huan1249		white	1335	WHITE		yuraχ	j u r a χ
+626952	679613	crossandean-Ayacucho	ayac1239		white	1335	WHITE		yuraq	j u ɾ a χ
+626953	679614	crossandean-Azuay	azua1234		white	1335	WHITE		yurag	j u ɾ a g
+626954	679615	crossandean-Cacra-Hongos	cacr1238		white	1335	WHITE		yuraq	j u l a q
+626955	679616	crossandean-Chachapoyas	chac1250		white	1335	WHITE		yurak	j u r a k
+626956	679617	crossandean-Chetilla	caja1238		white	1335	WHITE		yuraq	j u r a q
+626957	679618	crossandean-Curva	apol1241		white	1335	WHITE		yuraχ	j u r a χ
+626958	679619	crossandean-Cuzco	cusc1236		white	1335	WHITE		yuraχ	j u r a χ
+626959	679620	crossandean-Huallaga	hual1241		white	1335	WHITE		yuraχ	j u r a χ
+626960	679621	crossandean-Huanca	huay1241		white	1335	WHITE		yulaq	j u l a ʔ
+626961	679622	crossandean-Huangascar	azan1238		white	1335	WHITE		yuraq	j u ɾ a q
+626962	679623	crossandean-HuarazHuailas	huai1241		white	1335	WHITE		yulaq	j u l a q
+626963	679624	crossandean-Inkawasi	lamb1276		white	1335	WHITE		yuraq	j u r a q
+626965	679626	crossandean-Jauja	jauj1238		white	1335	WHITE		yulaq	j u l a ʔ
+626967	679628	crossandean-Lamas	sanm1289		white	1335	WHITE		yurak	j u r a k
+626968	679629	crossandean-Laraos	yauy1235		white	1335	WHITE		yuraχ	j u r a χ
+626969	679630	crossandean-Lincha-Tana	tana1291		white	1335	WHITE		yuraq	j u ɾ a q
+626970	679631	crossandean-Maragua	sout2991		white	1335	WHITE		yuraχ	j u r a χ
+626971	679632	crossandean-Napo	napo1242		white	1335	WHITE		ruyaj	r u j a χ
+626972	679633	crossandean-Pacaraos	paca1245		white	1335	WHITE		yuraq	j u ɾ a χ
+626973	679634	crossandean-Pastaza	sout2990		white	1335	WHITE		yura	j u r a
+626974	679635	crossandean-Pocona	coch1274		white	1335	WHITE		yuraχ	j u r a χ
+626975	679636	crossandean-Puno	puno1238		white	1335	WHITE		yuraχ	j u r a χ
+626976	679637	crossandean-SanPedro	sanp1258		white	1335	WHITE		yuraq	j u ɾ a q
+626977	679638	crossandean-Santiagueno	sant1432		white	1335	WHITE		yuraq	j u ɾ a χ
+626978	679639	crossandean-Serena	tena1240		white	1335	WHITE		yurax	j u r a x
+626979	679640	crossandean-Tarma	yaru1256		white	1335	WHITE		yurax	j u ɾ a χ
+626980	679641	crossandean-Troje	nort3351		white	1335	WHITE		yurax	j u r a x
+626981	679642	crossandean-Yanac	coro1247		white	1335	WHITE		yuraq	j u r a q
+627137	679798	hubercolumbian-Inga	inga1252		white	1335	WHITE		júra	j u r a
+628303	680964	wold-ImbaburaQuechua	imba1240		white	1335	WHITE		yuraj	j u ɾ a x
+629438	682191	crossandean-Apuri	apur1253		who	1235	WHO		pi	p i
+629439	682192	crossandean-Apurimac	east2551		who	1235	WHO		pi	p i
+629440	682193	crossandean-Atalla	huan1249		who	1235	WHO		pi	p i
+629441	682194	crossandean-Ayacucho	ayac1239		who	1235	WHO		pi	p i
+629442	682195	crossandean-Azuay	azua1234		who	1235	WHO		pi	p i
+629443	682196	crossandean-Cacra-Hongos	cacr1238		who	1235	WHO		pi	p i
+629444	682197	crossandean-Chachapoyas	chac1250		who	1235	WHO		pi	p i
+629445	682198	crossandean-Chetilla	caja1238		who	1235	WHO		pi	p i
+629446	682199	crossandean-Curva	apol1241		who	1235	WHO		pi	p i
+629447	682200	crossandean-Cuzco	cusc1236		who	1235	WHO		pi	p i
+629448	682201	crossandean-Huallaga	hual1241		who	1235	WHO		pi	p i
+629449	682202	crossandean-Huanca	huay1241		who	1235	WHO		pi	p i
+629450	682203	crossandean-Huangascar	azan1238		who	1235	WHO		pi	p i
+629451	682204	crossandean-HuarazHuailas	huai1241		who	1235	WHO		pi	p i
+629452	682205	crossandean-Inkawasi	lamb1276		who	1235	WHO		pi	p i
+629454	682207	crossandean-Jauja	jauj1238		who	1235	WHO		pi	p i
+629456	682209	crossandean-Lamas	sanm1289		who	1235	WHO		pi	p i
+629457	682210	crossandean-Laraos	yauy1235		who	1235	WHO		pi	p i
+629458	682211	crossandean-Lincha-Tana	tana1291		who	1235	WHO		pi	p i
+629459	682212	crossandean-Maragua	sout2991		who	1235	WHO		pi	p i
+629460	682213	crossandean-Napo	napo1242		who	1235	WHO		maican	m ai k a n
+629461	682214	crossandean-Pacaraos	paca1245		who	1235	WHO		pii	p iː
+629462	682215	crossandean-Pastaza	sout2990		who	1235	WHO		pi	p i
+629463	682216	crossandean-Pocona	coch1274		who	1235	WHO		pi	p i
+629464	682217	crossandean-Puno	puno1238		who	1235	WHO		pi	p i
+629465	682218	crossandean-SanPedro	sanp1258		who	1235	WHO		pi	p i
+629466	682219	crossandean-Santiagueno	sant1432		who	1235	WHO		pitaq	p i + t a χ
+629467	682220	crossandean-Serena	tena1240		who	1235	WHO		pi	p i
+629468	682221	crossandean-Tarma	yaru1256		who	1235	WHO		pi	p i
+629469	682222	crossandean-Troje	nort3351		who	1235	WHO		pi	p i
+629470	682223	crossandean-Yanac	coro1247		who	1235	WHO		pi	p i
+629595	682348	hubercolumbian-Inga	inga1252		who	1235	WHO		pí	p i
+630506	683259	wold-ImbaburaQuechua	imba1240		who	1235	WHO		pi	p i
+639772	692527	crossandean-Apuri	apur1253		woman	962	WOMAN		warmi	w a ɾ m i
+639773	692528	crossandean-Apurimac	east2551		woman	962	WOMAN		warmi	w a r m i
+639774	692529	crossandean-Atalla	huan1249		woman	962	WOMAN		warmi	w a r m i
+639775	692530	crossandean-Ayacucho	ayac1239		woman	962	WOMAN		warmi	w a ɾ m i
+639776	692531	crossandean-Azuay	azua1234		woman	962	WOMAN		huarmi	w a ɾ m i
+639777	692532	crossandean-Cacra-Hongos	cacr1238		woman	962	WOMAN		warmi	w a l m i
+639778	692533	crossandean-Chachapoyas	chac1250		woman	962	WOMAN		warmi	w a r m i
+639779	692534	crossandean-Chetilla	caja1238		woman	962	WOMAN		warmi	w a r m i
+639780	692535	crossandean-Curva	apol1241		woman	962	WOMAN		warmi	w a r m i
+639781	692536	crossandean-Cuzco	cusc1236		woman	962	WOMAN		warmi	w a r m i
+639782	692537	crossandean-Huallaga	hual1241		woman	962	WOMAN		warmi	w a r m i
+639783	692538	crossandean-Huanca	huay1241		woman	962	WOMAN		walmi	w a l m i
+639784	692539	crossandean-Huangascar	azan1238		woman	962	WOMAN		warmi	w a ɾ m i
+639785	692540	crossandean-HuarazHuailas	huai1241		woman	962	WOMAN		warmi	w a ɾ m i
+639786	692541	crossandean-Inkawasi	lamb1276		woman	962	WOMAN		warmi	w a r m i
+639788	692543	crossandean-Jauja	jauj1238		woman	962	WOMAN		walmi	w a l m i
+639790	692545	crossandean-Lamas	sanm1289		woman	962	WOMAN		warmi	w a r m i
+639791	692546	crossandean-Laraos	yauy1235		woman	962	WOMAN		warmi	w a r m i
+639792	692547	crossandean-Lincha-Tana	tana1291		woman	962	WOMAN		warmi	w a ɾ m i
+639793	692548	crossandean-Maragua	sout2991		woman	962	WOMAN		warmi	w a r m i
+639794	692549	crossandean-Napo	napo1242		woman	962	WOMAN		huarmi	w a r m i
+639795	692550	crossandean-Pacaraos	paca1245		woman	962	WOMAN		warmi	w a ɾ m i
+639796	692551	crossandean-Pastaza	sout2990		woman	962	WOMAN		warmi	w a r m i
+639797	692552	crossandean-Pocona	coch1274		woman	962	WOMAN		warmi	w a r m i
+639798	692553	crossandean-Puno	puno1238		woman	962	WOMAN		warmi	w a r m i
+639799	692554	crossandean-SanPedro	sanp1258		woman	962	WOMAN		warmi	w a ɾ m i
+639800	692555	crossandean-Santiagueno	sant1432		woman	962	WOMAN		warmi	w a ɾ m i
+639801	692556	crossandean-Serena	tena1240		woman	962	WOMAN		warmi	w a r m i
+639802	692557	crossandean-Tarma	yaru1256		woman	962	WOMAN		warmi	w a ɾ m i
+639803	692558	crossandean-Troje	nort3351		woman	962	WOMAN		warmi	w a r m i
+639804	692559	crossandean-Yanac	coro1247		woman	962	WOMAN		warmi	w a r m i
+639977	692732	hubercolumbian-Inga	inga1252		woman	962	WOMAN		wármi	w a r m i
+641202	693957	wold-ImbaburaQuechua	imba1240		woman	962	WOMAN		warmi	w a ɾ m i
+649069	702909	wold-ImbaburaQuechua	imba1240		yellow	1424	YELLOW		killu	k i ʒ u

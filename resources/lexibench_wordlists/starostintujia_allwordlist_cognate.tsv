@@ -1,0 +1,514 @@
+	ID	DOCULECT	CONCEPT	Segments	GLOTTOCODE	ISO_CODE	CONCEPTICON_ID	CONCEPTICON_GLOSS	COGNATES	FORM
+0	boluotujia-100_yellow-1	boluotujia	100_yellow	x o ʉ ³³	sout2739	tjs	1424	YELLOW	151	
+1	boluotujia-101_far-1	boluotujia	101_far	ɣ o ʉ ²¹ + i ⁵³	sout2739	tjs	1406	FAR	153	
+2	boluotujia-102_heavy-1	boluotujia	102_heavy	d o ʉ ¹³	sout2739	tjs	1210	HEAVY	154	
+3	boluotujia-103_near-1	boluotujia	103_near	ɣ o ʉ ²¹ + dz a ²¹	sout2739	tjs	1942	NEAR	156	
+4	boluotujia-104_salt-1	boluotujia	104_salt	a ²¹ + s i ⁵³	sout2739	tjs	1274	SALT	158	
+5	boluotujia-105_short-1	boluotujia	105_short	dz o ʉ ¹³	sout2739	tjs	1645	SHORT	159	
+6	boluotujia-106_snake-1	boluotujia	106_snake	t ɨ j ⁵³ + p ɨ e ⁴⁵ + n ũ ³³	sout2739	tjs	730	SNAKE	161	
+7	boluotujia-107_thin-1	boluotujia	107_thin	s o ²¹ + s o ⁵³	sout2739	tjs	2249	THIN (OF SHAPE OF OBJECT)	162	
+8	boluotujia-108_wind-1	boluotujia	108_wind	z e ²¹ + ŋ e j ⁴⁵	sout2739	tjs	960	WIND	163	
+9	boluotujia-109_worm-1	boluotujia	109_worm	k a ⁵³ + d o ʉ ¹³ + s e ²¹	sout2739	tjs	1219	WORM	165	
+10	boluotujia-10_bone-1	boluotujia	10_bone	kʰ a ²¹ + kʰ ɨ e ⁵³	sout2739	tjs	1394	BONE	13	
+11	boluotujia-11_breast-1	boluotujia	11_breast	d ẽ ³³ + ɡ o ¹³ + l ẽ ³³	sout2739	tjs	1402	BREAST	14	
+12	boluotujia-12_burntr-1	boluotujia	12_burntr	tɕ i a ʉ ³³	sout2739	tjs	141	BURN (SOMETHING)	17	
+13	boluotujia-13_clawnail-1	boluotujia	13_clawnail	dʑ i e ⁵³ + m ũ ²¹ + k o ²¹ + l o ²¹	sout2739	tjs	2128	CLAW OR NAIL	18	
+14	boluotujia-14_cloud-1	boluotujia	14_cloud	j ẽ ²¹ + d o ʉ ³³	sout2739	tjs	1489	CLOUD	-167	
+15	boluotujia-15_cold-1	boluotujia	15_cold	s i ²¹ + dz a ²¹	sout2739	tjs	1287	COLD	21	
+16	boluotujia-16_come-1	boluotujia	16_come	ɣ ɨ ²¹ + d ɨ ⁵³	sout2739	tjs	1446	COME	22	
+17	boluotujia-17_die-1	boluotujia	17_die	s e ²¹	sout2739	tjs	1494	DIE	23	
+18	boluotujia-18_dog-1	boluotujia	18_dog	tsʰ e ⁵³	sout2739	tjs	2009	DOG	25	
+19	boluotujia-19_drink-1	boluotujia	19_drink	dz o ʉ ³³	sout2739	tjs	1401	DRINK	27	
+20	boluotujia-1_all-1	boluotujia	1_all	b u ¹³ + l i ⁵³	sout2739	tjs	98	ALL	2	
+21	boluotujia-20_dry-1	boluotujia	20_dry	ɡ o ¹³	sout2739	tjs	1398	DRY	28	
+22	boluotujia-21_ear-1	boluotujia	21_ear	ts a ²¹ + p o ⁵³	sout2739	tjs	1247	EAR	30	
+23	boluotujia-22_earth-1	boluotujia	22_earth	z a ⁵³	sout2739	tjs	1228	EARTH (SOIL)	31	
+24	boluotujia-23_eat-1	boluotujia	23_eat	ɣ ɨ e ¹³	sout2739	tjs	1336	EAT	33	
+25	boluotujia-24_egg-1	boluotujia	24_egg	s i ²¹ + ŋ ɨ e ²¹ + a ¹³ + l ɨ e ⁵³	sout2739	tjs	744	EGG	34	
+26	boluotujia-25_eye-1	boluotujia	25_eye	a ²¹ + l a ⁵³	sout2739	tjs	1248	EYE	35	
+27	boluotujia-27_feather-1	boluotujia	27_feather	a ³³ + s o ³³	sout2739	tjs	1201	FEATHER	37	
+28	boluotujia-28_fire-1	boluotujia	28_fire	m i ⁵³	sout2739	tjs	221	FIRE	38	
+29	boluotujia-29_fish-1	boluotujia	29_fish	s i ²¹ + ŋ e ²¹	sout2739	tjs	227	FISH	40	
+30	boluotujia-2_ashes-1	boluotujia	2_ashes	m u ²¹ + tsʰ i ⁵³	sout2739	tjs	646	ASH	3	
+31	boluotujia-30_flyv-1	boluotujia	30_flyv	m u ³³ + dʑ i ³³	sout2739	tjs	1441	FLY (MOVE THROUGH AIR)	42	
+32	boluotujia-31_foot-1	boluotujia	31_foot	a ³³ + dʑ i ¹³	sout2739	tjs	1301	FOOT	43	
+33	boluotujia-32_full-1	boluotujia	32_full	m o ʉ ⁵³	sout2739	tjs	1429	FULL	44	
+34	boluotujia-33_give-1	boluotujia	33_give	l i e ⁵³	sout2739	tjs	1447	GIVE	45	
+35	boluotujia-34_good-1	boluotujia	34_good	tsʰ o ²¹	sout2739	tjs	1035	GOOD	46	
+36	boluotujia-35_green-1	boluotujia	35_green	ɕ i ²¹	sout2739	tjs	1425	GREEN	47	
+37	boluotujia-36_hair-1	boluotujia	36_hair	a ²¹ + b o ⁵³ + a ²¹ + s o ²¹	sout2739	tjs	1040	HAIR	49	
+38	boluotujia-37_hand-1	boluotujia	37_hand	a ²¹ + dʑ i e ⁵³	sout2739	tjs	1277	HAND	50	
+39	boluotujia-38_head-1	boluotujia	38_head	a ²¹ + b o ⁵³ + b u ²¹	sout2739	tjs	1256	HEAD	52	
+40	boluotujia-39_hear-1	boluotujia	39_hear	x o ³³ + z i ³³	sout2739	tjs	1408	HEAR	55	
+41	boluotujia-40_heart-1	boluotujia	40_heart	t u ¹³ + s ẽ ³³	sout2739	tjs	1223	HEART	57	
+42	boluotujia-41_horn-1	boluotujia	41_horn	a ³³ + kʰ ɨ e ³³	sout2739	tjs	1393	HORN (ANATOMY)	58	
+43	boluotujia-42_i-1	boluotujia	42_i	ŋ o ³³	sout2739	tjs	1209	I	59	
+44	boluotujia-43_kill-1	boluotujia	43_kill	ɣ ɨ e ¹³	sout2739	tjs	1417	KILL	61	
+45	boluotujia-44_knee-1	boluotujia	44_knee	dʑ i ²¹ + t o ²¹ + ŋ o ¹³	sout2739	tjs	1371	KNEE	63	
+46	boluotujia-45_know-1	boluotujia	45_know	ɕ i e ⁵³	sout2739	tjs	1410	KNOW (SOMETHING)	66	
+47	boluotujia-46_leaf-1	boluotujia	46_leaf	a ³³ + ɣ ɨ e ³³	sout2739	tjs	628	LEAF	68	
+48	boluotujia-47_lie-1	boluotujia	47_lie	kʰ a ʉ ¹³	sout2739	tjs	1411	LIE (REST)	71	
+49	boluotujia-48_liver-1	boluotujia	48_liver	k æ̃ ³³	sout2739	tjs	1224	LIVER	-169	
+50	boluotujia-49_long-1	boluotujia	49_long	ɣ ɨ e ¹³	sout2739	tjs	1203	LONG	73	
+51	boluotujia-4_belly-1	boluotujia	4_belly	m ɨ e ²¹ + tɕ i ⁵³	sout2739	tjs	1251	BELLY	5	
+52	boluotujia-50_louse-1	boluotujia	50_louse	a ²¹ + s i ⁵³ + l ũ ³³	sout2739	tjs	1392	LOUSE	74	
+53	boluotujia-51_man-1	boluotujia	51_man	a ²¹ + k o ²¹ + b i e ²¹	sout2739	tjs	1554	MAN	76	
+54	boluotujia-52_many-1	boluotujia	52_many	z i ⁴⁵	sout2739	tjs	1198	MANY	77	
+55	boluotujia-53_meat-1	boluotujia	53_meat	s i ¹³	sout2739	tjs	634	MEAT	78	
+56	boluotujia-54_moon-1	boluotujia	54_moon	j e ²¹ + l i ã ⁴⁵	sout2739	tjs	1313	MOON	-171	
+57	boluotujia-55_mountain-1	boluotujia	55_mountain	z a ⁵³ + kʰ a ²¹	sout2739	tjs	639	MOUNTAIN	82	
+58	boluotujia-56_mouth-1	boluotujia	56_mouth	a ²¹ + z e ²¹	sout2739	tjs	674	MOUTH	84	
+59	boluotujia-57_name-1	boluotujia	57_name	n i o ʉ ³³	sout2739	tjs	1405	NAME	85	
+60	boluotujia-58_neck-1	boluotujia	58_neck	k u a ¹³ + l a ⁵³	sout2739	tjs	1333	NECK	87	
+61	boluotujia-59_new-1	boluotujia	59_new	a ³³ + ɕ i ³³	sout2739	tjs	1231	NEW	88	
+62	boluotujia-5_big-1	boluotujia	5_big	tɕʰ i ³³	sout2739	tjs	1202	BIG	6	
+63	boluotujia-61_nose-1	boluotujia	61_nose	k o ʉ ²¹ + tɕ i ⁵³	sout2739	tjs	1221	NOSE	91	
+64	boluotujia-62_not-1	boluotujia	62_not	l æ̃	sout2739	tjs	1240	NOT	93	
+65	boluotujia-63_one-1	boluotujia	63_one	l a ³³	sout2739	tjs	1493	ONE	95	
+66	boluotujia-65_rain-1	boluotujia	65_rain	z e ¹³	sout2739	tjs	658	RAIN (PRECIPITATION)	97	
+67	boluotujia-66_red-1	boluotujia	66_red	b o ²¹ + n i ²¹	sout2739	tjs	156	RED	99	
+68	boluotujia-69_round-1	boluotujia	69_round	d u æ̃ ³³	sout2739	tjs	1395	ROUND	103	
+69	boluotujia-6_bird-1	boluotujia	6_bird	k ɨ ²¹ + ts o ²¹ + n ũ ²¹	sout2739	tjs	937	BIRD	8	
+70	boluotujia-70_sand-1	boluotujia	70_sand	s a ⁵³ + ts i ²¹	sout2739	tjs	671	SAND	-175	
+71	boluotujia-71_say-1	boluotujia	71_say	x ɨ e ⁵³	sout2739	tjs	1458	SAY	106	
+72	boluotujia-72_see-1	boluotujia	72_see	b o ¹³ + i ⁴⁵	sout2739	tjs	1409	SEE	107	
+73	boluotujia-73_seed-1	boluotujia	73_seed	a ³³ + l i e ³³	sout2739	tjs	714	SEED	111	
+74	boluotujia-74_sit-1	boluotujia	74_sit	ɣ o ʉ ¹³	sout2739	tjs	1416	SIT	112	
+75	boluotujia-75_skin-1	boluotujia	75_skin	k o ³³ + l o ³³	sout2739	tjs	763	SKIN	114	
+76	boluotujia-76_sleep-1	boluotujia	76_sleep	n i e ²¹	sout2739	tjs	1585	SLEEP	115	
+77	boluotujia-77_small-1	boluotujia	77_small	s a ³³	sout2739	tjs	1246	SMALL	116	
+78	boluotujia-78_smoke-1	boluotujia	78_smoke	kʰ ɨ e ⁵³ + s a ²¹	sout2739	tjs	778	SMOKE (EXHAUST)	117	
+79	boluotujia-79_stand-1	boluotujia	79_stand	d u ³³	sout2739	tjs	1442	STAND	119	
+80	boluotujia-7_bite-1	boluotujia	7_bite	ɡ o ¹³	sout2739	tjs	1403	BITE	9	
+81	boluotujia-80_star-1	boluotujia	80_star	tʰ i æ̃ ³³ + s ẽ ³³ + ts i ⁵³	sout2739	tjs	1430	STAR	-177	
+82	boluotujia-81_stone-1	boluotujia	81_stone	l o ʉ ¹³ + k o ʉ ²¹ + d o ʉ ¹³	sout2739	tjs	857	STONE	122	
+83	boluotujia-82_sun-1	boluotujia	82_sun	n o ⁴⁵ + d o ʉ ³³	sout2739	tjs	1343	SUN	123	
+84	boluotujia-84_tail-1	boluotujia	84_tail	l i ã ²¹ + t o ⁵³	sout2739	tjs	1220	TAIL	126	
+85	boluotujia-85_that-1	boluotujia	85_that	t a ³³ + b u ³³	sout2739	tjs	78	THAT	128	
+86	boluotujia-86_this-1	boluotujia	86_this	dʑ i a ²¹ + b u ²¹	sout2739	tjs	1214	THIS	131	
+87	boluotujia-87_thou-1	boluotujia	87_thou	n i ³³	sout2739	tjs	1215	THOU	132	
+88	boluotujia-88_tongue-1	boluotujia	88_tongue	dz i ²¹ + l a ²¹	sout2739	tjs	1205	TONGUE	133	
+89	boluotujia-89_tooth-1	boluotujia	89_tooth	s i ³³ + t a ¹³	sout2739	tjs	1380	TOOTH	134	
+90	boluotujia-8_black-1	boluotujia	8_black	n o ²¹	sout2739	tjs	163	BLACK	10	
+91	boluotujia-90_tree-1	boluotujia	90_tree	kʰ o ¹³ + m ũ ²¹	sout2739	tjs	906	TREE	135	
+92	boluotujia-91_two-1	boluotujia	91_two	n i e ⁵³	sout2739	tjs	1498	TWO	136	
+93	boluotujia-92_walkgo-1	boluotujia	92_walkgo	dz o ʉ ¹³	sout2739	tjs	1443	WALK	138	
+94	boluotujia-93_warm-1	boluotujia	93_warm	s i ²¹ + t o ²¹	sout2739	tjs	1232	WARM	140	
+95	boluotujia-94_water-1	boluotujia	94_water	tsʰ e ¹³	sout2739	tjs	948	WATER	141	
+96	boluotujia-95_we-1	boluotujia	95_we	a ³³ + n i ³³	sout2739	tjs	1212	WE	142	
+97	boluotujia-96_what-1	boluotujia	96_what	tsʰ u ⁵³ + u ³³	sout2739	tjs	1236	WHAT	145	
+98	boluotujia-97_white-1	boluotujia	97_white	s i ³³	sout2739	tjs	1335	WHITE	146	
+99	boluotujia-98_who-1	boluotujia	98_who	a ³³ + s i ³³ + ŋ e ³³	sout2739	tjs	1235	WHO	147	
+100	boluotujia-99_woman-1	boluotujia	99_woman	a ¹³ + i o ⁵³ + b i e ²¹	sout2739	tjs	962	WOMAN	149	
+101	boluotujia-9_blood-1	boluotujia	9_blood	m i e ²¹ + m i e ²¹	sout2739	tjs	946	BLOOD	11	
+102	dianfangtujia-100_yellow-1	dianfangtujia	100_yellow	w ã ²¹ + k a ⁵⁵ + l a ⁵⁵	nort2732	tji	1424	YELLOW	150	
+103	dianfangtujia-101_far-1	dianfangtujia	101_far	ɣ ɨ e ²¹	nort2732	tji	1406	FAR	152	
+104	dianfangtujia-102_heavy-1	dianfangtujia	102_heavy	t u ⁵⁵	nort2732	tji	1210	HEAVY	154	
+105	dianfangtujia-103_near-1	dianfangtujia	103_near	ts ũ ⁵⁵	nort2732	tji	1942	NEAR	155	
+106	dianfangtujia-104_salt-1	dianfangtujia	104_salt	l a ³⁵ + p u ³⁵	nort2732	tji	1274	SALT	157	
+107	dianfangtujia-105_short-1	dianfangtujia	105_short	ts ũ ⁵⁵	nort2732	tji	1645	SHORT	159	
+108	dianfangtujia-106_snake-1	dianfangtujia	106_snake	w o ⁵⁵	nort2732	tji	730	SNAKE	160	
+109	dianfangtujia-107_thin-1	dianfangtujia	107_thin	s a ²¹ + s a ³¹	nort2732	tji	2249	THIN (OF SHAPE OF OBJECT)	162	
+110	dianfangtujia-108_wind-1	dianfangtujia	108_wind	z e ³⁵ + s u ⁵⁵	nort2732	tji	960	WIND	163	
+111	dianfangtujia-109_worm-1	dianfangtujia	109_worm	kʰ u a j ³⁵ + tɕʰ i ⁵⁵ + l a ⁵⁵	nort2732	tji	1219	WORM	164	
+112	dianfangtujia-10_bone-1	dianfangtujia	10_bone	l u ⁵⁵ + k a ⁵⁵	nort2732	tji	1394	BONE	12	
+113	dianfangtujia-110_year-1	dianfangtujia	110_year	n ũ ²¹	nort2732	tji	1226	YEAR	166	
+114	dianfangtujia-11_breast-1	dianfangtujia	11_breast	l i ⁵⁵ + kʰ o ⁵⁵ + tsʰ ũ ⁵⁵	nort2732	tji	1402	BREAST	14	
+115	dianfangtujia-13_clawnail-1	dianfangtujia	13_clawnail	kʰ o ⁵⁵ + tʰ a ⁵⁵	nort2732	tji	2128	CLAW OR NAIL	18	
+116	dianfangtujia-14_cloud-1	dianfangtujia	14_cloud	m ɨ e ³⁵ + l a ⁵⁵ + ɣ ũ ²¹	nort2732	tji	1489	CLOUD	19	
+117	dianfangtujia-15_cold-1	dianfangtujia	15_cold	s a ⁵⁵	nort2732	tji	1287	COLD	20	
+118	dianfangtujia-16_come-1	dianfangtujia	16_come	ẽ ²¹ + ts i ²¹	nort2732	tji	1446	COME	22	
+119	dianfangtujia-17_die-1	dianfangtujia	17_die	s e ³⁵	nort2732	tji	1494	DIE	23	
+120	dianfangtujia-18_dog-1	dianfangtujia	18_dog	x a ⁵⁵ + l e ²¹	nort2732	tji	2009	DOG	24	
+121	dianfangtujia-19_drink-1	dianfangtujia	19_drink	x u ²¹	nort2732	tji	1401	DRINK	26	
+122	dianfangtujia-1_all-1	dianfangtujia	1_all	x u ³⁵ + n i ⁵⁵	nort2732	tji	98	ALL	1	
+123	dianfangtujia-20_dry-1	dianfangtujia	20_dry	k a ²¹	nort2732	tji	1398	DRY	28	
+124	dianfangtujia-21_ear-1	dianfangtujia	21_ear	ẽ ²¹ + tɕʰ e ³⁵	nort2732	tji	1247	EAR	29	
+125	dianfangtujia-22_earth-1	dianfangtujia	22_earth	z o ⁵⁵	nort2732	tji	1228	EARTH (SOIL)	31	
+126	dianfangtujia-23_eat-1	dianfangtujia	23_eat	k a ³⁵	nort2732	tji	1336	EAT	32	
+127	dianfangtujia-24_egg-1	dianfangtujia	24_egg	a ⁵⁵ + l e ⁵⁵	nort2732	tji	744	EGG	34	
+128	dianfangtujia-25_eye-1	dianfangtujia	25_eye	l o ³⁵ + p u ³⁵	nort2732	tji	1248	EYE	35	
+129	dianfangtujia-28_fire-1	dianfangtujia	28_fire	m i ⁵⁵	nort2732	tji	221	FIRE	38	
+130	dianfangtujia-29_fish-1	dianfangtujia	29_fish	s ũ ³⁵	nort2732	tji	227	FISH	39	
+131	dianfangtujia-2_ashes-1	dianfangtujia	2_ashes	p u ²¹ + tsʰ i ³⁵	nort2732	tji	646	ASH	3	
+132	dianfangtujia-30_flyv-1	dianfangtujia	30_flyv	z a ⁵⁵	nort2732	tji	1441	FLY (MOVE THROUGH AIR)	41	
+133	dianfangtujia-31_foot-1	dianfangtujia	31_foot	tɕ i ²¹	nort2732	tji	1301	FOOT	43	
+134	dianfangtujia-32_full-1	dianfangtujia	32_full	m ã ⁵⁵	nort2732	tji	1429	FULL	44	
+135	dianfangtujia-33_give-1	dianfangtujia	33_give	l e ³⁵	nort2732	tji	1447	GIVE	45	
+136	dianfangtujia-34_good-1	dianfangtujia	34_good	tsʰ a ³⁵	nort2732	tji	1035	GOOD	46	
+137	dianfangtujia-35_green-1	dianfangtujia	35_green	l u ³⁵ + k a ⁵⁵	nort2732	tji	1425	GREEN	48	
+138	dianfangtujia-36_hair-1	dianfangtujia	36_hair	s a ³⁵ + tɕʰ i ⁵⁵	nort2732	tji	1040	HAIR	49	
+139	dianfangtujia-37_hand-1	dianfangtujia	37_hand	tɕ e ³⁵	nort2732	tji	1277	HAND	50	
+140	dianfangtujia-38_head-1	dianfangtujia	38_head	kʰ o ⁵⁵ + p a ⁵⁵	nort2732	tji	1256	HEAD	51	
+141	dianfangtujia-39_hear-1	dianfangtujia	39_hear	z u ²¹	nort2732	tji	1408	HEAR	54	
+142	dianfangtujia-40_heart-1	dianfangtujia	40_heart	l i ⁵⁵ + kʰ o ⁵⁵ + l o ³⁵	nort2732	tji	1223	HEART	56	
+143	dianfangtujia-41_horn-1	dianfangtujia	41_horn	kʰ ɨ e ⁵⁵	nort2732	tji	1393	HORN (ANATOMY)	58	
+144	dianfangtujia-42_i-1	dianfangtujia	42_i	ŋ a ³⁵	nort2732	tji	1209	I	59	
+145	dianfangtujia-43_kill-1	dianfangtujia	43_kill	p u ³⁵	nort2732	tji	1417	KILL	60	
+146	dianfangtujia-44_knee-1	dianfangtujia	44_knee	tɕ i ²¹ + tʰ i ²¹ + kʰ ɨ e ⁵⁵	nort2732	tji	1371	KNEE	62	
+147	dianfangtujia-45_know-1	dianfangtujia	45_know	x a u ⁵⁵ + ɕ i ³⁵	nort2732	tji	1410	KNOW (SOMETHING)	65	
+148	dianfangtujia-46_leaf-1	dianfangtujia	46_leaf	ɣ ɨ e ⁵⁵ + tʰ a ⁵⁵	nort2732	tji	628	LEAF	67	
+149	dianfangtujia-48_liver-1	dianfangtujia	48_liver	ã ⁵⁵ + ŋ a ⁵⁵	nort2732	tji	1224	LIVER	72	
+150	dianfangtujia-49_long-1	dianfangtujia	49_long	ɣ ɨ e ²¹	nort2732	tji	1203	LONG	73	
+151	dianfangtujia-4_belly-1	dianfangtujia	4_belly	m ɨ e ²¹	nort2732	tji	1251	BELLY	5	
+152	dianfangtujia-50_louse-1	dianfangtujia	50_louse	s i ⁵⁵ + s i ⁵⁵	nort2732	tji	1392	LOUSE	74	
+153	dianfangtujia-51_man-1	dianfangtujia	51_man	n o ⁵⁵ + p a ⁵⁵	nort2732	tji	1554	MAN	75	
+154	dianfangtujia-52_many-1	dianfangtujia	52_many	z i ²¹	nort2732	tji	1198	MANY	77	
+155	dianfangtujia-53_meat-1	dianfangtujia	53_meat	s i ²¹	nort2732	tji	634	MEAT	78	
+156	dianfangtujia-54_moon-1	dianfangtujia	54_moon	s u ²¹ + s u ²¹	nort2732	tji	1313	MOON	79	
+157	dianfangtujia-55_mountain-1	dianfangtujia	55_mountain	kʰ u ⁵⁵ + ts a ⁵⁵	nort2732	tji	639	MOUNTAIN	81	
+158	dianfangtujia-56_mouth-1	dianfangtujia	56_mouth	ts a ³⁵ + tɕʰ i ⁵⁵	nort2732	tji	674	MOUTH	83	
+159	dianfangtujia-57_name-1	dianfangtujia	57_name	m ĩ ²¹ + ts i ³⁵	nort2732	tji	1405	NAME	-173	
+160	dianfangtujia-58_neck-1	dianfangtujia	58_neck	kʰ ũ ⁵⁵ + t i ⁵⁵	nort2732	tji	1333	NECK	86	
+161	dianfangtujia-59_new-1	dianfangtujia	59_new	a ³⁵ + s i ³⁵	nort2732	tji	1231	NEW	88	
+162	dianfangtujia-5_big-1	dianfangtujia	5_big	tsʰ i ⁵⁵	nort2732	tji	1202	BIG	6	
+163	dianfangtujia-61_nose-1	dianfangtujia	61_nose	ẽ ³⁵ + tɕʰ i ⁵⁵	nort2732	tji	1221	NOSE	90	
+164	dianfangtujia-62_not-1	dianfangtujia	62_not	tʰ a ⁵⁵	nort2732	tji	1240	NOT	92	
+165	dianfangtujia-63_one-1	dianfangtujia	63_one	n a ³⁵	nort2732	tji	1493	ONE	95	
+166	dianfangtujia-64_person-1	dianfangtujia	64_person	n o ⁵⁵	nort2732	tji	683	PERSON	96	
+167	dianfangtujia-65_rain-1	dianfangtujia	65_rain	m ɨ e ³⁵ + ts e ²¹	nort2732	tji	658	RAIN (PRECIPITATION)	97	
+168	dianfangtujia-66_red-1	dianfangtujia	66_red	m i ã ⁵⁵ + tɕ e ⁵⁵	nort2732	tji	156	RED	98	
+169	dianfangtujia-67_road-1	dianfangtujia	67_road	l a ⁵⁵	nort2732	tji	667	ROAD	100	
+170	dianfangtujia-68_root-1	dianfangtujia	68_root	tɕ i ⁵⁵ + l a ²¹	nort2732	tji	670	ROOT	101	
+171	dianfangtujia-69_round-1	dianfangtujia	69_round	kʰ u ²¹ + l o ⁵⁵ + l o ²¹	nort2732	tji	1395	ROUND	102	
+172	dianfangtujia-6_bird-1	dianfangtujia	6_bird	n e ³⁵ + p i ³⁵	nort2732	tji	937	BIRD	7	
+173	dianfangtujia-70_sand-1	dianfangtujia	70_sand	a ²¹ + p u ³⁵ + l i ³⁵	nort2732	tji	671	SAND	104	
+174	dianfangtujia-71_say-1	dianfangtujia	71_say	l i ²¹	nort2732	tji	1458	SAY	105	
+175	dianfangtujia-72_see-1	dianfangtujia	72_see	j i ²¹	nort2732	tji	1409	SEE	107	
+176	dianfangtujia-73_seed-1	dianfangtujia	73_seed	n e ⁵⁵ + n ã ⁵⁵	nort2732	tji	714	SEED	109	
+177	dianfangtujia-74_sit-1	dianfangtujia	74_sit	ũ ²¹	nort2732	tji	1416	SIT	112	
+178	dianfangtujia-75_skin-1	dianfangtujia	75_skin	tʰ a ⁵⁵ + pʰ a ²¹	nort2732	tji	763	SKIN	113	
+179	dianfangtujia-76_sleep-1	dianfangtujia	76_sleep	n e ³⁵	nort2732	tji	1585	SLEEP	115	
+180	dianfangtujia-77_small-1	dianfangtujia	77_small	s u ã ⁵⁵	nort2732	tji	1246	SMALL	116	
+181	dianfangtujia-78_smoke-1	dianfangtujia	78_smoke	kʰ ɨ e ⁵⁵ + kʰ a ²¹	nort2732	tji	778	SMOKE (EXHAUST)	117	
+182	dianfangtujia-79_stand-1	dianfangtujia	79_stand	ts u ⁵⁵ + ts u ⁵⁵	nort2732	tji	1442	STAND	118	
+183	dianfangtujia-80_star-1	dianfangtujia	80_star	s i ⁵¹ + z i ²¹	nort2732	tji	1430	STAR	120	
+184	dianfangtujia-81_stone-1	dianfangtujia	81_stone	a ²¹ + p a ²¹	nort2732	tji	857	STONE	121	
+185	dianfangtujia-82_sun-1	dianfangtujia	82_sun	n a w ²¹	nort2732	tji	1343	SUN	123	
+186	dianfangtujia-84_tail-1	dianfangtujia	84_tail	l e ²¹ + pʰ ũ ³⁵	nort2732	tji	1220	TAIL	126	
+187	dianfangtujia-85_that-1	dianfangtujia	85_that	a j ⁵⁵	nort2732	tji	78	THAT	127	
+188	dianfangtujia-86_this-1	dianfangtujia	86_this	ũ ⁵⁵	nort2732	tji	1214	THIS	129	
+189	dianfangtujia-86_this-2	dianfangtujia	86_this	k a j ³⁵	nort2732	tji	1214	THIS	130	
+190	dianfangtujia-87_thou-1	dianfangtujia	87_thou	n i ³⁵	nort2732	tji	1215	THOU	132	
+191	dianfangtujia-88_tongue-1	dianfangtujia	88_tongue	j i ³⁵ + l a ⁵⁵	nort2732	tji	1205	TONGUE	133	
+192	dianfangtujia-89_tooth-1	dianfangtujia	89_tooth	s i ⁵⁵ + s i ⁵⁵	nort2732	tji	1380	TOOTH	134	
+193	dianfangtujia-8_black-1	dianfangtujia	8_black	l ã ³⁵ + k a ⁵⁵	nort2732	tji	163	BLACK	10	
+194	dianfangtujia-90_tree-1	dianfangtujia	90_tree	kʰ a ²¹ + m ũ ²¹	nort2732	tji	906	TREE	135	
+195	dianfangtujia-91_two-1	dianfangtujia	91_two	n e ⁵⁵	nort2732	tji	1498	TWO	136	
+196	dianfangtujia-92_walkgo-1	dianfangtujia	92_walkgo	ɣ ɨ ³⁵	nort2732	tji	1443	WALK	137	
+197	dianfangtujia-93_warm-1	dianfangtujia	93_warm	k ɨ ²¹	nort2732	tji	1232	WARM	139	
+198	dianfangtujia-94_water-1	dianfangtujia	94_water	tsʰ e ²¹	nort2732	tji	948	WATER	141	
+199	dianfangtujia-95_we-1	dianfangtujia	95_we	ŋ a ³⁵ + n i ³⁵	nort2732	tji	1212	WE	142	
+200	dianfangtujia-96_what-1	dianfangtujia	96_what	n a j ⁵⁵ + ɕ i ²¹	nort2732	tji	1236	WHAT	144	
+201	dianfangtujia-97_white-1	dianfangtujia	97_white	a ²¹ + s i ²¹	nort2732	tji	1335	WHITE	146	
+202	dianfangtujia-98_who-1	dianfangtujia	98_who	a ⁵⁵ + s e ²¹	nort2732	tji	1235	WHO	147	
+203	dianfangtujia-99_woman-1	dianfangtujia	99_woman	m a ²¹ + m a ²¹ + t e ⁵⁵	nort2732	tji	962	WOMAN	148	
+204	dianfangtujia-9_blood-1	dianfangtujia	9_blood	m e ⁵⁵	nort2732	tji	946	BLOOD	11	
+205	duogutujia-100_yellow-1	duogutujia	100_yellow	u ã ²¹ + k a ⁵³ + l i e ⁴⁴	nort2732	tji	1424	YELLOW	150	
+206	duogutujia-101_far-1	duogutujia	101_far	ɣ ɨ e ²¹	nort2732	tji	1406	FAR	152	
+207	duogutujia-102_heavy-1	duogutujia	102_heavy	t u ⁵³	nort2732	tji	1210	HEAVY	154	
+208	duogutujia-103_near-1	duogutujia	103_near	ts ũ ⁵³	nort2732	tji	1942	NEAR	155	
+209	duogutujia-104_salt-1	duogutujia	104_salt	l a ²⁴ + p u ⁴⁴	nort2732	tji	1274	SALT	157	
+210	duogutujia-105_short-1	duogutujia	105_short	ts ũ ⁵³	nort2732	tji	1645	SHORT	159	
+211	duogutujia-106_snake-1	duogutujia	106_snake	u o ⁵³	nort2732	tji	730	SNAKE	160	
+212	duogutujia-107_thin-1	duogutujia	107_thin	s a ²¹ + s a j ⁴⁴	nort2732	tji	2249	THIN (OF SHAPE OF OBJECT)	162	
+213	duogutujia-108_wind-1	duogutujia	108_wind	z e ²⁴ + s u ⁵³	nort2732	tji	960	WIND	163	
+214	duogutujia-109_worm-1	duogutujia	109_worm	kʰ u a j ²⁴ + tɕʰ i ²¹ + l a ²¹	nort2732	tji	1219	WORM	164	
+215	duogutujia-10_bone-1	duogutujia	10_bone	l u ⁴⁴ + k a ⁴⁴	nort2732	tji	1394	BONE	12	
+216	duogutujia-11_breast-1	duogutujia	11_breast	ɕ ĩ ⁴⁴ + tʰ ã ²¹	nort2732	tji	1402	BREAST	-166	
+217	duogutujia-12_burntr-1	duogutujia	12_burntr	tɕ i a u ⁴⁴	nort2732	tji	141	BURN (SOMETHING)	17	
+218	duogutujia-13_clawnail-1	duogutujia	13_clawnail	kʰ o ⁵³ + tʰ a ⁵³	nort2732	tji	2128	CLAW OR NAIL	18	
+219	duogutujia-15_cold-1	duogutujia	15_cold	s a ⁵³	nort2732	tji	1287	COLD	20	
+220	duogutujia-16_come-1	duogutujia	16_come	ẽ ²¹ + ts i ²¹	nort2732	tji	1446	COME	22	
+221	duogutujia-17_die-1	duogutujia	17_die	s e ²⁴	nort2732	tji	1494	DIE	23	
+222	duogutujia-18_dog-1	duogutujia	18_dog	x a ⁵³ + l i e ²¹	nort2732	tji	2009	DOG	24	
+223	duogutujia-19_drink-1	duogutujia	19_drink	x u ²¹	nort2732	tji	1401	DRINK	26	
+224	duogutujia-1_all-1	duogutujia	1_all	x u ²⁴ + n i ⁴⁴	nort2732	tji	98	ALL	1	
+225	duogutujia-20_dry-1	duogutujia	20_dry	a ⁵³ + k a ²¹	nort2732	tji	1398	DRY	28	
+226	duogutujia-21_ear-1	duogutujia	21_ear	ũ ²¹ + tɕʰ i e ⁴⁴	nort2732	tji	1247	EAR	29	
+227	duogutujia-22_earth-1	duogutujia	22_earth	z o ⁵³	nort2732	tji	1228	EARTH (SOIL)	31	
+228	duogutujia-23_eat-1	duogutujia	23_eat	k a ²⁴	nort2732	tji	1336	EAT	32	
+229	duogutujia-25_eye-1	duogutujia	25_eye	l o ²⁴ + p u ⁴⁴	nort2732	tji	1248	EYE	35	
+230	duogutujia-27_feather-1	duogutujia	27_feather	tɕ i ²⁴ + k a ⁴⁴	nort2732	tji	1201	FEATHER	36	
+231	duogutujia-28_fire-1	duogutujia	28_fire	m i ⁵³	nort2732	tji	221	FIRE	38	
+232	duogutujia-29_fish-1	duogutujia	29_fish	s ũ ²⁴	nort2732	tji	227	FISH	39	
+233	duogutujia-2_ashes-1	duogutujia	2_ashes	p u ²¹ + tsʰ i ⁵³	nort2732	tji	646	ASH	3	
+234	duogutujia-30_flyv-1	duogutujia	30_flyv	z a ⁵³	nort2732	tji	1441	FLY (MOVE THROUGH AIR)	41	
+235	duogutujia-31_foot-1	duogutujia	31_foot	tɕ i ²¹ + pʰ a ²¹	nort2732	tji	1301	FOOT	43	
+236	duogutujia-32_full-1	duogutujia	32_full	m ã ⁵³	nort2732	tji	1429	FULL	44	
+237	duogutujia-33_give-1	duogutujia	33_give	l i e ²⁴	nort2732	tji	1447	GIVE	45	
+238	duogutujia-34_good-1	duogutujia	34_good	tsʰ a ²⁴	nort2732	tji	1035	GOOD	46	
+239	duogutujia-35_green-1	duogutujia	35_green	l u ²¹ + l u ²¹ + t i ⁴⁴	nort2732	tji	1425	GREEN	48	
+240	duogutujia-36_hair-1	duogutujia	36_hair	s a ²⁴ + tɕʰ i ⁴⁴	nort2732	tji	1040	HAIR	49	
+241	duogutujia-37_hand-1	duogutujia	37_hand	tɕ i e ²⁴	nort2732	tji	1277	HAND	50	
+242	duogutujia-38_head-1	duogutujia	38_head	kʰ o ⁵³ + p a ⁵³	nort2732	tji	1256	HEAD	51	
+243	duogutujia-39_hear-1	duogutujia	39_hear	z u ²¹	nort2732	tji	1408	HEAR	54	
+244	duogutujia-40_heart-1	duogutujia	40_heart	l i ⁵³ + kʰ o ⁴⁴ + l o ⁴⁴	nort2732	tji	1223	HEART	56	
+245	duogutujia-41_horn-1	duogutujia	41_horn	kʰ ɨ e ⁵³	nort2732	tji	1393	HORN (ANATOMY)	58	
+246	duogutujia-42_i-1	duogutujia	42_i	ŋ a ²⁴	nort2732	tji	1209	I	59	
+247	duogutujia-43_kill-1	duogutujia	43_kill	p u ²⁴	nort2732	tji	1417	KILL	60	
+248	duogutujia-44_knee-1	duogutujia	44_knee	tɕ i ²¹ + tʰ i ²¹ + kʰ e ⁵³ + k a i ²⁴ + k a i ²⁴	nort2732	tji	1371	KNEE	62	
+249	duogutujia-45_know-1	duogutujia	45_know	x a u ⁵³ + ɕ i ⁴⁴	nort2732	tji	1410	KNOW (SOMETHING)	65	
+250	duogutujia-46_leaf-1	duogutujia	46_leaf	ɣ ɨ e ⁵³ + tʰ a ⁵³	nort2732	tji	628	LEAF	67	
+251	duogutujia-47_lie-1	duogutujia	47_lie	n i e ²⁴ + p o ⁴⁴	nort2732	tji	1411	LIE (REST)	70	
+252	duogutujia-48_liver-1	duogutujia	48_liver	a ⁵³ + ŋ a i ⁴⁴	nort2732	tji	1224	LIVER	72	
+253	duogutujia-49_long-1	duogutujia	49_long	ɣ ɨ e ²¹	nort2732	tji	1203	LONG	73	
+254	duogutujia-4_belly-1	duogutujia	4_belly	m ɨ e ²¹	nort2732	tji	1251	BELLY	5	
+255	duogutujia-50_louse-1	duogutujia	50_louse	s i ⁵³ + s i ⁴⁴	nort2732	tji	1392	LOUSE	74	
+256	duogutujia-51_man-1	duogutujia	51_man	n o ⁵³ + p a ⁴⁴ + ts e ⁴⁴	nort2732	tji	1554	MAN	75	
+257	duogutujia-52_many-1	duogutujia	52_many	z i ²¹	nort2732	tji	1198	MANY	77	
+258	duogutujia-53_meat-1	duogutujia	53_meat	s i ²¹	nort2732	tji	634	MEAT	78	
+259	duogutujia-54_moon-1	duogutujia	54_moon	s u ²¹ + s u ²¹ + kʰ a ²¹ + tɕ j e ⁴⁴	nort2732	tji	1313	MOON	79	
+260	duogutujia-55_mountain-1	duogutujia	55_mountain	kʰ u ⁵³ + ts a ⁵³	nort2732	tji	639	MOUNTAIN	81	
+261	duogutujia-56_mouth-1	duogutujia	56_mouth	ts a ²⁴ + tɕʰ i ⁴⁴	nort2732	tji	674	MOUTH	83	
+262	duogutujia-57_name-1	duogutujia	57_name	m ĩ ²¹ + ts i ²⁴	nort2732	tji	1405	NAME	-172	
+263	duogutujia-58_neck-1	duogutujia	58_neck	kʰ ũ ⁴⁴ + t i ⁴⁴	nort2732	tji	1333	NECK	86	
+264	duogutujia-59_new-1	duogutujia	59_new	ɣ a ²⁴ + s i ⁴⁴	nort2732	tji	1231	NEW	88	
+265	duogutujia-5_big-1	duogutujia	5_big	tsʰ i ⁵³	nort2732	tji	1202	BIG	6	
+266	duogutujia-61_nose-1	duogutujia	61_nose	ũ ²⁴ + tɕʰ i ⁴⁴	nort2732	tji	1221	NOSE	90	
+267	duogutujia-62_not-1	duogutujia	62_not	tʰ a ⁵³	nort2732	tji	1240	NOT	92	
+268	duogutujia-63_one-1	duogutujia	63_one	n a ²⁴	nort2732	tji	1493	ONE	95	
+269	duogutujia-65_rain-1	duogutujia	65_rain	m ɨ e ²⁴ + ts e ²¹	nort2732	tji	658	RAIN (PRECIPITATION)	97	
+270	duogutujia-66_red-1	duogutujia	66_red	m i ã ⁵³ + tɕ i e ⁴⁴	nort2732	tji	156	RED	98	
+271	duogutujia-68_root-1	duogutujia	68_root	tɕ i ⁵³ + l a ²¹	nort2732	tji	670	ROOT	101	
+272	duogutujia-69_round-1	duogutujia	69_round	tʰ u ã ²¹ + kʰ o ⁵³ + l i ⁴⁴	nort2732	tji	1395	ROUND	103	
+273	duogutujia-6_bird-1	duogutujia	6_bird	n i e ²¹ + p i ⁵³	nort2732	tji	937	BIRD	7	
+274	duogutujia-70_sand-1	duogutujia	70_sand	ɣ a ²¹ + pʰ i ²⁴ + pʰ i ⁵³	nort2732	tji	671	SAND	104	
+275	duogutujia-71_say-1	duogutujia	71_say	l i ²¹	nort2732	tji	1458	SAY	105	
+276	duogutujia-72_see-1	duogutujia	72_see	p a ⁵³ + t o ²¹ + l i a w ²¹	nort2732	tji	1409	SEE	108	
+277	duogutujia-73_seed-1	duogutujia	73_seed	p u ²⁴ + l i ⁵³	nort2732	tji	714	SEED	110	
+278	duogutujia-74_sit-1	duogutujia	74_sit	ũ ²¹	nort2732	tji	1416	SIT	112	
+279	duogutujia-75_skin-1	duogutujia	75_skin	tʰ a ⁵³ + pʰ a ²¹	nort2732	tji	763	SKIN	113	
+280	duogutujia-76_sleep-1	duogutujia	76_sleep	n i e ²⁴	nort2732	tji	1585	SLEEP	115	
+281	duogutujia-77_small-1	duogutujia	77_small	s u ã ⁵³	nort2732	tji	1246	SMALL	116	
+282	duogutujia-78_smoke-1	duogutujia	78_smoke	kʰ e ⁵³ + kʰ a ²¹	nort2732	tji	778	SMOKE (EXHAUST)	117	
+283	duogutujia-79_stand-1	duogutujia	79_stand	ts u ⁵³ + ts u ⁵³	nort2732	tji	1442	STAND	118	
+284	duogutujia-7_bite-1	duogutujia	7_bite	k a ²⁴	nort2732	tji	1403	BITE	9	
+285	duogutujia-80_star-1	duogutujia	80_star	s i ⁵³ + z i ²¹	nort2732	tji	1430	STAR	120	
+286	duogutujia-81_stone-1	duogutujia	81_stone	ɣ a ²¹ + p a ²¹	nort2732	tji	857	STONE	121	
+287	duogutujia-82_sun-1	duogutujia	82_sun	n a w ²¹ + tsʰ i ²¹	nort2732	tji	1343	SUN	123	
+288	duogutujia-83_swim-1	duogutujia	83_swim	tsʰ e ²¹ + tɕʰ i w ²¹	nort2732	tji	1439	SWIM	125	
+289	duogutujia-84_tail-1	duogutujia	84_tail	n i e ²¹ + pʰ ũ ⁵³	nort2732	tji	1220	TAIL	126	
+290	duogutujia-85_that-1	duogutujia	85_that	a j ⁵³ + t i ⁴⁴	nort2732	tji	78	THAT	127	
+291	duogutujia-86_this-1	duogutujia	86_this	k a j ²⁴ + t i ⁴⁴	nort2732	tji	1214	THIS	130	
+292	duogutujia-87_thou-1	duogutujia	87_thou	n i ²⁴	nort2732	tji	1215	THOU	132	
+293	duogutujia-88_tongue-1	duogutujia	88_tongue	i ²⁴ + l a ⁵³	nort2732	tji	1205	TONGUE	133	
+294	duogutujia-89_tooth-1	duogutujia	89_tooth	s i ⁴⁴ + s i ⁴⁴	nort2732	tji	1380	TOOTH	134	
+295	duogutujia-8_black-1	duogutujia	8_black	l ã ⁴⁴ + k a ⁴⁴ + t i e ²¹	nort2732	tji	163	BLACK	10	
+296	duogutujia-90_tree-1	duogutujia	90_tree	kʰ a ²¹ + m ũ ²¹	nort2732	tji	906	TREE	135	
+297	duogutujia-91_two-1	duogutujia	91_two	n i e ⁵³	nort2732	tji	1498	TWO	136	
+298	duogutujia-92_walkgo-1	duogutujia	92_walkgo	ɣ ɨ ²⁴	nort2732	tji	1443	WALK	137	
+299	duogutujia-93_warm-1	duogutujia	93_warm	k ɨ ²¹	nort2732	tji	1232	WARM	139	
+300	duogutujia-94_water-1	duogutujia	94_water	tsʰ e ²¹	nort2732	tji	948	WATER	141	
+301	duogutujia-95_we-1	duogutujia	95_we	ŋ a ²⁴ + n i ⁴⁴	nort2732	tji	1212	WE	142	
+302	duogutujia-96_what-1	duogutujia	96_what	n a j ⁵³ + ɕ i ²¹	nort2732	tji	1236	WHAT	144	
+303	duogutujia-97_white-1	duogutujia	97_white	a ²¹ + s i ²¹	nort2732	tji	1335	WHITE	146	
+304	duogutujia-98_who-1	duogutujia	98_who	a ⁵³ + s o ²¹	nort2732	tji	1235	WHO	147	
+305	duogutujia-99_woman-1	duogutujia	99_woman	m a ²¹ + m a ²¹ + ts e ⁴⁴	nort2732	tji	962	WOMAN	148	
+306	duogutujia-9_blood-1	duogutujia	9_blood	m i e ⁵³	nort2732	tji	946	BLOOD	11	
+307	tanxitujia-100_yellow-1	tanxitujia	100_yellow	ħ ʉ ³³	sout2739	tjs	1424	YELLOW	151	
+308	tanxitujia-101_far-1	tanxitujia	101_far	ʔ ʉ ¹³ + j i ⁵⁵	sout2739	tjs	1406	FAR	153	
+309	tanxitujia-102_heavy-1	tanxitujia	102_heavy	d ʉ ³⁵	sout2739	tjs	1210	HEAVY	154	
+310	tanxitujia-103_near-1	tanxitujia	103_near	ʔ ʉ ¹³ + dz a ³³	sout2739	tjs	1942	NEAR	156	
+311	tanxitujia-104_salt-1	tanxitujia	104_salt	ʔ a ²¹ + s i ⁵⁵	sout2739	tjs	1274	SALT	158	
+312	tanxitujia-105_short-1	tanxitujia	105_short	dz ʉ ¹³	sout2739	tjs	1645	SHORT	159	
+313	tanxitujia-106_snake-1	tanxitujia	106_snake	t e i ³³ + pʰ ɨ e ³⁵	sout2739	tjs	730	SNAKE	161	
+314	tanxitujia-107_thin-1	tanxitujia	107_thin	s o ²¹ + s o ⁵⁵	sout2739	tjs	2249	THIN (OF SHAPE OF OBJECT)	162	
+315	tanxitujia-108_wind-1	tanxitujia	108_wind	z e ²¹ + ŋ ɨ ²¹	sout2739	tjs	960	WIND	163	
+316	tanxitujia-109_worm-1	tanxitujia	109_worm	k a ²¹ + d ʉ ³⁵ + s e ²¹	sout2739	tjs	1219	WORM	165	
+317	tanxitujia-10_bone-1	tanxitujia	10_bone	kʰ a ²¹ + k ɨ ²¹	sout2739	tjs	1394	BONE	13	
+318	tanxitujia-110_year-1	tanxitujia	110_year	n i ʉ ³⁵	sout2739	tjs	1226	YEAR	166	
+319	tanxitujia-11_breast-1	tanxitujia	11_breast	ɕ i õ ⁵⁵ + k ẽ ²¹ + dʑ i ã ²¹	sout2739	tjs	1402	BREAST	15	
+320	tanxitujia-13_clawnail-1	tanxitujia	13_clawnail	dʑ e ⁵⁵ + m o ⁵⁵ + kʰ o ²¹	sout2739	tjs	2128	CLAW OR NAIL	18	
+321	tanxitujia-14_cloud-1	tanxitujia	14_cloud	j y ẽ ³³	sout2739	tjs	1489	CLOUD	-168	
+322	tanxitujia-15_cold-1	tanxitujia	15_cold	s i ²¹ + dz a ¹³	sout2739	tjs	1287	COLD	21	
+323	tanxitujia-16_come-1	tanxitujia	16_come	ʔ ɨ ¹³ + d ɨ ⁵⁵	sout2739	tjs	1446	COME	22	
+324	tanxitujia-17_die-1	tanxitujia	17_die	s e ²¹	sout2739	tjs	1494	DIE	23	
+325	tanxitujia-18_dog-1	tanxitujia	18_dog	tsʰ e ⁵⁵	sout2739	tjs	2009	DOG	25	
+326	tanxitujia-19_drink-1	tanxitujia	19_drink	dz ʉ ³³	sout2739	tjs	1401	DRINK	27	
+327	tanxitujia-1_all-1	tanxitujia	1_all	b u ¹³	sout2739	tjs	98	ALL	2	
+328	tanxitujia-20_dry-1	tanxitujia	20_dry	ɡ o ⁵⁵	sout2739	tjs	1398	DRY	28	
+329	tanxitujia-21_ear-1	tanxitujia	21_ear	ts ã ²¹ + p ʉ ⁵⁵	sout2739	tjs	1247	EAR	30	
+330	tanxitujia-22_earth-1	tanxitujia	22_earth	z a ⁵⁵	sout2739	tjs	1228	EARTH (SOIL)	31	
+331	tanxitujia-23_eat-1	tanxitujia	23_eat	ɣ ɨ e ³⁵	sout2739	tjs	1336	EAT	33	
+332	tanxitujia-24_egg-1	tanxitujia	24_egg	ʔ a ²¹ + l e ⁵⁵	sout2739	tjs	744	EGG	34	
+333	tanxitujia-25_eye-1	tanxitujia	25_eye	ʔ a ²¹ + l a ⁵⁵	sout2739	tjs	1248	EYE	35	
+334	tanxitujia-28_fire-1	tanxitujia	28_fire	m i ⁵⁵	sout2739	tjs	221	FIRE	38	
+335	tanxitujia-29_fish-1	tanxitujia	29_fish	s i ²¹ + ŋ ɨ ²¹	sout2739	tjs	227	FISH	40	
+336	tanxitujia-2_ashes-1	tanxitujia	2_ashes	m u ¹³ + tsʰ i ⁵⁵	sout2739	tjs	646	ASH	3	
+337	tanxitujia-30_flyv-1	tanxitujia	30_flyv	m u ³³ + dz i ³³	sout2739	tjs	1441	FLY (MOVE THROUGH AIR)	42	
+338	tanxitujia-31_foot-1	tanxitujia	31_foot	ʔ a ³³ + dʑ i ³⁵	sout2739	tjs	1301	FOOT	43	
+339	tanxitujia-32_full-1	tanxitujia	32_full	m ʉ ³³	sout2739	tjs	1429	FULL	44	
+340	tanxitujia-33_give-1	tanxitujia	33_give	l e ⁵⁵	sout2739	tjs	1447	GIVE	45	
+341	tanxitujia-34_good-1	tanxitujia	34_good	tsʰ o ³³	sout2739	tjs	1035	GOOD	46	
+342	tanxitujia-35_green-1	tanxitujia	35_green	l u ²¹	sout2739	tjs	1425	GREEN	48	
+343	tanxitujia-36_hair-1	tanxitujia	36_hair	ʔ a ²¹ + s o ²¹	sout2739	tjs	1040	HAIR	49	
+344	tanxitujia-37_hand-1	tanxitujia	37_hand	ʔ a ²¹ + dʑ e ⁵⁵	sout2739	tjs	1277	HAND	50	
+345	tanxitujia-38_head-1	tanxitujia	38_head	ʔ a ²¹ + b o ⁵⁵	sout2739	tjs	1256	HEAD	52	
+346	tanxitujia-39_hear-1	tanxitujia	39_hear	ħ o ³³ + z i ³³	sout2739	tjs	1408	HEAR	55	
+347	tanxitujia-40_heart-1	tanxitujia	40_heart	l i ²¹ + ŋ a ²¹	sout2739	tjs	1223	HEART	56	
+348	tanxitujia-41_horn-1	tanxitujia	41_horn	ʔ a ³³ + kʰ ɨ e ³³	sout2739	tjs	1393	HORN (ANATOMY)	58	
+349	tanxitujia-42_i-1	tanxitujia	42_i	ŋ o ³³	sout2739	tjs	1209	I	59	
+350	tanxitujia-43_kill-1	tanxitujia	43_kill	ʔ ɨ ¹³	sout2739	tjs	1417	KILL	61	
+351	tanxitujia-44_knee-1	tanxitujia	44_knee	ʔ a ²¹ + dʑ i ³⁵ + p o ³³ + l o ³³	sout2739	tjs	1371	KNEE	64	
+352	tanxitujia-45_know-1	tanxitujia	45_know	ɕ e ⁵⁵ + tsʰ e ⁵⁵	sout2739	tjs	1410	KNOW (SOMETHING)	66	
+353	tanxitujia-46_leaf-1	tanxitujia	46_leaf	ʔ a ²¹ + ɣ ɨ e ²¹	sout2739	tjs	628	LEAF	68	
+354	tanxitujia-48_liver-1	tanxitujia	48_liver	k ã ³³	sout2739	tjs	1224	LIVER	-170	
+355	tanxitujia-49_long-1	tanxitujia	49_long	ɣ ɨ e ³⁵	sout2739	tjs	1203	LONG	73	
+356	tanxitujia-4_belly-1	tanxitujia	4_belly	m ɨ e ¹³ + tɕ i ⁵⁵	sout2739	tjs	1251	BELLY	5	
+357	tanxitujia-50_louse-1	tanxitujia	50_louse	ʔ a ²¹ + s i ⁵⁵	sout2739	tjs	1392	LOUSE	74	
+358	tanxitujia-51_man-1	tanxitujia	51_man	ʔ a ²¹ + k o ²¹ + b e ²¹ + ŋ ɨ ²¹	sout2739	tjs	1554	MAN	76	
+359	tanxitujia-52_many-1	tanxitujia	52_many	z i ³⁵	sout2739	tjs	1198	MANY	77	
+360	tanxitujia-53_meat-1	tanxitujia	53_meat	s i ³⁵	sout2739	tjs	634	MEAT	78	
+361	tanxitujia-54_moon-1	tanxitujia	54_moon	l o ³⁵ + ɕ i ⁵⁵ + d ʉ ³⁵	sout2739	tjs	1313	MOON	80	
+362	tanxitujia-55_mountain-1	tanxitujia	55_mountain	z a ⁵⁵	sout2739	tjs	639	MOUNTAIN	82	
+363	tanxitujia-56_mouth-1	tanxitujia	56_mouth	ʔ a ²¹ + z e ²¹	sout2739	tjs	674	MOUTH	84	
+364	tanxitujia-57_name-1	tanxitujia	57_name	n i ʉ ³⁵ + b o ²¹	sout2739	tjs	1405	NAME	85	
+365	tanxitujia-58_neck-1	tanxitujia	58_neck	ɡ u a ²¹ + l a ⁵⁵	sout2739	tjs	1333	NECK	87	
+366	tanxitujia-59_new-1	tanxitujia	59_new	ʔ a ⁵⁵ + ɕ i ²¹	sout2739	tjs	1231	NEW	88	
+367	tanxitujia-5_big-1	tanxitujia	5_big	tɕʰ i ³³	sout2739	tjs	1202	BIG	6	
+368	tanxitujia-61_nose-1	tanxitujia	61_nose	k ʉ ¹³ + tɕ i ⁵⁵ + d ʉ ³⁵	sout2739	tjs	1221	NOSE	91	
+369	tanxitujia-62_not-1	tanxitujia	62_not	m a ⁵³	sout2739	tjs	1240	NOT	94	
+370	tanxitujia-63_one-1	tanxitujia	63_one	l a ⁵⁵	sout2739	tjs	1493	ONE	95	
+371	tanxitujia-64_person-1	tanxitujia	64_person	n i a ³³	sout2739	tjs	683	PERSON	96	
+372	tanxitujia-65_rain-1	tanxitujia	65_rain	z e ³⁵	sout2739	tjs	658	RAIN (PRECIPITATION)	97	
+373	tanxitujia-66_red-1	tanxitujia	66_red	b o ³³ + n i ¹³	sout2739	tjs	156	RED	99	
+374	tanxitujia-67_road-1	tanxitujia	67_road	l o ³³	sout2739	tjs	667	ROAD	100	
+375	tanxitujia-68_root-1	tanxitujia	68_root	k ẽ ³³	sout2739	tjs	670	ROOT	-174	
+376	tanxitujia-69_round-1	tanxitujia	69_round	d u ã ³³	sout2739	tjs	1395	ROUND	103	
+377	tanxitujia-6_bird-1	tanxitujia	6_bird	k ɨ ²¹ + ts o ²¹	sout2739	tjs	937	BIRD	8	
+378	tanxitujia-70_sand-1	tanxitujia	70_sand	l ʉ ³⁵ + s a ⁵⁵ + ts i ²¹	sout2739	tjs	671	SAND	-176	
+379	tanxitujia-71_say-1	tanxitujia	71_say	ħ ɨ ⁵⁵	sout2739	tjs	1458	SAY	106	
+380	tanxitujia-72_see-1	tanxitujia	72_see	b o ¹³ + j i ³⁵	sout2739	tjs	1409	SEE	107	
+381	tanxitujia-73_seed-1	tanxitujia	73_seed	ʔ a ³³ + l e ³³	sout2739	tjs	714	SEED	111	
+382	tanxitujia-74_sit-1	tanxitujia	74_sit	ʔ ʉ ³⁵	sout2739	tjs	1416	SIT	112	
+383	tanxitujia-75_skin-1	tanxitujia	75_skin	k ɨ ²¹ + l o ²¹	sout2739	tjs	763	SKIN	114	
+384	tanxitujia-76_sleep-1	tanxitujia	76_sleep	n e ²¹	sout2739	tjs	1585	SLEEP	115	
+385	tanxitujia-77_small-1	tanxitujia	77_small	s a ³³	sout2739	tjs	1246	SMALL	116	
+386	tanxitujia-78_smoke-1	tanxitujia	78_smoke	k ɨ e ⁵⁵ + s a ²¹	sout2739	tjs	778	SMOKE (EXHAUST)	117	
+387	tanxitujia-79_stand-1	tanxitujia	79_stand	d u ³³	sout2739	tjs	1442	STAND	119	
+388	tanxitujia-80_star-1	tanxitujia	80_star	ɕ ẽ ³³ + ts i ³³	sout2739	tjs	1430	STAR	-178	
+389	tanxitujia-81_stone-1	tanxitujia	81_stone	l ʉ ³⁵	sout2739	tjs	857	STONE	122	
+390	tanxitujia-82_sun-1	tanxitujia	82_sun	l o ³⁵ + j i ³³ + d ʉ ¹³	sout2739	tjs	1343	SUN	123	
+391	tanxitujia-84_tail-1	tanxitujia	84_tail	j i ã ²¹ + t ʉ ⁵⁵	sout2739	tjs	1220	TAIL	126	
+392	tanxitujia-85_that-1	tanxitujia	85_that	t a ²¹	sout2739	tjs	78	THAT	128	
+393	tanxitujia-86_this-1	tanxitujia	86_this	dʑ i a ²¹	sout2739	tjs	1214	THIS	131	
+394	tanxitujia-87_thou-1	tanxitujia	87_thou	n i ³³	sout2739	tjs	1215	THOU	132	
+395	tanxitujia-88_tongue-1	tanxitujia	88_tongue	dz i ²¹ + l a ²¹	sout2739	tjs	1205	TONGUE	133	
+396	tanxitujia-89_tooth-1	tanxitujia	89_tooth	s i ³³ + t a ³⁵	sout2739	tjs	1380	TOOTH	134	
+397	tanxitujia-8_black-1	tanxitujia	8_black	l o ²¹	sout2739	tjs	163	BLACK	10	
+398	tanxitujia-90_tree-1	tanxitujia	90_tree	kʰ o ³⁵	sout2739	tjs	906	TREE	135	
+399	tanxitujia-91_two-1	tanxitujia	91_two	l e ⁵⁵	sout2739	tjs	1498	TWO	136	
+400	tanxitujia-92_walkgo-1	tanxitujia	92_walkgo	j e ²¹	sout2739	tjs	1443	WALK	137	
+401	tanxitujia-93_warm-1	tanxitujia	93_warm	s i ²¹ + t o ¹³	sout2739	tjs	1232	WARM	140	
+402	tanxitujia-94_water-1	tanxitujia	94_water	tsʰ e ³⁵	sout2739	tjs	948	WATER	141	
+403	tanxitujia-95_we-1	tanxitujia	95_we	ʔ a ²¹ + n i ³³	sout2739	tjs	1212	WE	142	
+404	tanxitujia-96_what-1	tanxitujia	96_what	tsʰ u ⁵⁵ + m o ²¹	sout2739	tjs	1236	WHAT	145	
+405	tanxitujia-97_white-1	tanxitujia	97_white	s i ³³	sout2739	tjs	1335	WHITE	146	
+406	tanxitujia-98_who-1	tanxitujia	98_who	ʔ a ³³ + s i ³³	sout2739	tjs	1235	WHO	147	
+407	tanxitujia-99_woman-1	tanxitujia	99_woman	ʔ a ²¹ + j i o ⁵⁵ + b e ²¹ + ŋ ɨ ²¹	sout2739	tjs	962	WOMAN	149	
+408	tanxitujia-9_blood-1	tanxitujia	9_blood	m e ²¹ + m e ²¹	sout2739	tjs	946	BLOOD	11	
+409	tashatujia-100_yellow-1	tashatujia	100_yellow	w a n ²¹ + k a ⁵⁵ + l a ⁵⁵	nort2732	tji	1424	YELLOW	150	
+410	tashatujia-102_heavy-1	tashatujia	102_heavy	t u ²¹	nort2732	tji	1210	HEAVY	154	
+411	tashatujia-104_salt-1	tashatujia	104_salt	l a ²⁴ + p u ⁵⁵	nort2732	tji	1274	SALT	157	
+412	tashatujia-105_short-1	tashatujia	105_short	ts ɔ ŋ ²¹	nort2732	tji	1645	SHORT	159	
+413	tashatujia-106_snake-1	tashatujia	106_snake	w ɔ ²¹	nort2732	tji	730	SNAKE	160	
+414	tashatujia-107_thin-1	tashatujia	107_thin	s a ²¹ + s a ²¹	nort2732	tji	2249	THIN (OF SHAPE OF OBJECT)	162	
+415	tashatujia-108_wind-1	tashatujia	108_wind	z ɤ ²⁴	nort2732	tji	960	WIND	163	
+416	tashatujia-109_worm-1	tashatujia	109_worm	kʰ w a j ⁵⁵ + tɕʰ i ⁵⁵ + l a ⁵⁵	nort2732	tji	1219	WORM	164	
+417	tashatujia-10_bone-1	tashatujia	10_bone	l u ⁵⁵ + k a ⁵⁵	nort2732	tji	1394	BONE	12	
+418	tashatujia-110_year-1	tashatujia	110_year	l ɔ ŋ ⁵⁵	nort2732	tji	1226	YEAR	166	
+419	tashatujia-11_breast-1	tashatujia	11_breast	l i ⁵⁵ + k w ɔ ⁵⁵ + tsʰ ɔ ŋ ⁵⁵	nort2732	tji	1402	BREAST	14	
+420	tashatujia-12_burntr-1	tashatujia	12_burntr	z a ²¹	nort2732	tji	141	BURN (SOMETHING)	16	
+421	tashatujia-13_clawnail-1	tashatujia	13_clawnail	kʰ w ɔ ²⁴ + tʰ a ⁵⁵	nort2732	tji	2128	CLAW OR NAIL	18	
+422	tashatujia-14_cloud-1	tashatujia	14_cloud	m e ²⁴ + l a ⁵⁵ + ɔ ŋ ²¹	nort2732	tji	1489	CLOUD	19	
+423	tashatujia-15_cold-1	tashatujia	15_cold	s a ²¹	nort2732	tji	1287	COLD	20	
+424	tashatujia-16_come-1	tashatujia	16_come	ɤ ŋ ²¹ + tɕ j u ²¹	nort2732	tji	1446	COME	22	
+425	tashatujia-17_die-1	tashatujia	17_die	s ɤ ²⁴	nort2732	tji	1494	DIE	23	
+426	tashatujia-18_dog-1	tashatujia	18_dog	x a ²¹ + l j ɛ ²¹	nort2732	tji	2009	DOG	24	
+427	tashatujia-19_drink-1	tashatujia	19_drink	x u ²¹	nort2732	tji	1401	DRINK	26	
+428	tashatujia-1_all-1	tashatujia	1_all	x u ²⁴ + n i ⁵⁵	nort2732	tji	98	ALL	1	
+429	tashatujia-20_dry-1	tashatujia	20_dry	k a ²¹	nort2732	tji	1398	DRY	28	
+430	tashatujia-21_ear-1	tashatujia	21_ear	ɤ ŋ ²¹ + tɕʰ j ɛ ²⁴	nort2732	tji	1247	EAR	29	
+431	tashatujia-22_earth-1	tashatujia	22_earth	z w ɔ ²¹	nort2732	tji	1228	EARTH (SOIL)	31	
+432	tashatujia-23_eat-1	tashatujia	23_eat	k a ²⁴	nort2732	tji	1336	EAT	32	
+433	tashatujia-24_egg-1	tashatujia	24_egg	a ⁵⁵ + l j ɛ ⁵⁵	nort2732	tji	744	EGG	34	
+434	tashatujia-25_eye-1	tashatujia	25_eye	l w ɔ ²⁴ + p u ⁵⁵	nort2732	tji	1248	EYE	35	
+435	tashatujia-27_feather-1	tashatujia	27_feather	s i ²⁴ + k a ²¹	nort2732	tji	1201	FEATHER	36	
+436	tashatujia-28_fire-1	tashatujia	28_fire	m i ²¹	nort2732	tji	221	FIRE	38	
+437	tashatujia-29_fish-1	tashatujia	29_fish	s ɔ ŋ ²⁴	nort2732	tji	227	FISH	39	
+438	tashatujia-2_ashes-1	tashatujia	2_ashes	p u ²¹ + tɕʰ i ²⁴	nort2732	tji	646	ASH	3	
+439	tashatujia-30_flyv-1	tashatujia	30_flyv	z a ²⁴	nort2732	tji	1441	FLY (MOVE THROUGH AIR)	41	
+440	tashatujia-31_foot-1	tashatujia	31_foot	tɕ i ²¹	nort2732	tji	1301	FOOT	43	
+441	tashatujia-33_give-1	tashatujia	33_give	l j ɛ ²⁴	nort2732	tji	1447	GIVE	45	
+442	tashatujia-34_good-1	tashatujia	34_good	tsʰ a ²⁴	nort2732	tji	1035	GOOD	46	
+443	tashatujia-35_green-1	tashatujia	35_green	ɕ i ŋ ²⁴ + k a ⁵⁵	nort2732	tji	1425	GREEN	47	
+444	tashatujia-36_hair-1	tashatujia	36_hair	s a ²⁴ + tɕʰ i ⁵⁵	nort2732	tji	1040	HAIR	49	
+445	tashatujia-37_hand-1	tashatujia	37_hand	tɕ j ɛ ²⁴	nort2732	tji	1277	HAND	50	
+446	tashatujia-38_head-1	tashatujia	38_head	kʰ a ⁵⁵ + tʰ a ⁵⁵	nort2732	tji	1256	HEAD	51	
+447	tashatujia-39_hear-1	tashatujia	39_hear	ɕ i ²¹	nort2732	tji	1408	HEAR	53	
+448	tashatujia-3_bark-1	tashatujia	3_bark	kʰ a ²¹ + tʰ a ²⁴ + pʰ a ²¹	nort2732	tji	1204	BARK	4	
+449	tashatujia-40_heart-1	tashatujia	40_heart	l i ⁵⁵ + kʰ w ɔ ⁵⁵ + l w ɔ ⁵⁵	nort2732	tji	1223	HEART	56	
+450	tashatujia-41_horn-1	tashatujia	41_horn	kʰ ɤ ²¹	nort2732	tji	1393	HORN (ANATOMY)	58	
+451	tashatujia-42_i-1	tashatujia	42_i	ŋ a ²⁴	nort2732	tji	1209	I	59	
+452	tashatujia-43_kill-1	tashatujia	43_kill	p u ²⁴	nort2732	tji	1417	KILL	60	
+453	tashatujia-45_know-1	tashatujia	45_know	x a ²¹ + z i ²¹	nort2732	tji	1410	KNOW (SOMETHING)	65	
+454	tashatujia-46_leaf-1	tashatujia	46_leaf	ɣ ɤ ⁵⁵ + tʰ a ⁵⁵	nort2732	tji	628	LEAF	67	
+455	tashatujia-47_lie-1	tashatujia	47_lie	pʰ ɤ ²¹	nort2732	tji	1411	LIE (REST)	69	
+456	tashatujia-48_liver-1	tashatujia	48_liver	a ŋ ⁵⁵ + a ⁵⁵	nort2732	tji	1224	LIVER	72	
+457	tashatujia-49_long-1	tashatujia	49_long	ɣ ɤ ²¹	nort2732	tji	1203	LONG	73	
+458	tashatujia-4_belly-1	tashatujia	4_belly	m ɤ ²¹ + tsʰ i ²¹ + kʰ ɤ ⁵⁵	nort2732	tji	1251	BELLY	5	
+459	tashatujia-50_louse-1	tashatujia	50_louse	s i ⁵⁵ + s i ⁵⁵	nort2732	tji	1392	LOUSE	74	
+460	tashatujia-51_man-1	tashatujia	51_man	ts w ɔ ⁵⁵ + p a ⁵⁵	nort2732	tji	1554	MAN	75	
+461	tashatujia-52_many-1	tashatujia	52_many	z i ²¹	nort2732	tji	1198	MANY	77	
+462	tashatujia-53_meat-1	tashatujia	53_meat	s i ²¹	nort2732	tji	634	MEAT	78	
+463	tashatujia-54_moon-1	tashatujia	54_moon	s u ²¹ + s u ²¹	nort2732	tji	1313	MOON	79	
+464	tashatujia-55_mountain-1	tashatujia	55_mountain	kʰ u ⁵⁵ + l j ɛ ⁵⁵	nort2732	tji	639	MOUNTAIN	81	
+465	tashatujia-56_mouth-1	tashatujia	56_mouth	ts a ²⁴ + tɕʰ i ⁵⁵	nort2732	tji	674	MOUTH	83	
+466	tashatujia-58_neck-1	tashatujia	58_neck	kʰ ɔ ŋ ⁵⁵ + t i ⁵⁵	nort2732	tji	1333	NECK	86	
+467	tashatujia-59_new-1	tashatujia	59_new	a ²⁴ + ɕ i ⁵⁵	nort2732	tji	1231	NEW	88	
+468	tashatujia-5_big-1	tashatujia	5_big	tsʰ i ²¹	nort2732	tji	1202	BIG	6	
+469	tashatujia-60_night-1	tashatujia	60_night	pʰ ɤ ⁵⁵	nort2732	tji	1233	NIGHT	89	
+470	tashatujia-61_nose-1	tashatujia	61_nose	ɤ ŋ ²⁴ + tɕʰ i ⁵⁵	nort2732	tji	1221	NOSE	90	
+471	tashatujia-62_not-1	tashatujia	62_not	t a ²⁴	nort2732	tji	1240	NOT	92	
+472	tashatujia-63_one-1	tashatujia	63_one	l a ²⁴	nort2732	tji	1493	ONE	95	
+473	tashatujia-64_person-1	tashatujia	64_person	l w ɔ ²¹	nort2732	tji	683	PERSON	96	
+474	tashatujia-65_rain-1	tashatujia	65_rain	m ɤ ²⁴ + z ɤ ²¹	nort2732	tji	658	RAIN (PRECIPITATION)	97	
+475	tashatujia-66_red-1	tashatujia	66_red	m j ɛ n ⁵⁵ + tɕ j ɛ ⁵⁵	nort2732	tji	156	RED	98	
+476	tashatujia-67_road-1	tashatujia	67_road	l a ²¹	nort2732	tji	667	ROAD	100	
+477	tashatujia-68_root-1	tashatujia	68_root	tɕ i ⁵⁵ + l a ²¹	nort2732	tji	670	ROOT	101	
+478	tashatujia-69_round-1	tashatujia	69_round	p ɔ ²¹ + l w ɔ ⁵⁵ + l w ɔ ⁵⁵	nort2732	tji	1395	ROUND	102	
+479	tashatujia-6_bird-1	tashatujia	6_bird	n j ɛ ²⁴ + p i ⁵⁵	nort2732	tji	937	BIRD	7	
+480	tashatujia-70_sand-1	tashatujia	70_sand	a ²¹ + p u ²⁴ + l i ⁵⁵	nort2732	tji	671	SAND	104	
+481	tashatujia-71_say-1	tashatujia	71_say	l i ²¹	nort2732	tji	1458	SAY	105	
+482	tashatujia-72_see-1	tashatujia	72_see	j i ²¹	nort2732	tji	1409	SEE	107	
+483	tashatujia-73_seed-1	tashatujia	73_seed	n j ɛ ⁵⁵ + l a ŋ ⁵⁵	nort2732	tji	714	SEED	109	
+484	tashatujia-74_sit-1	tashatujia	74_sit	ɔ ŋ ²¹	nort2732	tji	1416	SIT	112	
+485	tashatujia-75_skin-1	tashatujia	75_skin	tʰ a ²⁴ + pʰ a ²¹	nort2732	tji	763	SKIN	113	
+486	tashatujia-76_sleep-1	tashatujia	76_sleep	n j ɛ ²⁴ + p j ɛ ²¹	nort2732	tji	1585	SLEEP	115	
+487	tashatujia-77_small-1	tashatujia	77_small	s w a n ²¹	nort2732	tji	1246	SMALL	116	
+488	tashatujia-79_stand-1	tashatujia	79_stand	ts u ⁵⁵ + ts u ²¹	nort2732	tji	1442	STAND	118	
+489	tashatujia-7_bite-1	tashatujia	7_bite	k a ²⁴	nort2732	tji	1403	BITE	9	
+490	tashatujia-80_star-1	tashatujia	80_star	ɕ i ²¹ + p u ²⁴ + l i ⁵⁵	nort2732	tji	1430	STAR	120	
+491	tashatujia-81_stone-1	tashatujia	81_stone	a ²¹ + p a ²¹	nort2732	tji	857	STONE	121	
+492	tashatujia-82_sun-1	tashatujia	82_sun	l a w ²¹	nort2732	tji	1343	SUN	123	
+493	tashatujia-83_swim-1	tashatujia	83_swim	tɕ j ɛ ²⁴ + t a ⁵⁵ + w u ²¹	nort2732	tji	1439	SWIM	124	
+494	tashatujia-84_tail-1	tashatujia	84_tail	l j ɛ ²¹ + pʰ ɔ ŋ ²⁴	nort2732	tji	1220	TAIL	126	
+495	tashatujia-85_that-1	tashatujia	85_that	a j ⁵⁵	nort2732	tji	78	THAT	127	
+496	tashatujia-86_this-1	tashatujia	86_this	ɤ ŋ ⁵⁵	nort2732	tji	1214	THIS	129	
+497	tashatujia-86_this-2	tashatujia	86_this	k a j ²⁴	nort2732	tji	1214	THIS	130	
+498	tashatujia-87_thou-1	tashatujia	87_thou	n i ²⁴	nort2732	tji	1215	THOU	132	
+499	tashatujia-88_tongue-1	tashatujia	88_tongue	j i ²⁴ + l a ⁵⁵	nort2732	tji	1205	TONGUE	133	
+500	tashatujia-89_tooth-1	tashatujia	89_tooth	s i ⁵⁵ + s i ⁵⁵	nort2732	tji	1380	TOOTH	134	
+501	tashatujia-8_black-1	tashatujia	8_black	l a ŋ ²⁴ + k a ⁵⁵	nort2732	tji	163	BLACK	10	
+502	tashatujia-90_tree-1	tashatujia	90_tree	kʰ a ²¹ + m ɔ ŋ ²¹	nort2732	tji	906	TREE	135	
+503	tashatujia-91_two-1	tashatujia	91_two	n j ɛ ⁵⁵	nort2732	tji	1498	TWO	136	
+504	tashatujia-92_walkgo-1	tashatujia	92_walkgo	ɣ i ²⁴	nort2732	tji	1443	WALK	137	
+505	tashatujia-93_warm-1	tashatujia	93_warm	k i ²¹	nort2732	tji	1232	WARM	139	
+506	tashatujia-94_water-1	tashatujia	94_water	tɕʰ ɤ ²¹	nort2732	tji	948	WATER	141	
+507	tashatujia-95_we-1	tashatujia	95_we	a ŋ ²⁴ + n i ⁵⁵	nort2732	tji	1212	WE	142	
+508	tashatujia-96_what-1	tashatujia	96_what	tɕʰ j ɛ ²¹	nort2732	tji	1236	WHAT	143	
+509	tashatujia-97_white-1	tashatujia	97_white	a ²¹ + s i ²¹	nort2732	tji	1335	WHITE	146	
+510	tashatujia-98_who-1	tashatujia	98_who	a ²¹ + s ɤ ²¹	nort2732	tji	1235	WHO	147	
+511	tashatujia-99_woman-1	tashatujia	99_woman	m a ²¹ + m a ⁵⁵	nort2732	tji	962	WOMAN	148	
+512	tashatujia-9_blood-1	tashatujia	9_blood	m j ɛ ²¹	nort2732	tji	946	BLOOD	11	

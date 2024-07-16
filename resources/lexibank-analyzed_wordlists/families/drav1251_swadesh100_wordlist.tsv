@@ -1,0 +1,992 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+8686	24837	dravlex-Betta_Kurumba	bett1235		bark	1204	BARK		meɾto:lə	m e ɾ t oː l ə
+8687	24838	dravlex-Brahui	brah1256		bark	1204	BARK		bund	b u n d
+8688	24839	dravlex-Gondi	nort2702		bark	1204	BARK		to:l	t oː l
+8689	24840	dravlex-Kodava	koda1255		bark	1204	BARK		aʈʈe	a ʈː e
+8690	24841	dravlex-Kodava	koda1255		bark	1204	BARK		tʃekke	tʃ e kː e
+8691	24842	dravlex-Koya	koya1251		bark	1204	BARK		beɾaɖu	b e ɾ a ɖ u
+8692	24843	dravlex-Koya	koya1251		bark	1204	BARK		danʈi	d a n ʈ i
+8693	24844	dravlex-Kurukh	kuru1302		bark	1204	BARK		o:ɖak	oː ɖ a k
+8694	24845	dravlex-Toda	toda1252		bark	1204	BARK		puʈkoɾi	p u ʈ k o ɾ i
+9148	25299	northeuralex-kan	nucl1305		bark	1204	BARK		t̪uːɡəʈi	t̪ uː g ə ʈ i
+9164	25315	northeuralex-mal	mala1464		bark	1204	BARK		paʈːa	p a ʈː a
+9200	25351	northeuralex-tam	tami1289		bark	1204	BARK		pʌʈːʌi	p ʌ ʈː ʌ i
+9201	25352	northeuralex-tam	tami1289		bark	1204	BARK		mʌɾʌpːʌʈːʌi	m ʌ ɾ ʌ pː ʌ ʈː ʌ i
+9203	25354	northeuralex-tel	telu1262		bark	1204	BARK		t͡ɕeʈːupʌʈːʌ	tɕ e ʈː u p ʌ ʈː ʌ
+22607	38758	dravlex-Betta_Kurumba	bett1235		belly	1251	BELLY		poʈʈi	p o ʈː i
+22608	38759	dravlex-Brahui	brah1256		belly	1251	BELLY		peɖʰ	p e ɖʰ
+22609	38760	dravlex-Gondi	nort2702		belly	1251	BELLY		pi:ɾ	p iː ɾ
+22610	38761	dravlex-Kodava	koda1255		belly	1251	BELLY		poʈʈe	p o ʈː e
+22611	38762	dravlex-Koya	koya1251		belly	1251	BELLY		ɖokka	ɖ o kː a
+22612	38763	dravlex-Kurukh	kuru1302		belly	1251	BELLY		ku:l	k uː l
+22613	38764	dravlex-Toda	toda1252		belly	1251	BELLY		piɾ	p i ɾ
+23159	39310	northeuralex-kan	nucl1305		belly	1251	BELLY		hɔʈːe	h ɔ ʈː e
+23177	39328	northeuralex-mal	mala1464		belly	1251	BELLY		n̪ajarɨ̆	n̪ a j a r ɨ
+23209	39360	northeuralex-tam	tami1289		belly	1251	BELLY		ʋʌjiru	ʋ ʌ j i r u
+23211	39362	northeuralex-tel	telu1262		belly	1251	BELLY		kʌɖupu	k ʌ ɖ u p u
+27673	43824	dravlex-Betta_Kurumba	bett1235		big	1202	BIG		dappu	d a pː u
+27674	43825	dravlex-Brahui	brah1256		big	1202	BIG		ballun	b a lː u n
+27675	43826	dravlex-Gondi	nort2702		big	1202	BIG		pedda	p e d d a
+27676	43827	dravlex-Kodava	koda1255		big	1202	BIG		baljadə	b a l j a d ə
+27677	43828	dravlex-Koya	koya1251		big	1202	BIG		beɾɾa	b e ɾ ɾ a
+27678	43829	dravlex-Kurukh	kuru1302		big	1202	BIG		koha	k o h a
+27679	43830	dravlex-Toda	toda1252		big	1202	BIG		ittu:ɖə	i tː uː ɖ ə
+28310	44461	northeuralex-kan	nucl1305		big	1202	BIG		d̪ɔɖːa	d̪ ɔ ɖː a
+28330	44481	northeuralex-mal	mala1464		big	1202	BIG		ʋalija	ʋ a l i j a
+28360	44511	northeuralex-tam	tami1289		big	1202	BIG		peɾijʌ	p e ɾ i j ʌ
+28362	44513	northeuralex-tel	telu1262		big	1202	BIG		ɡopːai̯n̪ʌ	g o pː a i n̪ ʌ
+30081	46232	dravlex-Betta_Kurumba	bett1235		bird	937	BIRD		pikki	p i kː i
+30082	46233	dravlex-Brahui	brah1256		bird	937	BIRD		tʃok	tʃ o k
+30083	46234	dravlex-Gondi	nort2702		bird	937	BIRD		piʈʈə	p i ʈː ə
+30084	46235	dravlex-Kodava	koda1255		bird	937	BIRD		pakʂi	p a k ʂ i
+30085	46236	dravlex-Koya	koya1251		bird	937	BIRD		piʈʈe:ku	p i ʈː eː k u
+30086	46237	dravlex-Kurukh	kuru1302		bird	937	BIRD		oɖa	o ɖ a
+30087	46238	dravlex-Toda	toda1252		bird	937	BIRD		paɾaʋai	p a ɾ a ʋ a i
+30649	46800	northeuralex-kan	nucl1305		bird	937	BIRD		pəkʂi	p ə k ʂ i
+30668	46819	northeuralex-mal	mala1464		bird	937	BIRD		pakʂi	p a k ʂ i
+30701	46852	northeuralex-tam	tami1289		bird	937	BIRD		pʌrʌʋʌi	p ʌ r ʌ ʋ ʌ i
+30703	46854	northeuralex-tel	telu1262		bird	937	BIRD		pʌkʂi	p ʌ k ʂ i
+32410	48561	dravlex-Betta_Kurumba	bett1235		bite	1403	BITE		kaɖi	k a ɖ i
+32411	48562	dravlex-Betta_Kurumba	bett1235		bite	1403	BITE		kajɾi	k a j ɾ i
+32412	48563	dravlex-Brahui	brah1256		bite	1403	BITE		kaat kanning	k a a t + k a nː i n g
+32413	48564	dravlex-Gondi	nort2702		bite	1403	BITE		kask	k a s k
+32414	48565	dravlex-Kodava	koda1255		bite	1403	BITE		kaɖi	k a ɖ i
+32415	48566	dravlex-Koya	koya1251		bite	1403	BITE		koɾaka	k o ɾ a k a
+32416	48567	dravlex-Koya	koya1251		bite	1403	BITE		katʃtʃa:	k a tʃː aː
+32417	48568	dravlex-Kurukh	kuru1302		bite	1403	BITE		kʰatʃtʃna	kʰ a tʃː n a
+32418	48569	dravlex-Toda	toda1252		bite	1403	BITE		paɾtʃiʈtʃi	p a ɾ tʃ i ʈ tʃ i
+32989	49140	northeuralex-kan	nucl1305		bite	1403	BITE		kət͡ʃːu	k ə tʃː u
+33009	49160	northeuralex-mal	mala1464		bite	1403	BITE		kaɖikːʲuɡa	k a ɖ i kʲː u g a
+33038	49189	northeuralex-tam	tami1289		bite	1403	BITE		kʌɖi	k ʌ ɖ i
+33040	49191	northeuralex-tel	telu1262		bite	1403	BITE		kʌɽʌt͡ɕu	k ʌ ɽ ʌ tɕ u
+35061	51212	dravlex-Betta_Kurumba	bett1235		black	163	BLACK		kaɾtənu ipədə	k a ɾ t ə n u + i p ə d ə
+35062	51213	dravlex-Brahui	brah1256		black	163	BLACK		ma:on	m aː o n
+35063	51214	dravlex-Gondi	nort2702		black	163	BLACK		kaɾə	k a ɾ ə
+35064	51215	dravlex-Kodava	koda1255		black	163	BLACK		kaɾtadə	k a ɾ t a d ə
+35065	51216	dravlex-Koya	koya1251		black	163	BLACK		ka:ʈe	k aː ʈ e
+35066	51217	dravlex-Koya	koya1251		black	163	BLACK		nalla	n a lː a
+35067	51218	dravlex-Kurukh	kuru1302		black	163	BLACK		mokʰaɾo	m o kʰ a ɾ o
+35068	51219	dravlex-Toda	toda1252		black	163	BLACK		kappə	k a pː ə
+35609	51760	northeuralex-kan	nucl1305		black	163	BLACK		kəpːu	k ə pː u
+35625	51776	northeuralex-mal	mala1464		black	163	BLACK		karut̪ːa	k a r u t̪ː a
+35654	51805	northeuralex-tam	tami1289		black	163	BLACK		kʌɾupːu_ʋʌɳːʌ	k ʌ ɾ u pː u + ʋ ʌ ɳː ʌ
+35656	51807	northeuralex-tel	telu1262		black	163	BLACK		n̪ʌlːʌn̪i	n̪ ʌ lː ʌ n̪ i
+38495	54646	dravlex-Betta_Kurumba	bett1235		blood	946	BLOOD		nəttəɾə	n ə tː ə ɾ ə
+38496	54647	dravlex-Brahui	brah1256		blood	946	BLOOD		ditaɾ	d i t a ɾ
+38497	54648	dravlex-Gondi	nort2702		blood	946	BLOOD		nettuɾ	n e tː u ɾ
+38498	54649	dravlex-Kodava	koda1255		blood	946	BLOOD		tʃo:ɾə	tʃ oː ɾ ə
+38499	54650	dravlex-Koya	koya1251		blood	946	BLOOD		nettuɾ	n e tː u ɾ
+38500	54651	dravlex-Kurukh	kuru1302		blood	946	BLOOD		kʰe:ns	kʰ eː n s
+38501	54652	dravlex-Toda	toda1252		blood	946	BLOOD		po:kʰə	p oː kʰ ə
+39023	55174	northeuralex-kan	nucl1305		blood	946	BLOOD		rəkt̪a	r ə k t̪ a
+39039	55190	northeuralex-mal	mala1464		blood	946	BLOOD		ɾʲakt̪am	ɾʲ a k t̪ a m
+39070	55221	northeuralex-tam	tami1289		blood	946	BLOOD		iɾʌt̪ːʌm	i ɾ ʌ t̪ː ʌ m
+39072	55223	northeuralex-tel	telu1262		blood	946	BLOOD		rʌkt̪ʌmu	r ʌ k t̪ ʌ m u
+46709	62860	dravlex-Betta_Kurumba	bett1235		bone	1394	BONE		jaləʋə	j a l ə ʋ ə
+46710	62861	dravlex-Brahui	brah1256		bone	1394	BONE		aɖɖə	a ɖː ə
+46711	62862	dravlex-Gondi	nort2702		bone	1394	BONE		bokka	b o kː a
+46712	62863	dravlex-Kodava	koda1255		bone	1394	BONE		mu:ɭe	m uː ɭ e
+46713	62864	dravlex-Koya	koya1251		bone	1394	BONE		bu:la:	b uː l aː
+46714	62865	dravlex-Koya	koya1251		bone	1394	BONE		bu:lk	b uː l k
+46715	62866	dravlex-Kurukh	kuru1302		bone	1394	BONE		kʰotʃol	kʰ o tʃ o l
+46716	62867	dravlex-Toda	toda1252		bone	1394	BONE		elf	e l f
+47244	63395	northeuralex-kan	nucl1305		bone	1394	BONE		muːɭe	m uː ɭ e
+47260	63411	northeuralex-mal	mala1464		bone	1394	BONE		ast̪ɦi	a s t̪ ɦ i
+47292	63443	northeuralex-tam	tami1289		bone	1394	BONE		elumʌβu	e l u m ʌ β u
+47294	63445	northeuralex-tel	telu1262		bone	1394	BONE		emukʌ	e m u k ʌ
+56796	72949	dravlex-Betta_Kurumba	bett1235		breast	1402	BREAST		kujndigi	k u j n d i g i
+56797	72950	dravlex-Brahui	brah1256		breast	1402	BREAST		xad	x a d
+56798	72951	dravlex-Gondi	nort2702		breast	1402	BREAST		dudo	d u d o
+56799	72952	dravlex-Kodava	koda1255		breast	1402	BREAST		mele	m e l e
+56800	72953	dravlex-Koya	koya1251		breast	1402	BREAST		eddam	e d d a m
+56801	72954	dravlex-Kurukh	kuru1302		breast	1402	BREAST		jeʋakʰ	j e ʋ a kʰ
+56802	72955	dravlex-Toda	toda1252		breast	1402	BREAST		nidʒikuɖi	n i dʒ i k u ɖ i
+57307	73460	northeuralex-kan	nucl1305		breast	1402	BREAST		st̪ən̪a	s t̪ ə n̪ a
+57323	73476	northeuralex-mal	mala1464		breast	1402	BREAST		st̪an̪am	s t̪ a n̪ a m
+57352	73505	northeuralex-tam	tami1289		breast	1402	BREAST		mɑːɾpʌhʌm	m ɑː ɾ p ʌ h ʌ m
+57354	73507	northeuralex-tel	telu1262		breast	1402	BREAST		s̪t̪ʌn̪ʌmu	s̪ t̪ ʌ n̪ ʌ m u
+64296	80449	dravlex-Betta_Kurumba	bett1235		burn	2102	BURN		bja:ɭ	b j aː ɭ
+64297	80450	dravlex-Betta_Kurumba	bett1235		burn	2102	BURN		ben	b e n
+64298	80451	dravlex-Betta_Kurumba	bett1235		burn	2102	BURN		kattu	k a tː u
+64299	80452	dravlex-Betta_Kurumba	bett1235		burn	2102	BURN		kettu	k e tː u
+64300	80453	dravlex-Brahui	brah1256		burn	2102	BURN		xa:xaɾ tinning	x aː x a ɾ + t i nː i n g
+64301	80454	dravlex-Gondi	nort2702		burn	2102	BURN		niɾus	n i ɾ u s
+64302	80455	dravlex-Kodava	koda1255		burn	2102	BURN		tʃu:ɖə	tʃ uː ɖ ə
+64303	80456	dravlex-Koya	koya1251		burn	2102	BURN		maɳɖu	m a ɳ ɖ u
+64304	80457	dravlex-Kurukh	kuru1302		burn	2102	BURN		olna	o l n a
+64305	80458	dravlex-Toda	toda1252		burn	2102	BURN		ti:kku ka:ttiti	t iː kː u + k aː tː i t i
+86932	103085	dravlex-Betta_Kurumba	bett1235		claw	72	CLAW		ki:jəggəɾə	k iː j ə gː ə ɾ ə
+86933	103086	dravlex-Brahui	brah1256		claw	72	CLAW		hoɾ ad	h o ɾ + a d
+86934	103087	dravlex-Brahui	brah1256		claw	72	CLAW		zeel	z e e l
+86935	103088	dravlex-Gondi	nort2702		claw	72	CLAW		goɾk	g o ɾ k
+86936	103089	dravlex-Kodava	koda1255		claw	72	CLAW		ʋoji	ʋ o j i
+86937	103090	dravlex-Koya	koya1251		claw	72	CLAW		go:ɾk	g oː ɾ k
+86938	103091	dravlex-Kurukh	kuru1302		claw	72	CLAW		oɾokʰ	o ɾ o kʰ
+86939	103092	dravlex-Toda	toda1252		claw	72	CLAW		ju:r	j uː r
+87073	103226	northeuralex-kan	nucl1305		claw	72	CLAW		pəŋd͡ʒa	p ə ŋ dʒ a
+87090	103243	northeuralex-mal	mala1464		claw	72	CLAW		n̪akʰam	n̪ a kʰ a m
+87122	103275	northeuralex-tam	tami1289		claw	72	CLAW		n̪ʌhʌm	n̪ ʌ h ʌ m
+87124	103277	northeuralex-tel	telu1262		claw	72	CLAW		ʋʌ̃kʌrʌɡoːru	ʋ ʌ̃ k ʌ r ʌ g oː r u
+91383	107536	dravlex-Betta_Kurumba	bett1235		cloud	1489	CLOUD		mo:ɖə	m oː ɖ ə
+91384	107537	dravlex-Brahui	brah1256		cloud	1489	CLOUD		dʒammaɾ	dʒ a mː a ɾ
+91385	107538	dravlex-Gondi	nort2702		cloud	1489	CLOUD		mabbu	m a bː u
+91386	107539	dravlex-Kodava	koda1255		cloud	1489	CLOUD		mo:ɖa	m oː ɖ a
+91387	107540	dravlex-Koya	koya1251		cloud	1489	CLOUD		mabbu	m a bː u
+91388	107541	dravlex-Kurukh	kuru1302		cloud	1489	CLOUD		bada:li	b a d aː l i
+91389	107542	dravlex-Toda	toda1252		cloud	1489	CLOUD		me:gam	m eː g a m
+91929	108082	northeuralex-kan	nucl1305		cloud	1489	CLOUD		moːɖa	m oː ɖ a
+91945	108098	northeuralex-mal	mala1464		cloud	1489	CLOUD		meːɡʰam	m eː gʰ a m
+91978	108131	northeuralex-tam	tami1289		cloud	1489	CLOUD		meːhʌm	m eː h ʌ m
+91980	108133	northeuralex-tel	telu1262		cloud	1489	CLOUD		meːɡʰʌmu	m eː gʰ ʌ m u
+94983	111136	dravlex-Betta_Kurumba	bett1235		cold	1287	COLD		səjlijə	s ə j l i j ə
+94984	111137	dravlex-Brahui	brah1256		cold	1287	COLD		jakʰ	j a kʰ
+94985	111138	dravlex-Brahui	brah1256		cold	1287	COLD		jax	j a x
+94986	111139	dravlex-Gondi	nort2702		cold	1287	COLD		sallag	s a lː a g
+94987	111140	dravlex-Kodava	koda1255		cold	1287	COLD		talindʒadə	t a l i n dʒ a d ə
+94988	111141	dravlex-Kodava	koda1255		cold	1287	COLD		ko:ʈa	k oː ʈ a
+94989	111142	dravlex-Koya	koya1251		cold	1287	COLD		salla:	s a lː aː
+94990	111143	dravlex-Kurukh	kuru1302		cold	1287	COLD		ki:ɾna	k iː ɾ n a
+94991	111144	dravlex-Toda	toda1252		cold	1287	COLD		koɾti	k o ɾ t i
+95519	111672	northeuralex-kan	nucl1305		cold	1287	COLD		t̪əɳːən̪ɛja	t̪ ə ɳː ə n̪ ɛ j a
+95536	111689	northeuralex-mal	mala1464		cold	1287	COLD		t̪aɳut̪ːa	t̪ a ɳ u t̪ː a
+95569	111722	northeuralex-tam	tami1289		cold	1287	COLD		kuɭiɾt͡ɕːijɑːnʌ	k u ɭ i ɾ tɕː i j ɑː n ʌ
+95572	111725	northeuralex-tel	telu1262		cold	1287	COLD		t͡ɕʌlːʌn̪i	tɕ ʌ lː ʌ n̪ i
+98600	114753	dravlex-Betta_Kurumba	bett1235		come	1446	COME		ba:ɾ	b aː ɾ
+98601	114754	dravlex-Betta_Kurumba	bett1235		come	1446	COME		ban	b a n
+98602	114755	dravlex-Betta_Kurumba	bett1235		come	1446	COME		bu	b u
+98603	114756	dravlex-Brahui	brah1256		come	1446	COME		banning	b a nː i n g
+98604	114757	dravlex-Gondi	nort2702		come	1446	COME		ʋa	ʋ a
+98605	114758	dravlex-Kodava	koda1255		come	1446	COME		ba:	b aː
+98606	114759	dravlex-Koya	koya1251		come	1446	COME		ʋa	ʋ a
+98607	114760	dravlex-Koya	koya1251		come	1446	COME		ʋa:daɖam	ʋ aː d a ɖ a m
+98608	114761	dravlex-Kurukh	kuru1302		come	1446	COME		baɾna	b a ɾ n a
+98609	114762	dravlex-Toda	toda1252		come	1446	COME		pa:ɾti	p aː ɾ t i
+99192	115345	northeuralex-kan	nucl1305		come	1446	COME		bəru	b ə r u
+99209	115362	northeuralex-mal	mala1464		come	1446	COME		ʋaɾʲuɡa	ʋ a ɾʲ u g a
+99239	115392	northeuralex-tam	tami1289		come	1446	COME		ʋɑː	ʋ ɑː
+99241	115394	northeuralex-tel	telu1262		come	1446	COME		ʋʌt͡ɕːu	ʋ ʌ tɕː u
+126822	142977	dravlex-Betta_Kurumba	bett1235		die	1494	DIE		maɾdo:g	m a ɾ d oː g
+126823	142978	dravlex-Brahui	brah1256		die	1494	DIE		kahing	k a h i n g
+126824	142979	dravlex-Gondi	nort2702		die	1494	DIE		ha:	h aː
+126825	142980	dravlex-Kodava	koda1255		die	1494	DIE		tʃ:ɭa	tʃː ɭ a
+126826	142981	dravlex-Koya	koya1251		die	1494	DIE		ɖollatam	ɖ o lː a t a m
+126827	142982	dravlex-Kurukh	kuru1302		die	1494	DIE		kʰena	kʰ e n a
+126828	142983	dravlex-Toda	toda1252		die	1494	DIE		keɖuoisi	k e ɖ u o i s i
+127400	143555	northeuralex-kan	nucl1305		die	1494	DIE		mrɨt̪əpəɖu	m r ɨ t̪ ə p ə ɖ u
+127421	143576	northeuralex-mal	mala1464		die	1494	DIE		maɾʲikːʲuɡa	m a ɾʲ i kʲː u g a
+127450	143605	northeuralex-tam	tami1289		die	1494	DIE		mʌɾʌɳʌmʌɖʌi	m ʌ ɾ ʌ ɳ ʌ m ʌ ɖ ʌ i
+127454	143609	northeuralex-tel	telu1262		die	1494	DIE		mʌrʌɳĩt͡ɕu	m ʌ r ʌ ɳ ĩ tɕ u
+135417	151572	dravlex-Betta_Kurumba	bett1235		dog	2009	DOG		na:jə	n aː j ə
+135418	151573	dravlex-Brahui	brah1256		dog	2009	DOG		kutʃak	k u tʃ a k
+135419	151574	dravlex-Gondi	nort2702		dog	2009	DOG		nej	n e j
+135420	151575	dravlex-Kodava	koda1255		dog	2009	DOG		na:ji	n aː j i
+135421	151576	dravlex-Koya	koya1251		dog	2009	DOG		nej	n e j
+135422	151577	dravlex-Kurukh	kuru1302		dog	2009	DOG		alla	a lː a
+135423	151578	dravlex-Toda	toda1252		dog	2009	DOG		noi	n o i
+135967	152122	northeuralex-kan	nucl1305		dog	2009	DOG		n̪aːji	n̪ aː j i
+135983	152138	northeuralex-mal	mala1464		dog	2009	DOG		n̪aːjɨ̆	n̪ aː j ɨ
+136013	152168	northeuralex-tam	tami1289		dog	2009	DOG		n̪ɑːj	n̪ ɑː j
+136015	152170	northeuralex-tel	telu1262		dog	2009	DOG		kukːʌ	k u kː ʌ
+141881	158036	dravlex-Betta_Kurumba	bett1235		drink	1401	DRINK		kuɖi	k u ɖ i
+141882	158037	dravlex-Betta_Kurumba	bett1235		drink	1401	DRINK		kujɾi	k u j ɾ i
+141883	158038	dravlex-Brahui	brah1256		drink	1401	DRINK		kuning	k u n i n g
+141884	158039	dravlex-Gondi	nort2702		drink	1401	DRINK		un	u n
+141885	158040	dravlex-Kodava	koda1255		drink	1401	DRINK		kuɖipa	k u ɖ i p a
+141886	158041	dravlex-Koya	koya1251		drink	1401	DRINK		unnu	u nː u
+141887	158042	dravlex-Kurukh	kuru1302		drink	1401	DRINK		onna	o nː a
+141888	158043	dravlex-Toda	toda1252		drink	1401	DRINK		uʈʈudi	u ʈː u d i
+142421	158576	northeuralex-kan	nucl1305		drink	1401	DRINK		kʊɖi	k ʊ ɖ i
+142440	158595	northeuralex-mal	mala1464		drink	1401	DRINK		kuɖikːʲuɡa	k u ɖ i kʲː u g a
+142468	158623	northeuralex-tam	tami1289		drink	1401	DRINK		kuɖi	k u ɖ i
+142470	158625	northeuralex-tel	telu1262		drink	1401	DRINK		t̪raːɡu	t̪ r aː g u
+145514	161669	dravlex-Betta_Kurumba	bett1235		dry	1398	DRY		ajngənu ipədə	a j n g ə n u + i p ə d ə
+145515	161670	dravlex-Brahui	brah1256		dry	1398	DRY		ba:ɾun	b aː ɾ u n
+145516	161671	dravlex-Gondi	nort2702		dry	1398	DRY		ʋaʈʈa	ʋ a ʈː a
+145517	161672	dravlex-Kodava	koda1255		dry	1398	DRY		oɳangina	o ɳ a n g i n a
+145518	161673	dravlex-Koya	koya1251		dry	1398	DRY		aɾta:d	a ɾ t aː d
+145519	161674	dravlex-Koya	koya1251		dry	1398	DRY		poɖi	p o ɖ i
+145520	161675	dravlex-Kurukh	kuru1302		dry	1398	DRY		kʰajka	kʰ a j k a
+145521	161676	dravlex-Toda	toda1252		dry	1398	DRY		oɳikisi	o ɳ i k i s i
+145990	162145	northeuralex-kan	nucl1305		dry	1398	DRY		ɕʊʂka	ɕ ʊ ʂ k a
+146007	162162	northeuralex-mal	mala1464		dry	1398	DRY		ʋaɾʲaɳɖa	ʋ a ɾʲ a ɳ ɖ a
+146034	162189	northeuralex-tam	tami1289		dry	1398	DRY		ulʌɾn̪t̪ʌ	u l ʌ ɾ n̪ t̪ ʌ
+146036	162191	northeuralex-tel	telu1262		dry	1398	DRY		ẽɖin̪ʌ	ẽ ɖ i n̪ ʌ
+150978	167133	dravlex-Betta_Kurumba	bett1235		ear	1247	EAR		kiʋija	k i ʋ i j a
+150979	167134	dravlex-Brahui	brah1256		ear	1247	EAR		xaf	x a f
+150980	167135	dravlex-Gondi	nort2702		ear	1247	EAR		keʋu	k e ʋ u
+150981	167136	dravlex-Kodava	koda1255		ear	1247	EAR		kemi	k e m i
+150982	167137	dravlex-Koya	koya1251		ear	1247	EAR		keʋ	k e ʋ
+150983	167138	dravlex-Koya	koya1251		ear	1247	EAR		keʋk	k e ʋ k
+150984	167139	dravlex-Kurukh	kuru1302		ear	1247	EAR		kʰebda	kʰ e b d a
+150985	167140	dravlex-Toda	toda1252		ear	1247	EAR		kili	k i l i
+151509	167664	northeuralex-kan	nucl1305		ear	1247	EAR		kɪʋi	k ɪ ʋ i
+151525	167680	northeuralex-mal	mala1464		ear	1247	EAR		t͡ʃeʋi	tʃ e ʋ i
+151553	167708	northeuralex-tam	tami1289		ear	1247	EAR		kɑːt̪u	k ɑː t̪ u
+151555	167710	northeuralex-tel	telu1262		ear	1247	EAR		t͡ɕeʋi	tɕ e ʋ i
+153909	170064	dravlex-Betta_Kurumba	bett1235		earthsoil	1228	EARTH (SOIL)		bu:mi	b uː m i
+153910	170065	dravlex-Brahui	brah1256		earthsoil	1228	EARTH (SOIL)		ɖaga:ɾ	ɖ a g aː ɾ
+153911	170066	dravlex-Gondi	nort2702		earthsoil	1228	EARTH (SOIL)		mannə	m a nː ə
+153912	170067	dravlex-Kodava	koda1255		earthsoil	1228	EARTH (SOIL)		mannə	m a nː ə
+153913	170068	dravlex-Koya	koya1251		earthsoil	1228	EARTH (SOIL)		maʈʈi	m a ʈː i
+153914	170069	dravlex-Kurukh	kuru1302		earthsoil	1228	EARTH (SOIL)		kʰekʰel	kʰ e kʰ e l
+153915	170070	dravlex-Toda	toda1252		earthsoil	1228	EARTH (SOIL)		koɖə	k o ɖ ə
+154332	170487	northeuralex-kan	nucl1305		earthsoil	1228	EARTH (SOIL)		bʰuːmi	bʰ uː m i
+154350	170505	northeuralex-mal	mala1464		earthsoil	1228	EARTH (SOIL)		maɳːɨ̆	m a ɳː ɨ
+154387	170542	northeuralex-tam	tami1289		earthsoil	1228	EARTH (SOIL)		mʌɳ	m ʌ ɳ
+154389	170544	northeuralex-tel	telu1262		earthsoil	1228	EARTH (SOIL)		mʌn̪ːu	m ʌ n̪ː u
+156447	172602	dravlex-Betta_Kurumba	bett1235		eat	1336	EAT		tinn	t i nː
+156448	172603	dravlex-Brahui	brah1256		eat	1336	EAT		kuning	k u n i n g
+156449	172604	dravlex-Gondi	nort2702		eat	1336	EAT		dʒeʋi	dʒ e ʋ i
+156450	172605	dravlex-Kodava	koda1255		eat	1336	EAT		tinə	t i n ə
+156451	172606	dravlex-Koya	koya1251		eat	1336	EAT		tinnu	t i nː u
+156452	172607	dravlex-Kurukh	kuru1302		eat	1336	EAT		mokʰna	m o kʰ n a
+156453	172608	dravlex-Toda	toda1252		eat	1336	EAT		toɾtin	t o ɾ t i n
+157042	173197	northeuralex-kan	nucl1305		eat	1336	EAT		t̪ɪn̪ːu	t̪ ɪ n̪ː u
+157059	173214	northeuralex-mal	mala1464		eat	1336	EAT		kaɻikːʲuɡa	k a ɻ i kʲː u g a
+157088	173243	northeuralex-tam	tami1289		eat	1336	EAT		t͡ɕɑːpːiɖu	tɕ ɑː pː i ɖ u
+157090	173245	northeuralex-tel	telu1262		eat	1336	EAT		t̪in̪u	t̪ i n̪ u
+158814	174972	dravlex-Betta_Kurumba	bett1235		egg	744	EGG		mujɾgi	m u j ɾ g i
+158815	174973	dravlex-Brahui	brah1256		egg	744	EGG		xuahae	x u a h a e
+158816	174974	dravlex-Brahui	brah1256		egg	744	EGG		baƐdƐ	b a ɛ d ɛ
+158817	174975	dravlex-Gondi	nort2702		egg	744	EGG		mi:ndʒ	m iː n dʒ
+158818	174976	dravlex-Kodava	koda1255		egg	744	EGG		muʈʈe	m u ʈː e
+158819	174977	dravlex-Koya	koya1251		egg	744	EGG		gaɾbam	g a ɾ b a m
+158820	174978	dravlex-Kurukh	kuru1302		egg	744	EGG		bi:	b iː
+158821	174979	dravlex-Toda	toda1252		egg	744	EGG		muʈʈe	m u ʈː e
+159322	175480	northeuralex-kan	nucl1305		egg	744	EGG		mɔʈːe	m ɔ ʈː e
+159340	175498	northeuralex-mal	mala1464		egg	744	EGG		muʈːa	m u ʈː a
+159371	175529	northeuralex-tam	tami1289		egg	744	EGG		muʈːʌi	m u ʈː ʌ i
+159374	175532	northeuralex-tel	telu1262		egg	744	EGG		ɡruɖːu	g r u ɖː u
+169352	185510	dravlex-Betta_Kurumba	bett1235		eye	1248	EYE		kaɳɳu	k a ɳ ɳ u
+169353	185511	dravlex-Brahui	brah1256		eye	1248	EYE		xan	x a n
+169354	185512	dravlex-Gondi	nort2702		eye	1248	EYE		kəɖə	k ə ɖ ə
+169355	185513	dravlex-Kodava	koda1255		eye	1248	EYE		kaɳɳə	k a ɳ ɳ ə
+169356	185514	dravlex-Koya	koya1251		eye	1248	EYE		koɳɖ	k o ɳ ɖ
+169357	185515	dravlex-Kurukh	kuru1302		eye	1248	EYE		kʰann	kʰ a nː
+169358	185516	dravlex-Toda	toda1252		eye	1248	EYE		kaɳ	k a ɳ
+169909	186067	northeuralex-kan	nucl1305		eye	1248	EYE		kəɳːu	k ə ɳː u
+169925	186083	northeuralex-mal	mala1464		eye	1248	EYE		kaɳːɨ̆	k a ɳː ɨ
+169953	186111	northeuralex-tam	tami1289		eye	1248	EYE		kʌɳ	k ʌ ɳ
+169955	186113	northeuralex-tel	telu1262		eye	1248	EYE		kʌn̪ːu	k ʌ n̪ː u
+182276	198436	northeuralex-kan	nucl1305		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		kɔbːu	k ɔ bː u
+182295	198455	northeuralex-mal	mala1464		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		koɻupːɨ̆	k o ɻ u pː ɨ
+182328	198488	northeuralex-tam	tami1289		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		koɻupːu	k o ɻ u pː u
+182330	198490	northeuralex-tel	telu1262		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		kroʋːu	k r o ʋː u
+184785	200945	dravlex-Betta_Kurumba	bett1235		feather	1201	FEATHER		tiʋija	t i ʋ i j a
+184786	200946	dravlex-Brahui	brah1256		feather	1201	FEATHER		paɾɾƐ	p a ɾ ɾ ɛ
+184787	200947	dravlex-Gondi	nort2702		feather	1201	FEATHER		buɾa	b u ɾ a
+184788	200948	dravlex-Kodava	koda1255		feather	1201	FEATHER		topaʈa	t o p a ʈ a
+184789	200949	dravlex-Koya	koya1251		feather	1201	FEATHER		geɾk	g e ɾ k
+184790	200950	dravlex-Kurukh	kuru1302		feather	1201	FEATHER		pentʃo	p e n tʃ o
+184791	200951	dravlex-Toda	toda1252		feather	1201	FEATHER		iɾakke	i ɾ a kː e
+185155	201315	northeuralex-kan	nucl1305		feather	1201	FEATHER		pʊkːa	p ʊ kː a
+185173	201333	northeuralex-mal	mala1464		feather	1201	FEATHER		t̪uːʋal	t̪ uː ʋ a l
+185203	201363	northeuralex-tam	tami1289		feather	1201	FEATHER		irʌhu	i r ʌ h u
+185205	201365	northeuralex-tel	telu1262		feather	1201	FEATHER		iːkʌ	iː k ʌ
+192649	225302	dravlex-Betta_Kurumba	bett1235		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pa:ɾ	p aː ɾ
+192650	225303	dravlex-Betta_Kurumba	bett1235		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pe:ɾ	p eː ɾ
+192651	225304	dravlex-Brahui	brah1256		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ba:l kanning	b aː l + k a nː i n g
+192652	225305	dravlex-Gondi	nort2702		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		paɾi	p a ɾ i
+192653	225306	dravlex-Kodava	koda1255		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pa:ɾa	p aː ɾ a
+192654	225307	dravlex-Koya	koya1251		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		tulla	t u lː a
+192655	225308	dravlex-Kurukh	kuru1302		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uɖijaɾna	u ɖ i j a ɾ n a
+192656	225309	dravlex-Toda	toda1252		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		po:ɾtʃ	p oː ɾ tʃ
+193062	225715	northeuralex-kan	nucl1305		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		haːru	h aː r u
+193083	225736	northeuralex-mal	mala1464		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		parakːuɡa	p a r a kː u g a
+193114	225767	northeuralex-tam	tami1289		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pʌrʌ	p ʌ r ʌ
+193116	225769	northeuralex-tel	telu1262		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		eɡuru	e g u r u
+195984	228637	dravlex-Betta_Kurumba	bett1235		foot	1301	FOOT		ka:lə	k aː l ə
+195985	228638	dravlex-Brahui	brah1256		foot	1301	FOOT		nat	n a t
+195986	228639	dravlex-Gondi	nort2702		foot	1301	FOOT		ka:l	k aː l
+195987	228640	dravlex-Kodava	koda1255		foot	1301	FOOT		anga:l	a n g aː l
+195988	228641	dravlex-Koya	koya1251		foot	1301	FOOT		aɖugu	a ɖ u g u
+195989	228642	dravlex-Kurukh	kuru1302		foot	1301	FOOT		kʰeɖ	kʰ e ɖ
+195990	228643	dravlex-Toda	toda1252		foot	1301	FOOT		ko:l	k oː l
+196446	229099	northeuralex-kan	nucl1305		foot	1301	FOOT		paːd̪a	p aː d̪ a
+196464	229117	northeuralex-mal	mala1464		foot	1301	FOOT		kaːlpːaːd̪am	k aː l pː aː d̪ a m
+196496	229149	northeuralex-tam	tami1289		foot	1301	FOOT		kɑːl	k ɑː l
+196498	229151	northeuralex-tel	telu1262		foot	1301	FOOT		ʌɖuɡu	ʌ ɖ u g u
+209034	241687	dravlex-Betta_Kurumba	bett1235		full	1429	FULL		fullə	f u lː ə
+209035	241688	dravlex-Brahui	brah1256		full	1429	FULL		puɾ	p u ɾ
+209036	241689	dravlex-Gondi	nort2702		full	1429	FULL		niɳɖ	n i ɳ ɖ
+209037	241690	dravlex-Kodava	koda1255		full	1429	FULL		dumba	d u m b a
+209038	241691	dravlex-Koya	koya1251		full	1429	FULL		ninɖa:	n i n ɖ aː
+209039	241692	dravlex-Kurukh	kuru1302		full	1429	FULL		nindka	n i n d k a
+209040	241693	dravlex-Toda	toda1252		full	1429	FULL		so:kkaije	s oː kː a i j e
+209508	242161	northeuralex-kan	nucl1305		full	1429	FULL		t̪ʊŋbɪd̪a	t̪ ʊ ŋ b ɪ d̪ a
+209524	242177	northeuralex-mal	mala1464		full	1429	FULL		n̪iraje	n̪ i r a j e
+209556	242209	northeuralex-tam	tami1289		full	1429	FULL		n̪iɾʌmbijʌ	n̪ i ɾ ʌ m b i j ʌ
+209558	242211	northeuralex-tel	telu1262		full	1429	FULL		n̪ĩɖu	n̪ ĩ ɖ u
+214378	247031	dravlex-Betta_Kurumba	bett1235		give	1447	GIVE		koɖ	k o ɖ
+214379	247032	dravlex-Brahui	brah1256		give	1447	GIVE		tinning	t i nː i n g
+214380	247033	dravlex-Gondi	nort2702		give	1447	GIVE		hi	h i
+214381	247034	dravlex-Kodava	koda1255		give	1447	GIVE		koɖi	k o ɖ i
+214382	247035	dravlex-Koya	koya1251		give	1447	GIVE		i:m	iː m
+214383	247036	dravlex-Koya	koya1251		give	1447	GIVE		i:datam	iː d a t a m
+214384	247037	dravlex-Kurukh	kuru1302		give	1447	GIVE		tʃihna	tʃ i h n a
+214385	247038	dravlex-Toda	toda1252		give	1447	GIVE		ittʃadta	i tː ʃ a d t a
+214934	247587	northeuralex-kan	nucl1305		give	1447	GIVE		kɔɖu	k ɔ ɖ u
+214953	247606	northeuralex-mal	mala1464		give	1447	GIVE		koɖukːuɡa	k o ɖ u kː u g a
+214954	247607	northeuralex-mal	mala1464		give	1447	GIVE		t̪aɾʲuɡa	t̪ a ɾʲ u g a
+214982	247635	northeuralex-tam	tami1289		give	1447	GIVE		koɖu	k o ɖ u
+214984	247637	northeuralex-tel	telu1262		give	1447	GIVE		it͡ɕːu	i tɕː u
+220461	253117	dravlex-Betta_Kurumba	bett1235		good	1035	GOOD		nall	n a lː
+220462	253118	dravlex-Brahui	brah1256		good	1035	GOOD		dʒua:n	dʒ u aː n
+220463	253119	dravlex-Gondi	nort2702		good	1035	GOOD		assal	a sː a l
+220464	253120	dravlex-Kodava	koda1255		good	1035	GOOD		nalla	n a lː a
+220465	253121	dravlex-Koya	koya1251		good	1035	GOOD		mantʃid	m a n tʃ i d
+220466	253122	dravlex-Kurukh	kuru1302		good	1035	GOOD		da:ʋ	d aː ʋ
+220467	253123	dravlex-Toda	toda1252		good	1035	GOOD		ulti	u l t i
+221075	253731	northeuralex-kan	nucl1305		good	1035	GOOD		wɔɭːɛja	w ɔ ɭː ɛ j a
+221092	253748	northeuralex-mal	mala1464		good	1035	GOOD		n̪alːa	n̪ a lː a
+221124	253780	northeuralex-tam	tami1289		good	1035	GOOD		n̪ʌlːʌ	n̪ ʌ lː ʌ
+221126	253782	northeuralex-tel	telu1262		good	1035	GOOD		mʌ̃t͡ɕi	m ʌ̃ tɕ i
+228361	261017	dravlex-Betta_Kurumba	bett1235		green	1425	GREEN		passla:ngi	p a sː l aː n g i
+228362	261018	dravlex-Betta_Kurumba	bett1235		green	1425	GREEN		patʃtʃəla:ngi	p a tʃː ə l aː n g i
+228363	261019	dravlex-Brahui	brah1256		green	1425	GREEN		guanakki	g u a n a kː i
+228364	261020	dravlex-Gondi	nort2702		green	1425	GREEN		patʃtʃad	p a tʃː a d
+228365	261021	dravlex-Gondi	nort2702		green	1425	GREEN		hi:	h iː
+228366	261022	dravlex-Kodava	koda1255		green	1425	GREEN		patʃtʃe	p a tʃː e
+228367	261023	dravlex-Koya	koya1251		green	1425	GREEN		patʃtʃa	p a tʃː a
+228368	261024	dravlex-Kurukh	kuru1302		green	1425	GREEN		haɾija:ɾ	h a ɾ i j aː ɾ
+228369	261025	dravlex-Toda	toda1252		green	1425	GREEN		patʃtʃai	p a tʃː a i
+228814	261470	northeuralex-kan	nucl1305		green	1425	GREEN		kaːjaːd̪a	k aː j aː d̪ a
+228833	261489	northeuralex-mal	mala1464		green	1425	GREEN		pat͡ʃːan̪iramuɭːa	p a tʃː a n̪ i r a m u ɭː a
+228870	261526	northeuralex-tam	tami1289		green	1425	GREEN		pʌt͡ɕːʌi_ʋʌɳːʌ	p ʌ tɕː ʌ i + ʋ ʌ ɳː ʌ
+228872	261528	northeuralex-tel	telu1262		green	1425	GREEN		aːkupʌt͡ɕːʌn̪i	aː k u p ʌ tɕː ʌ n̪ i
+234816	267472	northeuralex-kan	nucl1305		hair	1040	HAIR		kuːd̪əlu	k uː d̪ ə l u
+234833	267489	northeuralex-mal	mala1464		hair	1040	HAIR		t̪alamuɖi	t̪ a l a m u ɖ i
+234863	267519	northeuralex-tam	tami1289		hair	1040	HAIR		muɖi	m u ɖ i
+234865	267521	northeuralex-tel	telu1262		hair	1040	HAIR		ʋẽɖrukʌ	ʋ ẽ ɖ r u k ʌ
+238162	270818	dravlex-Betta_Kurumba	bett1235		hand	1277	HAND		ki:ja	k iː j a
+238163	270819	dravlex-Brahui	brah1256		hand	1277	HAND		ɖu:	ɖ uː
+238164	270820	dravlex-Gondi	nort2702		hand	1277	HAND		kaj	k a j
+238165	270821	dravlex-Kodava	koda1255		hand	1277	HAND		kaj	k a j
+238166	270822	dravlex-Koya	koya1251		hand	1277	HAND		kaj	k a j
+238167	270823	dravlex-Kurukh	kuru1302		hand	1277	HAND		kʰekkʰa	kʰ e kʰː a
+238168	270824	dravlex-Toda	toda1252		hand	1277	HAND		koi	k o i
+238654	271310	northeuralex-kan	nucl1305		hand	1277	HAND		kəi	k ə i
+238675	271331	northeuralex-mal	mala1464		hand	1277	HAND		kai	k a i
+238707	271363	northeuralex-tam	tami1289		hand	1277	HAND		kʌi	k ʌ i
+238709	271365	northeuralex-tel	telu1262		hand	1277	HAND		t͡ɕeːji	tɕ eː j i
+243732	276389	dravlex-Betta_Kurumba	bett1235		head	1256	HEAD		maɳɖi	m a ɳ ɖ i
+243733	276390	dravlex-Brahui	brah1256		head	1256	HEAD		ka:ʈum	k aː ʈ u m
+243734	276391	dravlex-Gondi	nort2702		head	1256	HEAD		talla	t a lː a
+243735	276392	dravlex-Kodava	koda1255		head	1256	HEAD		maɳɖe	m a ɳ ɖ e
+243736	276393	dravlex-Koya	koya1251		head	1256	HEAD		talaka:j	t a l a k aː j
+243737	276394	dravlex-Kurukh	kuru1302		head	1256	HEAD		kuk	k u k
+243738	276395	dravlex-Toda	toda1252		head	1256	HEAD		maʈʈə	m a ʈː ə
+244272	276929	northeuralex-kan	nucl1305		head	1256	HEAD		t̪əle	t̪ ə l e
+244288	276945	northeuralex-mal	mala1464		head	1256	HEAD		t̪ala	t̪ a l a
+244318	276975	northeuralex-tam	tami1289		head	1256	HEAD		t̪ʌlʌi	t̪ ʌ l ʌ i
+244320	276977	northeuralex-tel	telu1262		head	1256	HEAD		t̪ʌlʌ	t̪ ʌ l ʌ
+246690	279347	dravlex-Betta_Kurumba	bett1235		hear	1408	HEAR		kə:ɭ	k əː ɭ
+246691	279348	dravlex-Brahui	brah1256		hear	1408	HEAR		bining	b i n i n g
+246692	279349	dravlex-Gondi	nort2702		hear	1408	HEAR		kendʒ	k e n dʒ
+246693	279350	dravlex-Kodava	koda1255		hear	1408	HEAR		ke:ɭə	k eː ɭ ə
+246694	279351	dravlex-Koya	koya1251		hear	1408	HEAR		ke:dʒa	k eː dʒ a
+246695	279352	dravlex-Kurukh	kuru1302		hear	1408	HEAR		menna	m e nː a
+246696	279353	dravlex-Toda	toda1252		hear	1408	HEAR		ke:l	k eː l
+247201	279858	northeuralex-kan	nucl1305		hear	1408	HEAR		keːɭu	k eː ɭ u
+247217	279874	northeuralex-mal	mala1464		hear	1408	HEAR		keːɭkːuɡa	k eː ɭ kː u g a
+247244	279901	northeuralex-tam	tami1289		hear	1408	HEAR		keːɭ	k eː ɭ
+247246	279903	northeuralex-tel	telu1262		hear	1408	HEAR		ʋin̪u	ʋ i n̪ u
+248277	280934	dravlex-Betta_Kurumba	bett1235		heart	1223	HEART		jaddi	j a d d i
+248278	280935	dravlex-Brahui	brah1256		heart	1223	HEART		ust	u s t
+248279	280936	dravlex-Gondi	nort2702		heart	1223	HEART		guɳɖe	g u ɳ ɖ e
+248280	280937	dravlex-Kodava	koda1255		heart	1223	HEART		hrudaja	h r u d a j a
+248281	280938	dravlex-Koya	koya1251		heart	1223	HEART		guɳɖeka:ja	g u ɳ ɖ e k aː j a
+248282	280939	dravlex-Kurukh	kuru1302		heart	1223	HEART		buka	b u k a
+248283	280940	dravlex-Toda	toda1252		heart	1223	HEART		manasə	m a n a s ə
+248784	281441	northeuralex-kan	nucl1305		heart	1223	HEART		hrɨd̪əja	h r ɨ d̪ ə j a
+248802	281459	northeuralex-mal	mala1464		heart	1223	HEART		ɦɾʲ̥d̪ajam	ɦ ɾ̥ʲ d̪ a j a m
+248831	281488	northeuralex-tam	tami1289		heart	1223	HEART		iðʌjʌmʌ	i ð ʌ j ʌ m ʌ
+248833	281490	northeuralex-tel	telu1262		heart	1223	HEART		hrʊd̪ʌjʌmu	h r ʊ d̪ ʌ j ʌ m u
+263211	295871	dravlex-Betta_Kurumba	bett1235		hornanatomy	1393	HORN (ANATOMY)		kombbə	k o m bː ə
+263212	295872	dravlex-Brahui	brah1256		hornanatomy	1393	HORN (ANATOMY)		maɾgʰ	m a ɾ gʱ
+263213	295873	dravlex-Gondi	nort2702		hornanatomy	1393	HORN (ANATOMY)		koɾ	k o ɾ
+263214	295874	dravlex-Kodava	koda1255		hornanatomy	1393	HORN (ANATOMY)		kombə	k o m b ə
+263215	295875	dravlex-Koya	koya1251		hornanatomy	1393	HORN (ANATOMY)		komm	k o mː
+263216	295876	dravlex-Koya	koya1251		hornanatomy	1393	HORN (ANATOMY)		ko:kku	k oː kː u
+263217	295877	dravlex-Kurukh	kuru1302		hornanatomy	1393	HORN (ANATOMY)		maɾag	m a ɾ a g
+263218	295878	dravlex-Toda	toda1252		hornanatomy	1393	HORN (ANATOMY)		ku:ɾ	k uː ɾ
+263627	296287	northeuralex-kan	nucl1305		hornanatomy	1393	HORN (ANATOMY)		kɔŋbu	k ɔ ŋ b u
+263643	296303	northeuralex-mal	mala1464		hornanatomy	1393	HORN (ANATOMY)		mɾʲ̥ɡat̪ːin̪te_kombɨ̆	m ɾ̥ʲ g a t̪ː i n̪ t e + k o m b ɨ
+263674	296334	northeuralex-tam	tami1289		hornanatomy	1393	HORN (ANATOMY)		kombu	k o m b u
+263676	296336	northeuralex-tel	telu1262		hornanatomy	1393	HORN (ANATOMY)		komːu	k o mː u
+274489	307149	dravlex-Betta_Kurumba	bett1235		i	1209	I		na:ʋə	n aː ʋ ə
+274490	307150	dravlex-Brahui	brah1256		i	1209	I		i:	iː
+274491	307151	dravlex-Gondi	nort2702		i	1209	I		nanna	n a nː a
+274492	307152	dravlex-Kodava	koda1255		i	1209	I		na:nə	n aː n ə
+274493	307153	dravlex-Koya	koya1251		i	1209	I		nanna	n a nː a
+274494	307154	dravlex-Kurukh	kuru1302		i	1209	I		ae:n	a eː n
+274495	307155	dravlex-Toda	toda1252		i	1209	I		o:n	oː n
+274949	307609	northeuralex-kan	nucl1305		i	1209	I		n̪aːn̪u	n̪ aː n̪ u
+274966	307626	northeuralex-mal	mala1464		i	1209	I		ɲaːn̪	ɲ aː n̪
+274996	307656	northeuralex-tam	tami1289		i	1209	I		n̪ɑːn	n̪ ɑː n
+274998	307658	northeuralex-tel	telu1262		i	1209	I		n̪eːn̪u	n̪ eː n̪ u
+287305	319965	dravlex-Betta_Kurumba	bett1235		kill	1417	KILL		kenga:ɭ	k e n g aː ɭ
+287306	319966	dravlex-Brahui	brah1256		kill	1417	KILL		kasfing	k a s f i n g
+287307	319967	dravlex-Gondi	nort2702		kill	1417	KILL		haʋka	h a ʋ k a
+287308	319968	dravlex-Gondi	nort2702		kill	1417	KILL		kʰatamki	kʰ a t a m k i
+287309	319969	dravlex-Kodava	koda1255		kill	1417	KILL		kollə	k o lː ə
+287310	319970	dravlex-Koya	koya1251		kill	1417	KILL		aʋaka:	a ʋ a k aː
+287311	319971	dravlex-Kurukh	kuru1302		kill	1417	KILL		eɖabna	e ɖ a b n a
+287312	319972	dravlex-Toda	toda1252		kill	1417	KILL		keɖukisti	k e ɖ u k i s t i
+287854	320514	northeuralex-kan	nucl1305		kill	1417	KILL		kɔlːu	k ɔ lː u
+287874	320534	northeuralex-mal	mala1464		kill	1417	KILL		kolːuɡa	k o lː u g a
+287911	320571	northeuralex-tam	tami1289		kill	1417	KILL		kol	k o l
+287913	320573	northeuralex-tel	telu1262		kill	1417	KILL		t͡ɕʌ̃pu	tɕ ʌ̃ p u
+290021	322681	dravlex-Betta_Kurumba	bett1235		knee	1371	KNEE		mannga:lə	m a nː g aː l ə
+290022	322682	dravlex-Brahui	brah1256		knee	1371	KNEE		go:ɖ	g oː ɖ
+290023	322683	dravlex-Gondi	nort2702		knee	1371	KNEE		tongɾa	t o n g ɾ a
+290024	322684	dravlex-Kodava	koda1255		knee	1371	KNEE		maɳɖi	m a ɳ ɖ i
+290025	322685	dravlex-Koya	koya1251		knee	1371	KNEE		mo:ka:l	m oː k aː l
+290026	322686	dravlex-Koya	koya1251		knee	1371	KNEE		boʈmiɳɖa:	b o ʈ m i ɳ ɖ aː
+290027	322687	dravlex-Kurukh	kuru1302		knee	1371	KNEE		muka	m u k a
+290028	322688	dravlex-Toda	toda1252		knee	1371	KNEE		muʈʈi	m u ʈː i
+290521	323181	northeuralex-kan	nucl1305		knee	1371	KNEE		məŋɖi	m ə ŋ ɖ i
+290537	323197	northeuralex-mal	mala1464		knee	1371	KNEE		kaːlmuʈːɨ̆	k aː l m u ʈː ɨ
+290569	323229	northeuralex-tam	tami1289		knee	1371	KNEE		muɻʌŋɡɑːl	m u ɻ ʌ ŋ g ɑː l
+290571	323231	northeuralex-tel	telu1262		knee	1371	KNEE		moːkaːlu	m oː k aː l u
+294510	327170	northeuralex-kan	nucl1305		knowsomething	1410	KNOW (SOMETHING)		əri	ə r i
+294528	327188	northeuralex-mal	mala1464		knowsomething	1410	KNOW (SOMETHING)		arijuɡa	a r i j u g a
+294558	327218	northeuralex-tam	tami1289		knowsomething	1410	KNOW (SOMETHING)		t̪eɾin̪t̪iɾu	t̪ e ɾ i n̪ t̪ i ɾ u
+294560	327220	northeuralex-tel	telu1262		knowsomething	1410	KNOW (SOMETHING)		t̪elis̪ikon̪u	t̪ e l i s̪ i k o n̪ u
+301936	334596	dravlex-Betta_Kurumba	bett1235		leaf	628	LEAF		jali	j a l i
+301937	334597	dravlex-Brahui	brah1256		leaf	628	LEAF		pann	p a nː
+301938	334598	dravlex-Gondi	nort2702		leaf	628	LEAF		a:ki	aː k i
+301939	334599	dravlex-Kodava	koda1255		leaf	628	LEAF		elakaɳɖa	e l a k a ɳ ɖ a
+301940	334600	dravlex-Koya	koya1251		leaf	628	LEAF		a:ki:	aː k iː
+301941	334601	dravlex-Kurukh	kuru1302		leaf	628	LEAF		atkʰa	a t kʰ a
+301942	334602	dravlex-Toda	toda1252		leaf	628	LEAF		eɾs	e ɾ s
+302494	335154	northeuralex-kan	nucl1305		leaf	628	LEAF		jɛle	j ɛ l e
+302510	335170	northeuralex-mal	mala1464		leaf	628	LEAF		ila	i l a
+302540	335200	northeuralex-tam	tami1289		leaf	628	LEAF		ilʌi	i l ʌ i
+302542	335202	northeuralex-tel	telu1262		leaf	628	LEAF		aːku	aː k u
+310481	343141	dravlex-Betta_Kurumba	bett1235		lierest	1411	LIE (REST)		ba:ɖ	b aː ɖ
+310482	343142	dravlex-Betta_Kurumba	bett1235		lierest	1411	LIE (REST)		ba:ʈɳu i:ɾ	b aː ʈ ɳ u + iː ɾ
+310483	343143	dravlex-Brahui	brah1256		lierest	1411	LIE (REST)		dɾogʰ taɖing	d ɾ o gʱ + t a ɖ i n g
+310484	343144	dravlex-Gondi	nort2702		lierest	1411	LIE (REST)		miɳɖsi	m i ɳ ɖ s i
+310485	343145	dravlex-Gondi	nort2702		lierest	1411	LIE (REST)		dolsi	d o l s i
+310486	343146	dravlex-Kodava	koda1255		lierest	1411	LIE (REST)		budda	b u d d a
+310487	343147	dravlex-Koya	koya1251		lierest	1411	LIE (REST)		undʒa	u n dʒ a
+310488	343148	dravlex-Kurukh	kuru1302		lierest	1411	LIE (REST)		paiha	p a i h a
+310489	343149	dravlex-Kurukh	kuru1302		lierest	1411	LIE (REST)		fasija:r	f a s i j aː r
+310490	343150	dravlex-Toda	toda1252		lierest	1411	LIE (REST)		poaʈtʃi:	p o a ʈ tʃ iː
+310491	343151	dravlex-Toda	toda1252		lierest	1411	LIE (REST)		pokkum	p o kː u m
+310597	343257	northeuralex-kan	nucl1305		lierest	1411	LIE (REST)		mələɡɪko	m ə l ə g ɪ k o
+310613	343273	northeuralex-mal	mala1464		lierest	1411	LIE (REST)		kiɖakːuɡa	k i ɖ a kː u g a
+310647	343307	northeuralex-tam	tami1289		lierest	1411	LIE (REST)		pʌɖu	p ʌ ɖ u
+310649	343309	northeuralex-tel	telu1262		lierest	1411	LIE (REST)		pʌ̃ɖukon̪uʈʌ	p ʌ̃ ɖ u k o n̪ u ʈ ʌ
+316741	349401	dravlex-Betta_Kurumba	bett1235		liver	1224	LIVER		tədlə	t ə d l ə
+316742	349402	dravlex-Brahui	brah1256		liver	1224	LIVER		dʒagaɾ	dʒ a g a ɾ
+316743	349403	dravlex-Gondi	nort2702		liver	1224	LIVER		taɾki	t a ɾ k i
+316744	349404	dravlex-Kodava	koda1255		liver	1224	LIVER		tombe	t o m b e
+316745	349405	dravlex-Koya	koya1251		liver	1224	LIVER		ka:dʒam	k aː dʒ a m
+316746	349406	dravlex-Kurukh	kuru1302		liver	1224	LIVER		umbalkʰo	u m b a l kʰ o
+316747	349407	dravlex-Toda	toda1252		liver	1224	LIVER		kuɖa:l	k u ɖ aː l
+317223	349883	northeuralex-kan	nucl1305		liver	1224	LIVER		jəkrɨt̪ːu	j ə k r ɨ t̪ː u
+317238	349898	northeuralex-mal	mala1464		liver	1224	LIVER		kaɾʲaɭ	k a ɾʲ a ɭ
+317267	349927	northeuralex-tam	tami1289		liver	1224	LIVER		kʌlːiːɾʌl	k ʌ lː iː ɾ ʌ l
+317269	349929	northeuralex-tel	telu1262		liver	1224	LIVER		kaːleːjʌmu	k aː l eː j ʌ m u
+319610	352270	dravlex-Betta_Kurumba	bett1235		long	1203	LONG		uddu	u d d u
+319611	352271	dravlex-Brahui	brah1256		long	1203	LONG		muɾgun	m u ɾ g u n
+319612	352272	dravlex-Gondi	nort2702		long	1203	LONG		la:m	l aː m
+319613	352273	dravlex-Kodava	koda1255		long	1203	LONG		uddə	u d d ə
+319614	352274	dravlex-Koya	koya1251		long	1203	LONG		poɖaʋuʈa:du	p o ɖ a ʋ u ʈ aː d u
+319615	352275	dravlex-Kurukh	kuru1302		long	1203	LONG		diga:h	d i g aː h
+319616	352276	dravlex-Toda	toda1252		long	1203	LONG		neɾti	n e ɾ t i
+320155	352815	northeuralex-kan	nucl1305		long	1203	LONG		d̪iːrɡʰa	d̪ iː r gʰ a
+320172	352832	northeuralex-mal	mala1464		long	1203	LONG		n̪iːɳɖa	n̪ iː ɳ ɖ a
+320201	352861	northeuralex-tam	tami1289		long	1203	LONG		n̪iːɳʈʌ	n̪ iː ɳ ʈ ʌ
+320203	352863	northeuralex-tel	telu1262		long	1203	LONG		poɖuɡaːʈi	p o ɖ u g aː ʈ i
+323768	356428	northeuralex-kan	nucl1305		louse	1392	LOUSE		heːn̪u	h eː n̪ u
+323784	356444	northeuralex-mal	mala1464		louse	1392	LOUSE		peːn̪ɨ̆	p eː n̪ ɨ
+323811	356471	northeuralex-tam	tami1289		louse	1392	LOUSE		peːn	p eː n
+323813	356473	northeuralex-tel	telu1262		louse	1392	LOUSE		peːn̪u	p eː n̪ u
+330202	362863	dravlex-Betta_Kurumba	bett1235		man	1554	MAN		gəɳɖaɭə	g ə ɳ ɖ a ɭ ə
+330203	362864	dravlex-Brahui	brah1256		man	1554	MAN		naɾeenə	n a ɾ e e n ə
+330204	362865	dravlex-Gondi	nort2702		man	1554	MAN		mankal	m a n k a l
+330205	362866	dravlex-Kodava	koda1255		man	1554	MAN		a:naaɭə	aː n a a ɭ ə
+330206	362867	dravlex-Koya	koya1251		man	1554	MAN		magaʋa:ɳɖ	m a g a ʋ aː ɳ ɖ
+330207	362868	dravlex-Koya	koya1251		man	1554	MAN		pe:ka:l	p eː k aː l
+330208	362869	dravlex-Kurukh	kuru1302		man	1554	MAN		me:t	m eː t
+330209	362870	dravlex-Toda	toda1252		man	1554	MAN		a:lom	aː l o m
+330724	363385	northeuralex-kan	nucl1305		man	1554	MAN		aːɭu	aː ɭ u
+330746	363407	northeuralex-mal	mala1464		man	1554	MAN		puɾʲuʂan̪	p u ɾʲ u ʂ a n̪
+330785	363446	northeuralex-tam	tami1289		man	1554	MAN		mʌniðʌn	m ʌ n i ð ʌ n
+330787	363448	northeuralex-tel	telu1262		man	1554	MAN		purumʌɖu	p u r u m ʌ ɖ u
+332007	364668	dravlex-Betta_Kurumba	bett1235		many	1198	MANY		kajɾijə	k a j ɾ i j ə
+332008	364669	dravlex-Brahui	brah1256		many	1198	MANY		ba:z	b aː z
+332009	364670	dravlex-Gondi	nort2702		many	1198	MANY		dʒa:sta	dʒ aː s t a
+332010	364671	dravlex-Gondi	nort2702		many	1198	MANY		ʋellen	ʋ e lː e n
+332011	364672	dravlex-Kodava	koda1255		many	1198	MANY		dumba	d u m b a
+332012	364673	dravlex-Koya	koya1251		many	1198	MANY		tʃa:la	tʃ aː l a
+332013	364674	dravlex-Koya	koya1251		many	1198	MANY		betʃtʃo:ko	b e tʃː oː k o
+332014	364675	dravlex-Kurukh	kuru1302		many	1198	MANY		bagge	b a gː e
+332015	364676	dravlex-Toda	toda1252		many	1198	MANY		uppu:m	u pː uː m
+344194	376855	dravlex-Betta_Kurumba	bett1235		moon	1313	MOON		pəɾi	p ə ɾ i
+344195	376856	dravlex-Brahui	brah1256		moon	1313	MOON		ʈu:be	ʈ uː b e
+344196	376857	dravlex-Gondi	nort2702		moon	1313	MOON		dʒango	dʒ a n g o
+344197	376858	dravlex-Kodava	koda1255		moon	1313	MOON		tʃendɾa	tʃ e n d ɾ a
+344198	376859	dravlex-Koya	koya1251		moon	1313	MOON		sanɖama:ma	s a n ɖ a m aː m a
+344199	376860	dravlex-Koya	koya1251		moon	1313	MOON		nella	n e lː a
+344200	376861	dravlex-Kurukh	kuru1302		moon	1313	MOON		tʃando	tʃ a n d o
+344201	376862	dravlex-Toda	toda1252		moon	1313	MOON		nila	n i l a
+344751	377412	northeuralex-kan	nucl1305		moon	1313	MOON		t͡ʃəŋd̪ra	tʃ ə ŋ d̪ r a
+344767	377428	northeuralex-mal	mala1464		moon	1313	MOON		t͡ʃan̪d̪ɾʲan̪	tʃ a n̪ d̪ ɾʲ a n̪
+344797	377458	northeuralex-tam	tami1289		moon	1313	MOON		t͡ɕʌn̪t̪iɾʌn	tɕ ʌ n̪ t̪ i ɾ ʌ n
+344799	377460	northeuralex-tel	telu1262		moon	1313	MOON		t͡ɕʌ̃d̪ruɖu	tɕ ʌ̃ d̪ r u ɖ u
+350705	383369	dravlex-Betta_Kurumba	bett1235		mountain	639	MOUNTAIN		bəʈʈə	b ə ʈː ə
+350706	383370	dravlex-Brahui	brah1256		mountain	639	MOUNTAIN		maʃ	m a ʃ
+350707	383371	dravlex-Gondi	nort2702		mountain	639	MOUNTAIN		meʈʈa	m e ʈː a
+350708	383372	dravlex-Kodava	koda1255		mountain	639	MOUNTAIN		kundə	k u n d ə
+350709	383373	dravlex-Koya	koya1251		mountain	639	MOUNTAIN		gubal	g u b a l
+350710	383374	dravlex-Koya	koya1251		mountain	639	MOUNTAIN		meʈʈa	m e ʈː a
+350711	383375	dravlex-Kurukh	kuru1302		mountain	639	MOUNTAIN		paɾta	p a ɾ t a
+350712	383376	dravlex-Toda	toda1252		mountain	639	MOUNTAIN		tiʈʈə	t i ʈː ə
+351224	383888	northeuralex-kan	nucl1305		mountain	639	MOUNTAIN		məle	m ə l e
+351225	383889	northeuralex-kan	nucl1305		mountain	639	MOUNTAIN		pərʋət̪a	p ə r ʋ ə t̪ a
+351243	383907	northeuralex-mal	mala1464		mountain	639	MOUNTAIN		paɾʲʋːadʰam	p a ɾʲ ʋː a dʰ a m
+351278	383942	northeuralex-tam	tami1289		mountain	639	MOUNTAIN		mʌlʌi	m ʌ l ʌ i
+351280	383944	northeuralex-tel	telu1262		mountain	639	MOUNTAIN		pʌrʋʌt̪ʌmu	p ʌ r ʋ ʌ t̪ ʌ m u
+353233	385897	dravlex-Betta_Kurumba	bett1235		mouth	674	MOUTH		ba:jə	b aː j ə
+353234	385898	dravlex-Brahui	brah1256		mouth	674	MOUTH		ba:	b aː
+353235	385899	dravlex-Gondi	nort2702		mouth	674	MOUTH		toɖɖi	t o ɖː i
+353236	385900	dravlex-Kodava	koda1255		mouth	674	MOUTH		ba:ji	b aː j i
+353237	385901	dravlex-Koya	koya1251		mouth	674	MOUTH		pavu:ɾ	p a v uː ɾ
+353238	385902	dravlex-Kurukh	kuru1302		mouth	674	MOUTH		baji	b a j i
+353239	385903	dravlex-Toda	toda1252		mouth	674	MOUTH		po:i	p oː i
+353753	386417	northeuralex-kan	nucl1305		mouth	674	MOUTH		baːji	b aː j i
+353769	386433	northeuralex-mal	mala1464		mouth	674	MOUTH		ʋaːja	ʋ aː j a
+353797	386461	northeuralex-tam	tami1289		mouth	674	MOUTH		ʋɑːj	ʋ ɑː j
+353800	386464	northeuralex-tel	telu1262		mouth	674	MOUTH		n̪oːru	n̪ oː r u
+358208	390872	dravlex-Betta_Kurumba	bett1235		name	1405	NAME		pja:ɾə	p j aː ɾ ə
+358209	390873	dravlex-Brahui	brah1256		name	1405	NAME		pin	p i n
+358210	390874	dravlex-Gondi	nort2702		name	1405	NAME		poɾol	p o ɾ o l
+358211	390875	dravlex-Kodava	koda1255		name	1405	NAME		peda	p e d a
+358212	390876	dravlex-Koya	koya1251		name	1405	NAME		pedeɾ	p e d e ɾ
+358213	390877	dravlex-Kurukh	kuru1302		name	1405	NAME		na:me	n aː m e
+358214	390878	dravlex-Toda	toda1252		name	1405	NAME		pe:ɾ	p eː ɾ
+358756	391421	northeuralex-kan	nucl1305		name	1405	NAME		hɛsəru	h ɛ s ə r u
+358774	391439	northeuralex-mal	mala1464		name	1405	NAME		peːɾʲɨ̆	p eː ɾʲ ɨ
+358802	391467	northeuralex-tam	tami1289		name	1405	NAME		pejʌɾ	p e j ʌ ɾ
+358804	391469	northeuralex-tel	telu1262		name	1405	NAME		peːru	p eː r u
+364497	397164	dravlex-Betta_Kurumba	bett1235		neck	1333	NECK		kp:ma:ɭi	k pː m aː ɭ i
+364498	397165	dravlex-Brahui	brah1256		neck	1333	NECK		lex	l e x
+364499	397166	dravlex-Gondi	nort2702		neck	1333	NECK		guɖunga	g u ɖ u n g a
+364500	397167	dravlex-Kodava	koda1255		neck	1333	NECK		bo:ɭe	b oː ɭ e
+364501	397168	dravlex-Koya	koya1251		neck	1333	NECK		meɖaka:ja	m e ɖ a k aː j a
+364502	397169	dravlex-Kurukh	kuru1302		neck	1333	NECK		kʰesir	kʰ e s i r
+364503	397170	dravlex-Toda	toda1252		neck	1333	NECK		maɾ	m a ɾ
+365048	397715	northeuralex-kan	nucl1305		neck	1333	NECK		kɔrəɭu	k ɔ r ə ɭ u
+365066	397733	northeuralex-mal	mala1464		neck	1333	NECK		kaɻut̪ːɨ̆	k a ɻ u t̪ː ɨ
+365096	397763	northeuralex-tam	tami1289		neck	1333	NECK		kʌɻut̪ːu	k ʌ ɻ u t̪ː u
+365098	397765	northeuralex-tel	telu1262		neck	1333	NECK		meɖʌ	m e ɖ ʌ
+368569	401236	dravlex-Betta_Kurumba	bett1235		new	1231	NEW		pəjjmən	p ə j j m ə n
+368570	401237	dravlex-Brahui	brah1256		new	1231	NEW		pu:skun	p uː s k u n
+368571	401238	dravlex-Gondi	nort2702		new	1231	NEW		puna	p u n a
+368572	401239	dravlex-Kodava	koda1255		new	1231	NEW		pudija	p u d i j a
+368573	401240	dravlex-Koya	koya1251		new	1231	NEW		kottad	k o tː a d
+368574	401241	dravlex-Kurukh	kuru1302		new	1231	NEW		pu:na	p uː n a
+368575	401242	dravlex-Toda	toda1252		new	1231	NEW		pudu:n	p u d uː n
+369097	401764	northeuralex-kan	nucl1305		new	1231	NEW		hɔsa	h ɔ s a
+369113	401780	northeuralex-mal	mala1464		new	1231	NEW		pudʰija	p u dʰ i j a
+369143	401810	northeuralex-tam	tami1289		new	1231	NEW		puðijʌ	p u ð i j ʌ
+369145	401812	northeuralex-tel	telu1262		new	1231	NEW		krot̪ːʌ	k r o t̪ː ʌ
+371322	403989	dravlex-Betta_Kurumba	bett1235		night	1233	NIGHT		ədlə	ə d l ə
+371323	403990	dravlex-Brahui	brah1256		night	1233	NIGHT		nam	n a m
+371324	403991	dravlex-Gondi	nort2702		night	1233	NIGHT		naɾkaɖ	n a ɾ k a ɖ
+371325	403992	dravlex-Kodava	koda1255		night	1233	NIGHT		bajiʈə	b a j i ʈ ə
+371326	403993	dravlex-Koya	koya1251		night	1233	NIGHT		mulipe	m u l i p e
+371327	403994	dravlex-Kurukh	kuru1302		night	1233	NIGHT		ma:ha	m aː h a
+371328	403995	dravlex-Toda	toda1252		night	1233	NIGHT		ekka:ɖə	e kː aː ɖ ə
+371889	404556	northeuralex-kan	nucl1305		night	1233	NIGHT		raːt̪ri	r aː t̪ r i
+371905	404572	northeuralex-mal	mala1464		night	1233	NIGHT		ɾʲaːt̪ɾʲi	ɾʲ aː t̪ ɾʲ i
+371936	404603	northeuralex-tam	tami1289		night	1233	NIGHT		iɾʌʋu	i ɾ ʌ ʋ u
+371938	404605	northeuralex-tel	telu1262		night	1233	NIGHT		rʌt̪ri	r ʌ t̪ r i
+377158	409825	dravlex-Betta_Kurumba	bett1235		nose	1221	NOSE		mu:kkə	m uː kː ə
+377159	409826	dravlex-Brahui	brah1256		nose	1221	NOSE		ba:mus	b aː m u s
+377160	409827	dravlex-Gondi	nort2702		nose	1221	NOSE		mosoɾ	m o s o ɾ
+377161	409828	dravlex-Kodava	koda1255		nose	1221	NOSE		mu:kkə	m uː kː ə
+377162	409829	dravlex-Koya	koya1251		nose	1221	NOSE		mosso:ɾ	m o sː oː ɾ
+377163	409830	dravlex-Kurukh	kuru1302		nose	1221	NOSE		mu:ji	m uː j i
+377164	409831	dravlex-Toda	toda1252		nose	1221	NOSE		mittu:p	m i tː uː p
+377711	410378	northeuralex-kan	nucl1305		nose	1221	NOSE		muːɡu	m uː g u
+377727	410394	northeuralex-mal	mala1464		nose	1221	NOSE		muːkːɨ̆	m uː kː ɨ
+377756	410423	northeuralex-tam	tami1289		nose	1221	NOSE		muːkːu	m uː kː u
+377758	410425	northeuralex-tel	telu1262		nose	1221	NOSE		mukːu	m u kː u
+378764	411431	dravlex-Betta_Kurumba	bett1235		not	1240	NOT		ila	i l a
+378765	411432	dravlex-Betta_Kurumba	bett1235		not	1240	NOT		ala	a l a
+378766	411433	dravlex-Brahui	brah1256		not	1240	NOT		a:xa	aː x a
+378767	411434	dravlex-Brahui	brah1256		not	1240	NOT		nƐ	n ɛ
+378768	411435	dravlex-Gondi	nort2702		not	1240	NOT		helle	h e lː e
+378769	411436	dravlex-Kodava	koda1255		not	1240	NOT		ille	i lː e
+378770	411437	dravlex-Koya	koya1251		not	1240	NOT		ille	i lː e
+378771	411438	dravlex-Kurukh	kuru1302		not	1240	NOT		mala	m a l a
+378772	411439	dravlex-Toda	toda1252		not	1240	NOT		a:ɖudi	aː ɖ u d i
+379238	411905	northeuralex-kan	nucl1305		not	1240	NOT		jɪlːa	j ɪ lː a
+379239	411906	northeuralex-kan	nucl1305		not	1240	NOT		əlːa	ə lː a
+379259	411926	northeuralex-mal	mala1464		not	1240	NOT		ilːa	i lː a
+379290	411957	northeuralex-tam	tami1289		not	1240	NOT		ilːʌi	i lː ʌ i
+379292	411959	northeuralex-tel	telu1262		not	1240	NOT		kaːd̪u	k aː d̪ u
+389420	422087	dravlex-Betta_Kurumba	bett1235		one	1493	ONE		ʋandə	ʋ a n d ə
+389421	422088	dravlex-Brahui	brah1256		one	1493	ONE		asit	a s i t
+389422	422089	dravlex-Gondi	nort2702		one	1493	ONE		ondi	o n d i
+389423	422090	dravlex-Kodava	koda1255		one	1493	ONE		ondə	o n d ə
+389424	422091	dravlex-Koya	koya1251		one	1493	ONE		oɾɾo:ʈ	o ɾ ɾ oː ʈ
+389425	422092	dravlex-Kurukh	kuru1302		one	1493	ONE		o:nd	oː n d
+389426	422093	dravlex-Toda	toda1252		one	1493	ONE		uttə	u tː ə
+389984	422651	northeuralex-kan	nucl1305		one	1493	ONE		wɔŋd̪u	w ɔ ŋ d̪ u
+390000	422667	northeuralex-mal	mala1464		one	1493	ONE		on̪ːɨ̆	o n̪ː ɨ
+390031	422698	northeuralex-tam	tami1289		one	1493	ONE		onru	o n r u
+390033	422700	northeuralex-tel	telu1262		one	1493	ONE		okʌʈi	o k ʌ ʈ i
+406045	438712	dravlex-Betta_Kurumba	bett1235		person	683	PERSON		a:ɭə	aː ɭ ə
+406046	438713	dravlex-Betta_Kurumba	bett1235		person	683	PERSON		a:ɭu	aː ɭ u
+406047	438714	dravlex-Brahui	brah1256		person	683	PERSON		bandag	b a n d a g
+406048	438715	dravlex-Gondi	nort2702		person	683	PERSON		lokuɾ	l o k u ɾ
+406049	438716	dravlex-Kodava	koda1255		person	683	PERSON		manasa	m a n a s a
+406050	438717	dravlex-Koya	koya1251		person	683	PERSON		mansu:ɳɖ	m a n s uː ɳ ɖ
+406051	438718	dravlex-Kurukh	kuru1302		person	683	PERSON		a:l	aː l
+406052	438719	dravlex-Toda	toda1252		person	683	PERSON		kinnu:ɖə	k i nː uː ɖ ə
+406559	439226	northeuralex-kan	nucl1305		person	683	PERSON		pʊrʊʂa	p ʊ r ʊ ʂ a
+406577	439244	northeuralex-mal	mala1464		person	683	PERSON		man̪uʂjaɾʲ	m a n̪ u ʂ j a ɾʲ
+406611	439278	northeuralex-tam	tami1289		person	683	PERSON		mʌniðʌɾkʌɭ	m ʌ n i ð ʌ ɾ k ʌ ɭ
+406614	439281	northeuralex-tel	telu1262		person	683	PERSON		n̪ʌruɖu	n̪ ʌ r u ɖ u
+432216	464884	dravlex-Betta_Kurumba	bett1235		red	156	RED		tissəgaɳɖa:ngi	t i sː ə g a ɳ ɖ aː n g i
+432217	464885	dravlex-Brahui	brah1256		red	156	RED		xi:sun	x iː s u n
+432218	464886	dravlex-Gondi	nort2702		red	156	RED		eɾɾag	e ɾ ɾ a g
+432219	464887	dravlex-Gondi	nort2702		red	156	RED		jeɾɾag	j e ɾ ɾ a g
+432220	464888	dravlex-Kodava	koda1255		red	156	RED		tʃo:pə	tʃ oː p ə
+432221	464889	dravlex-Koya	koya1251		red	156	RED		eɾɾa	e ɾ ɾ a
+432222	464890	dravlex-Kurukh	kuru1302		red	156	RED		kheso	k h e s o
+432223	464891	dravlex-Toda	toda1252		red	156	RED		keppə	k e pː ə
+432790	465458	northeuralex-kan	nucl1305		red	156	RED		kɛŋpu	k ɛ ŋ p u
+432806	465474	northeuralex-mal	mala1464		red	156	RED		t͡ʃuʋan̪ːa	tʃ u ʋ a n̪ː a
+432835	465503	northeuralex-tam	tami1289		red	156	RED		t͡ɕiʋʌpːu	tɕ i ʋ ʌ pː u
+432837	465505	northeuralex-tel	telu1262		red	156	RED		eɽːʌn̪i	e ɽː ʌ n̪ i
+441399	474068	dravlex-Betta_Kurumba	bett1235		road	667	ROAD		baʈʈi	b a ʈː i
+441400	474069	dravlex-Brahui	brah1256		road	667	ROAD		saɖak	s a ɖ a k
+441401	474070	dravlex-Gondi	nort2702		road	667	ROAD		haɾɾi	h a ɾ ɾ i
+441402	474071	dravlex-Kodava	koda1255		road	667	ROAD		ba:te	b aː t e
+441403	474072	dravlex-Kodava	koda1255		road	667	ROAD		ɾaste	ɾ a s t e
+441404	474073	dravlex-Koya	koya1251		road	667	ROAD		aɾɾi	a ɾ ɾ i
+441405	474074	dravlex-Kurukh	kuru1302		road	667	ROAD		ɖahaɾe	ɖ a h a ɾ e
+441406	474075	dravlex-Toda	toda1252		road	667	ROAD		a:laɾ	aː l a ɾ
+441580	474249	northeuralex-kan	nucl1305		road	667	ROAD		rəst̪e	r ə s t̪ e
+441597	474266	northeuralex-mal	mala1464		road	667	ROAD		roːɖɨ̆	r oː ɖ ɨ
+441631	474300	northeuralex-tam	tami1289		road	667	ROAD		t͡ɕɑːlʌi	tɕ ɑː l ʌ i
+441633	474302	northeuralex-tel	telu1262		road	667	ROAD		baːʈʌ	b aː ʈ ʌ
+444184	476853	dravlex-Betta_Kurumba	bett1235		root	670	ROOT		bja:ɾə	b j aː ɾ ə
+444185	476854	dravlex-Brahui	brah1256		root	670	ROOT		ɾo:tƐ	ɾ oː t ɛ
+444186	476855	dravlex-Gondi	nort2702		root	670	ROOT		hi:ɾ	h iː ɾ
+444187	476856	dravlex-Kodava	koda1255		root	670	ROOT		be:ɾə	b eː ɾ ə
+444188	476857	dravlex-Koya	koya1251		root	670	ROOT		ʋe:ɾ	ʋ eː ɾ
+444189	476858	dravlex-Kurukh	kuru1302		root	670	ROOT		pa:da	p aː d a
+444190	476859	dravlex-Toda	toda1252		root	670	ROOT		ʋeɾ	ʋ e ɾ
+444665	477334	northeuralex-kan	nucl1305		root	670	ROOT		beːru	b eː r u
+444682	477351	northeuralex-mal	mala1464		root	670	ROOT		ʋeːɾʲɨ̆	ʋ eː ɾʲ ɨ
+444713	477382	northeuralex-tam	tami1289		root	670	ROOT		ʋeːɾ	ʋ eː ɾ
+444715	477384	northeuralex-tel	telu1262		root	670	ROOT		ʋeːru	ʋ eː r u
+448618	481287	dravlex-Betta_Kurumba	bett1235		round	1395	ROUND		bəjnsakɾangu:də	b ə j n s a k ɾ a n g uː d ə
+448619	481288	dravlex-Brahui	brah1256		round	1395	ROUND		go:l peɾi	g oː l + p e ɾ i
+448620	481289	dravlex-Gondi	nort2702		round	1395	ROUND		guɳɖɾal	g u ɳ ɖ ɾ a l
+448621	481290	dravlex-Kodava	koda1255		round	1395	ROUND		uɾuʈa	u ɾ u ʈ a
+448622	481291	dravlex-Koya	koya1251		round	1395	ROUND		guɳɖɾa:n	g u ɳ ɖ ɾ aː n
+448623	481292	dravlex-Kurukh	kuru1302		round	1395	ROUND		guʈiɳɖa	g u ʈ i ɳ ɖ a
+448624	481293	dravlex-Toda	toda1252		round	1395	ROUND		uʈʈi	u ʈː i
+449026	481695	northeuralex-kan	nucl1305		round	1395	ROUND		ʋərt̪ʊɭa	ʋ ə r t̪ ʊ ɭ a
+449045	481714	northeuralex-mal	mala1464		round	1395	ROUND		ʋaʈːat̪ːiluɭːa	ʋ a ʈː a t̪ː i l u ɭː a
+449075	481744	northeuralex-tam	tami1289		round	1395	ROUND		uɾuɳʈʌijɑːnʌ	u ɾ u ɳ ʈ ʌ i j ɑː n ʌ
+449077	481746	northeuralex-tel	telu1262		round	1395	ROUND		ɡũɖrʌn̪i	g ũ ɖ r ʌ n̪ i
+456164	488833	dravlex-Betta_Kurumba	bett1235		sand	671	SAND		maɳalə	m a ɳ a l ə
+456165	488834	dravlex-Brahui	brah1256		sand	671	SAND		ɾe:k	ɾ eː k
+456166	488835	dravlex-Gondi	nort2702		sand	671	SAND		uske	u s k e
+456167	488836	dravlex-Kodava	koda1255		sand	671	SAND		maɳa	m a ɳ a
+456168	488837	dravlex-Koya	koya1251		sand	671	SAND		isike	i s i k e
+456169	488838	dravlex-Kurukh	kuru1302		sand	671	SAND		tʃalkuɾu	tʃ a l k u ɾ u
+456170	488839	dravlex-Toda	toda1252		sand	671	SAND		manal	m a n a l
+456678	489347	northeuralex-kan	nucl1305		sand	671	SAND		mərəɭu	m ə r ə ɭ u
+456694	489363	northeuralex-mal	mala1464		sand	671	SAND		maɳal	m a ɳ a l
+456726	489395	northeuralex-tam	tami1289		sand	671	SAND		mʌɳʌl	m ʌ ɳ ʌ l
+456728	489397	northeuralex-tel	telu1262		sand	671	SAND		is̪ukʌ	i s̪ u k ʌ
+459123	491792	dravlex-Betta_Kurumba	bett1235		say	1458	SAY		pə:ɭ	p əː ɭ
+459124	491793	dravlex-Brahui	brah1256		say	1458	SAY		pa:ning	p aː n i n g
+459125	491794	dravlex-Gondi	nort2702		say	1458	SAY		in	i n
+459126	491795	dravlex-Kodava	koda1255		say	1458	SAY		annə	a nː ə
+459127	491796	dravlex-Koya	koya1251		say	1458	SAY		kella	k e lː a
+459128	491797	dravlex-Kurukh	kuru1302		say	1458	SAY		bakʰna	b a kʰ n a
+459129	491798	dravlex-Toda	toda1252		say	1458	SAY		a:ʋaɖə	aː ʋ a ɖ ə
+459601	492270	northeuralex-kan	nucl1305		say	1458	SAY		heːɭu	h eː ɭ u
+459621	492290	northeuralex-mal	mala1464		say	1458	SAY		parajuɡa	p a r a j u g a
+459658	492327	northeuralex-tam	tami1289		say	1458	SAY		t͡ɕol	tɕ o l
+459661	492330	northeuralex-tel	telu1262		say	1458	SAY		t͡ɕepːu	tɕ e pː u
+464825	497495	dravlex-Betta_Kurumba	bett1235		see	1409	SEE		no:ɖ	n oː ɖ
+464826	497496	dravlex-Betta_Kurumba	bett1235		see	1409	SEE		najɾ	n a j ɾ
+464827	497497	dravlex-Brahui	brah1256		see	1409	SEE		unning	u nː i n g
+464828	497498	dravlex-Gondi	nort2702		see	1409	SEE		huɖa	h u ɖ a
+464829	497499	dravlex-Kodava	koda1255		see	1409	SEE		no:ʈə	n oː ʈ ə
+464830	497500	dravlex-Koya	koya1251		see	1409	SEE		u:ɖa	uː ɖ a
+464831	497501	dravlex-Kurukh	kuru1302		see	1409	SEE		je:ɾna	j eː ɾ n a
+464832	497502	dravlex-Toda	toda1252		see	1409	SEE		nu:ʈ	n uː ʈ
+465411	498081	northeuralex-kan	nucl1305		see	1409	SEE		kaːɳu	k aː ɳ u
+465427	498097	northeuralex-mal	mala1464		see	1409	SEE		kaːɳuɡa	k aː ɳ u g a
+465458	498128	northeuralex-tam	tami1289		see	1409	SEE		pɑːɾ	p ɑː ɾ
+465460	498130	northeuralex-tel	telu1262		see	1409	SEE		t͡ɕuːt͡ɕu	tɕ uː tɕ u
+466435	499105	dravlex-Betta_Kurumba	bett1235		seed	714	SEED		bissə	b i sː ə
+466436	499106	dravlex-Betta_Kurumba	bett1235		seed	714	SEED		bitʃtʃə	b i tʃː ə
+466437	499107	dravlex-Brahui	brah1256		seed	714	SEED		bedʒdʒ	b e dʒː
+466438	499108	dravlex-Gondi	nort2702		seed	714	SEED		"vidʒdʒa"""	v i dʒː a
+466439	499109	dravlex-Gondi	nort2702		seed	714	SEED		peɖe	p e ɖ e
+466440	499110	dravlex-Kodava	koda1255		seed	714	SEED		kuɾu	k u ɾ u
+466441	499111	dravlex-Koya	koya1251		seed	714	SEED		pe:ɳɖku	p eː ɳ ɖ k u
+466442	499112	dravlex-Kurukh	kuru1302		seed	714	SEED		bi:	b iː
+466443	499113	dravlex-Kurukh	kuru1302		seed	714	SEED		goʈa	g o ʈ a
+466444	499114	dravlex-Toda	toda1252		seed	714	SEED		pittə	p i tː ə
+466934	499604	northeuralex-kan	nucl1305		seed	714	SEED		bɪt̪ːa	b ɪ t̪ː a
+466951	499621	northeuralex-mal	mala1464		seed	714	SEED		ʋit̪ːɨ̆	ʋ i t̪ː ɨ
+466980	499650	northeuralex-tam	tami1289		seed	714	SEED		ʋiðʌi	ʋ i ð ʌ i
+466982	499652	northeuralex-tel	telu1262		seed	714	SEED		ʋit̪ːʌn̪ʌmu	ʋ i t̪ː ʌ n̪ ʌ m u
+490350	523022	dravlex-Betta_Kurumba	bett1235		sit	1416	SIT		ku:ɾsu	k uː ɾ s u
+490351	523023	dravlex-Betta_Kurumba	bett1235		sit	1416	SIT		ku:tnu i:ɾ	k uː t n u + iː ɾ
+490352	523024	dravlex-Brahui	brah1256		sit	1416	SIT		tu:ling	t uː l i n g
+490353	523025	dravlex-Brahui	brah1256		sit	1416	SIT		zunɖing	z u n ɖ i n g
+490354	523026	dravlex-Gondi	nort2702		sit	1416	SIT		udda	u d d a
+490355	523027	dravlex-Kodava	koda1255		sit	1416	SIT		aɭe	a ɭ e
+490356	523028	dravlex-Koya	koya1251		sit	1416	SIT		kudda:	k u d d aː
+490357	523029	dravlex-Kurukh	kuru1302		sit	1416	SIT		okʰna	o kʰ n a
+490358	523030	dravlex-Toda	toda1252		sit	1416	SIT		eɾakkaɾ	e ɾ a kː a ɾ
+490845	523517	northeuralex-kan	nucl1305		sit	1416	SIT		kʊɭːɪru	k ʊ ɭː ɪ r u
+490861	523533	northeuralex-mal	mala1464		sit	1416	SIT		iɾʲikːʲuɡa	i ɾʲ i kʲː u g a
+490889	523561	northeuralex-tam	tami1289		sit	1416	SIT		uʈkɑːɾ	u ʈ k ɑː ɾ
+490891	523563	northeuralex-tel	telu1262		sit	1416	SIT		kuːrt͡ɕũɖu	k uː r tɕ ũ ɖ u
+494456	527128	dravlex-Betta_Kurumba	bett1235		skin	763	SKIN		to:lə	t oː l ə
+494457	527129	dravlex-Brahui	brah1256		skin	763	SKIN		sil	s i l
+494458	527130	dravlex-Gondi	nort2702		skin	763	SKIN		to:l	t oː l
+494459	527131	dravlex-Kodava	koda1255		skin	763	SKIN		to:lə	t oː l ə
+494460	527132	dravlex-Koya	koya1251		skin	763	SKIN		to:l	t oː l
+494461	527133	dravlex-Kurukh	kuru1302		skin	763	SKIN		tʃapʈa	tʃ a p ʈ a
+494462	527134	dravlex-Toda	toda1252		skin	763	SKIN		tu:ɾs	t uː ɾ s
+494947	527619	northeuralex-kan	nucl1305		skin	763	SKIN		t͡ʃərma	tʃ ə r m a
+494964	527636	northeuralex-mal	mala1464		skin	763	SKIN		t͡ʃaɾʲmːam	tʃ a ɾʲ mː a m
+494997	527669	northeuralex-tam	tami1289		skin	763	SKIN		t͡ɕʌɾumʌm	tɕ ʌ ɾ u m ʌ m
+494999	527671	northeuralex-tel	telu1262		skin	763	SKIN		t͡ɕʌrmʌmu	tɕ ʌ r m ʌ m u
+499037	531709	dravlex-Betta_Kurumba	bett1235		sleep	1585	SLEEP		aɾgu	a ɾ g u
+499038	531710	dravlex-Betta_Kurumba	bett1235		sleep	1585	SLEEP		eɾgu	e ɾ g u
+499039	531711	dravlex-Brahui	brah1256		sleep	1585	SLEEP		xatʃing	x a tʃ i n g
+499040	531712	dravlex-Gondi	nort2702		sleep	1585	SLEEP		mi:ɳɖa	m iː ɳ ɖ a
+499041	531713	dravlex-Kodava	koda1255		sleep	1585	SLEEP		oɾa	o ɾ a
+499042	531714	dravlex-Koya	koya1251		sleep	1585	SLEEP		undʒaʈam	u n dʒ a ʈ a m
+499043	531715	dravlex-Kurukh	kuru1302		sleep	1585	SLEEP		khandaɾna	k h a n d a ɾ n a
+499044	531716	dravlex-Toda	toda1252		sleep	1585	SLEEP		oɾkʰə	o ɾ kʰ ə
+499610	532283	northeuralex-kan	nucl1305		sleep	1585	SLEEP		n̪ɪd̪rɪsu	n̪ ɪ d̪ r ɪ s u
+499627	532300	northeuralex-mal	mala1464		sleep	1585	SLEEP		uraŋːuɡa	u r a ŋː u g a
+499657	532330	northeuralex-tam	tami1289		sleep	1585	SLEEP		t̪uːŋɡu	t̪ uː ŋ g u
+499659	532332	northeuralex-tel	telu1262		sleep	1585	SLEEP		n̪id̪rurĩt͡ɕu	n̪ i d̪ r u r ĩ tɕ u
+502600	535274	dravlex-Betta_Kurumba	bett1235		small	1246	SMALL		kiɾi	k i ɾ i
+502601	535275	dravlex-Brahui	brah1256		small	1246	SMALL		tʃunak	tʃ u n a k
+502602	535276	dravlex-Gondi	nort2702		small	1246	SMALL		tʃinna	tʃ i nː a
+502603	535277	dravlex-Kodava	koda1255		small	1246	SMALL		tʃeɾijadə	tʃ e ɾ i j a d ə
+502604	535278	dravlex-Koya	koya1251		small	1246	SMALL		tʃinnad	tʃ i nː a d
+502605	535279	dravlex-Kurukh	kuru1302		small	1246	SMALL		sanni	s a nː i
+502606	535280	dravlex-Toda	toda1252		small	1246	SMALL		ke:ɾu:ɖə	k eː ɾ uː ɖ ə
+503194	535868	northeuralex-kan	nucl1305		small	1246	SMALL		pʊʈːa	p ʊ ʈː a
+503213	535887	northeuralex-mal	mala1464		small	1246	SMALL		t͡ʃerija	tʃ e r i j a
+503248	535922	northeuralex-tam	tami1289		small	1246	SMALL		t͡ɕirijʌ	tɕ i r i j ʌ
+503250	535924	northeuralex-tel	telu1262		small	1246	SMALL		t͡ɕin̪ːʌ	tɕ i n̪ː ʌ
+506961	539637	dravlex-Betta_Kurumba	bett1235		smokeexhaust	778	SMOKE (EXHAUST)		pəggi	p ə gː i
+506962	539638	dravlex-Brahui	brah1256		smokeexhaust	778	SMOKE (EXHAUST)		mo:ʃ	m oː ʃ
+506963	539639	dravlex-Gondi	nort2702		smokeexhaust	778	SMOKE (EXHAUST)		poja	p o j a
+506964	539640	dravlex-Kodava	koda1255		smokeexhaust	778	SMOKE (EXHAUST)		poge	p o g e
+506965	539641	dravlex-Koya	koya1251		smokeexhaust	778	SMOKE (EXHAUST)		kumpo:ɖ	k u m p oː ɖ
+506966	539642	dravlex-Kurukh	kuru1302		smokeexhaust	778	SMOKE (EXHAUST)		mosaga	m o s a g a
+506967	539643	dravlex-Toda	toda1252		smokeexhaust	778	SMOKE (EXHAUST)		pukuɖti	p u k u ɖ t i
+507473	540149	northeuralex-kan	nucl1305		smokeexhaust	778	SMOKE (EXHAUST)		hɔɡe	h ɔ g e
+507490	540166	northeuralex-mal	mala1464		smokeexhaust	778	SMOKE (EXHAUST)		puɡa	p u g a
+507519	540195	northeuralex-tam	tami1289		smokeexhaust	778	SMOKE (EXHAUST)		puhʌi	p u h ʌ i
+507521	540197	northeuralex-tel	telu1262		smokeexhaust	778	SMOKE (EXHAUST)		poɡʌ	p o g ʌ
+529939	562615	dravlex-Betta_Kurumba	bett1235		stand	1442	STAND		ə:ɭ	əː ɭ
+529940	562616	dravlex-Betta_Kurumba	bett1235		stand	1442	STAND		əddənu i:ɾ	ə d d ə n u + iː ɾ
+529941	562617	dravlex-Brahui	brah1256		stand	1442	STAND		saling	s a l i n g
+529942	562618	dravlex-Brahui	brah1256		stand	1442	STAND		dʒe:k saling	dʒ eː k + s a l i n g
+529943	562619	dravlex-Gondi	nort2702		stand	1442	STAND		nil	n i l
+529944	562620	dravlex-Kodava	koda1255		stand	1442	STAND		nində	n i n d ə
+529945	562621	dravlex-Koya	koya1251		stand	1442	STAND		nilla	n i lː a
+529946	562622	dravlex-Koya	koya1251		stand	1442	STAND		nilliman	n i lː i m a n
+529947	562623	dravlex-Kurukh	kuru1302		stand	1442	STAND		idʒdʒna	i dʒː n a
+529948	562624	dravlex-Toda	toda1252		stand	1442	STAND		mukkaɖuɾil	m u kː a ɖ u ɾ i l
+530309	562985	northeuralex-kan	nucl1305		stand	1442	STAND		n̪ɪlːu	n̪ ɪ lː u
+530325	563001	northeuralex-mal	mala1464		stand	1442	STAND		n̪ilkːuɡa	n̪ i l kː u g a
+530356	563032	northeuralex-tam	tami1289		stand	1442	STAND		n̪il	n̪ i l
+530358	563034	northeuralex-tel	telu1262		stand	1442	STAND		n̪ilut͡ɕu	n̪ i l u tɕ u
+532095	564771	dravlex-Betta_Kurumba	bett1235		star	1430	STAR		mi:nu	m iː n u
+532096	564772	dravlex-Brahui	brah1256		star	1430	STAR		isʈa:ɾ	i s ʈ aː ɾ
+532097	564773	dravlex-Gondi	nort2702		star	1430	STAR		sukku	s u kː u
+532098	564774	dravlex-Kodava	koda1255		star	1430	STAR		nakʂatɾa	n a k ʂ a t ɾ a
+532099	564775	dravlex-Koya	koya1251		star	1430	STAR		ukka	u kː a
+532100	564776	dravlex-Kurukh	kuru1302		star	1430	STAR		bi:nko	b iː n k o
+532101	564777	dravlex-Toda	toda1252		star	1430	STAR		naʈtʃatiɾam	n a ʈ tʃ a t i ɾ a m
+532647	565323	northeuralex-kan	nucl1305		star	1430	STAR		t͡ʃʊkːi	tʃ ʊ kː i
+532664	565340	northeuralex-mal	mala1464		star	1430	STAR		n̪akʂat̪ɾʲam	n̪ a k ʂ a t̪ ɾʲ a m
+532694	565370	northeuralex-tam	tami1289		star	1430	STAR		n̪ʌʈt͡ɕʌt̪ːiɾʌm	n̪ ʌ ʈ tɕ ʌ t̪ː i ɾ ʌ m
+532696	565372	northeuralex-tel	telu1262		star	1430	STAR		n̪ʌkʂʌt̪rʌmu	n̪ ʌ k ʂ ʌ t̪ r ʌ m u
+538628	571305	dravlex-Betta_Kurumba	bett1235		stone	857	STONE		kallə	k a lː ə
+538629	571306	dravlex-Brahui	brah1256		stone	857	STONE		xal	x a l
+538630	571307	dravlex-Gondi	nort2702		stone	857	STONE		baɳɖa	b a ɳ ɖ a
+538631	571308	dravlex-Kodava	koda1255		stone	857	STONE		kallə	k a lː ə
+538632	571309	dravlex-Koya	koya1251		stone	857	STONE		ɾa:j	ɾ aː j
+538633	571310	dravlex-Kurukh	kuru1302		stone	857	STONE		pakʰna	p a kʰ n a
+538634	571311	dravlex-Toda	toda1252		stone	857	STONE		kaɾs	k a ɾ s
+539181	571858	northeuralex-kan	nucl1305		stone	857	STONE		kəlːu	k ə lː u
+539197	571874	northeuralex-mal	mala1464		stone	857	STONE		ɕila	ɕ i l a
+539198	571875	northeuralex-mal	mala1464		stone	857	STONE		kalːɨ̆	k a lː ɨ
+539227	571904	northeuralex-tam	tami1289		stone	857	STONE		kʌl	k ʌ l
+539229	571906	northeuralex-tel	telu1262		stone	857	STONE		ɽaːji	ɽ aː j i
+547997	580674	dravlex-Betta_Kurumba	bett1235		sun	1343	SUN		pottə	p o tː ə
+547998	580675	dravlex-Brahui	brah1256		sun	1343	SUN		de	d e
+547999	580676	dravlex-Gondi	nort2702		sun	1343	SUN		poɾə	p o ɾ ə
+548000	580677	dravlex-Kodava	koda1255		sun	1343	SUN		su:ɾja	s uː ɾ j a
+548001	580678	dravlex-Koya	koya1251		sun	1343	SUN		poɖudu	p o ɖ u d u
+548002	580679	dravlex-Kurukh	kuru1302		sun	1343	SUN		bi:ɖi	b iː ɖ i
+548003	580680	dravlex-Toda	toda1252		sun	1343	SUN		su:ɾijan	s uː ɾ i j a n
+548569	581246	northeuralex-kan	nucl1305		sun	1343	SUN		suːrja	s uː r j a
+548586	581263	northeuralex-mal	mala1464		sun	1343	SUN		suːɾʲːan̪	s uː ɾʲː a n̪
+548617	581294	northeuralex-tam	tami1289		sun	1343	SUN		t͡ɕuːɾijʌn	tɕ uː ɾ i j ʌ n
+548619	581296	northeuralex-tel	telu1262		sun	1343	SUN		s̪uːrjuɖu	s̪ uː r j u ɖ u
+555080	587757	dravlex-Betta_Kurumba	bett1235		swim	1439	SWIM		ni:nɖʒu	n iː n ɖ ʒ u
+555081	587758	dravlex-Brahui	brah1256		swim	1439	SWIM		beʂoling	b e ʂ o l i n g
+555082	587759	dravlex-Gondi	nort2702		swim	1439	SWIM		pohem	p o h e m
+555083	587760	dravlex-Gondi	nort2702		swim	1439	SWIM		naɾi	n a ɾ i
+555084	587761	dravlex-Kodava	koda1255		swim	1439	SWIM		mi:ɾodu	m iː ɾ o d u
+555085	587762	dravlex-Koya	koya1251		swim	1439	SWIM		i:ta	iː t a
+555086	587763	dravlex-Kurukh	kuru1302		swim	1439	SWIM		o:gna	oː g n a
+555087	587764	dravlex-Toda	toda1252		swim	1439	SWIM		ni:tʃal	n iː tʃ a l
+555508	588185	northeuralex-kan	nucl1305		swim	1439	SWIM		jiːd͡ʒu	j iː dʒ u
+555527	588204	northeuralex-mal	mala1464		swim	1439	SWIM		n̪iːn̪dʰuɡa	n̪ iː n̪ dʰ u g a
+555559	588236	northeuralex-tam	tami1289		swim	1439	SWIM		n̪iːn̪t̪u	n̪ iː n̪ t̪ u
+555561	588238	northeuralex-tel	telu1262		swim	1439	SWIM		iːd̪u	iː d̪ u
+557519	590196	dravlex-Betta_Kurumba	bett1235		tail	1220	TAIL		ba:lə	b aː l ə
+557520	590197	dravlex-Brahui	brah1256		tail	1220	TAIL		liʈʈik	l i ʈː i k
+557521	590198	dravlex-Gondi	nort2702		tail	1220	TAIL		tokoɾ	t o k o ɾ
+557522	590199	dravlex-Kodava	koda1255		tail	1220	TAIL		ba:lə	b aː l ə
+557523	590200	dravlex-Koya	koya1251		tail	1220	TAIL		toka:ɾ	t o k aː ɾ
+557524	590201	dravlex-Kurukh	kuru1302		tail	1220	TAIL		kʰola	kʰ o l a
+557525	590202	dravlex-Toda	toda1252		tail	1220	TAIL		po:ɾsam	p oː ɾ s a m
+558054	590731	northeuralex-kan	nucl1305		tail	1220	TAIL		baːla	b aː l a
+558071	590748	northeuralex-mal	mala1464		tail	1220	TAIL		ʋaːl	ʋ aː l
+558103	590780	northeuralex-tam	tami1289		tail	1220	TAIL		ʋɑːl	ʋ ɑː l
+558105	590782	northeuralex-tel	telu1262		tail	1220	TAIL		t̪oːkʌ	t̪ oː k ʌ
+566925	599604	dravlex-Betta_Kurumba	bett1235		that	78	THAT		adə	a d ə
+566926	599605	dravlex-Brahui	brah1256		that	78	THAT		ae	a e
+566927	599606	dravlex-Gondi	nort2702		that	78	THAT		adu	a d u
+566928	599607	dravlex-Kodava	koda1255		that	78	THAT		adə	a d ə
+566929	599608	dravlex-Koya	koya1251		that	78	THAT		addu	a d d u
+566930	599609	dravlex-Kurukh	kuru1302		that	78	THAT		hu:	h uː
+566931	599610	dravlex-Toda	toda1252		that	78	THAT		adə	a d ə
+567441	600120	northeuralex-kan	nucl1305		that	78	THAT		əd̪u	ə d̪ u
+567461	600140	northeuralex-mal	mala1464		that	78	THAT		adʰɨ̆	a dʰ ɨ
+567494	600173	northeuralex-tam	tami1289		that	78	THAT		ʌðu	ʌ ð u
+567496	600175	northeuralex-tel	telu1262		that	78	THAT		ʌd̪i	ʌ d̪ i
+577998	610677	dravlex-Betta_Kurumba	bett1235		this	1214	THIS		idə	i d ə
+577999	610678	dravlex-Brahui	brah1256		this	1214	THIS		da:	d aː
+578000	610679	dravlex-Gondi	nort2702		this	1214	THIS		id	i d
+578001	610680	dravlex-Kodava	koda1255		this	1214	THIS		idə	i d ə
+578002	610681	dravlex-Koya	koya1251		this	1214	THIS		iddu	i d d u
+578003	610682	dravlex-Kurukh	kuru1302		this	1214	THIS		i:d	iː d
+578004	610683	dravlex-Toda	toda1252		this	1214	THIS		idə	i d ə
+578542	611222	northeuralex-kan	nucl1305		this	1214	THIS		jiː	j iː
+578560	611240	northeuralex-mal	mala1464		this	1214	THIS		idʰɨ̆	i dʰ ɨ
+578593	611273	northeuralex-tam	tami1289		this	1214	THIS		iðu	i ð u
+578595	611275	northeuralex-tel	telu1262		this	1214	THIS		id̪i	i d̪ i
+580150	612832	dravlex-Betta_Kurumba	bett1235		thou	1215	THOU		ni:jə	n iː j ə
+580151	612833	dravlex-Brahui	brah1256		thou	1215	THOU		ni:	n iː
+580152	612834	dravlex-Gondi	nort2702		thou	1215	THOU		nimme	n i mː e
+580153	612835	dravlex-Kodava	koda1255		thou	1215	THOU		ni:nə	n iː n ə
+580154	612836	dravlex-Koya	koya1251		thou	1215	THOU		nimma	n i mː a
+580155	612837	dravlex-Kurukh	kuru1302		thou	1215	THOU		ni:n	n iː n
+580156	612838	dravlex-Toda	toda1252		thou	1215	THOU		ni	n i
+580658	613341	northeuralex-kan	nucl1305		thou	1215	THOU		n̪iːn̪u	n̪ iː n̪ u
+580674	613357	northeuralex-mal	mala1464		thou	1215	THOU		n̪iŋːaɭ	n̪ i ŋː a ɭ
+580702	613385	northeuralex-tam	tami1289		thou	1215	THOU		n̪iː	n̪ iː
+580704	613387	northeuralex-tel	telu1262		thou	1215	THOU		n̪iːʋu	n̪ iː ʋ u
+596090	628777	dravlex-Betta_Kurumba	bett1235		tongue	1205	TONGUE		nelgi	n e l g i
+596091	628778	dravlex-Brahui	brah1256		tongue	1205	TONGUE		duʋi:	d u ʋ iː
+596092	628779	dravlex-Gondi	nort2702		tongue	1205	TONGUE		ʋendʒeɾ	ʋ e n dʒ e ɾ
+596093	628780	dravlex-Kodava	koda1255		tongue	1205	TONGUE		na:ʋu	n aː ʋ u
+596094	628781	dravlex-Koya	koya1251		tongue	1205	TONGUE		na:like	n aː l i k e
+596095	628782	dravlex-Kurukh	kuru1302		tongue	1205	TONGUE		takkha	t a kː h a
+596096	628783	dravlex-Toda	toda1252		tongue	1205	TONGUE		no:f	n oː f
+596623	629310	northeuralex-kan	nucl1305		tongue	1205	TONGUE		n̪aːlɪɡe	n̪ aː l ɪ g e
+596639	629326	northeuralex-mal	mala1464		tongue	1205	TONGUE		n̪aːkːɨ̆	n̪ aː kː ɨ
+596667	629354	northeuralex-tam	tami1289		tongue	1205	TONGUE		n̪ɑːkːu	n̪ ɑː kː u
+596669	629356	northeuralex-tel	telu1262		tongue	1205	TONGUE		n̪aːlukʌ	n̪ aː l u k ʌ
+598289	630976	dravlex-Betta_Kurumba	bett1235		tooth	1380	TOOTH		pallə	p a lː ə
+598290	630977	dravlex-Brahui	brah1256		tooth	1380	TOOTH		danda:n	d a n d aː n
+598291	630978	dravlex-Brahui	brah1256		tooth	1380	TOOTH		danta:n	d a n t aː n
+598292	630979	dravlex-Gondi	nort2702		tooth	1380	TOOTH		pal	p a l
+598293	630980	dravlex-Kodava	koda1255		tooth	1380	TOOTH		pallə	p a lː ə
+598294	630981	dravlex-Koya	koya1251		tooth	1380	TOOTH		palk	p a l k
+598295	630982	dravlex-Kurukh	kuru1302		tooth	1380	TOOTH		pall	p a lː
+598296	630983	dravlex-Toda	toda1252		tooth	1380	TOOTH		paɾse	p a ɾ s e
+598794	631481	northeuralex-kan	nucl1305		tooth	1380	TOOTH		həlːu	h ə lː u
+598811	631498	northeuralex-mal	mala1464		tooth	1380	TOOTH		palːɨ̆	p a lː ɨ
+598839	631526	northeuralex-tam	tami1289		tooth	1380	TOOTH		pʌl	p ʌ l
+598841	631528	northeuralex-tel	telu1262		tooth	1380	TOOTH		pʌlːu	p ʌ lː u
+602639	635326	dravlex-Betta_Kurumba	bett1235		tree	906	TREE		meɾi	m e ɾ i
+602640	635327	dravlex-Brahui	brah1256		tree	906	TREE		dɾahkʰt	d ɾ a h kʰ t
+602641	635328	dravlex-Gondi	nort2702		tree	906	TREE		maɾa	m a ɾ a
+602642	635329	dravlex-Kodava	koda1255		tree	906	TREE		maɾa	m a ɾ a
+602643	635330	dravlex-Koya	koya1251		tree	906	TREE		ma:ɾa	m aː ɾ a
+602644	635331	dravlex-Kurukh	kuru1302		tree	906	TREE		mann	m a nː
+602645	635332	dravlex-Toda	toda1252		tree	906	TREE		me:n	m eː n
+603219	635906	northeuralex-kan	nucl1305		tree	906	TREE		məra	m ə r a
+603236	635923	northeuralex-mal	mala1464		tree	906	TREE		maɾʲam	m a ɾʲ a m
+603264	635951	northeuralex-tam	tami1289		tree	906	TREE		mʌɾʌm	m ʌ ɾ ʌ m
+603266	635953	northeuralex-tel	telu1262		tree	906	TREE		t͡ɕeʈːu	tɕ e ʈː u
+611124	643811	dravlex-Betta_Kurumba	bett1235		two	1498	TWO		əddu	ə d d u
+611125	643812	dravlex-Brahui	brah1256		two	1498	TWO		iɾat	i ɾ a t
+611126	643813	dravlex-Gondi	nort2702		two	1498	TWO		ɾeɳɖu	ɾ e ɳ ɖ u
+611127	643814	dravlex-Kodava	koda1255		two	1498	TWO		daɳɖə	d a ɳ ɖ ə
+611128	643815	dravlex-Koya	koya1251		two	1498	TWO		ɾeɳɖ	ɾ e ɳ ɖ
+611129	643816	dravlex-Kurukh	kuru1302		two	1498	TWO		i:rəb	iː r ə b
+611130	643817	dravlex-Toda	toda1252		two	1498	TWO		e:ɖə	eː ɖ ə
+611694	644381	northeuralex-kan	nucl1305		two	1498	TWO		jɛrəɖu	j ɛ r ə ɖ u
+611710	644397	northeuralex-mal	mala1464		two	1498	TWO		ɾʲaɳɖɨ̆	ɾʲ a ɳ ɖ ɨ
+611739	644426	northeuralex-tam	tami1289		two	1498	TWO		iɾʌɳʈu	i ɾ ʌ ɳ ʈ u
+611741	644428	northeuralex-tel	telu1262		two	1498	TWO		rẽɖu	r ẽ ɖ u
+626984	679645	dravlex-Betta_Kurumba	bett1235		white	1335	WHITE		bəɭɭu	b ə ɭː u
+626985	679646	dravlex-Brahui	brah1256		white	1335	WHITE		pi:un	p iː u n
+626986	679647	dravlex-Gondi	nort2702		white	1335	WHITE		tellag	t e lː a g
+626987	679648	dravlex-Kodava	koda1255		white	1335	WHITE		boltadə	b o l t a d ə
+626988	679649	dravlex-Koya	koya1251		white	1335	WHITE		telup	t e l u p
+626989	679650	dravlex-Kurukh	kuru1302		white	1335	WHITE		paɳɖɾu	p a ɳ ɖ ɾ u
+626990	679651	dravlex-Toda	toda1252		white	1335	WHITE		pelti	p e l t i
+627566	680227	northeuralex-kan	nucl1305		white	1335	WHITE		bɪɭɪja	b ɪ ɭ ɪ j a
+627582	680243	northeuralex-mal	mala1464		white	1335	WHITE		ʋeɭut̪ːa	ʋ e ɭ u t̪ː a
+627612	680273	northeuralex-tam	tami1289		white	1335	WHITE		ʋeɳmʌijʌnʌ	ʋ e ɳ m ʌ i j ʌ n ʌ
+627614	680275	northeuralex-tel	telu1262		white	1335	WHITE		t̪elupu	t̪ e l u p u
+629473	682226	dravlex-Betta_Kurumba	bett1235		who	1235	WHO		da:ɾə	d aː ɾ ə
+629474	682227	dravlex-Brahui	brah1256		who	1235	WHO		de:ɾ	d eː ɾ
+629475	682228	dravlex-Gondi	nort2702		who	1235	WHO		boɾ	b o ɾ
+629476	682229	dravlex-Kodava	koda1255		who	1235	WHO		da:ɾə	d aː ɾ ə
+629477	682230	dravlex-Koya	koya1251		who	1235	WHO		be:nonɖu	b eː n o n ɖ u
+629478	682231	dravlex-Kurukh	kuru1302		who	1235	WHO		ne	n e
+629479	682232	dravlex-Toda	toda1252		who	1235	WHO		oɾi	o ɾ i
+630026	682779	northeuralex-kan	nucl1305		who	1235	WHO		jaːrɪɡe	j aː r ɪ g e
+630042	682795	northeuralex-mal	mala1464		who	1235	WHO		aːɾʲɨ̆	aː ɾʲ ɨ
+630077	682830	northeuralex-tam	tami1289		who	1235	WHO		jɑːɾ	j ɑː ɾ
+630079	682832	northeuralex-tel	telu1262		who	1235	WHO		eʋʌɖu	e ʋ ʌ ɖ u
+639806	692561	dravlex-Betta_Kurumba	bett1235		woman	962	WOMAN		pəɳakkən	p ə ɳ a kː ə n
+639807	692562	dravlex-Brahui	brah1256		woman	962	WOMAN		njaaɽi	n j a a ɽ i
+639808	692563	dravlex-Gondi	nort2702		woman	962	WOMAN		muɾtad	m u ɾ t a d
+639809	692564	dravlex-Kodava	koda1255		woman	962	WOMAN		ponna:ɭə	p o nː aː ɭ ə
+639810	692565	dravlex-Koya	koya1251		woman	962	WOMAN		na:taʋa:d	n aː t a ʋ aː d
+639811	692566	dravlex-Koya	koya1251		woman	962	WOMAN		pi:ki:ɖ	p iː k iː ɖ
+639812	692567	dravlex-Kurukh	kuru1302		woman	962	WOMAN		mukka	m u kː a
+639813	692568	dravlex-Kurukh	kuru1302		woman	962	WOMAN		a:li	aː l i
+639814	692569	dravlex-Toda	toda1252		woman	962	WOMAN		tusmo:gə	t u s m oː g ə
+640404	693159	northeuralex-kan	nucl1305		woman	962	WOMAN		hɛɳːu	h ɛ ɳː u
+640426	693181	northeuralex-mal	mala1464		woman	962	WOMAN		st̪ɾʲiː	s t̪ ɾʲ iː
+640460	693215	northeuralex-tam	tami1289		woman	962	WOMAN		peɳ	p e ɳ
+640462	693217	northeuralex-tel	telu1262		woman	962	WOMAN		aːɖud̪i	aː ɖ u d̪ i

@@ -1,0 +1,1851 @@
+	ID	DOCULECT	CONCEPT	Segments	GLOTTOCODE	ISO_CODE	CONCEPTICON_ID	CONCEPTICON_GLOSS	COGNATES	FORM
+0	armenian-100_yellow-1	armenian	100_yellow	d ɛ ʁ i n	nucl1235	hye	1424	YELLOW	552	
+1	armenian-101_far-1	armenian	101_far	h ɛ r u	nucl1235	hye	1406	FAR	553	
+2	armenian-103_near-1	armenian	103_near	m o t	nucl1235	hye	1942	NEAR	-575	
+3	armenian-104_salt-1	armenian	104_salt	ɑ ʁ	nucl1235	hye	1274	SALT	576	
+4	armenian-105_short-1	armenian	105_short	k ɑ ɾ tʃ	nucl1235	hye	1645	SHORT	581	
+5	armenian-106_snake-1	armenian	106_snake	o tsʰ	nucl1235	hye	730	SNAKE	586	
+7	armenian-10_bone-1	armenian	10_bone	v o s k o ɾ	nucl1235	hye	1394	BONE	73	
+8	armenian-110_year-1	armenian	110_year	t ɑ ɾ i	nucl1235	hye	1226	YEAR	-610	
+12	armenian-14_cloud-1	armenian	14_cloud	ɑ m p	nucl1235	hye	1489	CLOUD	99	
+13	armenian-16_come-1	armenian	16_come	g ɑ l	nucl1235	hye	1446	COME	113	
+14	armenian-17_die-1	armenian	17_die	m ɛ r n ɛ l	nucl1235	hye	1494	DIE	121	
+15	armenian-18_dog-1	armenian	18_dog	ʃ u n	nucl1235	hye	2009	DOG	123	
+16	armenian-19_drink-1	armenian	19_drink	χ ə m ɛ l	nucl1235	hye	1401	DRINK	131	
+17	armenian-21_ear-1	armenian	21_ear	ɑ k ɑ n dʒ	nucl1235	hye	1247	EAR	141	
+18	armenian-22_earth-1	armenian	22_earth	h o ʁ	nucl1235	hye	1228	EARTH (SOIL)	146	
+19	armenian-23_eat-1	armenian	23_eat	u t ɛ l	nucl1235	hye	1336	EAT	150	
+20	armenian-24_egg-1	armenian	24_egg	dz u	nucl1235	hye	744	EGG	155	
+21	armenian-25_eye-1	armenian	25_eye	ɑ tʃʰ kʰ	nucl1235	hye	1248	EYE	158	
+23	armenian-27_feather-1	armenian	27_feather	pʰ ɛ t u ɾ	nucl1235	hye	1201	FEATHER	-171	
+24	armenian-28_fire-1	armenian	28_fire	k ə ɾ ɑ k	nucl1235	hye	221	FIRE	180	
+25	armenian-29_fish-1	armenian	29_fish	dz u k	nucl1235	hye	227	FISH	183	
+26	armenian-2_ashes-1	armenian	2_ashes	m o χ i ɾ	nucl1235	hye	646	ASH	9	
+27	armenian-30_flyv-1	armenian	30_flyv	tʰ ə r tʃʰ ɛ l	nucl1235	hye	1441	FLY (MOVE THROUGH AIR)	191	
+28	armenian-31_foot-1	armenian	31_foot	v o t kʰ	nucl1235	hye	1301	FOOT	194	
+30	armenian-33_give-1	armenian	33_give	t ɑ l	nucl1235	hye	1447	GIVE	198	
+31	armenian-34_good-1	armenian	34_good	l ɑ v	nucl1235	hye	1035	GOOD	202	
+32	armenian-35_green-1	armenian	35_green	k ɑ n ɑ tʃʰ	nucl1235	hye	1425	GREEN	-206	
+33	armenian-36_hair-1	armenian	36_hair	m ɑ z	nucl1235	hye	1040	HAIR	-211	
+34	armenian-37_hand-1	armenian	37_hand	dz ɛ r kʰ	nucl1235	hye	1277	HAND	219	
+35	armenian-38_head-1	armenian	38_head	g ə l u χ	nucl1235	hye	1256	HEAD	228	
+36	armenian-39_hear-1	armenian	39_hear	l ə s ɛ l	nucl1235	hye	1408	HEAR	231	
+37	armenian-3_bark-1	armenian	3_bark	k ɛ ʁ ɛ v	nucl1235	hye	1204	BARK	22	
+38	armenian-40_heart-1	armenian	40_heart	s i ɾ t	nucl1235	hye	1223	HEART	235	
+40	armenian-42_i-1	armenian	42_i	j ɛ s	nucl1235	hye	1209	I	240	
+41	armenian-43_kill-1	armenian	43_kill	s p ɑ n ɛ l	nucl1235	hye	1417	KILL	241	
+43	armenian-45_know-1	armenian	45_know	g i t ɛ n ɑ l	nucl1235	hye	1410	KNOW (SOMETHING)	256	
+44	armenian-46_leaf-1	armenian	46_leaf	t ɛ ɾ ɛ v	nucl1235	hye	628	LEAF	260	
+45	armenian-47_lie-1	armenian	47_lie	p ɑ r k ɛ l	nucl1235	hye	1411	LIE (REST)	-266	
+46	armenian-48_liver-1	armenian	48_liver	l ɪ ɑ r tʰ	nucl1235	hye	1224	LIVER	273	
+47	armenian-49_long-1	armenian	49_long	j ɛ ɾ k ɑ ɾ	nucl1235	hye	1203	LONG	280	
+48	armenian-50_louse-1	armenian	50_louse	v o tʃʰ i l	nucl1235	hye	1392	LOUSE	287	
+49	armenian-52_many-1	armenian	52_many	ʃ ɑ t	nucl1235	hye	1198	MANY	-298	
+52	armenian-55_mountain-1	armenian	55_mountain	s ɑ ɾ	nucl1235	hye	639	MOUNTAIN	320	
+53	armenian-56_mouth-1	armenian	56_mouth	b ɛ ɾ ɑ n	nucl1235	hye	674	MOUTH	333	
+54	armenian-57_name-1	armenian	57_name	ɑ n u n	nucl1235	hye	1405	NAME	334	
+55	armenian-58_neck-1	armenian	58_neck	v i z	nucl1235	hye	1333	NECK	341	
+56	armenian-59_new-1	armenian	59_new	n o ɾ	nucl1235	hye	1231	NEW	343	
+57	armenian-5_big-1	armenian	5_big	m ɛ ts	nucl1235	hye	1202	BIG	37	
+58	armenian-60_night-1	armenian	60_night	g i ʃ ɛ ɾ	nucl1235	hye	1233	NIGHT	344	
+59	armenian-61_nose-1	armenian	61_nose	kʰ i tʰ	nucl1235	hye	1221	NOSE	-349	
+60	armenian-62_not-1	armenian	62_not	v o tʃʰ	nucl1235	hye	1240	NOT	351	
+61	armenian-63_one-1	armenian	63_one	m ɛ k	nucl1235	hye	1493	ONE	355	
+62	armenian-64_person-1	armenian	64_person	m ɑ ɾ tʰ	nucl1235	hye	683	PERSON	-359	
+64	armenian-66_red-1	armenian	66_red	k ɑ ɾ m i ɾ	nucl1235	hye	156	RED	-372	
+65	armenian-67_road-1	armenian	67_road	tʃ ɑ m pʰ ɑ	nucl1235	hye	667	ROAD	-382	
+66	armenian-68_root-1	armenian	68_root	ɑ ɾ m ɑ t	nucl1235	hye	670	ROOT	387	
+68	armenian-6_bird-1	armenian	6_bird	tʰ ə r tʃʰ u n	nucl1235	hye	937	BIRD	48	
+69	armenian-70_sand-1	armenian	70_sand	ɑ v ɑ z	nucl1235	hye	671	SAND	397	
+70	armenian-71_say-1	armenian	71_say	ɑ s ɛ l	nucl1235	hye	1458	SAY	406	
+71	armenian-72_see-1	armenian	72_see	t ɛ s n ɛ l	nucl1235	hye	1409	SEE	416	
+72	armenian-73_seed-1	armenian	73_seed	s e ɾ m	nucl1235	hye	714	SEED	-419	
+73	armenian-74_sit-1	armenian	74_sit	n ə s t ɛ l	nucl1235	hye	1416	SIT	424	
+75	armenian-76_sleep-1	armenian	76_sleep	kʰ ə n ɛ l	nucl1235	hye	1585	SLEEP	435	
+76	armenian-77_small-1	armenian	77_small	pʰ o kʰ ə ɾ	nucl1235	hye	1246	SMALL	440	
+77	armenian-79_stand-1	armenian	79_stand	k ɑ n g n ɛ l	nucl1235	hye	1442	STAND	450	
+78	armenian-7_bite-1	armenian	7_bite	k ə ts ɛ l	nucl1235	hye	1403	BITE	57	
+79	armenian-80_star-1	armenian	80_star	ɑ s t ə ʁ	nucl1235	hye	1430	STAR	454	
+80	armenian-81_stone-1	armenian	81_stone	kʰ ɑ ɾ	nucl1235	hye	857	STONE	461	
+81	armenian-82_sun-1	armenian	82_sun	ɑ ɾ ɛ v	nucl1235	hye	1343	SUN	462	
+82	armenian-83_swim-1	armenian	83_swim	l o ʁ ɑ l	nucl1235	hye	1439	SWIM	467	
+83	armenian-84_tail-1	armenian	84_tail	p o tʃʰ	nucl1235	hye	1220	TAIL	474	
+84	armenian-85_that-1	armenian	85_that	ɑɪ̯ n	nucl1235	hye	78	THAT	485	
+85	armenian-86_this-1	armenian	86_this	ɑɪ s	nucl1235	hye	1214	THIS	492	
+86	armenian-87_thou-1	armenian	87_thou	d u	nucl1235	hye	1215	THOU	495	
+87	armenian-88_tongue-1	armenian	88_tongue	l ɛ z u	nucl1235	hye	1205	TONGUE	496	
+88	armenian-89_tooth-1	armenian	89_tooth	ɑ t ɑ m	nucl1235	hye	1380	TOOTH	499	
+89	armenian-8_black-1	armenian	8_black	s ɛ v	nucl1235	hye	163	BLACK	62	
+90	armenian-90_tree-1	armenian	90_tree	ts ɑ r	nucl1235	hye	906	TREE	-503	
+91	armenian-91_two-1	armenian	91_two	j ɛ ɾ k u	nucl1235	hye	1498	TWO	507	
+93	armenian-94_water-1	armenian	94_water	dʒ u ɾ	nucl1235	hye	948	WATER	527	
+94	armenian-95_we-1	armenian	95_we	m ɛ n kʰ	nucl1235	hye	1212	WE	528	
+95	armenian-97_white-1	armenian	97_white	s p i t ɑ k	nucl1235	hye	1335	WHITE	-534	
+96	armenian-99_woman-1	armenian	99_woman	k i n	nucl1235	hye	962	WOMAN	544	
+97	armenian-9_blood-1	armenian	9_blood	ɑ ɾ ɪ u n	nucl1235	hye	946	BLOOD	69	
+98	bulgarian-100_yellow-1	bulgarian	100_yellow	ʒ ɤ l t	bulg1262	bul	1424	YELLOW	550	
+99	bulgarian-101_far-1	bulgarian	101_far	d ə l ɛ tʃ ɛ n	bulg1262	bul	1406	FAR	558	
+100	bulgarian-102_heavy-1	bulgarian	102_heavy	t ɛ ʒ ə k	bulg1262	bul	1210	HEAVY	563	
+101	bulgarian-103_near-1	bulgarian	103_near	b l i z ə k	bulg1262	bul	1942	NEAR	570	
+102	bulgarian-104_salt-1	bulgarian	104_salt	s o l	bulg1262	bul	1274	SALT	576	
+103	bulgarian-105_short-1	bulgarian	105_short	k r a t ə k	bulg1262	bul	1645	SHORT	581	
+104	bulgarian-105_short-2	bulgarian	105_short	k ɤ s	bulg1262	bul	1645	SHORT	580	
+105	bulgarian-106_snake-1	bulgarian	106_snake	z m i j a	bulg1262	bul	730	SNAKE	584	
+107	bulgarian-108_wind-1	bulgarian	108_wind	vʲ a t ə r	bulg1262	bul	960	WIND	602	
+108	bulgarian-109_worm-1	bulgarian	109_worm	tʃ ɛ r v ɛ j	bulg1262	bul	1219	WORM	608	
+109	bulgarian-10_bone-1	bulgarian	10_bone	k ɔ s t	bulg1262	bul	1394	BONE	75	
+110	bulgarian-110_year-1	bulgarian	110_year	ɡ o d i n ə	bulg1262	bul	1226	YEAR	615	
+114	bulgarian-14_cloud-1	bulgarian	14_cloud	ɔ b l ə k	bulg1262	bul	1489	CLOUD	103	
+116	bulgarian-16_come-1	bulgarian	16_come	i d v a m	bulg1262	bul	1446	COME	116	
+117	bulgarian-17_die-1	bulgarian	17_die	u m r ɤ	bulg1262	bul	1494	DIE	121	
+118	bulgarian-18_dog-1	bulgarian	18_dog	k u tʃ ɛ	bulg1262	bul	2009	DOG	125	
+119	bulgarian-19_drink-1	bulgarian	19_drink	p i j ə	bulg1262	bul	1401	DRINK	132	
+120	bulgarian-1_all-1	bulgarian	1_all	v s i tʃ k i	bulg1262	bul	98	ALL	3	
+121	bulgarian-20_dry-1	bulgarian	20_dry	s u x	bulg1262	bul	1398	DRY	138	
+122	bulgarian-21_ear-1	bulgarian	21_ear	u x ɔ	bulg1262	bul	1247	EAR	141	
+123	bulgarian-22_earth-1	bulgarian	22_earth	z ɛ mʲ ə	bulg1262	bul	1228	EARTH (SOIL)	145	
+124	bulgarian-23_eat-1	bulgarian	23_eat	j a m	bulg1262	bul	1336	EAT	150	
+125	bulgarian-24_egg-1	bulgarian	24_egg	j əi ts ɛ	bulg1262	bul	744	EGG	154	
+126	bulgarian-25_eye-1	bulgarian	25_eye	o k ɔ	bulg1262	bul	1248	EYE	158	
+128	bulgarian-27_feather-1	bulgarian	27_feather	p ɛ r ɔ	bulg1262	bul	1201	FEATHER	174	
+129	bulgarian-28_fire-1	bulgarian	28_fire	ɔ ɡ ə n	bulg1262	bul	221	FIRE	178	
+130	bulgarian-29_fish-1	bulgarian	29_fish	r i b ə	bulg1262	bul	227	FISH	184	
+131	bulgarian-2_ashes-1	bulgarian	2_ashes	p ɛ p ɛ l	bulg1262	bul	646	ASH	8	
+132	bulgarian-30_flyv-1	bulgarian	30_flyv	l ɛ tʲ ə	bulg1262	bul	1441	FLY (MOVE THROUGH AIR)	188	
+133	bulgarian-31_foot-1	bulgarian	31_foot	k r a k	bulg1262	bul	1301	FOOT	193	
+135	bulgarian-33_give-1	bulgarian	33_give	d a v ə m	bulg1262	bul	1447	GIVE	198	
+136	bulgarian-34_good-1	bulgarian	34_good	d o b ɤ r	bulg1262	bul	1035	GOOD	204	
+137	bulgarian-35_green-1	bulgarian	35_green	z ɛ l ɛ n	bulg1262	bul	1425	GREEN	207	
+138	bulgarian-36_hair-1	bulgarian	36_hair	k ɔ s ə m	bulg1262	bul	1040	HAIR	215	
+139	bulgarian-37_hand-1	bulgarian	37_hand	r ə k a	bulg1262	bul	1277	HAND	220	
+140	bulgarian-38_head-1	bulgarian	38_head	ɡ l ə v a	bulg1262	bul	1256	HEAD	228	
+141	bulgarian-39_hear-1	bulgarian	39_hear	tʃ u v ə m	bulg1262	bul	1408	HEAR	230	
+142	bulgarian-3_bark-1	bulgarian	3_bark	k o r a	bulg1262	bul	1204	BARK	23	
+143	bulgarian-40_heart-1	bulgarian	40_heart	s ə r ts ɛ	bulg1262	bul	1223	HEART	235	
+145	bulgarian-42_i-1	bulgarian	42_i	a s	bulg1262	bul	1209	I	240	
+146	bulgarian-43_kill-1	bulgarian	43_kill	u b i v ə m	bulg1262	bul	1417	KILL	246	
+148	bulgarian-45_know-1	bulgarian	45_know	z n a j ə	bulg1262	bul	1410	KNOW (SOMETHING)	257	
+149	bulgarian-46_leaf-1	bulgarian	46_leaf	l i s t	bulg1262	bul	628	LEAF	263	
+150	bulgarian-47_lie-1	bulgarian	47_lie	l ɛ ʒ ə	bulg1262	bul	1411	LIE (REST)	269	
+151	bulgarian-48_liver-1	bulgarian	48_liver	d r o p	bulg1262	bul	1224	LIVER	275	
+152	bulgarian-49_long-1	bulgarian	49_long	d ɤ l ə k	bulg1262	bul	1203	LONG	281	
+153	bulgarian-4_belly-1	bulgarian	4_belly	k o r ɛ m	bulg1262	bul	1251	BELLY	-30	
+154	bulgarian-50_louse-1	bulgarian	50_louse	v ɤ ʃ k ə	bulg1262	bul	1392	LOUSE	284	
+156	bulgarian-52_many-1	bulgarian	52_many	m n ɔ g o	bulg1262	bul	1198	MANY	296	
+159	bulgarian-55_mountain-1	bulgarian	55_mountain	p l ə n i n a	bulg1262	bul	639	MOUNTAIN	322	
+160	bulgarian-56_mouth-1	bulgarian	56_mouth	u s t a	bulg1262	bul	674	MOUTH	329	
+161	bulgarian-57_name-1	bulgarian	57_name	i m ɛ	bulg1262	bul	1405	NAME	334	
+162	bulgarian-58_neck-1	bulgarian	58_neck	ʃ i j ə	bulg1262	bul	1333	NECK	340	
+163	bulgarian-58_neck-2	bulgarian	58_neck	v r a t	bulg1262	bul	1333	NECK	337	
+164	bulgarian-59_new-1	bulgarian	59_new	n ɔ f	bulg1262	bul	1231	NEW	343	
+165	bulgarian-5_big-1	bulgarian	5_big	g o lʲ a m	bulg1262	bul	1202	BIG	38	
+166	bulgarian-60_night-1	bulgarian	60_night	n ɔ ʃ t	bulg1262	bul	1233	NIGHT	346	
+167	bulgarian-61_nose-1	bulgarian	61_nose	n ɔ s	bulg1262	bul	1221	NOSE	350	
+168	bulgarian-62_not-1	bulgarian	62_not	n ɛ	bulg1262	bul	1240	NOT	352	
+169	bulgarian-63_one-1	bulgarian	63_one	ɛ d n ɔ	bulg1262	bul	1493	ONE	354	
+170	bulgarian-64_person-1	bulgarian	64_person	tʃ o v ɛ k	bulg1262	bul	683	PERSON	360	
+172	bulgarian-66_red-1	bulgarian	66_red	tʃ ɛ r v ɛ n	bulg1262	bul	156	RED	367	
+173	bulgarian-67_road-1	bulgarian	67_road	p ɤ t	bulg1262	bul	667	ROAD	375	
+174	bulgarian-68_root-1	bulgarian	68_root	k ɔ r ɛ n	bulg1262	bul	670	ROOT	385	
+176	bulgarian-6_bird-1	bulgarian	6_bird	p t i ts ə	bulg1262	bul	937	BIRD	51	
+177	bulgarian-70_sand-1	bulgarian	70_sand	pʲ a s ə k	bulg1262	bul	671	SAND	400	
+178	bulgarian-71_say-1	bulgarian	71_say	k a ʒ ə	bulg1262	bul	1458	SAY	409	
+179	bulgarian-72_see-1	bulgarian	72_see	v i ʒ d ə m	bulg1262	bul	1409	SEE	413	
+180	bulgarian-73_seed-1	bulgarian	73_seed	s ɛ m ɛ	bulg1262	bul	714	SEED	421	
+181	bulgarian-74_sit-1	bulgarian	74_sit	s ɛ dʲ ɤ	bulg1262	bul	1416	SIT	424	
+183	bulgarian-76_sleep-1	bulgarian	76_sleep	s p a	bulg1262	bul	1585	SLEEP	435	
+184	bulgarian-77_small-1	bulgarian	77_small	m a l ə k	bulg1262	bul	1246	SMALL	441	
+185	bulgarian-78_smoke-1	bulgarian	78_smoke	d i m	bulg1262	bul	778	SMOKE (EXHAUST)	446	
+186	bulgarian-79_stand-1	bulgarian	79_stand	s t ɔ j ə	bulg1262	bul	1442	STAND	451	
+187	bulgarian-7_bite-1	bulgarian	7_bite	x ə p a	bulg1262	bul	1403	BITE	58	
+188	bulgarian-80_star-1	bulgarian	80_star	z v ɛ z d a	bulg1262	bul	1430	STAR	453	
+189	bulgarian-81_stone-1	bulgarian	81_stone	k a m ə k	bulg1262	bul	857	STONE	459	
+190	bulgarian-82_sun-1	bulgarian	82_sun	s l ɤ n ts ɛ	bulg1262	bul	1343	SUN	463	
+191	bulgarian-83_swim-1	bulgarian	83_swim	p l u v ə m	bulg1262	bul	1439	SWIM	467	
+192	bulgarian-84_tail-1	bulgarian	84_tail	o p a ʃ k ə	bulg1262	bul	1220	TAIL	476	
+193	bulgarian-85_that-1	bulgarian	85_that	ɔ n z i	bulg1262	bul	78	THAT	485	
+194	bulgarian-86_this-1	bulgarian	86_this	t ɔ z i	bulg1262	bul	1214	THIS	492	
+195	bulgarian-87_thou-1	bulgarian	87_thou	t i	bulg1262	bul	1215	THOU	495	
+196	bulgarian-88_tongue-1	bulgarian	88_tongue	ɛ z i k	bulg1262	bul	1205	TONGUE	496	
+197	bulgarian-89_tooth-1	bulgarian	89_tooth	z ɤ p	bulg1262	bul	1380	TOOTH	498	
+198	bulgarian-8_black-1	bulgarian	8_black	tʃ ɛ r ɛ n	bulg1262	bul	163	BLACK	66	
+199	bulgarian-90_tree-1	bulgarian	90_tree	d ə r v ɔ	bulg1262	bul	906	TREE	501	
+200	bulgarian-91_two-1	bulgarian	91_two	d v a	bulg1262	bul	1498	TWO	507	
+201	bulgarian-92_walkgo-1	bulgarian	92_walkgo	v ɛ r vʲ ə	bulg1262	bul	1443	WALK	515	
+203	bulgarian-94_water-1	bulgarian	94_water	v o d a	bulg1262	bul	948	WATER	526	
+204	bulgarian-95_we-1	bulgarian	95_we	n i ɛ	bulg1262	bul	1212	WE	529	
+205	bulgarian-96_what-1	bulgarian	96_what	k a k v ɔ	bulg1262	bul	1236	WHAT	531	
+206	bulgarian-97_white-1	bulgarian	97_white	b a l	bulg1262	bul	1335	WHITE	536	
+207	bulgarian-98_who-1	bulgarian	98_who	k o j	bulg1262	bul	1235	WHO	538	
+208	bulgarian-99_woman-1	bulgarian	99_woman	ʒ ɛ n a	bulg1262	bul	962	WOMAN	544	
+209	bulgarian-9_blood-1	bulgarian	9_blood	k r ɤ f	bulg1262	bul	946	BLOOD	68	
+210	czech-100_yellow-1	czech	100_yellow	ʒ l ʊ t iː	czec1258	ces	1424	YELLOW	550	
+211	czech-101_far-1	czech	101_far	d a l ɛ k iː	czec1258	ces	1406	FAR	558	
+212	czech-102_heavy-1	czech	102_heavy	tʲ ɛ ʃ k iː	czec1258	ces	1210	HEAVY	563	
+213	czech-103_near-1	czech	103_near	b l iː s k iː	czec1258	ces	1942	NEAR	570	
+214	czech-104_salt-1	czech	104_salt	s uː l	czec1258	ces	1274	SALT	576	
+215	czech-105_short-1	czech	105_short	k r aː t k iː	czec1258	ces	1645	SHORT	581	
+216	czech-106_snake-1	czech	106_snake	ɦ a t	czec1258	ces	730	SNAKE	591	
+218	czech-109_worm-1	czech	109_worm	tʃ ɛ r f	czec1258	ces	1219	WORM	608	
+219	czech-10_bone-1	czech	10_bone	k o s t	czec1258	ces	1394	BONE	75	
+220	czech-110_year-1	czech	110_year	r o k	czec1258	ces	1226	YEAR	612	
+224	czech-14_cloud-1	czech	14_cloud	o b l a k	czec1258	ces	1489	CLOUD	103	
+227	czech-16_come-1	czech	16_come	p r ɪ j iː t	czec1258	ces	1446	COME	116	
+228	czech-17_die-1	czech	17_die	ʊ m iː r a t	czec1258	ces	1494	DIE	121	
+229	czech-18_dog-1	czech	18_dog	p ɛ s	czec1258	ces	2009	DOG	128	
+230	czech-19_drink-1	czech	19_drink	p iː t	czec1258	ces	1401	DRINK	132	
+231	czech-1_all-1	czech	1_all	f ʃ ɪ x nʲ ɪ	czec1258	ces	98	ALL	3	
+232	czech-20_dry-1	czech	20_dry	s ʊ x iː	czec1258	ces	1398	DRY	138	
+233	czech-21_ear-1	czech	21_ear	ʊ x o	czec1258	ces	1247	EAR	141	
+234	czech-22_earth-1	czech	22_earth	z ɛ mʲ ɛ	czec1258	ces	1228	EARTH (SOIL)	145	
+235	czech-23_eat-1	czech	23_eat	j iː s t	czec1258	ces	1336	EAT	150	
+236	czech-24_egg-1	czech	24_egg	v ɛ j ts ɛ	czec1258	ces	744	EGG	154	
+237	czech-25_eye-1	czech	25_eye	o k o	czec1258	ces	1248	EYE	158	
+240	czech-27_feather-1	czech	27_feather	p ɛː r o	czec1258	ces	1201	FEATHER	174	
+241	czech-28_fire-1	czech	28_fire	o ɦ ɛ nʲ	czec1258	ces	221	FIRE	178	
+242	czech-29_fish-1	czech	29_fish	r ɪ b a	czec1258	ces	227	FISH	184	
+243	czech-2_ashes-1	czech	2_ashes	p o p ɛ l	czec1258	ces	646	ASH	8	
+244	czech-30_flyv-1	czech	30_flyv	l ɛː t a t	czec1258	ces	1441	FLY (MOVE THROUGH AIR)	188	
+245	czech-31_foot-1	czech	31_foot	n o ɦ a	czec1258	ces	1301	FOOT	192	
+247	czech-33_give-1	czech	33_give	d aː t	czec1258	ces	1447	GIVE	198	
+248	czech-34_good-1	czech	34_good	d o b r iː	czec1258	ces	1035	GOOD	204	
+249	czech-35_green-1	czech	35_green	z ɛ l ɛ n iː	czec1258	ces	1425	GREEN	207	
+250	czech-36_hair-1	czech	36_hair	v l a s ɪ	czec1258	ces	1040	HAIR	212	
+251	czech-37_hand-1	czech	37_hand	r ʊ k a	czec1258	ces	1277	HAND	220	
+252	czech-38_head-1	czech	38_head	ɦ l a v a	czec1258	ces	1256	HEAD	228	
+253	czech-39_hear-1	czech	39_hear	s l ɪ ʃ ɛ t	czec1258	ces	1408	HEAR	231	
+254	czech-3_bark-1	czech	3_bark	k uː r a	czec1258	ces	1204	BARK	23	
+255	czech-40_heart-1	czech	40_heart	s r̩ ts ɛ	czec1258	ces	1223	HEART	235	
+257	czech-42_i-1	czech	42_i	j aː	czec1258	ces	1209	I	240	
+258	czech-43_kill-1	czech	43_kill	z a b iː j ɛ t	czec1258	ces	1417	KILL	246	
+260	czech-45_know-1	czech	45_know	z n aː t	czec1258	ces	1410	KNOW (SOMETHING)	257	
+261	czech-45_know-2	czech	45_know	vʲ ɛ dʲ ɛ t	czec1258	ces	1410	KNOW (SOMETHING)	256	
+262	czech-46_leaf-1	czech	46_leaf	l ɪ s t	czec1258	ces	628	LEAF	263	
+263	czech-47_lie-1	czech	47_lie	l ɛ ʒ ɛ t	czec1258	ces	1411	LIE (REST)	269	
+264	czech-48_liver-1	czech	48_liver	j aː t r a	czec1258	ces	1224	LIVER	272	
+265	czech-49_long-1	czech	49_long	d l o w ɦ iː	czec1258	ces	1203	LONG	281	
+266	czech-4_belly-1	czech	4_belly	b r ɪ x o	czec1258	ces	1251	BELLY	35	
+267	czech-50_louse-1	czech	50_louse	v ɛ ʃ	czec1258	ces	1392	LOUSE	284	
+269	czech-52_many-1	czech	52_many	m n o ɦ o	czec1258	ces	1198	MANY	296	
+272	czech-55_mountain-1	czech	55_mountain	ɦ o r a	czec1258	ces	639	MOUNTAIN	324	
+273	czech-55_mountain-2	czech	55_mountain	v r̩ x	czec1258	ces	639	MOUNTAIN	325	
+274	czech-56_mouth-1	czech	56_mouth	uː s t a	czec1258	ces	674	MOUTH	329	
+275	czech-57_name-1	czech	57_name	j m ɛː n o	czec1258	ces	1405	NAME	334	
+276	czech-58_neck-1	czech	58_neck	k r̩ k	czec1258	ces	1333	NECK	335	
+277	czech-59_new-1	czech	59_new	n o v iː	czec1258	ces	1231	NEW	343	
+278	czech-5_big-1	czech	5_big	v ɛ l k iː	czec1258	ces	1202	BIG	41	
+279	czech-60_night-1	czech	60_night	n o ts	czec1258	ces	1233	NIGHT	346	
+280	czech-61_nose-1	czech	61_nose	n o s	czec1258	ces	1221	NOSE	350	
+281	czech-62_not-1	czech	62_not	n ɛ	czec1258	ces	1240	NOT	352	
+282	czech-63_one-1	czech	63_one	j ɛ d ɛ n	czec1258	ces	1493	ONE	354	
+283	czech-64_person-1	czech	64_person	tʃ l o vʲ ɛ k	czec1258	ces	683	PERSON	360	
+285	czech-66_red-1	czech	66_red	tʃ ɛ r v ɛ n iː	czec1258	ces	156	RED	367	
+286	czech-67_road-1	czech	67_road	ts ɛ s t a	czec1258	ces	667	ROAD	383	
+287	czech-68_root-1	czech	68_root	k o r ɛ n	czec1258	ces	670	ROOT	385	
+289	czech-6_bird-1	czech	6_bird	p t aː k	czec1258	ces	937	BIRD	51	
+290	czech-70_sand-1	czech	70_sand	p iː s ɛ k	czec1258	ces	671	SAND	400	
+291	czech-71_say-1	czech	71_say	r iː k a t	czec1258	ces	1458	SAY	412	
+292	czech-72_see-1	czech	72_see	v ɪ dʲ ɛ t	czec1258	ces	1409	SEE	413	
+293	czech-73_seed-1	czech	73_seed	s ɛ m ɛ n o	czec1258	ces	714	SEED	421	
+294	czech-74_sit-1	czech	74_sit	s ɛ dʲ ɛ t	czec1258	ces	1416	SIT	424	
+296	czech-76_sleep-1	czech	76_sleep	s p aː t	czec1258	ces	1585	SLEEP	435	
+297	czech-77_small-1	czech	77_small	m a l iː	czec1258	ces	1246	SMALL	441	
+298	czech-78_smoke-1	czech	78_smoke	d iː m	czec1258	ces	778	SMOKE (EXHAUST)	446	
+299	czech-79_stand-1	czech	79_stand	s t aː t	czec1258	ces	1442	STAND	451	
+300	czech-7_bite-1	czech	7_bite	k o w s a t	czec1258	ces	1403	BITE	57	
+301	czech-80_star-1	czech	80_star	ɦ vʲ ɛ z d a	czec1258	ces	1430	STAR	453	
+302	czech-81_stone-1	czech	81_stone	k aː m ɛ n	czec1258	ces	857	STONE	459	
+303	czech-82_sun-1	czech	82_sun	s l ʊ n ts ɛ	czec1258	ces	1343	SUN	463	
+304	czech-83_swim-1	czech	83_swim	p l a v a t	czec1258	ces	1439	SWIM	467	
+305	czech-84_tail-1	czech	84_tail	o ts a s	czec1258	ces	1220	TAIL	481	
+306	czech-85_that-1	czech	85_that	t a m t o	czec1258	ces	78	THAT	487	
+307	czech-86_this-1	czech	86_this	t o t o	czec1258	ces	1214	THIS	492	
+308	czech-87_thou-1	czech	87_thou	t ɪ	czec1258	ces	1215	THOU	495	
+309	czech-88_tongue-1	czech	88_tongue	j a z ɪ k	czec1258	ces	1205	TONGUE	496	
+310	czech-89_tooth-1	czech	89_tooth	z ʊ p	czec1258	ces	1380	TOOTH	498	
+311	czech-8_black-1	czech	8_black	tʃ ɛ r n iː	czec1258	ces	163	BLACK	66	
+312	czech-90_tree-1	czech	90_tree	s t r o m	czec1258	ces	906	TREE	504	
+313	czech-91_two-1	czech	91_two	d v a	czec1258	ces	1498	TWO	507	
+314	czech-92_walkgo-1	czech	92_walkgo	j iː t	czec1258	ces	1443	WALK	514	
+316	czech-94_water-1	czech	94_water	v o d a	czec1258	ces	948	WATER	526	
+317	czech-95_we-1	czech	95_we	m ɪ	czec1258	ces	1212	WE	528	
+318	czech-96_what-1	czech	96_what	ts o	czec1258	ces	1236	WHAT	531	
+319	czech-97_white-1	czech	97_white	b iː l iː	czec1258	ces	1335	WHITE	536	
+320	czech-98_who-1	czech	98_who	ɡ d o	czec1258	ces	1235	WHO	538	
+321	czech-99_woman-1	czech	99_woman	ʒ ɛ n a	czec1258	ces	962	WOMAN	544	
+322	czech-9_blood-1	czech	9_blood	k r ɛ f	czec1258	ces	946	BLOOD	68	
+323	danish-100_yellow-1	danish	100_yellow	g uˀ/u l	dani1285	dan	1424	YELLOW	550	
+324	danish-101_far-1	danish	101_far	f j æ ʁˀ n	dani1285	dan	1406	FAR	559	
+325	danish-101_far-2	danish	101_far	l ɑ ŋˀ	dani1285	dan	1406	FAR	558	
+326	danish-102_heavy-1	danish	102_heavy	t ɔ ŋˀ	dani1285	dan	1210	HEAVY	563	
+327	danish-102_heavy-2	danish	102_heavy	s v ɛˀ ʁ	dani1285	dan	1210	HEAVY	564	
+328	danish-103_near-1	danish	103_near	n ɛˀ ʁ	dani1285	dan	1942	NEAR	574	
+329	danish-104_salt-1	danish	104_salt	s a lˀ d	dani1285	dan	1274	SALT	576	
+330	danish-105_short-1	danish	105_short	k ɒː d	dani1285	dan	1645	SHORT	-581	
+331	danish-106_snake-1	danish	106_snake	s l ɑ ŋ ə	dani1285	dan	730	SNAKE	585	
+334	danish-108_wind-1	danish	108_wind	v e nˀ	dani1285	dan	960	WIND	602	
+335	danish-109_worm-1	danish	109_worm	o ʁˀ m	dani1285	dan	1219	WORM	607	
+336	danish-10_bone-1	danish	10_bone	b eˀ n	dani1285	dan	1394	BONE	76	
+337	danish-110_year-1	danish	110_year	ɒˀ ʁ	dani1285	dan	1226	YEAR	614	
+341	danish-14_cloud-1	danish	14_cloud	s g yˀ	dani1285	dan	1489	CLOUD	96	
+343	danish-16_come-1	danish	16_come	k ʌ m ə	dani1285	dan	1446	COME	115	
+344	danish-17_die-1	danish	17_die	d øˀ/ø	dani1285	dan	1494	DIE	119	
+345	danish-18_dog-1	danish	18_dog	h u nˀ	dani1285	dan	2009	DOG	123	
+346	danish-19_drink-1	danish	19_drink	d ʁ ɛ g ə	dani1285	dan	1401	DRINK	133	
+347	danish-1_all-1	danish	1_all	æˀ/æ l	dani1285	dan	98	ALL	5	
+348	danish-20_dry-1	danish	20_dry	t ɶˀ ʁ	dani1285	dan	1398	DRY	135	
+349	danish-21_ear-1	danish	21_ear	øː ʌ	dani1285	dan	1247	EAR	141	
+350	danish-22_earth-1	danish	22_earth	j oˀ ʁ	dani1285	dan	1228	EARTH (SOIL)	146	
+351	danish-23_eat-1	danish	23_eat	s b iː s ə	dani1285	dan	1336	EAT	-149	
+352	danish-24_egg-1	danish	24_egg	ɛˀ g	dani1285	dan	744	EGG	154	
+353	danish-25_eye-1	danish	25_eye	ʌ j ə	dani1285	dan	1248	EYE	158	
+355	danish-27_feather-1	danish	27_feather	f j e ðˀ ʌ	dani1285	dan	1201	FEATHER	170	
+356	danish-28_fire-1	danish	28_fire	i lˀ	dani1285	dan	221	FIRE	176	
+357	danish-29_fish-1	danish	29_fish	f e s g	dani1285	dan	227	FISH	182	
+358	danish-2_ashes-1	danish	2_ashes	a s g	dani1285	dan	646	ASH	10	
+359	danish-30_flyv-1	danish	30_flyv	f l yː v ə	dani1285	dan	1441	FLY (MOVE THROUGH AIR)	190	
+360	danish-31_foot-1	danish	31_foot	f oˀ ð	dani1285	dan	1301	FOOT	194	
+362	danish-33_give-1	danish	33_give	g iˀ	dani1285	dan	1447	GIVE	197	
+363	danish-34_good-1	danish	34_good	g oˀ	dani1285	dan	1035	GOOD	205	
+364	danish-35_green-1	danish	35_green	g ʁ ɶ nˀ	dani1285	dan	1425	GREEN	209	
+365	danish-36_hair-1	danish	36_hair	h ɒˀ	dani1285	dan	1040	HAIR	217	
+366	danish-37_hand-1	danish	37_hand	h ʌ nˀ	dani1285	dan	1277	HAND	218	
+367	danish-38_head-1	danish	38_head	h oː ə ð	dani1285	dan	1256	HEAD	223	
+368	danish-39_hear-1	danish	39_hear	h øː ʌ	dani1285	dan	1408	HEAR	230	
+369	danish-3_bark-1	danish	3_bark	b ɑː g	dani1285	dan	1204	BARK	15	
+370	danish-40_heart-1	danish	40_heart	j æ ʁ d ə	dani1285	dan	1223	HEART	235	
+372	danish-42_i-1	danish	42_i	j ɑ j	dani1285	dan	1209	I	240	
+373	danish-43_kill-1	danish	43_kill	d ʁ ɛː b ə	dani1285	dan	1417	KILL	248	
+375	danish-45_know-1	danish	45_know	v iː ð ə	dani1285	dan	1410	KNOW (SOMETHING)	256	
+376	danish-45_know-2	danish	45_know	k ɛ n ə	dani1285	dan	1410	KNOW (SOMETHING)	257	
+377	danish-46_leaf-1	danish	46_leaf	b l a ð	dani1285	dan	628	LEAF	262	
+378	danish-47_lie-1	danish	47_lie	l e g ə	dani1285	dan	1411	LIE (REST)	269	
+379	danish-48_liver-1	danish	48_liver	l e wˀ ʌ	dani1285	dan	1224	LIVER	273	
+380	danish-49_long-1	danish	49_long	l ɑ ŋˀ	dani1285	dan	1203	LONG	281	
+381	danish-4_belly-1	danish	4_belly	ɔ n ʌ l i wˀ	dani1285	dan	1251	BELLY	34	
+382	danish-4_belly-2	danish	4_belly	m æː v ə	dani1285	dan	1251	BELLY	32	
+383	danish-50_louse-1	danish	50_louse	l uˀ/u s	dani1285	dan	1392	LOUSE	286	
+385	danish-52_many-1	danish	52_many	m ɑ ŋ ə n	dani1285	dan	1198	MANY	296	
+388	danish-55_mountain-1	danish	55_mountain	b j æ ʁˀ w	dani1285	dan	639	MOUNTAIN	317	
+389	danish-55_mountain-2	danish	55_mountain	f j ɛ lˀ	dani1285	dan	639	MOUNTAIN	318	
+390	danish-56_mouth-1	danish	56_mouth	m ɔ nˀ	dani1285	dan	674	MOUTH	328	
+391	danish-57_name-1	danish	57_name	n ɑ wˀ n	dani1285	dan	1405	NAME	334	
+392	danish-58_neck-1	danish	58_neck	h a lˀ s	dani1285	dan	1333	NECK	339	
+393	danish-59_new-1	danish	59_new	n yˀ	dani1285	dan	1231	NEW	343	
+394	danish-5_big-1	danish	5_big	s d oˀ ʁ	dani1285	dan	1202	BIG	43	
+395	danish-60_night-1	danish	60_night	n a d	dani1285	dan	1233	NIGHT	346	
+396	danish-61_nose-1	danish	61_nose	n ɛː s ə	dani1285	dan	1221	NOSE	350	
+397	danish-62_not-1	danish	62_not	e g ə	dani1285	dan	1240	NOT	353	
+398	danish-63_one-1	danish	63_one	eˀ n	dani1285	dan	1493	ONE	354	
+399	danish-64_person-1	danish	64_person	m ɛ n ə s g ə	dani1285	dan	683	PERSON	361	
+401	danish-66_red-1	danish	66_red	ʁ œ ðˀ	dani1285	dan	156	RED	368	
+402	danish-67_road-1	danish	67_road	v ɑ jˀ	dani1285	dan	667	ROAD	376	
+403	danish-68_root-1	danish	68_root	ʁ oˀ ð	dani1285	dan	670	ROOT	386	
+405	danish-6_bird-1	danish	6_bird	f uˀ/u l	dani1285	dan	937	BIRD	51	
+406	danish-70_sand-1	danish	70_sand	s a nˀ	dani1285	dan	671	SAND	398	
+407	danish-71_say-1	danish	71_say	s iː	dani1285	dan	1458	SAY	405	
+408	danish-72_see-1	danish	72_see	s eˀ	dani1285	dan	1409	SEE	414	
+409	danish-73_seed-1	danish	73_seed	f ʁ œˀ/œ	dani1285	dan	714	SEED	420	
+410	danish-74_sit-1	danish	74_sit	s e ð ə	dani1285	dan	1416	SIT	424	
+412	danish-76_sleep-1	danish	76_sleep	s ɒ w ə	dani1285	dan	1585	SLEEP	435	
+413	danish-77_small-1	danish	77_small	l i l ə	dani1285	dan	1246	SMALL	439	
+414	danish-77_small-2	danish	77_small	l iː ð ə n	dani1285	dan	1246	SMALL	439	
+415	danish-78_smoke-1	danish	78_smoke	ʁ ʌ jˀ	dani1285	dan	778	SMOKE (EXHAUST)	449	
+416	danish-79_stand-1	danish	79_stand	s d ɔˀ	dani1285	dan	1442	STAND	451	
+417	danish-7_bite-1	danish	7_bite	b iː ð ə	dani1285	dan	1403	BITE	54	
+418	danish-80_star-1	danish	80_star	s d j æ ʁ n ə	dani1285	dan	1430	STAR	454	
+419	danish-81_stone-1	danish	81_stone	s d eˀ n	dani1285	dan	857	STONE	458	
+420	danish-82_sun-1	danish	82_sun	s oˀ l	dani1285	dan	1343	SUN	463	
+421	danish-83_swim-1	danish	83_swim	s v œ m ə	dani1285	dan	1439	SWIM	465	
+422	danish-84_tail-1	danish	84_tail	h æː l ə	dani1285	dan	1220	TAIL	482	
+423	danish-85_that-1	danish	85_that	d e	dani1285	dan	78	THAT	487	
+424	danish-85_that-2	danish	85_that	h iˀ n	dani1285	dan	78	THAT	486	
+425	danish-86_this-1	danish	86_this	d ɛ n ə	dani1285	dan	1214	THIS	492	
+426	danish-86_this-2	danish	86_this	d ɛ n ə	dani1285	dan	1214	THIS	492	
+427	danish-87_thou-1	danish	87_thou	d uˀ/u	dani1285	dan	1215	THOU	495	
+428	danish-88_tongue-1	danish	88_tongue	t ɔ ŋ ə	dani1285	dan	1205	TONGUE	496	
+429	danish-89_tooth-1	danish	89_tooth	t a nˀ	dani1285	dan	1380	TOOTH	499	
+430	danish-8_black-1	danish	8_black	s ɒː d	dani1285	dan	163	BLACK	60	
+431	danish-90_tree-1	danish	90_tree	t ʁ ɛˀ	dani1285	dan	906	TREE	501	
+432	danish-91_two-1	danish	91_two	t oˀ	dani1285	dan	1498	TWO	507	
+433	danish-92_walkgo-1	danish	92_walkgo	g ɔˀ	dani1285	dan	1443	WALK	509	
+435	danish-94_water-1	danish	94_water	v a nˀ	dani1285	dan	948	WATER	526	
+436	danish-95_we-1	danish	95_we	v iˀ	dani1285	dan	1212	WE	530	
+437	danish-96_what-1	danish	96_what	v a	dani1285	dan	1236	WHAT	531	
+438	danish-97_white-1	danish	97_white	v i ðˀ	dani1285	dan	1335	WHITE	532	
+439	danish-98_who-1	danish	98_who	v ɛ mˀ	dani1285	dan	1235	WHO	538	
+440	danish-99_woman-1	danish	99_woman	k v e n ə	dani1285	dan	962	WOMAN	544	
+441	danish-9_blood-1	danish	9_blood	b l oˀ ð	dani1285	dan	946	BLOOD	71	
+442	dutch-100_yellow-1	dutch	100_yellow	x eː l	dutc1256	nld	1424	YELLOW	550	
+443	dutch-101_far-1	dutch	101_far	v ɛ r	dutc1256	nld	1406	FAR	559	
+444	dutch-102_heavy-1	dutch	102_heavy	z ʋ aː r	dutc1256	nld	1210	HEAVY	564	
+445	dutch-103_near-1	dutch	103_near	n aː b ɛɪ	dutc1256	nld	1942	NEAR	574	
+446	dutch-103_near-2	dutch	103_near	d ɪ ɣ d b ɛɪ	dutc1256	nld	1942	NEAR	569	
+447	dutch-104_salt-1	dutch	104_salt	z ɑu t	dutc1256	nld	1274	SALT	576	
+448	dutch-105_short-1	dutch	105_short	k ɔ r t	dutc1256	nld	1645	SHORT	-581	
+449	dutch-106_snake-1	dutch	106_snake	s l ɑ ŋ	dutc1256	nld	730	SNAKE	585	
+452	dutch-108_wind-1	dutch	108_wind	ʋ ɪ n t	dutc1256	nld	960	WIND	602	
+453	dutch-109_worm-1	dutch	109_worm	ʋ ɔ r m	dutc1256	nld	1219	WORM	607	
+454	dutch-109_worm-2	dutch	109_worm	m aː d ə	dutc1256	nld	1219	WORM	606	
+455	dutch-10_bone-1	dutch	10_bone	b eː n	dutc1256	nld	1394	BONE	76	
+456	dutch-110_year-1	dutch	110_year	j aː r	dutc1256	nld	1226	YEAR	614	
+460	dutch-14_cloud-1	dutch	14_cloud	ʋ ɔ l k	dutc1256	nld	1489	CLOUD	102	
+462	dutch-16_come-1	dutch	16_come	aː ŋ k oː m ə	dutc1256	nld	1446	COME	115	
+463	dutch-17_die-1	dutch	17_die	s t ɛ r v ə	dutc1256	nld	1494	DIE	118	
+464	dutch-18_dog-1	dutch	18_dog	h ɔ n t	dutc1256	nld	2009	DOG	123	
+465	dutch-19_drink-1	dutch	19_drink	d r ɪ ŋ k ə	dutc1256	nld	1401	DRINK	133	
+466	dutch-1_all-1	dutch	1_all	ɑ l ə	dutc1256	nld	98	ALL	5	
+467	dutch-20_dry-1	dutch	20_dry	d r oː x	dutc1256	nld	1398	DRY	134	
+468	dutch-21_ear-1	dutch	21_ear	oː r	dutc1256	nld	1247	EAR	141	
+469	dutch-22_earth-1	dutch	22_earth	aː r d ə	dutc1256	nld	1228	EARTH (SOIL)	146	
+470	dutch-23_eat-1	dutch	23_eat	eː t ə	dutc1256	nld	1336	EAT	150	
+471	dutch-24_egg-1	dutch	24_egg	ɛɪ	dutc1256	nld	744	EGG	154	
+472	dutch-25_eye-1	dutch	25_eye	oː x	dutc1256	nld	1248	EYE	158	
+474	dutch-27_feather-1	dutch	27_feather	v eː r	dutc1256	nld	1201	FEATHER	170	
+475	dutch-28_fire-1	dutch	28_fire	v yː r	dutc1256	nld	221	FIRE	181	
+476	dutch-29_fish-1	dutch	29_fish	v ɪ s	dutc1256	nld	227	FISH	182	
+477	dutch-2_ashes-1	dutch	2_ashes	ɑ s	dutc1256	nld	646	ASH	10	
+478	dutch-30_flyv-1	dutch	30_flyv	v l iː ɣ ə	dutc1256	nld	1441	FLY (MOVE THROUGH AIR)	190	
+479	dutch-31_foot-1	dutch	31_foot	v uː t	dutc1256	nld	1301	FOOT	194	
+481	dutch-33_give-1	dutch	33_give	x eː v ə	dutc1256	nld	1447	GIVE	197	
+482	dutch-34_good-1	dutch	34_good	x uː t	dutc1256	nld	1035	GOOD	205	
+483	dutch-35_green-1	dutch	35_green	x r uː n	dutc1256	nld	1425	GREEN	209	
+484	dutch-36_hair-1	dutch	36_hair	h aː r	dutc1256	nld	1040	HAIR	217	
+485	dutch-37_hand-1	dutch	37_hand	h ɑ n t	dutc1256	nld	1277	HAND	218	
+486	dutch-38_head-1	dutch	38_head	h oː f t	dutc1256	nld	1256	HEAD	223	
+487	dutch-39_hear-1	dutch	39_hear	h oː r ə	dutc1256	nld	1408	HEAR	230	
+488	dutch-3_bark-1	dutch	3_bark	b ɑ s t	dutc1256	nld	1204	BARK	19	
+489	dutch-40_heart-1	dutch	40_heart	h ɑ r t	dutc1256	nld	1223	HEART	235	
+491	dutch-42_i-1	dutch	42_i	ɪ k	dutc1256	nld	1209	I	240	
+492	dutch-43_kill-1	dutch	43_kill	d oː d ə	dutc1256	nld	1417	KILL	242	
+494	dutch-45_know-1	dutch	45_know	ʋ eː t ə	dutc1256	nld	1410	KNOW (SOMETHING)	256	
+495	dutch-45_know-2	dutch	45_know	k ɛ n ə	dutc1256	nld	1410	KNOW (SOMETHING)	257	
+496	dutch-46_leaf-1	dutch	46_leaf	b l ɑ t	dutc1256	nld	628	LEAF	262	
+497	dutch-47_lie-1	dutch	47_lie	l ɪ ɣ ə	dutc1256	nld	1411	LIE (REST)	269	
+498	dutch-48_liver-1	dutch	48_liver	l eː v ə r	dutc1256	nld	1224	LIVER	273	
+499	dutch-49_long-1	dutch	49_long	l ɑ ŋ	dutc1256	nld	1203	LONG	281	
+500	dutch-4_belly-1	dutch	4_belly	b œy k	dutc1256	nld	1251	BELLY	27	
+501	dutch-50_louse-1	dutch	50_louse	l œy s	dutc1256	nld	1392	LOUSE	286	
+503	dutch-52_many-1	dutch	52_many	v eː l	dutc1256	nld	1198	MANY	302	
+506	dutch-55_mountain-1	dutch	55_mountain	b ɛ r x	dutc1256	nld	639	MOUNTAIN	317	
+507	dutch-56_mouth-1	dutch	56_mouth	m ɔ n t	dutc1256	nld	674	MOUTH	328	
+508	dutch-57_name-1	dutch	57_name	n aː m	dutc1256	nld	1405	NAME	334	
+509	dutch-58_neck-1	dutch	58_neck	h ɑ l s	dutc1256	nld	1333	NECK	339	
+510	dutch-58_neck-2	dutch	58_neck	n ɛ k	dutc1256	nld	1333	NECK	342	
+511	dutch-59_new-1	dutch	59_new	n iː ʋ	dutc1256	nld	1231	NEW	343	
+512	dutch-5_big-1	dutch	5_big	x r oː t	dutc1256	nld	1202	BIG	46	
+513	dutch-60_night-1	dutch	60_night	n ɑ x t	dutc1256	nld	1233	NIGHT	346	
+514	dutch-61_nose-1	dutch	61_nose	n œː s	dutc1256	nld	1221	NOSE	350	
+515	dutch-62_not-1	dutch	62_not	n iː t	dutc1256	nld	1240	NOT	352	
+516	dutch-63_one-1	dutch	63_one	eː n	dutc1256	nld	1493	ONE	354	
+517	dutch-64_person-1	dutch	64_person	m ɛ n s	dutc1256	nld	683	PERSON	361	
+519	dutch-66_red-1	dutch	66_red	r oː t	dutc1256	nld	156	RED	368	
+520	dutch-67_road-1	dutch	67_road	ʋ ɛ x	dutc1256	nld	667	ROAD	376	
+521	dutch-68_root-1	dutch	68_root	ʋ ɔ r t ə l	dutc1256	nld	670	ROOT	386	
+523	dutch-6_bird-1	dutch	6_bird	v oː ɣ ə l	dutc1256	nld	937	BIRD	51	
+524	dutch-70_sand-1	dutch	70_sand	z ɑ n t	dutc1256	nld	671	SAND	398	
+525	dutch-71_say-1	dutch	71_say	z ɛ ɣ ə	dutc1256	nld	1458	SAY	405	
+526	dutch-72_see-1	dutch	72_see	z iː n	dutc1256	nld	1409	SEE	414	
+527	dutch-73_seed-1	dutch	73_seed	z aː t	dutc1256	nld	714	SEED	421	
+528	dutch-74_sit-1	dutch	74_sit	z ɪ t ə	dutc1256	nld	1416	SIT	424	
+531	dutch-76_sleep-1	dutch	76_sleep	s l aː p ə	dutc1256	nld	1585	SLEEP	436	
+532	dutch-77_small-1	dutch	77_small	k l ɛɪ n	dutc1256	nld	1246	SMALL	445	
+533	dutch-78_smoke-1	dutch	78_smoke	r oː k	dutc1256	nld	778	SMOKE (EXHAUST)	449	
+534	dutch-79_stand-1	dutch	79_stand	s t aː n	dutc1256	nld	1442	STAND	451	
+535	dutch-7_bite-1	dutch	7_bite	b ɛɪ t ə	dutc1256	nld	1403	BITE	54	
+536	dutch-80_star-1	dutch	80_star	s t ɛ r	dutc1256	nld	1430	STAR	454	
+537	dutch-81_stone-1	dutch	81_stone	s t eː n	dutc1256	nld	857	STONE	458	
+538	dutch-82_sun-1	dutch	82_sun	z ɔ n	dutc1256	nld	1343	SUN	463	
+539	dutch-83_swim-1	dutch	83_swim	z ʋ ɛ m ə	dutc1256	nld	1439	SWIM	465	
+540	dutch-84_tail-1	dutch	84_tail	s t aː r t	dutc1256	nld	1220	TAIL	473	
+541	dutch-85_that-1	dutch	85_that	d iː	dutc1256	nld	78	THAT	487	
+542	dutch-86_this-1	dutch	86_this	d eː z ə	dutc1256	nld	1214	THIS	492	
+543	dutch-87_thou-1	dutch	87_thou	j ɛɪ	dutc1256	nld	1215	THOU	494	
+544	dutch-88_tongue-1	dutch	88_tongue	t ɔ ŋ	dutc1256	nld	1205	TONGUE	496	
+545	dutch-89_tooth-1	dutch	89_tooth	t ɑ n t	dutc1256	nld	1380	TOOTH	499	
+546	dutch-8_black-1	dutch	8_black	z ʋ ɑ r t	dutc1256	nld	163	BLACK	60	
+547	dutch-90_tree-1	dutch	90_tree	b oː m	dutc1256	nld	906	TREE	502	
+548	dutch-91_two-1	dutch	91_two	t ʋ eː	dutc1256	nld	1498	TWO	507	
+549	dutch-92_walkgo-1	dutch	92_walkgo	x aː n	dutc1256	nld	1443	WALK	509	
+551	dutch-94_water-1	dutch	94_water	ʋ aː t ə r	dutc1256	nld	948	WATER	526	
+552	dutch-95_we-1	dutch	95_we	ʋ ɛɪ	dutc1256	nld	1212	WE	530	
+553	dutch-96_what-1	dutch	96_what	ʋ ɑ t	dutc1256	nld	1236	WHAT	531	
+554	dutch-97_white-1	dutch	97_white	ʋ ɪ t	dutc1256	nld	1335	WHITE	532	
+555	dutch-98_who-1	dutch	98_who	ʋ iː	dutc1256	nld	1235	WHO	538	
+556	dutch-99_woman-1	dutch	99_woman	v r ɑu ʋ	dutc1256	nld	962	WOMAN	541	
+557	dutch-9_blood-1	dutch	9_blood	b l uː t	dutc1256	nld	946	BLOOD	71	
+558	english-100_yellow-1	english	100_yellow	j ɛ l əʊ	stan1293	eng	1424	YELLOW	550	
+559	english-101_far-1	english	101_far	f ɑː r	stan1293	eng	1406	FAR	559	
+560	english-102_heavy-1	english	102_heavy	h ɛ v ɪ	stan1293	eng	1210	HEAVY	562	
+561	english-103_near-1	english	103_near	n ɪ ə r	stan1293	eng	1942	NEAR	574	
+562	english-103_near-2	english	103_near	k l əʊ s	stan1293	eng	1942	NEAR	-571	
+563	english-104_salt-1	english	104_salt	s ɔː l t	stan1293	eng	1274	SALT	576	
+564	english-105_short-1	english	105_short	ʃ ɔː r t	stan1293	eng	1645	SHORT	581	
+565	english-106_snake-1	english	106_snake	s n eɪ k	stan1293	eng	730	SNAKE	588	
+567	english-108_wind-1	english	108_wind	ʋ ɪ n d	stan1293	eng	960	WIND	602	
+568	english-109_worm-1	english	109_worm	ʋ ɜː r m	stan1293	eng	1219	WORM	607	
+569	english-10_bone-1	english	10_bone	b əʊ n	stan1293	eng	1394	BONE	76	
+570	english-110_year-1	english	110_year	j ɪ ə r	stan1293	eng	1226	YEAR	614	
+574	english-14_cloud-1	english	14_cloud	k l aʊ d	stan1293	eng	1489	CLOUD	101	
+576	english-16_come-1	english	16_come	k ʌ m	stan1293	eng	1446	COME	115	
+577	english-17_die-1	english	17_die	d aɪ	stan1293	eng	1494	DIE	-119	
+578	english-18_dog-1	english	18_dog	d ɔ ɡ	stan1293	eng	2009	DOG	129	
+579	english-19_drink-1	english	19_drink	d r ɪ ŋ k	stan1293	eng	1401	DRINK	133	
+580	english-1_all-1	english	1_all	ɔː l	stan1293	eng	98	ALL	5	
+581	english-20_dry-1	english	20_dry	d r aɪ	stan1293	eng	1398	DRY	134	
+582	english-21_ear-1	english	21_ear	ɪ ə r	stan1293	eng	1247	EAR	141	
+583	english-22_earth-1	english	22_earth	ɜː r θ	stan1293	eng	1228	EARTH (SOIL)	146	
+584	english-23_eat-1	english	23_eat	iː t	stan1293	eng	1336	EAT	150	
+585	english-24_egg-1	english	24_egg	ɛ ɡ	stan1293	eng	744	EGG	154	
+586	english-25_eye-1	english	25_eye	aɪ	stan1293	eng	1248	EYE	158	
+588	english-27_feather-1	english	27_feather	f ɛ ð ə r	stan1293	eng	1201	FEATHER	170	
+589	english-28_fire-1	english	28_fire	f aɪ ə r	stan1293	eng	221	FIRE	181	
+590	english-29_fish-1	english	29_fish	f ɪ ʃ	stan1293	eng	227	FISH	182	
+591	english-2_ashes-1	english	2_ashes	æ ʃ	stan1293	eng	646	ASH	10	
+592	english-30_flyv-1	english	30_flyv	f l aɪ	stan1293	eng	1441	FLY (MOVE THROUGH AIR)	190	
+593	english-31_foot-1	english	31_foot	f ʊ t	stan1293	eng	1301	FOOT	194	
+595	english-33_give-1	english	33_give	ɡ ɪ v	stan1293	eng	1447	GIVE	197	
+596	english-34_good-1	english	34_good	ɡ ʊ d	stan1293	eng	1035	GOOD	205	
+597	english-35_green-1	english	35_green	ɡ r iː n	stan1293	eng	1425	GREEN	209	
+598	english-36_hair-1	english	36_hair	h ɛ ə r	stan1293	eng	1040	HAIR	217	
+599	english-37_hand-1	english	37_hand	h æ n d	stan1293	eng	1277	HAND	218	
+600	english-38_head-1	english	38_head	h ɛ d	stan1293	eng	1256	HEAD	223	
+601	english-39_hear-1	english	39_hear	h ɪ ə r	stan1293	eng	1408	HEAR	230	
+602	english-3_bark-1	english	3_bark	b ɑː r k	stan1293	eng	1204	BARK	-15	
+603	english-40_heart-1	english	40_heart	h ɑː r t	stan1293	eng	1223	HEART	235	
+605	english-42_i-1	english	42_i	aɪ	stan1293	eng	1209	I	240	
+606	english-43_kill-1	english	43_kill	k ɪ l	stan1293	eng	1417	KILL	245	
+608	english-45_know-1	english	45_know	n əʊ	stan1293	eng	1410	KNOW (SOMETHING)	257	
+609	english-46_leaf-1	english	46_leaf	l iː f	stan1293	eng	628	LEAF	264	
+610	english-47_lie-1	english	47_lie	l aɪ	stan1293	eng	1411	LIE (REST)	269	
+611	english-48_liver-1	english	48_liver	l ɪ v ə r	stan1293	eng	1224	LIVER	273	
+612	english-49_long-1	english	49_long	l ɔ ŋ	stan1293	eng	1203	LONG	281	
+613	english-4_belly-1	english	4_belly	b ɛ l ɪ	stan1293	eng	1251	BELLY	28	
+614	english-50_louse-1	english	50_louse	l aʊ s	stan1293	eng	1392	LOUSE	286	
+616	english-52_many-1	english	52_many	m ɛ n ɪ	stan1293	eng	1198	MANY	296	
+617	english-52_many-2	english	52_many	m ʌ tʃ	stan1293	eng	1198	MANY	295	
+620	english-55_mountain-1	english	55_mountain	m aʊ n t ɪ n	stan1293	eng	639	MOUNTAIN	-319	
+621	english-56_mouth-1	english	56_mouth	m aʊ ð	stan1293	eng	674	MOUTH	328	
+622	english-57_name-1	english	57_name	n eɪ m	stan1293	eng	1405	NAME	334	
+623	english-58_neck-1	english	58_neck	n ɛ k	stan1293	eng	1333	NECK	342	
+624	english-59_new-1	english	59_new	n j uː	stan1293	eng	1231	NEW	343	
+625	english-5_big-1	english	5_big	b ɪ ɡ	stan1293	eng	1202	BIG	40	
+626	english-5_big-2	english	5_big	ɡ r eɪ t	stan1293	eng	1202	BIG	46	
+627	english-60_night-1	english	60_night	n aɪ t	stan1293	eng	1233	NIGHT	346	
+628	english-61_nose-1	english	61_nose	n əʊ z	stan1293	eng	1221	NOSE	350	
+629	english-62_not-1	english	62_not	n ɔ t	stan1293	eng	1240	NOT	352	
+630	english-63_one-1	english	63_one	ʋ ʌ n	stan1293	eng	1493	ONE	354	
+631	english-64_person-1	english	64_person	m æ n	stan1293	eng	683	PERSON	361	
+633	english-66_red-1	english	66_red	r ɛ d	stan1293	eng	156	RED	368	
+634	english-67_road-1	english	67_road	r əʊ d	stan1293	eng	667	ROAD	381	
+635	english-67_road-2	english	67_road	ʋ eɪ	stan1293	eng	667	ROAD	376	
+636	english-68_root-1	english	68_root	r uː t	stan1293	eng	670	ROOT	386	
+638	english-6_bird-1	english	6_bird	b ɜː r d	stan1293	eng	937	BIRD	53	
+639	english-70_sand-1	english	70_sand	s æ n d	stan1293	eng	671	SAND	398	
+640	english-71_say-1	english	71_say	s eɪ	stan1293	eng	1458	SAY	405	
+641	english-72_see-1	english	72_see	s iː	stan1293	eng	1409	SEE	414	
+642	english-73_seed-1	english	73_seed	s iː d	stan1293	eng	714	SEED	421	
+643	english-74_sit-1	english	74_sit	s ɪ t	stan1293	eng	1416	SIT	424	
+645	english-76_sleep-1	english	76_sleep	s l iː p	stan1293	eng	1585	SLEEP	436	
+646	english-77_small-1	english	77_small	s m ɔː l	stan1293	eng	1246	SMALL	441	
+647	english-77_small-2	english	77_small	l ɪ t l̩	stan1293	eng	1246	SMALL	439	
+648	english-78_smoke-1	english	78_smoke	s m əʊ k	stan1293	eng	778	SMOKE (EXHAUST)	448	
+649	english-79_stand-1	english	79_stand	s t æ n d	stan1293	eng	1442	STAND	451	
+650	english-7_bite-1	english	7_bite	b aɪ t	stan1293	eng	1403	BITE	54	
+651	english-80_star-1	english	80_star	s t ɑː r	stan1293	eng	1430	STAR	454	
+652	english-81_stone-1	english	81_stone	s t əʊ n	stan1293	eng	857	STONE	458	
+653	english-82_sun-1	english	82_sun	s ʌ n	stan1293	eng	1343	SUN	463	
+654	english-83_swim-1	english	83_swim	s ʋ ɪ m	stan1293	eng	1439	SWIM	465	
+655	english-84_tail-1	english	84_tail	t eɪ l	stan1293	eng	1220	TAIL	484	
+656	english-85_that-1	english	85_that	ð æ t	stan1293	eng	78	THAT	487	
+657	english-86_this-1	english	86_this	ð ɪ s	stan1293	eng	1214	THIS	492	
+658	english-87_thou-1	english	87_thou	j uː	stan1293	eng	1215	THOU	494	
+659	english-88_tongue-1	english	88_tongue	t ʌ ŋ	stan1293	eng	1205	TONGUE	496	
+660	english-89_tooth-1	english	89_tooth	t uː θ	stan1293	eng	1380	TOOTH	499	
+661	english-8_black-1	english	8_black	b l æ k	stan1293	eng	163	BLACK	61	
+662	english-90_tree-1	english	90_tree	t r iː	stan1293	eng	906	TREE	501	
+663	english-91_two-1	english	91_two	t uː	stan1293	eng	1498	TWO	507	
+664	english-92_walkgo-1	english	92_walkgo	ɡ əʊ	stan1293	eng	1443	WALK	509	
+666	english-94_water-1	english	94_water	ʋ ɔː t ə r	stan1293	eng	948	WATER	526	
+667	english-95_we-1	english	95_we	ʋ iː	stan1293	eng	1212	WE	530	
+668	english-96_what-1	english	96_what	ʋ ɔ t	stan1293	eng	1236	WHAT	531	
+669	english-97_white-1	english	97_white	ʋ aɪ t	stan1293	eng	1335	WHITE	532	
+670	english-98_who-1	english	98_who	h uː	stan1293	eng	1235	WHO	538	
+671	english-99_woman-1	english	99_woman	ʋ ʊ m ə n	stan1293	eng	962	WOMAN	543	
+672	english-9_blood-1	english	9_blood	b l ʌ d	stan1293	eng	946	BLOOD	71	
+673	french-100_yellow-1	french	100_yellow	ʒ o n	stan1290	fra	1424	YELLOW	551	
+674	french-101_far-1	french	101_far	l w ɛ̃	stan1290	fra	1406	FAR	558	
+675	french-102_heavy-1	french	102_heavy	l u ʁ	stan1290	fra	1210	HEAVY	561	
+676	french-103_near-1	french	103_near	p r ɔ ʃ	stan1290	fra	1942	NEAR	567	
+677	french-104_salt-1	french	104_salt	s ɛ l	stan1290	fra	1274	SALT	576	
+678	french-105_short-1	french	105_short	k u ʁ	stan1290	fra	1645	SHORT	581	
+679	french-105_short-2	french	105_short	b ʁ ɛ f	stan1290	fra	1645	SHORT	577	
+680	french-106_snake-1	french	106_snake	s ɛ ʁ p ɑ̃	stan1290	fra	730	SNAKE	589	
+682	french-108_wind-1	french	108_wind	v ɑ̃	stan1290	fra	960	WIND	602	
+683	french-109_worm-1	french	109_worm	v ɛ ʁ	stan1290	fra	1219	WORM	607	
+684	french-10_bone-1	french	10_bone	ɔ s	stan1290	fra	1394	BONE	73	
+685	french-110_year-1	french	110_year	ɑ̃	stan1290	fra	1226	YEAR	611	
+690	french-14_cloud-1	french	14_cloud	n ɥ a j	stan1290	fra	1489	CLOUD	100	
+692	french-16_come-1	french	16_come	v ə n i ʁ	stan1290	fra	1446	COME	115	
+693	french-17_die-1	french	17_die	m u ʁ i ʁ	stan1290	fra	1494	DIE	121	
+694	french-18_dog-1	french	18_dog	ʃ j ɛ̃	stan1290	fra	2009	DOG	124	
+695	french-19_drink-1	french	19_drink	b w ɑ ʁ	stan1290	fra	1401	DRINK	132	
+696	french-1_all-1	french	1_all	t u	stan1290	fra	98	ALL	6	
+697	french-1_all-2	french	1_all	ɑ̃ t j e	stan1290	fra	98	ALL	2	
+698	french-20_dry-1	french	20_dry	s ɛ k	stan1290	fra	1398	DRY	137	
+699	french-21_ear-1	french	21_ear	ɔ ʁ ɛ j	stan1290	fra	1247	EAR	141	
+700	french-22_earth-1	french	22_earth	t ɛ ʁ	stan1290	fra	1228	EARTH (SOIL)	144	
+701	french-23_eat-1	french	23_eat	m ɑ̃ ʒ e	stan1290	fra	1336	EAT	148	
+702	french-24_egg-1	french	24_egg	œ f	stan1290	fra	744	EGG	154	
+703	french-25_eye-1	french	25_eye	œ j	stan1290	fra	1248	EYE	158	
+705	french-27_feather-1	french	27_feather	p l y m	stan1290	fra	1201	FEATHER	172	
+706	french-28_fire-1	french	28_fire	f ø	stan1290	fra	221	FIRE	179	
+707	french-29_fish-1	french	29_fish	p w a s õ	stan1290	fra	227	FISH	182	
+708	french-2_ashes-1	french	2_ashes	s ɑ̃ d ʁ	stan1290	fra	646	ASH	12	
+709	french-30_flyv-1	french	30_flyv	v ɔ l e	stan1290	fra	1441	FLY (MOVE THROUGH AIR)	187	
+710	french-31_foot-1	french	31_foot	p j e	stan1290	fra	1301	FOOT	194	
+712	french-33_give-1	french	33_give	d ɔ n e	stan1290	fra	1447	GIVE	198	
+713	french-34_good-1	french	34_good	b ɔ̃	stan1290	fra	1035	GOOD	200	
+714	french-35_green-1	french	35_green	v ɛ ʁ	stan1290	fra	1425	GREEN	208	
+715	french-36_hair-1	french	36_hair	ʃ ə v ø	stan1290	fra	1040	HAIR	216	
+716	french-37_hand-1	french	37_hand	m ɛ̃	stan1290	fra	1277	HAND	221	
+717	french-38_head-1	french	38_head	t ɛ t	stan1290	fra	1256	HEAD	222	
+718	french-39_hear-1	french	39_hear	ɑ̃ t ɑ̃ d ʁ	stan1290	fra	1408	HEAR	232	
+719	french-3_bark-1	french	3_bark	e k ɔ ʁ s	stan1290	fra	1204	BARK	23	
+720	french-40_heart-1	french	40_heart	k œ ʁ	stan1290	fra	1223	HEART	235	
+722	french-42_i-1	french	42_i	ʒ ə	stan1290	fra	1209	I	240	
+723	french-43_kill-1	french	43_kill	t ɥ e	stan1290	fra	1417	KILL	243	
+725	french-45_know-1	french	45_know	s a v w a ʁ	stan1290	fra	1410	KNOW (SOMETHING)	255	
+726	french-45_know-2	french	45_know	k ɔ n ɛ t ʁ	stan1290	fra	1410	KNOW (SOMETHING)	257	
+727	french-46_leaf-1	french	46_leaf	f œ j	stan1290	fra	628	LEAF	262	
+728	french-47_lie-1	french	47_lie	k u ʃ e	stan1290	fra	1411	LIE (REST)	265	
+729	french-48_liver-1	french	48_liver	f w ɑ	stan1290	fra	1224	LIVER	271	
+730	french-49_long-1	french	49_long	l õ	stan1290	fra	1203	LONG	281	
+731	french-4_belly-1	french	4_belly	v ɑ̃ t ʁ	stan1290	fra	1251	BELLY	26	
+732	french-50_louse-1	french	50_louse	p u	stan1290	fra	1392	LOUSE	288	
+733	french-52_many-1	french	52_many	b o k u	stan1290	fra	1198	MANY	301	
+737	french-55_mountain-1	french	55_mountain	m ɔ̃ t a ɲ	stan1290	fra	639	MOUNTAIN	323	
+738	french-56_mouth-1	french	56_mouth	b u ʃ	stan1290	fra	674	MOUTH	327	
+739	french-57_name-1	french	57_name	n ɔ̃	stan1290	fra	1405	NAME	334	
+740	french-58_neck-1	french	58_neck	k u	stan1290	fra	1333	NECK	339	
+741	french-59_new-1	french	59_new	n œ f	stan1290	fra	1231	NEW	343	
+742	french-5_big-1	french	5_big	ɡ ʁ ã	stan1290	fra	1202	BIG	47	
+743	french-60_night-1	french	60_night	n ɥ i	stan1290	fra	1233	NIGHT	346	
+744	french-61_nose-1	french	61_nose	n e	stan1290	fra	1221	NOSE	350	
+745	french-62_not-1	french	62_not	n ə	stan1290	fra	1240	NOT	352	
+746	french-63_one-1	french	63_one	œ̃	stan1290	fra	1493	ONE	354	
+747	french-64_person-1	french	64_person	ɔ m	stan1290	fra	683	PERSON	357	
+749	french-66_red-1	french	66_red	ʁ u j	stan1290	fra	156	RED	368	
+750	french-67_road-1	french	67_road	ʃ ɛ m ɛ̃	stan1290	fra	667	ROAD	-377	
+751	french-68_root-1	french	68_root	ʁ a s i n	stan1290	fra	670	ROOT	386	
+753	french-6_bird-1	french	6_bird	w a z o	stan1290	fra	937	BIRD	52	
+754	french-70_sand-1	french	70_sand	s a b l	stan1290	fra	671	SAND	397	
+755	french-71_say-1	french	71_say	d i ʁ	stan1290	fra	1458	SAY	408	
+756	french-72_see-1	french	72_see	v w a ʁ	stan1290	fra	1409	SEE	413	
+757	french-73_seed-1	french	73_seed	s e m ɑ̃ s	stan1290	fra	714	SEED	421	
+758	french-73_seed-2	french	73_seed	ɡ ʁ ɛ n	stan1290	fra	714	SEED	422	
+759	french-74_sit-1	french	74_sit	ɛ t ʁ a s i	stan1290	fra	1416	SIT	424	
+761	french-76_sleep-1	french	76_sleep	d ɔ ʁ m i ʁ	stan1290	fra	1585	SLEEP	437	
+762	french-77_small-1	french	77_small	p ə t i	stan1290	fra	1246	SMALL	442	
+763	french-78_smoke-1	french	78_smoke	f y m e	stan1290	fra	778	SMOKE (EXHAUST)	446	
+764	french-7_bite-1	french	7_bite	m ɔ ʁ d ʁ	stan1290	fra	1403	BITE	56	
+765	french-80_star-1	french	80_star	e t w a l	stan1290	fra	1430	STAR	454	
+766	french-81_stone-1	french	81_stone	p j ɛ ʁ	stan1290	fra	857	STONE	455	
+767	french-82_sun-1	french	82_sun	s ɔ l ɛ j	stan1290	fra	1343	SUN	463	
+768	french-83_swim-1	french	83_swim	n a ʒ e	stan1290	fra	1439	SWIM	464	
+769	french-84_tail-1	french	84_tail	k ø	stan1290	fra	1220	TAIL	471	
+770	french-85_that-1	french	85_that	s ə l a	stan1290	fra	78	THAT	486	
+771	french-86_this-1	french	86_this	s ə s i	stan1290	fra	1214	THIS	493	
+772	french-87_thou-1	french	87_thou	t y	stan1290	fra	1215	THOU	495	
+773	french-88_tongue-1	french	88_tongue	l ɑ̃ ɡ	stan1290	fra	1205	TONGUE	496	
+774	french-89_tooth-1	french	89_tooth	d ɑ̃	stan1290	fra	1380	TOOTH	499	
+775	french-8_black-1	french	8_black	n w a ʁ	stan1290	fra	163	BLACK	63	
+776	french-90_tree-1	french	90_tree	a ʁ b ʁ	stan1290	fra	906	TREE	506	
+777	french-91_two-1	french	91_two	d ø	stan1290	fra	1498	TWO	507	
+778	french-92_walkgo-1	french	92_walkgo	v ɛ	stan1290	fra	1443	WALK	510	
+779	french-92_walkgo-2	french	92_walkgo	a l e	stan1290	fra	1443	WALK	512	
+781	french-94_water-1	french	94_water	o	stan1290	fra	948	WATER	523	
+782	french-95_we-1	french	95_we	n u	stan1290	fra	1212	WE	529	
+783	french-96_what-1	french	96_what	k w a	stan1290	fra	1236	WHAT	531	
+784	french-97_white-1	french	97_white	b l ɑ̃	stan1290	fra	1335	WHITE	533	
+785	french-98_who-1	french	98_who	k i	stan1290	fra	1235	WHO	538	
+786	french-99_woman-1	french	99_woman	f a m	stan1290	fra	962	WOMAN	542	
+787	french-9_blood-1	french	9_blood	s ɑ̃	stan1290	fra	946	BLOOD	69	
+788	german-100_yellow-1	german	100_yellow	ɡ ɛ l p	stan1295	deu	1424	YELLOW	550	
+789	german-101_far-1	german	101_far	f ɛ r n	stan1295	deu	1406	FAR	559	
+790	german-102_heavy-1	german	102_heavy	ʃ v eː r	stan1295	deu	1210	HEAVY	564	
+791	german-103_near-1	german	103_near	n aː ə	stan1295	deu	1942	NEAR	574	
+792	german-104_salt-1	german	104_salt	z a l ts	stan1295	deu	1274	SALT	576	
+793	german-105_short-1	german	105_short	k ʊ r ts	stan1295	deu	1645	SHORT	-581	
+794	german-106_snake-1	german	106_snake	ʃ l a ŋ ə	stan1295	deu	730	SNAKE	585	
+796	german-108_wind-1	german	108_wind	v ɪ n t	stan1295	deu	960	WIND	602	
+797	german-109_worm-1	german	109_worm	v ʊ r m	stan1295	deu	1219	WORM	607	
+798	german-10_bone-1	german	10_bone	k n ɔ x ə n	stan1295	deu	1394	BONE	77	
+799	german-110_year-1	german	110_year	j aː r	stan1295	deu	1226	YEAR	614	
+803	german-14_cloud-1	german	14_cloud	v ɔ l k ə	stan1295	deu	1489	CLOUD	102	
+805	german-16_come-1	german	16_come	k ɔ m ə n	stan1295	deu	1446	COME	115	
+806	german-17_die-1	german	17_die	ʃ t ɛ r b ə n	stan1295	deu	1494	DIE	118	
+807	german-18_dog-1	german	18_dog	h ʊ n t	stan1295	deu	2009	DOG	123	
+808	german-19_drink-1	german	19_drink	t r ɪ ŋ k ə n	stan1295	deu	1401	DRINK	133	
+809	german-1_all-1	german	1_all	a l	stan1295	deu	98	ALL	5	
+810	german-20_dry-1	german	20_dry	t r ɔ k ə n	stan1295	deu	1398	DRY	134	
+811	german-21_ear-1	german	21_ear	oː r	stan1295	deu	1247	EAR	141	
+812	german-22_earth-1	german	22_earth	eː r d ə	stan1295	deu	1228	EARTH (SOIL)	146	
+813	german-23_eat-1	german	23_eat	ɛ s ə n	stan1295	deu	1336	EAT	150	
+814	german-24_egg-1	german	24_egg	ai	stan1295	deu	744	EGG	154	
+815	german-25_eye-1	german	25_eye	au ɡ ə	stan1295	deu	1248	EYE	158	
+817	german-27_feather-1	german	27_feather	f eː d ə r	stan1295	deu	1201	FEATHER	170	
+818	german-28_fire-1	german	28_fire	f ɔy ə r	stan1295	deu	221	FIRE	181	
+819	german-29_fish-1	german	29_fish	f ɪ ʃ	stan1295	deu	227	FISH	182	
+820	german-2_ashes-1	german	2_ashes	a ʃ ə	stan1295	deu	646	ASH	10	
+821	german-30_flyv-1	german	30_flyv	f l iː ɡ ə n	stan1295	deu	1441	FLY (MOVE THROUGH AIR)	190	
+822	german-31_foot-1	german	31_foot	f uː s	stan1295	deu	1301	FOOT	194	
+824	german-33_give-1	german	33_give	ɡ eː b ə n	stan1295	deu	1447	GIVE	197	
+825	german-34_good-1	german	34_good	ɡ uː t	stan1295	deu	1035	GOOD	205	
+826	german-35_green-1	german	35_green	ɡ r yː n	stan1295	deu	1425	GREEN	209	
+827	german-36_hair-1	german	36_hair	h aː r	stan1295	deu	1040	HAIR	217	
+828	german-37_hand-1	german	37_hand	h a n t	stan1295	deu	1277	HAND	218	
+829	german-38_head-1	german	38_head	k ɔ pf	stan1295	deu	1256	HEAD	-224	
+830	german-39_hear-1	german	39_hear	h øː r ə n	stan1295	deu	1408	HEAR	230	
+831	german-3_bark-1	german	3_bark	r ɪ n d ə	stan1295	deu	1204	BARK	20	
+832	german-40_heart-1	german	40_heart	h ɛ r ts	stan1295	deu	1223	HEART	235	
+834	german-42_i-1	german	42_i	ɪ x	stan1295	deu	1209	I	240	
+835	german-43_kill-1	german	43_kill	t øː t ə n	stan1295	deu	1417	KILL	242	
+837	german-45_know-1	german	45_know	v ɪ s ə n	stan1295	deu	1410	KNOW (SOMETHING)	256	
+838	german-45_know-2	german	45_know	k ɛ n ə n	stan1295	deu	1410	KNOW (SOMETHING)	257	
+839	german-46_leaf-1	german	46_leaf	b l a t	stan1295	deu	628	LEAF	262	
+840	german-47_lie-1	german	47_lie	l iː ɡ ə n	stan1295	deu	1411	LIE (REST)	269	
+841	german-48_liver-1	german	48_liver	l eː b ə r	stan1295	deu	1224	LIVER	273	
+842	german-49_long-1	german	49_long	l a ŋ	stan1295	deu	1203	LONG	281	
+843	german-4_belly-1	german	4_belly	b au x	stan1295	deu	1251	BELLY	27	
+844	german-50_louse-1	german	50_louse	l au s	stan1295	deu	1392	LOUSE	286	
+846	german-52_many-1	german	52_many	f iː l	stan1295	deu	1198	MANY	302	
+849	german-55_mountain-1	german	55_mountain	b ɛ r k	stan1295	deu	639	MOUNTAIN	317	
+850	german-56_mouth-1	german	56_mouth	m ʊ n t	stan1295	deu	674	MOUTH	328	
+851	german-57_name-1	german	57_name	n aː m ə	stan1295	deu	1405	NAME	334	
+852	german-58_neck-1	german	58_neck	h a l s	stan1295	deu	1333	NECK	339	
+853	german-59_new-1	german	59_new	n ɔy	stan1295	deu	1231	NEW	343	
+854	german-5_big-1	german	5_big	ɡ r oː s	stan1295	deu	1202	BIG	46	
+855	german-60_night-1	german	60_night	n a x t	stan1295	deu	1233	NIGHT	346	
+856	german-61_nose-1	german	61_nose	n aː z ə	stan1295	deu	1221	NOSE	350	
+857	german-62_not-1	german	62_not	n ɪ x t	stan1295	deu	1240	NOT	352	
+858	german-63_one-1	german	63_one	ai n	stan1295	deu	1493	ONE	354	
+859	german-64_person-1	german	64_person	m ɛ n ʃ	stan1295	deu	683	PERSON	361	
+861	german-66_red-1	german	66_red	r oː t	stan1295	deu	156	RED	368	
+862	german-67_road-1	german	67_road	v eː k	stan1295	deu	667	ROAD	376	
+863	german-68_root-1	german	68_root	v ʊ r ts ə l	stan1295	deu	670	ROOT	386	
+865	german-6_bird-1	german	6_bird	f oː ɡ ə l	stan1295	deu	937	BIRD	51	
+866	german-70_sand-1	german	70_sand	z a n t	stan1295	deu	671	SAND	398	
+867	german-71_say-1	german	71_say	z aː ɡ ə n	stan1295	deu	1458	SAY	405	
+868	german-72_see-1	german	72_see	z eː ə n	stan1295	deu	1409	SEE	414	
+869	german-73_seed-1	german	73_seed	z aː m ə n	stan1295	deu	714	SEED	421	
+870	german-74_sit-1	german	74_sit	z ɪ ts ə n	stan1295	deu	1416	SIT	424	
+872	german-76_sleep-1	german	76_sleep	ʃ l aː f ə n	stan1295	deu	1585	SLEEP	436	
+873	german-77_small-1	german	77_small	k l ai n	stan1295	deu	1246	SMALL	445	
+874	german-78_smoke-1	german	78_smoke	r au x	stan1295	deu	778	SMOKE (EXHAUST)	449	
+875	german-79_stand-1	german	79_stand	ʃ t eː ə n	stan1295	deu	1442	STAND	451	
+876	german-7_bite-1	german	7_bite	b ai s ə n	stan1295	deu	1403	BITE	54	
+877	german-80_star-1	german	80_star	ʃ t ɛ r n	stan1295	deu	1430	STAR	454	
+878	german-81_stone-1	german	81_stone	ʃ t ai n	stan1295	deu	857	STONE	458	
+879	german-82_sun-1	german	82_sun	z ɔ n ə	stan1295	deu	1343	SUN	463	
+880	german-83_swim-1	german	83_swim	ʃ v ɪ m ə n	stan1295	deu	1439	SWIM	465	
+881	german-84_tail-1	german	84_tail	ʃ v a n ts	stan1295	deu	1220	TAIL	478	
+882	german-85_that-1	german	85_that	j eː n ə r	stan1295	deu	78	THAT	489	
+883	german-86_this-1	german	86_this	d iː z ə r	stan1295	deu	1214	THIS	492	
+884	german-87_thou-1	german	87_thou	d uː	stan1295	deu	1215	THOU	495	
+885	german-88_tongue-1	german	88_tongue	ts ʊ ŋ ə	stan1295	deu	1205	TONGUE	496	
+886	german-89_tooth-1	german	89_tooth	ts aː n	stan1295	deu	1380	TOOTH	499	
+887	german-8_black-1	german	8_black	ʃ v a r ts	stan1295	deu	163	BLACK	60	
+888	german-90_tree-1	german	90_tree	b au m	stan1295	deu	906	TREE	502	
+889	german-91_two-1	german	91_two	ts v ai	stan1295	deu	1498	TWO	507	
+890	german-92_walkgo-1	german	92_walkgo	ɡ eː ə n	stan1295	deu	1443	WALK	509	
+892	german-94_water-1	german	94_water	v a s ə r	stan1295	deu	948	WATER	526	
+893	german-95_we-1	german	95_we	v iː r	stan1295	deu	1212	WE	530	
+894	german-96_what-1	german	96_what	v a s	stan1295	deu	1236	WHAT	531	
+895	german-97_white-1	german	97_white	v ai s	stan1295	deu	1335	WHITE	532	
+896	german-98_who-1	german	98_who	v eː r	stan1295	deu	1235	WHO	538	
+897	german-99_woman-1	german	99_woman	f r au	stan1295	deu	962	WOMAN	541	
+898	german-99_woman-2	german	99_woman	v ai p	stan1295	deu	962	WOMAN	543	
+899	german-9_blood-1	german	9_blood	b l uː t	stan1295	deu	946	BLOOD	71	
+900	greek-100_yellow-1	greek	100_yellow	c i t r i n o s	mode1248	ell	1424	YELLOW	-547	
+901	greek-101_far-1	greek	101_far	m a k r a n	mode1248	ell	1406	FAR	557	
+902	greek-102_heavy-1	greek	102_heavy	v a r i s	mode1248	ell	1210	HEAVY	565	
+903	greek-103_near-1	greek	103_near	k o n d a	mode1248	ell	1942	NEAR	573	
+904	greek-104_salt-1	greek	104_salt	a l a t i	mode1248	ell	1274	SALT	576	
+905	greek-105_short-1	greek	105_short	k o n d o s	mode1248	ell	1645	SHORT	582	
+906	greek-106_snake-1	greek	106_snake	f i ð i	mode1248	ell	730	SNAKE	586	
+908	greek-108_wind-1	greek	108_wind	a n e m o s	mode1248	ell	960	WIND	603	
+909	greek-109_worm-1	greek	109_worm	s k u l i c i	mode1248	ell	1219	WORM	605	
+910	greek-10_bone-1	greek	10_bone	k o k a l o	mode1248	ell	1394	BONE	-72	
+911	greek-110_year-1	greek	110_year	e t o s	mode1248	ell	1226	YEAR	613	
+915	greek-14_cloud-1	greek	14_cloud	s i n e f o	mode1248	ell	1489	CLOUD	98	
+917	greek-16_come-1	greek	16_come	e r x o m e	mode1248	ell	1446	COME	117	
+918	greek-17_die-1	greek	17_die	p e θ e n o	mode1248	ell	1494	DIE	120	
+919	greek-18_dog-1	greek	18_dog	s c i l o s	mode1248	ell	2009	DOG	127	
+920	greek-19_drink-1	greek	19_drink	p i n o	mode1248	ell	1401	DRINK	132	
+921	greek-1_all-1	greek	1_all	k a θ e	mode1248	ell	98	ALL	7	
+922	greek-20_dry-1	greek	20_dry	kˢ e r o s	mode1248	ell	1398	DRY	139	
+923	greek-21_ear-1	greek	21_ear	a f t i	mode1248	ell	1247	EAR	141	
+924	greek-22_earth-1	greek	22_earth	ʝ i	mode1248	ell	1228	EARTH (SOIL)	142	
+925	greek-23_eat-1	greek	23_eat	t r o ɣ o	mode1248	ell	1336	EAT	153	
+926	greek-24_egg-1	greek	24_egg	a v ɣ o	mode1248	ell	744	EGG	154	
+927	greek-25_eye-1	greek	25_eye	m a t i	mode1248	ell	1248	EYE	158	
+929	greek-27_feather-1	greek	27_feather	f t e r o	mode1248	ell	1201	FEATHER	170	
+930	greek-28_fire-1	greek	28_fire	f o t ç a	mode1248	ell	221	FIRE	175	
+931	greek-29_fish-1	greek	29_fish	pˢ a r i	mode1248	ell	227	FISH	185	
+932	greek-2_ashes-1	greek	2_ashes	s t a x t i	mode1248	ell	646	ASH	14	
+933	greek-30_flyv-1	greek	30_flyv	p e t o	mode1248	ell	1441	FLY (MOVE THROUGH AIR)	191	
+934	greek-31_foot-1	greek	31_foot	p o ð i	mode1248	ell	1301	FOOT	194	
+936	greek-33_give-1	greek	33_give	ð i n o	mode1248	ell	1447	GIVE	198	
+937	greek-34_good-1	greek	34_good	k a l o s	mode1248	ell	1035	GOOD	199	
+938	greek-35_green-1	greek	35_green	p r a s i n o s	mode1248	ell	1425	GREEN	210	
+939	greek-36_hair-1	greek	36_hair	t r i x a	mode1248	ell	1040	HAIR	214	
+940	greek-37_hand-1	greek	37_hand	ç e r i	mode1248	ell	1277	HAND	219	
+941	greek-38_head-1	greek	38_head	c e f a l i	mode1248	ell	1256	HEAD	225	
+942	greek-39_hear-1	greek	39_hear	a k u o	mode1248	ell	1408	HEAR	230	
+943	greek-3_bark-1	greek	3_bark	f l i o s	mode1248	ell	1204	BARK	16	
+944	greek-40_heart-1	greek	40_heart	k a r ð ʝ a	mode1248	ell	1223	HEART	235	
+946	greek-42_i-1	greek	42_i	e ɣ o	mode1248	ell	1209	I	240	
+947	greek-43_kill-1	greek	43_kill	s k o t o n o	mode1248	ell	1417	KILL	244	
+949	greek-45_know-1	greek	45_know	kˢ e r o	mode1248	ell	1410	KNOW (SOMETHING)	258	
+950	greek-45_know-2	greek	45_know	ɣ n o r i z o	mode1248	ell	1410	KNOW (SOMETHING)	257	
+951	greek-46_leaf-1	greek	46_leaf	f i l o	mode1248	ell	628	LEAF	262	
+952	greek-48_liver-1	greek	48_liver	s i k o t i	mode1248	ell	1224	LIVER	-274	
+953	greek-49_long-1	greek	49_long	m a k r i s	mode1248	ell	1203	LONG	282	
+954	greek-4_belly-1	greek	4_belly	c i ʎ a	mode1248	ell	1251	BELLY	24	
+955	greek-50_louse-1	greek	50_louse	pˢ i r a	mode1248	ell	1392	LOUSE	285	
+957	greek-52_many-1	greek	52_many	p o l i a r i θ m o s	mode1248	ell	1198	MANY	302	
+960	greek-55_mountain-1	greek	55_mountain	o r o s	mode1248	ell	639	MOUNTAIN	321	
+961	greek-56_mouth-1	greek	56_mouth	s t o m a	mode1248	ell	674	MOUTH	330	
+962	greek-57_name-1	greek	57_name	o n o m a	mode1248	ell	1405	NAME	334	
+963	greek-59_new-1	greek	59_new	n eo s	mode1248	ell	1231	NEW	343	
+964	greek-5_big-1	greek	5_big	m e ɣ a l o s	mode1248	ell	1202	BIG	37	
+965	greek-60_night-1	greek	60_night	n i x t a	mode1248	ell	1233	NIGHT	346	
+966	greek-61_nose-1	greek	61_nose	m i t i	mode1248	ell	1221	NOSE	348	
+967	greek-63_one-1	greek	63_one	e n a	mode1248	ell	1493	ONE	355	
+968	greek-64_person-1	greek	64_person	a n θ r o p o s	mode1248	ell	683	PERSON	358	
+970	greek-66_red-1	greek	66_red	k o c i n o s	mode1248	ell	156	RED	-369	
+971	greek-67_road-1	greek	67_road	ð r o m o s	mode1248	ell	667	ROAD	374	
+972	greek-68_root-1	greek	68_root	o ð o s	mode1248	ell	670	ROOT	388	
+973	greek-68_root-2	greek	68_root	r i z a	mode1248	ell	670	ROOT	386	
+975	greek-6_bird-1	greek	6_bird	p u l i	mode1248	ell	937	BIRD	-50	
+976	greek-70_sand-1	greek	70_sand	a m o s	mode1248	ell	671	SAND	398	
+977	greek-71_say-1	greek	71_say	l e ɣ o	mode1248	ell	1458	SAY	410	
+978	greek-72_see-1	greek	72_see	v l e p o	mode1248	ell	1409	SEE	415	
+979	greek-73_seed-1	greek	73_seed	s p o r o s	mode1248	ell	714	SEED	423	
+980	greek-74_sit-1	greek	74_sit	k a θ o m e	mode1248	ell	1416	SIT	426	
+982	greek-76_sleep-1	greek	76_sleep	c i m u m e	mode1248	ell	1585	SLEEP	434	
+983	greek-77_small-1	greek	77_small	m i k r o s	mode1248	ell	1246	SMALL	438	
+984	greek-78_smoke-1	greek	78_smoke	k a p n o s	mode1248	ell	778	SMOKE (EXHAUST)	447	
+985	greek-79_stand-1	greek	79_stand	s t e k o m e	mode1248	ell	1442	STAND	451	
+986	greek-7_bite-1	greek	7_bite	ð a ŋ ɡ o n o	mode1248	ell	1403	BITE	59	
+987	greek-80_star-1	greek	80_star	a s t e r i	mode1248	ell	1430	STAR	454	
+988	greek-81_stone-1	greek	81_stone	p e t r a	mode1248	ell	857	STONE	460	
+989	greek-82_sun-1	greek	82_sun	i ʎ o s	mode1248	ell	1343	SUN	463	
+990	greek-83_swim-1	greek	83_swim	k o l i m b o	mode1248	ell	1439	SWIM	469	
+991	greek-84_tail-1	greek	84_tail	u r a	mode1248	ell	1220	TAIL	475	
+992	greek-85_that-1	greek	85_that	e c i n o	mode1248	ell	78	THAT	486	
+993	greek-86_this-1	greek	86_this	a f t o	mode1248	ell	1214	THIS	492	
+994	greek-87_thou-1	greek	87_thou	e s i	mode1248	ell	1215	THOU	495	
+995	greek-88_tongue-1	greek	88_tongue	ɣ l o s a	mode1248	ell	1205	TONGUE	497	
+996	greek-89_tooth-1	greek	89_tooth	ð o n d i	mode1248	ell	1380	TOOTH	499	
+997	greek-8_black-1	greek	8_black	m a v r o s	mode1248	ell	163	BLACK	64	
+998	greek-90_tree-1	greek	90_tree	ð e n ð r o	mode1248	ell	906	TREE	501	
+999	greek-91_two-1	greek	91_two	ð ʝ o	mode1248	ell	1498	TWO	507	
+1000	greek-92_walkgo-1	greek	92_walkgo	p i ʝ e n o	mode1248	ell	1443	WALK	516	
+1002	greek-94_water-1	greek	94_water	n e r o	mode1248	ell	948	WATER	524	
+1003	greek-95_we-1	greek	95_we	e m i s	mode1248	ell	1212	WE	528	
+1004	greek-96_what-1	greek	96_what	t i	mode1248	ell	1236	WHAT	531	
+1005	greek-97_white-1	greek	97_white	l e f k o s	mode1248	ell	1335	WHITE	535	
+1006	greek-98_who-1	greek	98_who	o p i o s	mode1248	ell	1235	WHO	538	
+1007	greek-99_woman-1	greek	99_woman	ʝ i n e k a	mode1248	ell	962	WOMAN	544	
+1008	greek-9_blood-1	greek	9_blood	e m a	mode1248	ell	946	BLOOD	70	
+1009	hindi-100_yellow-1	hindi	100_yellow	p iː l aː	hind1269	hin	1424	YELLOW	549	
+1010	hindi-101_far-1	hindi	101_far	d uː r	hind1269	hin	1406	FAR	556	
+1011	hindi-102_heavy-1	hindi	102_heavy	bʱ aː r iː	hind1269	hin	1210	HEAVY	566	
+1012	hindi-103_near-1	hindi	103_near	p aː s	hind1269	hin	1942	NEAR	572	
+1013	hindi-105_short-1	hindi	105_short	tʃʰ o ʈ aː	hind1269	hin	1645	SHORT	579	
+1014	hindi-106_snake-1	hindi	106_snake	s ãː p	hind1269	hin	730	SNAKE	589	
+1016	hindi-109_worm-1	hindi	109_worm	k iː ɽ aː	hind1269	hin	1219	WORM	-604	
+1017	hindi-10_bone-1	hindi	10_bone	h ə ɖː iː	hind1269	hin	1394	BONE	74	
+1018	hindi-110_year-1	hindi	110_year	b ə r ə s	hind1269	hin	1226	YEAR	609	
+1022	hindi-14_cloud-1	hindi	14_cloud	b aː d ə l	hind1269	hin	1489	CLOUD	95	
+1024	hindi-16_come-1	hindi	16_come	aː n aː	hind1269	hin	1446	COME	112	
+1025	hindi-17_die-1	hindi	17_die	m ə r n aː	hind1269	hin	1494	DIE	121	
+1026	hindi-18_dog-1	hindi	18_dog	k ʊ tː aː	hind1269	hin	2009	DOG	130	
+1027	hindi-19_drink-1	hindi	19_drink	p iː n aː	hind1269	hin	1401	DRINK	132	
+1028	hindi-1_all-1	hindi	1_all	s ə b	hind1269	hin	98	ALL	4	
+1029	hindi-1_all-2	hindi	1_all	s aː r aː	hind1269	hin	98	ALL	1	
+1030	hindi-20_dry-1	hindi	20_dry	s uː kʰ aː	hind1269	hin	1398	DRY	138	
+1031	hindi-21_ear-1	hindi	21_ear	k aː n	hind1269	hin	1247	EAR	140	
+1032	hindi-22_earth-1	hindi	22_earth	dʱ ə r t iː	hind1269	hin	1228	EARTH (SOIL)	143	
+1033	hindi-23_eat-1	hindi	23_eat	kʰ aː n aː	hind1269	hin	1336	EAT	151	
+1034	hindi-24_egg-1	hindi	24_egg	ə̃ ɳ ɖ aː	hind1269	hin	744	EGG	156	
+1035	hindi-25_eye-1	hindi	25_eye	ãː kʰ	hind1269	hin	1248	EYE	158	
+1037	hindi-27_feather-1	hindi	27_feather	p ə̃ ŋ kʰ	hind1269	hin	1201	FEATHER	173	
+1038	hindi-28_fire-1	hindi	28_fire	aː g	hind1269	hin	221	FIRE	178	
+1039	hindi-29_fish-1	hindi	29_fish	m ə tʃ l iː	hind1269	hin	227	FISH	186	
+1040	hindi-2_ashes-1	hindi	2_ashes	r aː kʰ	hind1269	hin	646	ASH	13	
+1041	hindi-30_flyv-1	hindi	30_flyv	ʊ ɽ n aː	hind1269	hin	1441	FLY (MOVE THROUGH AIR)	189	
+1042	hindi-31_foot-1	hindi	31_foot	p ɛː r	hind1269	hin	1301	FOOT	194	
+1044	hindi-33_give-1	hindi	33_give	d eː n aː	hind1269	hin	1447	GIVE	198	
+1045	hindi-34_good-1	hindi	34_good	ə tʃʰː aː	hind1269	hin	1035	GOOD	203	
+1046	hindi-35_green-1	hindi	35_green	ɦ ə r aː	hind1269	hin	1425	GREEN	207	
+1047	hindi-36_hair-1	hindi	36_hair	b aː l	hind1269	hin	1040	HAIR	212	
+1048	hindi-37_hand-1	hindi	37_hand	h aː tʰ	hind1269	hin	1277	HAND	219	
+1049	hindi-38_head-1	hindi	38_head	s ə r	hind1269	hin	1256	HEAD	226	
+1050	hindi-39_hear-1	hindi	39_hear	s ʊ nː aː	hind1269	hin	1408	HEAR	231	
+1051	hindi-3_bark-1	hindi	3_bark	tʃʰ aː l	hind1269	hin	1204	BARK	21	
+1052	hindi-40_heart-1	hindi	40_heart	d ɪ l	hind1269	hin	1223	HEART	-233	
+1054	hindi-42_i-1	hindi	42_i	m ɛ̃ː	hind1269	hin	1209	I	239	
+1055	hindi-43_kill-1	hindi	43_kill	m aː r n aː	hind1269	hin	1417	KILL	247	
+1057	hindi-45_know-1	hindi	45_know	dʒ aː nː aː	hind1269	hin	1410	KNOW (SOMETHING)	257	
+1058	hindi-46_leaf-1	hindi	46_leaf	p ə tː aː	hind1269	hin	628	LEAF	261	
+1059	hindi-47_lie-1	hindi	47_lie	l e ʈ n aː	hind1269	hin	1411	LIE (REST)	267	
+1060	hindi-48_liver-1	hindi	48_liver	k ə l eː dʒ aː	hind1269	hin	1224	LIVER	276	
+1061	hindi-49_long-1	hindi	49_long	l ə m b aː	hind1269	hin	1203	LONG	279	
+1062	hindi-4_belly-1	hindi	4_belly	p eː ʈ	hind1269	hin	1251	BELLY	-25	
+1063	hindi-50_louse-1	hindi	50_louse	dʒ uː	hind1269	hin	1392	LOUSE	284	
+1065	hindi-52_many-1	hindi	52_many	b ə h ʊ t	hind1269	hin	1198	MANY	299	
+1068	hindi-55_mountain-1	hindi	55_mountain	p ə ɦ aː ɽ	hind1269	hin	639	MOUNTAIN	318	
+1069	hindi-56_mouth-1	hindi	56_mouth	m ʊ̃ ɦ	hind1269	hin	674	MOUTH	331	
+1070	hindi-57_name-1	hindi	57_name	n aː m	hind1269	hin	1405	NAME	334	
+1071	hindi-58_neck-1	hindi	58_neck	g ə l aː	hind1269	hin	1333	NECK	336	
+1072	hindi-59_new-1	hindi	59_new	n ə j aː	hind1269	hin	1231	NEW	343	
+1073	hindi-5_big-1	hindi	5_big	b ə ɽ aː	hind1269	hin	1202	BIG	39	
+1074	hindi-60_night-1	hindi	60_night	r aː t	hind1269	hin	1233	NIGHT	345	
+1075	hindi-61_nose-1	hindi	61_nose	n aː k	hind1269	hin	1221	NOSE	350	
+1076	hindi-62_not-1	hindi	62_not	n a ɦ ĩ	hind1269	hin	1240	NOT	352	
+1077	hindi-63_one-1	hindi	63_one	eː k	hind1269	hin	1493	ONE	354	
+1078	hindi-64_person-1	hindi	64_person	aː d m iː	hind1269	hin	683	PERSON	-356	
+1079	hindi-66_red-1	hindi	66_red	l aː l	hind1269	hin	156	RED	368	
+1080	hindi-67_road-1	hindi	67_road	s ə ɽ ə k	hind1269	hin	667	ROAD	384	
+1081	hindi-68_root-1	hindi	68_root	dʒ ə ɽ	hind1269	hin	670	ROOT	389	
+1083	hindi-6_bird-1	hindi	6_bird	tʃ ɪ ɽ ɪ y/ɥ aː	hind1269	hin	937	BIRD	-49	
+1084	hindi-70_sand-1	hindi	70_sand	r e t	hind1269	hin	671	SAND	403	
+1085	hindi-70_sand-2	hindi	70_sand	b aː l uː	hind1269	hin	671	SAND	399	
+1086	hindi-71_say-1	hindi	71_say	k ə ɦ n aː	hind1269	hin	1458	SAY	411	
+1087	hindi-71_say-2	hindi	71_say	b oː l n aː	hind1269	hin	1458	SAY	404	
+1088	hindi-72_see-1	hindi	72_see	d eː kʰ n aː	hind1269	hin	1409	SEE	417	
+1089	hindi-73_seed-1	hindi	73_seed	b iː dʒ	hind1269	hin	714	SEED	418	
+1090	hindi-74_sit-1	hindi	74_sit	b ɛː ʈʰ n aː	hind1269	hin	1416	SIT	425	
+1092	hindi-76_sleep-1	hindi	76_sleep	s ɔː n aː	hind1269	hin	1585	SLEEP	435	
+1093	hindi-77_small-1	hindi	77_small	tʃ ɔː ʈ aː	hind1269	hin	1246	SMALL	443	
+1094	hindi-78_smoke-1	hindi	78_smoke	dʱ ʊ ãː	hind1269	hin	778	SMOKE (EXHAUST)	446	
+1095	hindi-79_stand-1	hindi	79_stand	kʰ a ɽ aː	hind1269	hin	1442	STAND	452	
+1096	hindi-7_bite-1	hindi	7_bite	k aː ʈ n aː	hind1269	hin	1403	BITE	55	
+1097	hindi-80_star-1	hindi	80_star	t aː r aː	hind1269	hin	1430	STAR	454	
+1098	hindi-81_stone-1	hindi	81_stone	p ə tʰː ə r	hind1269	hin	857	STONE	457	
+1099	hindi-82_sun-1	hindi	82_sun	s uː r ə dʒ	hind1269	hin	1343	SUN	463	
+1100	hindi-83_swim-1	hindi	83_swim	t ɛː r n aː	hind1269	hin	1439	SWIM	470	
+1101	hindi-84_tail-1	hindi	84_tail	p uː tʃʰ	hind1269	hin	1220	TAIL	472	
+1102	hindi-85_that-1	hindi	85_that	v ə	hind1269	hin	78	THAT	490	
+1103	hindi-86_this-1	hindi	86_this	j ə	hind1269	hin	1214	THIS	491	
+1104	hindi-87_thou-1	hindi	87_thou	t uː	hind1269	hin	1215	THOU	495	
+1105	hindi-88_tongue-1	hindi	88_tongue	dʒ iː bʱ	hind1269	hin	1205	TONGUE	496	
+1106	hindi-89_tooth-1	hindi	89_tooth	d ã t	hind1269	hin	1380	TOOTH	499	
+1107	hindi-8_black-1	hindi	8_black	k aː l aː	hind1269	hin	163	BLACK	65	
+1108	hindi-90_tree-1	hindi	90_tree	p e ɽ	hind1269	hin	906	TREE	500	
+1109	hindi-91_two-1	hindi	91_two	d oː	hind1269	hin	1498	TWO	507	
+1110	hindi-92_walkgo-1	hindi	92_walkgo	tʃ ə l n aː	hind1269	hin	1443	WALK	514	
+1112	hindi-94_water-1	hindi	94_water	p aː n iː	hind1269	hin	948	WATER	525	
+1113	hindi-95_we-1	hindi	95_we	ɦ ə m	hind1269	hin	1212	WE	529	
+1114	hindi-96_what-1	hindi	96_what	k j aː	hind1269	hin	1236	WHAT	531	
+1115	hindi-98_who-1	hindi	98_who	k ɔː n	hind1269	hin	1235	WHO	538	
+1116	hindi-99_woman-1	hindi	99_woman	ɔː r ə t	hind1269	hin	962	WOMAN	-539	
+1117	icelandic-100_yellow-1	icelandic	100_yellow	k ʏː l ʏ r	icel1247	isl	1424	YELLOW	550	
+1118	icelandic-101_far-1	icelandic	101_far	l a ŋ	icel1247	isl	1406	FAR	558	
+1119	icelandic-102_heavy-1	icelandic	102_heavy	θ u ŋ k ʏ r	icel1247	isl	1210	HEAVY	563	
+1120	icelandic-103_near-1	icelandic	103_near	n auː	icel1247	isl	1942	NEAR	574	
+1121	icelandic-104_salt-1	icelandic	104_salt	s a l̥ t	icel1247	isl	1274	SALT	576	
+1122	icelandic-105_short-1	icelandic	105_short	s t ʏʰ/ʏ t ʏ r	icel1247	isl	1645	SHORT	578	
+1123	icelandic-106_snake-1	icelandic	106_snake	s tˡ au ŋ k a	icel1247	isl	730	SNAKE	585	
+1125	icelandic-108_wind-1	icelandic	108_wind	v ɪ n t ʏ r	icel1247	isl	960	WIND	602	
+1126	icelandic-109_worm-1	icelandic	109_worm	ɔ r m ʏ r	icel1247	isl	1219	WORM	607	
+1127	icelandic-109_worm-2	icelandic	109_worm	m a θ k ʏ r	icel1247	isl	1219	WORM	606	
+1128	icelandic-10_bone-1	icelandic	10_bone	p eiː n	icel1247	isl	1394	BONE	76	
+1129	icelandic-110_year-1	icelandic	110_year	auː r	icel1247	isl	1226	YEAR	614	
+1133	icelandic-14_cloud-1	icelandic	14_cloud	s c iː	icel1247	isl	1489	CLOUD	96	
+1135	icelandic-16_come-1	icelandic	16_come	kʰ ɔː m a	icel1247	isl	1446	COME	115	
+1136	icelandic-17_die-1	icelandic	17_die	t eiː j a	icel1247	isl	1494	DIE	119	
+1137	icelandic-18_dog-1	icelandic	18_dog	h ʏ n t ʏ r	icel1247	isl	2009	DOG	123	
+1138	icelandic-19_drink-1	icelandic	19_drink	t r ɛʰ/ɛ k a	icel1247	isl	1401	DRINK	133	
+1139	icelandic-1_all-1	icelandic	1_all	a tˡ i r	icel1247	isl	98	ALL	5	
+1140	icelandic-20_dry-1	icelandic	20_dry	θ ʏ rː	icel1247	isl	1398	DRY	135	
+1141	icelandic-21_ear-1	icelandic	21_ear	eiː r a	icel1247	isl	1247	EAR	141	
+1142	icelandic-22_earth-1	icelandic	22_earth	j œ r ð	icel1247	isl	1228	EARTH (SOIL)	146	
+1143	icelandic-23_eat-1	icelandic	23_eat	p ɔ r ð a	icel1247	isl	1336	EAT	152	
+1144	icelandic-24_egg-1	icelandic	24_egg	ɛ kː	icel1247	isl	744	EGG	154	
+1145	icelandic-25_eye-1	icelandic	25_eye	øyː ɣ a	icel1247	isl	1248	EYE	158	
+1147	icelandic-27_feather-1	icelandic	27_feather	f j œː ð ʏ r	icel1247	isl	1201	FEATHER	170	
+1148	icelandic-28_fire-1	icelandic	28_fire	ɛ l t ʏ r	icel1247	isl	221	FIRE	176	
+1149	icelandic-29_fish-1	icelandic	29_fish	f ɪ s k ʏ r	icel1247	isl	227	FISH	182	
+1150	icelandic-2_ashes-1	icelandic	2_ashes	a s k a	icel1247	isl	646	ASH	10	
+1151	icelandic-30_flyv-1	icelandic	30_flyv	f l j uː a	icel1247	isl	1441	FLY (MOVE THROUGH AIR)	190	
+1152	icelandic-31_foot-1	icelandic	31_foot	f ouː t ʏ r	icel1247	isl	1301	FOOT	194	
+1154	icelandic-33_give-1	icelandic	33_give	c ɛː v a	icel1247	isl	1447	GIVE	197	
+1155	icelandic-34_good-1	icelandic	34_good	k ouː ð ʏ r	icel1247	isl	1035	GOOD	205	
+1156	icelandic-35_green-1	icelandic	35_green	k r ai n̥	icel1247	isl	1425	GREEN	209	
+1157	icelandic-36_hair-1	icelandic	36_hair	h auː r	icel1247	isl	1040	HAIR	217	
+1158	icelandic-37_hand-1	icelandic	37_hand	h œ n t	icel1247	isl	1277	HAND	218	
+1159	icelandic-38_head-1	icelandic	38_head	h œ v ʏ ð	icel1247	isl	1256	HEAD	223	
+1160	icelandic-39_hear-1	icelandic	39_hear	h eiː r a	icel1247	isl	1408	HEAR	230	
+1161	icelandic-3_bark-1	icelandic	3_bark	b œ r k ʏ r	icel1247	isl	1204	BARK	15	
+1162	icelandic-40_heart-1	icelandic	40_heart	ç a r̥ t a	icel1247	isl	1223	HEART	235	
+1164	icelandic-42_i-1	icelandic	42_i	j ɛ ɣ	icel1247	isl	1209	I	240	
+1165	icelandic-43_kill-1	icelandic	43_kill	t r ɛː p a	icel1247	isl	1417	KILL	248	
+1167	icelandic-45_know-1	icelandic	45_know	v ɪː t a	icel1247	isl	1410	KNOW (SOMETHING)	256	
+1168	icelandic-46_leaf-1	icelandic	46_leaf	p l aː ð	icel1247	isl	628	LEAF	262	
+1169	icelandic-46_leaf-2	icelandic	46_leaf	l øyː v	icel1247	isl	628	LEAF	264	
+1170	icelandic-47_lie-1	icelandic	47_lie	l ɪ cː a	icel1247	isl	1411	LIE (REST)	269	
+1171	icelandic-48_liver-1	icelandic	48_liver	l ɪː v ʏ r	icel1247	isl	1224	LIVER	273	
+1172	icelandic-49_long-1	icelandic	49_long	l a ŋ k ʏ r	icel1247	isl	1203	LONG	281	
+1173	icelandic-4_belly-1	icelandic	4_belly	kʰ v ɪː ð ʏ r	icel1247	isl	1251	BELLY	36	
+1174	icelandic-50_louse-1	icelandic	50_louse	l uː s	icel1247	isl	1392	LOUSE	286	
+1176	icelandic-52_many-1	icelandic	52_many	m ɪː c ɪ ð	icel1247	isl	1198	MANY	295	
+1180	icelandic-55_mountain-1	icelandic	55_mountain	f j a tˡ	icel1247	isl	639	MOUNTAIN	318	
+1181	icelandic-56_mouth-1	icelandic	56_mouth	m ʏ nː ʏ r	icel1247	isl	674	MOUTH	328	
+1182	icelandic-57_name-1	icelandic	57_name	n a p n	icel1247	isl	1405	NAME	334	
+1183	icelandic-58_neck-1	icelandic	58_neck	h au l s	icel1247	isl	1333	NECK	339	
+1184	icelandic-59_new-1	icelandic	59_new	n iː r	icel1247	isl	1231	NEW	343	
+1185	icelandic-5_big-1	icelandic	5_big	s t ouː r	icel1247	isl	1202	BIG	43	
+1186	icelandic-5_big-2	icelandic	5_big	m ɪː c ɪ tˡ	icel1247	isl	1202	BIG	37	
+1187	icelandic-60_night-1	icelandic	60_night	n ouʰ/ou t	icel1247	isl	1233	NIGHT	346	
+1188	icelandic-61_nose-1	icelandic	61_nose	n ɛː v	icel1247	isl	1221	NOSE	347	
+1189	icelandic-62_not-1	icelandic	62_not	ɛʰ/ɛ c ɪ	icel1247	isl	1240	NOT	353	
+1190	icelandic-63_one-1	icelandic	63_one	ei n̥	icel1247	isl	1493	ONE	354	
+1191	icelandic-64_person-1	icelandic	64_person	m aː ð ʏ r	icel1247	isl	683	PERSON	361	
+1193	icelandic-66_red-1	icelandic	66_red	r øyː ð ʏ r	icel1247	isl	156	RED	368	
+1194	icelandic-67_road-1	icelandic	67_road	v e k ʏ r	icel1247	isl	667	ROAD	376	
+1195	icelandic-68_root-1	icelandic	68_root	r ouː t	icel1247	isl	670	ROOT	386	
+1197	icelandic-6_bird-1	icelandic	6_bird	f ʏ k l	icel1247	isl	937	BIRD	51	
+1198	icelandic-70_sand-1	icelandic	70_sand	s a n t ʏ r	icel1247	isl	671	SAND	398	
+1199	icelandic-71_say-1	icelandic	71_say	s eiː j a	icel1247	isl	1458	SAY	405	
+1200	icelandic-72_see-1	icelandic	72_see	s j auː	icel1247	isl	1409	SEE	414	
+1201	icelandic-73_seed-1	icelandic	73_seed	f r aiː	icel1247	isl	714	SEED	420	
+1202	icelandic-74_sit-1	icelandic	74_sit	s ɪː t j a	icel1247	isl	1416	SIT	424	
+1205	icelandic-76_sleep-1	icelandic	76_sleep	s ɔː v a	icel1247	isl	1585	SLEEP	435	
+1206	icelandic-77_small-1	icelandic	77_small	l iː t ɪ tˡ	icel1247	isl	1246	SMALL	439	
+1207	icelandic-77_small-2	icelandic	77_small	s m auː r	icel1247	isl	1246	SMALL	441	
+1208	icelandic-78_smoke-1	icelandic	78_smoke	r eiː k ʏ r	icel1247	isl	778	SMOKE (EXHAUST)	449	
+1209	icelandic-79_stand-1	icelandic	79_stand	s t a n t a	icel1247	isl	1442	STAND	451	
+1210	icelandic-7_bite-1	icelandic	7_bite	p iː t a	icel1247	isl	1403	BITE	54	
+1211	icelandic-80_star-1	icelandic	80_star	s t j a r n̥ a	icel1247	isl	1430	STAR	454	
+1212	icelandic-81_stone-1	icelandic	81_stone	s t ei n̥	icel1247	isl	857	STONE	458	
+1213	icelandic-82_sun-1	icelandic	82_sun	s ouː l	icel1247	isl	1343	SUN	463	
+1214	icelandic-83_swim-1	icelandic	83_swim	s y n t a	icel1247	isl	1439	SWIM	468	
+1215	icelandic-84_tail-1	icelandic	84_tail	h aː l ɪ	icel1247	isl	1220	TAIL	482	
+1216	icelandic-84_tail-2	icelandic	84_tail	s k ɔʰ/ɔ t	icel1247	isl	1220	TAIL	477	
+1217	icelandic-85_that-1	icelandic	85_that	θ ɛ sː ɪ	icel1247	isl	78	THAT	487	
+1218	icelandic-85_that-2	icelandic	85_that	s auː	icel1247	isl	78	THAT	488	
+1219	icelandic-86_this-1	icelandic	86_this	θ ɛ sː ɪ	icel1247	isl	1214	THIS	492	
+1220	icelandic-87_thou-1	icelandic	87_thou	θ uː	icel1247	isl	1215	THOU	495	
+1221	icelandic-88_tongue-1	icelandic	88_tongue	tʰ u ŋ k a	icel1247	isl	1205	TONGUE	496	
+1222	icelandic-89_tooth-1	icelandic	89_tooth	tʰ œ nː	icel1247	isl	1380	TOOTH	499	
+1223	icelandic-8_black-1	icelandic	8_black	s v a r̥ t ʏ r	icel1247	isl	163	BLACK	60	
+1224	icelandic-90_tree-1	icelandic	90_tree	tʰ r j ɛː	icel1247	isl	906	TREE	501	
+1225	icelandic-90_tree-2	icelandic	90_tree	v ɪː ð ʏ r	icel1247	isl	906	TREE	505	
+1226	icelandic-91_two-1	icelandic	91_two	tʰ v ei r	icel1247	isl	1498	TWO	507	
+1227	icelandic-92_walkgo-1	icelandic	92_walkgo	f aː r a	icel1247	isl	1443	WALK	511	
+1229	icelandic-94_water-1	icelandic	94_water	v aʰ/a t n̥	icel1247	isl	948	WATER	526	
+1230	icelandic-95_we-1	icelandic	95_we	v ɪː ð	icel1247	isl	1212	WE	530	
+1231	icelandic-96_what-1	icelandic	96_what	xʷ aː ð	icel1247	isl	1236	WHAT	531	
+1232	icelandic-97_white-1	icelandic	97_white	xʷ iː t ʏ r	icel1247	isl	1335	WHITE	532	
+1233	icelandic-98_who-1	icelandic	98_who	xʷ ɛː r	icel1247	isl	1235	WHO	538	
+1234	icelandic-99_woman-1	icelandic	99_woman	kʰ ɔː n a	icel1247	isl	962	WOMAN	544	
+1235	icelandic-9_blood-1	icelandic	9_blood	p l ouː θ	icel1247	isl	946	BLOOD	71	
+1236	italian-100_yellow-1	italian	100_yellow	dʒ a lː o	ital1282	ita	1424	YELLOW	551	
+1237	italian-101_far-1	italian	101_far	l o n t a n o	ital1282	ita	1406	FAR	558	
+1238	italian-102_heavy-1	italian	102_heavy	p e s a n t e	ital1282	ita	1210	HEAVY	560	
+1239	italian-103_near-1	italian	103_near	p r o sː i m o	ital1282	ita	1942	NEAR	567	
+1240	italian-104_salt-1	italian	104_salt	s a l e	ital1282	ita	1274	SALT	576	
+1241	italian-105_short-1	italian	105_short	b r ɛ v e	ital1282	ita	1645	SHORT	577	
+1242	italian-105_short-2	italian	105_short	k o r t o	ital1282	ita	1645	SHORT	581	
+1243	italian-106_snake-1	italian	106_snake	s ɛ r p ɛ n t e	ital1282	ita	730	SNAKE	589	
+1246	italian-108_wind-1	italian	108_wind	v ɛ n t o	ital1282	ita	960	WIND	602	
+1247	italian-109_worm-1	italian	109_worm	v ɛ r m e	ital1282	ita	1219	WORM	607	
+1248	italian-10_bone-1	italian	10_bone	ɔ sː o	ital1282	ita	1394	BONE	73	
+1249	italian-110_year-1	italian	110_year	a nː o	ital1282	ita	1226	YEAR	611	
+1254	italian-14_cloud-1	italian	14_cloud	n u v o l a	ital1282	ita	1489	CLOUD	100	
+1256	italian-16_come-1	italian	16_come	v e n i r e	ital1282	ita	1446	COME	115	
+1257	italian-17_die-1	italian	17_die	m o r i r e	ital1282	ita	1494	DIE	121	
+1258	italian-18_dog-1	italian	18_dog	k a n e	ital1282	ita	2009	DOG	124	
+1259	italian-19_drink-1	italian	19_drink	b e r e	ital1282	ita	1401	DRINK	132	
+1260	italian-1_all-1	italian	1_all	i n t ɛ r o	ital1282	ita	98	ALL	2	
+1261	italian-1_all-2	italian	1_all	t u tː o	ital1282	ita	98	ALL	6	
+1262	italian-20_dry-1	italian	20_dry	s e kː o	ital1282	ita	1398	DRY	137	
+1263	italian-20_dry-2	italian	20_dry	a ʃː u tː o	ital1282	ita	1398	DRY	136	
+1264	italian-21_ear-1	italian	21_ear	ɔ r e kː j o	ital1282	ita	1247	EAR	141	
+1265	italian-22_earth-1	italian	22_earth	t ɛ rː a	ital1282	ita	1228	EARTH (SOIL)	144	
+1266	italian-23_eat-1	italian	23_eat	m a n dʒ a r e	ital1282	ita	1336	EAT	148	
+1267	italian-24_egg-1	italian	24_egg	w ɔ v o	ital1282	ita	744	EGG	154	
+1268	italian-25_eye-1	italian	25_eye	ɔ kː j o	ital1282	ita	1248	EYE	158	
+1270	italian-27_feather-1	italian	27_feather	p j u m a	ital1282	ita	1201	FEATHER	172	
+1271	italian-27_feather-2	italian	27_feather	p ɛ nː a	ital1282	ita	1201	FEATHER	170	
+1272	italian-28_fire-1	italian	28_fire	f w ɔ k o	ital1282	ita	221	FIRE	179	
+1273	italian-29_fish-1	italian	29_fish	p e ʃː e	ital1282	ita	227	FISH	182	
+1274	italian-2_ashes-1	italian	2_ashes	tʃ e n e r e	ital1282	ita	646	ASH	12	
+1275	italian-30_flyv-1	italian	30_flyv	v o l a r e	ital1282	ita	1441	FLY (MOVE THROUGH AIR)	187	
+1276	italian-31_foot-1	italian	31_foot	p j ɛ d e	ital1282	ita	1301	FOOT	194	
+1278	italian-33_give-1	italian	33_give	d a r e	ital1282	ita	1447	GIVE	198	
+1279	italian-34_good-1	italian	34_good	b w ɔ n o	ital1282	ita	1035	GOOD	200	
+1280	italian-35_green-1	italian	35_green	v e r d e	ital1282	ita	1425	GREEN	208	
+1281	italian-36_hair-1	italian	36_hair	k a p e lː o	ital1282	ita	1040	HAIR	216	
+1282	italian-37_hand-1	italian	37_hand	m a n o	ital1282	ita	1277	HAND	221	
+1283	italian-38_head-1	italian	38_head	t ɛ s t a	ital1282	ita	1256	HEAD	222	
+1284	italian-39_hear-1	italian	39_hear	u d i r e	ital1282	ita	1408	HEAR	229	
+1285	italian-3_bark-1	italian	3_bark	k o r t e tʃː a	ital1282	ita	1204	BARK	18	
+1286	italian-40_heart-1	italian	40_heart	k w ɔ r e	ital1282	ita	1223	HEART	235	
+1288	italian-42_i-1	italian	42_i	i o	ital1282	ita	1209	I	240	
+1289	italian-43_kill-1	italian	43_kill	u tʃː i d e r e	ital1282	ita	1417	KILL	250	
+1291	italian-45_know-1	italian	45_know	k o n o ʃː e r e	ital1282	ita	1410	KNOW (SOMETHING)	257	
+1292	italian-45_know-2	italian	45_know	s a p e r e	ital1282	ita	1410	KNOW (SOMETHING)	255	
+1293	italian-46_leaf-1	italian	46_leaf	f ɔ ʎː a	ital1282	ita	628	LEAF	262	
+1294	italian-47_lie-1	italian	47_lie	dʒ a tʃ e r e	ital1282	ita	1411	LIE (REST)	268	
+1295	italian-48_liver-1	italian	48_liver	f e ɡ a t o	ital1282	ita	1224	LIVER	271	
+1296	italian-49_long-1	italian	49_long	l u n ɡ o	ital1282	ita	1203	LONG	281	
+1297	italian-4_belly-1	italian	4_belly	p a n tʃ a	ital1282	ita	1251	BELLY	33	
+1298	italian-4_belly-2	italian	4_belly	v ɛ n t r e	ital1282	ita	1251	BELLY	26	
+1299	italian-50_louse-1	italian	50_louse	p i d ɔ kː j o	ital1282	ita	1392	LOUSE	288	
+1300	italian-52_many-1	italian	52_many	m o l t o	ital1282	ita	1198	MANY	294	
+1303	italian-55_mountain-1	italian	55_mountain	m o n t a ɲː a	ital1282	ita	639	MOUNTAIN	323	
+1304	italian-56_mouth-1	italian	56_mouth	b o kː a	ital1282	ita	674	MOUTH	327	
+1305	italian-57_name-1	italian	57_name	n o m e	ital1282	ita	1405	NAME	334	
+1306	italian-58_neck-1	italian	58_neck	k ɔ lː o	ital1282	ita	1333	NECK	339	
+1307	italian-59_new-1	italian	59_new	n w ɔ v o	ital1282	ita	1231	NEW	343	
+1308	italian-5_big-1	italian	5_big	ɡ r a n d e	ital1282	ita	1202	BIG	47	
+1309	italian-60_night-1	italian	60_night	n ɔ tː e	ital1282	ita	1233	NIGHT	346	
+1310	italian-61_nose-1	italian	61_nose	n a s o	ital1282	ita	1221	NOSE	350	
+1311	italian-62_not-1	italian	62_not	n o n	ital1282	ita	1240	NOT	352	
+1312	italian-63_one-1	italian	63_one	u n o	ital1282	ita	1493	ONE	354	
+1313	italian-64_person-1	italian	64_person	w ɔ m o	ital1282	ita	683	PERSON	357	
+1315	italian-66_red-1	italian	66_red	r o sː o	ital1282	ita	156	RED	368	
+1316	italian-67_road-1	italian	67_road	s t r a d a	ital1282	ita	667	ROAD	379	
+1317	italian-67_road-2	italian	67_road	v i a	ital1282	ita	667	ROAD	380	
+1318	italian-68_root-1	italian	68_root	r a d i tʃ e	ital1282	ita	670	ROOT	386	
+1320	italian-6_bird-1	italian	6_bird	u tʃː ɛ lː o	ital1282	ita	937	BIRD	52	
+1321	italian-70_sand-1	italian	70_sand	s a bː j a	ital1282	ita	671	SAND	397	
+1322	italian-71_say-1	italian	71_say	d i r e	ital1282	ita	1458	SAY	408	
+1323	italian-72_see-1	italian	72_see	v e d e r e	ital1282	ita	1409	SEE	413	
+1324	italian-73_seed-1	italian	73_seed	s e m e	ital1282	ita	714	SEED	421	
+1325	italian-74_sit-1	italian	74_sit	s e d e r e	ital1282	ita	1416	SIT	424	
+1327	italian-76_sleep-1	italian	76_sleep	d o r m i r e	ital1282	ita	1585	SLEEP	437	
+1328	italian-77_small-1	italian	77_small	p i kː o l o	ital1282	ita	1246	SMALL	440	
+1329	italian-78_smoke-1	italian	78_smoke	f u m o	ital1282	ita	778	SMOKE (EXHAUST)	446	
+1330	italian-79_stand-1	italian	79_stand	s t a r e	ital1282	ita	1442	STAND	451	
+1331	italian-7_bite-1	italian	7_bite	m ɔ r d e r e	ital1282	ita	1403	BITE	56	
+1332	italian-80_star-1	italian	80_star	s t e lː a	ital1282	ita	1430	STAR	454	
+1333	italian-81_stone-1	italian	81_stone	s a sː o	ital1282	ita	857	STONE	456	
+1334	italian-82_sun-1	italian	82_sun	s o l e	ital1282	ita	1343	SUN	463	
+1335	italian-83_swim-1	italian	83_swim	n w o t a r e	ital1282	ita	1439	SWIM	466	
+1336	italian-84_tail-1	italian	84_tail	k o d a	ital1282	ita	1220	TAIL	471	
+1337	italian-85_that-1	italian	85_that	k w e lː o	ital1282	ita	78	THAT	486	
+1338	italian-86_this-1	italian	86_this	k w e s t o	ital1282	ita	1214	THIS	493	
+1339	italian-87_thou-1	italian	87_thou	t u	ital1282	ita	1215	THOU	495	
+1340	italian-88_tongue-1	italian	88_tongue	l i ŋ ɡ w a	ital1282	ita	1205	TONGUE	496	
+1341	italian-89_tooth-1	italian	89_tooth	d ɛ n t e	ital1282	ita	1380	TOOTH	499	
+1342	italian-8_black-1	italian	8_black	n e r o	ital1282	ita	163	BLACK	63	
+1343	italian-90_tree-1	italian	90_tree	a l b e r o	ital1282	ita	906	TREE	506	
+1344	italian-91_two-1	italian	91_two	d u e	ital1282	ita	1498	TWO	507	
+1345	italian-92_walkgo-1	italian	92_walkgo	v o	ital1282	ita	1443	WALK	510	
+1346	italian-92_walkgo-2	italian	92_walkgo	a n d a r e	ital1282	ita	1443	WALK	513	
+1348	italian-94_water-1	italian	94_water	a kː w a	ital1282	ita	948	WATER	523	
+1349	italian-95_we-1	italian	95_we	n oi	ital1282	ita	1212	WE	529	
+1350	italian-96_what-1	italian	96_what	k e	ital1282	ita	1236	WHAT	531	
+1351	italian-97_white-1	italian	97_white	b j a n k o	ital1282	ita	1335	WHITE	533	
+1352	italian-98_who-1	italian	98_who	k i	ital1282	ita	1235	WHO	538	
+1353	italian-99_woman-1	italian	99_woman	d ɔ nː a	ital1282	ita	962	WOMAN	540	
+1354	italian-9_blood-1	italian	9_blood	s a ŋ ɡ w e	ital1282	ita	946	BLOOD	69	
+1355	norwegian-100_yellow-1	norwegian	100_yellow	g ʉː l	norw1258	nor	1424	YELLOW	550	
+1356	norwegian-101_far-1	norwegian	101_far	b u ʈ	norw1258	nor	1406	FAR	558	
+1357	norwegian-102_heavy-1	norwegian	102_heavy	t u ŋ	norw1258	nor	1210	HEAVY	563	
+1358	norwegian-103_near-1	norwegian	103_near	n æː ɾ	norw1258	nor	1942	NEAR	574	
+1359	norwegian-104_salt-1	norwegian	104_salt	s ɑ l t	norw1258	nor	1274	SALT	576	
+1360	norwegian-105_short-1	norwegian	105_short	k ɔ ʈ	norw1258	nor	1645	SHORT	-581	
+1361	norwegian-106_snake-1	norwegian	106_snake	ɔ ɾ m	norw1258	nor	730	SNAKE	590	
+1362	norwegian-106_snake-2	norwegian	106_snake	ʃ l ɑ ŋ ə	norw1258	nor	730	SNAKE	585	
+1365	norwegian-108_wind-1	norwegian	108_wind	ʋ i n	norw1258	nor	960	WIND	602	
+1366	norwegian-109_worm-1	norwegian	109_worm	m ɑ ɾ k	norw1258	nor	1219	WORM	606	
+1367	norwegian-10_bone-1	norwegian	10_bone	b eː n	norw1258	nor	1394	BONE	76	
+1368	norwegian-110_year-1	norwegian	110_year	oː ɾ	norw1258	nor	1226	YEAR	614	
+1372	norwegian-14_cloud-1	norwegian	14_cloud	ʃ yː	norw1258	nor	1489	CLOUD	-96	
+1374	norwegian-16_come-1	norwegian	16_come	k ɔ m ə	norw1258	nor	1446	COME	115	
+1375	norwegian-17_die-1	norwegian	17_die	d øː	norw1258	nor	1494	DIE	119	
+1376	norwegian-18_dog-1	norwegian	18_dog	h ʉ n	norw1258	nor	2009	DOG	-123	
+1377	norwegian-19_drink-1	norwegian	19_drink	d ɾ i k ə	norw1258	nor	1401	DRINK	-133	
+1378	norwegian-1_all-1	norwegian	1_all	ɑ l ə	norw1258	nor	98	ALL	5	
+1379	norwegian-20_dry-1	norwegian	20_dry	t œ ɾ	norw1258	nor	1398	DRY	135	
+1380	norwegian-21_ear-1	norwegian	21_ear	øː ɾ ə	norw1258	nor	1247	EAR	141	
+1381	norwegian-22_earth-1	norwegian	22_earth	j uː ɾ	norw1258	nor	1228	EARTH (SOIL)	-146	
+1382	norwegian-23_eat-1	norwegian	23_eat	s p iː s ə	norw1258	nor	1336	EAT	-149	
+1383	norwegian-24_egg-1	norwegian	24_egg	e g	norw1258	nor	744	EGG	154	
+1384	norwegian-25_eye-1	norwegian	25_eye	œ j ə	norw1258	nor	1248	EYE	158	
+1386	norwegian-27_feather-1	norwegian	27_feather	f j æː ɾ	norw1258	nor	1201	FEATHER	170	
+1387	norwegian-28_fire-1	norwegian	28_fire	ʋ ɑ ɾ m ə	norw1258	nor	221	FIRE	177	
+1388	norwegian-28_fire-2	norwegian	28_fire	i l	norw1258	nor	221	FIRE	176	
+1389	norwegian-29_fish-1	norwegian	29_fish	f i s k	norw1258	nor	227	FISH	182	
+1390	norwegian-2_ashes-1	norwegian	2_ashes	ɑ s k	norw1258	nor	646	ASH	-10	
+1391	norwegian-30_flyv-1	norwegian	30_flyv	f l yː	norw1258	nor	1441	FLY (MOVE THROUGH AIR)	190	
+1392	norwegian-31_foot-1	norwegian	31_foot	f uː t	norw1258	nor	1301	FOOT	194	
+1394	norwegian-33_give-1	norwegian	33_give	j iː	norw1258	nor	1447	GIVE	197	
+1395	norwegian-34_good-1	norwegian	34_good	g uː	norw1258	nor	1035	GOOD	205	
+1396	norwegian-35_green-1	norwegian	35_green	g ɾ œ n	norw1258	nor	1425	GREEN	209	
+1397	norwegian-36_hair-1	norwegian	36_hair	h oː ɾ	norw1258	nor	1040	HAIR	217	
+1398	norwegian-37_hand-1	norwegian	37_hand	h ɔ n	norw1258	nor	1277	HAND	-218	
+1399	norwegian-38_head-1	norwegian	38_head	h uː d ə	norw1258	nor	1256	HEAD	223	
+1400	norwegian-39_hear-1	norwegian	39_hear	h øː ɾ ə	norw1258	nor	1408	HEAR	230	
+1401	norwegian-3_bark-1	norwegian	3_bark	b ɑ ɾ k	norw1258	nor	1204	BARK	-15	
+1402	norwegian-40_heart-1	norwegian	40_heart	j æ ʈ ə	norw1258	nor	1223	HEART	-235	
+1404	norwegian-42_i-1	norwegian	42_i	j æ j	norw1258	nor	1209	I	240	
+1405	norwegian-43_kill-1	norwegian	43_kill	d ɾ eː p ə	norw1258	nor	1417	KILL	248	
+1407	norwegian-45_know-1	norwegian	45_know	ʋ iː t ə	norw1258	nor	1410	KNOW (SOMETHING)	256	
+1408	norwegian-45_know-2	norwegian	45_know	ç e n ə	norw1258	nor	1410	KNOW (SOMETHING)	257	
+1409	norwegian-46_leaf-1	norwegian	46_leaf	b l ɑː	norw1258	nor	628	LEAF	-262	
+1410	norwegian-46_leaf-2	norwegian	46_leaf	l øː ʋ	norw1258	nor	628	LEAF	264	
+1411	norwegian-47_lie-1	norwegian	47_lie	l i g ə	norw1258	nor	1411	LIE (REST)	269	
+1412	norwegian-48_liver-1	norwegian	48_liver	l e ʋ ə ɾ	norw1258	nor	1224	LIVER	-273	
+1413	norwegian-49_long-1	norwegian	49_long	l ɑ ŋ	norw1258	nor	1203	LONG	281	
+1414	norwegian-4_belly-1	norwegian	4_belly	m ɑː g ə	norw1258	nor	1251	BELLY	32	
+1415	norwegian-4_belly-2	norwegian	4_belly	b ʉː k	norw1258	nor	1251	BELLY	27	
+1416	norwegian-50_louse-1	norwegian	50_louse	l ʉː s	norw1258	nor	1392	LOUSE	286	
+1418	norwegian-52_many-1	norwegian	52_many	m ɑ ŋ ə	norw1258	nor	1198	MANY	296	
+1419	norwegian-52_many-2	norwegian	52_many	m eː g ə t	norw1258	nor	1198	MANY	295	
+1422	norwegian-55_mountain-1	norwegian	55_mountain	f j e l	norw1258	nor	639	MOUNTAIN	318	
+1423	norwegian-56_mouth-1	norwegian	56_mouth	m ʉ n	norw1258	nor	674	MOUTH	328	
+1424	norwegian-57_name-1	norwegian	57_name	n ɑ ʋ n	norw1258	nor	1405	NAME	-334	
+1425	norwegian-58_neck-1	norwegian	58_neck	h ɑ l s	norw1258	nor	1333	NECK	339	
+1426	norwegian-59_new-1	norwegian	59_new	n yː	norw1258	nor	1231	NEW	343	
+1427	norwegian-5_big-1	norwegian	5_big	s t uː ɾ	norw1258	nor	1202	BIG	-43	
+1428	norwegian-60_night-1	norwegian	60_night	n ɑ t	norw1258	nor	1233	NIGHT	346	
+1429	norwegian-61_nose-1	norwegian	61_nose	n eː s ə	norw1258	nor	1221	NOSE	350	
+1430	norwegian-62_not-1	norwegian	62_not	i k ə	norw1258	nor	1240	NOT	353	
+1431	norwegian-63_one-1	norwegian	63_one	eː n	norw1258	nor	1493	ONE	354	
+1432	norwegian-64_person-1	norwegian	64_person	m e n ə s k ə	norw1258	nor	683	PERSON	361	
+1434	norwegian-6_bird-1	norwegian	6_bird	f ʉː l	norw1258	nor	937	BIRD	51	
+1435	norwegian-71_say-1	norwegian	71_say	s iː	norw1258	nor	1458	SAY	405	
+1436	norwegian-72_see-1	norwegian	72_see	s eː	norw1258	nor	1409	SEE	414	
+1437	norwegian-73_seed-1	norwegian	73_seed	f ɾ øː	norw1258	nor	714	SEED	420	
+1438	norwegian-74_sit-1	norwegian	74_sit	s i t ə	norw1258	nor	1416	SIT	424	
+1440	norwegian-76_sleep-1	norwegian	76_sleep	s oː ʋ ə	norw1258	nor	1585	SLEEP	435	
+1441	norwegian-77_small-1	norwegian	77_small	l iː t ə n	norw1258	nor	1246	SMALL	439	
+1442	norwegian-78_smoke-1	norwegian	78_smoke	ɾ œ j k	norw1258	nor	778	SMOKE (EXHAUST)	449	
+1443	norwegian-79_stand-1	norwegian	79_stand	s t oː	norw1258	nor	1442	STAND	451	
+1444	norwegian-7_bite-1	norwegian	7_bite	b iː t ə	norw1258	nor	1403	BITE	54	
+1445	norwegian-80_star-1	norwegian	80_star	s t j æː ɳ ə	norw1258	nor	1430	STAR	454	
+1446	norwegian-81_stone-1	norwegian	81_stone	s t æ j n	norw1258	nor	857	STONE	458	
+1447	norwegian-82_sun-1	norwegian	82_sun	s uː l	norw1258	nor	1343	SUN	463	
+1448	norwegian-83_swim-1	norwegian	83_swim	s ʋ œ m ə	norw1258	nor	1439	SWIM	465	
+1449	norwegian-84_tail-1	norwegian	84_tail	h ɑː l ə	norw1258	nor	1220	TAIL	482	
+1450	norwegian-85_that-1	norwegian	85_that	d eː	norw1258	nor	78	THAT	487	
+1451	norwegian-86_this-1	norwegian	86_this	d e t ə	norw1258	nor	1214	THIS	492	
+1452	norwegian-87_thou-1	norwegian	87_thou	d ʉː	norw1258	nor	1215	THOU	495	
+1453	norwegian-88_tongue-1	norwegian	88_tongue	t u ŋ ə	norw1258	nor	1205	TONGUE	496	
+1454	norwegian-89_tooth-1	norwegian	89_tooth	t ɑ n	norw1258	nor	1380	TOOTH	499	
+1455	norwegian-8_black-1	norwegian	8_black	s ɔ ʈ	norw1258	nor	163	BLACK	60	
+1456	norwegian-90_tree-1	norwegian	90_tree	t ɾ eː	norw1258	nor	906	TREE	501	
+1457	norwegian-91_two-1	norwegian	91_two	t uː	norw1258	nor	1498	TWO	507	
+1458	norwegian-92_walkgo-1	norwegian	92_walkgo	g oː	norw1258	nor	1443	WALK	509	
+1460	norwegian-94_water-1	norwegian	94_water	ʋ ɑ n	norw1258	nor	948	WATER	526	
+1461	norwegian-95_we-1	norwegian	95_we	ʋ iː	norw1258	nor	1212	WE	530	
+1462	norwegian-96_what-1	norwegian	96_what	ʋ ɑː	norw1258	nor	1236	WHAT	531	
+1463	norwegian-97_white-1	norwegian	97_white	ʋ iː t	norw1258	nor	1335	WHITE	532	
+1464	norwegian-98_who-1	norwegian	98_who	ʋ e m	norw1258	nor	1235	WHO	538	
+1465	norwegian-99_woman-1	norwegian	99_woman	k ʋ i n ə	norw1258	nor	962	WOMAN	544	
+1466	norwegian-9_blood-1	norwegian	9_blood	b l uː	norw1258	nor	946	BLOOD	71	
+1467	polish-100_yellow-1	polish	100_yellow	ʒ u w t ɨ	poli1260	pol	1424	YELLOW	550	
+1468	polish-101_far-1	polish	101_far	d a l ɛ k i	poli1260	pol	1406	FAR	558	
+1469	polish-102_heavy-1	polish	102_heavy	tɕ ɛ̃ ʃ k i	poli1260	pol	1210	HEAVY	563	
+1470	polish-103_near-1	polish	103_near	b l i s k ɨ	poli1260	pol	1942	NEAR	570	
+1471	polish-104_salt-1	polish	104_salt	s u l	poli1260	pol	1274	SALT	576	
+1472	polish-105_short-1	polish	105_short	k r u t k i	poli1260	pol	1645	SHORT	581	
+1473	polish-106_snake-1	polish	106_snake	ʒ m i j a	poli1260	pol	730	SNAKE	584	
+1474	polish-106_snake-2	polish	106_snake	v ɔ̃ ʒ	poli1260	pol	730	SNAKE	587	
+1476	polish-108_wind-1	polish	108_wind	vʲ a t r	poli1260	pol	960	WIND	602	
+1477	polish-109_worm-1	polish	109_worm	tʃ ɛ r f	poli1260	pol	1219	WORM	608	
+1478	polish-10_bone-1	polish	10_bone	k ɔ ɕ tɕ	poli1260	pol	1394	BONE	75	
+1479	polish-110_year-1	polish	110_year	r ɔ k	poli1260	pol	1226	YEAR	612	
+1483	polish-14_cloud-1	polish	14_cloud	ɔ b w ɔ k	poli1260	pol	1489	CLOUD	103	
+1486	polish-16_come-1	polish	16_come	p ʃ ɨ j ɕ tɕ	poli1260	pol	1446	COME	116	
+1487	polish-16_come-2	polish	16_come	p ʃ ɨ x ɔ dʑ i tɕ	poli1260	pol	1446	COME	114	
+1488	polish-17_die-1	polish	17_die	u mʲ ɛ r a tɕ	poli1260	pol	1494	DIE	121	
+1489	polish-18_dog-1	polish	18_dog	pʲ ɛ s	poli1260	pol	2009	DOG	128	
+1490	polish-19_drink-1	polish	19_drink	p i tɕ	poli1260	pol	1401	DRINK	132	
+1491	polish-1_all-1	polish	1_all	f ʃ ɨ s ts ɨ	poli1260	pol	98	ALL	3	
+1492	polish-20_dry-1	polish	20_dry	s u x ɨ	poli1260	pol	1398	DRY	138	
+1493	polish-21_ear-1	polish	21_ear	u x ɔ	poli1260	pol	1247	EAR	141	
+1494	polish-22_earth-1	polish	22_earth	ʑ ɛ mʲ a	poli1260	pol	1228	EARTH (SOIL)	145	
+1495	polish-23_eat-1	polish	23_eat	j ɛ ɕ tɕ	poli1260	pol	1336	EAT	150	
+1496	polish-24_egg-1	polish	24_egg	j a j k ɔ	poli1260	pol	744	EGG	154	
+1497	polish-25_eye-1	polish	25_eye	ɔ k ɔ	poli1260	pol	1248	EYE	158	
+1499	polish-27_feather-1	polish	27_feather	pʲ u r ɔ	poli1260	pol	1201	FEATHER	174	
+1500	polish-28_fire-1	polish	28_fire	ɔ ɡʲ ɛ nʲ	poli1260	pol	221	FIRE	178	
+1501	polish-29_fish-1	polish	29_fish	r ɨ b a	poli1260	pol	227	FISH	184	
+1502	polish-2_ashes-1	polish	2_ashes	p ɔ pʲ u w	poli1260	pol	646	ASH	8	
+1503	polish-30_flyv-1	polish	30_flyv	l a t a tɕ	poli1260	pol	1441	FLY (MOVE THROUGH AIR)	188	
+1504	polish-31_foot-1	polish	31_foot	n ɔ ɡ a	poli1260	pol	1301	FOOT	192	
+1506	polish-33_give-1	polish	33_give	d a v a tɕ	poli1260	pol	1447	GIVE	198	
+1507	polish-34_good-1	polish	34_good	d ɔ b r ɨ	poli1260	pol	1035	GOOD	204	
+1508	polish-35_green-1	polish	35_green	ʑ ɛ l ɔ n ɨ	poli1260	pol	1425	GREEN	207	
+1509	polish-36_hair-1	polish	36_hair	v w ɔ s ɨ	poli1260	pol	1040	HAIR	212	
+1510	polish-37_hand-1	polish	37_hand	r ɛ̃ k a	poli1260	pol	1277	HAND	220	
+1511	polish-38_head-1	polish	38_head	ɡ w ɔ v a	poli1260	pol	1256	HEAD	228	
+1512	polish-39_hear-1	polish	39_hear	s w ɨ ʃ ɛ tɕ	poli1260	pol	1408	HEAR	231	
+1513	polish-3_bark-1	polish	3_bark	k ɔ r a	poli1260	pol	1204	BARK	23	
+1514	polish-40_heart-1	polish	40_heart	s ɛ r ts ɛ	poli1260	pol	1223	HEART	235	
+1516	polish-42_i-1	polish	42_i	j a	poli1260	pol	1209	I	240	
+1517	polish-43_kill-1	polish	43_kill	z a b i j a tɕ	poli1260	pol	1417	KILL	246	
+1519	polish-45_know-1	polish	45_know	z n a tɕ	poli1260	pol	1410	KNOW (SOMETHING)	257	
+1520	polish-45_know-2	polish	45_know	vʲ ɛ dʑ ɛ tɕ	poli1260	pol	1410	KNOW (SOMETHING)	256	
+1521	polish-46_leaf-1	polish	46_leaf	l i ɕ tɕ	poli1260	pol	628	LEAF	263	
+1522	polish-47_lie-1	polish	47_lie	l ɛ ʒ ɛ tɕ	poli1260	pol	1411	LIE (REST)	269	
+1523	polish-48_liver-1	polish	48_liver	v ɔ̃ t r ɔ b a	poli1260	pol	1224	LIVER	277	
+1524	polish-49_long-1	polish	49_long	d w u ɡ i	poli1260	pol	1203	LONG	281	
+1525	polish-4_belly-1	polish	4_belly	b ʒ u x	poli1260	pol	1251	BELLY	35	
+1526	polish-50_louse-1	polish	50_louse	v ɛ ʃ	poli1260	pol	1392	LOUSE	284	
+1528	polish-52_many-1	polish	52_many	vʲ ɛ l ɛ	poli1260	pol	1198	MANY	297	
+1529	polish-52_many-2	polish	52_many	d u ʒ ɔ	poli1260	pol	1198	MANY	300	
+1532	polish-55_mountain-1	polish	55_mountain	ɡ u r a	poli1260	pol	639	MOUNTAIN	324	
+1533	polish-56_mouth-1	polish	56_mouth	u s t a	poli1260	pol	674	MOUTH	329	
+1534	polish-57_name-1	polish	57_name	i mʲ ɛ̃	poli1260	pol	1405	NAME	334	
+1535	polish-58_neck-1	polish	58_neck	ʃ ɨ j a	poli1260	pol	1333	NECK	340	
+1536	polish-59_new-1	polish	59_new	n ɔ v ɨ	poli1260	pol	1231	NEW	343	
+1537	polish-5_big-1	polish	5_big	vʲ ɛ l k i	poli1260	pol	1202	BIG	41	
+1538	polish-5_big-2	polish	5_big	d u ʒ ɨ	poli1260	pol	1202	BIG	45	
+1539	polish-60_night-1	polish	60_night	n ɔ ts	poli1260	pol	1233	NIGHT	346	
+1540	polish-61_nose-1	polish	61_nose	n ɔ s	poli1260	pol	1221	NOSE	350	
+1541	polish-62_not-1	polish	62_not	nʲ ɛ	poli1260	pol	1240	NOT	352	
+1542	polish-63_one-1	polish	63_one	j ɛ d ɛ n	poli1260	pol	1493	ONE	354	
+1543	polish-64_person-1	polish	64_person	tʃ w ɔ vʲ ɛ k	poli1260	pol	683	PERSON	360	
+1545	polish-66_red-1	polish	66_red	tʃ ɛ r v ɔ n ɨ	poli1260	pol	156	RED	367	
+1546	polish-67_road-1	polish	67_road	d r ɔ ɡ a	poli1260	pol	667	ROAD	373	
+1547	polish-68_root-1	polish	68_root	k ɔ ʒ ɛ ɲ	poli1260	pol	670	ROOT	385	
+1549	polish-6_bird-1	polish	6_bird	p t a k	poli1260	pol	937	BIRD	51	
+1550	polish-70_sand-1	polish	70_sand	pʲ a s ɛ k	poli1260	pol	671	SAND	400	
+1551	polish-71_say-1	polish	71_say	p ɔ vʲ ɛ dʑ ɛ tɕ	poli1260	pol	1458	SAY	407	
+1552	polish-72_see-1	polish	72_see	v i dʑ ɛ tɕ	poli1260	pol	1409	SEE	413	
+1553	polish-73_seed-1	polish	73_seed	ɕ ɛ mʲ ɛ̃	poli1260	pol	714	SEED	421	
+1554	polish-74_sit-1	polish	74_sit	ɕ ɛ dʑ ɛ tɕ	poli1260	pol	1416	SIT	424	
+1556	polish-76_sleep-1	polish	76_sleep	s p a tɕ	poli1260	pol	1585	SLEEP	435	
+1557	polish-77_small-1	polish	77_small	m a w ɨ	poli1260	pol	1246	SMALL	441	
+1558	polish-78_smoke-1	polish	78_smoke	d ɨ m	poli1260	pol	778	SMOKE (EXHAUST)	446	
+1559	polish-79_stand-1	polish	79_stand	s t a tɕ	poli1260	pol	1442	STAND	451	
+1560	polish-7_bite-1	polish	7_bite	sː a tɕ	poli1260	pol	1403	BITE	57	
+1561	polish-80_star-1	polish	80_star	ɡ vʲ a z d a	poli1260	pol	1430	STAR	453	
+1562	polish-81_stone-1	polish	81_stone	k a mʲ ɛ ɲ	poli1260	pol	857	STONE	459	
+1563	polish-82_sun-1	polish	82_sun	s w ɔ nʲ ts ɛ	poli1260	pol	1343	SUN	463	
+1564	polish-83_swim-1	polish	83_swim	p w ɨ v a tɕ	poli1260	pol	1439	SWIM	467	
+1565	polish-84_tail-1	polish	84_tail	ɔ ɡ ɔ n	poli1260	pol	1220	TAIL	483	
+1566	polish-85_that-1	polish	85_that	t a m t ɔ	poli1260	pol	78	THAT	487	
+1567	polish-86_this-1	polish	86_this	t ɔ	poli1260	pol	1214	THIS	492	
+1568	polish-87_thou-1	polish	87_thou	t ɨ	poli1260	pol	1215	THOU	495	
+1569	polish-88_tongue-1	polish	88_tongue	j ɛ̃ z ɨ k	poli1260	pol	1205	TONGUE	496	
+1570	polish-89_tooth-1	polish	89_tooth	z ɔ̃ p	poli1260	pol	1380	TOOTH	498	
+1571	polish-8_black-1	polish	8_black	tʃ a r n ɨ	poli1260	pol	163	BLACK	66	
+1572	polish-90_tree-1	polish	90_tree	d ʒ ɛ v ɔ	poli1260	pol	906	TREE	501	
+1573	polish-91_two-1	polish	91_two	d v a	poli1260	pol	1498	TWO	507	
+1574	polish-92_walkgo-1	polish	92_walkgo	i ɕ tɕ	poli1260	pol	1443	WALK	514	
+1576	polish-94_water-1	polish	94_water	v ɔ d a	poli1260	pol	948	WATER	526	
+1577	polish-95_we-1	polish	95_we	m ɨ	poli1260	pol	1212	WE	528	
+1578	polish-96_what-1	polish	96_what	ts ɔ	poli1260	pol	1236	WHAT	531	
+1579	polish-97_white-1	polish	97_white	bʲ a w ɨ	poli1260	pol	1335	WHITE	536	
+1580	polish-98_who-1	polish	98_who	k t ɔ	poli1260	pol	1235	WHO	538	
+1581	polish-99_woman-1	polish	99_woman	k ɔ bʲ ɛ t a	poli1260	pol	962	WOMAN	546	
+1582	polish-9_blood-1	polish	9_blood	k r ɛ f	poli1260	pol	946	BLOOD	68	
+1583	portuguese-100_yellow-1	portuguese	100_yellow	ɐ m ɐ r ɛ l u	port1283	por	1424	YELLOW	548	
+1584	portuguese-101_far-1	portuguese	101_far	l õ ʒ ə	port1283	por	1406	FAR	558	
+1585	portuguese-102_heavy-1	portuguese	102_heavy	p ə z a d u	port1283	por	1210	HEAVY	560	
+1586	portuguese-103_near-1	portuguese	103_near	p r ɔ s i m u	port1283	por	1942	NEAR	567	
+1587	portuguese-104_salt-1	portuguese	104_salt	s a l	port1283	por	1274	SALT	576	
+1588	portuguese-105_short-1	portuguese	105_short	k u r t u	port1283	por	1645	SHORT	581	
+1589	portuguese-105_short-2	portuguese	105_short	b r ɛ v ə	port1283	por	1645	SHORT	577	
+1590	portuguese-106_snake-1	portuguese	106_snake	s ə r p ẽ t ə	port1283	por	730	SNAKE	589	
+1591	portuguese-106_snake-2	portuguese	106_snake	k ɔ b r ɐ	port1283	por	730	SNAKE	583	
+1594	portuguese-108_wind-1	portuguese	108_wind	v ẽ t u	port1283	por	960	WIND	602	
+1595	portuguese-109_worm-1	portuguese	109_worm	v ɛ r m ə	port1283	por	1219	WORM	607	
+1596	portuguese-10_bone-1	portuguese	10_bone	o s u	port1283	por	1394	BONE	73	
+1597	portuguese-110_year-1	portuguese	110_year	ɐ n u	port1283	por	1226	YEAR	611	
+1602	portuguese-14_cloud-1	portuguese	14_cloud	n u v ɐ̃ j	port1283	por	1489	CLOUD	100	
+1604	portuguese-16_come-1	portuguese	16_come	v i r	port1283	por	1446	COME	115	
+1605	portuguese-17_die-1	portuguese	17_die	m u ʀ e r	port1283	por	1494	DIE	121	
+1606	portuguese-18_dog-1	portuguese	18_dog	k ɐ̃ uː	port1283	por	2009	DOG	124	
+1607	portuguese-19_drink-1	portuguese	19_drink	b ə b e r	port1283	por	1401	DRINK	132	
+1608	portuguese-1_all-1	portuguese	1_all	t o d u	port1283	por	98	ALL	6	
+1609	portuguese-20_dry-1	portuguese	20_dry	s e k u	port1283	por	1398	DRY	137	
+1610	portuguese-20_dry-2	portuguese	20_dry	ẽ ʃ u t u	port1283	por	1398	DRY	136	
+1611	portuguese-21_ear-1	portuguese	21_ear	o r e ʎ ɐ	port1283	por	1247	EAR	141	
+1612	portuguese-22_earth-1	portuguese	22_earth	t ɛ ʀ ɐ	port1283	por	1228	EARTH (SOIL)	144	
+1613	portuguese-23_eat-1	portuguese	23_eat	k u m e r	port1283	por	1336	EAT	150	
+1614	portuguese-24_egg-1	portuguese	24_egg	o v u	port1283	por	744	EGG	154	
+1615	portuguese-25_eye-1	portuguese	25_eye	o ʎ u	port1283	por	1248	EYE	158	
+1617	portuguese-27_feather-1	portuguese	27_feather	p e n ɐ	port1283	por	1201	FEATHER	170	
+1618	portuguese-28_fire-1	portuguese	28_fire	f o g u	port1283	por	221	FIRE	179	
+1619	portuguese-29_fish-1	portuguese	29_fish	p ɐ j ʃ ə	port1283	por	227	FISH	182	
+1620	portuguese-2_ashes-1	portuguese	2_ashes	s ĩ z ɐ	port1283	por	646	ASH	12	
+1621	portuguese-30_flyv-1	portuguese	30_flyv	v w a r	port1283	por	1441	FLY (MOVE THROUGH AIR)	187	
+1622	portuguese-31_foot-1	portuguese	31_foot	p ɛ	port1283	por	1301	FOOT	194	
+1624	portuguese-33_give-1	portuguese	33_give	d a r	port1283	por	1447	GIVE	198	
+1625	portuguese-34_good-1	portuguese	34_good	b õ	port1283	por	1035	GOOD	200	
+1626	portuguese-35_green-1	portuguese	35_green	v e r d ə	port1283	por	1425	GREEN	208	
+1627	portuguese-36_hair-1	portuguese	36_hair	k ɐ b e l u	port1283	por	1040	HAIR	216	
+1628	portuguese-37_hand-1	portuguese	37_hand	m ɐ̃ w	port1283	por	1277	HAND	221	
+1629	portuguese-38_head-1	portuguese	38_head	k ɐ b e s ɐ	port1283	por	1256	HEAD	227	
+1630	portuguese-39_hear-1	portuguese	39_hear	o v i r	port1283	por	1408	HEAR	229	
+1631	portuguese-3_bark-1	portuguese	3_bark	k a ʃ k ɐ	port1283	por	1204	BARK	17	
+1632	portuguese-40_heart-1	portuguese	40_heart	k u r ɐ s õ	port1283	por	1223	HEART	235	
+1634	portuguese-42_i-1	portuguese	42_i	e w	port1283	por	1209	I	240	
+1635	portuguese-43_kill-1	portuguese	43_kill	m ɐ t a r	port1283	por	1417	KILL	249	
+1637	portuguese-45_know-1	portuguese	45_know	k u ɲ ə s e r	port1283	por	1410	KNOW (SOMETHING)	257	
+1638	portuguese-45_know-2	portuguese	45_know	s ɐ b e r	port1283	por	1410	KNOW (SOMETHING)	255	
+1639	portuguese-46_leaf-1	portuguese	46_leaf	f o ʎ ɐ	port1283	por	628	LEAF	262	
+1640	portuguese-47_lie-1	portuguese	47_lie	d ɐ j t a r	port1283	por	1411	LIE (REST)	268	
+1641	portuguese-48_liver-1	portuguese	48_liver	f i g ɐ d u	port1283	por	1224	LIVER	271	
+1642	portuguese-49_long-1	portuguese	49_long	l õ g u	port1283	por	1203	LONG	281	
+1643	portuguese-4_belly-1	portuguese	4_belly	v ẽ t r ə	port1283	por	1251	BELLY	26	
+1644	portuguese-4_belly-2	portuguese	4_belly	b ɐ ʀ i g ɐ	port1283	por	1251	BELLY	29	
+1645	portuguese-50_louse-1	portuguese	50_louse	p i o ʎ u	port1283	por	1392	LOUSE	288	
+1647	portuguese-52_many-1	portuguese	52_many	m ũ j̃ t u	port1283	por	1198	MANY	294	
+1650	portuguese-55_mountain-1	portuguese	55_mountain	m õ t ə	port1283	por	639	MOUNTAIN	323	
+1651	portuguese-56_mouth-1	portuguese	56_mouth	b o k ɐ	port1283	por	674	MOUTH	327	
+1652	portuguese-57_name-1	portuguese	57_name	n o m ə	port1283	por	1405	NAME	334	
+1653	portuguese-58_neck-1	portuguese	58_neck	k ɔ l u	port1283	por	1333	NECK	339	
+1654	portuguese-59_new-1	portuguese	59_new	n o v u	port1283	por	1231	NEW	343	
+1655	portuguese-5_big-1	portuguese	5_big	g r ɐ̃ d ə	port1283	por	1202	BIG	47	
+1656	portuguese-60_night-1	portuguese	60_night	n o j t ə	port1283	por	1233	NIGHT	346	
+1657	portuguese-61_nose-1	portuguese	61_nose	n ɐ r i ʃ	port1283	por	1221	NOSE	350	
+1658	portuguese-62_not-1	portuguese	62_not	n ɐ̃ w	port1283	por	1240	NOT	352	
+1659	portuguese-63_one-1	portuguese	63_one	ũ	port1283	por	1493	ONE	354	
+1660	portuguese-64_person-1	portuguese	64_person	ɔ m ɐ̃	port1283	por	683	PERSON	357	
+1662	portuguese-66_red-1	portuguese	66_red	v ə r m e ʎ u	port1283	por	156	RED	371	
+1663	portuguese-67_road-1	portuguese	67_road	ə ʃ t r a d ɐ	port1283	por	667	ROAD	379	
+1664	portuguese-67_road-2	portuguese	67_road	v i ɐ	port1283	por	667	ROAD	380	
+1665	portuguese-68_root-1	portuguese	68_root	ʀ ɐ i ʃ	port1283	por	670	ROOT	386	
+1667	portuguese-6_bird-1	portuguese	6_bird	a v ə	port1283	por	937	BIRD	52	
+1668	portuguese-6_bird-2	portuguese	6_bird	p a s ɐ r u	port1283	por	937	BIRD	48	
+1669	portuguese-70_sand-1	portuguese	70_sand	ɐ r ɐ j ɐ	port1283	por	671	SAND	402	
+1670	portuguese-71_say-1	portuguese	71_say	d i z e r	port1283	por	1458	SAY	408	
+1671	portuguese-72_see-1	portuguese	72_see	v e r	port1283	por	1409	SEE	413	
+1672	portuguese-73_seed-1	portuguese	73_seed	s ə m ẽ t ə	port1283	por	714	SEED	421	
+1673	portuguese-74_sit-1	portuguese	74_sit	s ẽ t a r	port1283	por	1416	SIT	424	
+1676	portuguese-76_sleep-1	portuguese	76_sleep	d u r m i r	port1283	por	1585	SLEEP	437	
+1677	portuguese-77_small-1	portuguese	77_small	p ə k e n u	port1283	por	1246	SMALL	440	
+1678	portuguese-78_smoke-1	portuguese	78_smoke	f u m u	port1283	por	778	SMOKE (EXHAUST)	446	
+1679	portuguese-7_bite-1	portuguese	7_bite	m u r d e r	port1283	por	1403	BITE	56	
+1680	portuguese-80_star-1	portuguese	80_star	ə ʃ t r e l ɐ	port1283	por	1430	STAR	454	
+1681	portuguese-81_stone-1	portuguese	81_stone	p ɛ d r ɐ	port1283	por	857	STONE	455	
+1682	portuguese-82_sun-1	portuguese	82_sun	s ɔ l	port1283	por	1343	SUN	463	
+1683	portuguese-83_swim-1	portuguese	83_swim	n ɐ d a r	port1283	por	1439	SWIM	466	
+1684	portuguese-84_tail-1	portuguese	84_tail	k a w d ɐ	port1283	por	1220	TAIL	471	
+1685	portuguese-84_tail-2	portuguese	84_tail	ʀ a b u	port1283	por	1220	TAIL	480	
+1686	portuguese-85_that-1	portuguese	85_that	ɐ k e l ə	port1283	por	78	THAT	486	
+1687	portuguese-86_this-1	portuguese	86_this	ə ʃ t ə	port1283	por	1214	THIS	492	
+1688	portuguese-87_thou-1	portuguese	87_thou	t u	port1283	por	1215	THOU	495	
+1689	portuguese-88_tongue-1	portuguese	88_tongue	l ĩ g w ɐ	port1283	por	1205	TONGUE	496	
+1690	portuguese-89_tooth-1	portuguese	89_tooth	d ẽ t ə	port1283	por	1380	TOOTH	499	
+1691	portuguese-8_black-1	portuguese	8_black	p r e t u	port1283	por	163	BLACK	67	
+1692	portuguese-90_tree-1	portuguese	90_tree	a r v u r ə	port1283	por	906	TREE	506	
+1693	portuguese-91_two-1	portuguese	91_two	d oi ʃ	port1283	por	1498	TWO	507	
+1694	portuguese-92_walkgo-1	portuguese	92_walkgo	ɐ̃ d a r	port1283	por	1443	WALK	513	
+1696	portuguese-94_water-1	portuguese	94_water	a g w ɐ	port1283	por	948	WATER	523	
+1697	portuguese-95_we-1	portuguese	95_we	n ɔ ʃ	port1283	por	1212	WE	529	
+1698	portuguese-96_what-1	portuguese	96_what	k ə	port1283	por	1236	WHAT	531	
+1699	portuguese-97_white-1	portuguese	97_white	a l v u	port1283	por	1335	WHITE	537	
+1700	portuguese-98_who-1	portuguese	98_who	k ɐ̃ j	port1283	por	1235	WHO	538	
+1701	portuguese-99_woman-1	portuguese	99_woman	m u ʎ ɛ r	port1283	por	962	WOMAN	545	
+1702	portuguese-9_blood-1	portuguese	9_blood	s ɐ̃ g ə	port1283	por	946	BLOOD	69	
+1703	romanian-100_yellow-1	romanian	100_yellow	ɡ a l b e n	roma1327	ron	1424	YELLOW	551	
+1704	romanian-101_far-1	romanian	101_far	d e p ə r t e	roma1327	ron	1406	FAR	554	
+1705	romanian-102_heavy-1	romanian	102_heavy	g r e w	roma1327	ron	1210	HEAVY	565	
+1706	romanian-103_near-1	romanian	103_near	a p r o p i a	roma1327	ron	1942	NEAR	567	
+1707	romanian-104_salt-1	romanian	104_salt	s a r e	roma1327	ron	1274	SALT	576	
+1708	romanian-105_short-1	romanian	105_short	s k u r t	roma1327	ron	1645	SHORT	581	
+1709	romanian-106_snake-1	romanian	106_snake	ʃ a r p e	roma1327	ron	730	SNAKE	589	
+1712	romanian-108_wind-1	romanian	108_wind	v ɨ n t	roma1327	ron	960	WIND	602	
+1713	romanian-109_worm-1	romanian	109_worm	v j e r m e	roma1327	ron	1219	WORM	607	
+1714	romanian-10_bone-1	romanian	10_bone	o s	roma1327	ron	1394	BONE	73	
+1715	romanian-110_year-1	romanian	110_year	a n	roma1327	ron	1226	YEAR	611	
+1720	romanian-14_cloud-1	romanian	14_cloud	n o r	roma1327	ron	1489	CLOUD	100	
+1723	romanian-16_come-1	romanian	16_come	v e n i	roma1327	ron	1446	COME	115	
+1724	romanian-17_die-1	romanian	17_die	m u r i	roma1327	ron	1494	DIE	121	
+1725	romanian-18_dog-1	romanian	18_dog	k ɨ j n e	roma1327	ron	2009	DOG	124	
+1726	romanian-19_drink-1	romanian	19_drink	b e a	roma1327	ron	1401	DRINK	132	
+1727	romanian-1_all-1	romanian	1_all	t o t	roma1327	ron	98	ALL	6	
+1728	romanian-1_all-2	romanian	1_all	ɨ n t r e g	roma1327	ron	98	ALL	2	
+1729	romanian-20_dry-1	romanian	20_dry	s e k	roma1327	ron	1398	DRY	137	
+1730	romanian-20_dry-2	romanian	20_dry	u s k a t	roma1327	ron	1398	DRY	136	
+1731	romanian-21_ear-1	romanian	21_ear	u r e k e	roma1327	ron	1247	EAR	141	
+1732	romanian-22_earth-1	romanian	22_earth	p ə m ɨ n t	roma1327	ron	1228	EARTH (SOIL)	147	
+1733	romanian-23_eat-1	romanian	23_eat	m ɨ n k a	roma1327	ron	1336	EAT	148	
+1734	romanian-24_egg-1	romanian	24_egg	o w	roma1327	ron	744	EGG	154	
+1735	romanian-25_eye-1	romanian	25_eye	o k i	roma1327	ron	1248	EYE	158	
+1737	romanian-27_feather-1	romanian	27_feather	p a n ə	roma1327	ron	1201	FEATHER	170	
+1738	romanian-28_fire-1	romanian	28_fire	f o k	roma1327	ron	221	FIRE	179	
+1739	romanian-29_fish-1	romanian	29_fish	p e ʃ t e	roma1327	ron	227	FISH	182	
+1740	romanian-2_ashes-1	romanian	2_ashes	tʃ e n u ʃ ə	roma1327	ron	646	ASH	12	
+1741	romanian-30_flyv-1	romanian	30_flyv	z b u r a	roma1327	ron	1441	FLY (MOVE THROUGH AIR)	187	
+1742	romanian-31_foot-1	romanian	31_foot	p i tʃ j o r	roma1327	ron	1301	FOOT	194	
+1744	romanian-33_give-1	romanian	33_give	d a	roma1327	ron	1447	GIVE	198	
+1745	romanian-34_good-1	romanian	34_good	b u n	roma1327	ron	1035	GOOD	200	
+1746	romanian-35_green-1	romanian	35_green	v e r d e	roma1327	ron	1425	GREEN	208	
+1747	romanian-36_hair-1	romanian	36_hair	p ə r	roma1327	ron	1040	HAIR	213	
+1748	romanian-37_hand-1	romanian	37_hand	m ɨ n ə	roma1327	ron	1277	HAND	221	
+1749	romanian-38_head-1	romanian	38_head	k a p	roma1327	ron	1256	HEAD	227	
+1750	romanian-39_hear-1	romanian	39_hear	a w z i	roma1327	ron	1408	HEAR	229	
+1751	romanian-3_bark-1	romanian	3_bark	s k w a r ts ə	roma1327	ron	1204	BARK	23	
+1752	romanian-40_heart-1	romanian	40_heart	i n i m ə	roma1327	ron	1223	HEART	234	
+1754	romanian-42_i-1	romanian	42_i	j o	roma1327	ron	1209	I	240	
+1755	romanian-43_kill-1	romanian	43_kill	u tʃ i d e	roma1327	ron	1417	KILL	250	
+1757	romanian-45_know-1	romanian	45_know	ʃ t i	roma1327	ron	1410	KNOW (SOMETHING)	259	
+1758	romanian-45_know-2	romanian	45_know	k u n w a ʃ t e	roma1327	ron	1410	KNOW (SOMETHING)	257	
+1759	romanian-46_leaf-1	romanian	46_leaf	f w a j e	roma1327	ron	628	LEAF	262	
+1760	romanian-47_lie-1	romanian	47_lie	k u l k a	roma1327	ron	1411	LIE (REST)	265	
+1761	romanian-48_liver-1	romanian	48_liver	f i k a t	roma1327	ron	1224	LIVER	271	
+1762	romanian-49_long-1	romanian	49_long	l u ŋ	roma1327	ron	1203	LONG	281	
+1763	romanian-4_belly-1	romanian	4_belly	p ə n t e ts e	roma1327	ron	1251	BELLY	33	
+1764	romanian-50_louse-1	romanian	50_louse	p ə d u k e	roma1327	ron	1392	LOUSE	288	
+1767	romanian-52_many-1	romanian	52_many	m u l tsʲ	roma1327	ron	1198	MANY	294	
+1770	romanian-55_mountain-1	romanian	55_mountain	m u n t e	roma1327	ron	639	MOUNTAIN	323	
+1771	romanian-56_mouth-1	romanian	56_mouth	g u r ə	roma1327	ron	674	MOUTH	326	
+1772	romanian-57_name-1	romanian	57_name	n u m e	roma1327	ron	1405	NAME	334	
+1773	romanian-58_neck-1	romanian	58_neck	g ɨ t	roma1327	ron	1333	NECK	-338	
+1774	romanian-59_new-1	romanian	59_new	n o w	roma1327	ron	1231	NEW	343	
+1775	romanian-5_big-1	romanian	5_big	m a r e	roma1327	ron	1202	BIG	42	
+1776	romanian-60_night-1	romanian	60_night	n w a p t e	roma1327	ron	1233	NIGHT	346	
+1777	romanian-61_nose-1	romanian	61_nose	n a s	roma1327	ron	1221	NOSE	350	
+1778	romanian-62_not-1	romanian	62_not	n u	roma1327	ron	1240	NOT	352	
+1779	romanian-63_one-1	romanian	63_one	u n u	roma1327	ron	1493	ONE	354	
+1780	romanian-64_person-1	romanian	64_person	o m	roma1327	ron	683	PERSON	357	
+1782	romanian-66_red-1	romanian	66_red	r o ʃ u	roma1327	ron	156	RED	-368	
+1783	romanian-67_road-1	romanian	67_road	k a l e	roma1327	ron	667	ROAD	378	
+1784	romanian-68_root-1	romanian	68_root	r ə d ə tʃ i n ə	roma1327	ron	670	ROOT	386	
+1786	romanian-6_bird-1	romanian	6_bird	p a s ə r e	roma1327	ron	937	BIRD	48	
+1787	romanian-70_sand-1	romanian	70_sand	n i s i p	roma1327	ron	671	SAND	-401	
+1788	romanian-71_say-1	romanian	71_say	z i tʃ e	roma1327	ron	1458	SAY	408	
+1789	romanian-72_see-1	romanian	72_see	v e d e a	roma1327	ron	1409	SEE	413	
+1790	romanian-73_seed-1	romanian	73_seed	s ə m ɨ n ts ə	roma1327	ron	714	SEED	421	
+1791	romanian-74_sit-1	romanian	74_sit	ʃ e d e a	roma1327	ron	1416	SIT	424	
+1793	romanian-76_sleep-1	romanian	76_sleep	d o r m i	roma1327	ron	1585	SLEEP	437	
+1794	romanian-77_small-1	romanian	77_small	m i k	roma1327	ron	1246	SMALL	-444	
+1795	romanian-78_smoke-1	romanian	78_smoke	f u m	roma1327	ron	778	SMOKE (EXHAUST)	446	
+1796	romanian-79_stand-1	romanian	79_stand	s t a	roma1327	ron	1442	STAND	451	
+1797	romanian-7_bite-1	romanian	7_bite	m u ʃ k a	roma1327	ron	1403	BITE	56	
+1798	romanian-80_star-1	romanian	80_star	s t e a	roma1327	ron	1430	STAR	454	
+1799	romanian-81_stone-1	romanian	81_stone	p j a t r ə	roma1327	ron	857	STONE	455	
+1800	romanian-82_sun-1	romanian	82_sun	s w a r e	roma1327	ron	1343	SUN	463	
+1801	romanian-83_swim-1	romanian	83_swim	ɨ n o t a	roma1327	ron	1439	SWIM	466	
+1802	romanian-84_tail-1	romanian	84_tail	k w a d ə	roma1327	ron	1220	TAIL	471	
+1803	romanian-85_that-1	romanian	85_that	a tʃ e l	roma1327	ron	78	THAT	486	
+1804	romanian-86_this-1	romanian	86_this	a tʃ e s t	roma1327	ron	1214	THIS	493	
+1805	romanian-87_thou-1	romanian	87_thou	t u	roma1327	ron	1215	THOU	495	
+1806	romanian-88_tongue-1	romanian	88_tongue	l i m b ə	roma1327	ron	1205	TONGUE	496	
+1807	romanian-89_tooth-1	romanian	89_tooth	d i n t e	roma1327	ron	1380	TOOTH	499	
+1808	romanian-8_black-1	romanian	8_black	n e ɡ r u	roma1327	ron	163	BLACK	63	
+1809	romanian-90_tree-1	romanian	90_tree	a r b o r e	roma1327	ron	906	TREE	506	
+1810	romanian-91_two-1	romanian	91_two	d o j	roma1327	ron	1498	TWO	507	
+1811	romanian-92_walkgo-1	romanian	92_walkgo	u m b l a	roma1327	ron	1443	WALK	508	
+1813	romanian-94_water-1	romanian	94_water	a p ə	roma1327	ron	948	WATER	523	
+1814	romanian-95_we-1	romanian	95_we	n o j	roma1327	ron	1212	WE	529	
+1815	romanian-96_what-1	romanian	96_what	tʃ e	roma1327	ron	1236	WHAT	531	
+1816	romanian-97_white-1	romanian	97_white	a l b	roma1327	ron	1335	WHITE	537	
+1817	romanian-98_who-1	romanian	98_who	tʃ i n e	roma1327	ron	1235	WHO	538	
+1818	romanian-99_woman-1	romanian	99_woman	f e m e j e	roma1327	ron	962	WOMAN	542	
+1819	romanian-9_blood-1	romanian	9_blood	s ɨ n dʒ e	roma1327	ron	946	BLOOD	69	
+1820	russian-100_yellow-1	russian	100_yellow	ʒ o l t ɨ j	russ1263	rus	1424	YELLOW	550	
+1821	russian-101_far-1	russian	101_far	d ɐ lʲ o kʲ ɪ j	russ1263	rus	1406	FAR	558	
+1822	russian-102_heavy-1	russian	102_heavy	tʲ ɪ ʒ o l ɨ j	russ1263	rus	1210	HEAVY	563	
+1823	russian-103_near-1	russian	103_near	b lʲ i z kʲ ɪ j	russ1263	rus	1942	NEAR	570	
+1824	russian-104_salt-1	russian	104_salt	s o lʲ	russ1263	rus	1274	SALT	576	
+1825	russian-105_short-1	russian	105_short	k ɐ r o t kʲ ɪ j	russ1263	rus	1645	SHORT	581	
+1826	russian-106_snake-1	russian	106_snake	z mʲ ɪ j a	russ1263	rus	730	SNAKE	584	
+1828	russian-108_wind-1	russian	108_wind	vʲ e tʲ ɪ r	russ1263	rus	960	WIND	602	
+1829	russian-109_worm-1	russian	109_worm	tʃ e r fʲ	russ1263	rus	1219	WORM	608	
+1830	russian-10_bone-1	russian	10_bone	k o sʲ tʲ	russ1263	rus	1394	BONE	75	
+1831	russian-110_year-1	russian	110_year	ɡ o t	russ1263	rus	1226	YEAR	615	
+1835	russian-14_cloud-1	russian	14_cloud	o b l ə k ə	russ1263	rus	1489	CLOUD	103	
+1837	russian-16_come-1	russian	16_come	p rʲ ɪ j tʲ i	russ1263	rus	1446	COME	116	
+1838	russian-16_come-2	russian	16_come	p rʲ ɪ x ɐ dʲ i tʲ	russ1263	rus	1446	COME	114	
+1839	russian-17_die-1	russian	17_die	u mʲ ɪ rʲ e tʲ	russ1263	rus	1494	DIE	121	
+1840	russian-18_dog-1	russian	18_dog	s ɐ b a k ə	russ1263	rus	2009	DOG	126	
+1841	russian-18_dog-2	russian	18_dog	pʲ o s	russ1263	rus	2009	DOG	128	
+1842	russian-19_drink-1	russian	19_drink	pʲ i tʲ	russ1263	rus	1401	DRINK	132	
+1843	russian-1_all-1	russian	1_all	f sʲ e	russ1263	rus	98	ALL	3	
+1844	russian-20_dry-1	russian	20_dry	s u x o j	russ1263	rus	1398	DRY	138	
+1845	russian-21_ear-1	russian	21_ear	u x ə	russ1263	rus	1247	EAR	141	
+1846	russian-22_earth-1	russian	22_earth	zʲ ɪ m lʲ a	russ1263	rus	1228	EARTH (SOIL)	145	
+1847	russian-23_eat-1	russian	23_eat	j e sʲ tʲ	russ1263	rus	1336	EAT	150	
+1848	russian-24_egg-1	russian	24_egg	j ɪ j ts o	russ1263	rus	744	EGG	154	
+1849	russian-25_eye-1	russian	25_eye	ɡ l a s	russ1263	rus	1248	EYE	157	
+1851	russian-27_feather-1	russian	27_feather	pʲ ɪ r o	russ1263	rus	1201	FEATHER	174	
+1852	russian-28_fire-1	russian	28_fire	ɐ ɡ o nʲ	russ1263	rus	221	FIRE	178	
+1853	russian-29_fish-1	russian	29_fish	r ɨ b ə	russ1263	rus	227	FISH	184	
+1854	russian-2_ashes-1	russian	2_ashes	z ɐ l a	russ1263	rus	646	ASH	11	
+1855	russian-2_ashes-2	russian	2_ashes	pʲ e p ɪ lʲ	russ1263	rus	646	ASH	8	
+1856	russian-30_flyv-1	russian	30_flyv	lʲ ɪ tʲ e tʲ	russ1263	rus	1441	FLY (MOVE THROUGH AIR)	188	
+1857	russian-31_foot-1	russian	31_foot	n ɐ ɡ a	russ1263	rus	1301	FOOT	192	
+1859	russian-33_give-1	russian	33_give	d a tʲ	russ1263	rus	1447	GIVE	198	
+1860	russian-34_good-1	russian	34_good	x ɐ r o ʃ ɨ j	russ1263	rus	1035	GOOD	201	
+1861	russian-35_green-1	russian	35_green	zʲ ɪ lʲ o n ɨ j	russ1263	rus	1425	GREEN	207	
+1862	russian-36_hair-1	russian	36_hair	v o l ə s ɨ	russ1263	rus	1040	HAIR	212	
+1863	russian-37_hand-1	russian	37_hand	r u k a	russ1263	rus	1277	HAND	220	
+1864	russian-38_head-1	russian	38_head	ɡ ə l ɐ v a	russ1263	rus	1256	HEAD	228	
+1865	russian-39_hear-1	russian	39_hear	s l u ʃ a tʲ	russ1263	rus	1408	HEAR	231	
+1866	russian-3_bark-1	russian	3_bark	k ɐ r a	russ1263	rus	1204	BARK	23	
+1867	russian-40_heart-1	russian	40_heart	sʲ ɛ r ts ə	russ1263	rus	1223	HEART	235	
+1869	russian-42_i-1	russian	42_i	j a	russ1263	rus	1209	I	240	
+1870	russian-43_kill-1	russian	43_kill	u bʲ i tʲ	russ1263	rus	1417	KILL	246	
+1872	russian-45_know-1	russian	45_know	z n a tʲ	russ1263	rus	1410	KNOW (SOMETHING)	257	
+1873	russian-46_leaf-1	russian	46_leaf	lʲ i s t	russ1263	rus	628	LEAF	263	
+1874	russian-47_lie-1	russian	47_lie	lʲ ɪ ʒ a tʲ	russ1263	rus	1411	LIE (REST)	269	
+1875	russian-48_liver-1	russian	48_liver	pʲ e tʃʲ ɪ nʲ	russ1263	rus	1224	LIVER	278	
+1876	russian-49_long-1	russian	49_long	d lʲ i nː ɨ j	russ1263	rus	1203	LONG	281	
+1877	russian-4_belly-1	russian	4_belly	ʒ ɨ v o t	russ1263	rus	1251	BELLY	31	
+1878	russian-50_louse-1	russian	50_louse	v o ʃ	russ1263	rus	1392	LOUSE	284	
+1880	russian-52_many-1	russian	52_many	m n o ɡ ə	russ1263	rus	1198	MANY	296	
+1883	russian-55_mountain-1	russian	55_mountain	ɡ ɐ r a	russ1263	rus	639	MOUNTAIN	324	
+1884	russian-56_mouth-1	russian	56_mouth	r o t	russ1263	rus	674	MOUTH	332	
+1885	russian-57_name-1	russian	57_name	i mʲ ə	russ1263	rus	1405	NAME	334	
+1886	russian-58_neck-1	russian	58_neck	ʃ e j ə	russ1263	rus	1333	NECK	340	
+1887	russian-59_new-1	russian	59_new	n o v ɨ j	russ1263	rus	1231	NEW	343	
+1888	russian-5_big-1	russian	5_big	b ɐ lʲ ʃ o j	russ1263	rus	1202	BIG	44	
+1889	russian-60_night-1	russian	60_night	n o tʃ	russ1263	rus	1233	NIGHT	346	
+1890	russian-61_nose-1	russian	61_nose	n o s	russ1263	rus	1221	NOSE	350	
+1891	russian-62_not-1	russian	62_not	nʲ ɛ	russ1263	rus	1240	NOT	352	
+1892	russian-63_one-1	russian	63_one	ɐ dʲ i n	russ1263	rus	1493	ONE	354	
+1893	russian-64_person-1	russian	64_person	tʃʲ ɪ l ɐ vʲ ɛ k	russ1263	rus	683	PERSON	360	
+1895	russian-66_red-1	russian	66_red	k r a s n ɨ j	russ1263	rus	156	RED	370	
+1896	russian-67_road-1	russian	67_road	d ɐ r o ɡ ə	russ1263	rus	667	ROAD	373	
+1897	russian-68_root-1	russian	68_root	k o rʲ ɪ nʲ	russ1263	rus	670	ROOT	385	
+1899	russian-6_bird-1	russian	6_bird	p tʲ i ts ə	russ1263	rus	937	BIRD	51	
+1900	russian-70_sand-1	russian	70_sand	pʲ ɪ s o k	russ1263	rus	671	SAND	400	
+1901	russian-71_say-1	russian	71_say	s k ɐ z a tʲ	russ1263	rus	1458	SAY	409	
+1902	russian-72_see-1	russian	72_see	vʲ i dʲ ɪ tʲ	russ1263	rus	1409	SEE	413	
+1903	russian-73_seed-1	russian	73_seed	sʲ e mʲ ə	russ1263	rus	714	SEED	421	
+1904	russian-74_sit-1	russian	74_sit	sʲ ɪ dʲ e tʲ	russ1263	rus	1416	SIT	424	
+1906	russian-76_sleep-1	russian	76_sleep	s p a tʲ	russ1263	rus	1585	SLEEP	435	
+1907	russian-77_small-1	russian	77_small	m a lʲ ɪ nʲ kʲ ɪ j	russ1263	rus	1246	SMALL	441	
+1908	russian-78_smoke-1	russian	78_smoke	d ɨ m	russ1263	rus	778	SMOKE (EXHAUST)	446	
+1909	russian-79_stand-1	russian	79_stand	s t ɐ j a tʲ	russ1263	rus	1442	STAND	451	
+1910	russian-7_bite-1	russian	7_bite	k u s a tʲ	russ1263	rus	1403	BITE	57	
+1911	russian-80_star-1	russian	80_star	z vʲ ɪ z d a	russ1263	rus	1430	STAR	453	
+1912	russian-81_stone-1	russian	81_stone	k a mʲ ɪ nʲ	russ1263	rus	857	STONE	459	
+1913	russian-82_sun-1	russian	82_sun	s o n ts ə	russ1263	rus	1343	SUN	463	
+1914	russian-83_swim-1	russian	83_swim	p l ɨ tʲ	russ1263	rus	1439	SWIM	467	
+1915	russian-84_tail-1	russian	84_tail	x v o s t	russ1263	rus	1220	TAIL	479	
+1916	russian-85_that-1	russian	85_that	t o	russ1263	rus	78	THAT	487	
+1917	russian-86_this-1	russian	86_this	ɛ t ə	russ1263	rus	1214	THIS	492	
+1918	russian-87_thou-1	russian	87_thou	t ɨ	russ1263	rus	1215	THOU	495	
+1919	russian-88_tongue-1	russian	88_tongue	j ɪ z ɨ k	russ1263	rus	1205	TONGUE	496	
+1920	russian-89_tooth-1	russian	89_tooth	z u p	russ1263	rus	1380	TOOTH	498	
+1921	russian-8_black-1	russian	8_black	tʃ o r n ɨ j	russ1263	rus	163	BLACK	66	
+1922	russian-90_tree-1	russian	90_tree	dʲ e rʲ ɪ v ə	russ1263	rus	906	TREE	501	
+1923	russian-91_two-1	russian	91_two	d v a	russ1263	rus	1498	TWO	507	
+1924	russian-92_walkgo-1	russian	92_walkgo	ɪ tʲ i	russ1263	rus	1443	WALK	514	
+1926	russian-94_water-1	russian	94_water	v ɐ d a	russ1263	rus	948	WATER	526	
+1927	russian-95_we-1	russian	95_we	m ɨ	russ1263	rus	1212	WE	528	
+1928	russian-96_what-1	russian	96_what	ʃ t o	russ1263	rus	1236	WHAT	531	
+1929	russian-97_white-1	russian	97_white	bʲ e l ɨ j	russ1263	rus	1335	WHITE	536	
+1930	russian-98_who-1	russian	98_who	k t o	russ1263	rus	1235	WHO	538	
+1931	russian-99_woman-1	russian	99_woman	ʒ ɛ n ʃʲː ɪ n ə	russ1263	rus	962	WOMAN	544	
+1932	russian-9_blood-1	russian	9_blood	k r o fʲ	russ1263	rus	946	BLOOD	68	
+1933	spanish-100_yellow-1	spanish	100_yellow	a m a ɾ i ʎ o	stan1288	spa	1424	YELLOW	548	
+1934	spanish-101_far-1	spanish	101_far	l e x a n o	stan1288	spa	1406	FAR	555	
+1935	spanish-102_heavy-1	spanish	102_heavy	p e s a ð o	stan1288	spa	1210	HEAVY	560	
+1936	spanish-103_near-1	spanish	103_near	θ e r k a	stan1288	spa	1942	NEAR	568	
+1937	spanish-104_salt-1	spanish	104_salt	s a l	stan1288	spa	1274	SALT	576	
+1938	spanish-105_short-1	spanish	105_short	k o ɾ t o	stan1288	spa	1645	SHORT	581	
+1939	spanish-105_short-2	spanish	105_short	b r e v e	stan1288	spa	1645	SHORT	577	
+1940	spanish-106_snake-1	spanish	106_snake	k u l e v r a	stan1288	spa	730	SNAKE	583	
+1941	spanish-106_snake-2	spanish	106_snake	s e ɾ p j e n t e	stan1288	spa	730	SNAKE	589	
+1944	spanish-108_wind-1	spanish	108_wind	b j e n t o	stan1288	spa	960	WIND	602	
+1945	spanish-109_worm-1	spanish	109_worm	b e r m e	stan1288	spa	1219	WORM	607	
+1946	spanish-10_bone-1	spanish	10_bone	w e s o	stan1288	spa	1394	BONE	73	
+1947	spanish-110_year-1	spanish	110_year	a ɲ o	stan1288	spa	1226	YEAR	611	
+1952	spanish-14_cloud-1	spanish	14_cloud	n u β e	stan1288	spa	1489	CLOUD	100	
+1954	spanish-16_come-1	spanish	16_come	b e n i ɾ	stan1288	spa	1446	COME	115	
+1955	spanish-17_die-1	spanish	17_die	m o ɾ i ɾ	stan1288	spa	1494	DIE	121	
+1956	spanish-18_dog-1	spanish	18_dog	p e r o	stan1288	spa	2009	DOG	-122	
+1957	spanish-19_drink-1	spanish	19_drink	b e β e ɾ	stan1288	spa	1401	DRINK	132	
+1958	spanish-1_all-1	spanish	1_all	e n t e r o	stan1288	spa	98	ALL	2	
+1959	spanish-1_all-2	spanish	1_all	t o ð o	stan1288	spa	98	ALL	6	
+1960	spanish-20_dry-1	spanish	20_dry	s e k o	stan1288	spa	1398	DRY	137	
+1961	spanish-21_ear-1	spanish	21_ear	o ɾ e x a	stan1288	spa	1247	EAR	141	
+1962	spanish-22_earth-1	spanish	22_earth	t j e r a	stan1288	spa	1228	EARTH (SOIL)	144	
+1963	spanish-23_eat-1	spanish	23_eat	k o m e ɾ	stan1288	spa	1336	EAT	150	
+1964	spanish-24_egg-1	spanish	24_egg	w e β o	stan1288	spa	744	EGG	154	
+1965	spanish-25_eye-1	spanish	25_eye	o x o	stan1288	spa	1248	EYE	158	
+1968	spanish-27_feather-1	spanish	27_feather	p l u m a	stan1288	spa	1201	FEATHER	172	
+1969	spanish-28_fire-1	spanish	28_fire	f w e ɣ o	stan1288	spa	221	FIRE	179	
+1970	spanish-29_fish-1	spanish	29_fish	p e s k a ð o	stan1288	spa	227	FISH	182	
+1971	spanish-2_ashes-1	spanish	2_ashes	θ e n i θ a	stan1288	spa	646	ASH	12	
+1972	spanish-30_flyv-1	spanish	30_flyv	b o l a ɾ	stan1288	spa	1441	FLY (MOVE THROUGH AIR)	187	
+1973	spanish-31_foot-1	spanish	31_foot	p j e	stan1288	spa	1301	FOOT	194	
+1975	spanish-33_give-1	spanish	33_give	d a ɾ	stan1288	spa	1447	GIVE	198	
+1976	spanish-34_good-1	spanish	34_good	b w e n o	stan1288	spa	1035	GOOD	200	
+1977	spanish-35_green-1	spanish	35_green	b e ɾ ð e	stan1288	spa	1425	GREEN	208	
+1978	spanish-36_hair-1	spanish	36_hair	k a β e ʎ o	stan1288	spa	1040	HAIR	216	
+1979	spanish-37_hand-1	spanish	37_hand	m a n o	stan1288	spa	1277	HAND	221	
+1980	spanish-38_head-1	spanish	38_head	k a β e θ a	stan1288	spa	1256	HEAD	227	
+1981	spanish-39_hear-1	spanish	39_hear	o i r	stan1288	spa	1408	HEAR	229	
+1982	spanish-3_bark-1	spanish	3_bark	k o ɾ t e θ a	stan1288	spa	1204	BARK	18	
+1983	spanish-40_heart-1	spanish	40_heart	k o r a θ o n	stan1288	spa	1223	HEART	235	
+1985	spanish-42_i-1	spanish	42_i	ʝ o	stan1288	spa	1209	I	240	
+1986	spanish-43_kill-1	spanish	43_kill	m a t a ɾ	stan1288	spa	1417	KILL	249	
+1988	spanish-45_know-1	spanish	45_know	k o n o θ e r	stan1288	spa	1410	KNOW (SOMETHING)	257	
+1989	spanish-45_know-2	spanish	45_know	s a β e ɾ	stan1288	spa	1410	KNOW (SOMETHING)	255	
+1990	spanish-46_leaf-1	spanish	46_leaf	o x a	stan1288	spa	628	LEAF	262	
+1991	spanish-47_lie-1	spanish	47_lie	k o s t a ð o	stan1288	spa	1411	LIE (REST)	270	
+1992	spanish-48_liver-1	spanish	48_liver	i ɣ a ð o	stan1288	spa	1224	LIVER	271	
+1993	spanish-49_long-1	spanish	49_long	l a ɾ ɣ o	stan1288	spa	1203	LONG	283	
+1994	spanish-4_belly-1	spanish	4_belly	b j e n t r e	stan1288	spa	1251	BELLY	26	
+1995	spanish-50_louse-1	spanish	50_louse	p j o x o	stan1288	spa	1392	LOUSE	288	
+1996	spanish-52_many-1	spanish	52_many	m u tʃ o	stan1288	spa	1198	MANY	294	
+1999	spanish-55_mountain-1	spanish	55_mountain	m o n t a ɲ a	stan1288	spa	639	MOUNTAIN	323	
+2000	spanish-56_mouth-1	spanish	56_mouth	b o k a	stan1288	spa	674	MOUTH	327	
+2001	spanish-57_name-1	spanish	57_name	n o m b ɾ e	stan1288	spa	1405	NAME	334	
+2002	spanish-58_neck-1	spanish	58_neck	k w e ʎ o	stan1288	spa	1333	NECK	339	
+2003	spanish-59_new-1	spanish	59_new	n w e β o	stan1288	spa	1231	NEW	343	
+2004	spanish-5_big-1	spanish	5_big	ɡ ɾ a n d e	stan1288	spa	1202	BIG	47	
+2005	spanish-60_night-1	spanish	60_night	n o tʃ e	stan1288	spa	1233	NIGHT	346	
+2006	spanish-61_nose-1	spanish	61_nose	n a ɾ i θ	stan1288	spa	1221	NOSE	350	
+2007	spanish-62_not-1	spanish	62_not	n o	stan1288	spa	1240	NOT	352	
+2008	spanish-63_one-1	spanish	63_one	u n o	stan1288	spa	1493	ONE	354	
+2009	spanish-64_person-1	spanish	64_person	o m b ɾ e	stan1288	spa	683	PERSON	357	
+2011	spanish-66_red-1	spanish	66_red	r o x o	stan1288	spa	156	RED	368	
+2012	spanish-67_road-1	spanish	67_road	b i a	stan1288	spa	667	ROAD	380	
+2013	spanish-68_root-1	spanish	68_root	r a i θ	stan1288	spa	670	ROOT	386	
+2015	spanish-6_bird-1	spanish	6_bird	p a x a r o	stan1288	spa	937	BIRD	48	
+2016	spanish-6_bird-2	spanish	6_bird	a v e	stan1288	spa	937	BIRD	52	
+2017	spanish-70_sand-1	spanish	70_sand	a ɾ e n a	stan1288	spa	671	SAND	402	
+2018	spanish-71_say-1	spanish	71_say	d e θ i ɾ	stan1288	spa	1458	SAY	408	
+2019	spanish-72_see-1	spanish	72_see	b e ɾ	stan1288	spa	1409	SEE	413	
+2020	spanish-73_seed-1	spanish	73_seed	s e m i ʎ a	stan1288	spa	714	SEED	421	
+2021	spanish-74_sit-1	spanish	74_sit	s e n t a ð o	stan1288	spa	1416	SIT	424	
+2023	spanish-76_sleep-1	spanish	76_sleep	d o ɾ m i ɾ	stan1288	spa	1585	SLEEP	437	
+2024	spanish-77_small-1	spanish	77_small	p e k e ɲ o	stan1288	spa	1246	SMALL	440	
+2025	spanish-78_smoke-1	spanish	78_smoke	u m o	stan1288	spa	778	SMOKE (EXHAUST)	446	
+2026	spanish-7_bite-1	spanish	7_bite	m o ɾ ð e ɾ	stan1288	spa	1403	BITE	56	
+2027	spanish-80_star-1	spanish	80_star	e s t ɾ e ʎ a	stan1288	spa	1430	STAR	454	
+2028	spanish-81_stone-1	spanish	81_stone	p j e ð ɾ a	stan1288	spa	857	STONE	455	
+2029	spanish-82_sun-1	spanish	82_sun	s o l	stan1288	spa	1343	SUN	463	
+2030	spanish-83_swim-1	spanish	83_swim	n a ð a ɾ	stan1288	spa	1439	SWIM	466	
+2031	spanish-84_tail-1	spanish	84_tail	k o l a	stan1288	spa	1220	TAIL	471	
+2032	spanish-84_tail-2	spanish	84_tail	r a v o	stan1288	spa	1220	TAIL	480	
+2033	spanish-85_that-1	spanish	85_that	a k e l	stan1288	spa	78	THAT	486	
+2034	spanish-86_this-1	spanish	86_this	e s t e	stan1288	spa	1214	THIS	492	
+2035	spanish-87_thou-1	spanish	87_thou	t u	stan1288	spa	1215	THOU	495	
+2036	spanish-88_tongue-1	spanish	88_tongue	l e ŋ ɡ w a	stan1288	spa	1205	TONGUE	496	
+2037	spanish-89_tooth-1	spanish	89_tooth	d j e n t e	stan1288	spa	1380	TOOTH	499	
+2038	spanish-8_black-1	spanish	8_black	n e ɣ ɾ o	stan1288	spa	163	BLACK	63	
+2039	spanish-90_tree-1	spanish	90_tree	a r v o l	stan1288	spa	906	TREE	506	
+2040	spanish-91_two-1	spanish	91_two	d o s	stan1288	spa	1498	TWO	507	
+2041	spanish-92_walkgo-1	spanish	92_walkgo	a n d a r	stan1288	spa	1443	WALK	513	
+2042	spanish-92_walkgo-2	spanish	92_walkgo	b oi	stan1288	spa	1443	WALK	510	
+2044	spanish-94_water-1	spanish	94_water	a ɣ w a	stan1288	spa	948	WATER	523	
+2045	spanish-95_we-1	spanish	95_we	n o s o t ɾ o s	stan1288	spa	1212	WE	529	
+2046	spanish-96_what-1	spanish	96_what	k e	stan1288	spa	1236	WHAT	531	
+2047	spanish-97_white-1	spanish	97_white	b l a ŋ k o	stan1288	spa	1335	WHITE	533	
+2048	spanish-98_who-1	spanish	98_who	k j e n	stan1288	spa	1235	WHO	538	
+2049	spanish-99_woman-1	spanish	99_woman	m u x e ɾ	stan1288	spa	962	WOMAN	545	
+2050	spanish-9_blood-1	spanish	9_blood	s a ŋ ɡ ɾ e	stan1288	spa	946	BLOOD	69	
+2051	swedish-100_yellow-1	swedish	100_yellow	g uː l	swed1254	swe	1424	YELLOW	550	
+2052	swedish-101_far-1	swedish	101_far	l o ŋ	swed1254	swe	1406	FAR	558	
+2053	swedish-101_far-2	swedish	101_far	f j ɛ rː a n	swed1254	swe	1406	FAR	559	
+2054	swedish-102_heavy-1	swedish	102_heavy	s v oː r	swed1254	swe	1210	HEAVY	564	
+2055	swedish-102_heavy-2	swedish	102_heavy	t u ŋː	swed1254	swe	1210	HEAVY	563	
+2056	swedish-103_near-1	swedish	103_near	n ɛː r a	swed1254	swe	1942	NEAR	574	
+2057	swedish-104_salt-1	swedish	104_salt	s a lː t	swed1254	swe	1274	SALT	576	
+2058	swedish-105_short-1	swedish	105_short	k ɔ r t	swed1254	swe	1645	SHORT	-581	
+2059	swedish-106_snake-1	swedish	106_snake	o rː m	swed1254	swe	730	SNAKE	590	
+2062	swedish-108_wind-1	swedish	108_wind	v i n d	swed1254	swe	960	WIND	602	
+2063	swedish-109_worm-1	swedish	109_worm	m a sː k	swed1254	swe	1219	WORM	606	
+2064	swedish-10_bone-1	swedish	10_bone	b eː n	swed1254	swe	1394	BONE	76	
+2065	swedish-110_year-1	swedish	110_year	oː r	swed1254	swe	1226	YEAR	614	
+2069	swedish-14_cloud-1	swedish	14_cloud	ɧ yː	swed1254	swe	1489	CLOUD	96	
+2070	swedish-14_cloud-2	swedish	14_cloud	m oː l n	swed1254	swe	1489	CLOUD	97	
+2072	swedish-16_come-1	swedish	16_come	k o mː a	swed1254	swe	1446	COME	115	
+2073	swedish-17_die-1	swedish	17_die	d ø	swed1254	swe	1494	DIE	119	
+2074	swedish-18_dog-1	swedish	18_dog	h u nː d	swed1254	swe	2009	DOG	123	
+2075	swedish-19_drink-1	swedish	19_drink	d r i kː a	swed1254	swe	1401	DRINK	133	
+2076	swedish-1_all-1	swedish	1_all	a lː	swed1254	swe	98	ALL	5	
+2077	swedish-20_dry-1	swedish	20_dry	t o rː	swed1254	swe	1398	DRY	135	
+2078	swedish-21_ear-1	swedish	21_ear	øː r a	swed1254	swe	1247	EAR	141	
+2079	swedish-22_earth-1	swedish	22_earth	j oː r d	swed1254	swe	1228	EARTH (SOIL)	146	
+2080	swedish-23_eat-1	swedish	23_eat	ɛː t a	swed1254	swe	1336	EAT	150	
+2081	swedish-24_egg-1	swedish	24_egg	e gː	swed1254	swe	744	EGG	154	
+2082	swedish-25_eye-1	swedish	25_eye	øː g a	swed1254	swe	1248	EYE	158	
+2084	swedish-27_feather-1	swedish	27_feather	f j ɛː d e r	swed1254	swe	1201	FEATHER	170	
+2085	swedish-28_fire-1	swedish	28_fire	e lː d	swed1254	swe	221	FIRE	176	
+2086	swedish-29_fish-1	swedish	29_fish	f i sː k	swed1254	swe	227	FISH	182	
+2087	swedish-2_ashes-1	swedish	2_ashes	a sː k a	swed1254	swe	646	ASH	10	
+2088	swedish-30_flyv-1	swedish	30_flyv	f l ʉ g a	swed1254	swe	1441	FLY (MOVE THROUGH AIR)	190	
+2089	swedish-31_foot-1	swedish	31_foot	f oː t	swed1254	swe	1301	FOOT	194	
+2091	swedish-33_give-1	swedish	33_give	j iː v a	swed1254	swe	1447	GIVE	197	
+2092	swedish-34_good-1	swedish	34_good	g uː d	swed1254	swe	1035	GOOD	205	
+2093	swedish-35_green-1	swedish	35_green	g r øː n	swed1254	swe	1425	GREEN	209	
+2094	swedish-36_hair-1	swedish	36_hair	h oː r	swed1254	swe	1040	HAIR	217	
+2095	swedish-37_hand-1	swedish	37_hand	h a nː d	swed1254	swe	1277	HAND	218	
+2096	swedish-38_head-1	swedish	38_head	h uː v u d	swed1254	swe	1256	HEAD	223	
+2097	swedish-39_hear-1	swedish	39_hear	h øː r a	swed1254	swe	1408	HEAR	230	
+2098	swedish-3_bark-1	swedish	3_bark	b a rː k	swed1254	swe	1204	BARK	15	
+2099	swedish-40_heart-1	swedish	40_heart	j ɛ r t a	swed1254	swe	1223	HEART	235	
+2101	swedish-42_i-1	swedish	42_i	j aː g	swed1254	swe	1209	I	240	
+2102	swedish-43_kill-1	swedish	43_kill	d øː d a	swed1254	swe	1417	KILL	242	
+2103	swedish-43_kill-2	swedish	43_kill	d r ɛ p a	swed1254	swe	1417	KILL	248	
+2105	swedish-45_know-1	swedish	45_know	ɕ ɛ nː a	swed1254	swe	1410	KNOW (SOMETHING)	257	
+2106	swedish-45_know-2	swedish	45_know	v e t a	swed1254	swe	1410	KNOW (SOMETHING)	256	
+2107	swedish-46_leaf-1	swedish	46_leaf	b l a d	swed1254	swe	628	LEAF	262	
+2108	swedish-46_leaf-2	swedish	46_leaf	b l a d	swed1254	swe	628	LEAF	262	
+2109	swedish-47_lie-1	swedish	47_lie	l i gː a	swed1254	swe	1411	LIE (REST)	269	
+2110	swedish-48_liver-1	swedish	48_liver	l eː v e r	swed1254	swe	1224	LIVER	273	
+2111	swedish-49_long-1	swedish	49_long	l o ŋː	swed1254	swe	1203	LONG	281	
+2112	swedish-4_belly-1	swedish	4_belly	m aː g e	swed1254	swe	1251	BELLY	32	
+2113	swedish-4_belly-2	swedish	4_belly	b u k	swed1254	swe	1251	BELLY	27	
+2114	swedish-50_louse-1	swedish	50_louse	l uː s	swed1254	swe	1392	LOUSE	286	
+2116	swedish-52_many-1	swedish	52_many	m ʏ k ɛ t	swed1254	swe	1198	MANY	295	
+2117	swedish-52_many-2	swedish	52_many	m o ŋː a	swed1254	swe	1198	MANY	296	
+2120	swedish-55_mountain-1	swedish	55_mountain	b ɛ rː j	swed1254	swe	639	MOUNTAIN	317	
+2121	swedish-56_mouth-1	swedish	56_mouth	m u nː	swed1254	swe	674	MOUTH	328	
+2122	swedish-57_name-1	swedish	57_name	n a mː n	swed1254	swe	1405	NAME	334	
+2123	swedish-58_neck-1	swedish	58_neck	h a lː s	swed1254	swe	1333	NECK	339	
+2124	swedish-59_new-1	swedish	59_new	n yː	swed1254	swe	1231	NEW	343	
+2125	swedish-5_big-1	swedish	5_big	s t oː r	swed1254	swe	1202	BIG	43	
+2126	swedish-60_night-1	swedish	60_night	n a tː	swed1254	swe	1233	NIGHT	346	
+2127	swedish-61_nose-1	swedish	61_nose	n ɛː s a	swed1254	swe	1221	NOSE	350	
+2128	swedish-62_not-1	swedish	62_not	i kː e	swed1254	swe	1240	NOT	353	
+2129	swedish-63_one-1	swedish	63_one	e n	swed1254	swe	1493	ONE	354	
+2130	swedish-64_person-1	swedish	64_person	m ɛ n i ʃ a	swed1254	swe	683	PERSON	361	
+2132	swedish-66_red-1	swedish	66_red	r øː d	swed1254	swe	156	RED	368	
+2133	swedish-67_road-1	swedish	67_road	v ɛː g	swed1254	swe	667	ROAD	376	
+2134	swedish-68_root-1	swedish	68_root	r oː t	swed1254	swe	670	ROOT	386	
+2136	swedish-6_bird-1	swedish	6_bird	f oː g e l	swed1254	swe	937	BIRD	51	
+2137	swedish-70_sand-1	swedish	70_sand	s a nː d	swed1254	swe	671	SAND	398	
+2138	swedish-71_say-1	swedish	71_say	s ɛ j a	swed1254	swe	1458	SAY	405	
+2139	swedish-72_see-1	swedish	72_see	s eː	swed1254	swe	1409	SEE	414	
+2140	swedish-73_seed-1	swedish	73_seed	f r øː	swed1254	swe	714	SEED	420	
+2141	swedish-74_sit-1	swedish	74_sit	s i tː a	swed1254	swe	1416	SIT	424	
+2144	swedish-76_sleep-1	swedish	76_sleep	s oː v a	swed1254	swe	1585	SLEEP	435	
+2145	swedish-77_small-1	swedish	77_small	l iː t e n	swed1254	swe	1246	SMALL	439	
+2146	swedish-77_small-2	swedish	77_small	s m oː	swed1254	swe	1246	SMALL	441	
+2147	swedish-78_smoke-1	swedish	78_smoke	r ø k	swed1254	swe	778	SMOKE (EXHAUST)	449	
+2148	swedish-79_stand-1	swedish	79_stand	s t oː	swed1254	swe	1442	STAND	451	
+2149	swedish-7_bite-1	swedish	7_bite	b iː t a	swed1254	swe	1403	BITE	54	
+2150	swedish-80_star-1	swedish	80_star	ɧ ɛː r n a	swed1254	swe	1430	STAR	454	
+2151	swedish-81_stone-1	swedish	81_stone	s t eː n	swed1254	swe	857	STONE	458	
+2152	swedish-82_sun-1	swedish	82_sun	s oː l	swed1254	swe	1343	SUN	463	
+2153	swedish-83_swim-1	swedish	83_swim	s i mː a	swed1254	swe	1439	SWIM	465	
+2154	swedish-84_tail-1	swedish	84_tail	ɧ ɛ r t	swed1254	swe	1220	TAIL	473	
+2155	swedish-85_that-1	swedish	85_that	d ə	swed1254	swe	78	THAT	487	
+2156	swedish-86_this-1	swedish	86_this	d ɛ t a	swed1254	swe	1214	THIS	492	
+2157	swedish-87_thou-1	swedish	87_thou	d ʉ	swed1254	swe	1215	THOU	495	
+2158	swedish-88_tongue-1	swedish	88_tongue	t u ŋː a	swed1254	swe	1205	TONGUE	496	
+2159	swedish-89_tooth-1	swedish	89_tooth	t a nː d	swed1254	swe	1380	TOOTH	499	
+2160	swedish-8_black-1	swedish	8_black	s v a r tː	swed1254	swe	163	BLACK	60	
+2161	swedish-90_tree-1	swedish	90_tree	t r ɛː d	swed1254	swe	906	TREE	501	
+2162	swedish-91_two-1	swedish	91_two	t v oː	swed1254	swe	1498	TWO	507	
+2163	swedish-92_walkgo-1	swedish	92_walkgo	g oː	swed1254	swe	1443	WALK	509	
+2165	swedish-94_water-1	swedish	94_water	v a tː e n	swed1254	swe	948	WATER	526	
+2166	swedish-95_we-1	swedish	95_we	v iː	swed1254	swe	1212	WE	530	
+2167	swedish-96_what-1	swedish	96_what	v ɑ d	swed1254	swe	1236	WHAT	531	
+2168	swedish-97_white-1	swedish	97_white	v iː t	swed1254	swe	1335	WHITE	532	
+2169	swedish-98_who-1	swedish	98_who	v e m	swed1254	swe	1235	WHO	538	
+2170	swedish-99_woman-1	swedish	99_woman	k v i nː a	swed1254	swe	962	WOMAN	544	
+2171	swedish-9_blood-1	swedish	9_blood	b l oː d	swed1254	swe	946	BLOOD	71	

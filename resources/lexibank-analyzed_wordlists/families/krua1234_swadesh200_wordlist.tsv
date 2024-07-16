@@ -1,0 +1,308 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+5374	21525	polyglottaafricana-Bakwe	bakw1243		bad	1292	BAD		ọ́ sedṣírīmo	o˞ + s e ɖʐ i r iː m o
+5375	21526	polyglottaafricana-Bakwe	bakw1243		bad	1292	BAD		o nerī́dṣi	o + n e r iː ɖʐ i
+5382	21533	polyglottaafricana-Bassa	nucl1418		bad	1292	BAD		ọ̄gbirḗnigi	o˞ː gb i r eː n i g i
+5383	21534	polyglottaafricana-Bassa	nucl1418		bad	1292	BAD		o˞ː yí·rēgi	o˞ː + j i r eː g i
+5397	21548	polyglottaafricana-Dewoin	dewo1238		bad	1292	BAD		ọ nyíri·	o˞ + n j i r i
+5446	21597	polyglottaafricana-Klao	klao1243		bad	1292	BAD		ọ́nyīredṣī́e	o˞ n j iː r e ɖʐ iː e
+5506	21657	polyglottaafricana-SouthernGrebo	sout2826		bad	1292	BAD		ẹ́nyirẹ́·nyīrọ·	e˞ n j i r e˞ n j iː r o˞
+23245	39396	polyglottaafricana-Bakwe	bakw1243		belly	1251	BELLY		kúli	k u l i
+23252	39403	polyglottaafricana-Bassa	nucl1418		belly	1251	BELLY		kúli	k u l i
+23267	39418	polyglottaafricana-Dewoin	dewo1238		belly	1251	BELLY		kúri	k u r i
+23316	39467	polyglottaafricana-Klao	klao1243		belly	1251	BELLY		kúli	k u l i
+23376	39527	polyglottaafricana-SouthernGrebo	sout2826		belly	1251	BELLY		kúli	k u l i
+28399	44550	polyglottaafricana-Bakwe	bakw1243		big	1202	BIG		ọ́ boai	o˞ + b o a i
+28406	44557	polyglottaafricana-Bassa	nucl1418		big	1202	BIG		ọ bṓai	o˞ + b oː a i
+28423	44574	polyglottaafricana-Dewoin	dewo1238		big	1202	BIG		ọ́buai·	o˞ b u a i
+28474	44625	polyglottaafricana-Klao	klao1243		big	1202	BIG		ọ́ būa	o˞ + b uː a
+28544	44695	polyglottaafricana-SouthernGrebo	sout2826		big	1202	BIG		ọ̄́ būa	o˞ː + b uː a
+30737	46888	polyglottaafricana-Bakwe	bakw1243		bird	937	BIRD		nā́gbẹ	n aː gb e˞
+30744	46895	polyglottaafricana-Bassa	nucl1418		bird	937	BIRD		na	n a
+30757	46908	polyglottaafricana-Dewoin	dewo1238		bird	937	BIRD		no·	n o
+30801	46952	polyglottaafricana-Klao	klao1243		bird	937	BIRD		némūẹ	n e m uː e˞
+30858	47009	polyglottaafricana-SouthernGrebo	sout2826		bird	937	BIRD		né·būrọ	n e b uː r o˞
+35690	51841	polyglottaafricana-Bakwe	bakw1243		black	163	BLACK		ọ gbéri·	o˞ + gb e r i
+35697	51848	polyglottaafricana-Bassa	nucl1418		black	163	BLACK		o˞ː gbé	o˞ː + gb e
+35711	51862	polyglottaafricana-Dewoin	dewo1238		black	163	BLACK		ọ gbḗi·	o˞ + gb eː i
+35760	51911	polyglottaafricana-Klao	klao1243		black	163	BLACK		ọ̄gírẹ̄gbo	o˞ː g i r e˞ː gb o
+35824	51975	polyglottaafricana-SouthernGrebo	sout2826		black	163	BLACK		ẹ́īrebṓnẹ	e˞ iː r e b oː n e˞
+39107	55258	polyglottaafricana-Bakwe	bakw1243		blood	946	BLOOD		nyímo	n j i m o
+39114	55265	polyglottaafricana-Bassa	nucl1418		blood	946	BLOOD		nyímo·	n j i m o
+39128	55279	polyglottaafricana-Dewoin	dewo1238		blood	946	BLOOD		nyímo·	n j i m o
+39176	55327	polyglottaafricana-Klao	klao1243		blood	946	BLOOD		nyī́mo	n j iː m o
+39233	55384	polyglottaafricana-SouthernGrebo	sout2826		blood	946	BLOOD		nyíro·	n j i r o
+47327	63478	polyglottaafricana-Bakwe	bakw1243		bone	1394	BONE		gba	gb a
+47334	63485	polyglottaafricana-Bassa	nucl1418		bone	1394	BONE		gba	gb a
+47348	63499	polyglottaafricana-Dewoin	dewo1238		bone	1394	BONE		gba	gb a
+47395	63546	polyglottaafricana-Klao	klao1243		bone	1394	BONE		gba	gb a
+47396	63547	polyglottaafricana-Klao	klao1243		bone	1394	BONE		dẹ́gba	d e˞ gb a
+47455	63606	polyglottaafricana-SouthernGrebo	sout2826		bone	1394	BONE		krá	k r a
+47456	63607	polyglottaafricana-SouthernGrebo	sout2826		bone	1394	BONE		dẹ́kra	d e˞ ɠ̥ r a
+59220	75373	polyglottaafricana-Bakwe	bakw1243		breathe	1407	BREATHE		na fọ́ni	n a + f o˞ n i
+59228	75381	polyglottaafricana-Bassa	nucl1418		breathe	1407	BREATHE		nā fṓẹ	n aː + f oː e˞
+59241	75394	polyglottaafricana-Dewoin	dewo1238		breathe	1407	BREATHE		na fọ̄́i·	n a + f o˞ː i
+59289	75442	polyglottaafricana-Klao	klao1243		breathe	1407	BREATHE		nā́ fọ	n aː + f o˞
+59347	75500	polyglottaafricana-SouthernGrebo	sout2826		breathe	1407	BREATHE		né foẹ̄ne	n e + f o e˞ː n e
+99276	115429	polyglottaafricana-Bakwe	bakw1243		come	1446	COME		ndā́gi	n d aː g i
+99284	115437	polyglottaafricana-Bassa	nucl1418		come	1446	COME		nā gí	n aː + g i
+99298	115451	polyglottaafricana-Dewoin	dewo1238		come	1446	COME		nnā́ gi	n n aː + g i
+99350	115503	polyglottaafricana-Klao	klao1243		come	1446	COME		nā́ gi	n aː + g i
+99411	115564	polyglottaafricana-SouthernGrebo	sout2826		come	1446	COME		dī́ni	d iː n i
+122139	138294	polyglottaafricana-Bakwe	bakw1243		daynotnight	1225	DAY (NOT NIGHT)		gírōgbáu·	g i r oː gb a u
+122146	138301	polyglottaafricana-Bassa	nucl1418		daynotnight	1225	DAY (NOT NIGHT)		zó·zōei·	z o z oː e i
+122160	138315	polyglottaafricana-Dewoin	dewo1238		daynotnight	1225	DAY (NOT NIGHT)		fū́ẹ	f uː e˞
+122209	138364	polyglottaafricana-Klao	klao1243		daynotnight	1225	DAY (NOT NIGHT)		sémbāti	s e m b aː t i
+122271	138426	polyglottaafricana-SouthernGrebo	sout2826		daynotnight	1225	DAY (NOT NIGHT)		nyírẹ̄·nyẹ̄́re·	n j i r e˞ː n j e˞ː r e
+127492	143647	polyglottaafricana-Bakwe	bakw1243		die	1494	DIE		ná mẹ	n a + m e˞
+127499	143654	polyglottaafricana-Bassa	nucl1418		die	1494	DIE		ḿmẹ́i·	m̩ m e˞ i
+127514	143669	polyglottaafricana-Dewoin	dewo1238		die	1494	DIE		n·kṓei·	n k oː e i
+127564	143719	polyglottaafricana-Klao	klao1243		die	1494	DIE		né mẹ	n e + m e˞
+127625	143780	polyglottaafricana-SouthernGrebo	sout2826		die	1494	DIE		ne kṓne	n e + k oː n e
+136051	152206	polyglottaafricana-Bakwe	bakw1243		dog	2009	DOG		gbe	gb e
+136058	152213	polyglottaafricana-Bassa	nucl1418		dog	2009	DOG		gbe	gb e
+136072	152227	polyglottaafricana-Dewoin	dewo1238		dog	2009	DOG		gbe	gb e
+136122	152277	polyglottaafricana-Klao	klao1243		dog	2009	DOG		gbe	gb e
+136181	152336	polyglottaafricana-SouthernGrebo	sout2826		dog	2009	DOG		gbe	gb e
+146069	162224	polyglottaafricana-Bakwe	bakw1243		dry	1398	DRY		ọ́ dṣẹ́ri·	o˞ + ɖʐ e˞ r i
+146076	162231	polyglottaafricana-Bassa	nucl1418		dry	1398	DRY		o˞ː dṣẹ́	o˞ː + ɖʐ e˞
+146077	162232	polyglottaafricana-Bassa	nucl1418		dry	1398	DRY		ọ giẹ̄́i·	o˞ + g i e˞ː i
+146091	162246	polyglottaafricana-Dewoin	dewo1238		dry	1398	DRY		ọ dṣẹ̄́i·	o˞ + ɖʐ e˞ː i
+146140	162295	polyglottaafricana-Klao	klao1243		dry	1398	DRY		ẹ́ma	e˞ m a
+146202	162357	polyglottaafricana-SouthernGrebo	sout2826		dry	1398	DRY		máno	m a n o
+151588	167743	polyglottaafricana-Bakwe	bakw1243		ear	1247	EAR		dóḥu·	d o ɦ u
+151595	167750	polyglottaafricana-Bassa	nucl1418		ear	1247	EAR		dọ·	d o˞
+151609	167764	polyglottaafricana-Dewoin	dewo1238		ear	1247	EAR		lọ̄	l o˞ː
+151657	167812	polyglottaafricana-Klao	klao1243		ear	1247	EAR		nọ̄́gu·	n o˞ː g u
+151716	167871	polyglottaafricana-SouthernGrebo	sout2826		ear	1247	EAR		nū́a·	n uː a
+159409	175567	polyglottaafricana-Bakwe	bakw1243		egg	744	EGG		ge·	g e
+159416	175574	polyglottaafricana-Bassa	nucl1418		egg	744	EGG		gẹ·	g e˞
+159429	175587	polyglottaafricana-Dewoin	dewo1238		egg	744	EGG		gẹ·	g e˞
+159474	175632	polyglottaafricana-Klao	klao1243		egg	744	EGG		nyẹ́	n j e˞
+159534	175692	polyglottaafricana-SouthernGrebo	sout2826		egg	744	EGG		n·ẹ́	n e˞
+169988	186146	polyglottaafricana-Bakwe	bakw1243		eye	1248	EYE		gírīẹ	g i r iː e˞
+169995	186153	polyglottaafricana-Bassa	nucl1418		eye	1248	EYE		gíre	g i r e
+170010	186168	polyglottaafricana-Dewoin	dewo1238		eye	1248	EYE		gíre	g i r e
+170060	186218	polyglottaafricana-Klao	klao1243		eye	1248	EYE		gī́e	g iː e
+170119	186277	polyglottaafricana-SouthernGrebo	sout2826		eye	1248	EYE		yī́e	j iː e
+174004	190163	polyglottaafricana-Bakwe	bakw1243		fall	1280	FALL		mblẹ̄́bīli	ⁿb l e˞ː b iː l i
+174012	190171	polyglottaafricana-Bassa	nucl1418		fall	1280	FALL		n·gā́dyi	n g aː d j i
+174027	190186	polyglottaafricana-Dewoin	dewo1238		fall	1280	FALL		n·gbáwe	n gb a w e
+174074	190233	polyglottaafricana-Klao	klao1243		fall	1280	FALL		ne berẹ̄́di	n e + b e r e˞ː d i
+174131	190290	polyglottaafricana-SouthernGrebo	sout2826		fall	1280	FALL		ne pī́·yu	n e + p iː j u
+179990	196149	polyglottaafricana-Bakwe	bakw1243		father	1217	FATHER		ba	b a
+179998	196157	polyglottaafricana-Bassa	nucl1418		father	1217	FATHER		ba	b a
+180012	196171	polyglottaafricana-Dewoin	dewo1238		father	1217	FATHER		ba	b a
+180061	196220	polyglottaafricana-Klao	klao1243		father	1217	FATHER		mi	m i
+180124	196283	polyglottaafricana-SouthernGrebo	sout2826		father	1217	FATHER		bū́o	b uː o
+187231	219884	polyglottaafricana-Bakwe	bakw1243		fleshormeat	2615	FLESH OR MEAT		ními	n i m i
+187238	219891	polyglottaafricana-Bassa	nucl1418		fleshormeat	2615	FLESH OR MEAT		ními	n i m i
+187239	219892	polyglottaafricana-Bassa	nucl1418		fleshormeat	2615	FLESH OR MEAT		sóālẹ	s o aː l e˞
+187253	219906	polyglottaafricana-Dewoin	dewo1238		fleshormeat	2615	FLESH OR MEAT		sóāyẹ	s o aː j e˞
+187254	219907	polyglottaafricana-Dewoin	dewo1238		fleshormeat	2615	FLESH OR MEAT		ními	n i m i
+187302	219955	polyglottaafricana-Klao	klao1243		fleshormeat	2615	FLESH OR MEAT		sóāle	s o aː l e
+187362	220015	polyglottaafricana-SouthernGrebo	sout2826		fleshormeat	2615	FLESH OR MEAT		mléndẹ	m l e n d e˞
+196531	229184	polyglottaafricana-Bakwe	bakw1243		foot	1301	FOOT		bópū-n·kọ·	b o p uː + n k o˞
+196538	229191	polyglottaafricana-Bassa	nucl1418		foot	1301	FOOT		bṓ-pọ	b oː + p o˞
+196552	229205	polyglottaafricana-Dewoin	dewo1238		foot	1301	FOOT		bó-kūei·	b o + k uː e i
+196599	229252	polyglottaafricana-Klao	klao1243		foot	1301	FOOT		bọ̄-pón·gbo	b o˞ː + p o n gb o
+196653	229306	polyglottaafricana-SouthernGrebo	sout2826		foot	1301	FOOT		bō-púrọ	b oː + p u r o˞
+199816	232469	polyglottaafricana-Bakwe	bakw1243		forest	420	FOREST		kurā́kūli	k u r aː ɠ̥ uː l i
+199823	232476	polyglottaafricana-Bassa	nucl1418		forest	420	FOREST		kóra	k o r a
+199824	232477	polyglottaafricana-Bassa	nucl1418		forest	420	FOREST		korā́guli	k o r aː g u l i
+199839	232492	polyglottaafricana-Dewoin	dewo1238		forest	420	FOREST		ḥúān·	ɦ u aː n
+199889	232542	polyglottaafricana-Klao	klao1243		forest	420	FOREST		kóra	k o r a
+199947	232600	polyglottaafricana-SouthernGrebo	sout2826		forest	420	FOREST		wā́·ū·ri	w aː uː r i
+202909	235562	polyglottaafricana-Bakwe	bakw1243		four	1500	FOUR		hī́yẹ·	h iː j e˞
+202916	235569	polyglottaafricana-Bassa	nucl1418		four	1500	FOUR		hī́·ye·	h iː j e
+202931	235584	polyglottaafricana-Dewoin	dewo1238		four	1500	FOUR		hḿnyīe	h m̩ n j iː e
+202980	235633	polyglottaafricana-Klao	klao1243		four	1500	FOUR		nyī́e	n j iː e
+203040	235693	polyglottaafricana-SouthernGrebo	sout2826		four	1500	FOUR		ha·	h a
+215018	247671	polyglottaafricana-Bakwe	bakw1243		give	1447	GIVE		ényiẹ̄ní	e n j i e˞ː n i
+215025	247678	polyglottaafricana-Bassa	nucl1418		give	1447	GIVE		nnyī́o mu	n n j iː o + m u
+215038	247691	polyglottaafricana-Dewoin	dewo1238		give	1447	GIVE		n·gḗōmo	n g eː oː m o
+215083	247736	polyglottaafricana-Klao	klao1243		give	1447	GIVE		ne nyī́a mu	n e + n j iː a + m u
+215142	247795	polyglottaafricana-SouthernGrebo	sout2826		give	1447	GIVE		ne nyímlẹ̄mlẹ	n e + n j i m l e˞ː m l e˞
+221161	253817	polyglottaafricana-Bakwe	bakw1243		good	1035	GOOD		ọ nimṓdṣi	o˞ + n i m oː ɖʐ i
+221168	253824	polyglottaafricana-Bassa	nucl1418		good	1035	GOOD		animọ̄́gi	a n i m o˞ː g i
+221184	253840	polyglottaafricana-Dewoin	dewo1238		good	1035	GOOD		ọ́ nimọ̄́i·	o˞ + n i m o˞ː i
+221235	253891	polyglottaafricana-Klao	klao1243		good	1035	GOOD		ánimōgí	a n i m oː g i
+221236	253892	polyglottaafricana-Klao	klao1243		good	1035	GOOD		ṣī́edẹ́nu	ʂ iː e d e˞ n u
+221298	253954	polyglottaafricana-SouthernGrebo	sout2826		good	1035	GOOD		ẹnọ́n·īru·	e˞ n o˞ ŋ iː r u
+221299	253955	polyglottaafricana-SouthernGrebo	sout2826		good	1035	GOOD		hā́·dẹnu	h aː d e˞ n u
+234900	267556	polyglottaafricana-Bakwe	bakw1243		hair	1040	HAIR		mi	m i
+234907	267563	polyglottaafricana-Bassa	nucl1418		hair	1040	HAIR		mi	m i
+234921	267577	polyglottaafricana-Dewoin	dewo1238		hair	1040	HAIR		mi	m i
+234971	267627	polyglottaafricana-Klao	klao1243		hair	1040	HAIR		nui	n u i
+235031	267687	polyglottaafricana-SouthernGrebo	sout2826		hair	1040	HAIR		púmle	p u m l e
+238744	271400	polyglottaafricana-Bakwe	bakw1243		hand	1277	HAND		gbógbākọ·	gb o gb aː k o˞
+238752	271408	polyglottaafricana-Bassa	nucl1418		hand	1277	HAND		kōā́ṛo·	k oː aː ɽ o
+238765	271421	polyglottaafricana-Dewoin	dewo1238		hand	1277	HAND		sọkẹ̄́i·	s o˞ k e˞ː i
+238812	271468	polyglottaafricana-Klao	klao1243		hand	1277	HAND		kébā	k e b aː
+238868	271524	polyglottaafricana-SouthernGrebo	sout2826		hand	1277	HAND		kowálu	k o w a l u
+244354	277011	polyglottaafricana-Bakwe	bakw1243		head	1256	HEAD		dúru	d u r u
+244361	277018	polyglottaafricana-Bassa	nucl1418		head	1256	HEAD		trú	t r u
+244376	277033	polyglottaafricana-Dewoin	dewo1238		head	1256	HEAD		dúru	d u r u
+244424	277081	polyglottaafricana-Klao	klao1243		head	1256	HEAD		débo	d e b o
+244484	277141	polyglottaafricana-SouthernGrebo	sout2826		head	1256	HEAD		lu	l u
+247282	279939	polyglottaafricana-Bakwe	bakw1243		hear	1408	HEAR		na wóẹ̄ri·	n a + w o e˞ː r i
+247289	279946	polyglottaafricana-Bassa	nucl1418		hear	1408	HEAR		nẹ́ wū·éi·	n e˞ + w uː e i
+247303	279960	polyglottaafricana-Dewoin	dewo1238		hear	1408	HEAR		ń·wōyí	ŋ w oː j i
+247350	280007	polyglottaafricana-Klao	klao1243		hear	1408	HEAR		nā wū́·ẹ·	n aː + w uː e˞
+247409	280066	polyglottaafricana-SouthernGrebo	sout2826		hear	1408	HEAR		ne ūwáne	n e + uː w a n e
+299333	331993	polyglottaafricana-Bakwe	bakw1243		laugh	1355	LAUGH		nā kisẹ́ni	n aː + k i s e˞ n i
+299340	332000	polyglottaafricana-Bassa	nucl1418		laugh	1355	LAUGH		nā kírẹ	n aː + k i r e˞
+299354	332014	polyglottaafricana-Dewoin	dewo1238		laugh	1355	LAUGH		n·kẹ̄́ni	n k e˞ː n i
+299402	332062	polyglottaafricana-Klao	klao1243		laugh	1355	LAUGH		nā́ kīa	n aː + k iː a
+299463	332123	polyglottaafricana-SouthernGrebo	sout2826		laugh	1355	LAUGH		ne kiẹ̄́ni	n e + k i e˞ː n i
+302575	335235	polyglottaafricana-Bakwe	bakw1243		leaf	628	LEAF		wṓfi·	w oː f i
+302582	335242	polyglottaafricana-Bassa	nucl1418		leaf	628	LEAF		fẹi·	f e˞ i
+302595	335255	polyglottaafricana-Dewoin	dewo1238		leaf	628	LEAF		vā	v aː
+302642	335302	polyglottaafricana-Klao	klao1243		leaf	628	LEAF		kṓagun·	k oː a g u n
+302701	335361	polyglottaafricana-SouthernGrebo	sout2826		leaf	628	LEAF		họu	h o˞ u
+306604	339264	polyglottaafricana-Bakwe	bakw1243		leg	1297	LEG		bo	b o
+306611	339271	polyglottaafricana-Bassa	nucl1418		leg	1297	LEG		bo	b o
+306625	339285	polyglottaafricana-Dewoin	dewo1238		leg	1297	LEG		gbo	gb o
+306672	339332	polyglottaafricana-Klao	klao1243		leg	1297	LEG		bo	b o
+306732	339392	polyglottaafricana-SouthernGrebo	sout2826		leg	1297	LEG		bo	b o
+349518	382179	polyglottaafricana-Bakwe	bakw1243		mother	1216	MOTHER		de	d e
+349526	382187	polyglottaafricana-Bassa	nucl1418		mother	1216	MOTHER		ne	n e
+349539	382200	polyglottaafricana-Dewoin	dewo1238		mother	1216	MOTHER		ma	m a
+349585	382246	polyglottaafricana-Klao	klao1243		mother	1216	MOTHER		ni	n i
+349649	382310	polyglottaafricana-SouthernGrebo	sout2826		mother	1216	MOTHER		de	d e
+353833	386497	polyglottaafricana-Bakwe	bakw1243		mouth	674	MOUTH		ń·wọ·	ŋ w o˞
+353840	386504	polyglottaafricana-Bassa	nucl1418		mouth	674	MOUTH		ún·o	u n o
+353855	386519	polyglottaafricana-Dewoin	dewo1238		mouth	674	MOUTH		n·úẹ̄n	n u e˞ː n
+353903	386567	polyglottaafricana-Klao	klao1243		mouth	674	MOUTH		n·ū́ọ	n uː o˞
+353963	386627	polyglottaafricana-SouthernGrebo	sout2826		mouth	674	MOUTH		ū́nọ	uː n o˞
+365132	397799	polyglottaafricana-Bakwe	bakw1243		neck	1333	NECK		búrunde	b u r u n d e
+365139	397806	polyglottaafricana-Bassa	nucl1418		neck	1333	NECK		bulúnde	b u l u n d e
+365153	397820	polyglottaafricana-Dewoin	dewo1238		neck	1333	NECK		búrūkẹ́i·	b u r uː k e˞ i
+365202	397869	polyglottaafricana-Klao	klao1243		neck	1333	NECK		púrū·-gbo	p u r uː + gb o
+365261	397928	polyglottaafricana-SouthernGrebo	sout2826		neck	1333	NECK		pró	p r o
+371971	404638	polyglottaafricana-Bakwe	bakw1243		night	1233	NIGHT		mā́to·	m aː t o
+371978	404645	polyglottaafricana-Bassa	nucl1418		night	1233	NIGHT		mā́u·	m aː u
+371992	404659	polyglottaafricana-Dewoin	dewo1238		night	1233	NIGHT		mā·	m aː
+372041	404708	polyglottaafricana-Klao	klao1243		night	1233	NIGHT		wúlō	w u l oː
+372103	404770	polyglottaafricana-SouthernGrebo	sout2826		night	1233	NIGHT		tuẹ̄́e	t u e˞ː e
+377791	410458	polyglottaafricana-Bakwe	bakw1243		nose	1221	NOSE		ḿra	m̩ r a
+377798	410465	polyglottaafricana-Bassa	nucl1418		nose	1221	NOSE		mó·la·	m o l a
+377813	410480	polyglottaafricana-Dewoin	dewo1238		nose	1221	NOSE		ḿera·	m̩ e r a
+377861	410528	polyglottaafricana-Klao	klao1243		nose	1221	NOSE		méra·	m e r a
+377920	410587	polyglottaafricana-SouthernGrebo	sout2826		nose	1221	NOSE		mī́a·	m iː a
+383655	416322	polyglottaafricana-Bakwe	bakw1243		old	1229	OLD		ọ́hurẹ̄́ni	o˞ h u r e˞ː n i
+383656	416323	polyglottaafricana-Bakwe	bakw1243		old	1229	OLD		ō nyẹ̄́ri·	oː + n j e˞ː r i
+383664	416331	polyglottaafricana-Bassa	nucl1418		old	1229	OLD		dā́hūle	d aː h uː l e
+383665	416332	polyglottaafricana-Bassa	nucl1418		old	1229	OLD		ọ mọ̄́sūa	o˞ + m o˞ː s uː a
+383681	416348	polyglottaafricana-Dewoin	dewo1238		old	1229	OLD		yẹ́ sōe	j e˞ + s oː e
+383733	416400	polyglottaafricana-Klao	klao1243		old	1229	OLD		gbáṛa	gb a ɽ a
+383797	416464	polyglottaafricana-SouthernGrebo	sout2826		old	1229	OLD		ẹ́hū·ránēne	e˞ h uː r a n eː n e
+383798	416465	polyglottaafricana-SouthernGrebo	sout2826		old	1229	OLD		kū́nībe	k uː n iː b e
+390068	422735	polyglottaafricana-Bakwe	bakw1243		one	1493	ONE		dō	d oː
+390075	422742	polyglottaafricana-Bassa	nucl1418		one	1493	ONE		dō	d oː
+390090	422757	polyglottaafricana-Dewoin	dewo1238		one	1493	ONE		bō	b oː
+390138	422805	polyglottaafricana-Klao	klao1243		one	1493	ONE		dō	d oː
+390200	422867	polyglottaafricana-SouthernGrebo	sout2826		one	1493	ONE		do	d o
+413923	446590	polyglottaafricana-Bakwe	bakw1243		play	1413	PLAY		nā yísusūru	n aː + j i s u s uː r u
+413930	446597	polyglottaafricana-Bassa	nucl1418		play	1413	PLAY		nẹ yúpe	n e˞ + j u p e
+413941	446608	polyglottaafricana-Dewoin	dewo1238		play	1413	PLAY		nnúgẹ	n n u g e˞
+413981	446648	polyglottaafricana-Klao	klao1243		play	1413	PLAY		nā́ nusésu·	n aː + n u s e s u
+414029	446696	polyglottaafricana-SouthernGrebo	sout2826		play	1413	PLAY		ne nīsḗnu·	n e + n iː s eː n u
+444749	477418	polyglottaafricana-Bakwe	bakw1243		root	670	ROOT		gbíre·	gb i r e
+444756	477425	polyglottaafricana-Bassa	nucl1418		root	670	ROOT		gbílẹ·	gb i l e˞
+444769	477438	polyglottaafricana-Dewoin	dewo1238		root	670	ROOT		gbírẹ·	gb i r e˞
+444815	477484	polyglottaafricana-Klao	klao1243		root	670	ROOT		súro·	s u r o
+444876	477545	polyglottaafricana-SouthernGrebo	sout2826		root	670	ROOT		súro·	s u r o
+444877	477546	polyglottaafricana-SouthernGrebo	sout2826		root	670	ROOT		bo	b o
+446571	479240	polyglottaafricana-Bakwe	bakw1243		rope	1218	ROPE		déwu	d e w u
+446578	479247	polyglottaafricana-Bassa	nucl1418		rope	1218	ROPE		débū	d e b uː
+446592	479261	polyglottaafricana-Dewoin	dewo1238		rope	1218	ROPE		búrū	b u r uː
+446640	479309	polyglottaafricana-Klao	klao1243		rope	1218	ROPE		débū	d e b uː
+446701	479370	polyglottaafricana-SouthernGrebo	sout2826		rope	1218	ROPE		lṓlu	l oː l u
+454011	486680	polyglottaafricana-Bakwe	bakw1243		salt	1274	SALT		tọ·	t o˞
+454018	486687	polyglottaafricana-Bassa	nucl1418		salt	1274	SALT		to·	t o
+454032	486701	polyglottaafricana-Dewoin	dewo1238		salt	1274	SALT		to·	t o
+454081	486750	polyglottaafricana-Klao	klao1243		salt	1274	SALT		to·	t o
+454140	486809	polyglottaafricana-SouthernGrebo	sout2826		salt	1274	SALT		ta	t a
+456759	489428	polyglottaafricana-Bakwe	bakw1243		sand	671	SAND		pī́·so·	p iː s o
+456765	489434	polyglottaafricana-Bassa	nucl1418		sand	671	SAND		pī́·o	p iː o
+456779	489448	polyglottaafricana-Dewoin	dewo1238		sand	671	SAND		pī́·o·	p iː o
+456829	489498	polyglottaafricana-Klao	klao1243		sand	671	SAND		plésō·	p l e s oː
+456884	489553	polyglottaafricana-SouthernGrebo	sout2826		sand	671	SAND		pésō·puru	p e s oː p u r u
+465496	498166	polyglottaafricana-Bakwe	bakw1243		see	1409	SEE		nā gíẹ̄ni	n aː + g i e˞ː n i
+465503	498173	polyglottaafricana-Bassa	nucl1418		see	1409	SEE		nẹ gī́e	n e˞ + g iː e
+465518	498188	polyglottaafricana-Dewoin	dewo1238		see	1409	SEE		ndṣíẹ̄ni	n ɖʐ i e˞ː n i
+465564	498234	polyglottaafricana-Klao	klao1243		see	1409	SEE		nā gī́e	n aː + g iː e
+465623	498293	polyglottaafricana-SouthernGrebo	sout2826		see	1409	SEE		ne yī́rene	n e + j iː r e n e
+499693	532366	polyglottaafricana-Bakwe	bakw1243		sleep	1585	SLEEP		na móni	n a + m o n i
+499701	532374	polyglottaafricana-Bassa	nucl1418		sleep	1585	SLEEP		nā mṓi·	n aː + m oː i
+499715	532388	polyglottaafricana-Dewoin	dewo1238		sleep	1585	SLEEP		nā mṓei·	n aː + m oː e i
+499763	532436	polyglottaafricana-Klao	klao1243		sleep	1585	SLEEP		nā́ mo	n aː + m o
+499820	532493	polyglottaafricana-SouthernGrebo	sout2826		sleep	1585	SLEEP		ne móāne	n e + m o aː n e
+503294	535968	polyglottaafricana-Bakwe	bakw1243		small	1246	SMALL		ọ́ bīegí	o˞ + b iː e g i
+503302	535976	polyglottaafricana-Bassa	nucl1418		small	1246	SMALL		ọ bíẹ̄yi	o˞ + b i e˞ː j i
+503318	535992	polyglottaafricana-Dewoin	dewo1238		small	1246	SMALL		ọ́ nāní	o˞ + n aː n i
+503370	536044	polyglottaafricana-Klao	klao1243		small	1246	SMALL		ọ nẹ́bo	o˞ + n e˞ b o
+503436	536110	polyglottaafricana-SouthernGrebo	sout2826		small	1246	SMALL		kémīne	k e m iː n e
+507554	540230	polyglottaafricana-Bakwe	bakw1243		smokeexhaust	778	SMOKE (EXHAUST)		násūru	n a s uː r u
+507561	540237	polyglottaafricana-Bassa	nucl1418		smokeexhaust	778	SMOKE (EXHAUST)		náso	n a s o
+507575	540251	polyglottaafricana-Dewoin	dewo1238		smokeexhaust	778	SMOKE (EXHAUST)		nā́-dru	n aː + d r u
+507621	540297	polyglottaafricana-Klao	klao1243		smokeexhaust	778	SMOKE (EXHAUST)		nā́suro·	n aː s u r o
+507678	540354	polyglottaafricana-SouthernGrebo	sout2826		smokeexhaust	778	SMOKE (EXHAUST)		nā́sro·	n aː s r o
+510255	542931	polyglottaafricana-Bakwe	bakw1243		snake	730	SNAKE		sẹ	s e˞
+510262	542938	polyglottaafricana-Bassa	nucl1418		snake	730	SNAKE		zẹ	z e˞
+510276	542952	polyglottaafricana-Dewoin	dewo1238		snake	730	SNAKE		zébẹ	z e b e˞
+510323	542999	polyglottaafricana-Klao	klao1243		snake	730	SNAKE		sébẹ	s e b e˞
+510380	543056	polyglottaafricana-SouthernGrebo	sout2826		snake	730	SNAKE		síre	s i r e
+539261	571938	polyglottaafricana-Bakwe	bakw1243		stone	857	STONE		sọ́gbo	s o˞ gb o
+539268	571945	polyglottaafricana-Bassa	nucl1418		stone	857	STONE		sọ̄	s o˞ː
+539283	571960	polyglottaafricana-Dewoin	dewo1238		stone	857	STONE		sógbō	s o gb oː
+539331	572008	polyglottaafricana-Klao	klao1243		stone	857	STONE		sáwo	s a w o
+539391	572068	polyglottaafricana-SouthernGrebo	sout2826		stone	857	STONE		sḗọ	s eː o˞
+541466	574143	polyglottaafricana-Bakwe	bakw1243		straight	1404	STRAIGHT		ọ́ serei	o˞ + s e r e i
+541473	574150	polyglottaafricana-Bassa	nucl1418		straight	1404	STRAIGHT		ọ sírẹ̄n·gi	o˞ + s i r e˞ː n g i
+541486	574163	polyglottaafricana-Dewoin	dewo1238		straight	1404	STRAIGHT		ọ srẹ̄́yi	o˞ + s r e˞ː j i
+541532	574209	polyglottaafricana-Klao	klao1243		straight	1404	STRAIGHT		ọsírẹ̄re	o˞ s i r e˞ː r e
+541533	574210	polyglottaafricana-Klao	klao1243		straight	1404	STRAIGHT		ọ sẹ̄́lei·	o˞ + s e˞ː l e i
+541587	574264	polyglottaafricana-SouthernGrebo	sout2826		straight	1404	STRAIGHT		sirṓne	s i r oː n e
+541588	574265	polyglottaafricana-SouthernGrebo	sout2826		straight	1404	STRAIGHT		ẹ́ṣlọ̄ne	e˞ ʂ l o˞ː n e
+548656	581333	polyglottaafricana-Bakwe	bakw1243		sun	1343	SUN		gíru	g i r u
+548663	581340	polyglottaafricana-Bassa	nucl1418		sun	1343	SUN		gírō	g i r oː
+548678	581355	polyglottaafricana-Dewoin	dewo1238		sun	1343	SUN		owú	o w u
+548730	581407	polyglottaafricana-Klao	klao1243		sun	1343	SUN		gíro	g i r o
+548793	581470	polyglottaafricana-SouthernGrebo	sout2826		sun	1343	SUN		ū́n·wẹ·	uː ŋ w e˞
+583539	616224	polyglottaafricana-Bakwe	bakw1243		three	492	THREE		tā·	t aː
+583546	616231	polyglottaafricana-Bassa	nucl1418		three	492	THREE		tā·	t aː
+583561	616246	polyglottaafricana-Dewoin	dewo1238		three	492	THREE		tā·	t aː
+583609	616294	polyglottaafricana-Klao	klao1243		three	492	THREE		ta·	t a
+583669	616354	polyglottaafricana-SouthernGrebo	sout2826		three	492	THREE		ta·	t a
+596702	629389	polyglottaafricana-Bakwe	bakw1243		tongue	1205	TONGUE		mḗo	m eː o
+596709	629396	polyglottaafricana-Bassa	nucl1418		tongue	1205	TONGUE		mī́o·	m iː o
+596723	629410	polyglottaafricana-Dewoin	dewo1238		tongue	1205	TONGUE		mī́·a·	m iː a
+596770	629457	polyglottaafricana-Klao	klao1243		tongue	1205	TONGUE		mẹ	m e˞
+596830	629517	polyglottaafricana-SouthernGrebo	sout2826		tongue	1205	TONGUE		ḿmẹ	m̩ m e˞
+598875	631562	polyglottaafricana-Bakwe	bakw1243		tooth	1380	TOOTH		nyíre·	n j i r e
+598883	631570	polyglottaafricana-Bassa	nucl1418		tooth	1380	TOOTH		n·írẹ·	n i r e˞
+598897	631584	polyglottaafricana-Dewoin	dewo1238		tooth	1380	TOOTH		n·írẹ·	n i r e˞
+598945	631632	polyglottaafricana-Klao	klao1243		tooth	1380	TOOTH		nyé	n j e
+599004	631691	polyglottaafricana-SouthernGrebo	sout2826		tooth	1380	TOOTH		nyé	n j e
+603300	635987	polyglottaafricana-Bakwe	bakw1243		tree	906	TREE		dṣú	ɖʐ u
+603307	635994	polyglottaafricana-Bassa	nucl1418		tree	906	TREE		dṣīú	ɖʐ iː u
+603322	636009	polyglottaafricana-Dewoin	dewo1238		tree	906	TREE		su	s u
+603372	636059	polyglottaafricana-Klao	klao1243		tree	906	TREE		tu	t u
+603433	636120	polyglottaafricana-SouthernGrebo	sout2826		tree	906	TREE		tu	t u
+611775	644462	polyglottaafricana-Bakwe	bakw1243		two	1498	TWO		sō·	s oː
+611782	644469	polyglottaafricana-Bassa	nucl1418		two	1498	TWO		sō·	s oː
+611797	644484	polyglottaafricana-Dewoin	dewo1238		two	1498	TWO		sō·	s oː
+611846	644533	polyglottaafricana-Klao	klao1243		two	1498	TWO		sō·	s oː
+611906	644593	polyglottaafricana-SouthernGrebo	sout2826		two	1498	TWO		so·	s o
+627649	680310	polyglottaafricana-Bakwe	bakw1243		white	1335	WHITE		ọ́ púrūni	o˞ + p u r uː n i
+627656	680317	polyglottaafricana-Bassa	nucl1418		white	1335	WHITE		o˞ː pú	o˞ː + p u
+627670	680331	polyglottaafricana-Dewoin	dewo1238		white	1335	WHITE		yẹ́pa·	j e˞ p a
+627671	680332	polyglottaafricana-Dewoin	dewo1238		white	1335	WHITE		ọ́ gbẹ·	o˞ + gb e˞
+627720	680381	polyglottaafricana-Klao	klao1243		white	1335	WHITE		o˞ː púro	o˞ː + p u r o
+627784	680445	polyglottaafricana-SouthernGrebo	sout2826		white	1335	WHITE		o˞ː púro	o˞ː + p u r o
+640497	693252	polyglottaafricana-Bakwe	bakw1243		woman	962	WOMAN		nyī́ro·	n j iː r o
+640504	693259	polyglottaafricana-Bassa	nucl1418		woman	962	WOMAN		mā́e	m aː e
+640518	693273	polyglottaafricana-Dewoin	dewo1238		woman	962	WOMAN		nyíro·	n j i r o
+640570	693325	polyglottaafricana-Klao	klao1243		woman	962	WOMAN		nyī́ro·	n j iː r o
+640631	693386	polyglottaafricana-SouthernGrebo	sout2826		woman	962	WOMAN		nyī́rẹ·	n j iː r e˞

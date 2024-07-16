@@ -1,0 +1,1209 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+9228	25379	robinsonap-abui	abui1241		bark	1204	BARK		ˈbata kul	ʔ b a t a + k u l
+9229	25380	robinsonap-adang	adan1251		bark	1204	BARK		ti ?ui	t i + ʔ u i
+9230	25381	robinsonap-blagar	blag1240		bark	1204	BARK		te úlit	t e + u l i t
+9231	25382	robinsonap-kaera	kaer1234		bark	1204	BARK		tei wasi	t e i + w a s i
+9232	25383	robinsonap-kamang	kama1365		bark	1204	BARK		aba	a b a
+9233	25384	robinsonap-klon	kelo1247		bark	1204	BARK		ɛtɛkʊi	ɛ t ɛ k ʊ i
+9234	25385	robinsonap-nedebang	nede1245		bark	1204	BARK		tei waqa	t e i + w a q a
+9235	25386	robinsonap-sawila	sawi1256		bark	1204	BARK		yaka	j a k a
+9236	25387	robinsonap-teiwa	teiw1235		bark	1204	BARK		tei kuwei	t e i + k u w e i
+9237	25388	robinsonap-wersing	wers1238		bark	1204	BARK		bong klut	b o ŋ + k l u t
+9238	25389	robinsonap-westernpantar	lamm1241		bark	1204	BARK		yattu maki	j a t t u + m a k i
+23600	39751	transnewguineaorg-fataluku	fata1247		belly	1251	BELLY		aku-puhu	a k u + p u h u
+23701	39852	transnewguineaorg-oirata	oira1263		belly	1251	BELLY		'atu	a t u
+28590	44741	robinsonap-abui	abui1241		big	1202	BIG		foko	f o k o
+28591	44742	robinsonap-adang	adan1251		big	1202	BIG		ma:ti	m aː t i
+28592	44743	robinsonap-blagar	blag1240		big	1202	BIG		le	l e
+28593	44744	robinsonap-kaera	kaer1234		big	1202	BIG		waado	w a a d o
+28594	44745	robinsonap-kamang	kama1365		big	1202	BIG		baai	b a a i
+28595	44746	robinsonap-klon	kelo1247		big	1202	BIG		ɑɑl	ɑ ɑ l
+28596	44747	robinsonap-nedebang	nede1245		big	1202	BIG		ada	a d a
+28597	44748	robinsonap-sawila	sawi1256		big	1202	BIG		waansa	w a a n s a
+28598	44749	robinsonap-teiwa	teiw1235		big	1202	BIG		waad	w a a d
+28599	44750	robinsonap-wersing	wers1238		big	1202	BIG		pidasi	p i d a s i
+28600	44751	robinsonap-westernpantar	lamm1241		big	1202	BIG		ara	a r a
+28786	44937	transnewguineaorg-fataluku	fata1247		big	1202	BIG		láficare	l a f i c a r e
+28818	44969	transnewguineaorg-kabola-aimoli	kabo1247		big	1202	BIG		m'αttɛ	m ɑ t t ɛ
+28819	44970	transnewguineaorg-kafoa	kafo1240		big	1202	BIG		l'eyα	l e j ɑ
+28855	45006	transnewguineaorg-kui	kuii1253		big	1202	BIG		b'αtaʔ	b ɑ t a ʔ
+28856	45007	transnewguineaorg-kula	kula1280		big	1202	BIG		w'aŋsα	w a ŋ s ɑ
+28906	45057	transnewguineaorg-oirata	oira1263		big	1202	BIG		lapai	l a p a i
+30901	47052	robinsonap-abui	abui1241		bird	937	BIRD		ruo haling tama	r u o + h a l i ŋ + t a m a
+30902	47053	robinsonap-adang	adan1251		bird	937	BIRD		hiu walεwεŋ	h i u + w a l ɛ w ɛ ŋ
+30903	47054	robinsonap-blagar	blag1240		bird	937	BIRD		wuul	w u u l
+30904	47055	robinsonap-kaera	kaer1234		bird	937	BIRD		duum	d u u m
+30905	47056	robinsonap-kamang	kama1365		bird	937	BIRD		atoi	a t o i
+30906	47057	robinsonap-klon	kelo1247		bird	937	BIRD		hɪʔɪdom	h ɪ ʔ ɪ d o m
+30907	47058	robinsonap-nedebang	nede1245		bird	937	BIRD		daya	d a j a
+30908	47059	robinsonap-sawila	sawi1256		bird	937	BIRD		adala	a d a l a
+30909	47060	robinsonap-teiwa	teiw1235		bird	937	BIRD		dei	d e i
+30910	47061	robinsonap-wersing	wers1238		bird	937	BIRD		adol gateng kurusi	a d o l + g a t e ŋ + k u r u s i
+30911	47062	robinsonap-westernpantar	lamm1241		bird	937	BIRD		re	r e
+31130	47281	transnewguineaorg-fataluku	fata1247		bird	937	BIRD		aca	a c a
+31131	47282	transnewguineaorg-fataluku	fata1247		bird	937	BIRD		olo	o l o
+31161	47312	transnewguineaorg-kabola-aimoli	kabo1247		bird	937	BIRD		h'iwu	h i w u
+31162	47313	transnewguineaorg-kafoa	kafo1240		bird	937	BIRD		hiʔ	h i ʔ
+31200	47351	transnewguineaorg-kui	kuii1253		bird	937	BIRD		ad'ɔl	a d ɔ l
+31201	47352	transnewguineaorg-kula	kula1280		bird	937	BIRD		adam'asα	a d a m a s ɑ
+31257	47408	transnewguineaorg-oirata	oira1263		bird	937	BIRD		'asa	a s a
+33064	49215	robinsonap-abui	abui1241		bite	1403	BITE		take	t a k e
+33065	49216	robinsonap-adang	adan1251		bite	1403	BITE		ʔihi	ʔ i h i
+33066	49217	robinsonap-blagar	blag1240		bite	1403	BITE		gaki	g a k i
+33067	49218	robinsonap-kaera	kaer1234		bite	1403	BITE		sii	s i i
+33068	49219	robinsonap-kamang	kama1365		bite	1403	BITE		-eh	e h
+33069	49220	robinsonap-klon	kelo1247		bite	1403	BITE		gɛh	g ɛ h
+33070	49221	robinsonap-nedebang	nede1245		bite	1403	BITE		cia	tʃ i a
+33071	49222	robinsonap-sawila	sawi1256		bite	1403	BITE		gapaati	g a p a a t i
+33072	49223	robinsonap-teiwa	teiw1235		bite	1403	BITE		si	s i
+33073	49224	robinsonap-wersing	wers1238		bite	1403	BITE		mikik	m i k i k
+33074	49225	robinsonap-wersing	wers1238		bite	1403	BITE		gadipasi	g a d i p a s i
+33075	49226	robinsonap-westernpantar	lamm1241		bite	1403	BITE		gassi	g a s s i
+33258	49409	transnewguineaorg-fataluku	fata1247		bite	1403	BITE		isake	i s a k e
+33367	49518	transnewguineaorg-oirata	oira1263		bite	1403	BITE		'aria	a r i a
+35866	52017	robinsonap-abui	abui1241		black	163	BLACK		akani	a k a n i
+35867	52018	robinsonap-adang	adan1251		black	163	BLACK		laʔanaʔ	l a ʔ a n a ʔ
+35868	52019	robinsonap-blagar	blag1240		black	163	BLACK		kána	k a n a
+35869	52020	robinsonap-kaera	kaer1234		black	163	BLACK		xano	ħ a n o
+35870	52021	robinsonap-kamang	kama1365		black	163	BLACK		dakata	d a k a t a
+35871	52022	robinsonap-klon	kelo1247		black	163	BLACK		ɑʔɑkɑn	ɑ ʔ ɑ k ɑ n
+35872	52023	robinsonap-nedebang	nede1245		black	163	BLACK		qana	q a n a
+35873	52024	robinsonap-sawila	sawi1256		black	163	BLACK		akana	a k a n a
+35874	52025	robinsonap-teiwa	teiw1235		black	163	BLACK		qa'an	q a ʔ a n
+35875	52026	robinsonap-wersing	wers1238		black	163	BLACK		akeng	a k e ŋ
+35876	52027	robinsonap-westernpantar	lamm1241		black	163	BLACK		ana	a n a
+39275	55426	robinsonap-abui	abui1241		blood	946	BLOOD		we	w e
+39276	55427	robinsonap-adang	adan1251		blood	946	BLOOD		fi:	f iː
+39277	55428	robinsonap-blagar	blag1240		blood	946	BLOOD		eve	e v e
+39278	55429	robinsonap-blagar	blag1240		blood	946	BLOOD		ve	v e
+39279	55430	robinsonap-kaera	kaer1234		blood	946	BLOOD		wee	w e e
+39280	55431	robinsonap-kamang	kama1365		blood	946	BLOOD		wee	w e e
+39281	55432	robinsonap-klon	kelo1247		blood	946	BLOOD		wɛʔ	w ɛ ʔ
+39282	55433	robinsonap-nedebang	nede1245		blood	946	BLOOD		we	w e
+39283	55434	robinsonap-sawila	sawi1256		blood	946	BLOOD		wii	w i i
+39284	55435	robinsonap-teiwa	teiw1235		blood	946	BLOOD		wei	w e i
+39285	55436	robinsonap-wersing	wers1238		blood	946	BLOOD		wei	w e i
+39286	55437	robinsonap-westernpantar	lamm1241		blood	946	BLOOD		wai	w a i
+39501	55652	transnewguineaorg-fataluku	fata1247		blood	946	BLOOD		vehe	v e h e
+39530	55681	transnewguineaorg-kabola-aimoli	kabo1247		blood	946	BLOOD		fii	f iː
+39531	55682	transnewguineaorg-kafoa	kafo1240		blood	946	BLOOD		wee	w eː
+39567	55718	transnewguineaorg-kui	kuii1253		blood	946	BLOOD		wæ	w æ
+39568	55719	transnewguineaorg-kula	kula1280		blood	946	BLOOD		ŋãw'eyα	ŋ ã w e j ɑ
+39620	55771	transnewguineaorg-oirata	oira1263		blood	946	BLOOD		'we	w e
+47499	63650	robinsonap-abui	abui1241		bone	1394	BONE		hetaipa	h e t a i p a
+47500	63651	robinsonap-adang	adan1251		bone	1394	BONE		talopo	t a l o p o
+47501	63652	robinsonap-blagar	blag1240		bone	1394	BONE		ʔe irá	ʔ e + i r a
+47502	63653	robinsonap-kaera	kaer1234		bone	1394	BONE		kiri	k i r i
+47503	63654	robinsonap-kaera	kaer1234		bone	1394	BONE		giri	g i r i
+47504	63655	robinsonap-kamang	kama1365		bone	1394	BONE		sel	s e l
+47505	63656	robinsonap-klon	kelo1247		bone	1394	BONE		tərop	t ə r o p
+47506	63657	robinsonap-nedebang	nede1245		bone	1394	BONE		kili	k i l i
+47507	63658	robinsonap-sawila	sawi1256		bone	1394	BONE		sara	s a r a
+47508	63659	robinsonap-teiwa	teiw1235		bone	1394	BONE		kir	k i r
+47509	63660	robinsonap-wersing	wers1238		bone	1394	BONE		geséri	g e s e r i
+47510	63661	robinsonap-westernpantar	lamm1241		bone	1394	BONE		ke'e	k e ʔ e
+47727	63878	transnewguineaorg-fataluku	fata1247		bone	1394	BONE		hafa	h a f a
+47757	63908	transnewguineaorg-kabola-aimoli	kabo1247		bone	1394	BONE		tαr'ɔp	t ɑ r ɔ p
+47758	63909	transnewguineaorg-kafoa	kafo1240		bone	1394	BONE		hiy'ɔpα	h i j ɔ p ɑ
+47798	63949	transnewguineaorg-kui	kuii1253		bone	1394	BONE		tαr'ɔp	t ɑ r ɔ p
+47799	63950	transnewguineaorg-kula	kula1280		bone	1394	BONE		ŋαs'αyα	ŋ ɑ s ɑ j ɑ
+47858	64009	transnewguineaorg-oirata	oira1263		bone	1394	BONE		opo	o p o
+57559	73712	robinsonap-abui	abui1241		breast	1402	BREAST		taraihiang	t a r a i h i a ŋ
+57560	73713	robinsonap-adang	adan1251		breast	1402	BREAST		toʔ	t o ʔ
+57561	73714	robinsonap-blagar	blag1240		breast	1402	BREAST		a:m	aː m
+57562	73715	robinsonap-kaera	kaer1234		breast	1402	BREAST		tuu	t u u
+57563	73716	robinsonap-kamang	kama1365		breast	1402	BREAST		ami	a m i
+57564	73717	robinsonap-klon	kelo1247		breast	1402	BREAST		dʊʊt	d ʊ ʊ t
+57565	73718	robinsonap-nedebang	nede1245		breast	1402	BREAST		gayami	g a j a m i
+57566	73719	robinsonap-sawila	sawi1256		breast	1402	BREAST		gaami	g a a m i
+57567	73720	robinsonap-teiwa	teiw1235		breast	1402	BREAST		gəxam	g ə ħ a m
+57568	73721	robinsonap-wersing	wers1238		breast	1402	BREAST		ami	a m i
+57569	73722	robinsonap-westernpantar	lamm1241		breast	1402	BREAST		nai hang	n a i + h a ŋ
+57775	73928	transnewguineaorg-fataluku	fata1247		breast	1402	BREAST		ami-tapunu	a m i + t a p u n u
+57809	73962	transnewguineaorg-kabola-aimoli	kabo1247		breast	1402	BREAST		n'ɔttɔ	n ɔ t t ɔ
+57810	73963	transnewguineaorg-kafoa	kafo1240		breast	1402	BREAST		nit'ut-	n i t u t
+57847	74000	transnewguineaorg-kui	kuii1253		breast	1402	BREAST		n'αsu	n ɑ s u
+57848	74001	transnewguineaorg-kula	kula1280		breast	1402	BREAST		ŋniyαm'eyα	ŋ n i j ɑ m e j ɑ
+57910	74063	transnewguineaorg-oirata	oira1263		breast	1402	BREAST		'susu	s u s u
+64755	80908	robinsonap-abui	abui1241		burn	2102	BURN		hiede	h i e d e
+64756	80909	robinsonap-adang	adan1251		burn	2102	BURN		tub	t u b
+64757	80910	robinsonap-blagar	blag1240		burn	2102	BURN		ade	a d e
+64758	80911	robinsonap-kaera	kaer1234		burn	2102	BURN		dee	d e e
+64759	80912	robinsonap-kamang	kama1365		burn	2102	BURN		saara	s a a r a
+64760	80913	robinsonap-klon	kelo1247		burn	2102	BURN		gopɛ	g o p ɛ
+64761	80914	robinsonap-nedebang	nede1245		burn	2102	BURN		yi'a	j i ʔ a
+64762	80915	robinsonap-sawila	sawi1256		burn	2102	BURN		waka	w a k a
+64763	80916	robinsonap-sawila	sawi1256		burn	2102	BURN		laata	l a a t a
+64764	80917	robinsonap-teiwa	teiw1235		burn	2102	BURN		dee	d e e
+64765	80918	robinsonap-wersing	wers1238		burn	2102	BURN		dali lur	d a l i + l u r
+64766	80919	robinsonap-westernpantar	lamm1241		burn	2102	BURN		war	w a r
+64871	81024	transnewguineaorg-fataluku	fata1247		burn	2102	BURN		alahu_ceve	a l a h u + c e v e
+64969	81122	transnewguineaorg-oirata	oira1263		burn	2102	BURN		ulaye	u l a j e
+64970	81123	transnewguineaorg-oirata	oira1263		burn	2102	BURN		uturana	u t u r a n a
+92002	108155	robinsonap-abui	abui1241		cloud	1489	CLOUD		tabo	t a b o
+92003	108156	robinsonap-adang	adan1251		cloud	1489	CLOUD		la:b	l aː b
+92004	108157	robinsonap-blagar	blag1240		cloud	1489	CLOUD		bənaw	b ə n a w
+92005	108158	robinsonap-kaera	kaer1234		cloud	1489	CLOUD		bənab	b ə n a b
+92006	108159	robinsonap-kamang	kama1365		cloud	1489	CLOUD		wale	w a l e
+92007	108160	robinsonap-klon	kelo1247		cloud	1489	CLOUD		teʔeh	t e ʔ e h
+92008	108161	robinsonap-klon	kelo1247		cloud	1489	CLOUD		bɔntu	b ɔ n t u
+92009	108162	robinsonap-nedebang	nede1245		cloud	1489	CLOUD		bunah	b u n a h
+92010	108163	robinsonap-sawila	sawi1256		cloud	1489	CLOUD		sakapulo	s a k a p u l o
+92011	108164	robinsonap-teiwa	teiw1235		cloud	1489	CLOUD		menaaf	m e n a a f
+92012	108165	robinsonap-wersing	wers1238		cloud	1489	CLOUD		sakpul	s a k p u l
+92013	108166	robinsonap-westernpantar	lamm1241		cloud	1489	CLOUD		unnas	u n n a s
+92211	108364	transnewguineaorg-fataluku	fata1247		cloud	1489	CLOUD		mouku	m o u k u
+92249	108402	transnewguineaorg-kabola-aimoli	kabo1247		cloud	1489	CLOUD		taf'iʔiŋ	t a f i ʔ i ŋ
+92250	108403	transnewguineaorg-kafoa	kafo1240		cloud	1489	CLOUD		t'αbɛkɛl	t ɑ b ɛ k ɛ l
+92288	108441	transnewguineaorg-kui	kuii1253		cloud	1489	CLOUD		tαb'ɛn	t ɑ b ɛ n
+92289	108442	transnewguineaorg-kula	kula1280		cloud	1489	CLOUD		sakap'ulα	s a k a p u l ɑ
+92336	108489	transnewguineaorg-oirata	oira1263		cloud	1489	CLOUD		umaja'muin	u m a j a m u i n
+95781	111934	robinsonap-abui	abui1241		cold	1287	COLD		palata	p a l a t a
+95782	111935	robinsonap-adang	adan1251		cold	1287	COLD		maʔab	m a ʔ a b
+95783	111936	robinsonap-blagar	blag1240		cold	1287	COLD		jevi	dʒ e v i
+95784	111937	robinsonap-kaera	kaer1234		cold	1287	COLD		qaiwo	q a i w o
+95785	111938	robinsonap-kamang	kama1365		cold	1287	COLD		faatei	f a a t e i
+95786	111939	robinsonap-klon	kelo1247		cold	1287	COLD		məhɪŋ	m ə h ɪ ŋ
+95787	111940	robinsonap-nedebang	nede1245		cold	1287	COLD		maxavu	m a ħ a v u
+95788	111941	robinsonap-sawila	sawi1256		cold	1287	COLD		wiri	w i r i
+95789	111942	robinsonap-teiwa	teiw1235		cold	1287	COLD		qi'aw	q i ʔ a w
+95790	111943	robinsonap-wersing	wers1238		cold	1287	COLD		wir	w i r
+95791	111944	robinsonap-westernpantar	lamm1241		cold	1287	COLD		maba	m a b a
+96007	112160	transnewguineaorg-fataluku	fata1247		cold	1287	COLD		éleve	e l e v e
+96038	112191	transnewguineaorg-kabola-aimoli	kabo1247		cold	1287	COLD		m'aʔab	m a ʔ a b
+96039	112192	transnewguineaorg-kafoa	kafo1240		cold	1287	COLD		kaf'uka	k a f u k a
+96071	112224	transnewguineaorg-kui	kuii1253		cold	1287	COLD		kαb'uʔ	k ɑ b u ʔ
+96072	112225	transnewguineaorg-kula	kula1280		cold	1287	COLD		wy'ikα	w j i k ɑ
+96116	112269	transnewguineaorg-oirata	oira1263		cold	1287	COLD		'ɛlɛwɛ	ɛ l ɛ w ɛ
+99456	115609	robinsonap-abui	abui1241		come	1446	COME		me	m e
+99457	115610	robinsonap-adang	adan1251		come	1446	COME		ma	m a
+99458	115611	robinsonap-blagar	blag1240		come	1446	COME		ma	m a
+99459	115612	robinsonap-kaera	kaer1234		come	1446	COME		ma	m a
+99460	115613	robinsonap-kamang	kama1365		come	1446	COME		me	m e
+99461	115614	robinsonap-kamang	kama1365		come	1446	COME		sue	s u e
+99462	115615	robinsonap-klon	kelo1247		come	1446	COME		ma	m a
+99463	115616	robinsonap-klon	kelo1247		come	1446	COME		ɑd	ɑ d
+99464	115617	robinsonap-nedebang	nede1245		come	1446	COME		da	d a
+99465	115618	robinsonap-nedebang	nede1245		come	1446	COME		ma	m a
+99466	115619	robinsonap-sawila	sawi1256		come	1446	COME		me	m e
+99467	115620	robinsonap-teiwa	teiw1235		come	1446	COME		ariaya'	a r i a j a ʔ
+99468	115621	robinsonap-teiwa	teiw1235		come	1446	COME		ma	m a
+99469	115622	robinsonap-wersing	wers1238		come	1446	COME		amai	a m a i
+99470	115623	robinsonap-westernpantar	lamm1241		come	1446	COME		ma	m a
+99665	115818	transnewguineaorg-fataluku	fata1247		come	1446	COME		maʔu	m a ʔ u
+99693	115846	transnewguineaorg-kabola-aimoli	kabo1247		come	1446	COME		hɔʔ	h ɔ ʔ
+99694	115847	transnewguineaorg-kafoa	kafo1240		come	1446	COME		h'ɔkα	h ɔ k ɑ
+99737	115890	transnewguineaorg-kui	kuii1253		come	1446	COME		mey	m e j
+99738	115891	transnewguineaorg-kula	kula1280		come	1446	COME		mɛʔ	m ɛ ʔ
+99739	115892	transnewguineaorg-kula	kula1280		come	1446	COME		su	s u
+99793	115946	transnewguineaorg-oirata	oira1263		come	1446	COME		'maʔu	m a ʔ u
+127667	143822	robinsonap-abui	abui1241		die	1494	DIE		mong	m o ŋ
+127668	143823	robinsonap-adang	adan1251		die	1494	DIE		miniʔ	m i n i ʔ
+127669	143824	robinsonap-blagar	blag1240		die	1494	DIE		mina	m i n a
+127670	143825	robinsonap-kaera	kaer1234		die	1494	DIE		nimino	n i m i n o
+127671	143826	robinsonap-kamang	kama1365		die	1494	DIE		-bora	b o r a
+127672	143827	robinsonap-kamang	kama1365		die	1494	DIE		ipaa	i p a a
+127673	143828	robinsonap-klon	kelo1247		die	1494	DIE		əbɛr	ə b ɛ r
+127674	143829	robinsonap-nedebang	nede1245		die	1494	DIE		minna	m i n n a
+127675	143830	robinsonap-sawila	sawi1256		die	1494	DIE		garammu	g a r a m m u
+127676	143831	robinsonap-teiwa	teiw1235		die	1494	DIE		min	m i n
+127677	143832	robinsonap-wersing	wers1238		die	1494	DIE		gapang	g a p a ŋ
+127678	143833	robinsonap-westernpantar	lamm1241		die	1494	DIE		hinna	h i n n a
+127860	144015	transnewguineaorg-fataluku	fata1247		die	1494	DIE		umu	u m u
+127883	144038	transnewguineaorg-kabola-aimoli	kabo1247		die	1494	DIE		miin	m iː n
+127884	144039	transnewguineaorg-kafoa	kafo1240		die	1494	DIE		im'ɔn	i m ɔ n
+127912	144067	transnewguineaorg-kui	kuii1253		die	1494	DIE		min	m i n
+127913	144068	transnewguineaorg-kula	kula1280		die	1494	DIE		y'αmu	j ɑ m u
+127954	144109	transnewguineaorg-oirata	oira1263		die	1494	DIE		'umu	u m u
+136225	152380	robinsonap-abui	abui1241		dog	2009	DOG		kai	k a i
+136226	152381	robinsonap-adang	adan1251		dog	2009	DOG		bεl	b ɛ l
+136227	152382	robinsonap-blagar	blag1240		dog	2009	DOG		jabar	dʒ a b a r
+136228	152383	robinsonap-kaera	kaer1234		dog	2009	DOG		ibar	i b a r
+136229	152384	robinsonap-kamang	kama1365		dog	2009	DOG		kui	k u i
+136230	152385	robinsonap-klon	kelo1247		dog	2009	DOG		kʊr	k ʊ r
+136231	152386	robinsonap-nedebang	nede1245		dog	2009	DOG		bar	b a r
+136232	152387	robinsonap-sawila	sawi1256		dog	2009	DOG		katu	k a t u
+136233	152388	robinsonap-teiwa	teiw1235		dog	2009	DOG		yifar	j i f a r
+136234	152389	robinsonap-wersing	wers1238		dog	2009	DOG		kutuwal	k u t u w a l
+136235	152390	robinsonap-westernpantar	lamm1241		dog	2009	DOG		yabbe	j a b b e
+136455	152610	transnewguineaorg-fataluku	fata1247		dog	2009	DOG		iparu	i p a r u
+136486	152641	transnewguineaorg-kabola-aimoli	kabo1247		dog	2009	DOG		bɩl	b ɪ l
+136487	152642	transnewguineaorg-kafoa	kafo1240		dog	2009	DOG		kuy	k u j
+136528	152683	transnewguineaorg-kui	kuii1253		dog	2009	DOG		kur	k u r
+136529	152684	transnewguineaorg-kula	kula1280		dog	2009	DOG		kαtuw'allα	k ɑ t u w a l l ɑ
+136588	152743	transnewguineaorg-oirata	oira1263		dog	2009	DOG		'ihar	i h a r
+142493	158648	robinsonap-abui	abui1241		drink	1401	DRINK		buk˺	b u k
+142494	158649	robinsonap-adang	adan1251		drink	1401	DRINK		naʔ	n a ʔ
+142495	158650	robinsonap-blagar	blag1240		drink	1401	DRINK		jar na	dʒ a r + n a
+142496	158651	robinsonap-kaera	kaer1234		drink	1401	DRINK		yir na	j i r + n a
+142497	158652	robinsonap-kamang	kama1365		drink	1401	DRINK		ne	n e
+142498	158653	robinsonap-klon	kelo1247		drink	1401	DRINK		nɑɑʔ	n ɑ ɑ ʔ
+142499	158654	robinsonap-nedebang	nede1245		drink	1401	DRINK		wa'a	w a ʔ a
+142500	158655	robinsonap-sawila	sawi1256		drink	1401	DRINK		ganee	g a n e e
+142501	158656	robinsonap-teiwa	teiw1235		drink	1401	DRINK		hufa'	h u f a ʔ
+142502	158657	robinsonap-wersing	wers1238		drink	1401	DRINK		ira tenai	i r a + t e n a i
+142503	158658	robinsonap-westernpantar	lamm1241		drink	1401	DRINK		ba'ai	b a ʔ a i
+142658	158813	transnewguineaorg-fataluku	fata1247		drink	1401	DRINK		nava	n a v a
+142659	158814	transnewguineaorg-fataluku	fata1247		drink	1401	DRINK		una	u n a
+142674	158829	transnewguineaorg-kabola-aimoli	kabo1247		drink	1401	DRINK		nαx	n ɑ x
+142675	158830	transnewguineaorg-kafoa	kafo1240		drink	1401	DRINK		ʔuh'u	ʔ u h u
+142689	158844	transnewguineaorg-kui	kuii1253		drink	1401	DRINK		nαy	n ɑ j
+142690	158845	transnewguineaorg-kula	kula1280		drink	1401	DRINK		ŋɛ	ŋ ɛ
+142706	158861	transnewguineaorg-oirata	oira1263		drink	1401	DRINK		'tutu	t u t u
+146248	162403	robinsonap-abui	abui1241		dry	1398	DRY		takata	t a k a t a
+146249	162404	robinsonap-adang	adan1251		dry	1398	DRY		taʔata	t a ʔ a t a
+146250	162405	robinsonap-blagar	blag1240		dry	1398	DRY		táta	t a t a
+146251	162406	robinsonap-kaera	kaer1234		dry	1398	DRY		siso	s i s o
+146252	162407	robinsonap-kamang	kama1365		dry	1398	DRY		auka	a u k a
+146253	162408	robinsonap-klon	kelo1247		dry	1398	DRY		təkɑt	t ə k ɑ t
+146254	162409	robinsonap-nedebang	nede1245		dry	1398	DRY		cici	tʃ i tʃ i
+146255	162410	robinsonap-sawila	sawi1256		dry	1398	DRY		aruko	a r u k o
+146256	162411	robinsonap-teiwa	teiw1235		dry	1398	DRY		siis	s i i s
+146257	162412	robinsonap-wersing	wers1238		dry	1398	DRY		aruk	a r u k
+146258	162413	robinsonap-westernpantar	lamm1241		dry	1398	DRY		sisa	s i s a
+151758	167913	robinsonap-abui	abui1241		ear	1247	EAR		tawei	t a w e i
+151759	167914	robinsonap-adang	adan1251		ear	1247	EAR		awεbεhε	a w ɛ b ɛ h ɛ
+151760	167915	robinsonap-blagar	blag1240		ear	1247	EAR		təveli	t ə v e l i
+151761	167916	robinsonap-kaera	kaer1234		ear	1247	EAR		tuwar wa	t u w a r + w a
+151762	167917	robinsonap-kamang	kama1365		ear	1247	EAR		-wai	w a i
+151763	167918	robinsonap-klon	kelo1247		ear	1247	EAR		gəwɛr	g ə w ɛ r
+151764	167919	robinsonap-nedebang	nede1245		ear	1247	EAR		gowwa'a	g o w w a ʔ a
+151765	167920	robinsonap-sawila	sawi1256		ear	1247	EAR		wari	w a r i
+151766	167921	robinsonap-teiwa	teiw1235		ear	1247	EAR		-uwar wa'	u w a r + w a ʔ
+151767	167922	robinsonap-wersing	wers1238		ear	1247	EAR		neweri lak	n e w e r i + l a k
+151768	167923	robinsonap-westernpantar	lamm1241		ear	1247	EAR		nauwe	n a u w e
+151987	168142	transnewguineaorg-fataluku	fata1247		ear	1247	EAR		valiku	v a l i k u
+152018	168173	transnewguineaorg-kabola-aimoli	kabo1247		ear	1247	EAR		nαf'ɛl	n ɑ f ɛ l
+152019	168174	transnewguineaorg-kafoa	kafo1240		ear	1247	EAR		ninaw'ey	n i n a w e j
+152057	168212	transnewguineaorg-kui	kuii1253		ear	1247	EAR		nαw'ɛl	n ɑ w ɛ l
+152058	168213	transnewguineaorg-kula	kula1280		ear	1247	EAR		ŋwal'aha	ŋ w a l a h a
+152114	168269	transnewguineaorg-oirata	oira1263		ear	1247	EAR		'wali	w a l i
+154412	170567	robinsonap-abui	abui1241		earthsoil	1228	EARTH (SOIL)		anai	a n a i
+154413	170568	robinsonap-adang	adan1251		earthsoil	1228	EARTH (SOIL)		faʔai	f a ʔ a i
+154414	170569	robinsonap-blagar	blag1240		earthsoil	1228	EARTH (SOIL)		butuŋ	b u t u ŋ
+154415	170570	robinsonap-kaera	kaer1234		earthsoil	1228	EARTH (SOIL)		maxa	m a ħ a
+154416	170571	robinsonap-kamang	kama1365		earthsoil	1228	EARTH (SOIL)		arung	a r u ŋ
+154417	170572	robinsonap-klon	kelo1247		earthsoil	1228	EARTH (SOIL)		məkɛʔ	m ə k ɛ ʔ
+154418	170573	robinsonap-nedebang	nede1245		earthsoil	1228	EARTH (SOIL)		talaka	t a l a k a
+154419	170574	robinsonap-sawila	sawi1256		earthsoil	1228	EARTH (SOIL)		ataku	a t a k u
+154420	170575	robinsonap-teiwa	teiw1235		earthsoil	1228	EARTH (SOIL)		moxo'	m o ħ o ʔ
+154421	170576	robinsonap-wersing	wers1238		earthsoil	1228	EARTH (SOIL)		atoku	a t o k u
+154422	170577	robinsonap-westernpantar	lamm1241		earthsoil	1228	EARTH (SOIL)		mua	m u a
+154600	170755	transnewguineaorg-fataluku	fata1247		earthsoil	1228	EARTH (SOIL)		muʔa	m u ʔ a
+154650	170805	transnewguineaorg-oirata	oira1263		earthsoil	1228	EARTH (SOIL)		uma	u m a
+157114	173269	robinsonap-abui	abui1241		eat	1336	EAT		ne	n e
+157115	173270	robinsonap-adang	adan1251		eat	1336	EAT		adiʔ	a d i ʔ
+157116	173271	robinsonap-blagar	blag1240		eat	1336	EAT		na na	n a + n a
+157117	173272	robinsonap-kaera	kaer1234		eat	1336	EAT		na	n a
+157118	173273	robinsonap-kamang	kama1365		eat	1336	EAT		na	n a
+157119	173274	robinsonap-klon	kelo1247		eat	1336	EAT		məhɑk	m ə h ɑ k
+157120	173275	robinsonap-nedebang	nede1245		eat	1336	EAT		ina	i n a
+157121	173276	robinsonap-sawila	sawi1256		eat	1336	EAT		ganee	g a n e e
+157122	173277	robinsonap-sawila	sawi1256		eat	1336	EAT		gapaati	g a p a a t i
+157123	173278	robinsonap-sawila	sawi1256		eat	1336	EAT		gapama	g a p a m a
+157124	173279	robinsonap-teiwa	teiw1235		eat	1336	EAT		ina	i n a
+157125	173280	robinsonap-wersing	wers1238		eat	1336	EAT		tenai tepasi	t e n a i + t e p a s i
+157126	173281	robinsonap-westernpantar	lamm1241		eat	1336	EAT		na	n a
+157352	173509	transnewguineaorg-fataluku	fata1247		eat	1336	EAT		mace	m a c e
+157382	173539	transnewguineaorg-kabola-aimoli	kabo1247		eat	1336	EAT		n'αʔdɛ	n ɑ ʔ d ɛ
+157383	173540	transnewguineaorg-kafoa	kafo1240		eat	1336	EAT		nankar'ey	n a n k a r e j
+157426	173583	transnewguineaorg-kui	kuii1253		eat	1336	EAT		man'αm	m a n ɑ m
+157427	173584	transnewguineaorg-kula	kula1280		eat	1336	EAT		mp'amα	m p a m ɑ
+157488	173645	transnewguineaorg-oirata	oira1263		eat	1336	EAT		'mete	m e t e
+159577	175735	robinsonap-abui	abui1241		egg	744	EGG		ruo bira	r u o + b i r a
+159578	175736	robinsonap-adang	adan1251		egg	744	EGG		do	d o
+159579	175737	robinsonap-blagar	blag1240		egg	744	EGG		eʔdua	e ʔ d u a
+159580	175738	robinsonap-kaera	kaer1234		egg	744	EGG		gotoqi	g o t o q i
+159581	175739	robinsonap-kamang	kama1365		egg	744	EGG		-waa	w a a
+159582	175740	robinsonap-klon	kelo1247		egg	744	EGG		ədɑŋ	ə d ɑ ŋ
+159583	175741	robinsonap-nedebang	nede1245		egg	744	EGG		gatay	g a t a j
+159584	175742	robinsonap-sawila	sawi1256		egg	744	EGG		waala	w a a l a
+159585	175743	robinsonap-teiwa	teiw1235		egg	744	EGG		gətov	g ə t o v
+159586	175744	robinsonap-wersing	wers1238		egg	744	EGG		soal	s o a l
+159587	175745	robinsonap-westernpantar	lamm1241		egg	744	EGG		riaku	r i a k u
+159801	175959	transnewguineaorg-fataluku	fata1247		egg	744	EGG		ucu	u c u
+159828	175986	transnewguineaorg-kabola-aimoli	kabo1247		egg	744	EGG		dɔ	d ɔ
+159829	175987	transnewguineaorg-kafoa	kafo1240		egg	744	EGG		ir'ow	i r o w
+159864	176022	transnewguineaorg-kui	kuii1253		egg	744	EGG		ru	r u
+159865	176023	transnewguineaorg-kula	kula1280		egg	744	EGG		w'alα	w a l ɑ
+159918	176076	transnewguineaorg-oirata	oira1263		egg	744	EGG		asa'utu	a s a u t u
+170161	186319	robinsonap-abui	abui1241		eye	1248	EYE		tieng bika	t i e ŋ + b i k a
+170162	186320	robinsonap-adang	adan1251		eye	1248	EYE		ʔεŋwai	ʔ ɛ ŋ w a i
+170163	186321	robinsonap-blagar	blag1240		eye	1248	EYE		teŋkulu	t e ŋ k u l u
+170164	186322	robinsonap-kaera	kaer1234		eye	1248	EYE		teet gwaq	t e e t + g w a q
+170165	186323	robinsonap-kamang	kama1365		eye	1248	EYE		-ng	ŋ
+170166	186324	robinsonap-klon	kelo1247		eye	1248	EYE		gɛɛn	g ɛ ɛ n
+170167	186325	robinsonap-nedebang	nede1245		eye	1248	EYE		gatabaga	g a t a b a g a
+170168	186326	robinsonap-nedebang	nede1245		eye	1248	EYE		natabaga	n a t a b a g a
+170169	186327	robinsonap-sawila	sawi1256		eye	1248	EYE		ganiiri	g a n i i r i
+170170	186328	robinsonap-teiwa	teiw1235		eye	1248	EYE		tet baag	t e t + b a a g
+170171	186329	robinsonap-wersing	wers1238		eye	1248	EYE		ninirko	n i n i r k o
+170172	186330	robinsonap-westernpantar	lamm1241		eye	1248	EYE		naiti	n a i t i
+170395	186553	transnewguineaorg-fataluku	fata1247		eye	1248	EYE		n-ina	n + i n a
+170426	186584	transnewguineaorg-kabola-aimoli	kabo1247		eye	1248	EYE		nɛʔf'ayl	n ɛ ʔ f a j l
+170427	186585	transnewguineaorg-kafoa	kafo1240		eye	1248	EYE		nin'ɛŋ	n i n ɛ ŋ
+170468	186626	transnewguineaorg-kui	kuii1253		eye	1248	EYE		nɛɛn	n ɛ ɛ n
+170469	186627	transnewguineaorg-kula	kula1280		eye	1248	EYE		ŋikw'αyα	ŋ i k w ɑ j ɑ
+170531	186689	transnewguineaorg-oirata	oira1263		eye	1248	EYE		ina'moto	i n a m o t o
+182344	198504	robinsonap-abui	abui1241		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		tamada	t a m a d a
+182345	198505	robinsonap-adang	adan1251		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		tamara	t a m a r a
+182346	198506	robinsonap-blagar	blag1240		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		təmá	t ə m a
+182347	198507	robinsonap-kaera	kaer1234		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		qaau	q a a u
+182348	198508	robinsonap-kaera	kaer1234		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		-tema	t e m a
+182349	198509	robinsonap-kamang	kama1365		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		bulaka	b u l a k a
+182350	198510	robinsonap-klon	kelo1247		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		təmɑd	t ə m ɑ d
+182351	198511	robinsonap-nedebang	nede1245		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		qoata	q o a t a
+182352	198512	robinsonap-sawila	sawi1256		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		dumu	d u m u
+182353	198513	robinsonap-teiwa	teiw1235		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		tama'	t a m a ʔ
+182354	198514	robinsonap-wersing	wers1238		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		gesime'	g e s i m e ʔ
+182355	198515	robinsonap-westernpantar	lamm1241		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		kawata	k a w a t a
+182508	198668	transnewguineaorg-kabola-aimoli	kabo1247		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		m'αttɛ	m ɑ t t ɛ
+182509	198669	transnewguineaorg-kabola-aimoli	kabo1247		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		tam'ar	t a m a r
+182510	198670	transnewguineaorg-kafoa	kafo1240		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		k'unα	k u n ɑ
+182539	198699	transnewguineaorg-kui	kuii1253		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		n'ataʔ	n a t a ʔ
+182540	198700	transnewguineaorg-kula	kula1280		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		y'inʔ	j i n ʔ
+182587	198747	transnewguineaorg-oirata	oira1263		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		'mina	m i n a
+185227	201387	robinsonap-abui	abui1241		feather	1201	FEATHER		ruo habakai	r u o + h a b a k a i
+185228	201388	robinsonap-adang	adan1251		feather	1201	FEATHER		hiu wolo	h i u + w o l o
+185229	201389	robinsonap-blagar	blag1240		feather	1201	FEATHER		wuul mudi	w u u l + m u d i
+185230	201390	robinsonap-kamang	kama1365		feather	1201	FEATHER		labuta	l a b u t a
+185231	201391	robinsonap-klon	kelo1247		feather	1201	FEATHER		wərɛk	w ə r ɛ k
+185232	201392	robinsonap-nedebang	nede1245		feather	1201	FEATHER		muddi	m u d d i
+185233	201393	robinsonap-sawila	sawi1256		feather	1201	FEATHER		madi	m a d i
+185234	201394	robinsonap-teiwa	teiw1235		feather	1201	FEATHER		mud	m u d
+185235	201395	robinsonap-wersing	wers1238		feather	1201	FEATHER		adol mudi	a d o l + m u d i
+185236	201396	robinsonap-westernpantar	lamm1241		feather	1201	FEATHER		kur	k u r
+185360	201520	transnewguineaorg-fataluku	fata1247		feather	1201	FEATHER		leʔu	l e ʔ u
+185404	201564	transnewguineaorg-oirata	oira1263		feather	1201	FEATHER		lia	l i a
+187402	220055	robinsonap-abui	abui1241		fleshormeat	2615	FLESH OR MEAT		mahiting	m a h i t i ŋ
+187403	220056	robinsonap-adang	adan1251		fleshormeat	2615	FLESH OR MEAT		hiri	h i r i
+187404	220057	robinsonap-blagar	blag1240		fleshormeat	2615	FLESH OR MEAT		dagiŋ hii	d a g i ŋ + h i i
+187405	220058	robinsonap-kaera	kaer1234		fleshormeat	2615	FLESH OR MEAT		umung	u m u ŋ
+187406	220059	robinsonap-kamang	kama1365		fleshormeat	2615	FLESH OR MEAT		isei	i s e i
+187407	220060	robinsonap-klon	kelo1247		fleshormeat	2615	FLESH OR MEAT		məhɛl	m ə h ɛ l
+187408	220061	robinsonap-nedebang	nede1245		fleshormeat	2615	FLESH OR MEAT		bo'o	b o ʔ o
+187409	220062	robinsonap-sawila	sawi1256		fleshormeat	2615	FLESH OR MEAT		isi	i s i
+187410	220063	robinsonap-teiwa	teiw1235		fleshormeat	2615	FLESH OR MEAT		kok	k o k
+187411	220064	robinsonap-wersing	wers1238		fleshormeat	2615	FLESH OR MEAT		geis	g e i s
+187412	220065	robinsonap-westernpantar	lamm1241		fleshormeat	2615	FLESH OR MEAT		ke'e	k e ʔ e
+187413	220066	robinsonap-westernpantar	lamm1241		fleshormeat	2615	FLESH OR MEAT		dama'a	d a m a ʔ a
+193139	225792	robinsonap-abui	abui1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		liʔ	l i ʔ
+193140	225793	robinsonap-adang	adan1251		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		liliʔ	l i l i ʔ
+193141	225794	robinsonap-blagar	blag1240		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		líri	l i r i
+193142	225795	robinsonap-kaera	kaer1234		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		jiro	dʒ i r o
+193143	225796	robinsonap-kamang	kama1365		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		lila	l i l a
+193144	225797	robinsonap-klon	kelo1247		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		liir	l i i r
+193145	225798	robinsonap-nedebang	nede1245		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		jila	dʒ i l a
+193146	225799	robinsonap-sawila	sawi1256		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		iriŋ	i r i ŋ
+193147	225800	robinsonap-teiwa	teiw1235		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		jiran	dʒ i r a n
+193148	225801	robinsonap-wersing	wers1238		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ire	i r e
+193149	225802	robinsonap-westernpantar	lamm1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		hilang	h i l a ŋ
+193329	225982	transnewguineaorg-fataluku	fata1247		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ipile	i p i l e
+193353	226006	transnewguineaorg-kabola-aimoli	kabo1247		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		liil	l iː l
+193354	226007	transnewguineaorg-kafoa	kafo1240		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		l'iyα	l i j ɑ
+193379	226032	transnewguineaorg-kui	kuii1253		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		lir	l i r
+193380	226033	transnewguineaorg-kula	kula1280		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ĭrĭn'α	i r i n ɑ
+193412	226065	transnewguineaorg-oirata	oira1263		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		'ihilɛ	i h i l ɛ
+209582	242235	robinsonap-abui	abui1241		full	1429	FULL		vemidi	v e m i d i
+209583	242236	robinsonap-adang	adan1251		full	1429	FULL		wutulu	w u t u l u
+209584	242237	robinsonap-blagar	blag1240		full	1429	FULL		meviŋ	m e v i ŋ
+209585	242238	robinsonap-kaera	kaer1234		full	1429	FULL		guali	g u a l i
+209586	242239	robinsonap-kamang	kama1365		full	1429	FULL		awila	a w i l a
+209587	242240	robinsonap-klon	kelo1247		full	1429	FULL		umii	u m i i
+209588	242241	robinsonap-nedebang	nede1245		full	1429	FULL		walla	w a l l a
+209589	242242	robinsonap-sawila	sawi1256		full	1429	FULL		tutiwo	t u t i w o
+209590	242243	robinsonap-sawila	sawi1256		full	1429	FULL		saaba	s a a b a
+209591	242244	robinsonap-teiwa	teiw1235		full	1429	FULL		wal	w a l
+209592	242245	robinsonap-wersing	wers1238		full	1429	FULL		awe	a w e
+209593	242246	robinsonap-westernpantar	lamm1241		full	1429	FULL		hawaya	h a w a j a
+215184	247837	robinsonap-abui	abui1241		give	1447	GIVE		hede	h e d e
+215185	247838	robinsonap-abui	abui1241		give	1447	GIVE		minede	m i n e d e
+215186	247839	robinsonap-adang	adan1251		give	1447	GIVE		ʔεnεʔ	ʔ ɛ n ɛ ʔ
+215187	247840	robinsonap-blagar	blag1240		give	1447	GIVE		meʔenaŋ	m e ʔ e n a ŋ
+215188	247841	robinsonap-kaera	kaer1234		give	1447	GIVE		megeng	m e g e ŋ
+215189	247842	robinsonap-kamang	kama1365		give	1447	GIVE		me –n	m e + n
+215190	247843	robinsonap-klon	kelo1247		give	1447	GIVE		gɛn	g ɛ n
+215191	247844	robinsonap-nedebang	nede1245		give	1447	GIVE		ma-gena	m a g e n a
+215192	247845	robinsonap-sawila	sawi1256		give	1447	GIVE		garani	g a r a n i
+215193	247846	robinsonap-teiwa	teiw1235		give	1447	GIVE		gəmiyan	g ə m i j a n
+215194	247847	robinsonap-wersing	wers1238		give	1447	GIVE		wa genir	w a + g e n i r
+215195	247848	robinsonap-westernpantar	lamm1241		give	1447	GIVE		gania	g a n i a
+215426	248079	transnewguineaorg-kabola-aimoli	kabo1247		give	1447	GIVE		nα_'ɛbaŋ_ɛn	n ɑ + ɛ b a ŋ + ɛ n
+215427	248080	transnewguineaorg-kafoa	kafo1240		give	1447	GIVE		nαg'eyɛn	n ɑ g e j ɛ n
+215461	248114	transnewguineaorg-kui	kuii1253		give	1447	GIVE		gαn'eyĭ	g ɑ n e j i
+215462	248115	transnewguineaorg-kula	kula1280		give	1447	GIVE		ŋαm'iwɛg''αni	ŋ ɑ m i w ɛ g ɑ n i
+221346	254002	robinsonap-abui	abui1241		good	1035	GOOD		kang	k a ŋ
+221347	254003	robinsonap-adang	adan1251		good	1035	GOOD		noʔo	n o ʔ o
+221348	254004	robinsonap-blagar	blag1240		good	1035	GOOD		auŋ	a u ŋ
+221349	254005	robinsonap-kaera	kaer1234		good	1035	GOOD		xowo	ħ o w o
+221350	254006	robinsonap-kamang	kama1365		good	1035	GOOD		kang	k a ŋ
+221351	254007	robinsonap-klon	kelo1247		good	1035	GOOD		nok	n o k
+221352	254008	robinsonap-nedebang	nede1245		good	1035	GOOD		qawa	q a w a
+221353	254009	robinsonap-sawila	sawi1256		good	1035	GOOD		kaaŋ	k a a ŋ
+221354	254010	robinsonap-teiwa	teiw1235		good	1035	GOOD		qaw	q a w
+221355	254011	robinsonap-wersing	wers1238		good	1035	GOOD		kang	k a ŋ
+221356	254012	robinsonap-westernpantar	lamm1241		good	1035	GOOD		akku	a k k u
+221557	254213	transnewguineaorg-fataluku	fata1247		good	1035	GOOD		rau	r a u
+221591	254247	transnewguineaorg-kabola-aimoli	kabo1247		good	1035	GOOD		nɔʔ	n ɔ ʔ
+221592	254248	transnewguineaorg-kafoa	kafo1240		good	1035	GOOD		n'ukα	n u k ɑ
+221631	254287	transnewguineaorg-kui	kuii1253		good	1035	GOOD		n'ɔkα	n ɔ k ɑ
+221632	254288	transnewguineaorg-kula	kula1280		good	1035	GOOD		k'annʔ	k a n n ʔ
+221683	254339	transnewguineaorg-oirata	oira1263		good	1035	GOOD		ja'ʔanin	j a ʔ a n i n
+228895	261551	robinsonap-abui	abui1241		green	1425	GREEN		walangai	w a l a ŋ a i
+228896	261552	robinsonap-adang	adan1251		green	1425	GREEN		leu	l e u
+228897	261553	robinsonap-blagar	blag1240		green	1425	GREEN		koakoá	k o a k o a
+228898	261554	robinsonap-kaera	kaer1234		green	1425	GREEN		oyogi	o j o g i
+228899	261555	robinsonap-kamang	kama1365		green	1425	GREEN		waai	w a a i
+228900	261556	robinsonap-klon	kelo1247		green	1425	GREEN		wəwɛlɛŋ	w ə w ɛ l ɛ ŋ
+228901	261557	robinsonap-nedebang	nede1245		green	1425	GREEN		weyaga weyaga	w e j a g a + w e j a g a
+228902	261558	robinsonap-sawila	sawi1256		green	1425	GREEN		walaŋara	w a l a ŋ a r a
+228903	261559	robinsonap-teiwa	teiw1235		green	1425	GREEN		ajogar	a dʒ o g a r
+228904	261560	robinsonap-wersing	wers1238		green	1425	GREEN		walar	w a l a r
+228905	261561	robinsonap-westernpantar	lamm1241		green	1425	GREEN		haluaga	h a l u a g a
+229069	261725	transnewguineaorg-fataluku	fata1247		green	1425	GREEN		uʔureke	u ʔ u r e k e
+229153	261809	transnewguineaorg-oirata	oira1263		green	1425	GREEN		uʔu'lana	u ʔ u l a n a
+235074	267730	robinsonap-abui	abui1241		hair	1040	HAIR		tiakai bata	t i a k a i + b a t a
+235075	267731	robinsonap-adang	adan1251		hair	1040	HAIR		hari ?inEmEN	h a r i + ʔ i n ɛ m ɛ ŋ
+235076	267732	robinsonap-blagar	blag1240		hair	1040	HAIR		toŋ va	t o ŋ + v a
+235077	267733	robinsonap-kaera	kaer1234		hair	1040	HAIR		toongwa	t o o ŋ w a
+235078	267734	robinsonap-kamang	kama1365		hair	1040	HAIR		-ng kula	ŋ + k u l a
+235079	267735	robinsonap-klon	kelo1247		hair	1040	HAIR		kərɪd	k ə r ɪ d
+235080	267736	robinsonap-nedebang	nede1245		hair	1040	HAIR		gungwa'a	g u ŋ w a ʔ a
+235081	267737	robinsonap-sawila	sawi1256		hair	1040	HAIR		gatakka lakka	g a t a k k a + l a k k a
+235082	267738	robinsonap-teiwa	teiw1235		hair	1040	HAIR		go'on wa'	g o ʔ o n + w a ʔ
+235083	267739	robinsonap-wersing	wers1238		hair	1040	HAIR		neimbat lak	n e i m b a t + l a k
+235084	267740	robinsonap-westernpantar	lamm1241		hair	1040	HAIR		mayang	m a j a ŋ
+239050	271706	transnewguineaorg-fataluku	fata1247		hand	1277	HAND		tana	t a n a
+239066	271722	transnewguineaorg-kabola-aimoli	kabo1247		hand	1277	HAND		nαt'aŋ	n ɑ t a ŋ
+239067	271723	transnewguineaorg-kafoa	kafo1240		hand	1277	HAND		nin'αtaŋ	n i n ɑ t a ŋ
+239082	271738	transnewguineaorg-kui	kuii1253		hand	1277	HAND		nαt'an	n ɑ t a n
+239083	271739	transnewguineaorg-kula	kula1280		hand	1277	HAND		nt'ani	n t a n i
+239084	271740	transnewguineaorg-kula	kula1280		hand	1277	HAND		ŋ'antan	ŋ a n t a n
+239104	271760	transnewguineaorg-oirata	oira1263		hand	1277	HAND		'tana	t a n a
+244528	277185	robinsonap-abui	abui1241		head	1256	HEAD		tiakai	t i a k a i
+244529	277186	robinsonap-adang	adan1251		head	1256	HEAD		loŋ	l o ŋ
+244530	277187	robinsonap-blagar	blag1240		head	1256	HEAD		tooŋ	t o o ŋ
+244531	277188	robinsonap-kaera	kaer1234		head	1256	HEAD		toong	t o o ŋ
+244532	277189	robinsonap-kamang	kama1365		head	1256	HEAD		-filing	f i l i ŋ
+244533	277190	robinsonap-klon	kelo1247		head	1256	HEAD		kədɛh	k ə d ɛ h
+244534	277191	robinsonap-klon	kelo1247		head	1256	HEAD		nɛttu	n ɛ t t u
+244535	277192	robinsonap-nedebang	nede1245		head	1256	HEAD		gungkotang	g u ŋ k o t a ŋ
+244536	277193	robinsonap-sawila	sawi1256		head	1256	HEAD		gatakka	g a t a k k a
+244537	277194	robinsonap-sawila	sawi1256		head	1256	HEAD		tɑkɑ	t ɑ k ɑ
+244538	277195	robinsonap-teiwa	teiw1235		head	1256	HEAD		go'onqul	g o ʔ o n q u l
+244539	277196	robinsonap-wersing	wers1238		head	1256	HEAD		lokomang	l o k o m a ŋ
+244540	277197	robinsonap-westernpantar	lamm1241		head	1256	HEAD		na'ung ki	n a ʔ u ŋ + k i
+244770	277427	transnewguineaorg-fataluku	fata1247		head	1256	HEAD		caʔu	c a ʔ u
+244805	277462	transnewguineaorg-kabola-aimoli	kabo1247		head	1256	HEAD		nɛl'αfuŋ	n ɛ l ɑ f u ŋ
+244806	277463	transnewguineaorg-kafoa	kafo1240		head	1256	HEAD		ninαp'ukuy	n i n ɑ p u k u j
+244852	277509	transnewguineaorg-kui	kuii1253		head	1256	HEAD		nαp'utur	n ɑ p u t u r
+244853	277510	transnewguineaorg-kula	kula1280		head	1256	HEAD		ntαk'eyα	n t ɑ k e j ɑ
+244912	277569	transnewguineaorg-oirata	oira1263		head	1256	HEAD		jai'tapul	j a i t a p u l
+247453	280110	robinsonap-abui	abui1241		hear	1408	HEAR		mahia	m a h i a
+247454	280111	robinsonap-adang	adan1251		hear	1408	HEAR		ʔalεpεŋ	ʔ a l ɛ p ɛ ŋ
+247455	280112	robinsonap-blagar	blag1240		hear	1408	HEAR		veŋ-me	v e ŋ m e
+247456	280113	robinsonap-kaera	kaer1234		hear	1408	HEAR		waati	w a a t i
+247457	280114	robinsonap-kamang	kama1365		hear	1408	HEAR		-mai	m a i
+247458	280115	robinsonap-klon	kelo1247		hear	1408	HEAR		məgɪh	m ə g ɪ h
+247459	280116	robinsonap-nedebang	nede1245		hear	1408	HEAR		watti	w a t t i
+247460	280117	robinsonap-sawila	sawi1256		hear	1408	HEAR		mayiiŋ	m a j i i ŋ
+247461	280118	robinsonap-teiwa	teiw1235		hear	1408	HEAR		wuraq	w u r a q
+247462	280119	robinsonap-wersing	wers1238		hear	1408	HEAR		lewosi	l e w o s i
+247463	280120	robinsonap-westernpantar	lamm1241		hear	1408	HEAR		haloapi	h a l o a p i
+247645	280302	transnewguineaorg-fataluku	fata1247		hear	1408	HEAR		vari	v a r i
+247749	280406	transnewguineaorg-oirata	oira1263		hear	1408	HEAR		'wari	w a r i
+248857	281514	robinsonap-abui	abui1241		heart	1223	HEART		tebikamang	t e b i k a m a ŋ
+248858	281515	robinsonap-adang	adan1251		heart	1223	HEART		damulu	d a m u l u
+248859	281516	robinsonap-blagar	blag1240		heart	1223	HEART		kubaŋ	k u b a ŋ
+248860	281517	robinsonap-kaera	kaer1234		heart	1223	HEART		-axai	a ħ a i
+248861	281518	robinsonap-kamang	kama1365		heart	1223	HEART		bukamang	b u k a m a ŋ
+248862	281519	robinsonap-klon	kelo1247		heart	1223	HEART		ətɑkʊb	ə t ɑ k ʊ b
+248863	281520	robinsonap-nedebang	nede1245		heart	1223	HEART		-axoya	a ħ o j a
+248864	281521	robinsonap-sawila	sawi1256		heart	1223	HEART		gikoomaŋ	g i k o o m a ŋ
+248865	281522	robinsonap-teiwa	teiw1235		heart	1223	HEART		uuk	u u k
+248866	281523	robinsonap-wersing	wers1238		heart	1223	HEART		geukabang	g e u k a b a ŋ
+248867	281524	robinsonap-westernpantar	lamm1241		heart	1223	HEART		hatuaki	h a t u a k i
+263699	296359	robinsonap-abui	abui1241		hornanatomy	1393	HORN (ANATOMY)		haˈmuk	h a ʔ m u k
+263700	296360	robinsonap-adang	adan1251		hornanatomy	1393	HORN (ANATOMY)		ʔamuʔu	ʔ a m u ʔ u
+263701	296361	robinsonap-blagar	blag1240		hornanatomy	1393	HORN (ANATOMY)		omú	o m u
+263702	296362	robinsonap-kaera	kaer1234		hornanatomy	1393	HORN (ANATOMY)		gumuk	g u m u k
+263703	296363	robinsonap-kamang	kama1365		hornanatomy	1393	HORN (ANATOMY)		-muu	m u u
+263704	296364	robinsonap-klon	kelo1247		hornanatomy	1393	HORN (ANATOMY)		gəmʊk	g ə m ʊ k
+263705	296365	robinsonap-nedebang	nede1245		hornanatomy	1393	HORN (ANATOMY)		gəriang	g ə r i a ŋ
+263706	296366	robinsonap-teiwa	teiw1235		hornanatomy	1393	HORN (ANATOMY)		gedexun	g e d e ħ u n
+263707	296367	robinsonap-wersing	wers1238		hornanatomy	1393	HORN (ANATOMY)		gebukur	g e b u k u r
+263708	296368	robinsonap-westernpantar	lamm1241		hornanatomy	1393	HORN (ANATOMY)		garige	g a r i g e
+266263	298923	transnewguineaorg-fataluku	fata1247		hotorwarm	2272	HOT OR WARM		timine	t i m i n e
+266271	298931	transnewguineaorg-kabola-aimoli	kabo1247		hotorwarm	2272	HOT OR WARM		b'unɛ	b u n ɛ
+266272	298932	transnewguineaorg-kafoa	kafo1240		hotorwarm	2272	HOT OR WARM		t'utuŋ	t u t u ŋ
+266285	298945	transnewguineaorg-kui	kuii1253		hotorwarm	2272	HOT OR WARM		sən'amA	s ə n a m ɑ
+266286	298946	transnewguineaorg-kula	kula1280		hotorwarm	2272	HOT OR WARM		j'imα	j i m ɑ
+266314	298974	transnewguineaorg-oirata	oira1263		hotorwarm	2272	HOT OR WARM		'timne	t i m n e
+275231	307891	transnewguineaorg-fataluku	fata1247		i	1209	I		ana	a n a
+275343	308003	transnewguineaorg-oirata	oira1263		i	1209	I		'andri	a n d r i
+287937	320597	robinsonap-abui	abui1241		kill	1417	KILL		faheng	f a h e ŋ
+287938	320598	robinsonap-abui	abui1241		kill	1417	KILL		ne-faheng	n e f a h e ŋ
+287939	320599	robinsonap-adang	adan1251		kill	1417	KILL		aminiʔ	a m i n i ʔ
+287940	320600	robinsonap-blagar	blag1240		kill	1417	KILL		teŋ meaŋ mina	t e ŋ + m e a ŋ + m i n a
+287941	320601	robinsonap-kaera	kaer1234		kill	1417	KILL		gabar	g a b a r
+287942	320602	robinsonap-kamang	kama1365		kill	1417	KILL		paan	p a a n
+287943	320603	robinsonap-klon	kelo1247		kill	1417	KILL		gəbɛr	g ə b ɛ r
+287944	320604	robinsonap-nedebang	nede1245		kill	1417	KILL		gafala	g a f a l a
+287945	320605	robinsonap-sawila	sawi1256		kill	1417	KILL		gapi garammu	g a p i + g a r a m m u
+287946	320606	robinsonap-teiwa	teiw1235		kill	1417	KILL		gafar	g a f a r
+287947	320607	robinsonap-wersing	wers1238		kill	1417	KILL		gepai gapang	g e p a i + g a p a ŋ
+287948	320608	robinsonap-westernpantar	lamm1241		kill	1417	KILL		gaddi hinna	g a d d i + h i n n a
+288122	320782	transnewguineaorg-fataluku	fata1247		kill	1417	KILL		uca	u c a
+288198	320858	transnewguineaorg-oirata	oira1263		kill	1417	KILL		uta'umu	u t a u m u
+290781	323441	robinsonap-abui	abui1241		knee	1371	KNEE		taˈbabuk	t a ʔ b a b u k
+290782	323442	robinsonap-adang	adan1251		knee	1371	KNEE		ʔε pεlini	ʔ ɛ + p ɛ l i n i
+290783	323443	robinsonap-adang	adan1251		knee	1371	KNEE		ʔewudu	ʔ e w u d u
+290784	323444	robinsonap-blagar	blag1240		knee	1371	KNEE		tijá kuku	t i dʒ a + k u k u
+290785	323445	robinsonap-kaera	kaer1234		knee	1371	KNEE		tabat uku	t a b a t + u k u
+290786	323446	robinsonap-kamang	kama1365		knee	1371	KNEE		-subu	s u b u
+290787	323447	robinsonap-klon	kelo1247		knee	1371	KNEE		gɛiuk	g ɛ i u k
+290788	323448	robinsonap-nedebang	nede1245		knee	1371	KNEE		gay uku	g a j + u k u
+290789	323449	robinsonap-sawila	sawi1256		knee	1371	KNEE		gataasuruku	g a t a a s u r u k u
+290790	323450	robinsonap-teiwa	teiw1235		knee	1371	KNEE		gəfat kuu	g ə f a t + k u u
+290791	323451	robinsonap-wersing	wers1238		knee	1371	KNEE		nesesebuk	n e s e s e b u k
+290792	323452	robinsonap-westernpantar	lamm1241		knee	1371	KNEE		ukkang	u k k a ŋ
+290997	323657	transnewguineaorg-kabola-aimoli	kabo1247		knee	1371	KNEE		faʔ'ur	f a ʔ u r
+291030	323690	transnewguineaorg-kui	kuii1253		knee	1371	KNEE		nel'utup	n e l u t u p
+291031	323691	transnewguineaorg-kula	kula1280		knee	1371	KNEE		ŋsey'aku	ŋ s e j a k u
+294712	327372	transnewguineaorg-fataluku	fata1247		knowsomething	1410	KNOW (SOMETHING)		navare	n a v a r e
+294756	327416	transnewguineaorg-oirata	oira1263		knowsomething	1410	KNOW (SOMETHING)		na'warɛ	n a w a r ɛ
+302744	335404	robinsonap-abui	abui1241		leaf	628	LEAF		tala	t a l a
+302745	335405	robinsonap-adang	adan1251		leaf	628	LEAF		ti bεhε	t i + b ɛ h ɛ
+302746	335406	robinsonap-blagar	blag1240		leaf	628	LEAF		te va	t e + v a
+302747	335407	robinsonap-kaera	kaer1234		leaf	628	LEAF		tei wa	t e i + w a
+302748	335408	robinsonap-kamang	kama1365		leaf	628	LEAF		arita	a r i t a
+302749	335409	robinsonap-klon	kelo1247		leaf	628	LEAF		ɛtɛwɛi	ɛ t ɛ w ɛ i
+302750	335410	robinsonap-nedebang	nede1245		leaf	628	LEAF		wa'a	w a ʔ a
+302751	335411	robinsonap-sawila	sawi1256		leaf	628	LEAF		lakka	l a k k a
+302752	335412	robinsonap-teiwa	teiw1235		leaf	628	LEAF		tei wa'	t e i + w a ʔ
+302753	335413	robinsonap-wersing	wers1238		leaf	628	LEAF		bong lak	b o ŋ + l a k
+302754	335414	robinsonap-westernpantar	lamm1241		leaf	628	LEAF		waya	w a j a
+302953	335613	transnewguineaorg-fataluku	fata1247		leaf	628	LEAF		asa	a s a
+302978	335638	transnewguineaorg-kabola-aimoli	kabo1247		leaf	628	LEAF		bɛh	b ɛ h
+302979	335639	transnewguineaorg-kafoa	kafo1240		leaf	628	LEAF		αy'e	ɑ j e
+303011	335671	transnewguineaorg-kui	kuii1253		leaf	628	LEAF		dɛt-	d ɛ t
+303012	335672	transnewguineaorg-kula	kula1280		leaf	628	LEAF		l'akkα	l a kː ɑ
+303047	335707	transnewguineaorg-oirata	oira1263		leaf	628	LEAF		ɛtɛ'ʔasa	ɛ t ɛ ʔ a s a
+317293	349953	robinsonap-abui	abui1241		liver	1224	LIVER		tomi	t o m i
+317294	349954	robinsonap-adang	adan1251		liver	1224	LIVER		om	o m
+317295	349955	robinsonap-blagar	blag1240		liver	1224	LIVER		elila	e l i l a
+317296	349956	robinsonap-kaera	kaer1234		liver	1224	LIVER		tilil	t i l i l
+317297	349957	robinsonap-klon	kelo1247		liver	1224	LIVER		nəbʊr	n ə b ʊ r
+317298	349958	robinsonap-nedebang	nede1245		liver	1224	LIVER		gammi-gammi	g a m m i g a m m i
+317299	349959	robinsonap-sawila	sawi1256		liver	1224	LIVER		gidamara	g i d a m a r a
+317300	349960	robinsonap-teiwa	teiw1235		liver	1224	LIVER		guuk	g u u k
+317301	349961	robinsonap-wersing	wers1238		liver	1224	LIVER		gedamuring	g e d a m u r i ŋ
+317302	349962	robinsonap-westernpantar	lamm1241		liver	1224	LIVER		ume	u m e
+317473	350133	transnewguineaorg-fataluku	fata1247		liver	1224	LIVER		ari	a r i
+317550	350210	transnewguineaorg-oirata	oira1263		liver	1224	LIVER		'lar	l a r
+320226	352886	robinsonap-abui	abui1241		long	1203	LONG		lohu	l o h u
+320227	352887	robinsonap-adang	adan1251		long	1203	LONG		low	l o w
+320228	352888	robinsonap-blagar	blag1240		long	1203	LONG		véniŋ	v e n i ŋ
+320229	352889	robinsonap-kaera	kaer1234		long	1203	LONG		lelum	l e l u m
+320230	352890	robinsonap-kamang	kama1365		long	1203	LONG		lapang	l a p a ŋ
+320231	352891	robinsonap-klon	kelo1247		long	1203	LONG		lɑɑŋ	l ɑ ɑ ŋ
+320232	352892	robinsonap-nedebang	nede1245		long	1203	LONG		tenu	t e n u
+320233	352893	robinsonap-sawila	sawi1256		long	1203	LONG		lamu	l a m u
+320234	352894	robinsonap-teiwa	teiw1235		long	1203	LONG		tiyan	t i j a n
+320235	352895	robinsonap-wersing	wers1238		long	1203	LONG		luimukul	l u i m u k u l
+320236	352896	robinsonap-westernpantar	lamm1241		long	1203	LONG		tiana	t i a n a
+320442	353102	transnewguineaorg-fataluku	fata1247		long	1203	LONG		veluvelu	v e l u v e l u
+320443	353103	transnewguineaorg-fataluku	fata1247		long	1203	LONG		loeloe	l o e l o e
+320475	353135	transnewguineaorg-kabola-aimoli	kabo1247		long	1203	LONG		lay	l a j
+320476	353136	transnewguineaorg-kafoa	kafo1240		long	1203	LONG		loy	l o j
+320514	353174	transnewguineaorg-kui	kuii1253		long	1203	LONG		nαw-an	n ɑ w + a n
+320515	353175	transnewguineaorg-kula	kula1280		long	1203	LONG		l'impα	l i m p ɑ
+320567	353227	transnewguineaorg-oirata	oira1263		long	1203	LONG		lo'wai	l o w a i
+323837	356497	robinsonap-abui	abui1241		louse	1392	LOUSE		be	b e
+323838	356498	robinsonap-adang	adan1251		louse	1392	LOUSE		nεlε	n ɛ l ɛ
+323839	356499	robinsonap-blagar	blag1240		louse	1392	LOUSE		bee	b e e
+323840	356500	robinsonap-kaera	kaer1234		louse	1392	LOUSE		uwa'	u w a ʔ
+323841	356501	robinsonap-kamang	kama1365		louse	1392	LOUSE		sikoo	s i k o o
+323842	356502	robinsonap-klon	kelo1247		louse	1392	LOUSE		or	o r
+323843	356503	robinsonap-nedebang	nede1245		louse	1392	LOUSE		eggah	e g g a h
+323844	356504	robinsonap-teiwa	teiw1235		louse	1392	LOUSE		o'	o ʔ
+323845	356505	robinsonap-westernpantar	lamm1241		louse	1392	LOUSE		ai	a i
+324054	356714	transnewguineaorg-fataluku	fata1247		louse	1392	LOUSE		haminu	h a m i n u
+324083	356743	transnewguineaorg-kabola-aimoli	kabo1247		louse	1392	LOUSE		'uĭŋ	u i ŋ
+324084	356744	transnewguineaorg-kafoa	kafo1240		louse	1392	LOUSE		'ikɔŋ	i k ɔ ŋ
+324120	356780	transnewguineaorg-kui	kuii1253		louse	1392	LOUSE		kɔn	k ɔ n
+324121	356781	transnewguineaorg-kula	kula1280		louse	1392	LOUSE		inuw'anA	i n u w a n ɑ
+324184	356844	transnewguineaorg-oirata	oira1263		louse	1392	LOUSE		'amin	a m i n
+330997	363658	robinsonap-abui	abui1241		man	1554	MAN		nẽ	n ẽ
+330998	363659	robinsonap-abui	abui1241		man	1554	MAN		neng	n e ŋ
+330999	363660	robinsonap-adang	adan1251		man	1554	MAN		loti	l o t i
+331000	363661	robinsonap-blagar	blag1240		man	1554	MAN		meyal	m e j a l
+331001	363662	robinsonap-kaera	kaer1234		man	1554	MAN		masik waal	m a s i k + w a a l
+331002	363663	robinsonap-kamang	kama1365		man	1554	MAN		lami	l a m i
+331003	363664	robinsonap-klon	kelo1247		man	1554	MAN		omkənɛ	o m k ə n ɛ
+331004	363665	robinsonap-nedebang	nede1245		man	1554	MAN		mawafe'i	m a w a f e ʔ i
+331005	363666	robinsonap-sawila	sawi1256		man	1554	MAN		imyaala	i m j a a l a
+331006	363667	robinsonap-sawila	sawi1256		man	1554	MAN		imyaalara	i m j a a l a r a
+331007	363668	robinsonap-teiwa	teiw1235		man	1554	MAN		masar	m a s a r
+331008	363669	robinsonap-wersing	wers1238		man	1554	MAN		lmi	l m i
+331009	363670	robinsonap-westernpantar	lamm1241		man	1554	MAN		ammu	a m m u
+331180	363841	transnewguineaorg-fataluku	fata1247		man	1554	MAN		nami	n a m i
+331213	363874	transnewguineaorg-kabola-aimoli	kabo1247		man	1554	MAN		l'ɔtɛ	l ɔ t ɛ
+331214	363875	transnewguineaorg-kafoa	kafo1240		man	1554	MAN		''αmαl'utay	ɑ m ɑ l u t a j
+331250	363911	transnewguineaorg-kui	kuii1253		man	1554	MAN		n'ɛn	n ɛ n
+331251	363912	transnewguineaorg-kula	kula1280		man	1554	MAN		im'αlα	i m ɑ l ɑ
+331302	363963	transnewguineaorg-oirata	oira1263		man	1554	MAN		'nami	n a m i
+345004	377665	robinsonap-abui	abui1241		moon	1313	MOON		ije	i dʒ e
+345005	377666	robinsonap-adang	adan1251		moon	1313	MOON		hu:l	h uː l
+345006	377667	robinsonap-blagar	blag1240		moon	1313	MOON		wuru	w u r u
+345007	377668	robinsonap-kaera	kaer1234		moon	1313	MOON		ur	u r
+345008	377669	robinsonap-kamang	kama1365		moon	1313	MOON		wui	w u i
+345009	377670	robinsonap-klon	kelo1247		moon	1313	MOON		ʊr	ʊ r
+345010	377671	robinsonap-nedebang	nede1245		moon	1313	MOON		hula	h u l a
+345011	377672	robinsonap-sawila	sawi1256		moon	1313	MOON		pileaka	p i l e a k a
+345012	377673	robinsonap-teiwa	teiw1235		moon	1313	MOON		wur	w u r
+345013	377674	robinsonap-wersing	wers1238		moon	1313	MOON		urák	u r a k
+345014	377675	robinsonap-westernpantar	lamm1241		moon	1313	MOON		hi	h i
+345218	377879	transnewguineaorg-fataluku	fata1247		moon	1313	MOON		uru	u r u
+345251	377912	transnewguineaorg-kabola-aimoli	kabo1247		moon	1313	MOON		wul	w u l
+345252	377913	transnewguineaorg-kafoa	kafo1240		moon	1313	MOON		'uwa	u w a
+345289	377950	transnewguineaorg-kui	kuii1253		moon	1313	MOON		ʔur	ʔ u r
+345290	377951	transnewguineaorg-kula	kula1280		moon	1313	MOON		pilαw'akkα	p i l ɑ w a kː ɑ
+345344	378005	transnewguineaorg-oirata	oira1263		moon	1313	MOON		'uru	u r u
+351303	383967	robinsonap-abui	abui1241		mountain	639	MOUNTAIN		buku watika	b u k u + w a t i k a
+351304	383968	robinsonap-adang	adan1251		mountain	639	MOUNTAIN		bIni	b ɪ n i
+351305	383969	robinsonap-blagar	blag1240		mountain	639	MOUNTAIN		pondo	p o n d o
+351306	383970	robinsonap-kaera	kaer1234		mountain	639	MOUNTAIN		bukuu	b u k u u
+351307	383971	robinsonap-kamang	kama1365		mountain	639	MOUNTAIN		buk	b u k
+351308	383972	robinsonap-klon	kelo1247		mountain	639	MOUNTAIN		dɔl	d ɔ l
+351309	383973	robinsonap-nedebang	nede1245		mountain	639	MOUNTAIN		maga	m a g a
+351310	383974	robinsonap-sawila	sawi1256		mountain	639	MOUNTAIN		potta	p o t t a
+351311	383975	robinsonap-sawila	sawi1256		mountain	639	MOUNTAIN		ataku-bubuŋ	a t a k u b u b u ŋ
+351312	383976	robinsonap-teiwa	teiw1235		mountain	639	MOUNTAIN		muug	m u u g
+351313	383977	robinsonap-wersing	wers1238		mountain	639	MOUNTAIN		atoku bubung	a t o k u + b u b u ŋ
+351314	383978	robinsonap-westernpantar	lamm1241		mountain	639	MOUNTAIN		kukka	k u k k a
+351524	384188	transnewguineaorg-kabola-aimoli	kabo1247		mountain	639	MOUNTAIN		d'ɔyɛ	d ɔ j ɛ
+351525	384189	transnewguineaorg-kabola-aimoli	kabo1247		mountain	639	MOUNTAIN		d'ɔɛ	d ɔ ɛ
+351526	384190	transnewguineaorg-kafoa	kafo1240		mountain	639	MOUNTAIN		b'uku	b u k u
+351561	384225	transnewguineaorg-kui	kuii1253		mountain	639	MOUNTAIN		ndɔl	n d ɔ l
+351562	384226	transnewguineaorg-kula	kula1280		mountain	639	MOUNTAIN		αt''akul'impa	ɑ t a k u l i m p a
+354007	386671	robinsonap-abui	abui1241		mouth	674	MOUTH		tawa	t a w a
+354008	386672	robinsonap-adang	adan1251		mouth	674	MOUTH		ʔata	ʔ a t a
+354009	386673	robinsonap-blagar	blag1240		mouth	674	MOUTH		taibor	t a i b o r
+354010	386674	robinsonap-kaera	kaer1234		mouth	674	MOUTH		tua	t u a
+354011	386675	robinsonap-kamang	kama1365		mouth	674	MOUTH		-waa	w a a
+354012	386676	robinsonap-klon	kelo1247		mouth	674	MOUTH		gɑd	g ɑ d
+354013	386677	robinsonap-nedebang	nede1245		mouth	674	MOUTH		gayaqa	g a j a q a
+354014	386678	robinsonap-sawila	sawi1256		mouth	674	MOUTH		gayiiri	g a j i i r i
+354015	386679	robinsonap-teiwa	teiw1235		mouth	674	MOUTH		gaa'	g a a ʔ
+354016	386680	robinsonap-wersing	wers1238		mouth	674	MOUTH		nebir	n e b i r
+354017	386681	robinsonap-westernpantar	lamm1241		mouth	674	MOUTH		nai	n a i
+354226	386890	transnewguineaorg-fataluku	fata1247		mouth	674	MOUTH		oʔo	o ʔ o
+354260	386924	transnewguineaorg-kabola-aimoli	kabo1247		mouth	674	MOUTH		nat-	n a t
+354261	386925	transnewguineaorg-kafoa	kafo1240		mouth	674	MOUTH		ninαw'α	n i n ɑ w ɑ
+354295	386959	transnewguineaorg-kui	kuii1253		mouth	674	MOUTH		naw'α	n a w ɑ
+354296	386960	transnewguineaorg-kula	kula1280		mouth	674	MOUTH		ndž'agɩ	n dʒ a g ɪ
+354346	387010	transnewguineaorg-oirata	oira1263		mouth	674	MOUTH		'oʔo	o ʔ o
+358828	391493	robinsonap-abui	abui1241		name	1405	NAME		tane	t a n e
+358829	391494	robinsonap-adang	adan1251		name	1405	NAME		ʔaniŋ	ʔ a n i ŋ
+358830	391495	robinsonap-blagar	blag1240		name	1405	NAME		tene	t e n e
+358831	391496	robinsonap-kaera	kaer1234		name	1405	NAME		teeni	t e e n i
+358832	391497	robinsonap-kamang	kama1365		name	1405	NAME		-nei	n e i
+358833	391498	robinsonap-klon	kelo1247		name	1405	NAME		gənɛʔ	g ə n ɛ ʔ
+358834	391499	robinsonap-nedebang	nede1245		name	1405	NAME		geynu	g e j n u
+358835	391500	robinsonap-sawila	sawi1256		name	1405	NAME		gani	g a n i
+358836	391501	robinsonap-teiwa	teiw1235		name	1405	NAME		yid	j i d
+358837	391502	robinsonap-wersing	wers1238		name	1405	NAME		adeing	a d e i ŋ
+358838	391503	robinsonap-westernpantar	lamm1241		name	1405	NAME		ninnu	n i n n u
+359041	391707	transnewguineaorg-fataluku	fata1247		name	1405	NAME		nai	n a i
+359072	391738	transnewguineaorg-kabola-aimoli	kabo1247		name	1405	NAME		n'αni	n ɑ n i
+359073	391739	transnewguineaorg-kafoa	kafo1240		name	1405	NAME		ninαn'ey	n i n ɑ n e j
+359110	391776	transnewguineaorg-kui	kuii1253		name	1405	NAME		nαn'ey	n ɑ n e j
+359111	391777	transnewguineaorg-kula	kula1280		name	1405	NAME		nd'ɛni	n d ɛ n i
+359167	391833	transnewguineaorg-oirata	oira1263		name	1405	NAME		'nene	n e n e
+365304	397971	robinsonap-abui	abui1241		neck	1333	NECK		terola	t e r o l a
+365305	397972	robinsonap-abui	abui1241		neck	1333	NECK		rola	r o l a
+365306	397973	robinsonap-adang	adan1251		neck	1333	NECK		dolo	d o l o
+365307	397974	robinsonap-blagar	blag1240		neck	1333	NECK		təméŋʔera	t ə m e ŋ ʔ e r a
+365308	397975	robinsonap-kaera	kaer1234		neck	1333	NECK		tatax	t a t a ħ
+365309	397976	robinsonap-kamang	kama1365		neck	1333	NECK		-mang	m a ŋ
+365310	397977	robinsonap-klon	kelo1247		neck	1333	NECK		dohəlɑ	d o h ə l ɑ
+365311	397978	robinsonap-nedebang	nede1245		neck	1333	NECK		gefikiri	g e f i k i r i
+365312	397979	robinsonap-sawila	sawi1256		neck	1333	NECK		gamaŋ	g a m a ŋ
+365313	397980	robinsonap-teiwa	teiw1235		neck	1333	NECK		gəməgoqai	g ə m ə g o q a i
+365314	397981	robinsonap-wersing	wers1238		neck	1333	NECK		nemeing	n e m e i ŋ
+365315	397982	robinsonap-westernpantar	lamm1241		neck	1333	NECK		neba	n e b a
+365316	397983	robinsonap-westernpantar	lamm1241		neck	1333	NECK		nai hule	n a i + h u l e
+365517	398184	transnewguineaorg-fataluku	fata1247		neck	1333	NECK		mani-kete	m a n i + k e t e
+365548	398215	transnewguineaorg-kabola-aimoli	kabo1247		neck	1333	NECK		n'ɔdɔrɔ	n ɔ d ɔ r ɔ
+365549	398216	transnewguineaorg-kafoa	kafo1240		neck	1333	NECK		ninαr'ɔ	n i n ɑ r ɔ
+365580	398247	transnewguineaorg-kui	kuii1253		neck	1333	NECK		nɔwαpəl'ɔk	n ɔ w ɑ p ə l ɔ k
+365581	398248	transnewguineaorg-kula	kula1280		neck	1333	NECK		ŋwaŋs'eyα	ŋ w a ŋ s e j ɑ
+365630	398297	transnewguineaorg-oirata	oira1263		neck	1333	NECK		'mani	m a n i
+369170	401837	robinsonap-abui	abui1241		new	1231	NEW		tifa	t i f a
+369171	401838	robinsonap-adang	adan1251		new	1231	NEW		habaraʔ	h a b a r a ʔ
+369172	401839	robinsonap-blagar	blag1240		new	1231	NEW		hiba	h i b a
+369173	401840	robinsonap-kaera	kaer1234		new	1231	NEW		sibo	s i b o
+369174	401841	robinsonap-kamang	kama1365		new	1231	NEW		supaka	s u p a k a
+369175	401842	robinsonap-klon	kelo1247		new	1231	NEW		həbɑɑ	h ə b ɑ ɑ
+369176	401843	robinsonap-nedebang	nede1245		new	1231	NEW		sava'a	s a v a ʔ a
+369177	401844	robinsonap-sawila	sawi1256		new	1231	NEW		tipea	t i p e a
+369178	401845	robinsonap-teiwa	teiw1235		new	1231	NEW		wudesin	w u d e s i n
+369179	401846	robinsonap-wersing	wers1238		new	1231	NEW		tpa	t p a
+369180	401847	robinsonap-westernpantar	lamm1241		new	1231	NEW		sabi'a	s a b i ʔ a
+369409	402076	transnewguineaorg-kabola-aimoli	kabo1247		new	1231	NEW		b'αru	b ɑ r u
+369410	402077	transnewguineaorg-kafoa	kafo1240		new	1231	NEW		h'ifaʔ	h i f a ʔ
+369452	402119	transnewguineaorg-kui	kuii1253		new	1231	NEW		səb'aʔ	s ə b a ʔ
+369453	402120	transnewguineaorg-kula	kula1280		new	1231	NEW		tupw'αyα	t u p w ɑ j ɑ
+369505	402172	transnewguineaorg-oirata	oira1263		new	1231	NEW		miri	m i r i
+369506	402173	transnewguineaorg-oirata	oira1263		new	1231	NEW		mirmire	m i r m i r e
+372148	404815	robinsonap-abui	abui1241		night	1233	NIGHT		tungtama	t u ŋ t a m a
+372149	404816	robinsonap-adang	adan1251		night	1233	NIGHT		dil ʔuʔu	d i l + ʔ u ʔ u
+372150	404817	robinsonap-blagar	blag1240		night	1233	NIGHT		kəmalu	k ə m a l u
+372151	404818	robinsonap-kaera	kaer1234		night	1233	NIGHT		iqano	i q a n o
+372152	404819	robinsonap-kamang	kama1365		night	1233	NIGHT		titla	t i t l a
+372153	404820	robinsonap-klon	kelo1247		night	1233	NIGHT		əkɑn	ə k ɑ n
+372154	404821	robinsonap-nedebang	nede1245		night	1233	NIGHT		ilaqana	i l a q a n a
+372155	404822	robinsonap-sawila	sawi1256		night	1233	NIGHT		iduni	i d u n i
+372156	404823	robinsonap-teiwa	teiw1235		night	1233	NIGHT		iqa'an	i q a ʔ a n
+372157	404824	robinsonap-wersing	wers1238		night	1233	NIGHT		maléng	m a l e ŋ
+372158	404825	robinsonap-westernpantar	lamm1241		night	1233	NIGHT		ir patta	i r + p a t t a
+372333	405000	transnewguineaorg-fataluku	fata1247		night	1233	NIGHT		kounu	k o u n u
+372367	405034	transnewguineaorg-kabola-aimoli	kabo1247		night	1233	NIGHT		p'akα	p a k ɑ
+372368	405035	transnewguineaorg-kafoa	kafo1240		night	1233	NIGHT		αh'un	ɑ h u n
+372409	405076	transnewguineaorg-kui	kuii1253		night	1233	NIGHT		αk'αn’	ɑ k ɑ nʼ
+372410	405077	transnewguineaorg-kula	kula1280		night	1233	NIGHT		itin'an	i t i n a n
+372460	405127	transnewguineaorg-oirata	oira1263		night	1233	NIGHT		tete'manahe	t e t e m a n a h e
+377962	410629	robinsonap-abui	abui1241		nose	1221	NOSE		taminfa	t a m i n f a
+377963	410630	robinsonap-adang	adan1251		nose	1221	NOSE		aimbui	a i m b u i
+377964	410631	robinsonap-blagar	blag1240		nose	1221	NOSE		təmiŋbur	t ə m i ŋ b u r
+377965	410632	robinsonap-kaera	kaer1234		nose	1221	NOSE		timim	t i m i m
+377966	410633	robinsonap-kamang	kama1365		nose	1221	NOSE		-lpang	l p a ŋ
+377967	410634	robinsonap-klon	kelo1247		nose	1221	NOSE		gəmoin	g ə m o i n
+377968	410635	robinsonap-nedebang	nede1245		nose	1221	NOSE		gafini	g a f i n i
+377969	410636	robinsonap-sawila	sawi1256		nose	1221	NOSE		gamiŋi	g a m i ŋ i
+377970	410637	robinsonap-teiwa	teiw1235		nose	1221	NOSE		gəfimbui	g ə f i m b u i
+377971	410638	robinsonap-wersing	wers1238		nose	1221	NOSE		nemuing	n e m u i ŋ
+377972	410639	robinsonap-westernpantar	lamm1241		nose	1221	NOSE		namma	n a m m a
+378191	410858	transnewguineaorg-fataluku	fata1247		nose	1221	NOSE		miniku	m i n i k u
+378223	410890	transnewguineaorg-kabola-aimoli	kabo1247		nose	1221	NOSE		nαm'iŋ	n ɑ m i ŋ
+378224	410891	transnewguineaorg-kafoa	kafo1240		nose	1221	NOSE		ninαm'iŋ	n i n ɑ m i ŋ
+378263	410930	transnewguineaorg-kui	kuii1253		nose	1221	NOSE		nɛm'in	n ɛ m i n
+378264	410931	transnewguineaorg-kula	kula1280		nose	1221	NOSE		mp'ini	m p i n i
+378324	410991	transnewguineaorg-oirata	oira1263		nose	1221	NOSE		mur'wana	m u r w a n a
+390242	422909	robinsonap-abui	abui1241		one	1493	ONE		nuku	n u k u
+390243	422910	robinsonap-adang	adan1251		one	1493	ONE		nu	n u
+390244	422911	robinsonap-blagar	blag1240		one	1493	ONE		nu	n u
+390245	422912	robinsonap-kaera	kaer1234		one	1493	ONE		nuko	n u k o
+390246	422913	robinsonap-kamang	kama1365		one	1493	ONE		nok	n o k
+390247	422914	robinsonap-klon	kelo1247		one	1493	ONE		nʊk	n ʊ k
+390248	422915	robinsonap-nedebang	nede1245		one	1493	ONE		nuku	n u k u
+390249	422916	robinsonap-sawila	sawi1256		one	1493	ONE		sundaŋ	s u n d a ŋ
+390250	422917	robinsonap-teiwa	teiw1235		one	1493	ONE		nuk	n u k
+390251	422918	robinsonap-wersing	wers1238		one	1493	ONE		no	n o
+390252	422919	robinsonap-westernpantar	lamm1241		one	1493	ONE		anuku	a n u k u
+390253	422920	robinsonap-westernpantar	lamm1241		one	1493	ONE		ye	j e
+390466	423133	transnewguineaorg-fataluku	fata1247		one	1493	ONE		úkani	u k a n i
+390497	423164	transnewguineaorg-kabola-aimoli	kabo1247		one	1493	ONE		nuʔ	n u ʔ
+390498	423165	transnewguineaorg-kafoa	kafo1240		one	1493	ONE		n'uku	n u k u
+390538	423205	transnewguineaorg-kui	kuii1253		one	1493	ONE		n'uku	n u k u
+390539	423206	transnewguineaorg-kula	kula1280		one	1493	ONE		s'ɔnnα	s ɔ n n ɑ
+390594	423261	transnewguineaorg-oirata	oira1263		one	1493	ONE		u'wane	u w a n e
+406641	439308	robinsonap-abui	abui1241		person	683	PERSON		ama	a m a
+406642	439309	robinsonap-abui	abui1241		person	683	PERSON		amakang	a m a k a ŋ
+406643	439310	robinsonap-adang	adan1251		person	683	PERSON		na:mi	n aː m i
+406644	439311	robinsonap-blagar	blag1240		person	683	PERSON		neenu	n e e n u
+406645	439312	robinsonap-kaera	kaer1234		person	683	PERSON		uyaxo'	u j a ħ o ʔ
+406646	439313	robinsonap-kamang	kama1365		person	683	PERSON		alma	a l m a
+406647	439314	robinsonap-klon	kelo1247		person	683	PERSON		ɑnɪnok	ɑ n ɪ n o k
+406648	439315	robinsonap-nedebang	nede1245		person	683	PERSON		wa'ang	w a ʔ a ŋ
+406649	439316	robinsonap-sawila	sawi1256		person	683	PERSON		aniŋ	a n i ŋ
+406650	439317	robinsonap-sawila	sawi1256		person	683	PERSON		aniŋkaaŋ	a n i ŋ k a a ŋ
+406651	439318	robinsonap-teiwa	teiw1235		person	683	PERSON		uyaq	u j a q
+406652	439319	robinsonap-wersing	wers1238		person	683	PERSON		aning	a n i ŋ
+406653	439320	robinsonap-westernpantar	lamm1241		person	683	PERSON		aname	a n a m e
+406765	439432	transnewguineaorg-fataluku	fata1247		person	683	PERSON		maʔaru	m a ʔ a r u
+406806	439473	transnewguineaorg-oirata	oira1263		person	683	PERSON		'tou	t o u
+432860	465528	robinsonap-abui	abui1241		red	156	RED		kik-	k i k
+432861	465529	robinsonap-adang	adan1251		red	156	RED		tεnε	t ɛ n ɛ
+432862	465530	robinsonap-blagar	blag1240		red	156	RED		bibi	b i b i
+432863	465531	robinsonap-kaera	kaer1234		red	156	RED		ii	i i
+432864	465532	robinsonap-kamang	kama1365		red	156	RED		bika	b i k a
+432865	465533	robinsonap-klon	kelo1247		red	156	RED		kɪkik	k ɪ k i k
+432866	465534	robinsonap-nedebang	nede1245		red	156	RED		i'i	i ʔ i
+432867	465535	robinsonap-sawila	sawi1256		red	156	RED		ike	i k e
+432868	465536	robinsonap-teiwa	teiw1235		red	156	RED		ii'	i i ʔ
+432869	465537	robinsonap-wersing	wers1238		red	156	RED		iki	i k i
+432870	465538	robinsonap-westernpantar	lamm1241		red	156	RED		i'a	i ʔ a
+433072	465740	transnewguineaorg-fataluku	fata1247		red	156	RED		mimireke	m i m i r e k e
+433102	465770	transnewguineaorg-kabola-aimoli	kabo1247		red	156	RED		tɛɛn	t ɛ ɛ n
+433103	465771	transnewguineaorg-kafoa	kafo1240		red	156	RED		k'iikα	k iː k ɑ
+433137	465805	transnewguineaorg-kui	kuii1253		red	156	RED		'ikα	i k ɑ
+433138	465806	transnewguineaorg-kula	kula1280		red	156	RED		y'ikkα	j i kː ɑ
+433184	465852	transnewguineaorg-oirata	oira1263		red	156	RED		mer'braka	m e r b r a k a
+444921	477590	robinsonap-abui	abui1241		root	670	ROOT		ai	a i
+444922	477591	robinsonap-adang	adan1251		root	670	ROOT		aliʔiŋ	a l i ʔ i ŋ
+444923	477592	robinsonap-blagar	blag1240		root	670	ROOT		te brigiŋ	t e + b r i g i ŋ
+444924	477593	robinsonap-kaera	kaer1234		root	670	ROOT		aki	a k i
+444925	477594	robinsonap-kamang	kama1365		root	670	ROOT		alii	a l i i
+444926	477595	robinsonap-klon	kelo1247		root	670	ROOT		ərɪk	ə r ɪ k
+444927	477596	robinsonap-nedebang	nede1245		root	670	ROOT		alli	a l l i
+444928	477597	robinsonap-sawila	sawi1256		root	670	ROOT		siripiŋ	s i r i p i ŋ
+444929	477598	robinsonap-teiwa	teiw1235		root	670	ROOT		hroq	h r o q
+444930	477599	robinsonap-wersing	wers1238		root	670	ROOT		sriping	s r i p i ŋ
+444931	477600	robinsonap-westernpantar	lamm1241		root	670	ROOT		har	h a r
+445125	477794	transnewguineaorg-fataluku	fata1247		root	670	ROOT		larinu	l a r i n u
+445154	477823	transnewguineaorg-kabola-aimoli	kabo1247		root	670	ROOT		al'iʔaŋ	a l i ʔ a ŋ
+445155	477824	transnewguineaorg-kafoa	kafo1240		root	670	ROOT		il'ikaŋ	i l i k a ŋ
+445188	477857	transnewguineaorg-kui	kuii1253		root	670	ROOT		ak'ar	a k a r
+445189	477858	transnewguineaorg-kula	kula1280		root	670	ROOT		sp'in	s p i n
+445235	477904	transnewguineaorg-oirata	oira1263		root	670	ROOT		'larin	l a r i n
+456929	489598	robinsonap-abui	abui1241		sand	671	SAND		malatai	m a l a t a i
+456930	489599	robinsonap-adang	adan1251		sand	671	SAND		fεcεʔ	f ɛ tʃ ɛ ʔ
+456931	489600	robinsonap-blagar	blag1240		sand	671	SAND		bey	b e j
+456932	489601	robinsonap-kaera	kaer1234		sand	671	SAND		weis	w e i s
+456933	489602	robinsonap-kamang	kama1365		sand	671	SAND		sinai	s i n a i
+456934	489603	robinsonap-klon	kelo1247		sand	671	SAND		ɑlɑt	ɑ l ɑ t
+456935	489604	robinsonap-nedebang	nede1245		sand	671	SAND		iyaasi	i j a a s i
+456936	489605	robinsonap-sawila	sawi1256		sand	671	SAND		ɪnɪŋɪ	ɪ n ɪ ŋ ɪ
+456937	489606	robinsonap-teiwa	teiw1235		sand	671	SAND		ees	e e s
+456938	489607	robinsonap-wersing	wers1238		sand	671	SAND		ini pak	i n i + p a k
+456939	489608	robinsonap-westernpantar	lamm1241		sand	671	SAND		si'ir	s i ʔ i r
+457123	489792	transnewguineaorg-fataluku	fata1247		sand	671	SAND		iniku	i n i k u
+457151	489820	transnewguineaorg-kabola-aimoli	kabo1247		sand	671	SAND		fɛy	f ɛ j
+457152	489821	transnewguineaorg-kafoa	kafo1240		sand	671	SAND		mαl'αtαy	m ɑ l ɑ t ɑ j
+457184	489853	transnewguineaorg-kui	kuii1253		sand	671	SAND		αl'at-	ɑ l a t
+457185	489854	transnewguineaorg-kula	kula1280		sand	671	SAND		in'iki	i n i k i
+457233	489902	transnewguineaorg-oirata	oira1263		sand	671	SAND		'ini	i n i
+459687	492356	robinsonap-abui	abui1241		say	1458	SAY		tanga	t a ŋ a
+459688	492357	robinsonap-adang	adan1251		say	1458	SAY		ama	a m a
+459689	492358	robinsonap-blagar	blag1240		say	1458	SAY		tutuktutuk	t u t u k t u t u k
+459690	492359	robinsonap-kaera	kaer1234		say	1458	SAY		tutuk	t u t u k
+459691	492360	robinsonap-klon	kelo1247		say	1458	SAY		hʊɪh	h ʊ ɪ h
+459692	492361	robinsonap-nedebang	nede1245		say	1458	SAY		birang	b i r a ŋ
+459693	492362	robinsonap-sawila	sawi1256		say	1458	SAY		tiila	t i i l a
+459694	492363	robinsonap-wersing	wers1238		say	1458	SAY		lomo	l o m o
+459695	492364	robinsonap-westernpantar	lamm1241		say	1458	SAY		asang	a s a ŋ
+459817	492486	transnewguineaorg-fataluku	fata1247		say	1458	SAY		taʔa	t a ʔ a
+459869	492538	transnewguineaorg-oirata	oira1263		say	1458	SAY		ene	e n e
+465666	498336	robinsonap-abui	abui1241		see	1409	SEE		herei	h e r e i
+465667	498337	robinsonap-abui	abui1241		see	1409	SEE		da nerei	d a + n e r e i
+465668	498338	robinsonap-adang	adan1251		see	1409	SEE		dunuʔ	d u n u ʔ
+465669	498339	robinsonap-blagar	blag1240		see	1409	SEE		teiŋ	t e i ŋ
+465670	498340	robinsonap-kaera	kaer1234		see	1409	SEE		lalo	l a l o
+465671	498341	robinsonap-kamang	kama1365		see	1409	SEE		-tak	t a k
+465672	498342	robinsonap-klon	kelo1247		see	1409	SEE		gəur	g ə u r
+465673	498343	robinsonap-nedebang	nede1245		see	1409	SEE		bili	b i l i
+465674	498344	robinsonap-sawila	sawi1256		see	1409	SEE		gadea	g a d e a
+465675	498345	robinsonap-teiwa	teiw1235		see	1409	SEE		bəli	b ə l i
+465676	498346	robinsonap-wersing	wers1238		see	1409	SEE		gedir	g e d i r
+465677	498347	robinsonap-westernpantar	lamm1241		see	1409	SEE		ganiaka	g a n i a k a
+465877	498547	transnewguineaorg-fataluku	fata1247		see	1409	SEE		aci	a c i
+465878	498548	transnewguineaorg-fataluku	fata1247		see	1409	SEE		toto	t o t o
+465879	498549	transnewguineaorg-fataluku	fata1247		see	1409	SEE		haʔa	h a ʔ a
+465909	498579	transnewguineaorg-kabola-aimoli	kabo1247		see	1409	SEE		dun	d u n
+465910	498580	transnewguineaorg-kabola-aimoli	kabo1247		see	1409	SEE		hɔi	h ɔ i
+465911	498581	transnewguineaorg-kafoa	kafo1240		see	1409	SEE		ruy	r u j
+465954	498624	transnewguineaorg-kui	kuii1253		see	1409	SEE		uy	u j
+465955	498625	transnewguineaorg-kula	kula1280		see	1409	SEE		di	d i
+466007	498677	transnewguineaorg-oirata	oira1263		see	1409	SEE		'wataʔe	w a t a ʔ e
+467004	499674	robinsonap-abui	abui1241		seed	714	SEED		bika	b i k a
+467005	499675	robinsonap-adang	adan1251		seed	714	SEED		awai	a w a i
+467006	499676	robinsonap-blagar	blag1240		seed	714	SEED		te kulu	t e + k u l u
+467007	499677	robinsonap-kaera	kaer1234		seed	714	SEED		guax	g u a ħ
+467008	499678	robinsonap-kamang	kama1365		seed	714	SEED		bilee	b i l e e
+467009	499679	robinsonap-klon	kelo1247		seed	714	SEED		mɛm	m ɛ m
+467010	499680	robinsonap-nedebang	nede1245		seed	714	SEED		bagga	b a g g a
+467011	499681	robinsonap-sawila	sawi1256		seed	714	SEED		inii	i n i i
+467012	499682	robinsonap-teiwa	teiw1235		seed	714	SEED		ge bag	g e + b a g
+467013	499683	robinsonap-wersing	wers1238		seed	714	SEED		ge ikó'	g e + i k o ʔ
+467014	499684	robinsonap-westernpantar	lamm1241		seed	714	SEED		uppur	u p p u r
+490914	523586	robinsonap-abui	abui1241		sit	1416	SIT		miti	m i t i
+490915	523587	robinsonap-adang	adan1251		sit	1416	SIT		mihiʔ	m i h i ʔ
+490916	523588	robinsonap-blagar	blag1240		sit	1416	SIT		miŋ	m i ŋ
+490917	523589	robinsonap-kaera	kaer1234		sit	1416	SIT		miso	m i s o
+490918	523590	robinsonap-kamang	kama1365		sit	1416	SIT		nih	n i h
+490919	523591	robinsonap-klon	kelo1247		sit	1416	SIT		mɪh	m ɪ h
+490920	523592	robinsonap-nedebang	nede1245		sit	1416	SIT		misi	m i s i
+490921	523593	robinsonap-sawila	sawi1256		sit	1416	SIT		miti	m i t i
+490922	523594	robinsonap-teiwa	teiw1235		sit	1416	SIT		miis	m i i s
+490923	523595	robinsonap-wersing	wers1238		sit	1416	SIT		amit	a m i t
+490924	523596	robinsonap-westernpantar	lamm1241		sit	1416	SIT		mising	m i s i ŋ
+491098	523770	transnewguineaorg-fataluku	fata1247		sit	1416	SIT		ímire	i m i r e
+491099	523771	transnewguineaorg-fataluku	fata1247		sit	1416	SIT		ícuare	i c u a r e
+491128	523800	transnewguineaorg-kabola-aimoli	kabo1247		sit	1416	SIT		mix	m i x
+491129	523801	transnewguineaorg-kabola-aimoli	kabo1247		sit	1416	SIT		mih	m i h
+491130	523802	transnewguineaorg-kafoa	kafo1240		sit	1416	SIT		n'amih	n a m i h
+491167	523839	transnewguineaorg-kui	kuii1253		sit	1416	SIT		m'isα	m i s ɑ
+491168	523840	transnewguineaorg-kula	kula1280		sit	1416	SIT		w'uti	w u t i
+491220	523892	transnewguineaorg-oirata	oira1263		sit	1416	SIT		una'mira	u n a m i r a
+495212	527884	robinsonap-abui	abui1241		skin	763	SKIN		kul	k u l
+495213	527885	robinsonap-adang	adan1251		skin	763	SKIN		?ui	ʔ u i
+495214	527886	robinsonap-blagar	blag1240		skin	763	SKIN		piʔulit	p i ʔ u l i t
+495215	527887	robinsonap-kaera	kaer1234		skin	763	SKIN		koi	k o i
+495216	527888	robinsonap-kamang	kama1365		skin	763	SKIN		fasuu	f a s u u
+495217	527889	robinsonap-klon	kelo1247		skin	763	SKIN		kʊi	k ʊ i
+495218	527890	robinsonap-nedebang	nede1245		skin	763	SKIN		ge'ing waka	g e ʔ i ŋ + w a k a
+495219	527891	robinsonap-sawila	sawi1256		skin	763	SKIN		giyaka	g i j a k a
+495220	527892	robinsonap-teiwa	teiw1235		skin	763	SKIN		kuwei	k u w e i
+495221	527893	robinsonap-wersing	wers1238		skin	763	SKIN		klut	k l u t
+495222	527894	robinsonap-westernpantar	lamm1241		skin	763	SKIN		naing killi	n a i ŋ + k i l l i
+495428	528100	transnewguineaorg-fataluku	fata1247		skin	763	SKIN		vele	v e l e
+495462	528134	transnewguineaorg-kabola-aimoli	kabo1247		skin	763	SKIN		nɔŭwh'il	n ɔ u w h i l
+495463	528135	transnewguineaorg-kafoa	kafo1240		skin	763	SKIN		nik'ul	n i k u l
+495507	528179	transnewguineaorg-kui	kuii1253		skin	763	SKIN		nɔk'ul	n ɔ k u l
+495508	528180	transnewguineaorg-kula	kula1280		skin	763	SKIN		ŋag'akα	ŋ a g a k ɑ
+495564	528236	transnewguineaorg-oirata	oira1263		skin	763	SKIN		'wele	w e l e
+499862	532535	robinsonap-abui	abui1241		sleep	1585	SLEEP		ta	t a
+499863	532536	robinsonap-adang	adan1251		sleep	1585	SLEEP		tara	t a r a
+499864	532537	robinsonap-blagar	blag1240		sleep	1585	SLEEP		tiaʔ bena	t i a ʔ + b e n a
+499865	532538	robinsonap-kaera	kaer1234		sleep	1585	SLEEP		tee	t e e
+499866	532539	robinsonap-kamang	kama1365		sleep	1585	SLEEP		taa	t a a
+499867	532540	robinsonap-klon	kelo1247		sleep	1585	SLEEP		moop	m o o p
+499868	532541	robinsonap-nedebang	nede1245		sleep	1585	SLEEP		ta'a	t a ʔ a
+499869	532542	robinsonap-sawila	sawi1256		sleep	1585	SLEEP		gate	g a t e
+499870	532543	robinsonap-teiwa	teiw1235		sleep	1585	SLEEP		unti'	u n t i ʔ
+499871	532544	robinsonap-wersing	wers1238		sleep	1585	SLEEP		netai	n e t a i
+499872	532545	robinsonap-westernpantar	lamm1241		sleep	1585	SLEEP		ti'ang	t i ʔ a ŋ
+500058	532731	transnewguineaorg-fataluku	fata1247		sleep	1585	SLEEP		taja	t a j a
+500087	532760	transnewguineaorg-kabola-aimoli	kabo1247		sleep	1585	SLEEP		tar	t a r
+500088	532761	transnewguineaorg-kafoa	kafo1240		sleep	1585	SLEEP		n'ɔtα	n ɔ t ɑ
+500129	532802	transnewguineaorg-kui	kuii1253		sleep	1585	SLEEP		nαt'a	n ɑ t a
+500130	532803	transnewguineaorg-kula	kula1280		sleep	1585	SLEEP		tɛ	t ɛ
+500175	532848	transnewguineaorg-oirata	oira1263		sleep	1585	SLEEP		'taija	t a i j a
+503483	536157	robinsonap-abui	abui1241		small	1246	SMALL		kiding	k i d i ŋ
+503484	536158	robinsonap-adang	adan1251		small	1246	SMALL		kaʔai	k a ʔ a i
+503485	536159	robinsonap-blagar	blag1240		small	1246	SMALL		kodduk	k o d d u k
+503486	536160	robinsonap-kaera	kaer1234		small	1246	SMALL		kiki	k i k i
+503487	536161	robinsonap-kamang	kama1365		small	1246	SMALL		kiding	k i d i ŋ
+503488	536162	robinsonap-klon	kelo1247		small	1246	SMALL		kɛkɛin	k ɛ k ɛ i n
+503489	536163	robinsonap-nedebang	nede1245		small	1246	SMALL		samma	s a m m a
+503490	536164	robinsonap-sawila	sawi1256		small	1246	SMALL		pike	p i k e
+503491	536165	robinsonap-teiwa	teiw1235		small	1246	SMALL		sam	s a m
+503492	536166	robinsonap-wersing	wers1238		small	1246	SMALL		murung	m u r u ŋ
+503493	536167	robinsonap-westernpantar	lamm1241		small	1246	SMALL		kalla	k a l l a
+503677	536351	transnewguineaorg-fataluku	fata1247		small	1246	SMALL		kaʔukisa	k a ʔ u k i s a
+503707	536381	transnewguineaorg-kabola-aimoli	kabo1247		small	1246	SMALL		k'aʔay	k a ʔ a j
+503708	536382	transnewguineaorg-kafoa	kafo1240		small	1246	SMALL		kid'iŋ	k i d i ŋ
+503749	536423	transnewguineaorg-kui	kuii1253		small	1246	SMALL		kăd'in	k a d i n
+503750	536424	transnewguineaorg-kula	kula1280		small	1246	SMALL		m'arnα	m a r n ɑ
+503810	536484	transnewguineaorg-oirata	oira1263		small	1246	SMALL		kinkini	k i n k i n i
+507721	540397	robinsonap-abui	abui1241		smokeexhaust	778	SMOKE (EXHAUST)		ara tika	a r a + t i k a
+507722	540398	robinsonap-adang	adan1251		smokeexhaust	778	SMOKE (EXHAUST)		awai banoʔo	a w a i + b a n o ʔ o
+507723	540399	robinsonap-blagar	blag1240		smokeexhaust	778	SMOKE (EXHAUST)		ad benaŋka	a d + b e n a ŋ k a
+507724	540400	robinsonap-kaera	kaer1234		smokeexhaust	778	SMOKE (EXHAUST)		aad bənaax	a a d + b ə n a a ħ
+507725	540401	robinsonap-kamang	kama1365		smokeexhaust	778	SMOKE (EXHAUST)		puna	p u n a
+507726	540402	robinsonap-klon	kelo1247		smokeexhaust	778	SMOKE (EXHAUST)		ədɑbon	ə d ɑ b o n
+507727	540403	robinsonap-nedebang	nede1245		smokeexhaust	778	SMOKE (EXHAUST)		arabun	a r a b u n
+507728	540404	robinsonap-sawila	sawi1256		smokeexhaust	778	SMOKE (EXHAUST)		punaka	p u n a k a
+507729	540405	robinsonap-teiwa	teiw1235		smokeexhaust	778	SMOKE (EXHAUST)		buun	b u u n
+507730	540406	robinsonap-wersing	wers1238		smokeexhaust	778	SMOKE (EXHAUST)		adá punak	a d a + p u n a k
+507731	540407	robinsonap-westernpantar	lamm1241		smokeexhaust	778	SMOKE (EXHAUST)		bunna	b u n n a
+507944	540620	transnewguineaorg-fataluku	fata1247		smokeexhaust	778	SMOKE (EXHAUST)		aca-tapinu	a c a + t a p i n u
+507975	540651	transnewguineaorg-kabola-aimoli	kabo1247		smokeexhaust	778	SMOKE (EXHAUST)		bαn'ɔk-	b ɑ n ɔ k
+507976	540652	transnewguineaorg-kafoa	kafo1240		smokeexhaust	778	SMOKE (EXHAUST)		f'ɔnα	f ɔ n ɑ
+508014	540690	transnewguineaorg-kui	kuii1253		smokeexhaust	778	SMOKE (EXHAUST)		bun'uk	b u n u k
+508015	540691	transnewguineaorg-kula	kula1280		smokeexhaust	778	SMOKE (EXHAUST)		pin'akkα	p i n a kː ɑ
+508016	540692	transnewguineaorg-kula	kula1280		smokeexhaust	778	SMOKE (EXHAUST)		kul'akku	k u l a kː u
+508072	540748	transnewguineaorg-oirata	oira1263		smokeexhaust	778	SMOKE (EXHAUST)		ata'tau	a t a t a u
+530381	563057	robinsonap-abui	abui1241		stand	1442	STAND		nate	n a t e
+530382	563058	robinsonap-adang	adan1251		stand	1442	STAND		tohO	t o h ɔ
+530383	563059	robinsonap-blagar	blag1240		stand	1442	STAND		tai	t a i
+530384	563060	robinsonap-kaera	kaer1234		stand	1442	STAND		taso	t a s o
+530385	563061	robinsonap-kamang	kama1365		stand	1442	STAND		latsi	l a t s i
+530386	563062	robinsonap-klon	kelo1247		stand	1442	STAND		mətɛh	m ə t ɛ h
+530387	563063	robinsonap-nedebang	nede1245		stand	1442	STAND		tasi	t a s i
+530388	563064	robinsonap-sawila	sawi1256		stand	1442	STAND		dooka	d o o k a
+530389	563065	robinsonap-teiwa	teiw1235		stand	1442	STAND		taas	t a a s
+530390	563066	robinsonap-wersing	wers1238		stand	1442	STAND		atati	a t a t i
+530391	563067	robinsonap-westernpantar	lamm1241		stand	1442	STAND		natar	n a t a r
+530603	563279	transnewguineaorg-fataluku	fata1247		stand	1442	STAND		ínehere	i n e h e r e
+530604	563280	transnewguineaorg-fataluku	fata1247		stand	1442	STAND		inate	i n a t e
+530636	563312	transnewguineaorg-kabola-aimoli	kabo1247		stand	1442	STAND		tʔuh	t ʔ u h
+530637	563313	transnewguineaorg-kafoa	kafo1240		stand	1442	STAND		nαt'ey	n ɑ t e j
+530682	563358	transnewguineaorg-kui	kuii1253		stand	1442	STAND		nɛs'ɛn	n ɛ s ɛ n
+530683	563359	transnewguineaorg-kula	kula1280		stand	1442	STAND		d'uka	d u k a
+530747	563423	transnewguineaorg-oirata	oira1263		stand	1442	STAND		'natarɛ	n a t a r ɛ
+532719	565395	robinsonap-abui	abui1241		star	1430	STAR		fir	f i r
+532720	565396	robinsonap-abui	abui1241		star	1430	STAR		fɪr	f ɪ r
+532721	565397	robinsonap-adang	adan1251		star	1430	STAR		i:b	iː b
+532722	565398	robinsonap-blagar	blag1240		star	1430	STAR		iid	i i d
+532723	565399	robinsonap-kaera	kaer1234		star	1430	STAR		ipalaq	i p a l a q
+532724	565400	robinsonap-kamang	kama1365		star	1430	STAR		atoibaai	a t o i b a a i
+532725	565401	robinsonap-klon	kelo1247		star	1430	STAR		ɪb	ɪ b
+532726	565402	robinsonap-nedebang	nede1245		star	1430	STAR		ifahoya	i f a h o j a
+532727	565403	robinsonap-sawila	sawi1256		star	1430	STAR		lawaala	l a w a a l a
+532728	565404	robinsonap-teiwa	teiw1235		star	1430	STAR		yif	j i f
+532729	565405	robinsonap-wersing	wers1238		star	1430	STAR		apíkal	a p i k a l
+532730	565406	robinsonap-westernpantar	lamm1241		star	1430	STAR		hibbe	h i b b e
+532937	565613	transnewguineaorg-fataluku	fata1247		star	1430	STAR		ipinaka	i p i n a k a
+532972	565648	transnewguineaorg-kabola-aimoli	kabo1247		star	1430	STAR		'ibiŋ	i b i ŋ
+532973	565649	transnewguineaorg-kafoa	kafo1240		star	1430	STAR		f'urfal	f u r f a l
+533013	565689	transnewguineaorg-kui	kuii1253		star	1430	STAR		ĭbăr'a	i b a r a
+533014	565690	transnewguineaorg-kula	kula1280		star	1430	STAR		pəsəl'αwα	p ə s ə l ɑ w ɑ
+533073	565749	transnewguineaorg-oirata	oira1263		star	1430	STAR		hihi'naxa	h i h i n a x a
+539434	572111	robinsonap-abui	abui1241		stone	857	STONE		vi:	v iː
+539435	572112	robinsonap-adang	adan1251		stone	857	STONE		fui	f u i
+539436	572113	robinsonap-blagar	blag1240		stone	857	STONE		var	v a r
+539437	572114	robinsonap-kaera	kaer1234		stone	857	STONE		war	w a r
+539438	572115	robinsonap-kamang	kama1365		stone	857	STONE		woi	w o i
+539439	572116	robinsonap-klon	kelo1247		stone	857	STONE		wɔr	w ɔ r
+539440	572117	robinsonap-nedebang	nede1245		stone	857	STONE		wala	w a l a
+539441	572118	robinsonap-sawila	sawi1256		stone	857	STONE		wara	w a r a
+539442	572119	robinsonap-teiwa	teiw1235		stone	857	STONE		war	w a r
+539443	572120	robinsonap-wersing	wers1238		stone	857	STONE		wor	w o r
+539444	572121	robinsonap-westernpantar	lamm1241		stone	857	STONE		hauwe	h a u w e
+539658	572335	transnewguineaorg-fataluku	fata1247		stone	857	STONE		mataru	m a t a r u
+539691	572368	transnewguineaorg-kabola-aimoli	kabo1247		stone	857	STONE		fɔy	f ɔ j
+539692	572369	transnewguineaorg-kabola-aimoli	kabo1247		stone	857	STONE		f'ɔʰɛ	f ɔ h ɛ
+539693	572370	transnewguineaorg-kafoa	kafo1240		stone	857	STONE		uw'i	u w i
+539732	572409	transnewguineaorg-kui	kuii1253		stone	857	STONE		ŭw'ɔr	u w ɔ r
+539733	572410	transnewguineaorg-kula	kula1280		stone	857	STONE		wαp'akkα	w ɑ p a kː ɑ
+539790	572467	transnewguineaorg-oirata	oira1263		stone	857	STONE		uwa'raha	u w a r a h a
+548839	581516	robinsonap-abui	abui1241		sun	1343	SUN		wari	w a r i
+548840	581517	robinsonap-adang	adan1251		sun	1343	SUN		fεd	f ɛ d
+548841	581518	robinsonap-blagar	blag1240		sun	1343	SUN		ved	v e d
+548842	581519	robinsonap-kaera	kaer1234		sun	1343	SUN		kuwer	k u w e r
+548843	581520	robinsonap-kamang	kama1365		sun	1343	SUN		wati	w a t i
+548844	581521	robinsonap-klon	kelo1247		sun	1343	SUN		mədi	m ə d i
+548845	581522	robinsonap-nedebang	nede1245		sun	1343	SUN		weri	w e r i
+548846	581523	robinsonap-sawila	sawi1256		sun	1343	SUN		wadi	w a d i
+548847	581524	robinsonap-teiwa	teiw1235		sun	1343	SUN		war get	w a r + g e t
+548848	581525	robinsonap-wersing	wers1238		sun	1343	SUN		widí	w i d i
+548849	581526	robinsonap-westernpantar	lamm1241		sun	1343	SUN		was	w a s
+549093	581770	transnewguineaorg-kabola-aimoli	kabo1247		sun	1343	SUN		vɛd-	v ɛ d
+549094	581771	transnewguineaorg-kafoa	kafo1240		sun	1343	SUN		'uru	u r u
+549135	581812	transnewguineaorg-kui	kuii1253		sun	1343	SUN		mber	m b e r
+549136	581813	transnewguineaorg-kula	kula1280		sun	1343	SUN		w'adiyα	w a d i j ɑ
+555585	588262	robinsonap-abui	abui1241		swim	1439	SWIM		teula	t e u l a
+555586	588263	robinsonap-abui	abui1241		swim	1439	SWIM		na-teula	n a t e u l a
+555587	588264	robinsonap-adang	adan1251		swim	1439	SWIM		ʔur	ʔ u r
+555588	588265	robinsonap-blagar	blag1240		swim	1439	SWIM		tára	t a r a
+555589	588266	robinsonap-kaera	kaer1234		swim	1439	SWIM		taro	t a r o
+555590	588267	robinsonap-kamang	kama1365		swim	1439	SWIM		sai	s a i
+555591	588268	robinsonap-klon	kelo1247		swim	1439	SWIM		urɛn	u r ɛ n
+555592	588269	robinsonap-nedebang	nede1245		swim	1439	SWIM		talang	t a l a ŋ
+555593	588270	robinsonap-sawila	sawi1256		swim	1439	SWIM		se	s e
+555594	588271	robinsonap-teiwa	teiw1235		swim	1439	SWIM		taran	t a r a n
+555595	588272	robinsonap-wersing	wers1238		swim	1439	SWIM		sai	s a i
+555596	588273	robinsonap-westernpantar	lamm1241		swim	1439	SWIM		tallang	t a l l a ŋ
+555683	588360	transnewguineaorg-fataluku	fata1247		swim	1439	SWIM		palise	p a l i s e
+555722	588399	transnewguineaorg-oirata	oira1263		swim	1439	SWIM		'naʔajɛ	n a ʔ a j ɛ
+558128	590805	robinsonap-abui	abui1241		tail	1220	TAIL		ha'wai	h a ʔ w a i
+558129	590806	robinsonap-adang	adan1251		tail	1220	TAIL		oloʔ	o l o ʔ
+558130	590807	robinsonap-blagar	blag1240		tail	1220	TAIL		orá	o r a
+558131	590808	robinsonap-kaera	kaer1234		tail	1220	TAIL		gor	g o r
+558132	590809	robinsonap-kamang	kama1365		tail	1220	TAIL		-wui	w u i
+558133	590810	robinsonap-klon	kelo1247		tail	1220	TAIL		gorəkɛi	g o r ə k ɛ i
+558134	590811	robinsonap-nedebang	nede1245		tail	1220	TAIL		gola	g o l a
+558135	590812	robinsonap-sawila	sawi1256		tail	1220	TAIL		giwoora	g i w o o r a
+558136	590813	robinsonap-teiwa	teiw1235		tail	1220	TAIL		goor	g o o r
+558137	590814	robinsonap-wersing	wers1238		tail	1220	TAIL		wori	w o r i
+558138	590815	robinsonap-westernpantar	lamm1241		tail	1220	TAIL		geku	g e k u
+558359	591036	transnewguineaorg-fataluku	fata1247		tail	1220	TAIL		ulafuka	u l a f u k a
+558510	591187	transnewguineaorg-oirata	oira1263		tail	1220	TAIL		ula'bua	u l a b u a
+580881	613564	transnewguineaorg-fataluku	fata1247		thou	1215	THOU		à	a
+596872	629559	robinsonap-abui	abui1241		tongue	1205	TONGUE		taleifi	t a l e i f i
+596873	629560	robinsonap-adang	adan1251		tongue	1205	TONGUE		talεb	t a l ɛ b
+596874	629561	robinsonap-adang	adan1251		tongue	1205	TONGUE		nalεb	n a l ɛ b
+596875	629562	robinsonap-blagar	blag1240		tongue	1205	TONGUE		tejebur	t e dʒ e b u r
+596876	629563	robinsonap-kaera	kaer1234		tongue	1205	TONGUE		taleeb	t a l e e b
+596877	629564	robinsonap-kamang	kama1365		tongue	1205	TONGUE		-opui	o p u i
+596878	629565	robinsonap-klon	kelo1247		tongue	1205	TONGUE		gəlɛb	g ə l ɛ b
+596879	629566	robinsonap-nedebang	nede1245		tongue	1205	TONGUE		gəlefu	g ə l e f u
+596880	629567	robinsonap-sawila	sawi1256		tongue	1205	TONGUE		galimpuru	g a l i m p u r u
+596881	629568	robinsonap-teiwa	teiw1235		tongue	1205	TONGUE		gelivi	g e l i v i
+596882	629569	robinsonap-wersing	wers1238		tongue	1205	TONGUE		neyebur	n e j e b u r
+596883	629570	robinsonap-westernpantar	lamm1241		tongue	1205	TONGUE		nalebu	n a l e b u
+597103	629790	transnewguineaorg-fataluku	fata1247		tongue	1205	TONGUE		ipilu	i p i l u
+597134	629821	transnewguineaorg-kabola-aimoli	kabo1247		tongue	1205	TONGUE		nαl'ibuŋ	n ɑ l i b u ŋ
+597135	629822	transnewguineaorg-kafoa	kafo1240		tongue	1205	TONGUE		ninαl'ip	n i n ɑ l i p
+597172	629859	transnewguineaorg-kui	kuii1253		tongue	1205	TONGUE		nαl'ibar	n ɑ l i b a r
+597173	629860	transnewguineaorg-kula	kula1280		tongue	1205	TONGUE		ŋanl'ipu	ŋ a n l i p u
+597229	629916	transnewguineaorg-oirata	oira1263		tongue	1205	TONGUE		u'hul	u h u l
+599049	631736	robinsonap-abui	abui1241		tooth	1380	TOOTH		taweiti	t a w e i t i
+599050	631737	robinsonap-adang	adan1251		tooth	1380	TOOTH		na-wεhεŋ	n a w ɛ h ɛ ŋ
+599051	631738	robinsonap-blagar	blag1240		tooth	1380	TOOTH		təvéŋ	t ə v e ŋ
+599052	631739	robinsonap-kaera	kaer1234		tooth	1380	TOOTH		tua sing	t u a + s i ŋ
+599053	631740	robinsonap-kamang	kama1365		tooth	1380	TOOTH		-weh	w e h
+599054	631741	robinsonap-klon	kelo1247		tooth	1380	TOOTH		gəwɛh	g ə w ɛ h
+599055	631742	robinsonap-nedebang	nede1245		tooth	1380	TOOTH		gusing	g u s i ŋ
+599056	631743	robinsonap-sawila	sawi1256		tooth	1380	TOOTH		gawa	g a w a
+599057	631744	robinsonap-teiwa	teiw1235		tooth	1380	TOOTH		gusan	g u s a n
+599058	631745	robinsonap-wersing	wers1238		tooth	1380	TOOTH		newesi	n e w e s i
+599059	631746	robinsonap-westernpantar	lamm1241		tooth	1380	TOOTH		nawasing	n a w a s i ŋ
+599280	631967	transnewguineaorg-fataluku	fata1247		tooth	1380	TOOTH		vahinu	v a h i n u
+599306	631993	transnewguineaorg-kabola-aimoli	kabo1247		tooth	1380	TOOTH		nαf'ihiŋ	n ɑ f i h i ŋ
+599307	631994	transnewguineaorg-kafoa	kafo1240		tooth	1380	TOOTH		ninαwɛh'ɛŋ	n i n ɑ w ɛ h ɛ ŋ
+599348	632035	transnewguineaorg-kui	kuii1253		tooth	1380	TOOTH		naw'ɛs	n a w ɛ s
+599349	632036	transnewguineaorg-kula	kula1280		tooth	1380	TOOTH		ŋwag'eyα	ŋ w a g e j ɑ
+599405	632092	transnewguineaorg-oirata	oira1263		tooth	1380	TOOTH		'wain	w a i n
+603478	636165	robinsonap-abui	abui1241		tree	906	TREE		ˈbata	ʔ b a t a
+603479	636166	robinsonap-adang	adan1251		tree	906	TREE		ti	t i
+603480	636167	robinsonap-blagar	blag1240		tree	906	TREE		te	t e
+603481	636168	robinsonap-kaera	kaer1234		tree	906	TREE		tei	t e i
+603482	636169	robinsonap-kamang	kama1365		tree	906	TREE		bong	b o ŋ
+603483	636170	robinsonap-klon	kelo1247		tree	906	TREE		ətəʔ	ə t ə ʔ
+603484	636171	robinsonap-nedebang	nede1245		tree	906	TREE		tei	t e i
+603485	636172	robinsonap-sawila	sawi1256		tree	906	TREE		mu	m u
+603486	636173	robinsonap-teiwa	teiw1235		tree	906	TREE		tei	t e i
+603487	636174	robinsonap-wersing	wers1238		tree	906	TREE		bong	b o ŋ
+603488	636175	robinsonap-westernpantar	lamm1241		tree	906	TREE		yattu	j a t t u
+603725	636412	transnewguineaorg-kabola-aimoli	kabo1247		tree	906	TREE		tii	t iː
+603726	636413	transnewguineaorg-kafoa	kafo1240		tree	906	TREE		'attɛ	a t t ɛ
+603767	636454	transnewguineaorg-kui	kuii1253		tree	906	TREE		αt'ey	ɑ t e j
+603768	636455	transnewguineaorg-kula	kula1280		tree	906	TREE		as'akkα	a s a kː ɑ
+611949	644636	robinsonap-abui	abui1241		two	1498	TWO		ayoku	a j o k u
+611950	644637	robinsonap-adang	adan1251		two	1498	TWO		a:lu	aː l u
+611951	644638	robinsonap-blagar	blag1240		two	1498	TWO		aru	a r u
+611952	644639	robinsonap-kaera	kaer1234		two	1498	TWO		raxo	r a ħ o
+611953	644640	robinsonap-kamang	kama1365		two	1498	TWO		ok	o k
+611954	644641	robinsonap-klon	kelo1247		two	1498	TWO		ərʊk	ə r ʊ k
+611955	644642	robinsonap-nedebang	nede1245		two	1498	TWO		raku	r a k u
+611956	644643	robinsonap-sawila	sawi1256		two	1498	TWO		yaku	j a k u
+611957	644644	robinsonap-teiwa	teiw1235		two	1498	TWO		raq	r a q
+611958	644645	robinsonap-wersing	wers1238		two	1498	TWO		yoku	j o k u
+611959	644646	robinsonap-westernpantar	lamm1241		two	1498	TWO		alaku	a l a k u
+612171	644858	transnewguineaorg-fataluku	fata1247		two	1498	TWO		écafu	e c a f u
+612199	644886	transnewguineaorg-kabola-aimoli	kabo1247		two	1498	TWO		αl'ɔ	ɑ l ɔ
+612200	644887	transnewguineaorg-kafoa	kafo1240		two	1498	TWO		'αku	ɑ k u
+612238	644925	transnewguineaorg-kui	kuii1253		two	1498	TWO		αr'uku	ɑ r u k u
+612239	644926	transnewguineaorg-kula	kula1280		two	1498	TWO		y'akku	j a kː u
+612289	644976	transnewguineaorg-oirata	oira1263		two	1498	TWO		'ei	e i
+627827	680488	robinsonap-abui	abui1241		white	1335	WHITE		kuli	k u l i
+627828	680489	robinsonap-adang	adan1251		white	1335	WHITE		wεlεʔ	w ɛ l ɛ ʔ
+627829	680490	robinsonap-blagar	blag1240		white	1335	WHITE		məjá	m ə dʒ a
+627830	680491	robinsonap-kaera	kaer1234		white	1335	WHITE		miyeqo	m i j e q o
+627831	680492	robinsonap-kamang	kama1365		white	1335	WHITE		bila	b i l a
+627832	680493	robinsonap-klon	kelo1247		white	1335	WHITE		ɑʔɑjɑl	ɑ ʔ ɑ dʒ ɑ l
+627833	680494	robinsonap-nedebang	nede1245		white	1335	WHITE		miyaqa	m i j a q a
+627834	680495	robinsonap-sawila	sawi1256		white	1335	WHITE		siila	s i i l a
+627835	680496	robinsonap-teiwa	teiw1235		white	1335	WHITE		miyaq	m i j a q
+627836	680497	robinsonap-wersing	wers1238		white	1335	WHITE		muruk	m u r u k
+627837	680498	robinsonap-westernpantar	lamm1241		white	1335	WHITE		miaka	m i a k a
+628035	680696	transnewguineaorg-fataluku	fata1247		white	1335	WHITE		pitine	p i t i n e
+628064	680725	transnewguineaorg-kabola-aimoli	kabo1247		white	1335	WHITE		αf'ɛl	ɑ f ɛ l
+628065	680726	transnewguineaorg-kafoa	kafo1240		white	1335	WHITE		'ibilα	i b i l ɑ
+628096	680757	transnewguineaorg-kui	kuii1253		white	1335	WHITE		d'ɛlα	d ɛ l ɑ
+628097	680758	transnewguineaorg-kula	kula1280		white	1335	WHITE		lαk'uy	l ɑ k u j
+628144	680805	transnewguineaorg-oirata	oira1263		white	1335	WHITE		'hitini	h i t i n i
+630257	683010	transnewguineaorg-fataluku	fata1247		who	1235	WHO		umani	u m a n i
+630356	683109	transnewguineaorg-oirata	oira1263		who	1235	WHO		u'mani	u m a n i
+640674	693429	robinsonap-abui	abui1241		woman	962	WOMAN		majuo	m a dʒ u o
+640675	693430	robinsonap-adang	adan1251		woman	962	WOMAN		oboʔ	o b o ʔ
+640676	693431	robinsonap-blagar	blag1240		woman	962	WOMAN		jaul	dʒ a u l
+640677	693432	robinsonap-kaera	kaer1234		woman	962	WOMAN		umoq waal	u m o q + w a a l
+640678	693433	robinsonap-kamang	kama1365		woman	962	WOMAN		male	m a l e
+640679	693434	robinsonap-klon	kelo1247		woman	962	WOMAN		okənɛ	o k ə n ɛ
+640680	693435	robinsonap-nedebang	nede1245		woman	962	WOMAN		alaqama	a l a q a m a
+640681	693436	robinsonap-sawila	sawi1256		woman	962	WOMAN		yaalara	j a a l a r a
+640682	693437	robinsonap-sawila	sawi1256		woman	962	WOMAN		yaala	j a a l a
+640683	693438	robinsonap-teiwa	teiw1235		woman	962	WOMAN		eqar	e q a r
+640684	693439	robinsonap-wersing	wers1238		woman	962	WOMAN		mei	m e i
+640685	693440	robinsonap-westernpantar	lamm1241		woman	962	WOMAN		eu	e u
+640907	693662	transnewguineaorg-fataluku	fata1247		woman	962	WOMAN		tupuru	t u p u r u
+640937	693692	transnewguineaorg-kabola-aimoli	kabo1247		woman	962	WOMAN		ʔɔb-	ʔ ɔ b
+640938	693693	transnewguineaorg-kafoa	kafo1240		woman	962	WOMAN		''αmαk'ɔfa	ɑ m ɑ k ɔ f a
+640975	693730	transnewguineaorg-kui	kuii1253		woman	962	WOMAN		m'ey	m e j
+640976	693731	transnewguineaorg-kula	kula1280		woman	962	WOMAN		iy'αlα	i j ɑ l ɑ
+641029	693784	transnewguineaorg-oirata	oira1263		woman	962	WOMAN		'tuhur	t u h u r

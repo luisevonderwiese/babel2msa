@@ -1,0 +1,370 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+668	16819	wold-Kanuri	cent2050		at	1461	AT		-làn	l a n
+4293	20444	wold-Kanuri	cent2050		back	1291	BACK		ngáwò	n g a w o
+5439	21590	polyglottaafricana-Kanembu	kane1243		bad	1292	BAD		díbī	d i b iː
+5440	21591	polyglottaafricana-Kanembu	kane1243		bad	1292	BAD		díbi	d i b i
+5464	21615	polyglottaafricana-Manga	mang1399		bad	1292	BAD		díwi	d i w i
+5663	21814	wold-Kanuri	cent2050		bad	1292	BAD		kúttù	k u t t u
+9484	25635	wold-Kanuri	cent2050		bark	1204	BARK		kàskàshí	k a s k a ʃ i
+13520	29671	wold-Kanuri	cent2050		bealive	1422	BE ALIVE		rôà	r o a
+16496	32647	wold-Kanuri	cent2050		because	1157	BECAUSE		nàngàrò	n a ŋ a r o
+23307	39458	polyglottaafricana-Kanembu	kane1243		belly	1251	BELLY		dṣúrō	ɖʐ u r oː
+23308	39459	polyglottaafricana-Kanembu	kane1243		belly	1251	BELLY		kā́lum	k aː l u m
+23309	39460	polyglottaafricana-Kanembu	kane1243		belly	1251	BELLY		tsúrō	t s u r oː
+23333	39484	polyglottaafricana-Manga	mang1399		belly	1251	BELLY		kā́lum	k aː l u m
+23867	40018	wold-Kanuri	cent2050		belly	1251	BELLY		tìmbí	t i m b i
+28466	44617	polyglottaafricana-Kanembu	kane1243		big	1202	BIG		kúrā	k u r aː
+28467	44618	polyglottaafricana-Kanembu	kane1243		big	1202	BIG		kúra	k u r a
+28494	44645	polyglottaafricana-Manga	mang1399		big	1202	BIG		kúrā	k u r aː
+29085	45236	wold-Kanuri	cent2050		big	1202	BIG		kúrà	k u r a
+30793	46944	polyglottaafricana-Kanembu	kane1243		bird	937	BIRD		n·gúdō	n g u d oː
+30794	46945	polyglottaafricana-Kanembu	kane1243		bird	937	BIRD		n·gúdō	n g u d oː
+30817	46968	polyglottaafricana-Manga	mang1399		bird	937	BIRD		n·gúdō	n g u d oː
+31443	47594	wold-Kanuri	cent2050		bird	937	BIRD		ngúdò	n g u d o
+33533	49684	wold-Kanuri	cent2050		bite	1403	BITE		tímìn_tà	t i m i n + t a
+33534	49685	wold-Kanuri	cent2050		bite	1403	BITE		nàndò	n a n d o
+35752	51903	polyglottaafricana-Kanembu	kane1243		black	163	BLACK		dṣè́lam	ɖʐ e l a m
+35753	51904	polyglottaafricana-Kanembu	kane1243		black	163	BLACK		dṣélam	ɖʐ e l a m
+35778	51929	polyglottaafricana-Manga	mang1399		black	163	BLACK		dṣè́lam	ɖʐ e l a m
+36055	52206	wold-Kanuri	cent2050		black	163	BLACK		sə́lə́m	s ɨ l ɨ m
+39168	55319	polyglottaafricana-Kanembu	kane1243		blood	946	BLOOD		bū	b uː
+39169	55320	polyglottaafricana-Kanembu	kane1243		blood	946	BLOOD		bui	b u i
+39192	55343	polyglottaafricana-Manga	mang1399		blood	946	BLOOD		bū	b uː
+39796	55947	wold-Kanuri	cent2050		blood	946	BLOOD		bû	b u
+41528	57679	wold-Kanuri	cent2050		blowofwind	175	BLOW (OF WIND)		fùtə́	f u t ɨ
+43436	59587	wold-Kanuri	cent2050		blunt	379	BLUNT		gòrdó	g o r d o
+47387	63538	polyglottaafricana-Kanembu	kane1243		bone	1394	BONE		sílā	s i l aː
+47388	63539	polyglottaafricana-Kanembu	kane1243		bone	1394	BONE		dṣíla	ɖʐ i l a
+47413	63564	polyglottaafricana-Manga	mang1399		bone	1394	BONE		sílā	s i l aː
+48050	64201	wold-Kanuri	cent2050		bone	1394	BONE		shíllà	ʃ i l l a
+59280	75433	polyglottaafricana-Kanembu	kane1243		breathe	1407	BREATHE		u sugẹ́nèski	u + s u g e˞ n e s k i
+59281	75434	polyglottaafricana-Kanembu	kane1243		breathe	1407	BREATHE		sugẹ̄́n·gi	s u g e˞ː n g i
+59282	75435	polyglottaafricana-Kanembu	kane1243		breathe	1407	BREATHE		tsū́nèski	t s uː n e s k i
+59306	75459	polyglottaafricana-Manga	mang1399		breathe	1407	BREATHE		wu segẹ̄́ski	w u + s e g e˞ː s k i
+59491	75644	wold-Kanuri	cent2050		breathe	1407	BREATHE		yìntə́	j i n t ɨ
+65336	81489	wold-Kanuri	cent2050		burning	1428	BURNING		máltə́	m a l t ɨ
+83840	99993	wold-Kanuri	cent2050		childyounghuman	1304	CHILD (YOUNG HUMAN)		tádà	t a d a
+92514	108667	wold-Kanuri	cent2050		cloud	1489	CLOUD		fówó	f o w o
+99342	115495	polyglottaafricana-Kanembu	kane1243		come	1446	COME		u ī́sèski	u + iː s e s k i
+99343	115496	polyglottaafricana-Kanembu	kane1243		come	1446	COME		ī́seski	iː s e s k i
+99367	115520	polyglottaafricana-Manga	mang1399		come	1446	COME		wu isèski	w u + i s e s k i
+99993	116146	wold-Kanuri	cent2050		come	1446	COME		ísò	i s o
+105320	121473	wold-Kanuri	cent2050		correctright	1725	CORRECT (RIGHT)		kálkál	k a l k a l
+107681	123834	wold-Kanuri	cent2050		count	1420	COUNT		kòmtə́	k o m t ɨ
+115623	131776	wold-Kanuri	cent2050		cut	1432	CUT		kámtə́	k a m t ɨ
+122200	138355	polyglottaafricana-Kanembu	kane1243		daynotnight	1225	DAY (NOT NIGHT)		kau	k a u
+122201	138356	polyglottaafricana-Kanembu	kane1243		daynotnight	1225	DAY (NOT NIGHT)		dúnīa kau	d u n iː a + k a u
+122202	138357	polyglottaafricana-Kanembu	kane1243		daynotnight	1225	DAY (NOT NIGHT)		kau·	k a u
+122226	138381	polyglottaafricana-Manga	mang1399		daynotnight	1225	DAY (NOT NIGHT)		kau	k a u
+122396	138551	wold-Kanuri	cent2050		daynotnight	1225	DAY (NOT NIGHT)		yîm	j i m
+127556	143711	polyglottaafricana-Kanembu	kane1243		die	1494	DIE		u núskī	u + n u s k iː
+127557	143712	polyglottaafricana-Kanembu	kane1243		die	1494	DIE		kánuskō	k a n u s k oː
+127582	143737	polyglottaafricana-Manga	mang1399		die	1494	DIE		wu núskī	w u + n u s k iː
+128108	144263	wold-Kanuri	cent2050		die	1494	DIE		nò	n o
+130221	146376	wold-Kanuri	cent2050		dig	1418	DIG		tàbtə́	t a b t ɨ
+132190	148345	wold-Kanuri	cent2050		dirty	1230	DIRTY		kàdágə̀	k a d a g e
+136114	152269	polyglottaafricana-Kanembu	kane1243		dog	2009	DOG		kè́rī	k e r iː
+136115	152270	polyglottaafricana-Kanembu	kane1243		dog	2009	DOG		kè́rī	k e r iː
+136139	152294	polyglottaafricana-Manga	mang1399		dog	2009	DOG		kè́rī	k e r iː
+136774	152929	wold-Kanuri	cent2050		dog	2009	DOG		kə́rì	k ɨ r i
+142832	158987	wold-Kanuri	cent2050		drink	1401	DRINK		njâ	n dʒ a
+146132	162287	polyglottaafricana-Kanembu	kane1243		dry	1398	DRY		n·gámdu	n g a m d u
+146133	162288	polyglottaafricana-Kanembu	kane1243		dry	1398	DRY		n·ámdṣi	n a m ɖʐ i
+146160	162315	polyglottaafricana-Manga	mang1399		dry	1398	DRY		n·gámdu	n g a m d u
+146442	162597	wold-Kanuri	cent2050		dry	1398	DRY		ngámdə́	n g a m d ɨ
+149214	165369	wold-Kanuri	cent2050		dust	2	DUST		bə́rbə̀r	b ɨ r b ɨ r
+151649	167804	polyglottaafricana-Kanembu	kane1243		ear	1247	EAR		súmō	s u m oː
+151650	167805	polyglottaafricana-Kanembu	kane1243		ear	1247	EAR		tsúmō	t s u m oː
+151674	167829	polyglottaafricana-Manga	mang1399		ear	1247	EAR		súmō	s u m oː
+152304	168459	wold-Kanuri	cent2050		ear	1247	EAR		sə́mò	s ɨ m o
+154773	170928	wold-Kanuri	cent2050		earthsoil	1228	EARTH (SOIL)		cídí	tʃ i d i
+157690	173848	wold-Kanuri	cent2050		eat	1336	EAT		bù	b u
+159466	175624	polyglottaafricana-Kanembu	kane1243		egg	744	EGG		n·gè́wèl	n g e w e l
+159467	175625	polyglottaafricana-Kanembu	kane1243		egg	744	EGG		n·gè́bèl	n g e b e l
+159491	175649	polyglottaafricana-Manga	mang1399		egg	744	EGG		n·gè́wèl	n g e w e l
+160086	176244	wold-Kanuri	cent2050		egg	744	EGG		ngə́wə́l	n g ɨ w ɨ l
+170051	186209	polyglottaafricana-Kanembu	kane1243		eye	1248	EYE		sim	s i m
+170052	186210	polyglottaafricana-Kanembu	kane1243		eye	1248	EYE		dṣim	ɖʐ i m
+170077	186235	polyglottaafricana-Manga	mang1399		eye	1248	EYE		sim	s i m
+170732	186890	wold-Kanuri	cent2050		eye	1248	EYE		shîm	ʃ i m
+174066	190225	polyglottaafricana-Kanembu	kane1243		fall	1280	FALL		u yūrúski	u + j uː r u s k i
+174067	190226	polyglottaafricana-Kanembu	kane1243		fall	1280	FALL		yíruskī	j i r u s k iː
+174091	190250	polyglottaafricana-Manga	mang1399		fall	1280	FALL		wu yū́ruskī	w u + j uː r u s k iː
+174268	190427	wold-Kanuri	cent2050		fall	1280	FALL		nzùrò	n z u r o
+176528	192687	wold-Kanuri	cent2050		far	1406	FAR		cíndə̀	tʃ i n d e
+180053	196212	polyglottaafricana-Kanembu	kane1243		father	1217	FATHER		bā́wa	b aː w a
+180054	196213	polyglottaafricana-Kanembu	kane1243		father	1217	FATHER		ḿbā	m̩ b aː
+180079	196238	polyglottaafricana-Manga	mang1399		father	1217	FATHER		báwa	b a w a
+180612	196771	wold-Kanuri	cent2050		father	1217	FATHER		bàwá	b a w a
+182726	198886	wold-Kanuri	cent2050		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		kàísə̀	k a i s e
+185509	201669	wold-Kanuri	cent2050		feather	1201	FEATHER		kùndúlì	k u n d u l i
+185510	201670	wold-Kanuri	cent2050		feather	1201	FEATHER		féfétò	f e f e t o
+187294	219947	polyglottaafricana-Kanembu	kane1243		fleshormeat	2615	FLESH OR MEAT		dā	d aː
+187295	219948	polyglottaafricana-Kanembu	kane1243		fleshormeat	2615	FLESH OR MEAT		dā	d aː
+187319	219972	polyglottaafricana-Manga	mang1399		fleshormeat	2615	FLESH OR MEAT		dā	d aː
+187683	220336	wold-Kanuri	cent2050		float	1574	FLOAT		kámbétə́	k a m b e t ɨ
+187684	220337	wold-Kanuri	cent2050		float	1574	FLOAT		mbátə́	m b a t ɨ
+189082	221735	wold-Kanuri	cent2050		flow	2003	FLOW		kàsò	k a s o
+190416	223069	wold-Kanuri	cent2050		flower	239	FLOWER		fə̀lé	f ɨ l e
+190417	223070	wold-Kanuri	cent2050		flower	239	FLOWER		kàmbîl	k a m b i l
+193558	226211	wold-Kanuri	cent2050		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		fàrtə́	f a r t ɨ
+194908	227561	wold-Kanuri	cent2050		fog	249	FOG		bàntə̀gə̀né	b a n t ɨ g ɨ n e
+196592	229245	polyglottaafricana-Kanembu	kane1243		foot	1301	FOOT		n·gā́bō ṣī́bē	n g aː b oː + ʂ iː b eː
+196593	229246	polyglottaafricana-Kanembu	kane1243		foot	1301	FOOT		n·gā́bū ṣī́bē	n g aː b uː + ʂ iː b eː
+196615	229268	polyglottaafricana-Manga	mang1399		foot	1301	FOOT		búṛō ṣī́bē	b u ɽ oː + ʂ iː b eː
+196940	229593	wold-Kanuri	cent2050		foot	1301	FOOT		shî	ʃ i
+199880	232533	polyglottaafricana-Kanembu	kane1243		forest	420	FOREST		kárāga	k a r aː g a
+199881	232534	polyglottaafricana-Kanembu	kane1243		forest	420	FOREST		kā́lin	k aː l i n
+199882	232535	polyglottaafricana-Kanembu	kane1243		forest	420	FOREST		kárāga	k a r aː g a
+199905	232558	polyglottaafricana-Manga	mang1399		forest	420	FOREST		dè́bōa	d e b oː a
+200233	232886	wold-Kanuri	cent2050		forest	420	FOREST		kàráà_sə́lə́m	k a r a a + s ɨ l ɨ m
+200234	232887	wold-Kanuri	cent2050		forest	420	FOREST		də̂r	d ɨ r
+202972	235625	polyglottaafricana-Kanembu	kane1243		four	1500	FOUR		dḗṛu	d eː ɽ u
+202973	235626	polyglottaafricana-Kanembu	kane1243		four	1500	FOUR		dḗṛè	d eː ɽ e
+202997	235650	polyglottaafricana-Manga	mang1399		four	1500	FOUR		dḗṛè	d eː ɽ e
+203375	236028	wold-Kanuri	cent2050		four	1500	FOUR		dìyáù	d i j a u
+204666	237319	wold-Kanuri	cent2050		freeze	1431	FREEZE		kə̀rtə́	k ɨ r t ɨ
+215076	247729	polyglottaafricana-Kanembu	kane1243		give	1447	GIVE		ndṣíski nírō	n ɖʐ i s k i + n i r oː
+215077	247730	polyglottaafricana-Kanembu	kane1243		give	1447	GIVE		ndṣískī	n ɖʐ i s k iː
+215100	247753	polyglottaafricana-Manga	mang1399		give	1447	GIVE		wu ndṣískī	w u + n ɖʐ i s k iː
+215695	248348	wold-Kanuri	cent2050		give	1447	GIVE		yìò	j i o
+221228	253884	polyglottaafricana-Kanembu	kane1243		good	1035	GOOD		ń·gala	ŋ g a l a
+221229	253885	polyglottaafricana-Kanembu	kane1243		good	1035	GOOD		ń·gela	ŋ g e l a
+221254	253910	polyglottaafricana-Manga	mang1399		good	1035	GOOD		ń·gala	ŋ g a l a
+221865	254521	wold-Kanuri	cent2050		good	1035	GOOD		kə̀jî	k ɨ dʒ i
+226723	259379	wold-Kanuri	cent2050		grass	606	GRASS		kàzêm	k a z e m
+229289	261945	wold-Kanuri	cent2050		green	1425	GREEN		kə̀lî	k ɨ l i
+234963	267619	polyglottaafricana-Kanembu	kane1243		hair	1040	HAIR		kándūli	k a n d uː l i
+234964	267620	polyglottaafricana-Kanembu	kane1243		hair	1040	HAIR		kúndalī	k u n d a l iː
+234989	267645	polyglottaafricana-Manga	mang1399		hair	1040	HAIR		gā́zi	g aː z i
+238805	271461	polyglottaafricana-Kanembu	kane1243		hand	1277	HAND		múskō	m u s k oː
+238806	271462	polyglottaafricana-Kanembu	kane1243		hand	1277	HAND		n·gā́bū múskōbē	n g aː b uː + m u s k oː b eː
+238828	271484	polyglottaafricana-Manga	mang1399		hand	1277	HAND		múskō	m u s k oː
+239223	271879	wold-Kanuri	cent2050		hand	1277	HAND		múskò	m u s k o
+242944	275601	wold-Kanuri	cent2050		he	1211	HE		shí	ʃ i
+244416	277073	polyglottaafricana-Kanembu	kane1243		head	1256	HEAD		kà́lā	k a l aː
+244417	277074	polyglottaafricana-Kanembu	kane1243		head	1256	HEAD		kélā	k e l aː
+244441	277098	polyglottaafricana-Manga	mang1399		head	1256	HEAD		kà́lā	k a l aː
+245120	277777	wold-Kanuri	cent2050		head	1256	HEAD		kə̀lâ	k ɨ l a
+247342	279999	polyglottaafricana-Kanembu	kane1243		hear	1408	HEAR		u pā́n·gi	u + p aː ŋ g i
+247343	280000	polyglottaafricana-Kanembu	kane1243		hear	1408	HEAR		pā́n·gī	p aː ŋ g iː
+247367	280024	polyglottaafricana-Manga	mang1399		hear	1408	HEAR		wu páskī	w u + p a s k iː
+247368	280025	polyglottaafricana-Manga	mang1399		hear	1408	HEAR		pā́nèski	p aː n e s k i
+247913	280570	wold-Kanuri	cent2050		hear	1408	HEAR		fàntə́	f a n t ɨ
+249261	281918	wold-Kanuri	cent2050		heart	1223	HEART		kárwù	k a r w u
+251401	284058	wold-Kanuri	cent2050		heavy	1210	HEAVY		kùrwówù	k u r w o w u
+255023	287682	wold-Kanuri	cent2050		here	136	HERE		nâ_ádə̀	n a + a d e
+261023	293683	wold-Kanuri	cent2050		hold	1448	HOLD		gòtə̀	g o t e
+269285	301945	wold-Kanuri	cent2050		how	1239	HOW		àbígǎìnyìn	a b i g a i ɲ i n
+271997	304657	wold-Kanuri	cent2050		hunt	1435	HUNT		bàrà	b a r a
+273446	306106	wold-Kanuri	cent2050		husband	1200	HUSBAND		kwâ	k w a
+275526	308186	wold-Kanuri	cent2050		i	1209	I		wú	w u
+275931	308591	wold-Kanuri	cent2050		ice	617	ICE		máfì	m a f i
+276959	309619	wold-Kanuri	cent2050		if	1459	IF		yà	j a
+278325	310985	wold-Kanuri	cent2050		in	1460	IN		-làn	l a n
+288339	320999	wold-Kanuri	cent2050		kill	1417	KILL		njèzò	n dʒ e z o
+294876	327536	wold-Kanuri	cent2050		knowsomething	1410	KNOW (SOMETHING)		nòtə́	n o t ɨ
+296480	329140	wold-Kanuri	cent2050		lake	624	LAKE		kùlúwù	k u l u w u
+299394	332054	polyglottaafricana-Kanembu	kane1243		laugh	1355	LAUGH		u yū́rèski	u + j uː r e s k i
+299395	332055	polyglottaafricana-Kanembu	kane1243		laugh	1355	LAUGH		yī́ruskī	j iː r u s k iː
+299419	332079	polyglottaafricana-Manga	mang1399		laugh	1355	LAUGH		wu yū́ruskī	w u + j uː r u s k iː
+299826	332486	wold-Kanuri	cent2050		laugh	1355	LAUGH		kàsúsù	k a s u s u
+302633	335293	polyglottaafricana-Kanembu	kane1243		leaf	628	LEAF		kā́lu	k aː l u
+302634	335294	polyglottaafricana-Kanembu	kane1243		leaf	628	LEAF		dṣáwāra	ɖʐ a w aː r a
+302635	335295	polyglottaafricana-Kanembu	kane1243		leaf	628	LEAF		kā́lu	k aː l u
+302659	335319	polyglottaafricana-Manga	mang1399		leaf	628	LEAF		dṣáwāra	ɖʐ a w aː r a
+303211	335871	wold-Kanuri	cent2050		leaf	628	LEAF		kálú	k a l u
+303212	335872	wold-Kanuri	cent2050		leaf	628	LEAF		lámbù	l a m b u
+305765	338425	wold-Kanuri	cent2050		left	244	LEFT		wòìlá	w o i l a
+306664	339324	polyglottaafricana-Kanembu	kane1243		leg	1297	LEG		ṣī	ʂ iː
+306665	339325	polyglottaafricana-Kanembu	kane1243		leg	1297	LEG		dṣī	ɖʐ iː
+306689	339349	polyglottaafricana-Manga	mang1399		leg	1297	LEG		ṣī	ʂ iː
+307095	339755	wold-Kanuri	cent2050		leg	1297	LEG		shî	ʃ i
+317685	350345	wold-Kanuri	cent2050		liver	1224	LIVER		kə̀máttə̀n	k ɨ m a t t ɨ n
+317686	350346	wold-Kanuri	cent2050		liver	1224	LIVER		dádámì	d a d a m i
+320737	353397	wold-Kanuri	cent2050		long	1203	LONG		kùrúwù	k u r u w u
+320738	353398	wold-Kanuri	cent2050		long	1203	LONG		dátə̀à	d a t ɨ a
+332954	365615	wold-Kanuri	cent2050		many	1198	MANY		ngə́wù	n g ɨ w u
+349577	382238	polyglottaafricana-Kanembu	kane1243		mother	1216	MOTHER		ī́ya	iː j a
+349578	382239	polyglottaafricana-Kanembu	kane1243		mother	1216	MOTHER		ī́ya	iː j a
+349603	382264	polyglottaafricana-Manga	mang1399		mother	1216	MOTHER		yā	j aː
+350177	382841	wold-Kanuri	cent2050		mother	1216	MOTHER		yâ	j a
+353895	386559	polyglottaafricana-Kanembu	kane1243		mouth	674	MOUTH		dṣī	ɖʐ iː
+353896	386560	polyglottaafricana-Kanembu	kane1243		mouth	674	MOUTH		kè́dṣī	k e ɖʐ iː
+353921	386585	polyglottaafricana-Manga	mang1399		mouth	674	MOUTH		dṣī	ɖʐ iː
+354517	387181	wold-Kanuri	cent2050		mouth	674	MOUTH		cî	tʃ i
+359347	392013	wold-Kanuri	cent2050		name	1405	NAME		cû	tʃ u
+360774	393440	wold-Kanuri	cent2050		narrow	1267	NARROW		zə́kkà	z ɨ k k a
+363648	396314	wold-Kanuri	cent2050		near	1942	NEAR		kàrə̂n	k a r ɨ n
+365194	397861	polyglottaafricana-Kanembu	kane1243		neck	1333	NECK		mū́di	m uː d i
+365195	397862	polyglottaafricana-Kanembu	kane1243		neck	1333	NECK		dábū	d a b uː
+365220	397887	polyglottaafricana-Manga	mang1399		neck	1333	NECK		múdī	m u d iː
+365792	398459	wold-Kanuri	cent2050		neck	1333	NECK		dáwú	d a w u
+369689	402356	wold-Kanuri	cent2050		new	1231	NEW		bə̀lîn	b ɨ l i n
+372033	404700	polyglottaafricana-Kanembu	kane1243		night	1233	NIGHT		bū́nē	b uː n eː
+372034	404701	polyglottaafricana-Kanembu	kane1243		night	1233	NIGHT		búnīe	b u n iː e
+372058	404725	polyglottaafricana-Manga	mang1399		night	1233	NIGHT		búnē	b u n eː
+372632	405299	wold-Kanuri	cent2050		night	1233	NIGHT		bə́né	b ɨ n e
+377853	410520	polyglottaafricana-Kanembu	kane1243		nose	1221	NOSE		kíndṣa	k i n ɖʐ a
+377854	410521	polyglottaafricana-Kanembu	kane1243		nose	1221	NOSE		kè́nza	k e n z a
+377878	410545	polyglottaafricana-Manga	mang1399		nose	1221	NOSE		kíndṣā	k i n ɖʐ aː
+378512	411179	wold-Kanuri	cent2050		nose	1221	NOSE		kə́nzà	k ɨ n z a
+379574	412241	wold-Kanuri	cent2050		not	1240	NOT		bâ	b a
+379575	412242	wold-Kanuri	cent2050		not	1240	NOT		gə̀nyí	g ɨ ɲ i
+383725	416392	polyglottaafricana-Kanembu	kane1243		old	1229	OLD		din	d i n
+383726	416393	polyglottaafricana-Kanembu	kane1243		old	1229	OLD		keā́ri	k e aː r i
+383751	416418	polyglottaafricana-Manga	mang1399		old	1229	OLD		din	d i n
+383967	416634	wold-Kanuri	cent2050		old	1229	OLD		cárì	tʃ a r i
+390130	422797	polyglottaafricana-Kanembu	kane1243		one	1493	ONE		láku	l a k u
+390131	422798	polyglottaafricana-Kanembu	kane1243		one	1493	ONE		lásga	l a s g a
+390155	422822	polyglottaafricana-Manga	mang1399		one	1493	ONE		lásgè	l a s g e
+390781	423448	wold-Kanuri	cent2050		one	1493	ONE		tìló	t i l o
+390782	423449	wold-Kanuri	cent2050		one	1493	ONE		fál	f a l
+390783	423450	wold-Kanuri	cent2050		one	1493	ONE		lókkù	l o k k u
+394040	426707	wold-Kanuri	cent2050		other	197	OTHER		gàdé	g a d e
+406921	439588	wold-Kanuri	cent2050		person	683	PERSON		kâm	k a m
+413975	446642	polyglottaafricana-Kanembu	kane1243		play	1413	PLAY		baskḗn·gi	b a s k eː n g i
+414210	446877	wold-Kanuri	cent2050		play	1413	PLAY		bìské	b i s k e
+421626	454293	wold-Kanuri	cent2050		pull	1455	PULL		ngə́rtə́	n g ɨ r t ɨ
+423295	455963	wold-Kanuri	cent2050		push	1452	PUSH		tə̀mbáltə́	t ɨ m b a l t ɨ
+433346	466014	wold-Kanuri	cent2050		red	156	RED		cìmé	tʃ i m e
+438714	471382	wold-Kanuri	cent2050		right	1019	RIGHT		kə̀mbùrám	k ɨ m b u r a m
+441751	474420	wold-Kanuri	cent2050		road	667	ROAD		záwál	z a w a l
+444808	477477	polyglottaafricana-Kanembu	kane1243		root	670	ROOT		kā́ri	k aː r i
+444809	477478	polyglottaafricana-Kanembu	kane1243		root	670	ROOT		kā́ri	k aː r i
+444832	477501	polyglottaafricana-Manga	mang1399		root	670	ROOT		kā́ri	k aː r i
+444833	477502	polyglottaafricana-Manga	mang1399		root	670	ROOT		góko	g o k o
+445399	478068	wold-Kanuri	cent2050		root	670	ROOT		fə́rtə̀	f ɨ r t e
+445400	478069	wold-Kanuri	cent2050		root	670	ROOT		jâr	dʒ a r
+446632	479301	polyglottaafricana-Kanembu	kane1243		rope	1218	ROPE		dṣē	ɖʐ eː
+446633	479302	polyglottaafricana-Kanembu	kane1243		rope	1218	ROPE		dṣī́e	ɖʐ iː e
+446656	479325	polyglottaafricana-Manga	mang1399		rope	1218	ROPE		dṣē	ɖʐ eː
+446993	479662	wold-Kanuri	cent2050		rope	1218	ROPE		jê	dʒ e
+448250	480919	wold-Kanuri	cent2050		rotten	1728	ROTTEN		mìstə́	m i s t ɨ
+450091	482760	wold-Kanuri	cent2050		rub	1449	RUB		cíntə́	tʃ i n t ɨ
+450092	482761	wold-Kanuri	cent2050		rub	1449	RUB		kákáktə́	k a k a k t ɨ
+454073	486742	polyglottaafricana-Kanembu	kane1243		salt	1274	SALT		mánda	m a n d a
+454074	486743	polyglottaafricana-Kanembu	kane1243		salt	1274	SALT		mánda	m a n d a
+454098	486767	polyglottaafricana-Manga	mang1399		salt	1274	SALT		mánda	m a n d a
+454483	487152	wold-Kanuri	cent2050		salt	1274	SALT		mándá	m a n d a
+456821	489490	polyglottaafricana-Kanembu	kane1243		sand	671	SAND		kayā́sa	k a j aː s a
+456822	489491	polyglottaafricana-Kanembu	kane1243		sand	671	SAND		tále	t a l e
+456845	489514	polyglottaafricana-Manga	mang1399		sand	671	SAND		dṣédi	ɖʐ e d i
+457402	490071	wold-Kanuri	cent2050		sand	671	SAND		césà	tʃ e s a
+457403	490072	wold-Kanuri	cent2050		sand	671	SAND		kàttî	k a t t i
+459986	492655	wold-Kanuri	cent2050		say	1458	SAY		nə̀	n e
+459987	492656	wold-Kanuri	cent2050		say	1458	SAY		gùltə́	g u l t ɨ
+462347	495016	wold-Kanuri	cent2050		scratch	1436	SCRATCH		gàmbò	g a m b o
+463623	496292	wold-Kanuri	cent2050		sea	1474	SEA		báhàr	b a h a r
+463624	496293	wold-Kanuri	cent2050		sea	1474	SEA		njî_kúrà	n dʒ i + k u r a
+465557	498227	polyglottaafricana-Kanembu	kane1243		see	1409	SEE		u rúski	u + r u s k i
+465558	498228	polyglottaafricana-Kanembu	kane1243		see	1409	SEE		rúskī	r u s k iː
+465582	498252	polyglottaafricana-Manga	mang1399		see	1409	SEE		wu rúskī	w u + r u s k iː
+466203	498873	wold-Kanuri	cent2050		see	1409	SEE		rò	r o
+467339	500009	wold-Kanuri	cent2050		seed	714	SEED		kùsúnyì	k u s u ɲ i
+472476	505147	wold-Kanuri	cent2050		sew	1457	SEW		dùtò	d u t o
+475516	508187	wold-Kanuri	cent2050		sharp	1396	SHARP		tímìà	t i m i a
+475517	508188	wold-Kanuri	cent2050		sharp	1396	SHARP		cóncón	tʃ o n tʃ o n
+482060	514732	wold-Kanuri	cent2050		short	1645	SHORT		kòrí	k o r i
+482061	514733	wold-Kanuri	cent2050		short	1645	SHORT		kàfúwù	k a f u w u
+488724	521396	wold-Kanuri	cent2050		sing	1261	SING		kàíyà_yétə́	k a i j a + j e t ɨ
+491371	524043	wold-Kanuri	cent2050		sit	1416	SIT		náptə́	n a p t ɨ
+497749	530421	wold-Kanuri	cent2050		sky	1732	SKY		sàmî	s a m i
+499754	532427	polyglottaafricana-Kanembu	kane1243		sleep	1585	SLEEP		u lḗnèskim	u + l eː n e s k i m
+499755	532428	polyglottaafricana-Kanembu	kane1243		sleep	1585	SLEEP		kè́nèm dískī	k e n e m + d i s k iː
+499779	532452	polyglottaafricana-Manga	mang1399		sleep	1585	SLEEP		wu lḗdèski	w u + l eː d e s k i
+500347	533020	wold-Kanuri	cent2050		sleep	1585	SLEEP		léttə́	l e t t ɨ
+503362	536036	polyglottaafricana-Kanembu	kane1243		small	1246	SMALL		ganá	g a n a
+503363	536037	polyglottaafricana-Kanembu	kane1243		small	1246	SMALL		gána	g a n a
+503389	536063	polyglottaafricana-Manga	mang1399		small	1246	SMALL		lā́ṛè	l aː ɽ e
+503390	536064	polyglottaafricana-Manga	mang1399		small	1246	SMALL		ganá	g a n a
+503989	536663	wold-Kanuri	cent2050		small	1246	SMALL		gàná	g a n a
+503990	536664	wold-Kanuri	cent2050		small	1246	SMALL		kòrí	k o r i
+503991	536665	wold-Kanuri	cent2050		small	1246	SMALL		kàbə́gə̀	k a b ɨ g e
+505867	538541	wold-Kanuri	cent2050		smellperceive	1586	SMELL (PERCEIVE)		yìntà	j i n t a
+507613	540289	polyglottaafricana-Kanembu	kane1243		smokeexhaust	778	SMOKE (EXHAUST)		kándṣē	k a n ɖʐ eː
+507614	540290	polyglottaafricana-Kanembu	kane1243		smokeexhaust	778	SMOKE (EXHAUST)		kántsei	k a n t s e i
+507637	540313	polyglottaafricana-Manga	mang1399		smokeexhaust	778	SMOKE (EXHAUST)		kandṣē	k a n ɖʐ eː
+508247	540923	wold-Kanuri	cent2050		smokeexhaust	778	SMOKE (EXHAUST)		kàngê	k a ŋ e
+509036	541712	wold-Kanuri	cent2050		smooth	1234	SMOOTH		sə́mə́l	s ɨ m ɨ l
+509037	541713	wold-Kanuri	cent2050		smooth	1234	SMOOTH		súlsúl	s u l s u l
+510315	542991	polyglottaafricana-Kanembu	kane1243		snake	730	SNAKE		kā́di	k aː d i
+510316	542992	polyglottaafricana-Kanembu	kane1243		snake	730	SNAKE		gádi	g a d i
+510339	543015	polyglottaafricana-Manga	mang1399		snake	730	SNAKE		kā́di	k aː d i
+510892	543568	wold-Kanuri	cent2050		snake	730	SNAKE		kádí	k a d i
+512507	545183	wold-Kanuri	cent2050		snow	784	SNOW		máfì	m a f i
+514301	546977	wold-Kanuri	cent2050		some	1241	SOME		lágá	l a g a
+524539	557215	wold-Kanuri	cent2050		spit	1440	SPIT		tə̀fátə́	t ɨ f a t ɨ
+524540	557216	wold-Kanuri	cent2050		spit	1440	SPIT		njírə́ttə́	n dʒ i r ɨ t t ɨ
+525588	558264	wold-Kanuri	cent2050		split	1437	SPLIT		fáltə́	f a l t ɨ
+528019	560695	wold-Kanuri	cent2050		squeeze	1414	SQUEEZE		ràttə́	r a t t ɨ
+530902	563578	wold-Kanuri	cent2050		stand	1442	STAND		dàtə́	d a t ɨ
+533269	565945	wold-Kanuri	cent2050		star	1430	STAR		shílówù	ʃ i l o w u
+539323	572000	polyglottaafricana-Kanembu	kane1243		stone	857	STONE		kọu	k o˞ u
+539324	572001	polyglottaafricana-Kanembu	kane1243		stone	857	STONE		kọu	k o˞ u
+539349	572026	polyglottaafricana-Manga	mang1399		stone	857	STONE		kọu	k o˞ u
+541525	574202	polyglottaafricana-Kanembu	kane1243		straight	1404	STRAIGHT		dṣók	ɖʐ o k
+541526	574203	polyglottaafricana-Kanembu	kane1243		straight	1404	STRAIGHT		sáṛè	s a ɽ e
+541548	574225	polyglottaafricana-Manga	mang1399		straight	1404	STRAIGHT		dṣék	ɖʐ e k
+541872	574549	wold-Kanuri	cent2050		straight	1404	STRAIGHT		cík	tʃ i k
+546569	579246	wold-Kanuri	cent2050		suck	1421	SUCK		mə̀láttə́	m ɨ l a t t ɨ
+546570	579247	wold-Kanuri	cent2050		suck	1421	SUCK		yəmbò	j ɨ m b o
+548721	581398	polyglottaafricana-Kanembu	kane1243		sun	1343	SUN		kau	k a u
+548722	581399	polyglottaafricana-Kanembu	kane1243		sun	1343	SUN		kè́n·gal	k e ŋ g a l
+548748	581425	polyglottaafricana-Manga	mang1399		sun	1343	SUN		kau	k a u
+549388	582065	wold-Kanuri	cent2050		sun	1343	SUN		kə́ngâl	k ɨ ŋ a l
+555818	588495	wold-Kanuri	cent2050		swim	1439	SWIM		kámbétə́	k a m b e t ɨ
+555819	588496	wold-Kanuri	cent2050		swim	1439	SWIM		kàmbétə́	k a m b e t ɨ
+558704	591381	wold-Kanuri	cent2050		tail	1220	TAIL		ngàwùrè	n g a w u r e
+567699	600378	wold-Kanuri	cent2050		that	78	THAT		túdù	t u d u
+569669	602348	wold-Kanuri	cent2050		there	1937	THERE		nâ_túdù	n a + t u d u
+571222	603901	wold-Kanuri	cent2050		they	817	THEY		tàndí	t a n d i
+572536	605215	wold-Kanuri	cent2050		thick	1244	THICK		gàjàjàk	g a dʒ a dʒ a k
+578781	611461	wold-Kanuri	cent2050		this	1214	THIS		ádə̀	a d e
+581036	613719	wold-Kanuri	cent2050		thou	1215	THOU		nyí	ɲ i
+583601	616286	polyglottaafricana-Kanembu	kane1243		three	492	THREE		yā́sgu	j aː s g u
+583602	616287	polyglottaafricana-Kanembu	kane1243		three	492	THREE		yā́sgè	j aː s g e
+583626	616311	polyglottaafricana-Manga	mang1399		three	492	THREE		yā́sgè	j aː s g e
+584036	616721	wold-Kanuri	cent2050		three	492	THREE		yàkkə́	j a k k ɨ
+586642	619327	wold-Kanuri	cent2050		throw	1456	THROW		gə̀btə́	g ɨ b t ɨ
+589901	622588	wold-Kanuri	cent2050		tie	1917	TIE		kúrtútə́	k u r t u t ɨ
+596762	629449	polyglottaafricana-Kanembu	kane1243		tongue	1205	TONGUE		tè́lam	t e l a m
+596763	629450	polyglottaafricana-Kanembu	kane1243		tongue	1205	TONGUE		tálām	t a l aː m
+596787	629474	polyglottaafricana-Manga	mang1399		tongue	1205	TONGUE		tè́lam	t e l a m
+597408	630095	wold-Kanuri	cent2050		tongue	1205	TONGUE		tə́làm	t ɨ l a m
+598937	631624	polyglottaafricana-Kanembu	kane1243		tooth	1380	TOOTH		tè́mī	t e m iː
+598938	631625	polyglottaafricana-Kanembu	kane1243		tooth	1380	TOOTH		tè́mī	t e m iː
+598962	631649	polyglottaafricana-Manga	mang1399		tooth	1380	TOOTH		tè́mī	t e m iː
+599590	632277	wold-Kanuri	cent2050		tooth	1380	TOOTH		tímì	t i m i
+599591	632278	wold-Kanuri	cent2050		tooth	1380	TOOTH		shélì	ʃ e l i
+603364	636051	polyglottaafricana-Kanembu	kane1243		tree	906	TREE		kè́sgā	k e s g aː
+603365	636052	polyglottaafricana-Kanembu	kane1243		tree	906	TREE		kè́sgā	k e s g aː
+603391	636078	polyglottaafricana-Manga	mang1399		tree	906	TREE		gè́sgā	g e s g aː
+603995	636682	wold-Kanuri	cent2050		tree	906	TREE		kə̀ská	k ɨ s k a
+607450	640137	wold-Kanuri	cent2050		turnaround	1444	TURN AROUND		káláktə́	k a l a k t ɨ
+611838	644525	polyglottaafricana-Kanembu	kane1243		two	1498	TWO		ndí	n d i
+611839	644526	polyglottaafricana-Kanembu	kane1243		two	1498	TWO		ndí	n d i
+611863	644550	polyglottaafricana-Manga	mang1399		two	1498	TWO		índi	i n d i
+612477	645164	wold-Kanuri	cent2050		two	1498	TWO		ndí	n d i
+621744	654432	wold-Kanuri	cent2050		vomit	1278	VOMIT		kə̀móló_fítə́	k ɨ m o l o + f i t ɨ
+621745	654433	wold-Kanuri	cent2050		vomit	1278	VOMIT		káláktə́	k a l a k t ɨ
+625525	678186	wold-Kanuri	cent2050		where	1237	WHERE		ndárân	n d a r a n
+627711	680372	polyglottaafricana-Kanembu	kane1243		white	1335	WHITE		bul	b u l
+627712	680373	polyglottaafricana-Kanembu	kane1243		white	1335	WHITE		búl	b u l
+627740	680401	polyglottaafricana-Manga	mang1399		white	1335	WHITE		bul	b u l
+628307	680968	wold-Kanuri	cent2050		white	1335	WHITE		bûl	b u l
+630510	683263	wold-Kanuri	cent2050		who	1235	WHO		ndú	n d u
+631915	684669	wold-Kanuri	cent2050		wide	1243	WIDE		fárán	f a r a n
+633324	686078	wold-Kanuri	cent2050		wife	1199	WIFE		kámú	k a m u
+635915	688669	wold-Kanuri	cent2050		wind	960	WIND		kàrwâ	k a r w a
+637960	690714	wold-Kanuri	cent2050		wing	1257	WING		féfétò	f e f e t o
+638631	691385	wold-Kanuri	cent2050		wipe	1454	WIPE		cìntà	tʃ i n t a
+640562	693317	polyglottaafricana-Kanembu	kane1243		woman	962	WOMAN		kā́mu	k aː m u
+640563	693318	polyglottaafricana-Kanembu	kane1243		woman	962	WOMAN		kā́mu	k aː m u
+640587	693342	polyglottaafricana-Manga	mang1399		woman	962	WOMAN		kā́mu	k aː m u
+641207	693962	wold-Kanuri	cent2050		woman	962	WOMAN		kámú	k a m u
+644767	697522	wold-Kanuri	cent2050		worm	1219	WORM		kùlí	k u l i
+648356	701111	wold-Kanuri	cent2050		year	1226	YEAR		sàgá	s a g a
+649073	702913	wold-Kanuri	cent2050		yellow	1424	YELLOW		kúrnùm	k u r n u m
+649074	702914	wold-Kanuri	cent2050		yellow	1424	YELLOW		càsá	tʃ a s a
+652120	705960	wold-Kanuri	cent2050		you	1213	YOU		nàndí	n a n d i

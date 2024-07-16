@@ -1,0 +1,953 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+8661	24812	chaconbaniwa-Aha	bani1255		bark	1204	BARK		likhi	l i kʰ i
+8754	24905	hubercolumbian-Curripaco	curr1243		bark	1204	BARK		haikoiija	h a i k o iː j a
+8761	24912	hubercolumbian-Giacone	tari1256		bark	1204	BARK		taapa	t aː p a
+8781	24932	hubercolumbian-Piapoco	piap1246		bark	1204	BARK		àiku íimami	a i k u + i i m a m i
+8785	24936	hubercolumbian-Resigaro	resi1247		bark	1204	BARK		daʔmí	d a ʔ m i
+8799	24950	hubercolumbian-Wayuu	wayu1243		bark	1204	BARK		sitá	s i t a
+8800	24951	hubercolumbian-Wayuu	wayu1243		bark	1204	BARK		sitá wunúʔu	s i t a + w u n u ʔ u
+8801	24952	hubercolumbian-Wayuu	wayu1243		bark	1204	BARK		stá	s t a
+8802	24953	hubercolumbian-Wayuu	wayu1243		bark	1204	BARK		stá si̵tá	s t a + s ɨ t a
+8803	24954	hubercolumbian-Wayuu	wayu1243		bark	1204	BARK		stá si̵atá	s t a + s ɨ a t a
+8808	24959	hubercolumbian-Yucuna	yucu1253		bark	1204	BARK		aʔawaná íima	a ʔ a w a n a + i i m a
+22541	38692	chaconbaniwa-Aha	bani1255		belly	1251	BELLY		lisrada	l i s ɾ a d a
+22708	38859	hubercolumbian-Cabiyari	cabi1241		belly	1251	BELLY		teere	t eː r e
+22709	38860	hubercolumbian-Cabiyari	cabi1241		belly	1251	BELLY		teere	t eː r e
+22726	38877	hubercolumbian-Curripaco	curr1243		belly	1251	BELLY		nowawa	n o w a w a
+22727	38878	hubercolumbian-Curripaco	curr1243		belly	1251	BELLY		nowawa	n o w a w a
+22742	38893	hubercolumbian-Giacone	tari1256		belly	1251	BELLY		piuaua	p i u a u a
+22743	38894	hubercolumbian-Giacone	tari1256		belly	1251	BELLY		nauáua	n a u a u a
+22744	38895	hubercolumbian-Giacone	tari1256		belly	1251	BELLY		nauáua keepinanipe	n a u a u a + k eː p i n a n i p e
+22778	38929	hubercolumbian-Piapoco	piap1246		belly	1251	BELLY		wadèe	w a d e e
+22779	38930	hubercolumbian-Piapoco	piap1246		belly	1251	BELLY		wadèe	w a d e e
+22780	38931	hubercolumbian-Piapoco	piap1246		belly	1251	BELLY		wadèe wadèe	w a d e e + w a d e e
+22787	38938	hubercolumbian-Resigaro	resi1247		belly	1251	BELLY		atʰéʔeemú	a tʰ e ʔ eː m u
+22788	38939	hubercolumbian-Resigaro	resi1247		belly	1251	BELLY		iiʔʃaú	iː ʔ ʃ a u
+22815	38966	hubercolumbian-Wayuu	wayu1243		belly	1251	BELLY		waléʔe	w a l e ʔ e
+22816	38967	hubercolumbian-Wayuu	wayu1243		belly	1251	BELLY		si̵léʔe	s ɨ l e ʔ e
+22817	38968	hubercolumbian-Wayuu	wayu1243		belly	1251	BELLY		si̵aléʔe	s ɨ a l e ʔ e
+22833	38984	hubercolumbian-Yucuna	yucu1253		belly	1251	BELLY		wawó	w a w o
+22834	38985	hubercolumbian-Yucuna	yucu1253		belly	1251	BELLY		huláhi	h u l a h i
+27593	43744	chaconbaniwa-Aha	bani1255		big	1202	BIG		makadali	m a k a d a l i
+27802	43953	hubercolumbian-Achagua	acha1250		big	1202	BIG		máanui	m a a n u i
+27809	43960	hubercolumbian-Cabiyari	cabi1241		big	1202	BIG		matakaka	m a t a k a k a
+27818	43969	hubercolumbian-Curripaco	curr1243		big	1202	BIG		makadali	m a k a d a l i
+27826	43977	hubercolumbian-Giacone	tari1256		big	1202	BIG		hanuite	h a n u i t e
+27848	43999	hubercolumbian-Piapoco	piap1246		big	1202	BIG		manuíri	m a n u i r i
+27849	44000	hubercolumbian-Piapoco	piap1246		big	1202	BIG		manuíri manuííri	m a n u i r i + m a n u i i r i
+27853	44004	hubercolumbian-Resigaro	resi1247		big	1202	BIG		ʤiʤa	dʒ i dʒ a
+27854	44005	hubercolumbian-Resigaro	resi1247		big	1202	BIG		kobú	k o b u
+27870	44021	hubercolumbian-Wayuu	wayu1243		big	1202	BIG		mijóʔu	m i j o ʔ u
+27871	44022	hubercolumbian-Wayuu	wayu1243		big	1202	BIG		mi̵leóʔu	m ɨ l e o ʔ u
+27876	44027	hubercolumbian-Yucuna	yucu1253		big	1202	BIG		kaxrúni	k a x r u n i
+27877	44028	hubercolumbian-Yucuna	yucu1253		big	1202	BIG		ɲóʔopohlo	ɲ o ʔ o p o h l o
+29996	46147	chaconbaniwa-Aha	bani1255		bird	937	BIRD		wiphiaro	w i pʰ i a ɾ o
+30199	46350	hubercolumbian-Achagua	acha1250		bird	937	BIRD		míʃiidu	m i ʃ iː d u
+30205	46356	hubercolumbian-Cabiyari	cabi1241		bird	937	BIRD		ʔupira	ʔ u p i r a
+30214	46365	hubercolumbian-Curripaco	curr1243		bird	937	BIRD		wipiaro	w i p i a r o
+30221	46372	hubercolumbian-Giacone	tari1256		bird	937	BIRD		képira	k e p i r a
+30241	46392	hubercolumbian-Piapoco	piap1246		bird	937	BIRD		màsibèe	m a s i b e e
+30242	46393	hubercolumbian-Piapoco	piap1246		bird	937	BIRD		kuìpìra	k u i p i r a
+30247	46398	hubercolumbian-Resigaro	resi1247		bird	937	BIRD		koʔpíidú	k o ʔ p i i d u
+30261	46412	hubercolumbian-Wayuu	wayu1243		bird	937	BIRD		wuʧíi	w u tʃ i i
+30269	46420	hubercolumbian-Yucuna	yucu1253		bird	937	BIRD		kupiraʔaphá	k u p i r a ʔ a p h a
+32326	48477	chaconbaniwa-Aha	bani1255		bite	1403	BITE		ihmoaketi	i mʰ o a k e t i
+32556	48707	hubercolumbian-Achagua	acha1250		bite	1403	BITE		jáamua	j a a m u a
+32571	48722	hubercolumbian-Curripaco	curr1243		bite	1403	BITE		pamuaka	p a m u a k a
+32579	48730	hubercolumbian-Giacone	tari1256		bite	1403	BITE		pahmuánipe	p a h m u a n i p e
+32596	48747	hubercolumbian-Piapoco	piap1246		bite	1403	BITE		waamíaka	w aː m i a k a
+32600	48751	hubercolumbian-Resigaro	resi1247		bite	1403	BITE		em̥ú	e m̥ u
+32614	48765	hubercolumbian-Wayuu	wayu1243		bite	1403	BITE		ohóttaa	o h o t t aː
+32619	48770	hubercolumbian-Yucuna	yucu1253		bite	1403	BITE		axmaʔakáhe	a x m a ʔ a k a h e
+34980	51131	chaconbaniwa-Aha	bani1255		black	163	BLACK		iːtadali	iː t a d a l i
+35157	51308	hubercolumbian-Achagua	acha1250		black	163	BLACK		kaʧáhulai	k a tʃ a h u l a i
+35165	51316	hubercolumbian-Cabiyari	cabi1241		black	163	BLACK		kewereka	k e w e r e k a
+35173	51324	hubercolumbian-Curripaco	curr1243		black	163	BLACK		itadali	i t a d a l i
+35182	51333	hubercolumbian-Giacone	tari1256		black	163	BLACK		kadáite	k a d a i t e
+35201	51352	hubercolumbian-Piapoco	piap1246		black	163	BLACK		kúulíiri	k u u l i i r i
+35202	51353	hubercolumbian-Piapoco	piap1246		black	163	BLACK		kúulíiri kúuliíri	k u u l i i r i + k u u l i i r i
+35206	51357	hubercolumbian-Resigaro	resi1247		black	163	BLACK		tsapʰóʔ	ts a pʰ o ʔ
+35221	51372	hubercolumbian-Wayuu	wayu1243		black	163	BLACK		mí̵tsiiasi̵	m ɨ ts iː a s ɨ
+35222	51373	hubercolumbian-Wayuu	wayu1243		black	163	BLACK		júuisi̵	j u u i s ɨ
+35227	51378	hubercolumbian-Yucuna	yucu1253		black	163	BLACK		kaméni	k a m e n i
+38403	54554	carvalhopurus-Apurina	apur1254		blood	946	BLOOD		-erẽka	e r ẽ k a
+38404	54555	carvalhopurus-Inapari	inap1242		blood	946	BLOOD		ɨráá-ti	ɨ r aː + t i
+38405	54556	carvalhopurus-Yine	yine1238		blood	946	BLOOD		hi-hraha	h i + h r a h a
+38414	54565	chaconbaniwa-Aha	bani1255		blood	946	BLOOD		liːrana	l iː ɾ a n a
+38572	54723	hubercolumbian-Achagua	acha1250		blood	946	BLOOD		íiʒai	i i ʒ a i
+38573	54724	hubercolumbian-Achagua	acha1250		blood	946	BLOOD		íʒanaa	i ʒ a n aː
+38578	54729	hubercolumbian-Cabiyari	cabi1241		blood	946	BLOOD		ʔiira	ʔ iː r a
+38586	54737	hubercolumbian-Curripaco	curr1243		blood	946	BLOOD		noirana	n o i r a n a
+38593	54744	hubercolumbian-Giacone	tari1256		blood	946	BLOOD		iíri	i i r i
+38594	54745	hubercolumbian-Giacone	tari1256		blood	946	BLOOD		iíre	i i r e
+38612	54763	hubercolumbian-Piapoco	piap1246		blood	946	BLOOD		wáiraná	w a i r a n a
+38613	54764	hubercolumbian-Piapoco	piap1246		blood	946	BLOOD		wáiraná waíraná	w a i r a n a + w a i r a n a
+38617	54768	hubercolumbian-Resigaro	resi1247		blood	946	BLOOD		iídú	i i d u
+38632	54783	hubercolumbian-Wayuu	wayu1243		blood	946	BLOOD		iʃá	i ʃ a
+38633	54784	hubercolumbian-Wayuu	wayu1243		blood	946	BLOOD		waʃá	w a ʃ a
+38639	54790	hubercolumbian-Yucuna	yucu1253		blood	946	BLOOD		wéera	w e e r a
+38640	54791	hubercolumbian-Yucuna	yucu1253		blood	946	BLOOD		wéera waíra	w e e r a + w a i r a
+46617	62768	carvalhopurus-Apurina	apur1254		bone	1394	BONE		-apɨ	a p ɨ
+46618	62769	carvalhopurus-Inapari	inap1242		bone	1394	BONE		apɨ-tí	a p ɨ + t i
+46619	62770	carvalhopurus-Yine	yine1238		bone	1394	BONE		hi-hapɨ	h i + h a p ɨ
+46628	62779	chaconbaniwa-Aha	bani1255		bone	1394	BONE		liapi	l i a p i
+46800	62951	hubercolumbian-Achagua	acha1250		bone	1394	BONE		ijáhi	i j a h i
+46801	62952	hubercolumbian-Achagua	acha1250		bone	1394	BONE		jáahi	j a a h i
+46802	62953	hubercolumbian-Achagua	acha1250		bone	1394	BONE		jáhidee	j a h i d eː
+46807	62958	hubercolumbian-Cabiyari	cabi1241		bone	1394	BONE		ʔiapi	ʔ i a p i
+46815	62966	hubercolumbian-Curripaco	curr1243		bone	1394	BONE		noapi	n o a p i
+46824	62975	hubercolumbian-Giacone	tari1256		bone	1394	BONE		ɲaapi	ɲ aː p i
+46825	62976	hubercolumbian-Giacone	tari1256		bone	1394	BONE		jaapi	j aː p i
+46843	62994	hubercolumbian-Piapoco	piap1246		bone	1394	BONE		wáapi	w a a p i
+46844	62995	hubercolumbian-Piapoco	piap1246		bone	1394	BONE		wáapi waápi	w a a p i + w a a p i
+46848	62999	hubercolumbian-Resigaro	resi1247		bone	1394	BONE		aápí	a a p i
+46863	63014	hubercolumbian-Wayuu	wayu1243		bone	1394	BONE		wéipi̵se	w e i p ɨ s e
+46864	63015	hubercolumbian-Wayuu	wayu1243		bone	1394	BONE		wéimi̵se	w e i m ɨ s e
+46869	63020	hubercolumbian-Yucuna	yucu1253		bone	1394	BONE		wepʰína	w e pʰ i n a
+56723	72876	carvalhopurus-Apurina	apur1254		breast	1402	BREAST		-tenɨ	t e n ɨ
+56724	72877	carvalhopurus-Apurina	apur1254		breast	1402	BREAST		-tenɨ-kɨ	t e n ɨ + k ɨ
+56725	72878	carvalhopurus-Inapari	inap1242		breast	1402	BREAST		-ʧini	tʃ i n i
+56726	72879	carvalhopurus-Inapari	inap1242		breast	1402	BREAST		ʧiní-hɨ-ti	tʃ i n i + h ɨ + t i
+56727	72880	carvalhopurus-Yine	yine1238		breast	1402	BREAST		tnɨ-ʧi	t n ɨ + tʃ i
+56895	73048	hubercolumbian-Achagua	acha1250		breast	1402	BREAST		íini	i i n i
+56910	73063	hubercolumbian-Curripaco	curr1243		breast	1402	BREAST		ruiini	r u iː n i
+56933	73086	hubercolumbian-Piapoco	piap1246		breast	1402	BREAST		wàini	w a i n i
+56934	73087	hubercolumbian-Piapoco	piap1246		breast	1402	BREAST		wàini waìni	w a i n i + w a i n i
+56938	73091	hubercolumbian-Resigaro	resi1247		breast	1402	BREAST		ihnímú	i h n i m u
+56951	73104	hubercolumbian-Wayuu	wayu1243		breast	1402	BREAST		waʧíra	w a tʃ i r a
+56956	73109	hubercolumbian-Yucuna	yucu1253		breast	1402	BREAST		waʧuʔuʧúre	w a tʃ u ʔ u tʃ u r e
+64273	80426	chaconbaniwa-Aha	bani1255		burn	2102	BURN		imaitakada	i m a i t a k a d a
+64340	80493	hubercolumbian-Achagua	acha1250		burn	2102	BURN		éma	e m a
+64350	80503	hubercolumbian-Cabiyari	cabi1241		burn	2102	BURN		kahemaa	k a h e m aː
+64361	80514	hubercolumbian-Curripaco	curr1243		burn	2102	BURN		pamai̵taka	p a m a ɨ t a k a
+64370	80523	hubercolumbian-Giacone	tari1256		burn	2102	BURN		damánipe	d a m a n i p e
+64398	80551	hubercolumbian-Piapoco	piap1246		burn	2102	BURN		jeemákawa	j eː m a k a w a
+64403	80556	hubercolumbian-Resigaro	resi1247		burn	2102	BURN		ketsʰe ʤú	k e tsʰ e + dʒ u
+64426	80579	hubercolumbian-Wayuu	wayu1243		burn	2102	BURN		hotáa	h o t a a
+64427	80580	hubercolumbian-Wayuu	wayu1243		burn	2102	BURN		ʧuwátaa	tʃ u w a t aː
+64434	80587	hubercolumbian-Yucuna	yucu1253		burn	2102	BURN		káraʔakaho	k a r a ʔ a k a h o
+91300	107453	chaconbaniwa-Aha	bani1255		cloud	1489	CLOUD		iːja	iː j a
+91512	107665	hubercolumbian-Achagua	acha1250		cloud	1489	CLOUD		sáanai	s a a n a i
+91518	107671	hubercolumbian-Cabiyari	cabi1241		cloud	1489	CLOUD		aakhe	aː k h e
+91524	107677	hubercolumbian-Curripaco	curr1243		cloud	1489	CLOUD		halédali	h a l e d a l i
+91550	107703	hubercolumbian-Piapoco	piap1246		cloud	1489	CLOUD		akalèe	a k a l e e
+91555	107708	hubercolumbian-Resigaro	resi1247		cloud	1489	CLOUD		iítsʰú	i i tsʰ u
+91568	107721	hubercolumbian-Wayuu	wayu1243		cloud	1489	CLOUD		sirúma	s i r u m a
+91573	107726	hubercolumbian-Yucuna	yucu1253		cloud	1489	CLOUD		húuni suwákaʔala	h u u n i + s u w a k a ʔ a l a
+94883	111036	carvalhopurus-Apurina	apur1254		cold	1287	COLD		-ʧĩkare	tʃ ĩ k a r e
+94884	111037	carvalhopurus-Apurina	apur1254		cold	1287	COLD		ka-ʧĩka-re-rɨ	k a + tʃ ĩ k a + r e + r ɨ
+94885	111038	carvalhopurus-Yine	yine1238		cold	1287	COLD		ka-ʧikle-rɨ	k a + tʃ i k l e + r ɨ
+94895	111048	chaconbaniwa-Aha	bani1255		cold	1287	COLD		hape	h a p e
+95064	111217	hubercolumbian-Achagua	acha1250		cold	1287	COLD		húsua	h u s u a
+95085	111238	hubercolumbian-Curripaco	curr1243		cold	1287	COLD		painhetaka	p a i n h e t a k a
+95116	111269	hubercolumbian-Piapoco	piap1246		cold	1287	COLD		wakiríaka	w a k i r i a k a
+95120	111273	hubercolumbian-Resigaro	resi1247		cold	1287	COLD		ɲoi kʰú	ɲ o i + kʰ u
+95135	111288	hubercolumbian-Wayuu	wayu1243		cold	1287	COLD		alúuhaa	a l u u h aː
+95136	111289	hubercolumbian-Wayuu	wayu1243		cold	1287	COLD		olójohoo	o l o j o h oː
+95137	111290	hubercolumbian-Wayuu	wayu1243		cold	1287	COLD		óolohoo	o o l o h oː
+95146	111299	hubercolumbian-Yucuna	yucu1253		cold	1287	COLD		toxroʔokáhe	t o x r o ʔ o k a h e
+98500	114653	carvalhopurus-Apurina	apur1254		come	1446	COME		-ɨna	ɨ n a
+98501	114654	carvalhopurus-Inapari	inap1242		come	1446	COME		r-ɨna-ma	r + ɨ n a + m a
+98502	114655	carvalhopurus-Yine	yine1238		come	1446	COME		r-ɨna	r + ɨ n a
+98511	114664	chaconbaniwa-Aha	bani1255		come	1446	COME		inoketi	i n o k e t i
+98742	114895	hubercolumbian-Achagua	acha1250		come	1446	COME		íinu	i i n u
+98756	114909	hubercolumbian-Curripaco	curr1243		come	1446	COME		panoka	p a n o k a
+98764	114917	hubercolumbian-Giacone	tari1256		come	1446	COME		linunípe	l i n u n i p e
+98765	114918	hubercolumbian-Giacone	tari1256		come	1446	COME		liukánipe	l i u k a n i p e
+98786	114939	hubercolumbian-Piapoco	piap1246		come	1446	COME		wàanàaka	w a a n a a k a
+98790	114943	hubercolumbian-Resigaro	resi1247		come	1446	COME		tsaʔnú	ts a ʔ n u
+98804	114957	hubercolumbian-Wayuu	wayu1243		come	1446	COME		ántaa	a n t aː
+98809	114962	hubercolumbian-Yucuna	yucu1253		come	1446	COME		waíʧa	w a i tʃ a
+126746	142901	carvalhopurus-Apurina	apur1254		die	1494	DIE		ɨpɨ̃-pe	ɨ p ɨ̃ + p e
+126747	142902	carvalhopurus-Inapari	inap1242		die	1494	DIE		r-ɨpɨná-ma	r + ɨ p ɨ n a + m a
+126748	142903	carvalhopurus-Yine	yine1238		die	1494	DIE		hipna-lɨ	h i p n a + l ɨ
+126757	142912	chaconbaniwa-Aha	bani1255		die	1494	DIE		iːjamikada	iː j a m i k a d a
+126948	143103	hubercolumbian-Achagua	acha1250		die	1494	DIE		máanalijii	m a a n a l i j iː
+126966	143121	hubercolumbian-Curripaco	curr1243		die	1494	DIE		majami	m a j a m i
+126975	143130	hubercolumbian-Giacone	tari1256		die	1494	DIE		nohá nujámini	n o h a + n u j a m i n i
+126996	143151	hubercolumbian-Piapoco	piap1246		die	1494	DIE		wéetákawa	w e e t a k a w a
+127000	143155	hubercolumbian-Resigaro	resi1247		die	1494	DIE		kainée ʤú	k a i n e e + dʒ u
+127020	143175	hubercolumbian-Wayuu	wayu1243		die	1494	DIE		óuktaa	o u k t aː
+127021	143176	hubercolumbian-Wayuu	wayu1243		die	1494	DIE		óʔutaa	o ʔ u t aː
+127027	143182	hubercolumbian-Yucuna	yucu1253		die	1494	DIE		takaʔakáhe	t a k a ʔ a k a h e
+135335	151490	chaconbaniwa-Aha	bani1255		dog	2009	DOG		tsiːno	ts iː n o
+135516	151671	hubercolumbian-Achagua	acha1250		dog	2009	DOG		áuli	a u l i
+135521	151676	hubercolumbian-Cabiyari	cabi1241		dog	2009	DOG		ʧaawi	tʃ aː w i
+135531	151686	hubercolumbian-Curripaco	curr1243		dog	2009	DOG		tsino	ts i n o
+135555	151710	hubercolumbian-Piapoco	piap1246		dog	2009	DOG		áuli	a u l i
+135559	151714	hubercolumbian-Resigaro	resi1247		dog	2009	DOG		íiní	i i n i
+135574	151729	hubercolumbian-Wayuu	wayu1243		dog	2009	DOG		erí̵	e r ɨ
+135579	151734	hubercolumbian-Yucuna	yucu1253		dog	2009	DOG		jáawi pirákána	j a a w i + p i r a k a n a
+141801	157956	chaconbaniwa-Aha	bani1255		drink	1401	DRINK		iraketi	i ɾ a k e t i
+141981	158136	hubercolumbian-Achagua	acha1250		drink	1401	DRINK		íʒa	i ʒ a
+141988	158143	hubercolumbian-Cabiyari	cabi1241		drink	1401	DRINK		ila	i l a
+141996	158151	hubercolumbian-Curripaco	curr1243		drink	1401	DRINK		pairaka	p a i r a k a
+142003	158158	hubercolumbian-Giacone	tari1256		drink	1401	DRINK		pairánipe	p a i r a n i p e
+142004	158159	hubercolumbian-Giacone	tari1256		drink	1401	DRINK		nohá nuirani	n o h a + n u i r a n i
+142022	158177	hubercolumbian-Piapoco	piap1246		drink	1401	DRINK		wàiraka	w a i r a k a
+142023	158178	hubercolumbian-Piapoco	piap1246		drink	1401	DRINK		wàiraka waìraka	w a i r a k a + w a i r a k a
+142027	158182	hubercolumbian-Resigaro	resi1247		drink	1401	DRINK		iʔdú	i ʔ d u
+142042	158197	hubercolumbian-Wayuu	wayu1243		drink	1401	DRINK		asáa	a s a a
+142047	158202	hubercolumbian-Yucuna	yucu1253		drink	1401	DRINK		iʔirakáhe	i ʔ i r a k a h e
+145422	161577	carvalhopurus-Inapari	inap1242		dry	1398	DRY		puperí-má-ri	p u p e r i + m a + r i
+145423	161578	carvalhopurus-Yine	yine1238		dry	1398	DRY		popri-ri	p o p r i + r i
+145432	161587	chaconbaniwa-Aha	bani1255		dry	1398	DRY		meːtadali	m eː t a d a l i
+145624	161779	hubercolumbian-Achagua	acha1250		dry	1398	DRY		máakaʒai	m a a k a ʒ a i
+145625	161780	hubercolumbian-Achagua	acha1250		dry	1398	DRY		míʃii	m i ʃ iː
+145631	161786	hubercolumbian-Cabiyari	cabi1241		dry	1398	DRY		kaukhe	k a u k h e
+145639	161794	hubercolumbian-Curripaco	curr1243		dry	1398	DRY		metadali	m e t a d a l i
+145647	161802	hubercolumbian-Giacone	tari1256		dry	1398	DRY		maakarana	m aː k a r a n a
+145667	161822	hubercolumbian-Piapoco	piap1246		dry	1398	DRY		ʧuìri	tʃ u i r i
+145668	161823	hubercolumbian-Piapoco	piap1246		dry	1398	DRY		ʧuìri ʧuìíri	tʃ u i r i + tʃ u i i r i
+145672	161827	hubercolumbian-Resigaro	resi1247		dry	1398	DRY		makádú	m a k a d u
+145688	161843	hubercolumbian-Wayuu	wayu1243		dry	1398	DRY		hosósi̵	h o s o s ɨ
+145693	161848	hubercolumbian-Yucuna	yucu1253		dry	1398	DRY		makaxréni	m a k a x r e n i
+150889	167044	chaconbaniwa-Aha	bani1255		ear	1247	EAR		lieni	l i e n i
+151056	167211	hubercolumbian-Achagua	acha1250		ear	1247	EAR		wíba	w i b a
+151061	167216	hubercolumbian-Cabiyari	cabi1241		ear	1247	EAR		ʔui	ʔ u i
+151069	167224	hubercolumbian-Curripaco	curr1243		ear	1247	EAR		noeni	n o e n i
+151077	167232	hubercolumbian-Giacone	tari1256		ear	1247	EAR		uchéni	u c h e n i
+151095	167250	hubercolumbian-Piapoco	piap1246		ear	1247	EAR		wàuwi	w a u w i
+151096	167251	hubercolumbian-Piapoco	piap1246		ear	1247	EAR		wàuwi waùwi	w a u w i + w a u w i
+151100	167255	hubercolumbian-Resigaro	resi1247		ear	1247	EAR		henákó	h e n a k o
+151115	167270	hubercolumbian-Wayuu	wayu1243		ear	1247	EAR		waʧéʔe	w a tʃ e ʔ e
+151120	167275	hubercolumbian-Yucuna	yucu1253		ear	1247	EAR		weʔexwí	w e ʔ e x w i
+151121	167276	hubercolumbian-Yucuna	yucu1253		ear	1247	EAR		weʔexwí waiʔixwí	w e ʔ e x w i + w a i ʔ i x w i
+153883	170038	chaconbaniwa-Aha	bani1255		earthsoil	1228	EARTH (SOIL)		hiːpai	h iː p a i
+153959	170114	hubercolumbian-Achagua	acha1250		earthsoil	1228	EARTH (SOIL)		káinabi	k a i n a b i
+153964	170119	hubercolumbian-Cabiyari	cabi1241		earthsoil	1228	EARTH (SOIL)		taakali	t aː k a l i
+153975	170130	hubercolumbian-Curripaco	curr1243		earthsoil	1228	EARTH (SOIL)		hiipai	h iː p a i
+153984	170139	hubercolumbian-Giacone	tari1256		earthsoil	1228	EARTH (SOIL)		ihípai	i h i p a i
+154006	170161	hubercolumbian-Piapoco	piap1246		earthsoil	1228	EARTH (SOIL)		káli	k a l i
+154007	170162	hubercolumbian-Piapoco	piap1246		earthsoil	1228	EARTH (SOIL)		ibái	i b a i
+154013	170168	hubercolumbian-Resigaro	resi1247		earthsoil	1228	EARTH (SOIL)		hípohí	h i p o h i
+154036	170191	hubercolumbian-Wayuu	wayu1243		earthsoil	1228	EARTH (SOIL)		má	m a
+154037	170192	hubercolumbian-Wayuu	wayu1243		earthsoil	1228	EARTH (SOIL)		mmá	m m a
+154038	170193	hubercolumbian-Wayuu	wayu1243		earthsoil	1228	EARTH (SOIL)		wóumain	w o u m a i n
+154043	170198	hubercolumbian-Yucuna	yucu1253		earthsoil	1228	EARTH (SOIL)		teʔerí	t e ʔ e r i
+156353	172508	carvalhopurus-Apurina	apur1254		eat	1336	EAT		-ɲika	ɲ i k a
+156354	172509	carvalhopurus-Inapari	inap1242		eat	1336	EAT		i-niʔá-ma	i + n i ʔ a + m a
+156355	172510	carvalhopurus-Yine	yine1238		eat	1336	EAT		-nika	n i k a
+156364	172519	chaconbaniwa-Aha	bani1255		eat	1336	EAT		ihñaketi	i ɲʰ a k e t i
+156555	172710	hubercolumbian-Achagua	acha1250		eat	1336	EAT		íja	i j a
+156574	172729	hubercolumbian-Curripaco	curr1243		eat	1336	EAT		painhaka	p a i n h a k a
+156586	172741	hubercolumbian-Giacone	tari1256		eat	1336	EAT		pahianípe	p a h i a n i p e
+156611	172766	hubercolumbian-Piapoco	piap1246		eat	1336	EAT		wajáaka	w a j a a k a
+156612	172767	hubercolumbian-Piapoco	piap1246		eat	1336	EAT		wajáaka wajáaka	w a j a a k a + w a j a a k a
+156617	172772	hubercolumbian-Resigaro	resi1247		eat	1336	EAT		aʔmitú	a ʔ m i t u
+156631	172786	hubercolumbian-Wayuu	wayu1243		eat	1336	EAT		ekáa	e k a a
+156645	172800	hubercolumbian-Yucuna	yucu1253		eat	1336	EAT		axnákáhe	a x n a k a h e
+158738	174896	carvalhopurus-Apurina	apur1254		egg	744	EGG		nakɨ	n a k ɨ
+158739	174897	carvalhopurus-Inapari	inap1242		egg	744	EGG		a-nahɨ-rɨ́	a + n a h ɨ + r ɨ
+158740	174898	carvalhopurus-Yine	yine1238		egg	744	EGG		hi-naçi	h i + n a ç i
+158749	174907	chaconbaniwa-Aha	bani1255		egg	744	EGG		liefe	l i e f e
+158892	175050	hubercolumbian-Achagua	acha1250		egg	744	EGG		éewiʃi	e e w i ʃ i
+158893	175051	hubercolumbian-Achagua	acha1250		egg	744	EGG		éewi	e e w i
+158899	175057	hubercolumbian-Cabiyari	cabi1241		egg	744	EGG		ʔiohe	ʔ i o h e
+158908	175066	hubercolumbian-Curripaco	curr1243		egg	744	EGG		kuamefe	k u a m e f e
+158915	175073	hubercolumbian-Giacone	tari1256		egg	744	EGG		lidiéve	l i d i e v e
+158916	175074	hubercolumbian-Giacone	tari1256		egg	744	EGG		karaka diéve	k a r a k a + d i e v e
+158917	175075	hubercolumbian-Giacone	tari1256		egg	744	EGG		iíkuli lidiéve	i i k u l i + l i d i e v e
+158934	175092	hubercolumbian-Piapoco	piap1246		egg	744	EGG		jéewé	j e e w e
+158935	175093	hubercolumbian-Piapoco	piap1246		egg	744	EGG		jéewé iéwé	j e e w e + i e w e
+158939	175097	hubercolumbian-Resigaro	resi1247		egg	744	EGG		eéβeú	e e β e u
+158953	175111	hubercolumbian-Wayuu	wayu1243		egg	744	EGG		ʃuʃúku	ʃ u ʃ u k u
+158954	175112	hubercolumbian-Wayuu	wayu1243		egg	744	EGG		si̵ʃúku	s ɨ ʃ u k u
+158959	175117	hubercolumbian-Yucuna	yucu1253		egg	744	EGG		exwéhi	e x w e h i
+169258	185416	carvalhopurus-Apurina	apur1254		eye	1248	EYE		-okɨ	o k ɨ
+169259	185417	carvalhopurus-Inapari	inap1242		eye	1248	EYE		ohɨ-tí	o h ɨ + t i
+169260	185418	carvalhopurus-Yine	yine1238		eye	1248	EYE		hi-hoçi	h i + h o ç i
+169270	185428	chaconbaniwa-Aha	bani1255		eye	1248	EYE		lithi	l i tʰ i
+169460	185618	hubercolumbian-Achagua	acha1250		eye	1248	EYE		tuí	t u i
+169467	185625	hubercolumbian-Cabiyari	cabi1241		eye	1248	EYE		thu	t h u
+169476	185634	hubercolumbian-Curripaco	curr1243		eye	1248	EYE		noti	n o t i
+169483	185641	hubercolumbian-Giacone	tari1256		eye	1248	EYE		uatida	u a t i d a
+169501	185659	hubercolumbian-Piapoco	piap1246		eye	1248	EYE		watuí	w a t u i
+169505	185663	hubercolumbian-Resigaro	resi1247		eye	1248	EYE		ín̥iú	i n̥ i u
+169519	185677	hubercolumbian-Wayuu	wayu1243		eye	1248	EYE		woʔú	w o ʔ u
+169520	185678	hubercolumbian-Wayuu	wayu1243		eye	1248	EYE		woʔú waoʔu	w o ʔ u + w a o ʔ u
+169525	185683	hubercolumbian-Yucuna	yucu1253		eye	1248	EYE		wexlú	w e x l u
+169526	185684	hubercolumbian-Yucuna	yucu1253		eye	1248	EYE		wexlú waixlú	w e x l u + w a i x l u
+181955	198115	carvalhopurus-Apurina	apur1254		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ĩĩ	ĩː
+181956	198116	carvalhopurus-Yine	yine1238		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ç-hi-rɨ	ç + h i + r ɨ
+181957	198117	chaconbaniwa-Aha	bani1255		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		liːti	l iː t i
+184760	200920	chaconbaniwa-Aha	bani1255		feather	1201	FEATHER		liːo	l iː o
+184798	200958	hubercolumbian-Achagua	acha1250		feather	1201	FEATHER		paláatuna	p a l a a t u n a
+184811	200971	hubercolumbian-Curripaco	curr1243		feather	1201	FEATHER		deri	d e r i
+184818	200978	hubercolumbian-Giacone	tari1256		feather	1201	FEATHER		deéri	d e e r i
+184837	200997	hubercolumbian-Piapoco	piap1246		feather	1201	FEATHER		palátuna	p a l a t u n a
+184841	201001	hubercolumbian-Resigaro	resi1247		feather	1201	FEATHER		ʃakooʔgíʔó	ʃ a k oː ʔ g i ʔ o
+184855	201015	hubercolumbian-Wayuu	wayu1243		feather	1201	FEATHER		pi̵láʔana	p ɨ l a ʔ a n a
+184860	201020	hubercolumbian-Yucuna	yucu1253		feather	1201	FEATHER		páaru wáani	p a a r u + w a a n i
+187054	219707	chaconbaniwa-Aha	bani1255		fleshormeat	2615	FLESH OR MEAT		liːpe	l iː p e
+187125	219778	hubercolumbian-Achagua	acha1250		fleshormeat	2615	FLESH OR MEAT		íinaa	i i n aː
+187131	219784	hubercolumbian-Cabiyari	cabi1241		fleshormeat	2615	FLESH OR MEAT		ʔii	ʔ iː
+187139	219792	hubercolumbian-Curripaco	curr1243		fleshormeat	2615	FLESH OR MEAT		liipe	l iː p e
+187148	219801	hubercolumbian-Giacone	tari1256		fleshormeat	2615	FLESH OR MEAT		dípe	d i p e
+187149	219802	hubercolumbian-Giacone	tari1256		fleshormeat	2615	FLESH OR MEAT		liipe	l iː p e
+187169	219822	hubercolumbian-Piapoco	piap1246		fleshormeat	2615	FLESH OR MEAT		wainá	w a i n a
+187170	219823	hubercolumbian-Piapoco	piap1246		fleshormeat	2615	FLESH OR MEAT		wainá wainá	w a i n a + w a i n a
+187174	219827	hubercolumbian-Resigaro	resi1247		fleshormeat	2615	FLESH OR MEAT		gíʔí	g i ʔ i
+187189	219842	hubercolumbian-Wayuu	wayu1243		fleshormeat	2615	FLESH OR MEAT		ʃiʔirúku	ʃ i ʔ i r u k u
+187190	219843	hubercolumbian-Wayuu	wayu1243		fleshormeat	2615	FLESH OR MEAT		asála	a s a l a
+187199	219852	hubercolumbian-Yucuna	yucu1253		fleshormeat	2615	FLESH OR MEAT		iʔíhi	i ʔ i h i
+187200	219853	hubercolumbian-Yucuna	yucu1253		fleshormeat	2615	FLESH OR MEAT		iʔímihi	i ʔ i m i h i
+192585	225238	chaconbaniwa-Aha	bani1255		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		jaːraketi	j aː ɾ a k e t i
+192756	225409	hubercolumbian-Achagua	acha1250		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		jaaʒau	j aː ʒ a u
+192769	225422	hubercolumbian-Curripaco	curr1243		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		parao	p a r a o
+192797	225450	hubercolumbian-Piapoco	piap1246		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		wáalakawa	w a a l a k a w a
+192801	225454	hubercolumbian-Resigaro	resi1247		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		adú	a d u
+192814	225467	hubercolumbian-Wayuu	wayu1243		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		awátaa	a w a t aː
+192819	225472	hubercolumbian-Yucuna	yucu1253		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ahákahe	a h a k a h e
+192820	225473	hubercolumbian-Yucuna	yucu1253		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		axrákahe	a x r a k a h e
+195899	228552	carvalhopurus-Apurina	apur1254		foot	1301	FOOT		-kiti	k i t i
+195900	228553	carvalhopurus-Inapari	inap1242		foot	1301	FOOT		hiʧí-pa-ti	h i tʃ i + p a + t i
+195901	228554	carvalhopurus-Yine	yine1238		foot	1301	FOOT		hi-çici	h i + ç i tʃ i
+195910	228563	chaconbaniwa-Aha	bani1255		foot	1301	FOOT		liːpa	l iː p a
+196062	228715	hubercolumbian-Achagua	acha1250		foot	1301	FOOT		íiba	i i b a
+196068	228721	hubercolumbian-Cabiyari	cabi1241		foot	1301	FOOT		hiipa	h iː p a
+196076	228729	hubercolumbian-Curripaco	curr1243		foot	1301	FOOT		noiipa	n o iː p a
+196084	228737	hubercolumbian-Giacone	tari1256		foot	1301	FOOT		uehépama	u e h e p a m a
+196102	228755	hubercolumbian-Piapoco	piap1246		foot	1301	FOOT		wàabàli	w a a b a l i
+196103	228756	hubercolumbian-Piapoco	piap1246		foot	1301	FOOT		wàabàli waàbàli	w a a b a l i + w a a b a l i
+196107	228760	hubercolumbian-Resigaro	resi1247		foot	1301	FOOT		hiiʔpú	h iː ʔ p u
+196121	228774	hubercolumbian-Wayuu	wayu1243		foot	1301	FOOT		wóʔui	w o ʔ u i
+196122	228775	hubercolumbian-Wayuu	wayu1243		foot	1301	FOOT		wóʔui waóʔui	w o ʔ u i + w a o ʔ u i
+196127	228780	hubercolumbian-Yucuna	yucu1253		foot	1301	FOOT		weʔemá	w e ʔ e m a
+196128	228781	hubercolumbian-Yucuna	yucu1253		foot	1301	FOOT		weʔemá waiʔimá	w e ʔ e m a + w a i ʔ i m a
+209160	241813	hubercolumbian-Achagua	acha1250		full	1429	FULL		kaʃiámui	k a ʃ i a m u i
+209161	241814	hubercolumbian-Achagua	acha1250		full	1429	FULL		kúulíi	k u u l i i
+209179	241832	hubercolumbian-Curripaco	curr1243		full	1429	FULL		pakami	p a k a m i
+209185	241838	hubercolumbian-Giacone	tari1256		full	1429	FULL		ketsamánite	k e ts a m a n i t e
+209204	241857	hubercolumbian-Piapoco	piap1246		full	1429	FULL		napuníadéeri	n a p u n i a d e e r i
+209209	241862	hubercolumbian-Resigaro	resi1247		full	1429	FULL		potsʰíʔmó	p o tsʰ i ʔ m o
+209230	241883	hubercolumbian-Wayuu	wayu1243		full	1429	FULL		piráti̵si̵	p i r a t ɨ s ɨ
+209231	241884	hubercolumbian-Wayuu	wayu1243		full	1429	FULL		pirátsi̵	p i r a ts ɨ
+209236	241889	hubercolumbian-Yucuna	yucu1253		full	1429	FULL		puʔuté	p u ʔ u t e
+214299	246952	chaconbaniwa-Aha	bani1255		give	1447	GIVE		jaːkada	j aː k a d a
+214483	247136	hubercolumbian-Achagua	acha1250		give	1447	GIVE		jáa	j a a
+214501	247154	hubercolumbian-Curripaco	curr1243		give	1447	GIVE		pakadaka	p a k a d a k a
+214509	247162	hubercolumbian-Giacone	tari1256		give	1447	GIVE		paánipe	p a a n i p e
+214510	247163	hubercolumbian-Giacone	tari1256		give	1447	GIVE		nenipiauánipe	n e n i p i a u a n i p e
+214511	247164	hubercolumbian-Giacone	tari1256		give	1447	GIVE		maadietánipe	m aː d i e t a n i p e
+214530	247183	hubercolumbian-Piapoco	piap1246		give	1447	GIVE		wàaka	w a a k a
+214531	247184	hubercolumbian-Piapoco	piap1246		give	1447	GIVE		wàaka waàka	w a a k a + w a a k a
+214535	247188	hubercolumbian-Resigaro	resi1247		give	1447	GIVE		aaʔní	aː ʔ n i
+214551	247204	hubercolumbian-Wayuu	wayu1243		give	1447	GIVE		áapaa	a a p aː
+214556	247209	hubercolumbian-Yucuna	yucu1253		give	1447	GIVE		aʔakáhe	a ʔ a k a h e
+220414	253070	chaconbaniwa-Aha	bani1255		good	1035	GOOD		matsiadali	m a ts i a d a l i
+220607	253263	hubercolumbian-Achagua	acha1250		good	1035	GOOD		sáikai	s a i k a i
+220608	253264	hubercolumbian-Achagua	acha1250		good	1035	GOOD		ʧunídai	tʃ u n i d a i
+220615	253271	hubercolumbian-Cabiyari	cabi1241		good	1035	GOOD		ʧuunika	tʃ uː n i k a
+220627	253283	hubercolumbian-Curripaco	curr1243		good	1035	GOOD		maʧiadali	m a tʃ i a d a l i
+220635	253291	hubercolumbian-Giacone	tari1256		good	1035	GOOD		maatsiánoka	m aː ts i a n o k a
+220656	253312	hubercolumbian-Piapoco	piap1246		good	1035	GOOD		kajábéeri	k a j a b e e r i
+220660	253316	hubercolumbian-Resigaro	resi1247		good	1035	GOOD		kaʃóʔ	k a ʃ o ʔ
+220677	253333	hubercolumbian-Wayuu	wayu1243		good	1035	GOOD		anási̵	a n a s ɨ
+220682	253338	hubercolumbian-Yucuna	yucu1253		good	1035	GOOD		paláni	p a l a n i
+228288	260944	chaconbaniwa-Aha	bani1255		green	1425	GREEN		hipoliadali	h i p o l i a d a l i
+228416	261072	hubercolumbian-Achagua	acha1250		green	1425	GREEN		uléjii	u l e j iː
+228417	261073	hubercolumbian-Achagua	acha1250		green	1425	GREEN		éemii	e e m iː
+228424	261080	hubercolumbian-Cabiyari	cabi1241		green	1425	GREEN		pureeke	p u r eː k e
+228431	261087	hubercolumbian-Curripaco	curr1243		green	1425	GREEN		hiipole	h iː p o l e
+228440	261096	hubercolumbian-Giacone	tari1256		green	1425	GREEN		kaavidéperi	k aː v i d e p e r i
+228441	261097	hubercolumbian-Giacone	tari1256		green	1425	GREEN		ikpoléperi	i k p o l e p e r i
+228460	261116	hubercolumbian-Piapoco	piap1246		green	1425	GREEN		ipuléeri	i p u l e e r i
+228461	261117	hubercolumbian-Piapoco	piap1246		green	1425	GREEN		ipuléeri ipuléíri	i p u l e e r i + i p u l e i r i
+228466	261122	hubercolumbian-Resigaro	resi1247		green	1425	GREEN		ipogíʔ	i p o g i ʔ
+228481	261137	hubercolumbian-Wayuu	wayu1243		green	1425	GREEN		wí̵itti̵si̵	w ɨ i t t ɨ s ɨ
+228486	261142	hubercolumbian-Yucuna	yucu1253		green	1425	GREEN		ipuréni	i p u r e n i
+238076	270732	carvalhopurus-Apurina	apur1254		hand	1277	HAND		-pio	p i o
+238077	270733	carvalhopurus-Inapari	inap1242		hand	1277	HAND		mujú-ti	m u j u + t i
+238078	270734	carvalhopurus-Yine	yine1238		hand	1277	HAND		hi-mjo	h i + m j o
+238088	270744	chaconbaniwa-Aha	bani1255		hand	1277	HAND		likaːpi	l i k aː p i
+238259	270915	hubercolumbian-Achagua	acha1250		hand	1277	HAND		káahi	k a a h i
+238266	270922	hubercolumbian-Cabiyari	cabi1241		hand	1277	HAND		kaapi	k aː p i
+238267	270923	hubercolumbian-Cabiyari	cabi1241		hand	1277	HAND		nukaapi	n u k aː p i
+238276	270932	hubercolumbian-Curripaco	curr1243		hand	1277	HAND		nokapi	n o k a p i
+238283	270939	hubercolumbian-Giacone	tari1256		hand	1277	HAND		uakapima	u a k a p i m a
+238301	270957	hubercolumbian-Piapoco	piap1246		hand	1277	HAND		wakáapi	w a k a a p i
+238305	270961	hubercolumbian-Resigaro	resi1247		hand	1277	HAND		ké	k e
+238319	270975	hubercolumbian-Wayuu	wayu1243		hand	1277	HAND		wahápi̵	w a h a p ɨ
+238325	270981	hubercolumbian-Yucuna	yucu1253		hand	1277	HAND		wajáteʔela	w a j a t e ʔ e l a
+243640	276297	carvalhopurus-Apurina	apur1254		head	1256	HEAD		-kɨwɨ	k ɨ w ɨ
+243641	276298	carvalhopurus-Inapari	inap1242		head	1256	HEAD		hɨwɨ́-ti	h ɨ w ɨ + t i
+243642	276299	carvalhopurus-Yine	yine1238		head	1256	HEAD		-çiwɨ	ç i w ɨ
+243651	276308	chaconbaniwa-Aha	bani1255		head	1256	HEAD		liwida	l i w i d a
+243814	276471	hubercolumbian-Achagua	acha1250		head	1256	HEAD		wíta	w i t a
+243819	276476	hubercolumbian-Cabiyari	cabi1241		head	1256	HEAD		hiwita	h i w i t a
+243828	276485	hubercolumbian-Curripaco	curr1243		head	1256	HEAD		nowida	n o w i d a
+243835	276492	hubercolumbian-Giacone	tari1256		head	1256	HEAD		ivida	i v i d a
+243853	276510	hubercolumbian-Piapoco	piap1246		head	1256	HEAD		wáiwita	w a i w i t a
+243854	276511	hubercolumbian-Piapoco	piap1246		head	1256	HEAD		wáiwita waíwita	w a i w i t a + w a i w i t a
+243858	276515	hubercolumbian-Resigaro	resi1247		head	1256	HEAD		híβeú	h i β e u
+243874	276531	hubercolumbian-Wayuu	wayu1243		head	1256	HEAD		wekíi	w e k i i
+243875	276532	hubercolumbian-Wayuu	wayu1243		head	1256	HEAD		wekíi waekii	w e k i i + w a e k iː
+243880	276537	hubercolumbian-Yucuna	yucu1253		head	1256	HEAD		wawílaʔaru	w a w i l a ʔ a r u
+246603	279260	carvalhopurus-Apurina	apur1254		hear	1408	HEAR		-kema-ko	k e m a + k o
+246604	279261	carvalhopurus-Inapari	inap1242		hear	1408	HEAR		i-hama-má	i + h a m a + m a
+246605	279262	carvalhopurus-Yine	yine1238		hear	1408	HEAR		-çema	ç e m a
+246611	279268	chaconbaniwa-Aha	bani1255		hear	1408	HEAR		himikada	h i m i k a d a
+246761	279418	hubercolumbian-Achagua	acha1250		hear	1408	HEAR		éemi	e e m i
+246778	279435	hubercolumbian-Curripaco	curr1243		hear	1408	HEAR		péemika	p e e m i k a
+246804	279461	hubercolumbian-Piapoco	piap1246		hear	1408	HEAR		wéemìaka	w e e m i a k a
+246808	279465	hubercolumbian-Resigaro	resi1247		hear	1408	HEAR		héʔmú	h e ʔ m u
+246822	279479	hubercolumbian-Wayuu	wayu1243		hear	1408	HEAR		áapaa	a a p aː
+246823	279480	hubercolumbian-Wayuu	wayu1243		hear	1408	HEAR		áapahaa	a a p a h aː
+246828	279485	hubercolumbian-Yucuna	yucu1253		hear	1408	HEAR		hemaʔakáhe	h e m a ʔ a k a h e
+248201	280858	carvalhopurus-Apurina	apur1254		heart	1223	HEART		-ãkɨ-pa	ã k ɨ + p a
+248202	280859	carvalhopurus-Inapari	inap1242		heart	1223	HEART		ahɨ́-pa-ti	a h ɨ + p a + t i
+248203	280860	carvalhopurus-Yine	yine1238		heart	1223	HEART		-haç-ʧi	h a ç + tʃ i
+248212	280869	chaconbaniwa-Aha	bani1255		heart	1223	HEART		likaole	l i k a o l e
+248347	281004	hubercolumbian-Achagua	acha1250		heart	1223	HEART		wówa	w o w a
+248354	281011	hubercolumbian-Cabiyari	cabi1241		heart	1223	HEART		galeta	g a l e t a
+248362	281019	hubercolumbian-Curripaco	curr1243		heart	1223	HEART		nokaole	n o k a o l e
+248368	281025	hubercolumbian-Giacone	tari1256		heart	1223	HEART		nakaleda	n a k a l e d a
+248386	281043	hubercolumbian-Piapoco	piap1246		heart	1223	HEART		wawàwa	w a w a w a
+248390	281047	hubercolumbian-Resigaro	resi1247		heart	1223	HEART		βáɸoú	β a ɸ o u
+248406	281063	hubercolumbian-Wayuu	wayu1243		heart	1223	HEART		wáʔin	w a ʔ i n
+248407	281064	hubercolumbian-Wayuu	wayu1243		heart	1223	HEART		wáʔin waáʔin	w a ʔ i n + w a a ʔ i n
+248412	281069	hubercolumbian-Yucuna	yucu1253		heart	1223	HEART		wawaxwé	w a w a x w e
+263244	295904	hubercolumbian-Achagua	acha1250		hornanatomy	1393	HORN (ANATOMY)		ʧála	tʃ a l a
+263250	295910	hubercolumbian-Cabiyari	cabi1241		hornanatomy	1393	HORN (ANATOMY)		nuire	n u i r e
+263257	295917	hubercolumbian-Curripaco	curr1243		hornanatomy	1393	HORN (ANATOMY)		liʃúwa	l i ʃ u w a
+263277	295937	hubercolumbian-Piapoco	piap1246		hornanatomy	1393	HORN (ANATOMY)		iʧàle	i tʃ a l e
+263278	295938	hubercolumbian-Piapoco	piap1246		hornanatomy	1393	HORN (ANATOMY)		iʧàle iʧále	i tʃ a l e + i tʃ a l e
+263282	295942	hubercolumbian-Resigaro	resi1247		hornanatomy	1393	HORN (ANATOMY)		iiβií	iː β i i
+263297	295957	hubercolumbian-Wayuu	wayu1243		hornanatomy	1393	HORN (ANATOMY)		suʔuwá	s u ʔ u w a
+263298	295958	hubercolumbian-Wayuu	wayu1243		hornanatomy	1393	HORN (ANATOMY)		suʔuwá si̵oʔuwá	s u ʔ u w a + s ɨ o ʔ u w a
+263304	295964	hubercolumbian-Yucuna	yucu1253		hornanatomy	1393	HORN (ANATOMY)		iʔiwáwihi	i ʔ i w a w i h i
+266126	298786	chaconbaniwa-Aha	bani1255		hotorwarm	2272	HOT OR WARM		hamodali	h a m o d a l i
+274441	307101	chaconbaniwa-Aha	bani1255		i	1209	I		nʰoa	nʰ o a
+274567	307227	hubercolumbian-Achagua	acha1250		i	1209	I		nujá	n u j a
+274568	307228	hubercolumbian-Achagua	acha1250		i	1209	I		nujá nujá	n u j a + n u j a
+274573	307233	hubercolumbian-Cabiyari	cabi1241		i	1209	I		nu	n u
+274581	307241	hubercolumbian-Curripaco	curr1243		i	1209	I		noa	n o a
+274588	307248	hubercolumbian-Giacone	tari1256		i	1209	I		nuhá	n u h a
+274608	307268	hubercolumbian-Piapoco	piap1246		i	1209	I		núa	n u a
+274612	307272	hubercolumbian-Resigaro	resi1247		i	1209	I		n̥ó	n̥ o
+274627	307287	hubercolumbian-Wayuu	wayu1243		i	1209	I		tajá	t a j a
+274632	307292	hubercolumbian-Yucuna	yucu1253		i	1209	I		nuukʰá	n uː kʰ a
+287248	319908	carvalhopurus-Apurina	apur1254		kill	1417	KILL		-oka	o k a
+287249	319909	carvalhopurus-Yine	yine1238		kill	1417	KILL		rɨ-hka-lɨ	r ɨ + h k a + l ɨ
+287410	320070	hubercolumbian-Achagua	acha1250		kill	1417	KILL		inúa	i n u a
+287428	320088	hubercolumbian-Curripaco	curr1243		kill	1417	KILL		painoka	p a i n o k a
+287435	320095	hubercolumbian-Giacone	tari1256		kill	1417	KILL		painunipe	p a i n u n i p e
+287436	320096	hubercolumbian-Giacone	tari1256		kill	1417	KILL		nuhá nuinunínoka	n u h a + n u i n u n i n o k a
+287455	320115	hubercolumbian-Piapoco	piap1246		kill	1417	KILL		wanúaka	w a n u a k a
+287459	320119	hubercolumbian-Resigaro	resi1247		kill	1417	KILL		kainée kʰú	k a i n e e + kʰ u
+287472	320132	hubercolumbian-Wayuu	wayu1243		kill	1417	KILL		oʔutáa	o ʔ u t a a
+287473	320133	hubercolumbian-Wayuu	wayu1243		kill	1417	KILL		oʔutáa áʔin	o ʔ u t a a + a ʔ i n
+287478	320138	hubercolumbian-Yucuna	yucu1253		kill	1417	KILL		nókahe	n o k a h e
+289969	322629	carvalhopurus-Inapari	inap1242		knee	1371	KNEE		uhɨ́-ʧa-ti	u h ɨ + tʃ a + t i
+289970	322630	carvalhopurus-Yine	yine1238		knee	1371	KNEE		hi-soçi	h i + s o ç i
+290099	322759	hubercolumbian-Achagua	acha1250		knee	1371	KNEE		júʒui	j u ʒ u i
+290104	322764	hubercolumbian-Cabiyari	cabi1241		knee	1371	KNEE		nuutjuna	n uː t j u n a
+290112	322772	hubercolumbian-Curripaco	curr1243		knee	1371	KNEE		noosipada	n oː s i p a d a
+290119	322779	hubercolumbian-Giacone	tari1256		knee	1371	KNEE		liútsiu	l i u ts i u
+290137	322797	hubercolumbian-Piapoco	piap1246		knee	1371	KNEE		wàuluì	w a u l u i
+290138	322798	hubercolumbian-Piapoco	piap1246		knee	1371	KNEE		wàuluì waùluì	w a u l u i + w a u l u i
+290142	322802	hubercolumbian-Resigaro	resi1247		knee	1371	KNEE		hoʔdónaú	h o ʔ d o n a u
+290156	322816	hubercolumbian-Wayuu	wayu1243		knee	1371	KNEE		wasápain	w a s a p a i n
+290161	322821	hubercolumbian-Yucuna	yucu1253		knee	1371	KNEE		weʔerúpaʧi	w e ʔ e r u p a tʃ i
+294197	326857	chaconbaniwa-Aha	bani1255		knowsomething	1410	KNOW (SOMETHING)		janʰikada	j a nʰ i k a d a
+294313	326973	hubercolumbian-Achagua	acha1250		knowsomething	1410	KNOW (SOMETHING)		léenaa	l e e n aː
+294314	326974	hubercolumbian-Achagua	acha1250		knowsomething	1410	KNOW (SOMETHING)		jáa	j a a
+294329	326989	hubercolumbian-Curripaco	curr1243		knowsomething	1410	KNOW (SOMETHING)		panhintsa	p a n h i n ts a
+294336	326996	hubercolumbian-Giacone	tari1256		knowsomething	1410	KNOW (SOMETHING)		pajekánipe	p a j e k a n i p e
+294356	327016	hubercolumbian-Piapoco	piap1246		knowsomething	1410	KNOW (SOMETHING)		wáalíaka	w a a l i a k a
+294360	327020	hubercolumbian-Resigaro	resi1247		knowsomething	1410	KNOW (SOMETHING)		manaá tóʔ	m a n a a + t o ʔ
+294374	327034	hubercolumbian-Wayuu	wayu1243		knowsomething	1410	KNOW (SOMETHING)		atí̵haa	a t ɨ h aː
+294380	327040	hubercolumbian-Yucuna	yucu1253		knowsomething	1410	KNOW (SOMETHING)		weʔepíkahe	w e ʔ e p i k a h e
+301840	334500	carvalhopurus-Inapari	inap1242		leaf	628	LEAF		aɨreri	a ɨ r e r i
+301841	334501	carvalhopurus-Yine	yine1238		leaf	628	LEAF		hi-sɨre	h i + s ɨ r e
+301850	334510	chaconbaniwa-Aha	bani1255		leaf	628	LEAF		liphe	l i pʰ e
+302069	334729	hubercolumbian-Curripaco	curr1243		leaf	628	LEAF		haiko iipe	h a i k o + iː p e
+302091	334751	hubercolumbian-Piapoco	piap1246		leaf	628	LEAF		àiku ibáiná	a i k u + i b a i n a
+302096	334756	hubercolumbian-Resigaro	resi1247		leaf	628	LEAF		apánáʔaamí	a p a n a ʔ aː m i
+302111	334771	hubercolumbian-Wayuu	wayu1243		leaf	628	LEAF		si̵pána wunúʔu	s ɨ p a n a + w u n u ʔ u
+302116	334776	hubercolumbian-Yucuna	yucu1253		leaf	628	LEAF		aʔawaná paná	a ʔ a w a n a + p a n a
+316682	349342	carvalhopurus-Apurina	apur1254		liver	1224	LIVER		-opana	o p a n a
+316683	349343	carvalhopurus-Inapari	inap1242		liver	1224	LIVER		upaná-ti	u p a n a + t i
+316684	349344	carvalhopurus-Yine	yine1238		liver	1224	LIVER		hi-hopna	h i + h o p n a
+316693	349353	chaconbaniwa-Aha	bani1255		liver	1224	LIVER		lisropana	l i s ɾ o p a n a
+316818	349478	hubercolumbian-Achagua	acha1250		liver	1224	LIVER		ʧaaliidee	tʃ aː l iː d eː
+316825	349485	hubercolumbian-Cabiyari	cabi1241		liver	1224	LIVER		ʔiupana	ʔ i u p a n a
+316834	349494	hubercolumbian-Curripaco	curr1243		liver	1224	LIVER		notsopana	n o ts o p a n a
+316841	349501	hubercolumbian-Giacone	tari1256		liver	1224	LIVER		uakalipida	u a k a l i p i d a
+316861	349521	hubercolumbian-Piapoco	piap1246		liver	1224	LIVER		wáubana	w a u b a n a
+316865	349525	hubercolumbian-Resigaro	resi1247		liver	1224	LIVER		opáanú	o p a a n u
+316879	349539	hubercolumbian-Wayuu	wayu1243		liver	1224	LIVER		si̵pána	s ɨ p a n a
+316880	349540	hubercolumbian-Wayuu	wayu1243		liver	1224	LIVER		spána	s p a n a
+316885	349545	hubercolumbian-Yucuna	yucu1253		liver	1224	LIVER		panáhi	p a n a h i
+319562	352222	chaconbaniwa-Aha	bani1255		long	1203	LONG		halipanipha	h a l i p a n i pʰ a
+319715	352375	hubercolumbian-Achagua	acha1250		long	1203	LONG		maʧénii	m a tʃ e n iː
+319721	352381	hubercolumbian-Cabiyari	cabi1241		long	1203	LONG		ʔuwia	ʔ u w i a
+319731	352391	hubercolumbian-Curripaco	curr1243		long	1203	LONG		haalipadali	h aː l i p a d a l i
+319756	352416	hubercolumbian-Piapoco	piap1246		long	1203	LONG		káaléeri	k a a l e e r i
+319757	352417	hubercolumbian-Piapoco	piap1246		long	1203	LONG		káaléeri káalaíri	k a a l e e r i + k a a l a i r i
+319761	352421	hubercolumbian-Resigaro	resi1247		long	1203	LONG		tseinóʔ	ts e i n o ʔ
+319777	352437	hubercolumbian-Wayuu	wayu1243		long	1203	LONG		mijóʔu	m i j o ʔ u
+319783	352443	hubercolumbian-Yucuna	yucu1253		long	1203	LONG		wapheréni	w a p h e r e n i
+323164	355824	carvalhopurus-Inapari	inap1242		louse	1392	LOUSE		hapá-ti	h a p a + t i
+323165	355825	carvalhopurus-Yine	yine1238		louse	1392	LOUSE		hi-çepa	h i + ç e p a
+323371	356031	hubercolumbian-Achagua	acha1250		louse	1392	LOUSE		witéeniʃi	w i t e e n i ʃ i
+323377	356037	hubercolumbian-Cabiyari	cabi1241		louse	1392	LOUSE		nii	n iː
+323385	356045	hubercolumbian-Curripaco	curr1243		louse	1392	LOUSE		tóida	t o i d a
+323408	356068	hubercolumbian-Piapoco	piap1246		louse	1392	LOUSE		kùlibàu	k u l i b a u
+323412	356072	hubercolumbian-Resigaro	resi1247		louse	1392	LOUSE		netetsʰíʔó	n e t e tsʰ i ʔ o
+323427	356087	hubercolumbian-Wayuu	wayu1243		louse	1392	LOUSE		mapí̵i	m a p ɨ i
+323432	356092	hubercolumbian-Yucuna	yucu1253		louse	1392	LOUSE		ínehi	i n e h i
+330140	362801	carvalhopurus-Apurina	apur1254		man	1554	MAN		kɨkɨ	k ɨ k ɨ
+330141	362802	carvalhopurus-Inapari	inap1242		man	1554	MAN		ehɨ́	e h ɨ
+330142	362803	carvalhopurus-Yine	yine1238		man	1554	MAN		çeçi	ç e ç i
+330144	362805	chaconbaniwa-Aha	bani1255		man	1554	MAN		aːtsia	aː ts i a
+330325	362986	hubercolumbian-Achagua	acha1250		man	1554	MAN		waʃiaálikuéʒi	w a ʃ i a a l i k u e ʒ i
+330338	362999	hubercolumbian-Curripaco	curr1243		man	1554	MAN		aaʧia	aː tʃ i a
+330345	363006	hubercolumbian-Giacone	tari1256		man	1554	MAN		atsiali	a ts i a l i
+330346	363007	hubercolumbian-Giacone	tari1256		man	1554	MAN		tsiali	ts i a l i
+330365	363026	hubercolumbian-Piapoco	piap1246		man	1554	MAN		asìali	a s i a l i
+330369	363030	hubercolumbian-Resigaro	resi1247		man	1554	MAN		atsáagí	a ts a a g i
+330384	363045	hubercolumbian-Wayuu	wayu1243		man	1554	MAN		wajuu	w a j uː
+330389	363050	hubercolumbian-Yucuna	yucu1253		man	1554	MAN		aʧiɲá	a tʃ i ɲ a
+331941	364602	chaconbaniwa-Aha	bani1255		many	1198	MANY		hure	h u ɾ e
+332108	364769	hubercolumbian-Achagua	acha1250		many	1198	MANY		há	h a
+332109	364770	hubercolumbian-Achagua	acha1250		many	1198	MANY		manuábai	m a n u a b a i
+332110	364771	hubercolumbian-Achagua	acha1250		many	1198	MANY		íʧabani	i tʃ a b a n i
+332111	364772	hubercolumbian-Achagua	acha1250		many	1198	MANY		hókaisúuti	h o k a i s u u t i
+332112	364773	hubercolumbian-Achagua	acha1250		many	1198	MANY		jáanai	j a a n a i
+332113	364774	hubercolumbian-Achagua	acha1250		many	1198	MANY		ajáakai	a j a a k a i
+332114	364775	hubercolumbian-Achagua	acha1250		many	1198	MANY		manúkai	m a n u k a i
+332133	364794	hubercolumbian-Curripaco	curr1243		many	1198	MANY		aima	a i m a
+332142	364803	hubercolumbian-Giacone	tari1256		many	1198	MANY		hanupe	h a n u p e
+332169	364830	hubercolumbian-Piapoco	piap1246		many	1198	MANY		madékaná	m a d e k a n a
+332170	364831	hubercolumbian-Piapoco	piap1246		many	1198	MANY		manùbéejéi	m a n u b e e j e i
+332174	364835	hubercolumbian-Resigaro	resi1247		many	1198	MANY		an̥epúúʔ	a n̥ e p u u ʔ
+332200	364861	hubercolumbian-Wayuu	wayu1243		many	1198	MANY		máima	m a i m a
+332201	364862	hubercolumbian-Wayuu	wayu1243		many	1198	MANY		máinma	m a i n m a
+332202	364863	hubercolumbian-Wayuu	wayu1243		many	1198	MANY		wáima	w a i m a
+332209	364870	hubercolumbian-Yucuna	yucu1253		many	1198	MANY		íkiʔi	i k i ʔ i
+332210	364871	hubercolumbian-Yucuna	yucu1253		many	1198	MANY		kaxrú	k a x r u
+344103	376764	carvalhopurus-Apurina	apur1254		moon	1313	MOON		kasɨrɨ	k a s ɨ r ɨ
+344104	376765	carvalhopurus-Inapari	inap1242		moon	1313	MOON		aɨrɨ́	a ɨ r ɨ
+344105	376766	carvalhopurus-Yine	yine1238		moon	1313	MOON		ksɨrɨ	k s ɨ r ɨ
+344317	376978	hubercolumbian-Achagua	acha1250		moon	1313	MOON		kéeʒi	k e e ʒ i
+344323	376984	hubercolumbian-Cabiyari	cabi1241		moon	1313	MOON		kheeri	k h eː r i
+344331	376992	hubercolumbian-Curripaco	curr1243		moon	1313	MOON		keri	k e r i
+344339	377000	hubercolumbian-Giacone	tari1256		moon	1313	MOON		keéri	k e e r i
+344357	377018	hubercolumbian-Piapoco	piap1246		moon	1313	MOON		kéeri	k e e r i
+344361	377022	hubercolumbian-Resigaro	resi1247		moon	1313	MOON		keégí	k e e g i
+344375	377036	hubercolumbian-Wayuu	wayu1243		moon	1313	MOON		kaʃí	k a ʃ i
+344381	377042	hubercolumbian-Yucuna	yucu1253		moon	1313	MOON		kéeri	k e e r i
+350621	383285	chaconbaniwa-Aha	bani1255		mountain	639	MOUNTAIN		awakada	a w a k a d a
+350795	383459	hubercolumbian-Achagua	acha1250		mountain	639	MOUNTAIN		dúuli	d u u l i
+350796	383460	hubercolumbian-Achagua	acha1250		mountain	639	MOUNTAIN		awáka	a w a k a
+350812	383476	hubercolumbian-Curripaco	curr1243		mountain	639	MOUNTAIN		hipana	h i p a n a
+350815	383479	hubercolumbian-Giacone	tari1256		mountain	639	MOUNTAIN		ijápa	i j a p a
+350816	383480	hubercolumbian-Giacone	tari1256		mountain	639	MOUNTAIN		japa	j a p a
+350817	383481	hubercolumbian-Giacone	tari1256		mountain	639	MOUNTAIN		ihiápa	i h i a p a
+350835	383499	hubercolumbian-Piapoco	piap1246		mountain	639	MOUNTAIN		manuíri dúli	m a n u i r i + d u l i
+350851	383515	hubercolumbian-Wayuu	wayu1243		mountain	639	MOUNTAIN		úuʧi	u u tʃ i
+350858	383522	hubercolumbian-Yucuna	yucu1253		mountain	639	MOUNTAIN		ipuré	i p u r e
+353137	385801	carvalhopurus-Apurina	apur1254		mouth	674	MOUTH		-nama	n a m a
+353138	385802	carvalhopurus-Inapari	inap1242		mouth	674	MOUTH		namá-ti	n a m a + t i
+353139	385803	carvalhopurus-Yine	yine1238		mouth	674	MOUTH		-nama	n a m a
+353149	385813	chaconbaniwa-Aha	bani1255		mouth	674	MOUTH		linoma	l i n o m a
+353301	385965	hubercolumbian-Achagua	acha1250		mouth	674	MOUTH		núma	n u m a
+353306	385970	hubercolumbian-Cabiyari	cabi1241		mouth	674	MOUTH		numma	n u m m a
+353307	385971	hubercolumbian-Cabiyari	cabi1241		mouth	674	MOUTH		nunaaka	n u n aː k a
+353315	385979	hubercolumbian-Curripaco	curr1243		mouth	674	MOUTH		nonoma	n o n o m a
+353324	385988	hubercolumbian-Giacone	tari1256		mouth	674	MOUTH		uanuma	u a n u m a
+353342	386006	hubercolumbian-Piapoco	piap1246		mouth	674	MOUTH		wanùma	w a n u m a
+353347	386011	hubercolumbian-Resigaro	resi1247		mouth	674	MOUTH		nó	n o
+353361	386025	hubercolumbian-Wayuu	wayu1243		mouth	674	MOUTH		wáani̵ki̵	w a a n ɨ k ɨ
+353366	386030	hubercolumbian-Yucuna	yucu1253		mouth	674	MOUTH		wanúma	w a n u m a
+358132	390796	carvalhopurus-Apurina	apur1254		name	1405	NAME		-iwãka	i w ã k a
+358133	390797	carvalhopurus-Inapari	inap1242		name	1405	NAME		ɨwáʔa-ti	ɨ w a ʔ a + t i
+358134	390798	carvalhopurus-Yine	yine1238		name	1405	NAME		-hiwaka	h i w a k a
+358143	390807	chaconbaniwa-Aha	bani1255		name	1405	NAME		liːpitana	l iː p i t a n a
+358337	391001	hubercolumbian-Curripaco	curr1243		name	1405	NAME		peepitana	p eː p i t a n a
+358345	391009	hubercolumbian-Giacone	tari1256		name	1405	NAME		pipitana	p i p i t a n a
+358362	391026	hubercolumbian-Piapoco	piap1246		name	1405	NAME		wáipidená	w a i p i d e n a
+358366	391030	hubercolumbian-Resigaro	resi1247		name	1405	NAME		iiβú	iː β u
+358379	391043	hubercolumbian-Wayuu	wayu1243		name	1405	NAME		si̵ní̵lia	s ɨ n ɨ l i a
+358380	391044	hubercolumbian-Wayuu	wayu1243		name	1405	NAME		si̵ní̵lia si̵aní̵lia	s ɨ n ɨ l i a + s ɨ a n ɨ l i a
+358385	391049	hubercolumbian-Yucuna	yucu1253		name	1405	NAME		iíhi	i i h i
+364406	397073	carvalhopurus-Apurina	apur1254		neck	1333	NECK		-no-kɨ	n o + k ɨ
+364407	397074	carvalhopurus-Inapari	inap1242		neck	1333	NECK		nu-pi-tí	n u + p i + t i
+364408	397075	carvalhopurus-Yine	yine1238		neck	1333	NECK		hi-no-çi	h i + n o + ç i
+364417	397084	chaconbaniwa-Aha	bani1255		neck	1333	NECK		linoːsrojapi	l i n oː s ɾ o j a p i
+364606	397273	hubercolumbian-Achagua	acha1250		neck	1333	NECK		wáa	w a a
+364612	397279	hubercolumbian-Cabiyari	cabi1241		neck	1333	NECK		kanhapi	k a n h a p i
+364622	397289	hubercolumbian-Curripaco	curr1243		neck	1333	NECK		nonoriapi	n o n o r i a p i
+364631	397298	hubercolumbian-Giacone	tari1256		neck	1333	NECK		uanurú	u a n u r u
+364648	397315	hubercolumbian-Piapoco	piap1246		neck	1333	NECK		wakanápi	w a k a n a p i
+364652	397319	hubercolumbian-Resigaro	resi1247		neck	1333	NECK		iɲoʧʰí	i ɲ o tʃʰ i
+364666	397333	hubercolumbian-Wayuu	wayu1243		neck	1333	NECK		wanútpaʔa	w a n u t p a ʔ a
+364674	397341	hubercolumbian-Yucuna	yucu1253		neck	1333	NECK		wanúruʔupi	w a n u r u ʔ u p i
+368477	401144	carvalhopurus-Inapari	inap1242		new	1231	NEW		herúʧi	h e r u tʃ i
+368478	401145	carvalhopurus-Yine	yine1238		new	1231	NEW		herotɨ	h e r o t ɨ
+368487	401154	chaconbaniwa-Aha	bani1255		new	1231	NEW		walidali	w a l i d a l i
+368670	401337	hubercolumbian-Achagua	acha1250		new	1231	NEW		wáalii	w a a l iː
+368675	401342	hubercolumbian-Cabiyari	cabi1241		new	1231	NEW		waliteka	w a l i t e k a
+368683	401350	hubercolumbian-Curripaco	curr1243		new	1231	NEW		walidali	w a l i d a l i
+368690	401357	hubercolumbian-Giacone	tari1256		new	1231	NEW		ualíkiri	u a l i k i r i
+368711	401378	hubercolumbian-Piapoco	piap1246		new	1231	NEW		wàlisài	w a l i s a i
+368712	401379	hubercolumbian-Piapoco	piap1246		new	1231	NEW		wàlisài wàlisaì	w a l i s a i + w a l i s a i
+368716	401383	hubercolumbian-Resigaro	resi1247		new	1231	NEW		beʔé	b e ʔ e
+368729	401396	hubercolumbian-Wayuu	wayu1243		new	1231	NEW		hekéti̵si̵	h e k e t ɨ s ɨ
+368730	401397	hubercolumbian-Wayuu	wayu1243		new	1231	NEW		hekét	h e k e t
+368735	401402	hubercolumbian-Yucuna	yucu1253		new	1231	NEW		wáahe	w a a h e
+371253	403920	carvalhopurus-Inapari	inap1242		night	1233	NIGHT		játi	j a t i
+371254	403921	carvalhopurus-Yine	yine1238		night	1233	NIGHT		jeʧ-no	j e tʃ + n o
+371263	403930	chaconbaniwa-Aha	bani1255		night	1233	NIGHT		deːpi	d eː p i
+371445	404112	hubercolumbian-Cabiyari	cabi1241		night	1233	NIGHT		niapiŋaaphi	n i a p i ŋ aː p h i
+371454	404121	hubercolumbian-Curripaco	curr1243		night	1233	NIGHT		deepi	d eː p i
+371479	404146	hubercolumbian-Piapoco	piap1246		night	1233	NIGHT		katáa	k a t a a
+371480	404147	hubercolumbian-Piapoco	piap1246		night	1233	NIGHT		táijápi	t a i j a p i
+371484	404151	hubercolumbian-Resigaro	resi1247		night	1233	NIGHT		naapí	n aː p i
+371497	404164	hubercolumbian-Wayuu	wayu1243		night	1233	NIGHT		ái	a i
+371498	404165	hubercolumbian-Wayuu	wayu1243		night	1233	NIGHT		áippaʔa	a i p p a ʔ a
+371499	404166	hubercolumbian-Wayuu	wayu1243		night	1233	NIGHT		saʔuwái	s a ʔ u w a i
+371506	404173	hubercolumbian-Yucuna	yucu1253		night	1233	NIGHT		laapí	l aː p i
+377065	409732	carvalhopurus-Apurina	apur1254		nose	1221	NOSE		-kiri	k i r i
+377066	409733	carvalhopurus-Inapari	inap1242		nose	1221	NOSE		hirí-ti	h i r i + t i
+377067	409734	carvalhopurus-Yine	yine1238		nose	1221	NOSE		hi-çri	h i + ç r i
+377077	409744	chaconbaniwa-Aha	bani1255		nose	1221	NOSE		liːtako	l iː t a k o
+377258	409925	hubercolumbian-Achagua	acha1250		nose	1221	NOSE		dáku	d a k u
+377264	409931	hubercolumbian-Cabiyari	cabi1241		nose	1221	NOSE		hitjakhu	h i t j a k h u
+377272	409939	hubercolumbian-Curripaco	curr1243		nose	1221	NOSE		notako	n o t a k o
+377280	409947	hubercolumbian-Giacone	tari1256		nose	1221	NOSE		uataku	u a t a k u
+377298	409965	hubercolumbian-Piapoco	piap1246		nose	1221	NOSE		wáidaku	w a i d a k u
+377302	409969	hubercolumbian-Resigaro	resi1247		nose	1221	NOSE		hitákó	h i t a k o
+377316	409983	hubercolumbian-Wayuu	wayu1243		nose	1221	NOSE		weʔiʧí	w e ʔ i tʃ i
+377317	409984	hubercolumbian-Wayuu	wayu1243		nose	1221	NOSE		weʔiʧí waeʔiʧi	w e ʔ i tʃ i + w a e ʔ i tʃ i
+377322	409989	hubercolumbian-Yucuna	yucu1253		nose	1221	NOSE		watakú	w a t a k u
+378840	411507	hubercolumbian-Achagua	acha1250		not	1240	NOT		hókai	h o k a i
+378858	411525	hubercolumbian-Curripaco	curr1243		not	1240	NOT		kurin	k u r i n
+378865	411532	hubercolumbian-Giacone	tari1256		not	1240	NOT		diakade	d i a k a d e
+378891	411558	hubercolumbian-Piapoco	piap1246		not	1240	NOT		kàmita	k a m i t a
+378892	411559	hubercolumbian-Piapoco	piap1246		not	1240	NOT		kàmita kàmita	k a m i t a + k a m i t a
+378897	411564	hubercolumbian-Resigaro	resi1247		not	1240	NOT		nií	n i i
+378916	411583	hubercolumbian-Wayuu	wayu1243		not	1240	NOT		nóho	n o h o
+378917	411584	hubercolumbian-Wayuu	wayu1243		not	1240	NOT		nnóho	n n o h o
+378918	411585	hubercolumbian-Wayuu	wayu1243		not	1240	NOT		nnóholuu	n n o h o l uː
+378926	411593	hubercolumbian-Yucuna	yucu1253		not	1240	NOT		unká	u n k a
+389336	422003	chaconbaniwa-Aha	bani1255		one	1493	ONE		padatsa	p a d a ts a
+389551	422218	hubercolumbian-Achagua	acha1250		one	1493	ONE		bákeeʒi	b a k eː ʒ i
+389564	422231	hubercolumbian-Curripaco	curr1243		one	1493	ONE		pada	p a d a
+389590	422257	hubercolumbian-Piapoco	piap1246		one	1493	ONE		abéeri	a b e e r i
+389591	422258	hubercolumbian-Piapoco	piap1246		one	1493	ONE		abéeri abéíri	a b e e r i + a b e i r i
+389595	422262	hubercolumbian-Resigaro	resi1247		one	1493	ONE		sagú	s a g u
+389610	422277	hubercolumbian-Wayuu	wayu1243		one	1493	ONE		wanéeʃia	w a n e e ʃ i a
+389617	422284	hubercolumbian-Yucuna	yucu1253		one	1493	ONE		pahluwáha	p a h l u w a h a
+405971	438638	carvalhopurus-Apurina	apur1254		person	683	PERSON		kãkɨtɨ	k ã k ɨ t ɨ
+405972	438639	carvalhopurus-Inapari	inap1242		person	683	PERSON		ahɨ́ʧi	a h ɨ tʃ i
+405973	438640	carvalhopurus-Yine	yine1238		person	683	PERSON		kaçitɨ	k a ç i t ɨ
+432135	464803	chaconbaniwa-Aha	bani1255		red	156	RED		iraidali	i ɾ a i d a l i
+432351	465019	hubercolumbian-Achagua	acha1250		red	156	RED		kíiʒai	k i i ʒ a i
+432356	465024	hubercolumbian-Cabiyari	cabi1241		red	156	RED		kiiraka	k iː r a k a
+432364	465032	hubercolumbian-Curripaco	curr1243		red	156	RED		iiráidali	iː r a i d a l i
+432371	465039	hubercolumbian-Giacone	tari1256		red	156	RED		iiríperi	iː r i p e r i
+432391	465059	hubercolumbian-Piapoco	piap1246		red	156	RED		kíiréeri	k i i r e e r i
+432392	465060	hubercolumbian-Piapoco	piap1246		red	156	RED		kíiréeri kíiraíri	k i i r e e r i + k i i r a i r i
+432393	465061	hubercolumbian-Piapoco	piap1246		red	156	RED		kíiraka	k i i r a k a
+432397	465065	hubercolumbian-Resigaro	resi1247		red	156	RED		kedáβííʔ	k e d a β i i ʔ
+432412	465080	hubercolumbian-Wayuu	wayu1243		red	156	RED		iʃósi̵	i ʃ o s ɨ
+432417	465085	hubercolumbian-Yucuna	yucu1253		red	156	RED		keráni	k e r a n i
+444117	476786	chaconbaniwa-Aha	bani1255		root	670	ROOT		lipali	l i p a l i
+444301	476970	hubercolumbian-Achagua	acha1250		root	670	ROOT		íʒinaa	i ʒ i n aː
+444302	476971	hubercolumbian-Achagua	acha1250		root	670	ROOT		híʧuu	h i tʃ uː
+444307	476976	hubercolumbian-Cabiyari	cabi1241		root	670	ROOT		ʔapale	ʔ a p a l e
+444316	476985	hubercolumbian-Curripaco	curr1243		root	670	ROOT		haikopali	h a i k o p a l i
+444323	476992	hubercolumbian-Giacone	tari1256		root	670	ROOT		ailunáli lipali	a i l u n a l i + l i p a l i
+444324	476993	hubercolumbian-Giacone	tari1256		root	670	ROOT		iitsadamaka	iː ts a d a m a k a
+444348	477017	hubercolumbian-Piapoco	piap1246		root	670	ROOT		í̵iriná	ɨ i r i n a
+444349	477018	hubercolumbian-Piapoco	piap1246		root	670	ROOT		ipìʧu	i p i tʃ u
+444353	477022	hubercolumbian-Resigaro	resi1247		root	670	ROOT		tébaké	t e b a k e
+444368	477037	hubercolumbian-Wayuu	wayu1243		root	670	ROOT		súurala	s u u r a l a
+444369	477038	hubercolumbian-Wayuu	wayu1243		root	670	ROOT		súurala si̵óurala	s u u r a l a + s ɨ o u r a l a
+444374	477043	hubercolumbian-Yucuna	yucu1253		root	670	ROOT		haʔapárehi	h a ʔ a p a r e h i
+448701	481370	hubercolumbian-Achagua	acha1250		round	1395	ROUND		makáhkuí	m a k a h k u i
+448702	481371	hubercolumbian-Achagua	acha1250		round	1395	ROUND		makátuí	m a k a t u i
+448708	481377	hubercolumbian-Cabiyari	cabi1241		round	1395	ROUND		kaatha	k aː t h a
+448716	481385	hubercolumbian-Curripaco	curr1243		round	1395	ROUND		matoledali	m a t o l e d a l i
+448723	481392	hubercolumbian-Giacone	tari1256		round	1395	ROUND		maatsiápuki	m aː ts i a p u k i
+448724	481393	hubercolumbian-Giacone	tari1256		round	1395	ROUND		makapuki	m a k a p u k i
+448741	481410	hubercolumbian-Piapoco	piap1246		round	1395	ROUND		makàpukuíʧúa	m a k a p u k u i tʃ u a
+448746	481415	hubercolumbian-Resigaro	resi1247		round	1395	ROUND		paβuudú	p a β uː d u
+448760	481429	hubercolumbian-Wayuu	wayu1243		round	1395	ROUND		koʔojóosi̵	k o ʔ o j o o s ɨ
+448767	481436	hubercolumbian-Yucuna	yucu1253		round	1395	ROUND		makaʔaláʧini	m a k a ʔ a l a tʃ i n i
+456260	488929	hubercolumbian-Cabiyari	cabi1241		sand	671	SAND		kaʔa	k a ʔ a
+456268	488937	hubercolumbian-Curripaco	curr1243		sand	671	SAND		kaida	k a i d a
+456275	488944	hubercolumbian-Giacone	tari1256		sand	671	SAND		kaipéda	k a i p e d a
+456294	488963	hubercolumbian-Piapoco	piap1246		sand	671	SAND		kàina	k a i n a
+456298	488967	hubercolumbian-Resigaro	resi1247		sand	671	SAND		koβééʔkoβéʔʤíhú	k o β e e ʔ k o β e ʔ dʒ i h u
+456314	488983	hubercolumbian-Wayuu	wayu1243		sand	671	SAND		hasái	h a s a i
+456319	488988	hubercolumbian-Yucuna	yucu1253		sand	671	SAND		keʔepé	k e ʔ e p e
+459103	491772	carvalhopurus-Inapari	inap1242		say	1458	SAY		i-tiná-ma	i + t i n a + m a
+459104	491773	carvalhopurus-Yine	yine1238		say	1458	SAY		ʧin-rɨ	tʃ i n + r ɨ
+459105	491774	chaconbaniwa-Aha	bani1255		say	1458	SAY		ikaitekaita	i k a i t e k a i t a
+459200	491869	hubercolumbian-Achagua	acha1250		say	1458	SAY		mówa	m o w a
+459201	491870	hubercolumbian-Achagua	acha1250		say	1458	SAY		má	m a
+459219	491888	hubercolumbian-Curripaco	curr1243		say	1458	SAY		pakaiteka	p a k a i t e k a
+459253	491922	hubercolumbian-Piapoco	piap1246		say	1458	SAY		wáimaka	w a i m a k a
+459257	491926	hubercolumbian-Resigaro	resi1247		say	1458	SAY		kemú	k e m u
+459274	491943	hubercolumbian-Wayuu	wayu1243		say	1458	SAY		máa	m a a
+459275	491944	hubercolumbian-Wayuu	wayu1243		say	1458	SAY		mi̵sí̵	m ɨ s ɨ
+459276	491945	hubercolumbian-Wayuu	wayu1243		say	1458	SAY		aki̵haa	a k ɨ h aː
+459281	491950	hubercolumbian-Yucuna	yucu1253		say	1458	SAY		kemakáhe	k e m a k a h e
+464727	497397	carvalhopurus-Apurina	apur1254		see	1409	SEE		-eta[ma]	e t a m a
+464728	497398	carvalhopurus-Inapari	inap1242		see	1409	SEE		r-eʧá-ra-ma	r + e tʃ a + r a + m a
+464729	497399	carvalhopurus-Yine	yine1238		see	1409	SEE		r-et-lɨ	r + e t + l ɨ
+464735	497405	chaconbaniwa-Aha	bani1255		see	1409	SEE		ikapakaita	i k a p a k a i t a
+464956	497626	hubercolumbian-Achagua	acha1250		see	1409	SEE		kába	k a b a
+464971	497641	hubercolumbian-Curripaco	curr1243		see	1409	SEE		pakapa	p a k a p a
+464980	497650	hubercolumbian-Giacone	tari1256		see	1409	SEE		pakánipe	p a k a n i p e
+464999	497669	hubercolumbian-Piapoco	piap1246		see	1409	SEE		waikáka	w a i k a k a
+465003	497673	hubercolumbian-Resigaro	resi1247		see	1409	SEE		tsʰéní	tsʰ e n i
+465018	497688	hubercolumbian-Wayuu	wayu1243		see	1409	SEE		eráa	e r a a
+465026	497696	hubercolumbian-Yucuna	yucu1253		see	1409	SEE		amákahe	a m a k a h e
+466362	499032	carvalhopurus-Apurina	apur1254		seed	714	SEED		-kɨ	k ɨ
+466363	499033	carvalhopurus-Inapari	inap1242		seed	714	SEED		-raná-hɨ	r a n a + h ɨ
+466364	499034	carvalhopurus-Yine	yine1238		seed	714	SEED		hi-çi	h i + ç i
+466374	499044	chaconbaniwa-Aha	bani1255		seed	714	SEED		liːnaka	l iː n a k a
+466533	499203	hubercolumbian-Achagua	acha1250		seed	714	SEED		íimi	i i m i
+466540	499210	hubercolumbian-Cabiyari	cabi1241		seed	714	SEED		kitjihe	k i t j i h e
+466541	499211	hubercolumbian-Cabiyari	cabi1241		seed	714	SEED		kakakitjihe	k a k a k i t j i h e
+466551	499221	hubercolumbian-Curripaco	curr1243		seed	714	SEED		iiʃi	iː ʃ i
+466577	499247	hubercolumbian-Piapoco	piap1246		seed	714	SEED		íimi	i i m i
+466578	499248	hubercolumbian-Piapoco	piap1246		seed	714	SEED		íimi iími	i i m i + i i m i
+466582	499252	hubercolumbian-Resigaro	resi1247		seed	714	SEED		hímiú	h i m i u
+466600	499270	hubercolumbian-Wayuu	wayu1243		seed	714	SEED		si̵ʔí̵	s ɨ ʔ ɨ
+466601	499271	hubercolumbian-Wayuu	wayu1243		seed	714	SEED		si̵aʔí̵	s ɨ a ʔ ɨ
+466606	499276	hubercolumbian-Yucuna	yucu1253		seed	714	SEED		íʧahi ihí	i tʃ a h i + i h i
+490283	522955	chaconbaniwa-Aha	bani1255		sit	1416	SIT		joːfakada	j oː f a k a d a
+494380	527052	carvalhopurus-Apurina	apur1254		skin	763	SKIN		-mata	m a t a
+494381	527053	carvalhopurus-Inapari	inap1242		skin	763	SKIN		maʧá-ti	m a tʃ a + t i
+494382	527054	carvalhopurus-Yine	yine1238		skin	763	SKIN		hi-mta	h i + m t a
+494391	527063	chaconbaniwa-Aha	bani1255		skin	763	SKIN		liːa	l iː a
+494529	527201	hubercolumbian-Cabiyari	cabi1241		skin	763	SKIN		ʔiami	ʔ i a m i
+494537	527209	hubercolumbian-Curripaco	curr1243		skin	763	SKIN		noija	n o i j a
+494544	527216	hubercolumbian-Giacone	tari1256		skin	763	SKIN		liija	l iː j a
+494545	527217	hubercolumbian-Giacone	tari1256		skin	763	SKIN		taapa	t aː p a
+494561	527233	hubercolumbian-Piapoco	piap1246		skin	763	SKIN		wáimami	w a i m a m i
+494565	527237	hubercolumbian-Resigaro	resi1247		skin	763	SKIN		eémú	e e m u
+494580	527252	hubercolumbian-Wayuu	wayu1243		skin	763	SKIN		watá	w a t a
+494581	527253	hubercolumbian-Wayuu	wayu1243		skin	763	SKIN		watá waatá	w a t a + w aː t a
+494586	527258	hubercolumbian-Yucuna	yucu1253		skin	763	SKIN		wéema	w e e m a
+494587	527259	hubercolumbian-Yucuna	yucu1253		skin	763	SKIN		wéema waíma	w e e m a + w a i m a
+498945	531617	carvalhopurus-Apurina	apur1254		sleep	1585	SLEEP		-ɨmaka	ɨ m a k a
+498946	531618	carvalhopurus-Inapari	inap1242		sleep	1585	SLEEP		r-ɨmɨʔá-ma	r + ɨ m ɨ ʔ a + m a
+498947	531619	carvalhopurus-Yine	yine1238		sleep	1585	SLEEP		r-ɨmka	r + ɨ m k a
+498956	531628	chaconbaniwa-Aha	bani1255		sleep	1585	SLEEP		imaːkada	i m aː k a d a
+499159	531831	hubercolumbian-Achagua	acha1250		sleep	1585	SLEEP		máa	m a a
+499171	531843	hubercolumbian-Curripaco	curr1243		sleep	1585	SLEEP		peemaaka	p eː m aː k a
+499178	531850	hubercolumbian-Giacone	tari1256		sleep	1585	SLEEP		pemánipe	p e m a n i p e
+499179	531851	hubercolumbian-Giacone	tari1256		sleep	1585	SLEEP		nohá numánoka	n o h a + n u m a n o k a
+499196	531868	hubercolumbian-Piapoco	piap1246		sleep	1585	SLEEP		waimáka	w a i m a k a
+499200	531872	hubercolumbian-Resigaro	resi1247		sleep	1585	SLEEP		ímú	i m u
+499214	531886	hubercolumbian-Wayuu	wayu1243		sleep	1585	SLEEP		atúnkaa	a t u n k aː
+499219	531891	hubercolumbian-Yucuna	yucu1253		sleep	1585	SLEEP		kamátakaho	k a m a t a k a h o
+502719	535393	hubercolumbian-Achagua	acha1250		small	1246	SMALL		húubini	h u u b i n i
+502739	535413	hubercolumbian-Curripaco	curr1243		small	1246	SMALL		tsodali	ts o d a l i
+502746	535420	hubercolumbian-Giacone	tari1256		small	1246	SMALL		tuki	t u k i
+502770	535444	hubercolumbian-Piapoco	piap1246		small	1246	SMALL		aʧúméeri	a tʃ u m e e r i
+502774	535448	hubercolumbian-Resigaro	resi1247		small	1246	SMALL		ooʤaʤáʔ	oː dʒ a dʒ a ʔ
+502792	535466	hubercolumbian-Wayuu	wayu1243		small	1246	SMALL		mótsojulu	m o ts o j u l u
+502793	535467	hubercolumbian-Wayuu	wayu1243		small	1246	SMALL		mótsojut	m o ts o j u t
+502794	535468	hubercolumbian-Wayuu	wayu1243		small	1246	SMALL		hoʔúuʧon	h o ʔ u u tʃ o n
+502801	535475	hubercolumbian-Yucuna	yucu1253		small	1246	SMALL		kamuʔuhúni	k a m u ʔ u h u n i
+506878	539554	chaconbaniwa-Aha	bani1255		smokeexhaust	778	SMOKE (EXHAUST)		itakati	i t a k a t i
+507070	539746	hubercolumbian-Achagua	acha1250		smokeexhaust	778	SMOKE (EXHAUST)		íisa	i i s a
+507075	539751	hubercolumbian-Cabiyari	cabi1241		smokeexhaust	778	SMOKE (EXHAUST)		ʔiitali	ʔ iː t a l i
+507084	539760	hubercolumbian-Curripaco	curr1243		smokeexhaust	778	SMOKE (EXHAUST)		liitaka	l iː t a k a
+507091	539767	hubercolumbian-Giacone	tari1256		smokeexhaust	778	SMOKE (EXHAUST)		isa	i s a
+507092	539768	hubercolumbian-Giacone	tari1256		smokeexhaust	778	SMOKE (EXHAUST)		ieéma	i e e m a
+507110	539786	hubercolumbian-Piapoco	piap1246		smokeexhaust	778	SMOKE (EXHAUST)		ísa	i s a
+507114	539790	hubercolumbian-Resigaro	resi1247		smokeexhaust	778	SMOKE (EXHAUST)		iítsʰú	i i tsʰ u
+507128	539804	hubercolumbian-Wayuu	wayu1243		smokeexhaust	778	SMOKE (EXHAUST)		si̵mí̵sain	s ɨ m ɨ s a i n
+507133	539809	hubercolumbian-Yucuna	yucu1253		smokeexhaust	778	SMOKE (EXHAUST)		íisa	i i s a
+529875	562551	chaconbaniwa-Aha	bani1255		stand	1442	STAND		jeːmakaita	j eː m a k a i t a
+532029	564705	chaconbaniwa-Aha	bani1255		star	1430	STAR		hivisrida	h i v i s ɾ i d a
+532200	564876	hubercolumbian-Achagua	acha1250		star	1430	STAR		sáalii	s a a l iː
+532205	564881	hubercolumbian-Cabiyari	cabi1241		star	1430	STAR		wirinho	w i r i n h o
+532213	564889	hubercolumbian-Curripaco	curr1243		star	1430	STAR		hiwisida	h i w i s i d a
+532220	564896	hubercolumbian-Giacone	tari1256		star	1430	STAR		niitsunéma	n iː ts u n e m a
+532238	564914	hubercolumbian-Piapoco	piap1246		star	1430	STAR		dùlupùta	d u l u p u t a
+532242	564918	hubercolumbian-Resigaro	resi1247		star	1430	STAR		hiβíigí	h i β i i g i
+532256	564932	hubercolumbian-Wayuu	wayu1243		star	1430	STAR		holótsi̵	h o l o ts ɨ
+532257	564933	hubercolumbian-Wayuu	wayu1243		star	1430	STAR		iiwa	iː w a
+532262	564938	hubercolumbian-Yucuna	yucu1253		star	1430	STAR		iwixrí	i w i x r i
+532263	564939	hubercolumbian-Yucuna	yucu1253		star	1430	STAR		iwixhí	i w i x h i
+538538	571215	carvalhopurus-Inapari	inap1242		stone	857	STONE		huʧárí-sí	h u tʃ a r i + s i
+538539	571216	carvalhopurus-Yine	yine1238		stone	857	STONE		sotlɨ	s o t l ɨ
+538740	571417	hubercolumbian-Achagua	acha1250		stone	857	STONE		íiba	i i b a
+538746	571423	hubercolumbian-Cabiyari	cabi1241		stone	857	STONE		ʔipa	ʔ i p a
+538754	571431	hubercolumbian-Curripaco	curr1243		stone	857	STONE		hiipada	h iː p a d a
+538778	571455	hubercolumbian-Piapoco	piap1246		stone	857	STONE		íba	i b a
+538782	571459	hubercolumbian-Resigaro	resi1247		stone	857	STONE		βííʃiʔóú	β i i ʃ i ʔ o u
+538796	571473	hubercolumbian-Wayuu	wayu1243		stone	857	STONE		ipá	i p a
+538802	571479	hubercolumbian-Yucuna	yucu1253		stone	857	STONE		híipa	h i i p a
+547903	580580	carvalhopurus-Apurina	apur1254		sun	1343	SUN		atokaʧi	a t o k a tʃ i
+547904	580581	carvalhopurus-Inapari	inap1242		sun	1343	SUN		tuʔatí	t u ʔ a t i
+547905	580582	carvalhopurus-Yine	yine1238		sun	1343	SUN		tkaʧi	t k a tʃ i
+547914	580591	chaconbaniwa-Aha	bani1255		sun	1343	SUN		heri	h e ɾ i
+548120	580797	hubercolumbian-Achagua	acha1250		sun	1343	SUN		káiwia	k a i w i a
+548127	580804	hubercolumbian-Cabiyari	cabi1241		sun	1343	SUN		ʔeri	ʔ e r i
+548137	580814	hubercolumbian-Curripaco	curr1243		sun	1343	SUN		heri	h e r i
+548146	580823	hubercolumbian-Giacone	tari1256		sun	1343	SUN		keeri	k eː r i
+548166	580843	hubercolumbian-Piapoco	piap1246		sun	1343	SUN		èeri	e e r i
+548171	580848	hubercolumbian-Resigaro	resi1247		sun	1343	SUN		háʔí	h a ʔ i
+548184	580861	hubercolumbian-Wayuu	wayu1243		sun	1343	SUN		kaʔí	k a ʔ i
+548189	580866	hubercolumbian-Yucuna	yucu1253		sun	1343	SUN		kaamú	k aː m u
+555013	587690	carvalhopurus-Apurina	apur1254		swim	1439	SWIM		-noã-ta	n o ã + t a
+555014	587691	carvalhopurus-Inapari	inap1242		swim	1439	SWIM		r-ano-ʔa-má	r + a n o + ʔ a + m a
+555015	587692	carvalhopurus-Yine	yine1238		swim	1439	SWIM		hanoh-lɨ	h a n o h + l ɨ
+555024	587701	chaconbaniwa-Aha	bani1255		swim	1439	SWIM		hiñakada	h i ɲ a k a d a
+555171	587848	hubercolumbian-Achagua	acha1250		swim	1439	SWIM		jáamaʒau	j a a m a ʒ a u
+555176	587853	hubercolumbian-Cabiyari	cabi1241		swim	1439	SWIM		ʔawapa	ʔ a w a p a
+555185	587862	hubercolumbian-Curripaco	curr1243		swim	1439	SWIM		peɲakao	p e ɲ a k a o
+555193	587870	hubercolumbian-Giacone	tari1256		swim	1439	SWIM		pajanipe	p a j a n i p e
+555209	587886	hubercolumbian-Piapoco	piap1246		swim	1439	SWIM		wamàlaka	w a m a l a k a
+555213	587890	hubercolumbian-Resigaro	resi1247		swim	1439	SWIM		oʔβápú	o ʔ β a p u
+555227	587904	hubercolumbian-Wayuu	wayu1243		swim	1439	SWIM		katí̵naa	k a t ɨ n aː
+555228	587905	hubercolumbian-Wayuu	wayu1243		swim	1439	SWIM		aʃúunahaa	a ʃ u u n a h aː
+555233	587910	hubercolumbian-Yucuna	yucu1253		swim	1439	SWIM		iʔiwapakáhe	i ʔ i w a p a k a h e
+557427	590104	carvalhopurus-Apurina	apur1254		tail	1220	TAIL		-ʃipi	ʃ i p i
+557428	590105	carvalhopurus-Inapari	inap1242		tail	1220	TAIL		ipi-tí	i p i + t i
+557429	590106	carvalhopurus-Yine	yine1238		tail	1220	TAIL		hi-nʃi	h i + n ʃ i
+557438	590115	chaconbaniwa-Aha	bani1255		tail	1220	TAIL		liːtiphi	l iː t i pʰ i
+557613	590290	hubercolumbian-Achagua	acha1250		tail	1220	TAIL		íʃii	i ʃ iː
+557619	590296	hubercolumbian-Cabiyari	cabi1241		tail	1220	TAIL		muuku	m uː k u
+557629	590306	hubercolumbian-Curripaco	curr1243		tail	1220	TAIL		litipi	l i t i p i
+557639	590316	hubercolumbian-Giacone	tari1256		tail	1220	TAIL		lisipi	l i s i p i
+557660	590337	hubercolumbian-Piapoco	piap1246		tail	1220	TAIL		isìpi	i s i p i
+557661	590338	hubercolumbian-Piapoco	piap1246		tail	1220	TAIL		isìpi isípi	i s i p i + i s i p i
+557665	590342	hubercolumbian-Resigaro	resi1247		tail	1220	TAIL		tsʰíipí	tsʰ i i p i
+557680	590357	hubercolumbian-Wayuu	wayu1243		tail	1220	TAIL		si̵sí	s ɨ s i
+557681	590358	hubercolumbian-Wayuu	wayu1243		tail	1220	TAIL		si̵si	s ɨ s i
+557682	590359	hubercolumbian-Wayuu	wayu1243		tail	1220	TAIL		si̵asi	s ɨ a s i
+557687	590364	hubercolumbian-Yucuna	yucu1253		tail	1220	TAIL		hipíhi	h i p i h i
+566877	599556	chaconbaniwa-Aha	bani1255		that	78	THAT		liara	l i a ɾ a
+566998	599677	hubercolumbian-Achagua	acha1250		that	78	THAT		léʔe	l e ʔ e
+566999	599678	hubercolumbian-Achagua	acha1250		that	78	THAT		liáʔa	l i a ʔ a
+567017	599696	hubercolumbian-Curripaco	curr1243		that	78	THAT		lianahi	l i a n a h i
+567024	599703	hubercolumbian-Giacone	tari1256		that	78	THAT		neánoka neut	n e a n o k a + n e u t
+567044	599723	hubercolumbian-Piapoco	piap1246		that	78	THAT		jáde	j a d e
+567048	599727	hubercolumbian-Resigaro	resi1247		that	78	THAT		giʔitʰé	g i ʔ i tʰ e
+567049	599728	hubercolumbian-Resigaro	resi1247		that	78	THAT		héʔe	h e ʔ e
+567067	599746	hubercolumbian-Wayuu	wayu1243		that	78	THAT		ʧiʔjá	tʃ i ʔ j a
+567073	599752	hubercolumbian-Yucuna	yucu1253		that	78	THAT		ilére	i l e r e
+577918	610597	chaconbaniwa-Aha	bani1255		this	1214	THIS		liahi	l i a h i
+578080	610759	hubercolumbian-Achagua	acha1250		this	1214	THIS		lée	l e e
+578081	610760	hubercolumbian-Achagua	acha1250		this	1214	THIS		ʒúani	ʒ u a n i
+578082	610761	hubercolumbian-Achagua	acha1250		this	1214	THIS		liáni	l i a n i
+578090	610769	hubercolumbian-Cabiyari	cabi1241		this	1214	THIS		jaali	j aː l i
+578099	610778	hubercolumbian-Curripaco	curr1243		this	1214	THIS		liahi	l i a h i
+578106	610785	hubercolumbian-Giacone	tari1256		this	1214	THIS		ahi	a h i
+578107	610786	hubercolumbian-Giacone	tari1256		this	1214	THIS		ihí	i h i
+578108	610787	hubercolumbian-Giacone	tari1256		this	1214	THIS		ahipa	a h i p a
+578130	610809	hubercolumbian-Piapoco	piap1246		this	1214	THIS		jái	j a i
+578131	610810	hubercolumbian-Piapoco	piap1246		this	1214	THIS		jái jáí	j a i + j a i
+578135	610814	hubercolumbian-Resigaro	resi1247		this	1214	THIS		giʔí	g i ʔ i
+578136	610815	hubercolumbian-Resigaro	resi1247		this	1214	THIS		hí	h i
+578153	610832	hubercolumbian-Wayuu	wayu1243		this	1214	THIS		ti̵	t ɨ
+578159	610838	hubercolumbian-Yucuna	yucu1253		this	1214	THIS		maarí	m aː r i
+578160	610839	hubercolumbian-Yucuna	yucu1253		this	1214	THIS		riiká	r iː k a
+578161	610840	hubercolumbian-Yucuna	yucu1253		this	1214	THIS		iilé	iː l e
+580070	612752	chaconbaniwa-Aha	bani1255		thou	1215	THOU		phia	pʰ i a
+580281	612963	hubercolumbian-Achagua	acha1250		thou	1215	THOU		hijá	h i j a
+580286	612968	hubercolumbian-Cabiyari	cabi1241		thou	1215	THOU		pi	p i
+580294	612976	hubercolumbian-Curripaco	curr1243		thou	1215	THOU		pia	p i a
+580302	612984	hubercolumbian-Giacone	tari1256		thou	1215	THOU		pihá	p i h a
+580324	613006	hubercolumbian-Piapoco	piap1246		thou	1215	THOU		pía	p i a
+580328	613010	hubercolumbian-Resigaro	resi1247		thou	1215	THOU		pʰú	pʰ u
+580342	613024	hubercolumbian-Wayuu	wayu1243		thou	1215	THOU		piá	p i a
+580347	613029	hubercolumbian-Yucuna	yucu1253		thou	1215	THOU		piikʰá	p iː kʰ a
+595996	628683	carvalhopurus-Apurina	apur1254		tongue	1205	TONGUE		-nɨnɨ	n ɨ n ɨ
+595997	628684	carvalhopurus-Inapari	inap1242		tongue	1205	TONGUE		není-pa-ti	n e n i + p a + t i
+595998	628685	carvalhopurus-Yine	yine1238		tongue	1205	TONGUE		hi-nnɨ	h i + n n ɨ
+596007	628694	chaconbaniwa-Aha	bani1255		tongue	1205	TONGUE		lienene	l i e n e n e
+596178	628865	hubercolumbian-Achagua	acha1250		tongue	1205	TONGUE		íinanee	i i n a n eː
+596184	628871	hubercolumbian-Cabiyari	cabi1241		tongue	1205	TONGUE		nuneni	n u n e n i
+596192	628879	hubercolumbian-Curripaco	curr1243		tongue	1205	TONGUE		noenene	n o e n e n e
+596201	628888	hubercolumbian-Giacone	tari1256		tongue	1205	TONGUE		ueninéne	u e n i n e n e
+596202	628889	hubercolumbian-Giacone	tari1256		tongue	1205	TONGUE		uecnená	u e c n e n a
+596219	628906	hubercolumbian-Piapoco	piap1246		tongue	1205	TONGUE		wanène	w a n e n e
+596223	628910	hubercolumbian-Resigaro	resi1247		tongue	1205	TONGUE		eʔhéepé	e ʔ h e e p e
+596237	628924	hubercolumbian-Wayuu	wayu1243		tongue	1205	TONGUE		wajée	w a j e e
+596238	628925	hubercolumbian-Wayuu	wayu1243		tongue	1205	TONGUE		wajee	w a j eː
+596239	628926	hubercolumbian-Wayuu	wayu1243		tongue	1205	TONGUE		waajee	w aː j eː
+596244	628931	hubercolumbian-Yucuna	yucu1253		tongue	1205	TONGUE		wallená	w a l l e n a
+598208	630895	chaconbaniwa-Aha	bani1255		tooth	1380	TOOTH		lietsa	l i e ts a
+598356	631043	hubercolumbian-Achagua	acha1250		tooth	1380	TOOTH		ée	e e
+598363	631050	hubercolumbian-Cabiyari	cabi1241		tooth	1380	TOOTH		ʔia	ʔ i a
+598371	631058	hubercolumbian-Curripaco	curr1243		tooth	1380	TOOTH		noetsa	n o e ts a
+598378	631065	hubercolumbian-Giacone	tari1256		tooth	1380	TOOTH		ué	u e
+598395	631082	hubercolumbian-Piapoco	piap1246		tooth	1380	TOOTH		wajéi	w a j e i
+598399	631086	hubercolumbian-Resigaro	resi1247		tooth	1380	TOOTH		oné	o n e
+598414	631101	hubercolumbian-Wayuu	wayu1243		tooth	1380	TOOTH		wái	w a i
+598415	631102	hubercolumbian-Wayuu	wayu1243		tooth	1380	TOOTH		wái waai	w a i + w aː i
+598420	631107	hubercolumbian-Yucuna	yucu1253		tooth	1380	TOOTH		waíŋ	w a i ŋ
+598421	631108	hubercolumbian-Yucuna	yucu1253		tooth	1380	TOOTH		waíŋ waaíŋ	w a i ŋ + w aː i ŋ
+602546	635233	carvalhopurus-Apurina	apur1254		tree	906	TREE		ãamɨna	ã a m ɨ n a
+602547	635234	carvalhopurus-Inapari	inap1242		tree	906	TREE		haámɨna	h a a m ɨ n a
+602548	635235	carvalhopurus-Yine	yine1238		tree	906	TREE		hahmɨna	h a h m ɨ n a
+602557	635244	chaconbaniwa-Aha	bani1255		tree	906	TREE		haiko	h a i k o
+602759	635446	hubercolumbian-Achagua	acha1250		tree	906	TREE		húuba	h u u b a
+602760	635447	hubercolumbian-Achagua	acha1250		tree	906	TREE		áikuba	a i k u b a
+602765	635452	hubercolumbian-Cabiyari	cabi1241		tree	906	TREE		ʔahaa	ʔ a h aː
+602774	635461	hubercolumbian-Curripaco	curr1243		tree	906	TREE		haiko	h a i k o
+602781	635468	hubercolumbian-Giacone	tari1256		tree	906	TREE		aíkuna	a i k u n a
+602802	635489	hubercolumbian-Piapoco	piap1246		tree	906	TREE		jéetaná	j e e t a n a
+602803	635490	hubercolumbian-Piapoco	piap1246		tree	906	TREE		àiku	a i k u
+602808	635495	hubercolumbian-Resigaro	resi1247		tree	906	TREE		aβáanaʔé	a β a a n a ʔ e
+602822	635509	hubercolumbian-Wayuu	wayu1243		tree	906	TREE		wunúʔu	w u n u ʔ u
+602827	635514	hubercolumbian-Yucuna	yucu1253		tree	906	TREE		aʔawaná	a ʔ a w a n a
+611032	643719	carvalhopurus-Apurina	apur1254		two	1498	TWO		epi	e p i
+611033	643720	carvalhopurus-Inapari	inap1242		two	1498	TWO		hepí	h e p i
+611034	643721	carvalhopurus-Yine	yine1238		two	1498	TWO		hepi	h e p i
+611043	643730	chaconbaniwa-Aha	bani1255		two	1498	TWO		jamada	j a m a d a
+611256	643943	hubercolumbian-Achagua	acha1250		two	1498	TWO		ʧámai	tʃ a m a i
+611257	643944	hubercolumbian-Achagua	acha1250		two	1498	TWO		ʧámaahu	tʃ a m aː h u
+611262	643949	hubercolumbian-Cabiyari	cabi1241		two	1498	TWO		ʧumaaka	tʃ u m aː k a
+611271	643958	hubercolumbian-Curripaco	curr1243		two	1498	TWO		jamada	j a m a d a
+611279	643966	hubercolumbian-Giacone	tari1256		two	1498	TWO		iamépa	i a m e p a
+611301	643988	hubercolumbian-Piapoco	piap1246		two	1498	TWO		puʧáiba	p u tʃ a i b a
+611305	643992	hubercolumbian-Resigaro	resi1247		two	1498	TWO		migaakú	m i g aː k u
+611320	644007	hubercolumbian-Wayuu	wayu1243		two	1498	TWO		piáma	p i a m a
+611325	644012	hubercolumbian-Yucuna	yucu1253		two	1498	TWO		ijamá	i j a m a
+626902	679563	chaconbaniwa-Aha	bani1255		white	1335	WHITE		haːledali	h aː l e d a l i
+627105	679766	hubercolumbian-Achagua	acha1250		white	1335	WHITE		kabálai	k a b a l a i
+627111	679772	hubercolumbian-Cabiyari	cabi1241		white	1335	WHITE		kaatalike	k aː t a l i k e
+627120	679781	hubercolumbian-Curripaco	curr1243		white	1335	WHITE		haledali	h a l e d a l i
+627130	679791	hubercolumbian-Giacone	tari1256		white	1335	WHITE		haléperi	h a l e p e r i
+627151	679812	hubercolumbian-Piapoco	piap1246		white	1335	WHITE		kabalèeri	k a b a l e e r i
+627155	679816	hubercolumbian-Resigaro	resi1247		white	1335	WHITE		heɸííʔ	h e ɸ i i ʔ
+627172	679833	hubercolumbian-Wayuu	wayu1243		white	1335	WHITE		kasúusi̵	k a s u u s ɨ
+627173	679834	hubercolumbian-Wayuu	wayu1243		white	1335	WHITE		kasúutolu	k a s u u t o l u
+627174	679835	hubercolumbian-Wayuu	wayu1243		white	1335	WHITE		kasúutot	k a s u u t o t
+627179	679840	hubercolumbian-Yucuna	yucu1253		white	1335	WHITE		haréni	h a r e n i
+629430	682183	chaconbaniwa-Aha	bani1255		who	1235	WHO		kuka	k u k a
+629558	682311	hubercolumbian-Achagua	acha1250		who	1235	WHO		tána híni	t a n a + h i n i
+629559	682312	hubercolumbian-Achagua	acha1250		who	1235	WHO		táda	t a d a
+629579	682332	hubercolumbian-Curripaco	curr1243		who	1235	WHO		kuka	k u k a
+629586	682339	hubercolumbian-Giacone	tari1256		who	1235	WHO		koána	k o a n a
+629587	682340	hubercolumbian-Giacone	tari1256		who	1235	WHO		koána járupe	k o a n a + j a r u p e
+629588	682341	hubercolumbian-Giacone	tari1256		who	1235	WHO		koánaha	k o a n a h a
+629616	682369	hubercolumbian-Piapoco	piap1246		who	1235	WHO		kawiná	k a w i n a
+629620	682373	hubercolumbian-Resigaro	resi1247		who	1235	WHO		kéení	k e e n i
+629640	682393	hubercolumbian-Wayuu	wayu1243		who	1235	WHO		harái	h a r a i
+629645	682398	hubercolumbian-Yucuna	yucu1253		who	1235	WHO		na	n a
+639741	692496	carvalhopurus-Apurina	apur1254		woman	962	WOMAN		sɨto	s ɨ t o
+639742	692497	carvalhopurus-Yine	yine1238		woman	962	WOMAN		sɨco	s ɨ tʃ o
+639748	692503	chaconbaniwa-Aha	bani1255		woman	962	WOMAN		iːnaro	iː n a ɾ o
+639949	692704	hubercolumbian-Achagua	acha1250		woman	962	WOMAN		íina	i i n a
+639950	692705	hubercolumbian-Achagua	acha1250		woman	962	WOMAN		íinetoo	i i n e t oː
+639965	692720	hubercolumbian-Curripaco	curr1243		woman	962	WOMAN		inaro	i n a r o
+639972	692727	hubercolumbian-Giacone	tari1256		woman	962	WOMAN		ínaru	i n a r u
+639993	692748	hubercolumbian-Piapoco	piap1246		woman	962	WOMAN		inanái	i n a n a i
+639998	692753	hubercolumbian-Resigaro	resi1247		woman	962	WOMAN		ináadó	i n a a d o
+640020	692775	hubercolumbian-Wayuu	wayu1243		woman	962	WOMAN		hiéri̵	h i e r ɨ
+640025	692780	hubercolumbian-Yucuna	yucu1253		woman	962	WOMAN		inanáru	i n a n a r u

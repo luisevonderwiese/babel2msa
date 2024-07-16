@@ -1,0 +1,693 @@
+	ID	DOCULECT	CONCEPT	Segments	GLOTTOCODE	ISO_CODE	CONCEPTICON_ID	CONCEPTICON_GLOSS	COGNATES	FORM
+0	erzya-100_many-1	erzya	100_many	l ɑ m o	erzy1239	myv	1198	MANY	2872	
+1	erzya-101_meatflesh-1	erzya	101_meatflesh	s i v e ʎ	erzy1239	myv	2615	FLESH OR MEAT	2882	
+2	erzya-102_moon-1	erzya	102_moon	k o v	erzy1239	myv	1313	MOON	2889	
+4	erzya-104_mountain-1	erzya	104_mountain	p ɑ n d o	erzy1239	myv	639	MOUNTAIN	2905	
+5	erzya-105_mouth-1	erzya	105_mouth	k u r ɡ o	erzy1239	myv	674	MOUTH	2916	
+6	erzya-106_name-1	erzya	106_name	ʎ e m	erzy1239	myv	1405	NAME	2921	
+9	erzya-109_neck-1	erzya	109_neck	k i rʲ ɡ ɑ	erzy1239	myv	1333	NECK	2949	
+10	erzya-10_belly-1	erzya	10_belly	p e k e	erzy1239	myv	1251	BELLY	3	
+11	erzya-110_new-1	erzya	110_new	o d	erzy1239	myv	1231	NEW	33	
+12	erzya-111_night-1	erzya	111_night	v e	erzy1239	myv	1233	NIGHT	2960	
+13	erzya-112_nose-1	erzya	112_nose	s u d o	erzy1239	myv	1221	NOSE	2964	
+14	erzya-113_not-1	erzya	113_not	ɑ	erzy1239	myv	1240	NOT	2969	
+15	erzya-115_one-1	erzya	115_one	v e j k e	erzy1239	myv	1493	ONE	34	
+18	erzya-117_person-1	erzya	117_person	l o m ɑ ɲ	erzy1239	myv	683	PERSON	2984	
+21	erzya-11_big-1	erzya	11_big	p o k ʃ	erzy1239	myv	1202	BIG	2389	
+23	erzya-121_rain-1	erzya	121_rain	p i ʑ e m s	erzy1239	myv	2108	RAINING OR RAIN	3028	
+24	erzya-122_red-1	erzya	122_red	j ɑ k s tʲ e rʲ e	erzy1239	myv	156	RED	3034	
+26	erzya-126_road-1	erzya	126_road	k i	erzy1239	myv	667	ROAD	3050	
+27	erzya-127_root-1	erzya	127_root	j u r	erzy1239	myv	670	ROOT	3056	
+28	erzya-127_root-2	erzya	127_root	u n d o k s	erzy1239	myv	670	ROOT	38	
+29	erzya-127_root-3	erzya	127_root	k o rʲ o n	erzy1239	myv	670	ROOT	3058	
+31	erzya-12_bird-1	erzya	12_bird	n ɑ r m u ɲ	erzy1239	myv	937	BIRD	2395	
+32	erzya-130_round-1	erzya	130_round	k r u ɡ l o j	erzy1239	myv	1395	ROUND	3082	
+33	erzya-130_round-2	erzya	130_round	k e v e rʲ	erzy1239	myv	1395	ROUND	3077	
+37	erzya-133_sand-1	erzya	133_sand	p e s o k	erzy1239	myv	671	SAND	43	
+38	erzya-134_say-1	erzya	134_say	j o v t ɑ m s	erzy1239	myv	1458	SAY	3118	
+39	erzya-134_say-2	erzya	134_say	m e rʲ e m s	erzy1239	myv	1458	SAY	3120	
+40	erzya-137_see-1	erzya	137_see	ɲ e j e m s	erzy1239	myv	1409	SEE	3130	
+41	erzya-138_seed-1	erzya	138_seed	v i dʲ m e	erzy1239	myv	714	SEED	3139	
+45	erzya-143_sit-1	erzya	143_sit	ɑ ʃ tʲ e m s + o z ɑ d o	erzy1239	myv	1416	SIT	3174	
+46	erzya-144_skin-1	erzya	144_skin	k i ɕ k e	erzy1239	myv	763	SKIN	3180	
+47	erzya-144_skin-2	erzya	144_skin	k e dʲ	erzy1239	myv	763	SKIN	3184	
+49	erzya-146_sleep-1	erzya	146_sleep	u d o m s	erzy1239	myv	1585	SLEEP	3196	
+50	erzya-147_small-1	erzya	147_small	v i ʃ k ɑ	erzy1239	myv	1246	SMALL	3202	
+52	erzya-149_smoke-1	erzya	149_smoke	k ɑ tʃ ɑ m o	erzy1239	myv	778	SMOKE (EXHAUST)	3218	
+53	erzya-14_black-1	erzya	14_black	r ɑ u ʒ o	erzy1239	myv	163	BLACK	2405	
+68	erzya-158_stand-1	erzya	158_stand	ɑ ʃ tʲ e m s + ɕ tʲ ɑ d o	erzy1239	myv	1442	STAND	46	
+69	erzya-159_star-1	erzya	159_star	tʲ e ʃ tʲ e	erzy1239	myv	1430	STAR	3310	
+70	erzya-15_blood-1	erzya	15_blood	v e rʲ	erzy1239	myv	946	BLOOD	2411	
+71	erzya-161_stone-1	erzya	161_stone	c e v	erzy1239	myv	857	STONE	3315	
+74	erzya-164_sun-1	erzya	164_sun	tʃ i	erzy1239	myv	1343	SUN	3336	
+76	erzya-166_swim-1	erzya	166_swim	u j e m s	erzy1239	myv	1439	SWIM	3354	
+77	erzya-167_tail-1	erzya	167_tail	p u l o	erzy1239	myv	1220	TAIL	3361	
+78	erzya-168_that-1	erzya	168_that	t o n ɑ	erzy1239	myv	78	THAT	3366	
+79	erzya-168_that-2	erzya	168_that	ɕ e	erzy1239	myv	78	THAT	3367	
+88	erzya-174_this-1	erzya	174_this	tʲ e	erzy1239	myv	1214	THIS	3413	
+93	erzya-178_tongue-1	erzya	178_tongue	k e ʎ	erzy1239	myv	1205	TONGUE	51	
+94	erzya-179_tooth-1	erzya	179_tooth	p e j	erzy1239	myv	1380	TOOTH	3448	
+95	erzya-17_bone-1	erzya	17_bone	l o v ɑ ʒ ɑ	erzy1239	myv	1394	BONE	2418	
+96	erzya-17_bone-2	erzya	17_bone	p ɑ k ɑ rʲ	erzy1239	myv	1394	BONE	2419	
+97	erzya-180_tree-1	erzya	180_tree	tʃ u v t o	erzy1239	myv	906	TREE	3451	
+100	erzya-182_two-1	erzya	182_two	k ɑ v t o	erzy1239	myv	1498	TWO	3463	
+102	erzya-184_walk-1	erzya	184_walk	j ɑ k ɑ m s	erzy1239	myv	1443	WALK	3470	
+105	erzya-187_water-1	erzya	187_water	v e dʲ	erzy1239	myv	948	WATER	3497	
+106	erzya-188_we-1	erzya	188_we	m i ɲ	erzy1239	myv	1212	WE	3499	
+107	erzya-18_breast-1	erzya	18_breast	m e ʃ tʲ e	erzy1239	myv	1402	BREAST	2422	
+108	erzya-18_breast-2	erzya	18_breast	p o tʲ e	erzy1239	myv	1402	BREAST	2428	
+109	erzya-193_white-1	erzya	193_white	ɑ ʃ o	erzy1239	myv	1335	WHITE	3508	
+117	erzya-1_all-1	erzya	1_all	v e ɕ e	erzy1239	myv	98	ALL	2296	
+121	erzya-205_yellow-1	erzya	205_yellow	o ʒ o	erzy1239	myv	1424	YELLOW	3574	
+122	erzya-20_burn-1	erzya	20_burn	p ɑ l o m s	erzy1239	myv	2102	BURN	2436	
+123	erzya-23_cloud-1	erzya	23_cloud	p e ʎ	erzy1239	myv	1489	CLOUD	2444	
+124	erzya-23_cloud-2	erzya	23_cloud	k o v o l	erzy1239	myv	1489	CLOUD	2445	
+125	erzya-24_cold-1	erzya	24_cold	k e ʎ m e	erzy1239	myv	1287	COLD	2448	
+126	erzya-25_come-1	erzya	25_come	s ɑ m s	erzy1239	myv	1446	COME	2457	
+130	erzya-29_die-1	erzya	29_die	k u l o m s	erzy1239	myv	1494	DIE	2476	
+137	erzya-32_dog-1	erzya	32_dog	p i ɲ e	erzy1239	myv	2009	DOG	11	
+138	erzya-32_dog-2	erzya	32_dog	k i s k ɑ	erzy1239	myv	2009	DOG	2507	
+139	erzya-33_drink-1	erzya	33_drink	ɕ i m e m s	erzy1239	myv	1401	DRINK	2511	
+140	erzya-34_dry-1	erzya	34_dry	k o ɕ k e	erzy1239	myv	1398	DRY	2516	
+144	erzya-37_ear-1	erzya	37_ear	p i ʎ e	erzy1239	myv	1247	EAR	2539	
+145	erzya-38_earth-1	erzya	38_earth	m o d ɑ	erzy1239	myv	1228	EARTH (SOIL)	13	
+146	erzya-39_eat-1	erzya	39_eat	s e v e m s	erzy1239	myv	1336	EAT	14	
+147	erzya-39_eat-2	erzya	39_eat	j ɑ r s ɑ m s	erzy1239	myv	1336	EAT	2545	
+150	erzya-40_egg-1	erzya	40_egg	ɑ l	erzy1239	myv	744	EGG	2549	
+151	erzya-41_eye-1	erzya	41_eye	ɕ e ʎ m e	erzy1239	myv	1248	EYE	2554	
+156	erzya-47_feather-1	erzya	47_feather	t o l ɡ ɑ	erzy1239	myv	1201	FEATHER	2591	
+158	erzya-4_ashes-1	erzya	4_ashes	k u l o v	erzy1239	myv	646	ASH	2336	
+159	erzya-50_fire-1	erzya	50_fire	t o l	erzy1239	myv	221	FIRE	2608	
+160	erzya-51_fish-1	erzya	51_fish	k ɑ l	erzy1239	myv	227	FISH	2613	
+166	erzya-56_flyv-1	erzya	56_flyv	ʎ i v tʲ ɑ m s	erzy1239	myv	1441	FLY (MOVE THROUGH AIR)	2649	
+169	erzya-58_foot-1	erzya	58_foot	p i ʎ ɡ e	erzy1239	myv	1301	FOOT	2666	
+176	erzya-62_full-1	erzya	62_full	p e ʃ k ɕ e	erzy1239	myv	1429	FULL	2682	
+177	erzya-63_give-1	erzya	63_give	m ɑ k s o m s	erzy1239	myv	1447	GIVE	2688	
+178	erzya-64_good-1	erzya	64_good	p ɑ r o	erzy1239	myv	1035	GOOD	2693	
+180	erzya-66_green-1	erzya	66_green	p i ʒ e	erzy1239	myv	1425	GREEN	2710	
+181	erzya-68_hair-1	erzya	68_hair	tʃ e rʲ	erzy1239	myv	1040	HAIR	2718	
+182	erzya-68_hair-2	erzya	68_hair	p o n ɑ	erzy1239	myv	1040	HAIR	2721	
+183	erzya-69_hand-1	erzya	69_hand	k e dʲ	erzy1239	myv	1277	HAND	2724	
+184	erzya-71_head-1	erzya	71_head	p rʲ ɑ	erzy1239	myv	1256	HEAD	2728	
+185	erzya-72_hear-1	erzya	72_hear	k u ʎ e m s	erzy1239	myv	1408	HEAR	2732	
+186	erzya-72_hear-2	erzya	72_hear	m ɑ rʲ ɑ m s	erzy1239	myv	1408	HEAR	2734	
+187	erzya-73_heart-1	erzya	73_heart	ɕ e dʲ e j	erzy1239	myv	1223	HEART	2735	
+192	erzya-78_horn-1	erzya	78_horn	ɕ u r o	erzy1239	myv	1393	HORN (ANATOMY)	2770	
+194	erzya-82_i-1	erzya	82_i	m o n	erzy1239	myv	1209	I	2293	
+197	erzya-86_kill-1	erzya	86_kill	m ɑ ʃ t o m s	erzy1239	myv	1417	KILL	2804	
+198	erzya-86_kill-2	erzya	86_kill	tʃ ɑ v o m s	erzy1239	myv	1417	KILL	2805	
+199	erzya-87_knee-1	erzya	87_knee	k u m ɑ ʒ ɑ	erzy1239	myv	1371	KNEE	27	
+202	erzya-8_bark-1	erzya	8_bark	k e rʲ	erzy1239	myv	1204	BARK	2352	
+203	erzya-8_bark-2	erzya	8_bark	s u d	erzy1239	myv	1204	BARK	2354	
+206	erzya-91_leaf-1	erzya	91_leaf	l o p ɑ	erzy1239	myv	628	LEAF	2836	
+210	erzya-96_liver-1	erzya	96_liver	m ɑ k s o	erzy1239	myv	1224	LIVER	2861	
+211	erzya-97_long-1	erzya	97_long	k u v ɑ k ɑ	erzy1239	myv	1203	LONG	2864	
+212	erzya-98_louse-1	erzya	98_louse	e ʎ i	erzy1239	myv	1392	LOUSE	2869	
+215	ingrian-100_many-1	ingrian	100_many	m o n i	ingr1248	izh	1198	MANY	2871	
+216	ingrian-101_meatflesh-1	ingrian	101_meatflesh	l i h ɑ	ingr1248	izh	2615	FLESH OR MEAT	2881	
+217	ingrian-102_moon-1	ingrian	102_moon	k uː	ingr1248	izh	1313	MOON	2889	
+220	ingrian-105_mouth-1	ingrian	105_mouth	s uː	ingr1248	izh	674	MOUTH	2915	
+221	ingrian-106_name-1	ingrian	106_name	n i m i	ingr1248	izh	1405	NAME	2921	
+224	ingrian-109_neck-1	ingrian	109_neck	k ɑ ɡ̥ l ɑ	ingr1248	izh	1333	NECK	2947	
+225	ingrian-10_belly-1	ingrian	10_belly	v ɑ t s ɑ	ingr1248	izh	1251	BELLY	2371	
+226	ingrian-110_new-1	ingrian	110_new	uː z	ingr1248	izh	1231	NEW	33	
+227	ingrian-111_night-1	ingrian	111_night	øː	ingr1248	izh	1233	NIGHT	2960	
+228	ingrian-112_nose-1	ingrian	112_nose	n e n æ	ingr1248	izh	1221	NOSE	2963	
+229	ingrian-113_not-1	ingrian	113_not	e i	ingr1248	izh	1240	NOT	2969	
+230	ingrian-115_one-1	ingrian	115_one	y k s	ingr1248	izh	1493	ONE	36	
+232	ingrian-117_person-1	ingrian	117_person	i h m iː n	ingr1248	izh	683	PERSON	2982	
+233	ingrian-117_person-2	ingrian	117_person	h e n k i	ingr1248	izh	683	PERSON	2983	
+234	ingrian-117_person-3	ingrian	117_person	e lː æː j æ	ingr1248	izh	683	PERSON	2992	
+240	ingrian-11_big-1	ingrian	11_big	s uː r	ingr1248	izh	1202	BIG	2385	
+243	ingrian-121_rain-1	ingrian	121_rain	s ɑ e	ingr1248	izh	2108	RAINING OR RAIN	3026	
+244	ingrian-121_rain-2	ingrian	121_rain	v i h m ɑ	ingr1248	izh	2108	RAINING OR RAIN	3027	
+245	ingrian-122_red-1	ingrian	122_red	p u nː ɑ i n	ingr1248	izh	156	RED	3033	
+247	ingrian-126_road-1	ingrian	126_road	t eː	ingr1248	izh	667	ROAD	3049	
+248	ingrian-127_root-1	ingrian	127_root	j uː r i	ingr1248	izh	670	ROOT	3056	
+250	ingrian-12_bird-1	ingrian	12_bird	l i n d̥ u	ingr1248	izh	937	BIRD	2394	
+251	ingrian-130_round-1	ingrian	130_round	y m b̥ æ r ɡ̥ æ i n	ingr1248	izh	1395	ROUND	3070	
+252	ingrian-130_round-2	ingrian	130_round	p øː r i æ	ingr1248	izh	1395	ROUND	3069	
+256	ingrian-133_sand-1	ingrian	133_sand	l iː v ɑ	ingr1248	izh	671	SAND	3107	
+257	ingrian-134_say-1	ingrian	134_say	s ɑ nː oː ɑ	ingr1248	izh	1458	SAY	3117	
+258	ingrian-134_say-2	ingrian	134_say	v e r k k ɑː	ingr1248	izh	1458	SAY	3129	
+259	ingrian-137_see-1	ingrian	137_see	n æ h h æ	ingr1248	izh	1409	SEE	3130	
+260	ingrian-138_seed-1	ingrian	138_seed	s eː m e n	ingr1248	izh	714	SEED	3138	
+265	ingrian-143_sit-1	ingrian	143_sit	i s t u ɑ	ingr1248	izh	1416	SIT	3174	
+266	ingrian-144_skin-1	ingrian	144_skin	i h o	ingr1248	izh	763	SKIN	3178	
+267	ingrian-144_skin-2	ingrian	144_skin	h i b j æ	ingr1248	izh	763	SKIN	3179	
+268	ingrian-144_skin-3	ingrian	144_skin	t eː l ɑ	ingr1248	izh	763	SKIN	3185	
+270	ingrian-146_sleep-1	ingrian	146_sleep	n u k k u ɑ	ingr1248	izh	1585	SLEEP	3194	
+271	ingrian-146_sleep-2	ingrian	146_sleep	m ɑ m m ɑ d̥ ɑ	ingr1248	izh	1585	SLEEP	3195	
+272	ingrian-147_small-1	ingrian	147_small	p eː n	ingr1248	izh	1246	SMALL	3201	
+273	ingrian-149_smoke-1	ingrian	149_smoke	s ɑ v v u	ingr1248	izh	778	SMOKE (EXHAUST)	3217	
+274	ingrian-14_black-1	ingrian	14_black	m u s t ɑ	ingr1248	izh	163	BLACK	2404	
+288	ingrian-158_stand-1	ingrian	158_stand	s e i s s æ	ingr1248	izh	1442	STAND	3306	
+289	ingrian-159_star-1	ingrian	159_star	t æ h t i	ingr1248	izh	1430	STAR	3310	
+290	ingrian-15_blood-1	ingrian	15_blood	v e r i	ingr1248	izh	946	BLOOD	2411	
+291	ingrian-161_stone-1	ingrian	161_stone	k i v i	ingr1248	izh	857	STONE	3315	
+295	ingrian-164_sun-1	ingrian	164_sun	p æ i v y d̥	ingr1248	izh	1343	SUN	3335	
+297	ingrian-166_swim-1	ingrian	166_swim	u jː uː ɑ	ingr1248	izh	1439	SWIM	3354	
+298	ingrian-167_tail-1	ingrian	167_tail	h æ n d̥ æ	ingr1248	izh	1220	TAIL	3358	
+299	ingrian-168_that-1	ingrian	168_that	t oː	ingr1248	izh	78	THAT	3366	
+307	ingrian-174_this-1	ingrian	174_this	t æ m æ	ingr1248	izh	1214	THIS	3413	
+311	ingrian-178_tongue-1	ingrian	178_tongue	k eː l i	ingr1248	izh	1205	TONGUE	51	
+312	ingrian-179_tooth-1	ingrian	179_tooth	h ɑ m m ɑ z	ingr1248	izh	1380	TOOTH	3447	
+313	ingrian-17_bone-1	ingrian	17_bone	l uː	ingr1248	izh	1394	BONE	2418	
+314	ingrian-180_tree-1	ingrian	180_tree	p uː	ingr1248	izh	906	TREE	3450	
+316	ingrian-182_two-1	ingrian	182_two	k ɑ k s	ingr1248	izh	1498	TWO	3463	
+318	ingrian-184_walk-1	ingrian	184_walk	k æ v e l l æ	ingr1248	izh	1443	WALK	3469	
+323	ingrian-187_water-1	ingrian	187_water	v e z i	ingr1248	izh	948	WATER	3497	
+324	ingrian-188_we-1	ingrian	188_we	m øː	ingr1248	izh	1212	WE	3499	
+325	ingrian-18_breast-1	ingrian	18_breast	r i n d̥ ɑ	ingr1248	izh	1402	BREAST	2421	
+326	ingrian-193_white-1	ingrian	193_white	v ɑ l k i ɑ	ingr1248	izh	1335	WHITE	3500	
+332	ingrian-1_all-1	ingrian	1_all	k ɑ i	ingr1248	izh	98	ALL	2294	
+336	ingrian-205_yellow-1	ingrian	205_yellow	k e l t ɑ i n	ingr1248	izh	1424	YELLOW	3572	
+337	ingrian-20_burn-1	ingrian	20_burn	p ɑ lː ɑː	ingr1248	izh	2102	BURN	2436	
+338	ingrian-23_cloud-1	ingrian	23_cloud	p i l v i	ingr1248	izh	1489	CLOUD	2444	
+339	ingrian-23_cloud-2	ingrian	23_cloud	t uː tː s ɑ	ingr1248	izh	1489	CLOUD	7	
+340	ingrian-24_cold-1	ingrian	24_cold	k y l m æ	ingr1248	izh	1287	COLD	2448	
+341	ingrian-24_cold-2	ingrian	24_cold	k uː m ɑ	ingr1248	izh	1287	COLD	2455	
+342	ingrian-25_come-1	ingrian	25_come	t u l l ɑ	ingr1248	izh	1446	COME	2456	
+346	ingrian-29_die-1	ingrian	29_die	k oː l l ɑ	ingr1248	izh	1494	DIE	2476	
+353	ingrian-32_dog-1	ingrian	32_dog	k o i r ɑ	ingr1248	izh	2009	DOG	2505	
+354	ingrian-33_drink-1	ingrian	33_drink	j oː v v ɑ	ingr1248	izh	1401	DRINK	2510	
+355	ingrian-34_dry-1	ingrian	34_dry	k u i v ɑ	ingr1248	izh	1398	DRY	2514	
+358	ingrian-37_ear-1	ingrian	37_ear	k o r v ɑ	ingr1248	izh	1247	EAR	2538	
+359	ingrian-38_earth-1	ingrian	38_earth	m ɑː	ingr1248	izh	1228	EARTH (SOIL)	13	
+360	ingrian-39_eat-1	ingrian	39_eat	s øː vː æ	ingr1248	izh	1336	EAT	14	
+362	ingrian-40_egg-1	ingrian	40_egg	m u n ɑ	ingr1248	izh	744	EGG	2548	
+363	ingrian-41_eye-1	ingrian	41_eye	s i l m æ	ingr1248	izh	1248	EYE	2554	
+369	ingrian-47_feather-1	ingrian	47_feather	s u l ɡ̥ ɑ	ingr1248	izh	1201	FEATHER	19	
+370	ingrian-47_feather-2	ingrian	47_feather	h ø y h e n	ingr1248	izh	1201	FEATHER	2596	
+371	ingrian-4_ashes-1	ingrian	4_ashes	p o r o	ingr1248	izh	646	ASH	2330	
+372	ingrian-50_fire-1	ingrian	50_fire	t u l i	ingr1248	izh	221	FIRE	2608	
+373	ingrian-51_fish-1	ingrian	51_fish	k ɑ l ɑ	ingr1248	izh	227	FISH	2613	
+377	ingrian-56_flyv-1	ingrian	56_flyv	l e n t æː	ingr1248	izh	1441	FLY (MOVE THROUGH AIR)	2648	
+381	ingrian-58_foot-1	ingrian	58_foot	j ɑ l ɡ̥ ɑ	ingr1248	izh	1301	FOOT	2665	
+385	ingrian-62_full-1	ingrian	62_full	t æ y z	ingr1248	izh	1429	FULL	2681	
+386	ingrian-63_give-1	ingrian	63_give	ɑ n t ɑː	ingr1248	izh	1447	GIVE	2687	
+387	ingrian-64_good-1	ingrian	64_good	h y v æ	ingr1248	izh	1035	GOOD	2692	
+389	ingrian-66_green-1	ingrian	66_green	r o h o i n	ingr1248	izh	1425	GREEN	2709	
+390	ingrian-68_hair-1	ingrian	68_hair	h i u z	ingr1248	izh	1040	HAIR	2716	
+391	ingrian-68_hair-2	ingrian	68_hair	k ɑ r v ɑ	ingr1248	izh	1040	HAIR	2723	
+392	ingrian-69_hand-1	ingrian	69_hand	k æ z i	ingr1248	izh	1277	HAND	2724	
+393	ingrian-71_head-1	ingrian	71_head	p æː	ingr1248	izh	1256	HEAD	2726	
+394	ingrian-72_hear-1	ingrian	72_hear	k uː l l ɑ	ingr1248	izh	1408	HEAR	2732	
+395	ingrian-73_heart-1	ingrian	73_heart	s y æ n	ingr1248	izh	1223	HEART	2735	
+402	ingrian-78_horn-1	ingrian	78_horn	s ɑ r v i	ingr1248	izh	1393	HORN (ANATOMY)	2770	
+405	ingrian-82_i-1	ingrian	82_i	m i æ	ingr1248	izh	1209	I	2293	
+408	ingrian-86_kill-1	ingrian	86_kill	s u r m ɑ d̥ ɑ	ingr1248	izh	1417	KILL	2809	
+409	ingrian-87_knee-1	ingrian	87_knee	p o l v i	ingr1248	izh	1371	KNEE	2810	
+412	ingrian-8_bark-1	ingrian	8_bark	k oː r i	ingr1248	izh	1204	BARK	2352	
+414	ingrian-91_leaf-1	ingrian	91_leaf	l e h t i	ingr1248	izh	628	LEAF	2835	
+417	ingrian-96_liver-1	ingrian	96_liver	m ɑ k s ɑ	ingr1248	izh	1224	LIVER	2861	
+418	ingrian-97_long-1	ingrian	97_long	p i t k i	ingr1248	izh	1203	LONG	2863	
+419	ingrian-98_louse-1	ingrian	98_louse	t æ i	ingr1248	izh	1392	LOUSE	2868	
+423	komipermyak-100_many-1	komipermyak	100_many	u n ɑ	komi1269	koi	1198	MANY	2874	
+424	komipermyak-101_meatflesh-1	komipermyak	101_meatflesh	j ɑ i	komi1269	koi	2615	FLESH OR MEAT	2884	
+425	komipermyak-102_moon-1	komipermyak	102_moon	t ɤ l i ɕ	komi1269	koi	1313	MOON	2890	
+427	komipermyak-104_mountain-1	komipermyak	104_mountain	k e r ɤ s	komi1269	koi	639	MOUNTAIN	2912	
+428	komipermyak-105_mouth-1	komipermyak	105_mouth	ɤ m	komi1269	koi	674	MOUTH	2918	
+429	komipermyak-106_name-1	komipermyak	106_name	ɲ i m	komi1269	koi	1405	NAME	2921	
+432	komipermyak-109_neck-1	komipermyak	109_neck	ɡ o ʎ ɑ	komi1269	koi	1333	NECK	2951	
+433	komipermyak-10_belly-1	komipermyak	10_belly	k ɯ n ɤ m	komi1269	koi	1251	BELLY	2384	
+434	komipermyak-110_new-1	komipermyak	110_new	v i ʎ	komi1269	koi	1231	NEW	2955	
+435	komipermyak-111_night-1	komipermyak	111_night	o j	komi1269	koi	1233	NIGHT	2960	
+436	komipermyak-112_nose-1	komipermyak	112_nose	n ɯ r	komi1269	koi	1221	NOSE	2965	
+437	komipermyak-113_not-1	komipermyak	113_not	ɑ b u	komi1269	koi	1240	NOT	2969	
+438	komipermyak-113_not-2	komipermyak	113_not	ɲ e	komi1269	koi	1240	NOT	35	
+439	komipermyak-115_one-1	komipermyak	115_one	ɤ tʲ i k	komi1269	koi	1493	ONE	2971	
+441	komipermyak-117_person-1	komipermyak	117_person	m o r t	komi1269	koi	683	PERSON	2987	
+444	komipermyak-11_big-1	komipermyak	11_big	ɯ dʒ ɯ t	komi1269	koi	1202	BIG	2388	
+446	komipermyak-121_rain-1	komipermyak	121_rain	z e r	komi1269	koi	2108	RAINING OR RAIN	3030	
+447	komipermyak-122_red-1	komipermyak	122_red	ɡ ɤ r d	komi1269	koi	156	RED	3035	
+449	komipermyak-126_road-1	komipermyak	126_road	t u j	komi1269	koi	667	ROAD	3049	
+450	komipermyak-127_root-1	komipermyak	127_root	v u ʒ	komi1269	koi	670	ROOT	3057	
+452	komipermyak-12_bird-1	komipermyak	12_bird	k ɑ j	komi1269	koi	937	BIRD	2403	
+453	komipermyak-130_round-1	komipermyak	130_round	ɡ ɤ ɡ r ɤ s ɑ	komi1269	koi	1395	ROUND	3072	
+458	komipermyak-133_sand-1	komipermyak	133_sand	p e s ɤ k	komi1269	koi	671	SAND	43	
+459	komipermyak-134_say-1	komipermyak	134_say	v i ɕ t ɑ v n ɯ	komi1269	koi	1458	SAY	3122	
+460	komipermyak-134_say-2	komipermyak	134_say	ʃ u n ɯ	komi1269	koi	1458	SAY	3123	
+461	komipermyak-137_see-1	komipermyak	137_see	ɑ dʑ dʑ ɯ n ɯ	komi1269	koi	1409	SEE	3132	
+462	komipermyak-137_see-2	komipermyak	137_see	v i dʑ ɤ t n ɯ	komi1269	koi	1409	SEE	3135	
+463	komipermyak-138_seed-1	komipermyak	138_seed	t u ɕ	komi1269	koi	714	SEED	3141	
+464	komipermyak-138_seed-2	komipermyak	138_seed	k ɤ dʑ ɯ s	komi1269	koi	714	SEED	3142	
+468	komipermyak-143_sit-1	komipermyak	143_sit	p u k ɑ v n ɯ	komi1269	koi	1416	SIT	3176	
+469	komipermyak-144_skin-1	komipermyak	144_skin	k u tɕ i k	komi1269	koi	763	SKIN	3182	
+471	komipermyak-146_sleep-1	komipermyak	146_sleep	u ʑ n ɯ	komi1269	koi	1585	SLEEP	3198	
+472	komipermyak-147_small-1	komipermyak	147_small	u tɕ ɤ t	komi1269	koi	1246	SMALL	3204	
+474	komipermyak-149_smoke-1	komipermyak	149_smoke	tʃ ɯ n	komi1269	koi	778	SMOKE (EXHAUST)	3220	
+475	komipermyak-14_black-1	komipermyak	14_black	ɕ ɤ d	komi1269	koi	163	BLACK	2407	
+485	komipermyak-158_stand-1	komipermyak	158_stand	s u l ɑ v n ɯ	komi1269	koi	1442	STAND	3307	
+486	komipermyak-159_star-1	komipermyak	159_star	k ɤ dʑ ɯ v	komi1269	koi	1430	STAR	3312	
+487	komipermyak-15_blood-1	komipermyak	15_blood	v i r	komi1269	koi	946	BLOOD	2411	
+488	komipermyak-161_stone-1	komipermyak	161_stone	i z	komi1269	koi	857	STONE	3316	
+491	komipermyak-164_sun-1	komipermyak	164_sun	ʃ o n d i	komi1269	koi	1343	SUN	3337	
+493	komipermyak-166_swim-1	komipermyak	166_swim	u j ɑ v n ɯ	komi1269	koi	1439	SWIM	3354	
+494	komipermyak-167_tail-1	komipermyak	167_tail	b ɤ ʒ	komi1269	koi	1220	TAIL	3362	
+495	komipermyak-168_that-1	komipermyak	168_that	s i j ɑ	komi1269	koi	78	THAT	3367	
+502	komipermyak-174_this-1	komipermyak	174_this	e t ɑ	komi1269	koi	1214	THIS	3414	
+507	komipermyak-178_tongue-1	komipermyak	178_tongue	k ɯ v	komi1269	koi	1205	TONGUE	51	
+508	komipermyak-179_tooth-1	komipermyak	179_tooth	p i ɲ	komi1269	koi	1380	TOOTH	3448	
+509	komipermyak-17_bone-1	komipermyak	17_bone	l ɯ	komi1269	koi	1394	BONE	2418	
+510	komipermyak-17_bone-2	komipermyak	17_bone	k o s k ɑ	komi1269	koi	1394	BONE	2420	
+511	komipermyak-180_tree-1	komipermyak	180_tree	p u	komi1269	koi	906	TREE	3450	
+513	komipermyak-182_two-1	komipermyak	182_two	k ɯ k	komi1269	koi	1498	TWO	3463	
+515	komipermyak-184_walk-1	komipermyak	184_walk	v e t l ɤ t l ɯ n ɯ	komi1269	koi	1443	WALK	3472	
+518	komipermyak-187_water-1	komipermyak	187_water	v ɑ	komi1269	koi	948	WATER	3497	
+519	komipermyak-188_we-1	komipermyak	188_we	m i	komi1269	koi	1212	WE	3499	
+520	komipermyak-18_breast-1	komipermyak	18_breast	m o r o s	komi1269	koi	1402	BREAST	2424	
+521	komipermyak-193_white-1	komipermyak	193_white	tɕ o tɕ k o m	komi1269	koi	1335	WHITE	3507	
+527	komipermyak-1_all-1	komipermyak	1_all	b ɯ d ɤ s	komi1269	koi	98	ALL	2297	
+532	komipermyak-205_yellow-1	komipermyak	205_yellow	v e ʒ	komi1269	koi	1424	YELLOW	3573	
+533	komipermyak-20_burn-1	komipermyak	20_burn	s o tɕ tɕ ɯ n ɯ	komi1269	koi	2102	BURN	2440	
+534	komipermyak-23_cloud-1	komipermyak	23_cloud	k ɯ m ɤ r	komi1269	koi	1489	CLOUD	2445	
+535	komipermyak-24_cold-1	komipermyak	24_cold	k ɤ dʑ ɯ t	komi1269	koi	1287	COLD	2450	
+536	komipermyak-25_come-1	komipermyak	25_come	l o k n ɯ	komi1269	koi	1446	COME	2459	
+540	komipermyak-29_die-1	komipermyak	29_die	k u v n ɯ	komi1269	koi	1494	DIE	2476	
+545	komipermyak-32_dog-1	komipermyak	32_dog	p o n	komi1269	koi	2009	DOG	11	
+546	komipermyak-33_drink-1	komipermyak	33_drink	j u n ɯ	komi1269	koi	1401	DRINK	2510	
+547	komipermyak-34_dry-1	komipermyak	34_dry	k ɤ s	komi1269	koi	1398	DRY	2516	
+549	komipermyak-37_ear-1	komipermyak	37_ear	p e ʎ	komi1269	koi	1247	EAR	2539	
+550	komipermyak-38_earth-1	komipermyak	38_earth	m u	komi1269	koi	1228	EARTH (SOIL)	13	
+551	komipermyak-39_eat-1	komipermyak	39_eat	ɕ o j n ɯ	komi1269	koi	1336	EAT	2544	
+553	komipermyak-40_egg-1	komipermyak	40_egg	k o ʎ tʲ	komi1269	koi	744	EGG	2550	
+554	komipermyak-41_eye-1	komipermyak	41_eye	ɕ i n	komi1269	koi	1248	EYE	2554	
+559	komipermyak-47_feather-1	komipermyak	47_feather	b o r d t ɯ v	komi1269	koi	1201	FEATHER	20	
+560	komipermyak-47_feather-2	komipermyak	47_feather	ɡ ɤ n	komi1269	koi	1201	FEATHER	2594	
+562	komipermyak-4_ashes-1	komipermyak	4_ashes	p ɤ j i m	komi1269	koi	646	ASH	2333	
+563	komipermyak-50_fire-1	komipermyak	50_fire	b i	komi1269	koi	221	FIRE	2609	
+564	komipermyak-51_fish-1	komipermyak	51_fish	tɕ e r i	komi1269	koi	227	FISH	2614	
+569	komipermyak-56_flyv-1	komipermyak	56_flyv	l e b ɑ v n ɯ	komi1269	koi	1441	FLY (MOVE THROUGH AIR)	2651	
+571	komipermyak-58_foot-1	komipermyak	58_foot	k o k	komi1269	koi	1301	FOOT	2667	
+576	komipermyak-62_full-1	komipermyak	62_full	t ɯ r	komi1269	koi	1429	FULL	2684	
+577	komipermyak-63_give-1	komipermyak	63_give	ɕ e t n ɯ	komi1269	koi	1447	GIVE	2690	
+578	komipermyak-64_good-1	komipermyak	64_good	b u r	komi1269	koi	1035	GOOD	2693	
+580	komipermyak-66_green-1	komipermyak	66_green	z e ʎ o n ɤ j	komi1269	koi	1425	GREEN	2714	
+581	komipermyak-68_hair-1	komipermyak	68_hair	j u r ɕ i	komi1269	koi	1040	HAIR	2719	
+582	komipermyak-68_hair-2	komipermyak	68_hair	ɡ ɤ n	komi1269	koi	1040	HAIR	2720	
+583	komipermyak-69_hand-1	komipermyak	69_hand	k i	komi1269	koi	1277	HAND	2724	
+584	komipermyak-71_head-1	komipermyak	71_head	j u r	komi1269	koi	1256	HEAD	2729	
+585	komipermyak-72_hear-1	komipermyak	72_hear	k ɯ v n ɯ	komi1269	koi	1408	HEAR	2732	
+586	komipermyak-73_heart-1	komipermyak	73_heart	ɕ ɤ l ɤ m	komi1269	koi	1223	HEART	2735	
+591	komipermyak-78_horn-1	komipermyak	78_horn	ɕ u r	komi1269	koi	1393	HORN (ANATOMY)	2770	
+596	komipermyak-82_i-1	komipermyak	82_i	m e	komi1269	koi	1209	I	2293	
+599	komipermyak-86_kill-1	komipermyak	86_kill	v i j n ɯ	komi1269	koi	1417	KILL	2808	
+600	komipermyak-87_knee-1	komipermyak	87_knee	p i dʑ ɤ s	komi1269	koi	1371	KNEE	2811	
+603	komipermyak-8_bark-1	komipermyak	8_bark	k ɑ tɕ	komi1269	koi	1204	BARK	2356	
+605	komipermyak-91_leaf-1	komipermyak	91_leaf	k o r	komi1269	koi	628	LEAF	2838	
+609	komipermyak-96_liver-1	komipermyak	96_liver	m u s	komi1269	koi	1224	LIVER	2861	
+610	komipermyak-97_long-1	komipermyak	97_long	k u ʑ	komi1269	koi	1203	LONG	2865	
+611	komipermyak-98_louse-1	komipermyak	98_louse	t o j	komi1269	koi	1392	LOUSE	2868	
+614	komizyrian-100_many-1	komizyrian	100_many	u n ɑ	komi1268	kpv	1198	MANY	2874	
+615	komizyrian-101_meatflesh-1	komizyrian	101_meatflesh	j ɑ i	komi1268	kpv	2615	FLESH OR MEAT	2884	
+616	komizyrian-102_moon-1	komizyrian	102_moon	t ɤ l ɯ ɕ	komi1268	kpv	1313	MOON	2890	
+618	komizyrian-104_mountain-1	komizyrian	104_mountain	tɕ o j	komi1268	kpv	639	MOUNTAIN	2907	
+619	komizyrian-105_mouth-1	komizyrian	105_mouth	v o m	komi1268	kpv	674	MOUTH	2918	
+620	komizyrian-106_name-1	komizyrian	106_name	ɲ i m	komi1268	kpv	1405	NAME	2921	
+624	komizyrian-109_neck-1	komizyrian	109_neck	ɕ i l ɯ	komi1268	kpv	1333	NECK	2948	
+625	komizyrian-109_neck-2	komizyrian	109_neck	ɡ o ʎ ɑ	komi1268	kpv	1333	NECK	2951	
+626	komizyrian-10_belly-1	komizyrian	10_belly	r u ʃ + k u	komi1268	kpv	1251	BELLY	2377	
+627	komizyrian-110_new-1	komizyrian	110_new	v ɯ ʎ	komi1268	kpv	1231	NEW	2955	
+628	komizyrian-111_night-1	komizyrian	111_night	v o j	komi1268	kpv	1233	NIGHT	2960	
+629	komizyrian-112_nose-1	komizyrian	112_nose	n ɯ r	komi1268	kpv	1221	NOSE	2965	
+630	komizyrian-113_not-1	komizyrian	113_not	o z	komi1268	kpv	1240	NOT	2969	
+631	komizyrian-115_one-1	komizyrian	115_one	ɤ tʲ i	komi1268	kpv	1493	ONE	2971	
+633	komizyrian-117_person-1	komizyrian	117_person	m o r t	komi1268	kpv	683	PERSON	2987	
+636	komizyrian-11_big-1	komizyrian	11_big	ɯ dʒ ɯ d	komi1268	kpv	1202	BIG	2388	
+638	komizyrian-121_rain-1	komizyrian	121_rain	z e r	komi1268	kpv	2108	RAINING OR RAIN	3030	
+639	komizyrian-122_red-1	komizyrian	122_red	ɡ ɤ r d	komi1268	kpv	156	RED	3035	
+641	komizyrian-126_road-1	komizyrian	126_road	t u j	komi1268	kpv	667	ROAD	3049	
+642	komizyrian-127_root-1	komizyrian	127_root	v u ʒ	komi1268	kpv	670	ROOT	3057	
+644	komizyrian-12_bird-1	komizyrian	12_bird	k i t s ɑ	komi1268	kpv	937	BIRD	2397	
+645	komizyrian-12_bird-2	komizyrian	12_bird	l e b ɑ tɕ	komi1268	kpv	937	BIRD	2398	
+646	komizyrian-130_round-1	komizyrian	130_round	ɡ ɤ ɡ r ɤ s	komi1268	kpv	1395	ROUND	3072	
+650	komizyrian-133_sand-1	komizyrian	133_sand	l ɯ ɑ	komi1268	kpv	671	SAND	3116	
+651	komizyrian-134_say-1	komizyrian	134_say	v i ɕ t ɑ v n ɯ	komi1268	kpv	1458	SAY	3122	
+652	komizyrian-134_say-2	komizyrian	134_say	ʃ u n ɯ	komi1268	kpv	1458	SAY	3123	
+653	komizyrian-137_see-1	komizyrian	137_see	ɑ dʑ dʑ ɯ n ɯ	komi1268	kpv	1409	SEE	3132	
+654	komizyrian-138_seed-1	komizyrian	138_seed	t u ɕ	komi1268	kpv	714	SEED	3141	
+655	komizyrian-138_seed-2	komizyrian	138_seed	k ɤ i d ɯ s	komi1268	kpv	714	SEED	3142	
+659	komizyrian-143_sit-1	komizyrian	143_sit	p u k ɑ v n ɯ	komi1268	kpv	1416	SIT	3176	
+660	komizyrian-144_skin-1	komizyrian	144_skin	k u	komi1268	kpv	763	SKIN	3182	
+662	komizyrian-146_sleep-1	komizyrian	146_sleep	u ʑ n ɯ	komi1268	kpv	1585	SLEEP	3198	
+663	komizyrian-147_small-1	komizyrian	147_small	i tɕ ɤ t	komi1268	kpv	1246	SMALL	3204	
+664	komizyrian-147_small-2	komizyrian	147_small	p o s ɲ ɯ d	komi1268	kpv	1246	SMALL	3205	
+666	komizyrian-149_smoke-1	komizyrian	149_smoke	tʃ ɯ n	komi1268	kpv	778	SMOKE (EXHAUST)	3220	
+667	komizyrian-14_black-1	komizyrian	14_black	ɕ ɤ d	komi1268	kpv	163	BLACK	2407	
+680	komizyrian-158_stand-1	komizyrian	158_stand	s u l ɑ v n ɯ	komi1268	kpv	1442	STAND	3307	
+681	komizyrian-159_star-1	komizyrian	159_star	k o dʑ u v	komi1268	kpv	1430	STAR	3312	
+682	komizyrian-15_blood-1	komizyrian	15_blood	v i r	komi1268	kpv	946	BLOOD	2411	
+683	komizyrian-161_stone-1	komizyrian	161_stone	i z	komi1268	kpv	857	STONE	3316	
+686	komizyrian-164_sun-1	komizyrian	164_sun	ʃ o n d i	komi1268	kpv	1343	SUN	3337	
+689	komizyrian-166_swim-1	komizyrian	166_swim	u j ɑ v n ɯ	komi1268	kpv	1439	SWIM	3354	
+690	komizyrian-166_swim-2	komizyrian	166_swim	v ɑ r tʲ tɕ ɯ n ɯ	komi1268	kpv	1439	SWIM	3355	
+691	komizyrian-167_tail-1	komizyrian	167_tail	b ɤ ʒ	komi1268	kpv	1220	TAIL	3362	
+692	komizyrian-168_that-1	komizyrian	168_that	t ɯ	komi1268	kpv	78	THAT	3366	
+693	komizyrian-168_that-2	komizyrian	168_that	s i j ɤ	komi1268	kpv	78	THAT	3367	
+702	komizyrian-174_this-1	komizyrian	174_this	t ɑ	komi1268	kpv	1214	THIS	3413	
+703	komizyrian-174_this-2	komizyrian	174_this	e t ɑ j ɤ	komi1268	kpv	1214	THIS	3414	
+708	komizyrian-178_tongue-1	komizyrian	178_tongue	k ɯ v	komi1268	kpv	1205	TONGUE	51	
+709	komizyrian-179_tooth-1	komizyrian	179_tooth	p i ɲ	komi1268	kpv	1380	TOOTH	3448	
+710	komizyrian-17_bone-1	komizyrian	17_bone	l ɯ	komi1268	kpv	1394	BONE	2418	
+711	komizyrian-180_tree-1	komizyrian	180_tree	p u	komi1268	kpv	906	TREE	3450	
+714	komizyrian-182_two-1	komizyrian	182_two	k ɯ k	komi1268	kpv	1498	TWO	3463	
+717	komizyrian-184_walk-1	komizyrian	184_walk	v e t l ɯ n ɯ	komi1268	kpv	1443	WALK	3472	
+720	komizyrian-187_water-1	komizyrian	187_water	v ɑ	komi1268	kpv	948	WATER	3497	
+721	komizyrian-188_we-1	komizyrian	188_we	m i	komi1268	kpv	1212	WE	3499	
+722	komizyrian-18_breast-1	komizyrian	18_breast	m o r ɤ s	komi1268	kpv	1402	BREAST	2424	
+723	komizyrian-193_white-1	komizyrian	193_white	j e dʒ ɯ d	komi1268	kpv	1335	WHITE	3501	
+730	komizyrian-1_all-1	komizyrian	1_all	b ɯ d	komi1268	kpv	98	ALL	2297	
+731	komizyrian-1_all-2	komizyrian	1_all	s t ɑ v	komi1268	kpv	98	ALL	2300	
+735	komizyrian-205_yellow-1	komizyrian	205_yellow	v i ʒ	komi1268	kpv	1424	YELLOW	3573	
+736	komizyrian-20_burn-1	komizyrian	20_burn	l o m ɑ v n ɯ	komi1268	kpv	2102	BURN	2438	
+737	komizyrian-20_burn-2	komizyrian	20_burn	s o tʲ tɕ ɯ n ɯ	komi1268	kpv	2102	BURN	2440	
+738	komizyrian-23_cloud-1	komizyrian	23_cloud	k ɯ m ɤ r	komi1268	kpv	1489	CLOUD	2445	
+739	komizyrian-24_cold-1	komizyrian	24_cold	k ɤ dʑ ɯ d	komi1268	kpv	1287	COLD	2450	
+740	komizyrian-25_come-1	komizyrian	25_come	v o n ɯ	komi1268	kpv	1446	COME	2458	
+741	komizyrian-25_come-2	komizyrian	25_come	l o k n ɯ	komi1268	kpv	1446	COME	2459	
+745	komizyrian-29_die-1	komizyrian	29_die	k u v n ɯ	komi1268	kpv	1494	DIE	2476	
+751	komizyrian-32_dog-1	komizyrian	32_dog	p o n	komi1268	kpv	2009	DOG	11	
+752	komizyrian-33_drink-1	komizyrian	33_drink	j u n ɯ	komi1268	kpv	1401	DRINK	2510	
+753	komizyrian-34_dry-1	komizyrian	34_dry	k o s	komi1268	kpv	1398	DRY	2516	
+756	komizyrian-37_ear-1	komizyrian	37_ear	p e ʎ	komi1268	kpv	1247	EAR	2539	
+757	komizyrian-38_earth-1	komizyrian	38_earth	m u	komi1268	kpv	1228	EARTH (SOIL)	13	
+758	komizyrian-39_eat-1	komizyrian	39_eat	ɕ o j n ɯ	komi1268	kpv	1336	EAT	2544	
+761	komizyrian-40_egg-1	komizyrian	40_egg	k o ʎ k	komi1268	kpv	744	EGG	2550	
+762	komizyrian-41_eye-1	komizyrian	41_eye	ɕ i n	komi1268	kpv	1248	EYE	2554	
+768	komizyrian-47_feather-1	komizyrian	47_feather	ɡ ɤ n	komi1268	kpv	1201	FEATHER	2594	
+771	komizyrian-4_ashes-1	komizyrian	4_ashes	p ɤ j i m	komi1268	kpv	646	ASH	2333	
+772	komizyrian-50_fire-1	komizyrian	50_fire	b i	komi1268	kpv	221	FIRE	2609	
+773	komizyrian-51_fish-1	komizyrian	51_fish	tɕ e r i	komi1268	kpv	227	FISH	2614	
+778	komizyrian-56_flyv-1	komizyrian	56_flyv	l e b ɑ v n ɯ	komi1268	kpv	1441	FLY (MOVE THROUGH AIR)	2651	
+780	komizyrian-58_foot-1	komizyrian	58_foot	k o k	komi1268	kpv	1301	FOOT	2667	
+785	komizyrian-62_full-1	komizyrian	62_full	t ɯ r	komi1268	kpv	1429	FULL	2684	
+786	komizyrian-63_give-1	komizyrian	63_give	ɕ e t n ɯ	komi1268	kpv	1447	GIVE	2690	
+787	komizyrian-64_good-1	komizyrian	64_good	b u r	komi1268	kpv	1035	GOOD	2693	
+788	komizyrian-64_good-2	komizyrian	64_good	ʃ ɑ ɲ	komi1268	kpv	1035	GOOD	2695	
+790	komizyrian-66_green-1	komizyrian	66_green	v e ʒ	komi1268	kpv	1425	GREEN	2708	
+791	komizyrian-68_hair-1	komizyrian	68_hair	ɕ i	komi1268	kpv	1040	HAIR	2719	
+792	komizyrian-68_hair-2	komizyrian	68_hair	ɡ ɤ n	komi1268	kpv	1040	HAIR	2720	
+793	komizyrian-69_hand-1	komizyrian	69_hand	k i	komi1268	kpv	1277	HAND	2724	
+794	komizyrian-71_head-1	komizyrian	71_head	j u r	komi1268	kpv	1256	HEAD	2729	
+795	komizyrian-72_hear-1	komizyrian	72_hear	k ɯ v n ɯ	komi1268	kpv	1408	HEAR	2732	
+796	komizyrian-73_heart-1	komizyrian	73_heart	ɕ ɤ l ɤ m	komi1268	kpv	1223	HEART	2735	
+802	komizyrian-78_horn-1	komizyrian	78_horn	ɕ u r	komi1268	kpv	1393	HORN (ANATOMY)	2770	
+805	komizyrian-82_i-1	komizyrian	82_i	m e	komi1268	kpv	1209	I	2293	
+808	komizyrian-86_kill-1	komizyrian	86_kill	k u l ɤ d n ɯ	komi1268	kpv	1417	KILL	2807	
+809	komizyrian-86_kill-2	komizyrian	86_kill	v i j n ɯ	komi1268	kpv	1417	KILL	2808	
+810	komizyrian-87_knee-1	komizyrian	87_knee	p i dʑ ɤ s	komi1268	kpv	1371	KNEE	2811	
+814	komizyrian-8_bark-1	komizyrian	8_bark	k ɯ r ɕ	komi1268	kpv	1204	BARK	2352	
+816	komizyrian-91_leaf-1	komizyrian	91_leaf	ʎ i s	komi1268	kpv	628	LEAF	2837	
+817	komizyrian-91_leaf-2	komizyrian	91_leaf	k o r	komi1268	kpv	628	LEAF	2838	
+821	komizyrian-96_liver-1	komizyrian	96_liver	m u s	komi1268	kpv	1224	LIVER	2861	
+822	komizyrian-97_long-1	komizyrian	97_long	k u ʑ	komi1268	kpv	1203	LONG	2865	
+823	komizyrian-98_louse-1	komizyrian	98_louse	t o j	komi1268	kpv	1392	LOUSE	2868	
+826	nganasan-100_many-1	nganasan	100_many	ŋ u ŋ k ə ɡ ə	ngan1291	nio	1198	MANY	2879	
+827	nganasan-101_meatflesh-1	nganasan	101_meatflesh	ɕ ɑ h ɯ	ngan1291	nio	2615	FLESH OR MEAT	2888	
+828	nganasan-102_moon-1	nganasan	102_moon	k i tʃ ə ð əː	ngan1291	nio	1313	MOON	2889	
+830	nganasan-104_mountain-1	nganasan	104_mountain	b ə r u	ngan1291	nio	639	MOUNTAIN	2914	
+831	nganasan-105_mouth-1	nganasan	105_mouth	ŋ ɑ ŋ	ngan1291	nio	674	MOUTH	2918	
+832	nganasan-106_name-1	nganasan	106_name	ɲ i m	ngan1291	nio	1405	NAME	2921	
+837	nganasan-109_neck-1	nganasan	109_neck	b ɑ k ə ð ə	ngan1291	nio	1333	NECK	2952	
+838	nganasan-10_belly-1	nganasan	10_belly	tʃ ɑ j b ə	ngan1291	nio	1251	BELLY	2374	
+839	nganasan-110_new-1	nganasan	110_new	m e ɲ dʲ ɑ dʲ e	ngan1291	nio	1231	NEW	2958	
+840	nganasan-111_night-1	nganasan	111_night	h iː	ngan1291	nio	1233	NIGHT	2962	
+841	nganasan-112_nose-1	nganasan	112_nose	ŋ y ŋ k ə	ngan1291	nio	1221	NOSE	2968	
+842	nganasan-113_not-1	nganasan	113_not	ɲ i s ɯ	ngan1291	nio	1240	NOT	35	
+843	nganasan-115_one-1	nganasan	115_one	ŋ u ʔ ə i ʔ	ngan1291	nio	1493	ONE	2972	
+846	nganasan-117_person-1	nganasan	117_person	ŋ ɑ n ɑ ʔ s ɑ	ngan1291	nio	683	PERSON	2991	
+849	nganasan-11_big-1	nganasan	11_big	ɑ n i ʔ ə	ngan1291	nio	1202	BIG	2393	
+851	nganasan-121_rain-1	nganasan	121_rain	s o r u ɑ	ngan1291	nio	2108	RAINING OR RAIN	3026	
+852	nganasan-122_red-1	nganasan	122_red	dʲ ɑ b ɑ k u o	ngan1291	nio	156	RED	3040	
+855	nganasan-126_road-1	nganasan	126_road	ŋ u t ɑ	ngan1291	nio	667	ROAD	3053	
+856	nganasan-126_road-2	nganasan	126_road	s ə r əː	ngan1291	nio	667	ROAD	3055	
+857	nganasan-127_root-1	nganasan	127_root	b ə n t u	ngan1291	nio	670	ROOT	39	
+859	nganasan-12_bird-1	nganasan	12_bird	t ə i b əː	ngan1291	nio	937	BIRD	2402	
+860	nganasan-130_round-1	nganasan	130_round	l ɑ l u j k u ə	ngan1291	nio	1395	ROUND	42	
+861	nganasan-130_round-2	nganasan	130_round	m ɑ n d ɑ j k u	ngan1291	nio	1395	ROUND	3083	
+864	nganasan-133_sand-1	nganasan	133_sand	dʲ uː	ngan1291	nio	671	SAND	3115	
+865	nganasan-134_say-1	nganasan	134_say	m u n s ɑ	ngan1291	nio	1458	SAY	3121	
+866	nganasan-137_see-1	nganasan	137_see	ŋ ə ð y ɕ ɑ	ngan1291	nio	1409	SEE	3136	
+867	nganasan-137_see-2	nganasan	137_see	ɕ e j m ɯ ʔ s ɯ	ngan1291	nio	1409	SEE	3137	
+872	nganasan-143_sit-1	nganasan	143_sit	ŋ o m t y ɕ ɑ	ngan1291	nio	1416	SIT	3177	
+873	nganasan-144_skin-1	nganasan	144_skin	k u h u o	ngan1291	nio	763	SKIN	3182	
+875	nganasan-146_sleep-1	nganasan	146_sleep	k u n d u ɑ s ɑ	ngan1291	nio	1585	SLEEP	3200	
+876	nganasan-147_small-1	nganasan	147_small	h i ɲ i ə	ngan1291	nio	1246	SMALL	3211	
+877	nganasan-147_small-2	nganasan	147_small	ɕ i ə ʔ l ɑ k u	ngan1291	nio	1246	SMALL	3212	
+879	nganasan-149_smoke-1	nganasan	149_smoke	dʲ ɑ k ɑ ɡ ə	ngan1291	nio	778	SMOKE (EXHAUST)	3223	
+880	nganasan-14_black-1	nganasan	14_black	t u s ɑ j k ɑ ʔ ɑ	ngan1291	nio	163	BLACK	2410	
+890	nganasan-158_stand-1	nganasan	158_stand	n ə n s ɯ dʲ i	ngan1291	nio	1442	STAND	3309	
+891	nganasan-159_star-1	nganasan	159_star	h o t ə dʲ i ə	ngan1291	nio	1430	STAR	3314	
+892	nganasan-15_blood-1	nganasan	15_blood	k ɑ m	ngan1291	nio	946	BLOOD	2413	
+893	nganasan-161_stone-1	nganasan	161_stone	h u ɑ l ə	ngan1291	nio	857	STONE	3318	
+895	nganasan-164_sun-1	nganasan	164_sun	k o u	ngan1291	nio	1343	SUN	3338	
+897	nganasan-166_swim-1	nganasan	166_swim	h o ð ɯ r s ɯ	ngan1291	nio	1439	SWIM	3357	
+898	nganasan-167_tail-1	nganasan	167_tail	t ə j b u	ngan1291	nio	1220	TAIL	3360	
+899	nganasan-168_that-1	nganasan	168_that	t ə t i	ngan1291	nio	78	THAT	3370	
+900	nganasan-168_that-2	nganasan	168_that	t ɑː n i ə	ngan1291	nio	78	THAT	3366	
+901	nganasan-168_that-3	nganasan	168_that	t ɑ k əː	ngan1291	nio	78	THAT	3371	
+909	nganasan-174_this-1	nganasan	174_this	ə m ə	ngan1291	nio	1214	THIS	3417	
+914	nganasan-178_tongue-1	nganasan	178_tongue	ɕ i ə dʲ ə	ngan1291	nio	1205	TONGUE	51	
+915	nganasan-179_tooth-1	nganasan	179_tooth	tʃ i m i	ngan1291	nio	1380	TOOTH	3449	
+916	nganasan-17_bone-1	nganasan	17_bone	l ɑ t əː	ngan1291	nio	1394	BONE	2418	
+917	nganasan-180_tree-1	nganasan	180_tree	h u ɑ ɑ	ngan1291	nio	906	TREE	52	
+919	nganasan-182_two-1	nganasan	182_two	ɕ i t i	ngan1291	nio	1498	TWO	3463	
+920	nganasan-184_walk-1	nganasan	184_walk	dʲ o ð y r ɕ ɑ	ngan1291	nio	1443	WALK	3476	
+925	nganasan-187_water-1	nganasan	187_water	b ɯ ʔ	ngan1291	nio	948	WATER	53	
+926	nganasan-188_we-1	nganasan	188_we	m ɯ ŋ	ngan1291	nio	1212	WE	3499	
+927	nganasan-18_breast-1	nganasan	18_breast	ɕ i n ɕ ə	ngan1291	nio	1402	BREAST	2429	
+928	nganasan-193_white-1	nganasan	193_white	s ɯ r	ngan1291	nio	1335	WHITE	3506	
+935	nganasan-1_all-1	nganasan	1_all	b ə n s ə	ngan1291	nio	98	ALL	2296	
+939	nganasan-205_yellow-1	nganasan	205_yellow	t o dʲ ɑ k u ə	ngan1291	nio	1424	YELLOW	3579	
+940	nganasan-23_cloud-1	nganasan	23_cloud	tʃ i ə ð u	ngan1291	nio	1489	CLOUD	7	
+941	nganasan-24_cold-1	nganasan	24_cold	tʃ ə ɕ i ɕ i	ngan1291	nio	1287	COLD	2453	
+942	nganasan-25_come-1	nganasan	25_come	t u j ɕ ɑ	ngan1291	nio	1446	COME	2456	
+945	nganasan-29_die-1	nganasan	29_die	dʲ ɑ ŋ ɡ u m s ɑ	ngan1291	nio	1494	DIE	2478	
+946	nganasan-29_die-2	nganasan	29_die	k u ə dʲ ɑ	ngan1291	nio	1494	DIE	2476	
+949	nganasan-32_dog-1	nganasan	32_dog	b ɑ ŋ	ngan1291	nio	2009	DOG	11	
+950	nganasan-33_drink-1	nganasan	33_drink	b ɯ t ɯ dʲ i	ngan1291	nio	1401	DRINK	2512	
+951	nganasan-34_dry-1	nganasan	34_dry	k o ɕ y ə	ngan1291	nio	1398	DRY	2516	
+955	nganasan-37_ear-1	nganasan	37_ear	k o u	ngan1291	nio	1247	EAR	2540	
+956	nganasan-38_earth-1	nganasan	38_earth	m o u	ngan1291	nio	1228	EARTH (SOIL)	13	
+957	nganasan-39_eat-1	nganasan	39_eat	ŋ ə m s ɑ	ngan1291	nio	1336	EAT	15	
+959	nganasan-40_egg-1	nganasan	40_egg	m ə n u	ngan1291	nio	744	EGG	2548	
+960	nganasan-41_eye-1	nganasan	41_eye	ɕ e j m ɯ	ngan1291	nio	1248	EYE	2554	
+966	nganasan-47_feather-1	nganasan	47_feather	t o t ə	ngan1291	nio	1201	FEATHER	2591	
+969	nganasan-4_ashes-1	nganasan	4_ashes	t uː + dʲ o ə ʔ	ngan1291	nio	646	ASH	2337	
+970	nganasan-50_fire-1	nganasan	50_fire	t u j	ngan1291	nio	221	FIRE	2608	
+971	nganasan-51_fish-1	nganasan	51_fish	k o l ɯ	ngan1291	nio	227	FISH	2613	
+977	nganasan-56_flyv-1	nganasan	56_flyv	t ə i r ɕ i	ngan1291	nio	1441	FLY (MOVE THROUGH AIR)	2653	
+979	nganasan-58_foot-1	nganasan	58_foot	ŋ o j	ngan1291	nio	1301	FOOT	2671	
+982	nganasan-62_full-1	nganasan	62_full	dʲ u l s ɯ ə	ngan1291	nio	1429	FULL	2685	
+983	nganasan-62_full-2	nganasan	62_full	m y n t y ɕ ɑ	ngan1291	nio	1429	FULL	2686	
+984	nganasan-63_give-1	nganasan	63_give	m i ɕ i	ngan1291	nio	1447	GIVE	2691	
+985	nganasan-64_good-1	nganasan	64_good	ɲ ɑ ɡ əː	ngan1291	nio	1035	GOOD	2701	
+987	nganasan-66_green-1	nganasan	66_green	ɲ o t ə r ə k u	ngan1291	nio	1425	GREEN	2715	
+988	nganasan-66_green-2	nganasan	66_green	ŋ i n d i ɑ ʔ s ɯ ə	ngan1291	nio	1425	GREEN	25	
+989	nganasan-68_hair-1	nganasan	68_hair	ŋ ɑ b t ə	ngan1291	nio	1040	HAIR	2717	
+990	nganasan-69_hand-1	nganasan	69_hand	dʲ y t y	ngan1291	nio	1277	HAND	2725	
+991	nganasan-71_head-1	nganasan	71_head	ŋ o j b u	ngan1291	nio	1256	HEAD	2727	
+992	nganasan-72_hear-1	nganasan	72_hear	dʲ i n d i ɕ i	ngan1291	nio	1408	HEAR	2733	
+993	nganasan-73_heart-1	nganasan	73_heart	s əː	ngan1291	nio	1223	HEART	2735	
+998	nganasan-78_horn-1	nganasan	78_horn	ŋ ɑ m t ə	ngan1291	nio	1393	HORN (ANATOMY)	2771	
+1003	nganasan-82_i-1	nganasan	82_i	m ə n ə	ngan1291	nio	1209	I	2293	
+1005	nganasan-86_kill-1	nganasan	86_kill	k o t u dʲ ɑ	ngan1291	nio	1417	KILL	2807	
+1006	nganasan-87_knee-1	nganasan	87_knee	h ə ɑ ɡ ɑ j	ngan1291	nio	1371	KNEE	28	
+1009	nganasan-8_bark-1	nganasan	8_bark	k ɑ s u	ngan1291	nio	1204	BARK	2356	
+1011	nganasan-91_leaf-1	nganasan	91_leaf	h o r ɑ ð i ɑ j	ngan1291	nio	628	LEAF	2841	
+1015	nganasan-96_liver-1	nganasan	96_liver	m i t ə	ngan1291	nio	1224	LIVER	2861	
+1016	nganasan-97_long-1	nganasan	97_long	k u n t ɡ u	ngan1291	nio	1203	LONG	2867	
+1019	selkup-100_many-1	selkup	100_many	k o tɕ tɕ ə	selk1253	sel	1198	MANY	2880	
+1020	selkup-101_meatflesh-1	selkup	101_meatflesh	u ə̠ tɕ ə	selk1253	sel	2615	FLESH OR MEAT	2887	
+1021	selkup-102_moon-1	selkup	102_moon	i r æ	selk1253	sel	1313	MOON	2893	
+1023	selkup-104_mountain-1	selkup	104_mountain	q ɤː	selk1253	sel	639	MOUNTAIN	2912	
+1024	selkup-105_mouth-1	selkup	105_mouth	ɑː ŋ	selk1253	sel	674	MOUTH	2918	
+1025	selkup-106_name-1	selkup	106_name	n i m	selk1253	sel	1405	NAME	2921	
+1028	selkup-109_neck-1	selkup	109_neck	s oː ʎ	selk1253	sel	1333	NECK	2953	
+1029	selkup-10_belly-1	selkup	10_belly	p e r k ə	selk1253	sel	1251	BELLY	3	
+1030	selkup-110_new-1	selkup	110_new	ɕ e n t ə	selk1253	sel	1231	NEW	2959	
+1031	selkup-111_night-1	selkup	111_night	p i	selk1253	sel	1233	NIGHT	2962	
+1032	selkup-112_nose-1	selkup	112_nose	p u tɕ ə	selk1253	sel	1221	NOSE	2967	
+1033	selkup-113_not-1	selkup	113_not	ɑ ɕ ɑ	selk1253	sel	1240	NOT	2969	
+1034	selkup-115_one-1	selkup	115_one	o k k ə r	selk1253	sel	1493	ONE	37	
+1036	selkup-117_person-1	selkup	117_person	q u m	selk1253	sel	683	PERSON	2988	
+1039	selkup-11_big-1	selkup	11_big	u ə̠ r q ə	selk1253	sel	1202	BIG	2391	
+1041	selkup-121_rain-1	selkup	121_rain	s o r ə n tʃ æ	selk1253	sel	2108	RAINING OR RAIN	3026	
+1042	selkup-122_red-1	selkup	122_red	ɲ ɑː r q ə	selk1253	sel	156	RED	3038	
+1045	selkup-126_road-1	selkup	126_road	u ə̠ t t ə	selk1253	sel	667	ROAD	3053	
+1046	selkup-127_root-1	selkup	127_root	k o n tʃ ə	selk1253	sel	670	ROOT	40	
+1048	selkup-12_bird-1	selkup	12_bird	t i l tʃ ə t i + s uː r ə m	selk1253	sel	937	BIRD	2402	
+1049	selkup-12_bird-2	selkup	12_bird	s uː r ə m	selk1253	sel	937	BIRD	2400	
+1050	selkup-130_round-1	selkup	130_round	p y r ə ʎ	selk1253	sel	1395	ROUND	3076	
+1051	selkup-130_round-2	selkup	130_round	k o ʎ ɑ ʎ	selk1253	sel	1395	ROUND	3081	
+1054	selkup-133_sand-1	selkup	133_sand	k oː r ɑ	selk1253	sel	671	SAND	3113	
+1055	selkup-134_say-1	selkup	134_say	k ɤ t	selk1253	sel	1458	SAY	3127	
+1056	selkup-137_see-1	selkup	137_see	m ɑ n tʃ ə	selk1253	sel	1409	SEE	3134	
+1057	selkup-138_seed-1	selkup	138_seed	m u m m o l	selk1253	sel	714	SEED	3145	
+1061	selkup-143_sit-1	selkup	143_sit	ɑː m t i	selk1253	sel	1416	SIT	3177	
+1062	selkup-144_skin-1	selkup	144_skin	q o p ə	selk1253	sel	763	SKIN	3182	
+1064	selkup-146_sleep-1	selkup	146_sleep	q o n t i	selk1253	sel	1585	SLEEP	3200	
+1065	selkup-147_small-1	selkup	147_small	k ɯ p ɑ	selk1253	sel	1246	SMALL	3210	
+1067	selkup-149_smoke-1	selkup	149_smoke	p u r q ə	selk1253	sel	778	SMOKE (EXHAUST)	3224	
+1068	selkup-14_black-1	selkup	14_black	s æː q ə	selk1253	sel	163	BLACK	2409	
+1077	selkup-158_stand-1	selkup	158_stand	n ɯ ŋ k i	selk1253	sel	1442	STAND	3309	
+1078	selkup-159_star-1	selkup	159_star	q ɯ ɕ ə ŋ q ɑ	selk1253	sel	1430	STAR	3312	
+1079	selkup-15_blood-1	selkup	15_blood	k ɤ m	selk1253	sel	946	BLOOD	2413	
+1080	selkup-161_stone-1	selkup	161_stone	p yː	selk1253	sel	857	STONE	47	
+1083	selkup-164_sun-1	selkup	164_sun	tɕ eː l ə	selk1253	sel	1343	SUN	3340	
+1085	selkup-166_swim-1	selkup	166_swim	uː	selk1253	sel	1439	SWIM	3354	
+1086	selkup-167_tail-1	selkup	167_tail	t ɑ l tɕ u	selk1253	sel	1220	TAIL	3364	
+1087	selkup-167_tail-2	selkup	167_tail	m e tɕ ɑ	selk1253	sel	1220	TAIL	3365	
+1088	selkup-168_that-1	selkup	168_that	t oː	selk1253	sel	78	THAT	3366	
+1095	selkup-174_this-1	selkup	174_this	t ɑ m	selk1253	sel	1214	THIS	3413	
+1099	selkup-178_tongue-1	selkup	178_tongue	ɕ eː	selk1253	sel	1205	TONGUE	51	
+1100	selkup-179_tooth-1	selkup	179_tooth	t i m ə	selk1253	sel	1380	TOOTH	3449	
+1101	selkup-17_bone-1	selkup	17_bone	l ɯː	selk1253	sel	1394	BONE	2418	
+1102	selkup-180_tree-1	selkup	180_tree	p oː	selk1253	sel	906	TREE	3450	
+1104	selkup-182_two-1	selkup	182_two	ɕ i t ə	selk1253	sel	1498	TWO	3463	
+1106	selkup-184_walk-1	selkup	184_walk	q y ə l	selk1253	sel	1443	WALK	3477	
+1109	selkup-187_water-1	selkup	187_water	y t	selk1253	sel	948	WATER	3497	
+1110	selkup-188_we-1	selkup	188_we	m eː	selk1253	sel	1212	WE	3499	
+1111	selkup-18_breast-1	selkup	18_breast	k ɯː l ə	selk1253	sel	1402	BREAST	2427	
+1112	selkup-193_white-1	selkup	193_white	s ɤ r ə	selk1253	sel	1335	WHITE	3506	
+1118	selkup-1_all-1	selkup	1_all	m u n t ə	selk1253	sel	98	ALL	2301	
+1122	selkup-205_yellow-1	selkup	205_yellow	p ɑ t ə ʎ	selk1253	sel	1424	YELLOW	3580	
+1123	selkup-20_burn-1	selkup	20_burn	ɑ m	selk1253	sel	2102	BURN	2443	
+1124	selkup-23_cloud-1	selkup	23_cloud	t iː t t ə	selk1253	sel	1489	CLOUD	7	
+1125	selkup-24_cold-1	selkup	24_cold	t ɑ ɕ ɕ u	selk1253	sel	1287	COLD	2453	
+1126	selkup-25_come-1	selkup	25_come	t yː	selk1253	sel	1446	COME	2456	
+1129	selkup-29_die-1	selkup	29_die	q uː	selk1253	sel	1494	DIE	2476	
+1133	selkup-32_dog-1	selkup	32_dog	k ɤ n ɑ ŋ	selk1253	sel	2009	DOG	2509	
+1134	selkup-33_drink-1	selkup	33_drink	y t ə	selk1253	sel	1401	DRINK	2512	
+1135	selkup-34_dry-1	selkup	34_dry	tʃ ɤ k ə	selk1253	sel	1398	DRY	2519	
+1138	selkup-37_ear-1	selkup	37_ear	q oː	selk1253	sel	1247	EAR	2540	
+1139	selkup-38_earth-1	selkup	38_earth	tʃ u ə̠ tʃ tʃ ə	selk1253	sel	1228	EARTH (SOIL)	2543	
+1140	selkup-39_eat-1	selkup	39_eat	ɑ m	selk1253	sel	1336	EAT	2547	
+1142	selkup-40_egg-1	selkup	40_egg	e ŋ	selk1253	sel	744	EGG	2553	
+1143	selkup-41_eye-1	selkup	41_eye	s ɑ j i	selk1253	sel	1248	EYE	2554	
+1148	selkup-47_feather-1	selkup	47_feather	t uː	selk1253	sel	1201	FEATHER	2591	
+1149	selkup-47_feather-2	selkup	47_feather	t ɑ r	selk1253	sel	1201	FEATHER	2595	
+1151	selkup-4_ashes-1	selkup	4_ashes	ɕ iː m ə	selk1253	sel	646	ASH	2335	
+1152	selkup-50_fire-1	selkup	50_fire	t yː	selk1253	sel	221	FIRE	2608	
+1153	selkup-51_fish-1	selkup	51_fish	q u ə̠ l ə	selk1253	sel	227	FISH	2613	
+1158	selkup-56_flyv-1	selkup	56_flyv	t iː	selk1253	sel	1441	FLY (MOVE THROUGH AIR)	2653	
+1160	selkup-58_foot-1	selkup	58_foot	t o p ə	selk1253	sel	1301	FOOT	2672	
+1164	selkup-62_full-1	selkup	62_full	t iː r ə ʎ	selk1253	sel	1429	FULL	2684	
+1165	selkup-63_give-1	selkup	63_give	m i	selk1253	sel	1447	GIVE	2691	
+1166	selkup-64_good-1	selkup	64_good	s o m ɑ	selk1253	sel	1035	GOOD	2699	
+1168	selkup-66_green-1	selkup	66_green	n o r æ ʎ	selk1253	sel	1425	GREEN	2713	
+1169	selkup-68_hair-1	selkup	68_hair	oː p t ə	selk1253	sel	1040	HAIR	2717	
+1170	selkup-68_hair-2	selkup	68_hair	t ɑ r	selk1253	sel	1040	HAIR	2722	
+1171	selkup-69_hand-1	selkup	69_hand	u t ə	selk1253	sel	1277	HAND	2725	
+1172	selkup-71_head-1	selkup	71_head	o l ə	selk1253	sel	1256	HEAD	2731	
+1173	selkup-72_hear-1	selkup	72_hear	y n t ə	selk1253	sel	1408	HEAR	26	
+1174	selkup-73_heart-1	selkup	73_heart	s iː tɕ ə	selk1253	sel	1223	HEART	2735	
+1178	selkup-78_horn-1	selkup	78_horn	ɑː m t ə	selk1253	sel	1393	HORN (ANATOMY)	2771	
+1181	selkup-82_i-1	selkup	82_i	m ɑ n	selk1253	sel	1209	I	2293	
+1184	selkup-86_kill-1	selkup	86_kill	q u ə̠ t	selk1253	sel	1417	KILL	2807	
+1185	selkup-87_knee-1	selkup	87_knee	p uː l ə	selk1253	sel	1371	KNEE	2810	
+1188	selkup-8_bark-1	selkup	8_bark	q ɑː s ə	selk1253	sel	1204	BARK	2356	
+1190	selkup-91_leaf-1	selkup	91_leaf	tɕ ɑː p ə	selk1253	sel	628	LEAF	2840	
+1194	selkup-96_liver-1	selkup	96_liver	m ɯː t ə	selk1253	sel	1224	LIVER	2861	
+1195	selkup-97_long-1	selkup	97_long	tɕ u m p u	selk1253	sel	1203	LONG	2866	
+1196	selkup-98_louse-1	selkup	98_louse	u n tʃ u	selk1253	sel	1392	LOUSE	2870	
+1197	udmurt-100_many-1	udmurt	100_many	t r o s	udmu1245	udm	1198	MANY	2877	
+1198	udmurt-101_meatflesh-1	udmurt	101_meatflesh	s i ʎ	udmu1245	udm	2615	FLESH OR MEAT	2882	
+1199	udmurt-102_moon-1	udmurt	102_moon	t o l e ʑ	udmu1245	udm	1313	MOON	2890	
+1202	udmurt-104_mountain-1	udmurt	104_mountain	ɡ u r e ʑ	udmu1245	udm	639	MOUNTAIN	2912	
+1203	udmurt-105_mouth-1	udmurt	105_mouth	ɯ m	udmu1245	udm	674	MOUTH	2918	
+1204	udmurt-106_name-1	udmurt	106_name	ɲ i m	udmu1245	udm	1405	NAME	2921	
+1207	udmurt-109_neck-1	udmurt	109_neck	tɕ ɯ r t ɯ	udmu1245	udm	1333	NECK	2950	
+1208	udmurt-10_belly-1	udmurt	10_belly	k ɤ t	udmu1245	udm	1251	BELLY	2372	
+1209	udmurt-110_new-1	udmurt	110_new	v ɯ ʎ	udmu1245	udm	1231	NEW	2955	
+1210	udmurt-111_night-1	udmurt	111_night	u j	udmu1245	udm	1233	NIGHT	2960	
+1211	udmurt-112_nose-1	udmurt	112_nose	n ɯ r	udmu1245	udm	1221	NOSE	2965	
+1212	udmurt-113_not-1	udmurt	113_not	u z	udmu1245	udm	1240	NOT	2969	
+1213	udmurt-115_one-1	udmurt	115_one	o d i ɡ	udmu1245	udm	1493	ONE	2971	
+1215	udmurt-117_person-1	udmurt	117_person	ɑ dʲ ɑ m i	udmu1245	udm	683	PERSON	2985	
+1216	udmurt-117_person-2	udmurt	117_person	m u r t	udmu1245	udm	683	PERSON	2987	
+1219	udmurt-11_big-1	udmurt	11_big	b ɑ dʑ dʑ ɯ m	udmu1245	udm	1202	BIG	2392	
+1221	udmurt-121_rain-1	udmurt	121_rain	z o r	udmu1245	udm	2108	RAINING OR RAIN	3030	
+1222	udmurt-122_red-1	udmurt	122_red	ɡ o r d	udmu1245	udm	156	RED	3035	
+1224	udmurt-126_road-1	udmurt	126_road	ɕ u r e s	udmu1245	udm	667	ROAD	3052	
+1225	udmurt-127_root-1	udmurt	127_root	v ɯ ʒ ɯ	udmu1245	udm	670	ROOT	3057	
+1227	udmurt-12_bird-1	udmurt	12_bird	t ɯ l o b u r d o	udmu1245	udm	937	BIRD	2401	
+1228	udmurt-130_round-1	udmurt	130_round	k o t ɯ r e s	udmu1245	udm	1395	ROUND	41	
+1229	udmurt-130_round-2	udmurt	130_round	p i t ɯ r e s	udmu1245	udm	1395	ROUND	41	
+1233	udmurt-133_sand-1	udmurt	133_sand	l u o	udmu1245	udm	671	SAND	3116	
+1234	udmurt-134_say-1	udmurt	134_say	ʃ u ɯ n ɯ	udmu1245	udm	1458	SAY	3123	
+1235	udmurt-134_say-2	udmurt	134_say	v e r ɑ n ɯ	udmu1245	udm	1458	SAY	3124	
+1236	udmurt-137_see-1	udmurt	137_see	ɑ dʑ dʑ ɯ n ɯ	udmu1245	udm	1409	SEE	3132	
+1237	udmurt-138_seed-1	udmurt	138_seed	t ɯ ɕ	udmu1245	udm	714	SEED	3141	
+1238	udmurt-138_seed-2	udmurt	138_seed	k i d ɯ s	udmu1245	udm	714	SEED	3142	
+1242	udmurt-143_sit-1	udmurt	143_sit	p u k ɯ n ɯ	udmu1245	udm	1416	SIT	3176	
+1243	udmurt-144_skin-1	udmurt	144_skin	k u	udmu1245	udm	763	SKIN	3182	
+1245	udmurt-146_sleep-1	udmurt	146_sleep	i ʑ ɯ n ɯ	udmu1245	udm	1585	SLEEP	3198	
+1246	udmurt-147_small-1	udmurt	147_small	p i tɕ i	udmu1245	udm	1246	SMALL	3205	
+1248	udmurt-149_smoke-1	udmurt	149_smoke	tʃ ɯ n	udmu1245	udm	778	SMOKE (EXHAUST)	3220	
+1249	udmurt-14_black-1	udmurt	14_black	ɕ ɤ d	udmu1245	udm	163	BLACK	2407	
+1260	udmurt-158_stand-1	udmurt	158_stand	s ɯ l ɯ n ɯ	udmu1245	udm	1442	STAND	3307	
+1261	udmurt-159_star-1	udmurt	159_star	k i ʑ i ʎ i	udmu1245	udm	1430	STAR	3312	
+1262	udmurt-15_blood-1	udmurt	15_blood	v i r	udmu1245	udm	946	BLOOD	2411	
+1263	udmurt-161_stone-1	udmurt	161_stone	i z	udmu1245	udm	857	STONE	3316	
+1266	udmurt-164_sun-1	udmurt	164_sun	ʃ u n d ɯ	udmu1245	udm	1343	SUN	3337	
+1269	udmurt-166_swim-1	udmurt	166_swim	u j ɑ n ɯ	udmu1245	udm	1439	SWIM	3354	
+1270	udmurt-167_tail-1	udmurt	167_tail	b ɯ ʒ	udmu1245	udm	1220	TAIL	3362	
+1271	udmurt-168_that-1	udmurt	168_that	s o	udmu1245	udm	78	THAT	3367	
+1279	udmurt-174_this-1	udmurt	174_this	t ɑ	udmu1245	udm	1214	THIS	3413	
+1285	udmurt-178_tongue-1	udmurt	178_tongue	k ɯ l	udmu1245	udm	1205	TONGUE	51	
+1286	udmurt-179_tooth-1	udmurt	179_tooth	p i ɲ	udmu1245	udm	1380	TOOTH	3448	
+1287	udmurt-17_bone-1	udmurt	17_bone	l ɯ	udmu1245	udm	1394	BONE	2418	
+1288	udmurt-180_tree-1	udmurt	180_tree	p i s + p u	udmu1245	udm	906	TREE	3450	
+1290	udmurt-182_two-1	udmurt	182_two	k ɯ k	udmu1245	udm	1498	TWO	3463	
+1292	udmurt-184_walk-1	udmurt	184_walk	w ɑ m ɯ ʃ t ɯ n ɯ	udmu1245	udm	1443	WALK	3473	
+1293	udmurt-184_walk-2	udmurt	184_walk	v e t l ɯ n ɯ	udmu1245	udm	1443	WALK	3472	
+1296	udmurt-187_water-1	udmurt	187_water	v u	udmu1245	udm	948	WATER	3497	
+1297	udmurt-188_we-1	udmurt	188_we	m i	udmu1245	udm	1212	WE	3499	
+1298	udmurt-18_breast-1	udmurt	18_breast	ɡ ɑ dʲ	udmu1245	udm	1402	BREAST	2425	
+1299	udmurt-193_white-1	udmurt	193_white	t ɤ dʲ ɯ	udmu1245	udm	1335	WHITE	3502	
+1306	udmurt-1_all-1	udmurt	1_all	v ɑ ɲ m ɯ z	udmu1245	udm	98	ALL	2302	
+1311	udmurt-205_yellow-1	udmurt	205_yellow	tʃ u ʒ	udmu1245	udm	1424	YELLOW	3576	
+1312	udmurt-20_burn-1	udmurt	20_burn	dʒ u ɑ n ɯ	udmu1245	udm	2102	BURN	2440	
+1313	udmurt-23_cloud-1	udmurt	23_cloud	p i ʎ e m	udmu1245	udm	1489	CLOUD	2444	
+1314	udmurt-24_cold-1	udmurt	24_cold	k e ʑ ɯ t	udmu1245	udm	1287	COLD	2450	
+1315	udmurt-25_come-1	udmurt	25_come	v u ɯ n ɯ	udmu1245	udm	1446	COME	2458	
+1316	udmurt-25_come-2	udmurt	25_come	l ɯ k t ɯ n ɯ	udmu1245	udm	1446	COME	2459	
+1320	udmurt-29_die-1	udmurt	29_die	k u l ɯ n ɯ	udmu1245	udm	1494	DIE	2476	
+1327	udmurt-32_dog-1	udmurt	32_dog	p u n ɯ	udmu1245	udm	2009	DOG	11	
+1328	udmurt-33_drink-1	udmurt	33_drink	j u ɯ n ɯ	udmu1245	udm	1401	DRINK	2510	
+1329	udmurt-34_dry-1	udmurt	34_dry	k ɤ s	udmu1245	udm	1398	DRY	2516	
+1332	udmurt-37_ear-1	udmurt	37_ear	p e ʎ	udmu1245	udm	1247	EAR	2539	
+1333	udmurt-38_earth-1	udmurt	38_earth	m u	udmu1245	udm	1228	EARTH (SOIL)	13	
+1334	udmurt-39_eat-1	udmurt	39_eat	ɕ i ɯ n ɯ	udmu1245	udm	1336	EAT	2544	
+1336	udmurt-40_egg-1	udmurt	40_egg	p u z	udmu1245	udm	744	EGG	2551	
+1337	udmurt-41_eye-1	udmurt	41_eye	ɕ i n	udmu1245	udm	1248	EYE	2554	
+1344	udmurt-47_feather-1	udmurt	47_feather	t ɯ l ɯ	udmu1245	udm	1201	FEATHER	2591	
+1346	udmurt-4_ashes-1	udmurt	4_ashes	p e ɲ	udmu1245	udm	646	ASH	2333	
+1347	udmurt-50_fire-1	udmurt	50_fire	t ɯ l	udmu1245	udm	221	FIRE	2608	
+1348	udmurt-51_fish-1	udmurt	51_fish	tɕ o r ɯ ɡ	udmu1245	udm	227	FISH	2614	
+1354	udmurt-56_flyv-1	udmurt	56_flyv	l o b ɯ n ɯ	udmu1245	udm	1441	FLY (MOVE THROUGH AIR)	2651	
+1356	udmurt-58_foot-1	udmurt	58_foot	k u k	udmu1245	udm	1301	FOOT	2667	
+1357	udmurt-58_foot-2	udmurt	58_foot	p ɯ d	udmu1245	udm	1301	FOOT	2668	
+1362	udmurt-62_full-1	udmurt	62_full	t ɯ r	udmu1245	udm	1429	FULL	2684	
+1363	udmurt-63_give-1	udmurt	63_give	ɕ o t ɯ n ɯ	udmu1245	udm	1447	GIVE	2690	
+1364	udmurt-64_good-1	udmurt	64_good	u m o j	udmu1245	udm	1035	GOOD	2696	
+1365	udmurt-64_good-2	udmurt	64_good	dʑ e tɕ	udmu1245	udm	1035	GOOD	2697	
+1367	udmurt-66_green-1	udmurt	66_green	v o ʒ	udmu1245	udm	1425	GREEN	2708	
+1368	udmurt-68_hair-1	udmurt	68_hair	ɕ i	udmu1245	udm	1040	HAIR	2719	
+1369	udmurt-68_hair-2	udmurt	68_hair	ɡ o n	udmu1245	udm	1040	HAIR	2720	
+1370	udmurt-69_hand-1	udmurt	69_hand	k i	udmu1245	udm	1277	HAND	2724	
+1371	udmurt-71_head-1	udmurt	71_head	j ɯ r	udmu1245	udm	1256	HEAD	2729	
+1372	udmurt-72_hear-1	udmurt	72_hear	k ɯ l ɯ n ɯ	udmu1245	udm	1408	HEAR	2732	
+1373	udmurt-73_heart-1	udmurt	73_heart	ɕ u l e m	udmu1245	udm	1223	HEART	2735	
+1378	udmurt-78_horn-1	udmurt	78_horn	ɕ u r	udmu1245	udm	1393	HORN (ANATOMY)	2770	
+1382	udmurt-82_i-1	udmurt	82_i	m o n	udmu1245	udm	1209	I	2293	
+1385	udmurt-86_kill-1	udmurt	86_kill	v i ɯ n ɯ	udmu1245	udm	1417	KILL	2808	
+1386	udmurt-87_knee-1	udmurt	87_knee	p ɯ dʲ e s	udmu1245	udm	1371	KNEE	2811	
+1389	udmurt-8_bark-1	udmurt	8_bark	k u r	udmu1245	udm	1204	BARK	2352	
+1390	udmurt-8_bark-2	udmurt	8_bark	s u l	udmu1245	udm	1204	BARK	2354	
+1392	udmurt-91_leaf-1	udmurt	91_leaf	k u ɑ r	udmu1245	udm	628	LEAF	2838	
+1397	udmurt-96_liver-1	udmurt	96_liver	m u s	udmu1245	udm	1224	LIVER	2861	
+1398	udmurt-97_long-1	udmurt	97_long	k u ʑ	udmu1245	udm	1203	LONG	2865	
+1399	udmurt-98_louse-1	udmurt	98_louse	t e j	udmu1245	udm	1392	LOUSE	2868	

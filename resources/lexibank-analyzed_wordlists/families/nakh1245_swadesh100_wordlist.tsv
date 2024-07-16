@@ -1,0 +1,741 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+9104	25255	northeuralex-ava	avar1256		bark	1204	BARK		maq͡χːʼar	m a qχʼː a r
+9115	25266	northeuralex-che	chec1245		bark	1204	BARK		kevstɪɡ	k e v s t ɪ g
+9120	25271	northeuralex-dar	darg1241		bark	1204	BARK		ʕjankʼa	ʕ j a n kʼ a
+9121	25272	northeuralex-ddo	dido1241		bark	1204	BARK		q͡χal	qχ a l
+9160	25311	northeuralex-lbe	lakk1252		bark	1204	BARK		kːamara	kː a m a r a
+9161	25312	northeuralex-lez	lezg1247		bark	1204	BARK		t͡ʃkal	tʃ k a l
+9468	25619	wold-Archi	arch1244		bark	1204	BARK		paqʼut	p a qʼ u t
+9469	25620	wold-Bezhta	bezh1248		bark	1204	BARK		beš	b e ʃ
+9470	25621	wold-Bezhta	bezh1248		bark	1204	BARK		yicalo	j i ts a l o
+9471	25622	wold-Bezhta	bezh1248		bark	1204	BARK		qal	q a l
+23119	39270	northeuralex-ava	avar1256		belly	1251	BELLY		t͡ʃjex	tʃ j e x
+23130	39281	northeuralex-che	chec1245		belly	1251	BELLY		kiːrə	k iː r ə
+23134	39285	northeuralex-dar	darg1241		belly	1251	BELLY		kani	k a n i
+23135	39286	northeuralex-ddo	dido1241		belly	1251	BELLY		aχ	a χ
+23136	39287	northeuralex-ddo	dido1241		belly	1251	BELLY		ɬara	ɬ a r a
+23173	39324	northeuralex-lbe	lakk1252		belly	1251	BELLY		ljaqʼa	l j a qʼ a
+23174	39325	northeuralex-lez	lezg1247		belly	1251	BELLY		rufun	r u f u n
+23854	40005	wold-Archi	arch1244		belly	1251	BELLY		χˤurχˤu	χˤ u r χˤ u
+28269	44420	northeuralex-ava	avar1256		big	1202	BIG		kʼudijab	kʼ u d i j a b
+28281	44432	northeuralex-che	chec1245		big	1202	BIG		doqːə	d o qː ə
+28286	44437	northeuralex-dar	darg1241		big	1202	BIG		χalasi	χ a l a s i
+28287	44438	northeuralex-ddo	dido1241		big	1202	BIG		bˤeʒe	bˤ e ʒ e
+28324	44475	northeuralex-lbe	lakk1252		big	1202	BIG		buʁarasːa	b u ʁ a r a sː a
+28325	44476	northeuralex-lez	lezg1247		big	1202	BIG		eke	e k e
+28326	44477	northeuralex-lez	lezg1247		big	1202	BIG		t͡ʃʼeχi	tʃʼ e χ i
+29070	45221	wold-Archi	arch1244		big	1202	BIG		doˤzut	d oˤ z u t
+29071	45222	wold-Bezhta	bezh1248		big	1202	BIG		-uq’o-	u qʼ o
+30606	46757	northeuralex-ava	avar1256		bird	937	BIRD		ħint͡ʃʼ	ħ i n tʃʼ
+30620	46771	northeuralex-che	chec1245		bird	937	BIRD		olxəzər	o l x ə z ə r
+30626	46777	northeuralex-dar	darg1241		bird	937	BIRD		art͡san	a r ts a n
+30627	46778	northeuralex-ddo	dido1241		bird	937	BIRD		aʁi	a ʁ i
+30664	46815	northeuralex-lbe	lakk1252		bird	937	BIRD		leluχːi	l e l u χː i
+30665	46816	northeuralex-lez	lezg1247		bird	937	BIRD		luwan_nit͡ʃχir	l u w a n + n i tʃ χ i r
+31428	47579	wold-Archi	arch1244		bird	937	BIRD		nocʼ	n o tsʼ
+31429	47580	wold-Bezhta	bezh1248		bird	937	BIRD		mihna	m i h n a
+32942	49093	northeuralex-ava	avar1256		bite	1403	BITE		ħant͡ʃʼizje	ħ a n tʃʼ i z j e
+32943	49094	northeuralex-ava	avar1256		bite	1403	BITE		ħant͡ʃʼizabizje	ħ a n tʃʼ i z a b i z j e
+32955	49106	northeuralex-che	chec1245		bite	1403	BITE		kətoxə	k ə t o x ə
+32962	49113	northeuralex-dar	darg1241		bite	1403	BITE		qʼat͡sʼbilkes	qʼ a tsʼ b i l k e s
+32963	49114	northeuralex-dar	darg1241		bite	1403	BITE		durqali_bies	d u r q a l i + b i e s
+32964	49115	northeuralex-ddo	dido1241		bite	1403	BITE		ħana	ħ a n a
+33004	49155	northeuralex-lbe	lakk1252		bite	1403	BITE		q͡χapa_tʼun	qχ a p a + tʼ u n
+33005	49156	northeuralex-lbe	lakk1252		bite	1403	BITE		qʼat͡sʼa_tʼun	qʼ a tsʼ a + tʼ u n
+33006	49157	northeuralex-lez	lezg1247		bite	1403	BITE		kʼasun	kʼ a s u n
+33518	49669	wold-Archi	arch1244		bite	1403	BITE		haˤnčʼbos	h aˤ n tʃʼ b o s
+33519	49670	wold-Bezhta	bezh1248		bite	1403	BITE		sila_gul-	s i l a + g u l
+35569	51720	northeuralex-ava	avar1256		black	163	BLACK		t͡ʃʼjeʕjerab	tʃʼ j e ʕ j e r a b
+35580	51731	northeuralex-che	chec1245		black	163	BLACK		ʡærʒə	ʡ æ r ʒ ə
+35585	51736	northeuralex-dar	darg1241		black	163	BLACK		t͡sʼudara	tsʼ u d a r a
+35586	51737	northeuralex-ddo	dido1241		black	163	BLACK		q͡χˤaba	qχˤ a b a
+35621	51772	northeuralex-lbe	lakk1252		black	163	BLACK		luħisːa	l u ħ i sː a
+35622	51773	northeuralex-lez	lezg1247		black	163	BLACK		t͡ʃʼulaw	tʃʼ u l a w
+36041	52192	wold-Archi	arch1244		black	163	BLACK		beχːˤetːut	b e χˤː e tː u t
+36042	52193	wold-Bezhta	bezh1248		black	163	BLACK		c’odolo	tsʼ o d o l o
+38983	55134	northeuralex-ava	avar1256		blood	946	BLOOD		bi	b i
+38995	55146	northeuralex-che	chec1245		blood	946	BLOOD		t͡sʼɪɪ̆	tsʼ ɪ ɪ
+39000	55151	northeuralex-dar	darg1241		blood	946	BLOOD		ħi	ħ i
+39001	55152	northeuralex-ddo	dido1241		blood	946	BLOOD		e	e
+39035	55186	northeuralex-lbe	lakk1252		blood	946	BLOOD		oˤ	oˤ
+39036	55187	northeuralex-lez	lezg1247		blood	946	BLOOD		iwi	i w i
+39782	55933	wold-Archi	arch1244		blood	946	BLOOD		bi	b i
+39783	55934	wold-Bezhta	bezh1248		blood	946	BLOOD		hẽ	h ẽ
+47206	63357	northeuralex-ava	avar1256		bone	1394	BONE		rat͡ɬʼa	r a tɬʼ a
+47217	63368	northeuralex-che	chec1245		bone	1394	BONE		dæʡəxk	d æ ʡ ə x k
+47222	63373	northeuralex-dar	darg1241		bone	1394	BONE		liɡa	l i g a
+47223	63374	northeuralex-ddo	dido1241		bone	1394	BONE		qʼˤaqʼˤu	qʼˤ a qʼˤ u
+47256	63407	northeuralex-lbe	lakk1252		bone	1394	BONE		tːarkʼ	tː a r kʼ
+47257	63408	northeuralex-lez	lezg1247		bone	1394	BONE		kʼarab	kʼ a r a b
+48036	64187	wold-Archi	arch1244		bone	1394	BONE		lekːi	l e kː i
+48037	64188	wold-Bezhta	bezh1248		bone	1394	BONE		ƛöᵑwä	tɬ œ̃ w æ
+57266	73419	northeuralex-ava	avar1256		breast	1402	BREAST		kjerjen	k j e r j e n
+57279	73432	northeuralex-che	chec1245		breast	1402	BREAST		zu͡ʊdərɪɪ̆n_nə̄qə	z uʊ d ə r ɪ ɪ n + n ə q ə
+57284	73437	northeuralex-dar	darg1241		breast	1402	BREAST		mama	m a m a
+57285	73438	northeuralex-ddo	dido1241		breast	1402	BREAST		kiki	k i k i
+57319	73472	northeuralex-lbe	lakk1252		breast	1402	BREAST		kːukːu	kː u kː u
+57320	73473	northeuralex-lez	lezg1247		breast	1402	BREAST		mam	m a m
+58083	74236	wold-Archi	arch1244		breast	1402	BREAST		mam	m a m
+58084	74237	wold-Bezhta	bezh1248		breast	1402	BREAST		nene	n e n e
+87030	103183	northeuralex-ava	avar1256		claw	72	CLAW		ɡaɬ	g a ɬ
+87043	103196	northeuralex-che	chec1245		claw	72	CLAW		mʡə̄rə	m ʡ ə r ə
+87048	103201	northeuralex-dar	darg1241		claw	72	CLAW		iika	i i k a
+87049	103202	northeuralex-dar	darg1241		claw	72	CLAW		qʼjalʃi	qʼ j a l ʃ i
+87050	103203	northeuralex-ddo	dido1241		claw	72	CLAW		ʁot͡sʼimabi	ʁ o tsʼ i m a b i
+87086	103239	northeuralex-lbe	lakk1252		claw	72	CLAW		mix	m i x
+87087	103240	northeuralex-lez	lezg1247		claw	72	CLAW		qarmaχ	q a r m a χ
+87327	103480	wold-Archi	arch1244		claw	72	CLAW		χːeč	χː e tʃ
+87328	103481	wold-Bezhta	bezh1248		claw	72	CLAW		miƛo	m i tɬ o
+91886	108039	northeuralex-ava	avar1256		cloud	1489	CLOUD		nakːʼ	n a kʼː
+91898	108051	northeuralex-che	chec1245		cloud	1489	CLOUD		mərxə	m ə r x ə
+91903	108056	northeuralex-dar	darg1241		cloud	1489	CLOUD		ʁaɡul	ʁ a g u l
+91904	108057	northeuralex-ddo	dido1241		cloud	1489	CLOUD		as-kotʼu	a s k o tʼ u
+91941	108094	northeuralex-lbe	lakk1252		cloud	1489	CLOUD		tːurlu	tː u r l u
+91942	108095	northeuralex-lez	lezg1247		cloud	1489	CLOUD		t͡sif	ts i f
+92500	108653	wold-Archi	arch1244		cloud	1489	CLOUD		diɬʷ	d i ɬʷ
+92501	108654	wold-Bezhta	bezh1248		cloud	1489	CLOUD		has	h a s
+95479	111632	northeuralex-ava	avar1256		cold	1287	COLD		kwat͡ʃarab	k w a tʃ a r a b
+95490	111643	northeuralex-che	chec1245		cold	1287	COLD		ʃɪɪ̆lə	ʃ ɪ ɪ l ə
+95495	111648	northeuralex-dar	darg1241		cold	1287	COLD		buʕjarsi	b u ʕ j a r s i
+95496	111649	northeuralex-ddo	dido1241		cold	1287	COLD		bot͡ʃʼju	b o tʃʼ j u
+95532	111685	northeuralex-lbe	lakk1252		cold	1287	COLD		djarqʰːusːa	d j a r qʰː u sː a
+95533	111686	northeuralex-lez	lezg1247		cold	1287	COLD		meqʼi	m e qʼ i
+96276	112429	wold-Archi	arch1244		cold	1287	COLD		χˤetːut	χˤ e tː u t
+96277	112430	wold-Bezhta	bezh1248		cold	1287	COLD		-äč’č’ö	æ tʃʼ tʃʼ œ
+99150	115303	northeuralex-ava	avar1256		come	1446	COME		bat͡ʃʼinje	b a tʃʼ i n j e
+99162	115315	northeuralex-che	chec1245		come	1446	COME		qət͡ʃə	q ə tʃ ə
+99163	115316	northeuralex-che	chec1245		come	1446	COME		dʡəqət͡ʃə	d ʡ ə q ə tʃ ə
+99164	115317	northeuralex-che	chec1245		come	1446	COME		sʜəqət͡ʃə	s ʜ ə q ə tʃ ə
+99169	115322	northeuralex-dar	darg1241		come	1446	COME		bakʼes	b a kʼ e s
+99170	115323	northeuralex-ddo	dido1241		come	1446	COME		baja	b a j a
+99205	115358	northeuralex-lbe	lakk1252		come	1446	COME		ut͡ʃʼan	u tʃʼ a n
+99206	115359	northeuralex-lez	lezg1247		come	1446	COME		atun	a t u n
+99978	116131	wold-Archi	arch1244		come	1446	COME		akɬis	a k ɬ i s
+99979	116132	wold-Bezhta	bezh1248		come	1446	COME		-õq”o-	õ qʼ o
+99980	116133	wold-Bezhta	bezh1248		come	1446	COME		gow-	g o w
+127358	143513	northeuralex-ava	avar1256		die	1494	DIE		χwjezje	χ w j e z j e
+127370	143525	northeuralex-che	chec1245		die	1494	DIE		dələ	d ə l ə
+127375	143530	northeuralex-dar	darg1241		die	1494	DIE		webkʼes	w e b kʼ e s
+127376	143531	northeuralex-ddo	dido1241		die	1494	DIE		beχa	b e χ a
+127416	143571	northeuralex-lbe	lakk1252		die	1494	DIE		iwt͡ʃʼan	i w tʃʼ a n
+127417	143572	northeuralex-lez	lezg1247		die	1494	DIE		qʼin	qʼ i n
+128093	144248	wold-Archi	arch1244		die	1494	DIE		k’is	kʼ i s
+128094	144249	wold-Bezhta	bezh1248		die	1494	DIE		-uɣ-	u ɣ
+135922	152077	northeuralex-ava	avar1256		dog	2009	DOG		hoj	h o j
+135935	152090	northeuralex-che	chec1245		dog	2009	DOG		ʒʡælə	ʒ ʡ æ l ə
+135940	152095	northeuralex-dar	darg1241		dog	2009	DOG		χja	χ j a
+135941	152096	northeuralex-ddo	dido1241		dog	2009	DOG		ʁwˤaj	ʁ wˤ a j
+135979	152134	northeuralex-lbe	lakk1252		dog	2009	DOG		kːat͡ʃːi	kː a tʃː i
+135980	152135	northeuralex-lez	lezg1247		dog	2009	DOG		kit͡sʼ	k i tsʼ
+136760	152915	wold-Archi	arch1244		dog	2009	DOG		gʷači	gʷ a tʃ i
+136761	152916	wold-Bezhta	bezh1248		dog	2009	DOG		wo	w o
+142383	158538	northeuralex-ava	avar1256		drink	1401	DRINK		hjeq͡χːʼjezje	h j e qχʼː j e z j e
+142394	158549	northeuralex-che	chec1245		drink	1401	DRINK		mələ	m ə l ə
+142399	158554	northeuralex-dar	darg1241		drink	1401	DRINK		buʒes	b u ʒ e s
+142400	158555	northeuralex-ddo	dido1241		drink	1401	DRINK		ħat͡ɬa	ħ a tɬ a
+142435	158590	northeuralex-lbe	lakk1252		drink	1401	DRINK		ħat͡ʃʼan	ħ a tʃʼ a n
+142436	158591	northeuralex-lbe	lakk1252		drink	1401	DRINK		ħat͡ʃʼlan	ħ a tʃʼ l a n
+142437	158592	northeuralex-lez	lezg1247		drink	1401	DRINK		qʰun	qʰ u n
+142818	158973	wold-Archi	arch1244		drink	1401	DRINK		c’abus	tsʼ a b u s
+142819	158974	wold-Bezhta	bezh1248		drink	1401	DRINK		xuƛo	x u tɬ o
+145947	162102	northeuralex-ava	avar1256		dry	1398	DRY		baq͡χːʼwarab	b a qχʼː w a r a b
+145959	162114	northeuralex-che	chec1245		dry	1398	DRY		eqʼə	e qʼ ə
+145964	162119	northeuralex-dar	darg1241		dry	1398	DRY		deʁsi	d e ʁ s i
+145965	162120	northeuralex-ddo	dido1241		dry	1398	DRY		q͡χuq͡χæsi	qχ u qχ æ s i
+145966	162121	northeuralex-ddo	dido1241		dry	1398	DRY		q͡χuq͡χiræsi	qχ u qχ i r æ s i
+146002	162157	northeuralex-lbe	lakk1252		dry	1398	DRY		qʼawqʼsːa	qʼ a w qʼ sː a
+146003	162158	northeuralex-lbe	lakk1252		dry	1398	DRY		qʼaqʼan_buwsːa	qʼ a qʼ a n + b u w sː a
+146004	162159	northeuralex-lez	lezg1247		dry	1398	DRY		qʼuru	qʼ u r u
+146428	162583	wold-Archi	arch1244		dry	1398	DRY		qʼuretːut	qʼ u r e tː u t
+146429	162584	wold-Bezhta	bezh1248		dry	1398	DRY		qoqō	q o q oː
+151471	167626	northeuralex-ava	avar1256		ear	1247	EAR		ʕin	ʕ i n
+151482	167637	northeuralex-che	chec1245		ear	1247	EAR		lerɡ	l e r g
+151487	167642	northeuralex-dar	darg1241		ear	1247	EAR		liħi	l i ħ i
+151488	167643	northeuralex-ddo	dido1241		ear	1247	EAR		aħja	a ħ j a
+151521	167676	northeuralex-lbe	lakk1252		ear	1247	EAR		wit͡ʃʼi	w i tʃʼ i
+151522	167677	northeuralex-lez	lezg1247		ear	1247	EAR		æb	æ b
+152289	168444	wold-Archi	arch1244		ear	1247	EAR		oj	o j
+152290	168445	wold-Bezhta	bezh1248		ear	1247	EAR		äᵑɣä	æ̃ ɣ æ
+154289	170444	northeuralex-ava	avar1256		earthsoil	1228	EARTH (SOIL)		rat͡ɬʼ	r a tɬʼ
+154290	170445	northeuralex-ava	avar1256		earthsoil	1228	EARTH (SOIL)		dunijal	d u n i j a l
+154303	170458	northeuralex-che	chec1245		earthsoil	1228	EARTH (SOIL)		lətːə	l ə tː ə
+154308	170463	northeuralex-dar	darg1241		earthsoil	1228	EARTH (SOIL)		deʁ	d e ʁ
+154309	170464	northeuralex-dar	darg1241		earthsoil	1228	EARTH (SOIL)		wanza	w a n z a
+154310	170465	northeuralex-ddo	dido1241		earthsoil	1228	EARTH (SOIL)		t͡ʃʼedo	tʃʼ e d o
+154346	170501	northeuralex-lbe	lakk1252		earthsoil	1228	EARTH (SOIL)		aˤrɕːi	aˤ r ɕː i
+154347	170502	northeuralex-lez	lezg1247		earthsoil	1228	EARTH (SOIL)		t͡ʃt͡ʃil	tʃ tʃ i l
+154758	170913	wold-Archi	arch1244		earthsoil	1228	EARTH (SOIL)		naqʼʷ	n a qʼʷ
+154759	170914	wold-Bezhta	bezh1248		earthsoil	1228	EARTH (SOIL)		mizo	m i z o
+154760	170915	wold-Bezhta	bezh1248		earthsoil	1228	EARTH (SOIL)		mäče	m æ tʃ e
+157002	173157	northeuralex-ava	avar1256		eat	1336	EAT		kwinje	k w i n j e
+157003	173158	northeuralex-ava	avar1256		eat	1336	EAT		kwanazje	k w a n a z j e
+157015	173170	northeuralex-che	chec1245		eat	1336	EAT		qəlːə	q ə lː ə
+157020	173175	northeuralex-dar	darg1241		eat	1336	EAT		bukes	b u k e s
+157021	173176	northeuralex-ddo	dido1241		eat	1336	EAT		biʃa	b i ʃ a
+157022	173177	northeuralex-ddo	dido1241		eat	1336	EAT		bat͡sʼa	b a tsʼ a
+157055	173210	northeuralex-lbe	lakk1252		eat	1336	EAT		kanan	k a n a n
+157056	173211	northeuralex-lez	lezg1247		eat	1336	EAT		tʼyn	tʼ y n
+157674	173832	wold-Archi	arch1244		eat	1336	EAT		kummus	k u m m u s
+157675	173833	wold-Bezhta	bezh1248		eat	1336	EAT		-es-	e s
+159284	175442	northeuralex-ava	avar1256		egg	744	EGG		χono	χ o n o
+159295	175453	northeuralex-che	chec1245		egg	744	EGG		xʡoa	x ʡ o a
+159300	175458	northeuralex-dar	darg1241		egg	744	EGG		ɡidɡari	g i d g a r i
+159301	175459	northeuralex-ddo	dido1241		egg	744	EGG		kʼenet͡ʃʼ	kʼ e n e tʃʼ
+159335	175493	northeuralex-lbe	lakk1252		egg	744	EGG		kːunuk	kː u n u k
+159336	175494	northeuralex-lez	lezg1247		egg	744	EGG		kaka	k a k a
+160072	176230	wold-Archi	arch1244		egg	744	EGG		genuk	g e n u k
+160073	176231	wold-Bezhta	bezh1248		egg	744	EGG		c’emuc’	tsʼ e m u tsʼ
+169880	186038	northeuralex-che	chec1245		eye	1248	EYE		bʡærɡ	b ʡ æ r g
+169885	186043	northeuralex-dar	darg1241		eye	1248	EYE		ħuli	ħ u l i
+169886	186044	northeuralex-ddo	dido1241		eye	1248	EYE		ozuri	o z u r i
+169921	186079	northeuralex-lbe	lakk1252		eye	1248	EYE		ja	j a
+169922	186080	northeuralex-lez	lezg1247		eye	1248	EYE		wil	w i l
+170718	186876	wold-Archi	arch1244		eye	1248	EYE		lur	l u r
+170719	186877	wold-Bezhta	bezh1248		eye	1248	EYE		häy	h æ j
+182227	198387	northeuralex-ava	avar1256		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		bjeenɬi	b j e e n ɬ i
+182241	198401	northeuralex-che	chec1245		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		moʜ	m o ʜ
+182247	198407	northeuralex-dar	darg1241		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ʕjawadeʃ	ʕ j a w a d e ʃ
+182248	198408	northeuralex-ddo	dido1241		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		riɬ	r i ɬ
+182290	198450	northeuralex-lbe	lakk1252		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		aˤʁuʃiwu	aˤ ʁ u ʃ i w u
+182291	198451	northeuralex-lez	lezg1247		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		æʁlu	æ ʁ l u
+182711	198871	wold-Archi	arch1244		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		maj	m a j
+182712	198872	wold-Bezhta	bezh1248		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		coco	ts o ts o
+185112	201272	northeuralex-ava	avar1256		feather	1201	FEATHER		ħuli	ħ u l i
+185125	201285	northeuralex-che	chec1245		feather	1201	FEATHER		peləɡ	p e l ə g
+185130	201290	northeuralex-dar	darg1241		feather	1201	FEATHER		puħjala	p u ħ j a l a
+185131	201291	northeuralex-ddo	dido1241		feather	1201	FEATHER		lela	l e l a
+185169	201329	northeuralex-lbe	lakk1252		feather	1201	FEATHER		leluχːul_tʼimu	l e l u χː u l + tʼ i m u
+185170	201330	northeuralex-lez	lezg1247		feather	1201	FEATHER		t͡sʼakul	tsʼ a k u l
+185494	201654	wold-Archi	arch1244		feather	1201	FEATHER		cal	ts a l
+185495	201655	wold-Bezhta	bezh1248		feather	1201	FEATHER		mäč’ä	m æ tʃʼ æ
+193021	225674	northeuralex-ava	avar1256		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		borʒinje	b o r ʒ i n j e
+193033	225686	northeuralex-che	chec1245		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		tʼemədələ	tʼ e m ə d ə l ə
+193038	225691	northeuralex-dar	darg1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		urt͡ses	u r ts e s
+193039	225692	northeuralex-ddo	dido1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		betʼunkʼot͡ɬa	b e tʼ u n kʼ o tɬ a
+193077	225730	northeuralex-lbe	lakk1252		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		leχlan	l e χ l a n
+193078	225731	northeuralex-lez	lezg1247		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		luw_ɡun	l u w + g u n
+193079	225732	northeuralex-lez	lezg1247		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		t͡sawaj_fin	ts a w a j + f i n
+193544	226197	wold-Archi	arch1244		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		parχbos	p a r χ b o s
+193545	226198	wold-Bezhta	bezh1248		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		hawalƛ’a_-ogic’	h a w a l tɬʼ a + o g i tsʼ
+196402	229055	northeuralex-ava	avar1256		foot	1301	FOOT		ħjetʼ	ħ j e tʼ
+196403	229056	northeuralex-ava	avar1256		foot	1301	FOOT		ħjetʼje	ħ j e tʼ j e
+196416	229069	northeuralex-che	chec1245		foot	1301	FOOT		koɡ	k o g
+196421	229074	northeuralex-dar	darg1241		foot	1301	FOOT		qʼjaʃ	qʼ j a ʃ
+196422	229075	northeuralex-ddo	dido1241		foot	1301	FOOT		rori	r o r i
+196423	229076	northeuralex-ddo	dido1241		foot	1301	FOOT		χotʼo	χ o tʼ o
+196459	229112	northeuralex-lbe	lakk1252		foot	1301	FOOT		t͡ʃʼant͡ʃːan	tʃʼ a n tʃː a n
+196460	229113	northeuralex-lez	lezg1247		foot	1301	FOOT		kʼa̹t͡ʃ	kʼ a̹ tʃ
+196926	229579	wold-Archi	arch1244		foot	1301	FOOT		aq	a q
+196927	229580	wold-Bezhta	bezh1248		foot	1301	FOOT		halo	h a l o
+209482	242135	northeuralex-che	chec1245		full	1429	FULL		dyznə	d y z n ə
+209486	242139	northeuralex-dar	darg1241		full	1429	FULL		bit͡siibsi	b i ts i i b s i
+209487	242140	northeuralex-ddo	dido1241		full	1429	FULL		ʕut͡sʼaraw	ʕ u tsʼ a r a w
+209520	242173	northeuralex-lbe	lakk1252		full	1429	FULL		buwt͡sʼusːa	b u w tsʼ u sː a
+209521	242174	northeuralex-lez	lezg1247		full	1429	FULL		at͡sʼaj	a tsʼ a j
+209999	242652	wold-Archi	arch1244		full	1429	FULL		aːcʼutːut	aː tsʼ u tː u t
+210000	242653	wold-Bezhta	bezh1248		full	1429	FULL		-oc’iyo	o tsʼ i j o
+210001	242654	wold-Bezhta	bezh1248		full	1429	FULL		üč’äräb	y tʃʼ æ r æ b
+214895	247548	northeuralex-ava	avar1256		give	1447	GIVE		t͡ɬʼjezje	tɬʼ j e z j e
+214906	247559	northeuralex-che	chec1245		give	1447	GIVE		jələ	j ə l ə
+214911	247564	northeuralex-dar	darg1241		give	1447	GIVE		ɡes	g e s
+214912	247565	northeuralex-dar	darg1241		give	1447	GIVE		luɡes	l u g e s
+214913	247566	northeuralex-ddo	dido1241		give	1447	GIVE		net͡ɬa	n e tɬ a
+214914	247567	northeuralex-ddo	dido1241		give	1447	GIVE		tet͡ɬa	t e tɬ a
+214948	247601	northeuralex-lbe	lakk1252		give	1447	GIVE		dulun	d u l u n
+214949	247602	northeuralex-lez	lezg1247		give	1447	GIVE		ɡun	g u n
+215678	248331	wold-Archi	arch1244		give	1447	GIVE		kɬos	k ɬ o s
+215679	248332	wold-Bezhta	bezh1248		give	1447	GIVE		niƛ-	n i tɬ
+221036	253692	northeuralex-ava	avar1256		good	1035	GOOD		ɬikʼab	ɬ i kʼ a b
+221047	253703	northeuralex-che	chec1245		good	1035	GOOD		dɪkə	d ɪ k ə
+221053	253709	northeuralex-dar	darg1241		good	1035	GOOD		ʕjaħsi	ʕ j a ħ s i
+221054	253710	northeuralex-ddo	dido1241		good	1035	GOOD		t͡sʼikʼaraw	tsʼ i kʼ a r a w
+221087	253743	northeuralex-lbe	lakk1252		good	1035	GOOD		χːujsːa	χː u j sː a
+221088	253744	northeuralex-lez	lezg1247		good	1035	GOOD		qʰsan	qʰ s a n
+221089	253745	northeuralex-lez	lezg1247		good	1035	GOOD		wiʒewaj	w i ʒ e w a j
+221850	254506	wold-Archi	arch1244		good	1035	GOOD		hibatːu	h i b a tː u
+221851	254507	wold-Bezhta	bezh1248		good	1035	GOOD		k’et’o	kʼ e tʼ o
+228770	261426	northeuralex-ava	avar1256		green	1425	GREEN		ʕurt͡ʃːinab	ʕ u r tʃː i n a b
+228782	261438	northeuralex-che	chec1245		green	1425	GREEN		bæt͡sːərə	b æ tsː ə r ə
+228789	261445	northeuralex-dar	darg1241		green	1425	GREEN		ʃiniʃa	ʃ i n i ʃ a
+228790	261446	northeuralex-ddo	dido1241		green	1425	GREEN		et͡ʃjasi	e tʃ j a s i
+228828	261484	northeuralex-lbe	lakk1252		green	1425	GREEN		ɕːjulisːa	ɕː j u l i sː a
+228829	261485	northeuralex-lez	lezg1247		green	1425	GREEN		qat͡su	q a ts u
+229272	261928	wold-Archi	arch1244		green	1425	GREEN		oˤlowtːut	oˤ l o w tː u t
+229273	261929	wold-Bezhta	bezh1248		green	1425	GREEN		heƛaɬcoʔos	h e tɬ a ɬ ts o ʔ o s
+229274	261930	wold-Bezhta	bezh1248		green	1425	GREEN		green	g r e e n
+234773	267429	northeuralex-ava	avar1256		hair	1040	HAIR		ras	r a s
+234787	267443	northeuralex-che	chec1245		hair	1040	HAIR		məs	m ə s
+234792	267448	northeuralex-dar	darg1241		hair	1040	HAIR		ʁez	ʁ e z
+234793	267449	northeuralex-ddo	dido1241		hair	1040	HAIR		mus	m u s
+234829	267485	northeuralex-lbe	lakk1252		hair	1040	HAIR		t͡ʃʼara	tʃʼ a r a
+234830	267486	northeuralex-lez	lezg1247		hair	1040	HAIR		t͡ʃʼar	tʃʼ a r
+238612	271268	northeuralex-ava	avar1256		hand	1277	HAND		kwjer	k w j e r
+238625	271281	northeuralex-che	chec1245		hand	1277	HAND		kyɡ	k y g
+238631	271287	northeuralex-dar	darg1241		hand	1277	HAND		njaɢ	n j a ɢ
+238632	271288	northeuralex-ddo	dido1241		hand	1277	HAND		ret͡ɬʼa	r e tɬʼ a
+238669	271325	northeuralex-lbe	lakk1252		hand	1277	HAND		bartka	b a r t k a
+238670	271326	northeuralex-lez	lezg1247		hand	1277	HAND		kapaʃ	k a p a ʃ
+239209	271865	wold-Archi	arch1244		hand	1277	HAND		kul	k u l
+239210	271866	wold-Bezhta	bezh1248		hand	1277	HAND		kō	k oː
+244230	276887	northeuralex-ava	avar1256		head	1256	HEAD		bjetʼjer	b j e tʼ j e r
+244242	276899	northeuralex-che	chec1245		head	1256	HEAD		kortə	k o r t ə
+244247	276904	northeuralex-dar	darg1241		head	1256	HEAD		bekʼ	b e kʼ
+244248	276905	northeuralex-ddo	dido1241		head	1256	HEAD		qʼˤim	qʼˤ i m
+244284	276941	northeuralex-lbe	lakk1252		head	1256	HEAD		bakʼ	b a kʼ
+244285	276942	northeuralex-lez	lezg1247		head	1256	HEAD		qʼil	qʼ i l
+245105	277762	wold-Archi	arch1244		head	1256	HEAD		kart’i	k a r tʼ i
+245106	277763	wold-Archi	arch1244		head	1256	HEAD		oˤnt	oˤ n t
+245107	277764	wold-Bezhta	bezh1248		head	1256	HEAD		q’ǟm	q æː m
+247161	279818	northeuralex-ava	avar1256		hear	1408	HEAR		raʕizje	r a ʕ i z j e
+247173	279830	northeuralex-che	chec1245		hear	1408	HEAR		xəzə	x ə z ə
+247178	279835	northeuralex-dar	darg1241		hear	1408	HEAR		biqʼes	b i qʼ e s
+247179	279836	northeuralex-ddo	dido1241		hear	1408	HEAR		teq͡χra	t e qχ r a
+247213	279870	northeuralex-lbe	lakk1252		hear	1408	HEAR		ballan	b a l l a n
+247214	279871	northeuralex-lez	lezg1247		hear	1408	HEAR		wan_xun	w a n + x u n
+247898	280555	wold-Archi	arch1244		hear	1408	HEAR		kos	k o s
+247899	280556	wold-Bezhta	bezh1248		hear	1408	HEAR		tuq-	t u q
+248745	281402	northeuralex-ava	avar1256		heart	1223	HEART		rakʼ	r a kʼ
+248756	281413	northeuralex-che	chec1245		heart	1223	HEART		doɡ	d o g
+248761	281418	northeuralex-dar	darg1241		heart	1223	HEART		urkʼi	u r kʼ i
+248762	281419	northeuralex-ddo	dido1241		heart	1223	HEART		rokʼu	r o kʼ u
+248797	281454	northeuralex-lbe	lakk1252		heart	1223	HEART		dakʼ	d a kʼ
+248798	281455	northeuralex-lbe	lakk1252		heart	1223	HEART		qʰːjukʼ	qʰː j u kʼ
+248799	281456	northeuralex-lez	lezg1247		heart	1223	HEART		rikʼ	r i kʼ
+249246	281903	wold-Archi	arch1244		heart	1223	HEART		ikʼʷ	i kʼʷ
+249247	281904	wold-Bezhta	bezh1248		heart	1223	HEART		yak’o	j a kʼ o
+263587	296247	northeuralex-ava	avar1256		hornanatomy	1393	HORN (ANATOMY)		ɬːar	ɬː a r
+263599	296259	northeuralex-che	chec1245		hornanatomy	1393	HORN (ANATOMY)		məʡə	m ə ʡ ə
+263604	296264	northeuralex-dar	darg1241		hornanatomy	1393	HORN (ANATOMY)		mukeki	m u k e k i
+263605	296265	northeuralex-ddo	dido1241		hornanatomy	1393	HORN (ANATOMY)		ʃilu	ʃ i l u
+263639	296299	northeuralex-lbe	lakk1252		hornanatomy	1393	HORN (ANATOMY)		q͡χi	qχ i
+263640	296300	northeuralex-lez	lezg1247		hornanatomy	1393	HORN (ANATOMY)		kart͡ʃ	k a r tʃ
+263891	296551	wold-Archi	arch1244		hornanatomy	1393	HORN (ANATOMY)		bat	b a t
+263892	296552	wold-Bezhta	bezh1248		hornanatomy	1393	HORN (ANATOMY)		šelo	ʃ e l o
+274909	307569	northeuralex-ava	avar1256		i	1209	I		dun	d u n
+274920	307580	northeuralex-che	chec1245		i	1209	I		co	c o
+274925	307585	northeuralex-dar	darg1241		i	1209	I		nuni	n u n i
+274926	307586	northeuralex-ddo	dido1241		i	1209	I		di	d i
+274961	307621	northeuralex-lbe	lakk1252		i	1209	I		na	n a
+274962	307622	northeuralex-lez	lezg1247		i	1209	I		za	z a
+274963	307623	northeuralex-lez	lezg1247		i	1209	I		zun	z u n
+275510	308170	wold-Archi	arch1244		i	1209	I		zon	z o n
+275511	308171	wold-Bezhta	bezh1248		i	1209	I		do	d o
+287810	320470	northeuralex-ava	avar1256		kill	1417	KILL		t͡ʃʼwazje	tʃʼ w a z j e
+287822	320482	northeuralex-che	chec1245		kill	1417	KILL		den	d e n
+287828	320488	northeuralex-dar	darg1241		kill	1417	KILL		kabuʃes	k a b u ʃ e s
+287829	320489	northeuralex-ddo	dido1241		kill	1417	KILL		beχura	b e χ u r a
+287830	320490	northeuralex-ddo	dido1241		kill	1417	KILL		ʁutʼra	ʁ u tʼ r a
+287869	320529	northeuralex-lbe	lakk1252		kill	1417	KILL		iwt͡ʃʼan	i w tʃʼ a n
+287870	320530	northeuralex-lez	lezg1247		kill	1417	KILL		æna_qʼin	æ n a + qʼ i n
+288325	320985	wold-Archi	arch1244		kill	1417	KILL		ačas	a tʃ a s
+288326	320986	wold-Bezhta	bezh1248		kill	1417	KILL		-iƛ-	i tɬ
+290482	323142	northeuralex-ava	avar1256		knee	1371	KNEE		naku	n a k u
+290493	323153	northeuralex-che	chec1245		knee	1371	KNEE		ɡōlə	g ō l ə
+290499	323159	northeuralex-dar	darg1241		knee	1371	KNEE		qʼuqʼa	qʼ u qʼ a
+290500	323160	northeuralex-ddo	dido1241		knee	1371	KNEE		bet͡ʃni	b e tʃ n i
+290533	323193	northeuralex-lbe	lakk1252		knee	1371	KNEE		nik	n i k
+290534	323194	northeuralex-lez	lezg1247		knee	1371	KNEE		met	m e t
+291219	323879	wold-Archi	arch1244		knee	1371	KNEE		poˤmp	p oˤ m p
+291220	323880	wold-Bezhta	bezh1248		knee	1371	KNEE		ãga	ã g a
+294471	327131	northeuralex-ava	avar1256		knowsomething	1410	KNOW (SOMETHING)		ɬazje	ɬ a z j e
+294482	327142	northeuralex-che	chec1245		knowsomething	1410	KNOW (SOMETHING)		xəə	x ə ə
+294488	327148	northeuralex-dar	darg1241		knowsomething	1410	KNOW (SOMETHING)		bales	b a l e s
+294489	327149	northeuralex-ddo	dido1241		knowsomething	1410	KNOW (SOMETHING)		bija	b i j a
+294522	327182	northeuralex-lbe	lakk1252		knowsomething	1410	KNOW (SOMETHING)		kʼulnu_bikʼan	kʼ u l n u + b i kʼ a n
+294523	327183	northeuralex-lbe	lakk1252		knowsomething	1410	KNOW (SOMETHING)		χawar_bikʼan	χ a w a r + b i kʼ a n
+294524	327184	northeuralex-lez	lezg1247		knowsomething	1410	KNOW (SOMETHING)		t͡ʃir_xun	tʃ i r + x u n
+294525	327185	northeuralex-lez	lezg1247		knowsomething	1410	KNOW (SOMETHING)		t͡ʃirxun	tʃ i r x u n
+294861	327521	wold-Archi	arch1244		knowsomething	1410	KNOW (SOMETHING)		sini	s i n i
+294862	327522	wold-Bezhta	bezh1248		knowsomething	1410	KNOW (SOMETHING)		-iq’e-	i qʼ e
+302454	335114	northeuralex-ava	avar1256		leaf	628	LEAF		tʼamaχ	tʼ a m a χ
+302466	335126	northeuralex-che	chec1245		leaf	628	LEAF		ɣə	ɣ ə
+302471	335131	northeuralex-dar	darg1241		leaf	628	LEAF		kʼapʼi	kʼ a pʼ i
+302472	335132	northeuralex-ddo	dido1241		leaf	628	LEAF		t͡ɬˤab	tɬˤ a b
+302506	335166	northeuralex-lbe	lakk1252		leaf	628	LEAF		t͡ʃʼapʼi	tʃʼ a pʼ i
+302507	335167	northeuralex-lez	lezg1247		leaf	628	LEAF		peʃ	p e ʃ
+303197	335857	wold-Archi	arch1244		leaf	628	LEAF		kačʼi	k a tʃʼ i
+303198	335858	wold-Bezhta	bezh1248		leaf	628	LEAF		ƛibo	tɬ i b o
+310557	343217	northeuralex-ava	avar1256		lierest	1411	LIE (REST)		bjeɡizje	b j e g i z j e
+310568	343228	northeuralex-che	chec1245		lierest	1411	LIE (REST)		ʡɪlːə	ʡ ɪ lː ə
+310573	343233	northeuralex-dar	darg1241		lierest	1411	LIE (REST)		kalxes	k a l x e s
+310574	343234	northeuralex-ddo	dido1241		lierest	1411	LIE (REST)		ket͡sʼa	k e tsʼ a
+310609	343269	northeuralex-lbe	lakk1252		lierest	1411	LIE (REST)		utːu_nwxunu_ikʼan	u tː u + n w x u n u + i kʼ a n
+310610	343270	northeuralex-lez	lezg1247		lierest	1411	LIE (REST)		qatkun	q a t k u n
+317183	349843	northeuralex-ava	avar1256		liver	1224	LIVER		tʼul	tʼ u l
+317194	349854	northeuralex-che	chec1245		liver	1224	LIVER		doʡəx	d o ʡ ə x
+317199	349859	northeuralex-dar	darg1241		liver	1224	LIVER		pet͡ʃenʲ	p e tʃ e nʲ
+317200	349860	northeuralex-ddo	dido1241		liver	1224	LIVER		ʒubi	ʒ u b i
+317235	349895	northeuralex-lez	lezg1247		liver	1224	LIVER		leqʼ	l e qʼ
+317670	350330	wold-Archi	arch1244		liver	1224	LIVER		dilikʼ	d i l i kʼ
+317671	350331	wold-Bezhta	bezh1248		liver	1224	LIVER		šebo	ʃ e b o
+320115	352775	northeuralex-ava	avar1256		long	1203	LONG		χalatab	χ a l a t a b
+320126	352786	northeuralex-che	chec1245		long	1203	LONG		exə	e x ə
+320131	352791	northeuralex-dar	darg1241		long	1203	LONG		buqjana	b u q j a n a
+320132	352792	northeuralex-ddo	dido1241		long	1203	LONG		beχora	b e χ o r a
+320168	352828	northeuralex-lbe	lakk1252		long	1203	LONG		laq͡χisːa	l a qχ i sː a
+320169	352829	northeuralex-lez	lezg1247		long	1203	LONG		ærʁi	æ r ʁ i
+320723	353383	wold-Archi	arch1244		long	1203	LONG		aqatːut	a q a tː u t
+320724	353384	wold-Bezhta	bezh1248		long	1203	LONG		-ixalo	i x a l o
+323733	356393	northeuralex-ava	avar1256		louse	1392	LOUSE		nat͡sʼ	n a tsʼ
+323744	356404	northeuralex-che	chec1245		louse	1392	LOUSE		mezə	m e z ə
+323745	356405	northeuralex-che	chec1245		louse	1392	LOUSE		ɣenɪɡ	ɣ e n ɪ g
+323750	356410	northeuralex-dar	darg1241		louse	1392	LOUSE		nerʔ	n e r ʔ
+323751	356411	northeuralex-ddo	dido1241		louse	1392	LOUSE		not͡sʼi	n o tsʼ i
+323781	356441	northeuralex-lez	lezg1247		louse	1392	LOUSE		net	n e t
+330679	363340	northeuralex-ava	avar1256		man	1554	MAN		bixint͡ʃi	b i x i n tʃ i
+330691	363352	northeuralex-che	chec1245		man	1554	MAN		məɪ̆rə	m ə ɪ r ə
+330696	363357	northeuralex-dar	darg1241		man	1554	MAN		murul	m u r u l
+330697	363358	northeuralex-dar	darg1241		man	1554	MAN		murul_adam	m u r u l + a d a m
+330698	363359	northeuralex-ddo	dido1241		man	1554	MAN		ʒekʼu	ʒ e kʼ u
+330740	363401	northeuralex-lbe	lakk1252		man	1554	MAN		t͡ʃuw	tʃ u w
+330741	363402	northeuralex-lbe	lakk1252		man	1554	MAN		adimina	a d i m i n a
+330742	363403	northeuralex-lez	lezg1247		man	1554	MAN		itim	i t i m
+331469	364130	wold-Archi	arch1244		man	1554	MAN		bošor	b o ʃ o r
+331470	364131	wold-Bezhta	bezh1248		man	1554	MAN		abo	a b o
+331471	364132	wold-Bezhta	bezh1248		man	1554	MAN		suk’o	s u kʼ o
+332934	365595	wold-Archi	arch1244		many	1198	MANY		labχanši	l a b χ a n ʃ i
+332935	365596	wold-Bezhta	bezh1248		many	1198	MANY		teli	t e l i
+332936	365597	wold-Bezhta	bezh1248		many	1198	MANY		dīs	d iː s
+332937	365598	wold-Bezhta	bezh1248		many	1198	MANY		öllö	œ l l œ
+332938	365599	wold-Bezhta	bezh1248		many	1198	MANY		ladi	l a d i
+344709	377370	northeuralex-ava	avar1256		moon	1313	MOON		mot͡sʼ	m o tsʼ
+344721	377382	northeuralex-che	chec1245		moon	1313	MOON		bu͡ʊtː	b uʊ tː
+344726	377387	northeuralex-dar	darg1241		moon	1313	MOON		bat͡s	b a ts
+344727	377388	northeuralex-ddo	dido1241		moon	1313	MOON		but͡sʼi	b u tsʼ i
+344763	377424	northeuralex-lbe	lakk1252		moon	1313	MOON		barz	b a r z
+344764	377425	northeuralex-lez	lezg1247		moon	1313	MOON		warz	w a r z
+345504	378165	wold-Archi	arch1244		moon	1313	MOON		bac	b a c
+345505	378166	wold-Bezhta	bezh1248		moon	1313	MOON		boco	b o ts o
+351180	383844	northeuralex-ava	avar1256		mountain	639	MOUNTAIN		mjeʕjer	m j e ʕ j e r
+351192	383856	northeuralex-che	chec1245		mountain	639	MOUNTAIN		ləm	l ə m
+351197	383861	northeuralex-dar	darg1241		mountain	639	MOUNTAIN		dubura	d u b u r a
+351198	383862	northeuralex-ddo	dido1241		mountain	639	MOUNTAIN		ħon	ħ o n
+351239	383903	northeuralex-lbe	lakk1252		mountain	639	MOUNTAIN		zuntːu	z u n tː u
+351240	383904	northeuralex-lez	lezg1247		mountain	639	MOUNTAIN		daʁ	d a ʁ
+353713	386377	northeuralex-ava	avar1256		mouth	674	MOUTH		kʼal	kʼ a l
+353724	386388	northeuralex-che	chec1245		mouth	674	MOUTH		bəɡə	b ə g ə
+353729	386393	northeuralex-dar	darg1241		mouth	674	MOUTH		qʼak	qʼ a k
+353730	386394	northeuralex-ddo	dido1241		mouth	674	MOUTH		haq͡χu	h a qχ u
+353765	386429	northeuralex-lbe	lakk1252		mouth	674	MOUTH		qʼat͡sʼ	qʼ a tsʼ
+353766	386430	northeuralex-lez	lezg1247		mouth	674	MOUTH		siw	s i w
+354503	387167	wold-Archi	arch1244		mouth	674	MOUTH		sːob	sː o b
+354504	387168	wold-Bezhta	bezh1248		mouth	674	MOUTH		sik’o	s i kʼ o
+358717	391382	northeuralex-ava	avar1256		name	1405	NAME		t͡sʼar	tsʼ a r
+358729	391394	northeuralex-che	chec1245		name	1405	NAME		t͡sʼe	tsʼ e
+358734	391399	northeuralex-dar	darg1241		name	1405	NAME		zur	z u r
+358735	391400	northeuralex-ddo	dido1241		name	1405	NAME		t͡sʼi	tsʼ i
+358770	391435	northeuralex-lbe	lakk1252		name	1405	NAME		t͡sʼa	tsʼ a
+358771	391436	northeuralex-lez	lezg1247		name	1405	NAME		tʼa̹r	tʼ a̹ r
+359333	391999	wold-Archi	arch1244		name	1405	NAME		cʼor	tsʼ o r
+359334	392000	wold-Bezhta	bezh1248		name	1405	NAME		cāᵑ	ts ãː
+365008	397675	northeuralex-ava	avar1256		neck	1333	NECK		ɡabur	g a b u r
+365019	397686	northeuralex-che	chec1245		neck	1333	NECK		vortə	v o r t ə
+365024	397691	northeuralex-dar	darg1241		neck	1333	NECK		qjab	q j a b
+365025	397692	northeuralex-ddo	dido1241		neck	1333	NECK		met͡ʃʼ	m e tʃʼ
+365062	397729	northeuralex-lbe	lakk1252		neck	1333	NECK		sːursːu	sː u r sː u
+365063	397730	northeuralex-lez	lezg1247		neck	1333	NECK		ɡardan	g a r d a n
+365778	398445	wold-Archi	arch1244		neck	1333	NECK		oˤč'lekːi	oˤ tʃʼ l e kː i
+365779	398446	wold-Bezhta	bezh1248		neck	1333	NECK		boɬo	b o ɬ o
+369055	401722	northeuralex-ava	avar1256		new	1231	NEW		t͡sʼijab	tsʼ i j a b
+369067	401734	northeuralex-che	chec1245		new	1231	NEW		kerlə	k e r l ə
+369072	401739	northeuralex-dar	darg1241		new	1231	NEW		saɡasi	s a g a s i
+369073	401740	northeuralex-ddo	dido1241		new	1231	NEW		et͡sʼnu	e tsʼ n u
+369109	401776	northeuralex-lbe	lakk1252		new	1231	NEW		t͡sʼusːa	tsʼ u sː a
+369110	401777	northeuralex-lez	lezg1247		new	1231	NEW		t͡sʼiji	tsʼ i j i
+369674	402341	wold-Archi	arch1244		new	1231	NEW		macʼatːut	m a tsʼ a tː u t
+369675	402342	wold-Bezhta	bezh1248		new	1231	NEW		ic’c’o	i tsʼ tsʼ o
+371849	404516	northeuralex-ava	avar1256		night	1233	NIGHT		sordo	s o r d o
+371860	404527	northeuralex-che	chec1245		night	1233	NIGHT		byːsə	b yː s ə
+371865	404532	northeuralex-dar	darg1241		night	1233	NIGHT		duɡi	d u g i
+371866	404533	northeuralex-ddo	dido1241		night	1233	NIGHT		boɡol	b o g o l
+371901	404568	northeuralex-lbe	lakk1252		night	1233	NIGHT		xːu	xː u
+371902	404569	northeuralex-lez	lezg1247		night	1233	NIGHT		jif	j i f
+372618	405285	wold-Archi	arch1244		night	1233	NIGHT		iš	i ʃ
+372619	405286	wold-Bezhta	bezh1248		night	1233	NIGHT		nišeš_mex	n i ʃ e ʃ + m e x
+377672	410339	northeuralex-ava	avar1256		nose	1221	NOSE		mjeʕjer	m j e ʕ j e r
+377683	410350	northeuralex-che	chec1245		nose	1221	NOSE		mərə	m ə r ə
+377688	410355	northeuralex-dar	darg1241		nose	1221	NOSE		ɢjanɢ	ɢ j a n ɢ
+377689	410356	northeuralex-ddo	dido1241		nose	1221	NOSE		mˤali	mˤ a l i
+377723	410390	northeuralex-lbe	lakk1252		nose	1221	NOSE		maj	m a j
+377724	410391	northeuralex-lez	lezg1247		nose	1221	NOSE		ner	n e r
+378497	411164	wold-Archi	arch1244		nose	1221	NOSE		muč	m u tʃ
+378498	411165	wold-Bezhta	bezh1248		nose	1221	NOSE		mǟ	m æː
+379201	411868	northeuralex-che	chec1245		not	1240	NOT		t͡sə	ts ə
+379208	411875	northeuralex-dar	darg1241		not	1240	NOT		juχ	j u χ
+379209	411876	northeuralex-dar	darg1241		not	1240	NOT		ħja	ħ j a
+379210	411877	northeuralex-dar	darg1241		not	1240	NOT		het͡ʃ	h e tʃ
+379211	411878	northeuralex-dar	darg1241		not	1240	NOT		aɡara	a g a r a
+379212	411879	northeuralex-ddo	dido1241		not	1240	NOT		aj	a j
+379254	411921	northeuralex-lbe	lakk1252		not	1240	NOT		qʰːa-	qʰː a
+379255	411922	northeuralex-lez	lezg1247		not	1240	NOT		waʔ	w a ʔ
+389943	422610	northeuralex-ava	avar1256		one	1493	ONE		t͡so	ts o
+389955	422622	northeuralex-che	chec1245		one	1493	ONE		t͡sʜəʔ	ts ʜ ə ʔ
+389961	422628	northeuralex-dar	darg1241		one	1493	ONE		t͡sa	ts a
+389962	422629	northeuralex-ddo	dido1241		one	1493	ONE		sida	s i d a
+389996	422663	northeuralex-lbe	lakk1252		one	1493	ONE		t͡sa	ts a
+389997	422664	northeuralex-lez	lezg1247		one	1493	ONE		sa	s a
+390766	423433	wold-Archi	arch1244		one	1493	ONE		os	o s
+390767	423434	wold-Bezhta	bezh1248		one	1493	ONE		hõs	h õ s
+406510	439177	northeuralex-ava	avar1256		person	683	PERSON		t͡ʃi	tʃ i
+406526	439193	northeuralex-che	chec1245		person	683	PERSON		ədəm	ə d ə m
+406532	439199	northeuralex-dar	darg1241		person	683	PERSON		adam	a d a m
+406533	439200	northeuralex-ddo	dido1241		person	683	PERSON		insan	i n s a n
+406573	439240	northeuralex-lbe	lakk1252		person	683	PERSON		insan	i n s a n
+406574	439241	northeuralex-lez	lezg1247		person	683	PERSON		insan	i n s a n
+406903	439570	wold-Archi	arch1244		person	683	PERSON		adam	a d a m
+406904	439571	wold-Bezhta	bezh1248		person	683	PERSON		suk’o	s u kʼ o
+406905	439572	wold-Bezhta	bezh1248		person	683	PERSON		ädäm	æ d æ m
+406906	439573	wold-Bezhta	bezh1248		person	683	PERSON		insan	i n s a n
+432746	465414	northeuralex-ava	avar1256		red	156	RED		baʕarab	b a ʕ a r a b
+432760	465428	northeuralex-che	chec1245		red	156	RED		t͡sʼēn	tsʼ ē n
+432766	465434	northeuralex-dar	darg1241		red	156	RED		ħuntʼena	ħ u n tʼ e n a
+432767	465435	northeuralex-ddo	dido1241		red	156	RED		t͡sʼuda	tsʼ u d a
+432768	465436	northeuralex-ddo	dido1241		red	156	RED		t͡sʼudani	tsʼ u d a n i
+432802	465470	northeuralex-lbe	lakk1252		red	156	RED		jatʼulsːa	j a tʼ u l sː a
+432803	465471	northeuralex-lez	lezg1247		red	156	RED		æru	æ r u
+433332	466000	wold-Archi	arch1244		red	156	RED		jaˤt'annut	j aˤ tʼ a n n u t
+433333	466001	wold-Bezhta	bezh1248		red	156	RED		c’uddo	tsʼ u d d o
+441535	474204	northeuralex-ava	avar1256		road	667	ROAD		nuχ	n u χ
+441547	474216	northeuralex-che	chec1245		road	667	ROAD		u͡ʊrəm	uʊ r ə m
+441554	474223	northeuralex-dar	darg1241		road	667	ROAD		huni	h u n i
+441555	474224	northeuralex-ddo	dido1241		road	667	ROAD		ʃahra	ʃ a h r a
+441593	474262	northeuralex-lbe	lakk1252		road	667	ROAD		χːullu	χː u l l u
+441594	474263	northeuralex-lez	lezg1247		road	667	ROAD		reqʰ	r e qʰ
+441736	474405	wold-Archi	arch1244		road	667	ROAD		deq’ˤ	d e qʼˤ
+441737	474406	wold-Bezhta	bezh1248		road	667	ROAD		hino	h i n o
+444622	477291	northeuralex-ava	avar1256		root	670	ROOT		t͡ɬʼibil	tɬʼ i b i l
+444635	477304	northeuralex-che	chec1245		root	670	ROOT		ōrəm	ō r ə m
+444640	477309	northeuralex-dar	darg1241		root	670	ROOT		mjaqʼ	m j a qʼ
+444641	477310	northeuralex-dar	darg1241		root	670	ROOT		ħjat͡ʃi	ħ j a tʃ i
+444642	477311	northeuralex-ddo	dido1241		root	670	ROOT		ʕart͡ɬʼel	ʕ a r tɬʼ e l
+444678	477347	northeuralex-lbe	lakk1252		root	670	ROOT		marχːa	m a r χː a
+444679	477348	northeuralex-lez	lezg1247		root	670	ROOT		duwul	d u w u l
+445384	478053	wold-Archi	arch1244		root	670	ROOT		marχːu	m a r χː u
+445385	478054	wold-Bezhta	bezh1248		root	670	ROOT		xemux	x e m u x
+448986	481655	northeuralex-ava	avar1256		round	1395	ROUND		ɡurɡinab	g u r g i n a b
+448998	481667	northeuralex-che	chec1245		round	1395	ROUND		ɡorɡə	g o r g ə
+449003	481672	northeuralex-dar	darg1241		round	1395	ROUND		ʒuruɡa	ʒ u r u g a
+449004	481673	northeuralex-ddo	dido1241		round	1395	ROUND		ɡuɡuru	g u g u r u
+449040	481709	northeuralex-lbe	lakk1252		round	1395	ROUND		kːurkːisːa	kː u r kː i sː a
+449041	481710	northeuralex-lez	lezg1247		round	1395	ROUND		elqʷej	e l qʷ e j
+449347	482016	wold-Archi	arch1244		round	1395	ROUND		gukːitːut	g u kː i tː u t
+449348	482017	wold-Bezhta	bezh1248		round	1395	ROUND		gomordiyo	g o m o r d i j o
+456635	489304	northeuralex-ava	avar1256		sand	671	SAND		sali	s a l i
+456646	489315	northeuralex-che	chec1245		sand	671	SAND		ɣu͡ʊm	ɣ uʊ m
+456651	489320	northeuralex-dar	darg1241		sand	671	SAND		ʁum	ʁ u m
+456652	489321	northeuralex-dar	darg1241		sand	671	SAND		belqʼunsi_t͡ʃakar	b e l qʼ u n s i + tʃ a k a r
+456653	489322	northeuralex-ddo	dido1241		sand	671	SAND		ɡibu	g i b u
+456690	489359	northeuralex-lbe	lakk1252		sand	671	SAND		qʰːun	qʰː u n
+456691	489360	northeuralex-lez	lezg1247		sand	671	SAND		qum	q u m
+457387	490056	wold-Archi	arch1244		sand	671	SAND		sarsi	s a r s i
+457388	490057	wold-Bezhta	bezh1248		sand	671	SAND		miso	m i s o
+459559	492228	northeuralex-ava	avar1256		say	1458	SAY		bit͡sinje	b i ts i n j e
+459572	492241	northeuralex-che	chec1245		say	1458	SAY		ələ	ə l ə
+459577	492246	northeuralex-dar	darg1241		say	1458	SAY		es	e s
+459578	492247	northeuralex-ddo	dido1241		say	1458	SAY		et͡ɬa	e tɬ a
+459617	492286	northeuralex-lbe	lakk1252		say	1458	SAY		ut͡ʃin	u tʃ i n
+459618	492287	northeuralex-lez	lezg1247		say	1458	SAY		luhun	l u h u n
+459970	492639	wold-Archi	arch1244		say	1458	SAY		bos	b o s
+459971	492640	wold-Bezhta	bezh1248		say	1458	SAY		niso-	n i s o
+465372	498042	northeuralex-ava	avar1256		see	1409	SEE		bixizje	b i x i z j e
+465383	498053	northeuralex-che	chec1245		see	1409	SEE		ɡən	g ə n
+465388	498058	northeuralex-dar	darg1241		see	1409	SEE		t͡ʃebies	tʃ e b i e s
+465389	498059	northeuralex-ddo	dido1241		see	1409	SEE		bikada	b i k a d a
+465423	498093	northeuralex-lbe	lakk1252		see	1409	SEE		t͡ʃʼalan	tʃʼ a l a n
+465424	498094	northeuralex-lez	lezg1247		see	1409	SEE		akun	a k u n
+466187	498857	wold-Archi	arch1244		see	1409	SEE		akːus	a kː u s
+466188	498858	wold-Bezhta	bezh1248		see	1409	SEE		-ega-	e g a
+466897	499567	northeuralex-ava	avar1256		seed	714	SEED		xon	x o n
+466907	499577	northeuralex-che	chec1245		seed	714	SEED		t͡ʃlu͡ʊ	tʃ l uʊ
+466912	499582	northeuralex-dar	darg1241		seed	714	SEED		t͡sʼuli	tsʼ u l i
+466913	499583	northeuralex-ddo	dido1241		seed	714	SEED		muhu	m u h u
+466947	499617	northeuralex-lbe	lakk1252		seed	714	SEED		hanna	h a n n a
+466948	499618	northeuralex-lez	lezg1247		seed	714	SEED		tumar	t u m a r
+467323	499993	wold-Archi	arch1244		seed	714	SEED		ɬːʷin	ɬʷː i n
+467324	499994	wold-Bezhta	bezh1248		seed	714	SEED		ĩzo	ĩ z o
+490805	523477	northeuralex-ava	avar1256		sit	1416	SIT		ʕodow_t͡ʃʼjezje	ʕ o d o w + tʃʼ j e z j e
+490818	523490	northeuralex-che	chec1245		sit	1416	SIT		xɪʔnə_ʡən	x ɪ ʔ n ə + ʡ ə n
+490823	523495	northeuralex-dar	darg1241		sit	1416	SIT		kabies	k a b i e s
+490857	523529	northeuralex-lbe	lakk1252		sit	1416	SIT		ɕːjaiwkʼun_ikʼan	ɕː j a i w kʼ u n + i kʼ a n
+490858	523530	northeuralex-lez	lezg1247		sit	1416	SIT		at͡suqʼun	a ts u qʼ u n
+491357	524029	wold-Archi	arch1244		sit	1416	SIT		qʼiˤjqis	qʼ iˤ j q i s
+491358	524030	wold-Bezhta	bezh1248		sit	1416	SIT		q’ey_-ece-	q e j + e ts e
+494907	527579	northeuralex-ava	avar1256		skin	763	SKIN		tʼom	tʼ o m
+494918	527590	northeuralex-che	chec1245		skin	763	SKIN		t͡ʃqʼor	tʃ qʼ o r
+494923	527595	northeuralex-dar	darg1241		skin	763	SKIN		kuli	k u l i
+494960	527632	northeuralex-lbe	lakk1252		skin	763	SKIN		burt͡ʃu	b u r tʃ u
+494961	527633	northeuralex-lez	lezg1247		skin	763	SKIN		χam	χ a m
+495749	528421	wold-Archi	arch1244		skin	763	SKIN		ili	i l i
+495750	528422	wold-Bezhta	bezh1248		skin	763	SKIN		beš	b e ʃ
+499566	532239	northeuralex-ava	avar1256		sleep	1585	SLEEP		t͡ɬʼiʒizje	tɬʼ i ʒ i z j e
+499578	532251	northeuralex-che	chec1245		sleep	1585	SLEEP		vɪʒə	v ɪ ʒ ə
+499579	532252	northeuralex-che	chec1245		sleep	1585	SLEEP		nəb_jən	n ə b + j ə n
+499580	532253	northeuralex-che	chec1245		sleep	1585	SLEEP		dɪʒɪnə_xɪlə	d ɪ ʒ ɪ n ə + x ɪ l ə
+499586	532259	northeuralex-dar	darg1241		sleep	1585	SLEEP		uses	u s e s
+499587	532260	northeuralex-ddo	dido1241		sleep	1585	SLEEP		ket͡sʼa	k e tsʼ a
+499623	532296	northeuralex-lbe	lakk1252		sleep	1585	SLEEP		ʃanan	ʃ a n a n
+499624	532297	northeuralex-lez	lezg1247		sleep	1585	SLEEP		ksun	k s u n
+500332	533005	wold-Archi	arch1244		sleep	1585	SLEEP		aχukes	a χ u k e s
+500333	533006	wold-Bezhta	bezh1248		sleep	1585	SLEEP		-ut’-	u tʼ
+503149	535823	northeuralex-ava	avar1256		small	1246	SMALL		hitʼinab	h i tʼ i n a b
+503161	535835	northeuralex-che	chec1245		small	1246	SMALL		keɡɪɪ̆	k e g ɪ ɪ
+503166	535840	northeuralex-dar	darg1241		small	1246	SMALL		biʃtʼal	b i ʃ tʼ a l
+503167	535841	northeuralex-ddo	dido1241		small	1246	SMALL		bˤeʁe	bˤ e ʁ e
+503209	535883	northeuralex-lbe	lakk1252		small	1246	SMALL		t͡ʃʼiwisːa	tʃʼ i w i sː a
+503210	535884	northeuralex-lez	lezg1247		small	1246	SMALL		ʁʷet͡ʃʼi	ʁʷ e tʃʼ i
+503974	536648	wold-Archi	arch1244		small	1246	SMALL		tʼitːut	tʼ i tː u t
+503975	536649	wold-Bezhta	bezh1248		small	1246	SMALL		it’ino	i tʼ i n o
+507430	540106	northeuralex-ava	avar1256		smokeexhaust	778	SMOKE (EXHAUST)		kːʼuj	kʼː u j
+507443	540119	northeuralex-che	chec1245		smokeexhaust	778	SMOKE (EXHAUST)		kʼu͡ʊr	kʼ uʊ r
+507448	540124	northeuralex-dar	darg1241		smokeexhaust	778	SMOKE (EXHAUST)		ɡaw	g a w
+507449	540125	northeuralex-ddo	dido1241		smokeexhaust	778	SMOKE (EXHAUST)		ɡutʼ	g u tʼ
+507486	540162	northeuralex-lbe	lakk1252		smokeexhaust	778	SMOKE (EXHAUST)		purkʼu	p u r kʼ u
+507487	540163	northeuralex-lez	lezg1247		smokeexhaust	778	SMOKE (EXHAUST)		ɡum	g u m
+508232	540908	wold-Archi	arch1244		smokeexhaust	778	SMOKE (EXHAUST)		huqʼ	h u qʼ
+508233	540909	wold-Bezhta	bezh1248		smokeexhaust	778	SMOKE (EXHAUST)		qo	q o
+508234	540910	wold-Bezhta	bezh1248		smokeexhaust	778	SMOKE (EXHAUST)		got’	g o tʼ
+530270	562946	northeuralex-ava	avar1256		stand	1442	STAND		baq͡χːunt͡ʃʼjezje	b a qχː u n tʃʼ j e z j e
+530281	562957	northeuralex-che	chec1245		stand	1442	STAND		lətːə	l ə tː ə
+530286	562962	northeuralex-dar	darg1241		stand	1442	STAND		tʼaʃilzes	tʼ a ʃ i l z e s
+530287	562963	northeuralex-ddo	dido1241		stand	1442	STAND		het͡ʃker_it͡ʃa	h e tʃ k e r + i tʃ a
+530321	562997	northeuralex-lbe	lakk1252		stand	1442	STAND		at͡sʼan	a tsʼ a n
+530322	562998	northeuralex-lez	lezg1247		stand	1442	STAND		aqa̹zun	a q a̹ z u n
+530888	563564	wold-Archi	arch1244		stand	1442	STAND		ocis	o ts i s
+530889	563565	wold-Bezhta	bezh1248		stand	1442	STAND		-ecoƛ’a_-ece-	e ts o tɬʼ a + e ts e
+532600	565276	northeuralex-ava	avar1256		star	1430	STAR		t͡sʼwa	tsʼ w a
+532613	565289	northeuralex-che	chec1245		star	1430	STAR		sēdə	s ē d ə
+532619	565295	northeuralex-dar	darg1241		star	1430	STAR		uri	u r i
+532620	565296	northeuralex-dar	darg1241		star	1430	STAR		zubari	z u b a r i
+532621	565297	northeuralex-ddo	dido1241		star	1430	STAR		t͡sʼa	tsʼ a
+532622	565298	northeuralex-ddo	dido1241		star	1430	STAR		t͡sʼa	tsʼ a
+532660	565336	northeuralex-lbe	lakk1252		star	1430	STAR		t͡sʼuku	tsʼ u k u
+532661	565337	northeuralex-lez	lezg1247		star	1430	STAR		ʁed	ʁ e d
+533255	565931	wold-Archi	arch1244		star	1430	STAR		χːˤološqˤan	χˤː o l o ʃ qˤ a n
+533256	565932	wold-Bezhta	bezh1248		star	1430	STAR		cã	ts ã
+539138	571815	northeuralex-ava	avar1256		stone	857	STONE		hjet͡sʼo	h j e tsʼ o
+539151	571828	northeuralex-che	chec1245		stone	857	STONE		tʼu͡ʊlɡ	tʼ uʊ l g
+539157	571834	northeuralex-dar	darg1241		stone	857	STONE		ɢarɢa	ɢ a r ɢ a
+539158	571835	northeuralex-ddo	dido1241		stone	857	STONE		ʁˤul	ʁˤ u l
+539159	571836	northeuralex-ddo	dido1241		stone	857	STONE		ɡamat͡ʃʼ	g a m a tʃʼ
+539193	571870	northeuralex-lbe	lakk1252		stone	857	STONE		t͡ʃaru	tʃ a r u
+539194	571871	northeuralex-lez	lezg1247		stone	857	STONE		qa̹n	q a̹ n
+548528	581205	northeuralex-ava	avar1256		sun	1343	SUN		baq͡χːʼ	b a qχʼː
+548539	581216	northeuralex-che	chec1245		sun	1343	SUN		məlx	m ə l x
+548544	581221	northeuralex-dar	darg1241		sun	1343	SUN		barħi	b a r ħ i
+548545	581222	northeuralex-ddo	dido1241		sun	1343	SUN		buq͡χ	b u qχ
+548582	581259	northeuralex-lbe	lakk1252		sun	1343	SUN		barʁ	b a r ʁ
+548583	581260	northeuralex-lez	lezg1247		sun	1343	SUN		raʁ	r a ʁ
+549373	582050	wold-Archi	arch1244		sun	1343	SUN		barq	b a r q
+549374	582051	wold-Bezhta	bezh1248		sun	1343	SUN		boq	b o q
+555468	588145	northeuralex-ava	avar1256		swim	1439	SWIM		ɬjedjezje	ɬ j e d j e z j e
+555479	588156	northeuralex-che	chec1245		swim	1439	SWIM		nekədən	n e k ə d ə n
+555484	588161	northeuralex-dar	darg1241		swim	1439	SWIM		kurtʼikʼes	k u r tʼ i kʼ e s
+555485	588162	northeuralex-ddo	dido1241		swim	1439	SWIM		esanada	e s a n a d a
+555523	588200	northeuralex-lbe	lakk1252		swim	1439	SWIM		huzun	h u z u n
+555524	588201	northeuralex-lez	lezg1247		swim	1439	SWIM		sirnaw_awun	s i r n a w + a w u n
+555804	588481	wold-Archi	arch1244		swim	1439	SWIM		ɬːan_as	ɬː a n + a s
+555805	588482	wold-Bezhta	bezh1248		swim	1439	SWIM		ẽxeƛ’alƛ’ā_-ẽƛ’e-	ẽ x e tɬʼ a l tɬʼ aː + ẽ tɬʼ e
+558011	590688	northeuralex-ava	avar1256		tail	1220	TAIL		rat͡ʃʼ	r a tʃʼ
+558022	590699	northeuralex-che	chec1245		tail	1220	TAIL		t͡sʼoɡə	tsʼ o g ə
+558028	590705	northeuralex-dar	darg1241		tail	1220	TAIL		ɢujruɢ	ɢ u j r u ɢ
+558029	590706	northeuralex-ddo	dido1241		tail	1220	TAIL		maħi	m a ħ i
+558067	590744	northeuralex-lbe	lakk1252		tail	1220	TAIL		maʁ	m a ʁ
+558068	590745	northeuralex-lez	lezg1247		tail	1220	TAIL		ttum	t t u m
+558689	591366	wold-Archi	arch1244		tail	1220	TAIL		oˤč	oˤ tʃ
+558690	591367	wold-Bezhta	bezh1248		tail	1220	TAIL		miɣ	m i ɣ
+567397	600076	northeuralex-ava	avar1256		that	78	THAT		dob	d o b
+567410	600089	northeuralex-che	chec1245		that	78	THAT		ɪ	ɪ
+567411	600090	northeuralex-che	chec1245		that	78	THAT		ɪzə	ɪ z ə
+567416	600095	northeuralex-ddo	dido1241		that	78	THAT		howʒo	h o w ʒ o
+567417	600096	northeuralex-ddo	dido1241		that	78	THAT		inʒo	i n ʒ o
+567454	600133	northeuralex-lbe	lakk1252		that	78	THAT		ta	t a
+567455	600134	northeuralex-lbe	lakk1252		that	78	THAT		kʼa	kʼ a
+567456	600135	northeuralex-lbe	lakk1252		that	78	THAT		ɡa	g a
+567457	600136	northeuralex-lez	lezg1247		that	78	THAT		a	a
+567458	600137	northeuralex-lez	lezg1247		that	78	THAT		am	a m
+567681	600360	wold-Archi	arch1244		that	78	THAT		tow	t o w
+567682	600361	wold-Bezhta	bezh1248		that	78	THAT		huli	h u l i
+578494	611174	northeuralex-ava	avar1256		this	1214	THIS		hab	h a b
+578495	611175	northeuralex-ava	avar1256		this	1214	THIS		hjeb	h j e b
+578508	611188	northeuralex-che	chec1245		this	1214	THIS		ɪ	ɪ
+578509	611189	northeuralex-che	chec1245		this	1214	THIS		ɪzə	ɪ z ə
+578515	611195	northeuralex-ddo	dido1241		this	1214	THIS		jeda	j e d a
+578516	611196	northeuralex-ddo	dido1241		this	1214	THIS		jodu	j o d u
+578554	611234	northeuralex-lbe	lakk1252		this	1214	THIS		wa	w a
+578555	611235	northeuralex-lez	lezg1247		this	1214	THIS		i	i
+578556	611236	northeuralex-lez	lezg1247		this	1214	THIS		im	i m
+578767	611447	wold-Archi	arch1244		this	1214	THIS		jamu	j a m u
+578768	611448	wold-Bezhta	bezh1248		this	1214	THIS		hudi	h u d i
+580615	613298	northeuralex-ava	avar1256		thou	1215	THOU		dut͡sa	d u ts a
+580626	613309	northeuralex-che	chec1245		thou	1215	THOU		ʜo	ʜ o
+580631	613314	northeuralex-dar	darg1241		thou	1215	THOU		ħu	ħ u
+580632	613315	northeuralex-dar	darg1241		thou	1215	THOU		ħuni	ħ u n i
+580633	613316	northeuralex-ddo	dido1241		thou	1215	THOU		mi	m i
+580670	613353	northeuralex-lbe	lakk1252		thou	1215	THOU		ina	i n a
+580671	613354	northeuralex-lez	lezg1247		thou	1215	THOU		wun	w u n
+581018	613701	wold-Archi	arch1244		thou	1215	THOU		un	u n
+581019	613702	wold-Bezhta	bezh1248		thou	1215	THOU		mi	m i
+596580	629267	northeuralex-ava	avar1256		tongue	1205	TONGUE		mat͡sʼ	m a tsʼ
+596591	629278	northeuralex-che	chec1245		tongue	1205	TONGUE		motː	m o tː
+596596	629283	northeuralex-dar	darg1241		tongue	1205	TONGUE		mez	m e z
+596597	629284	northeuralex-dar	darg1241		tongue	1205	TONGUE		miz	m i z
+596598	629285	northeuralex-dar	darg1241		tongue	1205	TONGUE		lezmi	l e z m i
+596599	629286	northeuralex-ddo	dido1241		tongue	1205	TONGUE		met͡sʼ	m e tsʼ
+596635	629322	northeuralex-lbe	lakk1252		tongue	1205	TONGUE		maz	m a z
+596636	629323	northeuralex-lez	lezg1247		tongue	1205	TONGUE		mez	m e z
+597394	630081	wold-Archi	arch1244		tongue	1205	TONGUE		mac	m a c
+597395	630082	wold-Bezhta	bezh1248		tongue	1205	TONGUE		mic	m i ts
+598755	631442	northeuralex-ava	avar1256		tooth	1380	TOOTH		ʕus	ʕ u s
+598766	631453	northeuralex-che	chec1245		tooth	1380	TOOTH		t͡serɡ	ts e r g
+598771	631458	northeuralex-dar	darg1241		tooth	1380	TOOTH		t͡sula	ts u l a
+598772	631459	northeuralex-ddo	dido1241		tooth	1380	TOOTH		kʼit͡sʼu	kʼ i tsʼ u
+598806	631493	northeuralex-lbe	lakk1252		tooth	1380	TOOTH		kːart͡ʃːi	kː a r tʃː i
+598807	631494	northeuralex-lez	lezg1247		tooth	1380	TOOTH		sas	s a s
+598808	631495	northeuralex-lez	lezg1247		tooth	1380	TOOTH		sa̹χ	s a̹ χ
+599576	632263	wold-Archi	arch1244		tooth	1380	TOOTH		sot	s o t
+599577	632264	wold-Bezhta	bezh1248		tooth	1380	TOOTH		sila	s i l a
+603177	635864	northeuralex-ava	avar1256		tree	906	TREE		ʁwjetʼ	ʁ w j e tʼ
+603189	635876	northeuralex-che	chec1245		tree	906	TREE		dɪtː	d ɪ tː
+603194	635881	northeuralex-dar	darg1241		tree	906	TREE		ɡalɡa	g a l g a
+603195	635882	northeuralex-ddo	dido1241		tree	906	TREE		ʁun	ʁ u n
+603232	635919	northeuralex-lbe	lakk1252		tree	906	TREE		murx	m u r x
+603233	635920	northeuralex-lez	lezg1247		tree	906	TREE		ttar	t t a r
+603974	636661	wold-Archi	arch1244		tree	906	TREE		kʷatʼ	kʷ a tʼ
+603975	636662	wold-Bezhta	bezh1248		tree	906	TREE		xöxö	x œ x œ
+611651	644338	northeuralex-ava	avar1256		two	1498	TWO		kʼiɡo	kʼ i g o
+611664	644351	northeuralex-che	chec1245		two	1498	TWO		ʃɪʔ	ʃ ɪ ʔ
+611671	644358	northeuralex-dar	darg1241		two	1498	TWO		kʼel	kʼ e l
+611672	644359	northeuralex-ddo	dido1241		two	1498	TWO		qʼˤano	qʼˤ a n o
+611706	644393	northeuralex-lbe	lakk1252		two	1498	TWO		kʼiwa	kʼ i w a
+611707	644394	northeuralex-lez	lezg1247		two	1498	TWO		qʼʷed	qʼʷ e d
+612462	645149	wold-Archi	arch1244		two	1498	TWO		q'ʷˤe	qʼʷˤ e
+612463	645150	wold-Bezhta	bezh1248		two	1498	TWO		q’ona	q o n a
+627527	680188	northeuralex-ava	avar1256		white	1335	WHITE		q͡χːaħab	qχː a ħ a b
+627538	680199	northeuralex-che	chec1245		white	1335	WHITE		kʼəjn	kʼ ə j n
+627543	680204	northeuralex-dar	darg1241		white	1335	WHITE		t͡sʼuba	tsʼ u b a
+627544	680205	northeuralex-ddo	dido1241		white	1335	WHITE		alukʼa	a l u kʼ a
+627578	680239	northeuralex-lbe	lakk1252		white	1335	WHITE		kʼjalasːa	kʼ j a l a sː a
+627579	680240	northeuralex-lez	lezg1247		white	1335	WHITE		lat͡su	l a ts u
+628293	680954	wold-Archi	arch1244		white	1335	WHITE		čʼuˤbatːut	tʃʼ uˤ b a tː u t
+628294	680955	wold-Bezhta	bezh1248		white	1335	WHITE		häldiyo	h æ l d i j o
+629984	682737	northeuralex-ava	avar1256		who	1235	WHO		ʃːib	ʃː i b
+629995	682748	northeuralex-che	chec1245		who	1235	WHO		mɪlə	m ɪ l ə
+630001	682754	northeuralex-dar	darg1241		who	1235	WHO		t͡ʃi	tʃ i
+630002	682755	northeuralex-ddo	dido1241		who	1235	WHO		ɬu	ɬ u
+630038	682791	northeuralex-lbe	lakk1252		who	1235	WHO		t͡su	ts u
+630039	682792	northeuralex-lez	lezg1247		who	1235	WHO		wuʒ	w u ʒ
+630496	683249	wold-Archi	arch1244		who	1235	WHO		kʷi	kʷ i
+630497	683250	wold-Bezhta	bezh1248		who	1235	WHO		ɬo	ɬ o
+640359	693114	northeuralex-ava	avar1256		woman	962	WOMAN		ʕadan	ʕ a d a n
+640371	693126	northeuralex-che	chec1245		woman	962	WOMAN		zu͡ʊdə	z uʊ d ə
+640377	693132	northeuralex-dar	darg1241		woman	962	WOMAN		xunul	x u n u l
+640378	693133	northeuralex-ddo	dido1241		woman	962	WOMAN		baru	b a r u
+640420	693175	northeuralex-lbe	lakk1252		woman	962	WOMAN		ɕːarsːa	ɕː a r sː a
+640421	693176	northeuralex-lbe	lakk1252		woman	962	WOMAN		q͡χamitajpa	qχ a m i t a j p a
+640422	693177	northeuralex-lez	lezg1247		woman	962	WOMAN		pab	p a b
+640423	693178	northeuralex-lez	lezg1247		woman	962	WOMAN		diʃehli	d i ʃ e h l i
+641191	693946	wold-Archi	arch1244		woman	962	WOMAN		ɬːonnol	ɬː o n n o l
+641192	693947	wold-Bezhta	bezh1248		woman	962	WOMAN		iyo	i j o
+641193	693948	wold-Bezhta	bezh1248		woman	962	WOMAN		aqo	a q o
+649058	702898	wold-Archi	arch1244		yellow	1424	YELLOW		χaχatːut	χ a χ a tː u t
+649059	702899	wold-Bezhta	bezh1248		yellow	1424	YELLOW		ukliʔis	u k l i ʔ i s

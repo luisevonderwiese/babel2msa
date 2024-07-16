@@ -1,0 +1,2259 @@
+	ID	DOCULECT	CONCEPT	Segments	GLOTTOCODE	ISO_CODE	CONCEPTICON_ID	CONCEPTICON_GLOSS	COGNATES	FORM
+0	Ak-100_name-1	Ak	100_name	e t	akun1241	aqz	1405	NAME	100-1	
+1	Ak-11_one-1	Ak	11_one	k ɨ t e	akun1241	aqz	1493	ONE	011-2	
+2	Ak-12_two-1	Ak	12_two	t ɨ ɾ ɨ	akun1241	aqz	1498	TWO	012-2	
+3	Ak-13_big-1	Ak	13_big	a tʃ o	akun1241	aqz	1202	BIG	013-1	
+4	Ak-14_long-1	Ak	14_long	p e ɾ e k	akun1241	aqz	1203	LONG	014-3	
+5	Ak-15_small-1	Ak	15_small	t i n	akun1241	aqz	1246	SMALL	015-1	
+6	Ak-16_woman-1	Ak	16_woman	a ɾ a m i ɾ a	akun1241	aqz	962	WOMAN	016-2	
+7	Ak-17_man-1	Ak	17_man	n a k u	akun1241	aqz	1554	MAN	017-2	
+8	Ak-18_person-1	Ak	18_person	a o tʃ e	akun1241	aqz	683	PERSON	018-1	
+9	Ak-19_fish-1	Ak	19_fish	k o j t p i t	akun1241	aqz	227	FISH	019-2	
+10	Ak-1_i-1	Ak	1_i	õ n	akun1241	aqz	1209	I	001-1	
+11	Ak-20_bird-1	Ak	20_bird	p i ɾ e	akun1241	aqz	937	BIRD	020-7	
+12	Ak-21_dog-1	Ak	21_dog	a m e k o	akun1241	aqz	2009	DOG	021-1	
+13	Ak-22_louse-1	Ak	22_louse	k ɨ p	akun1241	aqz	1392	LOUSE	022-1	
+14	Ak-23_tree-1	Ak	23_tree	k ɨ p	akun1241	aqz	906	TREE	023-1	
+15	Ak-24_seed-1	Ak	24_seed	k i t	akun1241	aqz	714	SEED	024-3	
+16	Ak-25_leaf-1	Ak	25_leaf	t e p	akun1241	aqz	628	LEAF	025-1	
+17	Ak-26_root-1	Ak	26_root	k ɨ b i t a	akun1241	aqz	670	ROOT	026-2	
+18	Ak-27_bark-1	Ak	27_bark	p e	akun1241	aqz	1204	BARK	027-1	
+19	Ak-28_skin-1	Ak	28_skin	p e	akun1241	aqz	763	SKIN	028-1	
+20	Ak-2_you-1	Ak	2_you	e n	akun1241	aqz	1215	THOU	002-1	
+21	Ak-30_blood-1	Ak	30_blood	e ʔ ɨ	akun1241	aqz	946	BLOOD	030-2	
+22	Ak-30_blood-2	Ak	30_blood	t e ʔ u	akun1241	aqz	946	BLOOD	030-2	
+23	Ak-31_bone-1	Ak	31_bone	a k ã	akun1241	aqz	1394	BONE	031-1	
+24	Ak-32_egg-1	Ak	32_egg	u m b i t a a p	akun1241	aqz	744	EGG	032-1	
+25	Ak-33_greasefat-1	Ak	33_greasefat	i ʔ a p	akun1241	aqz	323	FAT (ORGANIC SUBSTANCE)	033-1	
+26	Ak-34_horn-1	Ak	34_horn	a o tʃ a	akun1241	aqz	1393	HORN (ANATOMY)	034-1	
+27	Ak-35_tail-1	Ak	35_tail	o w a j	akun1241	aqz	1220	TAIL	035-1	
+28	Ak-36_feather-1	Ak	36_feather	p e b o	akun1241	aqz	1201	FEATHER	036-2	
+29	Ak-37_hair-1	Ak	37_hair	t a p	akun1241	aqz	1040	HAIR	037-1	
+30	Ak-38_head-1	Ak	38_head	a n a m	akun1241	aqz	1256	HEAD	038-4	
+31	Ak-39_ear-1	Ak	39_ear	a p i t e p	akun1241	aqz	1247	EAR	039-2	
+32	Ak-3_weinclusive-1	Ak	3_weinclusive	k i tʃ e	akun1241	aqz	1131	WE (INCLUSIVE)	003-3	
+33	Ak-40_eye-1	Ak	40_eye	e p a p a	akun1241	aqz	1248	EYE	040-2	
+34	Ak-41_nose-1	Ak	41_nose	a m p i t a	akun1241	aqz	1221	NOSE	041-1	
+35	Ak-42_mouth-1	Ak	42_mouth	j ẽ	akun1241	aqz	674	MOUTH	042-3	
+36	Ak-43_tooth-1	Ak	43_tooth	ɲ ã j	akun1241	aqz	1380	TOOTH	043-1	
+37	Ak-44_tongue-1	Ak	44_tongue	ʔ õ	akun1241	aqz	1205	TONGUE	044-1	
+38	Ak-46_foot-1	Ak	46_foot	o p i	akun1241	aqz	1301	FOOT	046-1	
+39	Ak-47_knee-1	Ak	47_knee	i a m i n a	akun1241	aqz	1371	KNEE	047-1	
+40	Ak-48_hand-1	Ak	48_hand	o p o	akun1241	aqz	1277	HAND	048-1	
+41	Ak-49_belly-1	Ak	49_belly	e ʔ o	akun1241	aqz	1251	BELLY	049-4	
+42	Ak-4_this-1	Ak	4_this	e m e	akun1241	aqz	1214	THIS	004-2	
+43	Ak-50_neck-1	Ak	50_neck	p o t k ɨ p	akun1241	aqz	1333	NECK	050-3	
+44	Ak-51_breast-1	Ak	51_breast	k e m	akun1241	aqz	1402	BREAST	051-1	
+45	Ak-52_heartguts-1	Ak	52_heartguts	a n o a	akun1241	aqz	2436	GUTS OR HEART	052-1	
+46	Ak-54_drink-1	Ak	54_drink	a p e k a	akun1241	aqz	1401	DRINK	054-1	
+47	Ak-55_eat-1	Ak	55_eat	k a	akun1241	aqz	1336	EAT	055-1	
+48	Ak-56_bite-1	Ak	56_bite	tʃ o k a	akun1241	aqz	1403	BITE	056-1	
+49	Ak-57_see-1	Ak	57_see	i tʃ o p	akun1241	aqz	1409	SEE	057-1	
+50	Ak-5_that-1	Ak	5_that	j ẽ ɾ o m	akun1241	aqz	78	THAT	005-3	
+51	Ak-60_sleep-1	Ak	60_sleep	e ɾ a	akun1241	aqz	1585	SLEEP	060-1	
+52	Ak-62_kill-1	Ak	62_kill	m i a	akun1241	aqz	1417	KILL	062-7	
+53	Ak-66_come-1	Ak	66_come	i t a	akun1241	aqz	1446	COME	066-2	
+54	Ak-69_stand-1	Ak	69_stand	k e ɾ e p + n a	akun1241	aqz	1442	STAND	069-12	
+55	Ak-70_give-1	Ak	70_give	õ ã	akun1241	aqz	1447	GIVE	070-1	
+56	Ak-71_say-1	Ak	71_say	e ɾ e w a	akun1241	aqz	1458	SAY	071-3	
+57	Ak-72_sun-1	Ak	72_sun	k i a k o p	akun1241	aqz	1343	SUN	072-2	
+58	Ak-73_moon-1	Ak	73_moon	e p a p a p	akun1241	aqz	1313	MOON	073-7	
+59	Ak-74_star-1	Ak	74_star	b u ɾ u t e	akun1241	aqz	1430	STAR	074-8	
+60	Ak-75_water-1	Ak	75_water	ɨ k ɨ	akun1241	aqz	948	WATER	075-1	
+61	Ak-77_stone-1	Ak	77_stone	w a ʔ i	akun1241	aqz	857	STONE	077-2	
+62	Ak-79_earth-1	Ak	79_earth	k ɨ j t	akun1241	aqz	1228	EARTH (SOIL)	079-1	
+63	Ak-81_smoke-1	Ak	81_smoke	n i ŋ	akun1241	aqz	778	SMOKE (EXHAUST)	081-1	
+64	Ak-82_fire-1	Ak	82_fire	o t a t	akun1241	aqz	221	FIRE	082-1	
+65	Ak-83_ash-1	Ak	83_ash	u t a t + ɲ ẽ n	akun1241	aqz	646	ASH	083-1	
+66	Ak-85_path-1	Ak	85_path	a p e	akun1241	aqz	2252	PATH	085-1	
+67	Ak-87_red-1	Ak	87_red	k o p	akun1241	aqz	156	RED	087-2	
+68	Ak-89_yellow-1	Ak	89_yellow	tʃ a ɾ u	akun1241	aqz	1424	YELLOW	089-3	
+69	Ak-8_not-1	Ak	8_not	n o m	akun1241	aqz	1240	NOT	008-1	
+70	Ak-91_black-1	Ak	91_black	p ɨ k	akun1241	aqz	163	BLACK	091-3	
+71	Ak-92_night-1	Ak	92_night	m a tʃ o	akun1241	aqz	1233	NIGHT	092-4	
+72	Ak-93_hot-1	Ak	93_hot	a k o p	akun1241	aqz	1286	HOT	093-1	
+73	Ak-94_cold-1	Ak	94_cold	k ɨ p i tʃ i	akun1241	aqz	1287	COLD	094-1	
+74	Ak-96_good-1	Ak	96_good	tʃ a m i	akun1241	aqz	1035	GOOD	096-3	
+75	Ar-100_name-1	Ar	100_name	dz é/e t	arua1261	arx	1405	NAME	100-1	
+76	Ar-100_name-2	Ar	100_name	ts é/e t	arua1261	arx	1405	NAME	100-1	
+77	Ar-10_many-1	Ar	10_many	k a k óó/oː	arua1261	arx	1198	MANY	010-15	
+78	Ar-11_one-1	Ar	11_one	m ṍṍ/õː t	arua1261	arx	1493	ONE	011-1	
+79	Ar-12_two-1	Ar	12_two	b o s a	arua1261	arx	1498	TWO	012-3	
+80	Ar-13_big-1	Ar	13_big	p óó/oː j	arua1261	arx	1202	BIG	013-2	
+81	Ar-14_long-1	Ar	14_long	a t íí/iː t	arua1261	arx	1203	LONG	014-2	
+82	Ar-15_small-1	Ar	15_small	ã c ĩː t	arua1261	arx	1246	SMALL	015-1	
+83	Ar-16_woman-1	Ar	16_woman	β ã dz e t	arua1261	arx	962	WOMAN	016-3	
+84	Ar-17_man-1	Ar	17_man	β oː j	arua1261	arx	1554	MAN	017-1	
+85	Ar-18_person-1	Ar	18_person	p ã d e ɾ e	arua1261	arx	683	PERSON	018-2	
+86	Ar-19_fish-1	Ar	19_fish	b o l í/i p	arua1261	arx	227	FISH	019-1	
+87	Ar-1_i-1	Ar	1_i	õ/õː t	arua1261	arx	1209	I	001-1	
+88	Ar-20_bird-1	Ar	20_bird	ĩ́/ĩ d ɨ t	arua1261	arx	937	BIRD	020-2	
+89	Ar-21_dog-1	Ar	21_dog	n e k ó/o	arua1261	arx	2009	DOG	021-1	
+90	Ar-22_louse-1	Ar	22_louse	g i t	arua1261	arx	1392	LOUSE	022-1	
+91	Ar-23_tree-1	Ar	23_tree	íí/iː p	arua1261	arx	906	TREE	023-1	
+92	Ar-24_seed-1	Ar	24_seed	k á/a p	arua1261	arx	714	SEED	024-2	
+93	Ar-25_leaf-1	Ar	25_leaf	ts e p	arua1261	arx	628	LEAF	025-1	
+94	Ar-26_root-1	Ar	26_root	p á/a k ʔ a	arua1261	arx	670	ROOT	026-3	
+95	Ar-27_bark-1	Ar	27_bark	ts á/a b é/e	arua1261	arx	1204	BARK	027-1	
+96	Ar-28_skin-1	Ar	28_skin	ts a p e	arua1261	arx	763	SKIN	028-1	
+97	Ar-29_fleshmeat-1	Ar	29_fleshmeat	j õ p	arua1261	arx	2615	FLESH OR MEAT	029-1	
+98	Ar-2_you-1	Ar	2_you	ẽː t	arua1261	arx	1215	THOU	002-1	
+99	Ar-30_blood-1	Ar	30_blood	c iː t	arua1261	arx	946	BLOOD	030-3	
+100	Ar-31_bone-1	Ar	31_bone	k ã́ã́/ãː l ĩː	arua1261	arx	1394	BONE	031-1	
+101	Ar-31_bone-2	Ar	31_bone	k ã́/ã l i	arua1261	arx	1394	BONE	031-1	
+102	Ar-32_egg-1	Ar	32_egg	k á/a p	arua1261	arx	744	EGG	032-2	
+103	Ar-33_greasefat-1	Ar	33_greasefat	k a p	arua1261	arx	323	FAT (ORGANIC SUBSTANCE)	033-1	
+104	Ar-34_horn-1	Ar	34_horn	a p e k o t	arua1261	arx	1393	HORN (ANATOMY)	034-3	
+105	Ar-35_tail-1	Ar	35_tail	ts a p õ p	arua1261	arx	1220	TAIL	035-2	
+106	Ar-36_feather-1	Ar	36_feather	ts é/e p	arua1261	arx	1201	FEATHER	036-1	
+107	Ar-37_hair-1	Ar	37_hair	ts é/e p	arua1261	arx	1040	HAIR	037-1	
+108	Ar-38_head-1	Ar	38_head	á/a d á/a t	arua1261	arx	1256	HEAD	038-2	
+109	Ar-39_ear-1	Ar	39_ear	n e p i ʔ a p	arua1261	arx	1247	EAR	039-1	
+110	Ar-3_weinclusive-1	Ar	3_weinclusive	p a n óó/oː j	arua1261	arx	1131	WE (INCLUSIVE)	003-2	
+111	Ar-40_eye-1	Ar	40_eye	ɟ a k á/a p	arua1261	arx	1248	EYE	040-1	
+112	Ar-41_nose-1	Ar	41_nose	a m ĩː	arua1261	arx	1221	NOSE	041-1	
+113	Ar-42_mouth-1	Ar	42_mouth	k o	arua1261	arx	674	MOUTH	042-2	
+114	Ar-43_tooth-1	Ar	43_tooth	ɲ ẽ́ẽ́/ẽː j	arua1261	arx	1380	TOOTH	043-1	
+115	Ar-44_tongue-1	Ar	44_tongue	k o k á/a p	arua1261	arx	1205	TONGUE	044-1	
+116	Ar-45_claw-1	Ar	45_claw	c á/a k õ/õː j	arua1261	arx	72	CLAW	045-2	
+117	Ar-46_foot-1	Ar	46_foot	b í/i	arua1261	arx	1301	FOOT	046-1	
+118	Ar-46_foot-2	Ar	46_foot	p í/i	arua1261	arx	1301	FOOT	046-1	
+119	Ar-47_knee-1	Ar	47_knee	ts a b i k á/a p	arua1261	arx	1371	KNEE	047-2	
+120	Ar-48_hand-1	Ar	48_hand	p á/a b e	arua1261	arx	1277	HAND	048-1	
+121	Ar-49_belly-1	Ar	49_belly	p i ʔ a p	arua1261	arx	1251	BELLY	049-6	
+122	Ar-4_this-1	Ar	4_this	ãã́/ãː	arua1261	arx	1214	THIS	004-1	
+123	Ar-50_neck-1	Ar	50_neck	ã b o + k ã́ã́/ãː l ĩː	arua1261	arx	1333	NECK	050-2	
+124	Ar-51_breast-1	Ar	51_breast	n ã p ʔ a	arua1261	arx	1402	BREAST	051-1	
+125	Ar-52_heartguts-1	Ar	52_heartguts	á/a g õ k á/a p	arua1261	arx	2436	GUTS OR HEART	052-1	
+126	Ar-53_liver-1	Ar	53_liver	ts aː	arua1261	arx	1224	LIVER	053-1	
+127	Ar-54_drink-1	Ar	54_drink	c i β a	arua1261	arx	1401	DRINK	054-2	
+128	Ar-55_eat-1	Ar	55_eat	β a	arua1261	arx	1336	EAT	055-2	
+129	Ar-56_bite-1	Ar	56_bite	β a	arua1261	arx	1403	BITE	056-2	
+130	Ar-57_see-1	Ar	57_see	í/i k i n i	arua1261	arx	1409	SEE	057-3	
+131	Ar-58_hear-1	Ar	58_hear	p iː	arua1261	arx	1408	HEAR	058-2	
+132	Ar-59_know-1	Ar	59_know	j aː t	arua1261	arx	3626	KNOW	059-2	
+133	Ar-5_that-1	Ar	5_that	j è/e	arua1261	arx	78	THAT	005-1	
+134	Ar-60_sleep-1	Ar	60_sleep	k e ɾ e	arua1261	arx	1585	SLEEP	060-1	
+135	Ar-61_die-1	Ar	61_die	β iː	arua1261	arx	1494	DIE	061-3	
+136	Ar-62_kill-1	Ar	62_kill	a k a	arua1261	arx	1417	KILL	062-1	
+137	Ar-63_swim-1	Ar	63_swim	t ã́/ã k t ã́/ã ŋ ã́/ã	arua1261	arx	1439	SWIM	063-10	
+138	Ar-65_walk-1	Ar	65_walk	β e ɾ e t á/a	arua1261	arx	1443	WALK	065-1	
+139	Ar-66_come-1	Ar	66_come	β o l o	arua1261	arx	1446	COME	066-1	
+140	Ar-67_liedown-1	Ar	67_liedown	aː t	arua1261	arx	1411	LIE (REST)	067-1	
+141	Ar-68_sit-1	Ar	68_sit	p o t óó/oː	arua1261	arx	1416	SIT	068-2	
+142	Ar-69_stand-1	Ar	69_stand	a d óó/oː	arua1261	arx	1442	STAND	069-1	
+143	Ar-6_what-1	Ar	6_what	m é/e	arua1261	arx	1236	WHAT	006-1	
+144	Ar-70_give-1	Ar	70_give	n õ/õː	arua1261	arx	1447	GIVE	070-1	
+145	Ar-72_sun-1	Ar	72_sun	g á/a t	arua1261	arx	1343	SUN	072-1	
+146	Ar-73_moon-1	Ar	73_moon	g á/a t i	arua1261	arx	1313	MOON	073-1	
+147	Ar-73_moon-2	Ar	73_moon	g á/a t t i	arua1261	arx	1313	MOON	073-1	
+148	Ar-74_star-1	Ar	74_star	g á/a t i k a p	arua1261	arx	1430	STAR	074-1	
+149	Ar-75_water-1	Ar	75_water	iː	arua1261	arx	948	WATER	075-1	
+150	Ar-76_rain-1	Ar	76_rain	dz oː j	arua1261	arx	2108	RAINING OR RAIN	076-2	
+151	Ar-77_stone-1	Ar	77_stone	c a ʔ a	arua1261	arx	857	STONE	077-1	
+152	Ar-78_sand-1	Ar	78_sand	s a k í/i t k á/a p	arua1261	arx	671	SAND	078-12	
+153	Ar-79_earth-1	Ar	79_earth	ɲ ẽ́ẽ́/ẽː j	arua1261	arx	1228	EARTH (SOIL)	079-5	
+154	Ar-7_who-1	Ar	7_who	m é/e	arua1261	arx	1235	WHO	007-2	
+155	Ar-80_cloud-1	Ar	80_cloud	β a k o t	arua1261	arx	1489	CLOUD	080-2	
+156	Ar-81_smoke-1	Ar	81_smoke	ɲ íí/iː k ʔ a	arua1261	arx	778	SMOKE (EXHAUST)	081-1	
+157	Ar-81_smoke-2	Ar	81_smoke	ɲ ĩ k	arua1261	arx	778	SMOKE (EXHAUST)	081-1	
+158	Ar-82_fire-1	Ar	82_fire	k ã́/ã j	arua1261	arx	221	FIRE	082-2	
+159	Ar-83_ash-1	Ar	83_ash	β a t + k õ p	arua1261	arx	646	ASH	083-2	
+160	Ar-84_burnintr-1	Ar	84_burnintr	k ã́/ã j	arua1261	arx	1428	BURNING	084-1	
+161	Ar-85_path-1	Ar	85_path	b e	arua1261	arx	2252	PATH	085-1	
+162	Ar-86_mountain-1	Ar	86_mountain	d o o	arua1261	arx	639	MOUNTAIN	086-1	
+163	Ar-86_mountain-2	Ar	86_mountain	d o	arua1261	arx	639	MOUNTAIN	086-1	
+164	Ar-87_red-1	Ar	87_red	β óó/oː p	arua1261	arx	156	RED	087-1	
+165	Ar-88_green-1	Ar	88_green	c i ɾ õ j	arua1261	arx	1425	GREEN	088-7	
+166	Ar-89_yellow-1	Ar	89_yellow	é/e ɾ é/e e	arua1261	arx	1424	YELLOW	089-1	
+167	Ar-8_not-1	Ar	8_not	ṍṍ/õː p	arua1261	arx	1240	NOT	008-1	
+168	Ar-90_white-1	Ar	90_white	k íí/iː t	arua1261	arx	1335	WHITE	090-1	
+169	Ar-91_black-1	Ar	91_black	p e é/e p	arua1261	arx	163	BLACK	091-1	
+170	Ar-92_night-1	Ar	92_night	b i c ã k	arua1261	arx	1233	NIGHT	092-2	
+171	Ar-93_hot-1	Ar	93_hot	a d óó/oː p	arua1261	arx	1286	HOT	093-1	
+172	Ar-95_full-1	Ar	95_full	t õ ŋ j ã	arua1261	arx	1429	FULL	095-2	
+173	Ar-96_good-1	Ar	96_good	p a l í/i	arua1261	arx	1035	GOOD	096-1	
+174	Ar-99_dry-1	Ar	99_dry	k ã́/ã g ãː	arua1261	arx	1398	DRY	099-1	
+175	Ar-9_all-1	Ar	9_all	β é/e ɾ e p	arua1261	arx	98	ALL	009-16	
+176	Aw-100_name-1	Aw	100_name	e t	awet1244	awe	1405	NAME	100-1	
+177	Aw-10_many-1	Aw	10_many	ʔ ɨ t o t o	awet1244	awe	1198	MANY	010-6	
+178	Aw-11_one-1	Aw	11_one	m o m o ʐ o ts u	awet1244	awe	1493	ONE	011-7	
+179	Aw-12_two-1	Aw	12_two	m o k õ j	awet1244	awe	1498	TWO	012-1	
+180	Aw-13_big-1	Aw	13_big	w a t u	awet1244	awe	1202	BIG	013-1	
+181	Aw-14_long-1	Aw	14_long	p u k u	awet1244	awe	1203	LONG	014-1	
+182	Aw-15_small-1	Aw	15_small	m a ts ũ ʔ j ɨ t	awet1244	awe	1246	SMALL	015-6	
+183	Aw-16_woman-1	Aw	16_woman	k u j ã	awet1244	awe	962	WOMAN	016-1	
+184	Aw-17_man-1	Aw	17_man	a ɨ t e	awet1244	awe	1554	MAN	017-6	
+185	Aw-18_person-1	Aw	18_person	m õ ʔ a t	awet1244	awe	683	PERSON	018-5	
+186	Aw-19_fish-1	Aw	19_fish	p i ɾ a ʔ ɨ t	awet1244	awe	227	FISH	019-2	
+187	Aw-1_i-1	Aw	1_i	i t o	awet1244	awe	1209	I	001-2	
+188	Aw-20_bird-1	Aw	20_bird	k a ɾ a ʔ ɨ p u t	awet1244	awe	937	BIRD	020-4	
+189	Aw-21_dog-1	Aw	21_dog	t u w a w a t u	awet1244	awe	2009	DOG	021-6	
+190	Aw-22_louse-1	Aw	22_louse	ʔ a k ɨ p	awet1244	awe	1392	LOUSE	022-1	
+191	Aw-23_tree-1	Aw	23_tree	ʔ ɨ p	awet1244	awe	906	TREE	023-1	
+192	Aw-24_seed-1	Aw	24_seed	a ʔ ĩ j	awet1244	awe	714	SEED	024-1	
+193	Aw-25_leaf-1	Aw	25_leaf	o p	awet1244	awe	628	LEAF	025-1	
+194	Aw-26_root-1	Aw	26_root	a p o	awet1244	awe	670	ROOT	026-1	
+195	Aw-27_bark-1	Aw	27_bark	ʔ a p e p u t	awet1244	awe	1204	BARK	027-1	
+196	Aw-28_skin-1	Aw	28_skin	p i t	awet1244	awe	763	SKIN	028-1	
+197	Aw-29_fleshmeat-1	Aw	29_fleshmeat	u j ã	awet1244	awe	2615	FLESH OR MEAT	029-2	
+198	Aw-2_you-1	Aw	2_you	ʔ e n	awet1244	awe	1215	THOU	002-1	
+199	Aw-30_blood-1	Aw	30_blood	u w ɨ k	awet1244	awe	946	BLOOD	030-1	
+200	Aw-31_bone-1	Aw	31_bone	k a ŋ	awet1244	awe	1394	BONE	031-1	
+201	Aw-32_egg-1	Aw	32_egg	u p i ʔ a	awet1244	awe	744	EGG	032-1	
+202	Aw-33_greasefat-1	Aw	33_greasefat	k a p	awet1244	awe	323	FAT (ORGANIC SUBSTANCE)	033-1	
+203	Aw-34_horn-1	Aw	34_horn	ʔ a k	awet1244	awe	1393	HORN (ANATOMY)	034-1	
+204	Aw-35_tail-1	Aw	35_tail	u w a j	awet1244	awe	1220	TAIL	035-1	
+205	Aw-36_feather-1	Aw	36_feather	a p	awet1244	awe	1201	FEATHER	036-1	
+206	Aw-37_hair-1	Aw	37_hair	a p	awet1244	awe	1040	HAIR	037-1	
+207	Aw-38_head-1	Aw	38_head	ʔ a p u t	awet1244	awe	1256	HEAD	038-6	
+208	Aw-39_ear-1	Aw	39_ear	j ã p i	awet1244	awe	1247	EAR	039-1	
+209	Aw-3_weinclusive-1	Aw	3_weinclusive	k a j ã	awet1244	awe	1131	WE (INCLUSIVE)	003-6	
+210	Aw-40_eye-1	Aw	40_eye	t a	awet1244	awe	1248	EYE	040-1	
+211	Aw-41_nose-1	Aw	41_nose	ʔ a p ĩ j	awet1244	awe	1221	NOSE	041-1	
+212	Aw-42_mouth-1	Aw	42_mouth	a t u p ɨ	awet1244	awe	674	MOUTH	042-4	
+213	Aw-43_tooth-1	Aw	43_tooth	ã j	awet1244	awe	1380	TOOTH	043-1	
+214	Aw-44_tongue-1	Aw	44_tongue	ẽ k ũ	awet1244	awe	1205	TONGUE	044-1	
+215	Aw-45_claw-1	Aw	45_claw	p w ã	awet1244	awe	72	CLAW	045-1	
+216	Aw-46_foot-1	Aw	46_foot	a i p ɨ	awet1244	awe	1301	FOOT	046-1	
+217	Aw-47_knee-1	Aw	47_knee	p ɨ ʔ ã	awet1244	awe	1371	KNEE	047-1	
+218	Aw-48_hand-1	Aw	48_hand	p o	awet1244	awe	1277	HAND	048-1	
+219	Aw-49_belly-1	Aw	49_belly	p o l a w	awet1244	awe	1251	BELLY	049-9	
+220	Aw-4_this-1	Aw	4_this	a k o j	awet1244	awe	1214	THIS	004-6	
+221	Aw-50_neck-1	Aw	50_neck	t u ɾ ʔ ɨ p	awet1244	awe	1333	NECK	050-1	
+222	Aw-51_breast-1	Aw	51_breast	p o ʐ ɨ ʔ a	awet1244	awe	1402	BREAST	051-2	
+223	Aw-52_heartguts-1	Aw	52_heartguts	e t ã j	awet1244	awe	2436	GUTS OR HEART	052-2	
+224	Aw-53_liver-1	Aw	53_liver	p e ɾ e	awet1244	awe	1224	LIVER	053-2	
+225	Aw-54_drink-1	Aw	54_drink	ɨ ʔ u	awet1244	awe	1401	DRINK	054-1	
+226	Aw-55_eat-1	Aw	55_eat	ʔ u	awet1244	awe	1336	EAT	055-1	
+227	Aw-56_bite-1	Aw	56_bite	t u ʔ u	awet1244	awe	1403	BITE	056-1	
+228	Aw-57_see-1	Aw	57_see	t u p	awet1244	awe	1409	SEE	057-1	
+229	Aw-58_hear-1	Aw	58_hear	ẽ t u p	awet1244	awe	1408	HEAR	058-1	
+230	Aw-59_know-1	Aw	59_know	k w a w a p	awet1244	awe	3626	KNOW	059-1	
+231	Aw-5_that-1	Aw	5_that	j a t ã	awet1244	awe	78	THAT	005-7	
+232	Aw-60_sleep-1	Aw	60_sleep	t e t	awet1244	awe	1585	SLEEP	060-1	
+233	Aw-61_die-1	Aw	61_die	m a j õ	awet1244	awe	1494	DIE	061-1	
+234	Aw-62_kill-1	Aw	62_kill	k ĩ j	awet1244	awe	1417	KILL	062-5	
+235	Aw-63_swim-1	Aw	63_swim	ɨ t a p	awet1244	awe	1439	SWIM	063-1	
+236	Aw-64_fly-1	Aw	64_fly	w ú/u ɾ e	awet1244	awe	1441	FLY (MOVE THROUGH AIR)	064-4	
+237	Aw-65_walk-1	Aw	65_walk	e k o	awet1244	awe	1443	WALK	065-7	
+238	Aw-66_come-1	Aw	66_come	u t	awet1244	awe	1446	COME	066-1	
+239	Aw-67_liedown-1	Aw	67_liedown	o ʔ a p a ɾ e j u	awet1244	awe	1411	LIE (REST)	067-7	
+240	Aw-68_sit-1	Aw	68_sit	o t i g e j u	awet1244	awe	1416	SIT	068-4	
+241	Aw-69_stand-1	Aw	69_stand	o ʔ ã p e j u	awet1244	awe	1442	STAND	069-8	
+242	Aw-6_what-1	Aw	6_what	k a ɾ i k a	awet1244	awe	1236	WHAT	006-3	
+243	Aw-70_give-1	Aw	70_give	m o t o	awet1244	awe	1447	GIVE	070-3	
+244	Aw-71_say-1	Aw	71_say	ʔ e	awet1244	awe	1458	SAY	071-1	
+245	Aw-72_sun-1	Aw	72_sun	k w a t	awet1244	awe	1343	SUN	072-1	
+246	Aw-73_moon-1	Aw	73_moon	t a t ɨ	awet1244	awe	1313	MOON	073-1	
+247	Aw-74_star-1	Aw	74_star	t a t ɨ a ʔ ɨ t	awet1244	awe	1430	STAR	074-1	
+248	Aw-75_water-1	Aw	75_water	ʔ ɨ	awet1244	awe	948	WATER	075-1	
+249	Aw-76_rain-1	Aw	76_rain	a m a n	awet1244	awe	2108	RAINING OR RAIN	076-1	
+250	Aw-77_stone-1	Aw	77_stone	k ɨ t a	awet1244	awe	857	STONE	077-1	
+251	Aw-78_sand-1	Aw	78_sand	ɨ t a ʔ a t i ŋ	awet1244	awe	671	SAND	078-4	
+252	Aw-79_earth-1	Aw	79_earth	a m a n t a ʔ o k	awet1244	awe	1228	EARTH (SOIL)	079-3	
+253	Aw-7_who-1	Aw	7_who	k o j ɨ k a	awet1244	awe	1235	WHO	007-5	
+254	Aw-80_cloud-1	Aw	80_cloud	ɨ w ɨ t i ŋ	awet1244	awe	1489	CLOUD	080-3	
+255	Aw-81_smoke-1	Aw	81_smoke	t a ʐ a t i ŋ	awet1244	awe	778	SMOKE (EXHAUST)	081-1	
+256	Aw-82_fire-1	Aw	82_fire	ʔ a p o	awet1244	awe	221	FIRE	082-4	
+257	Aw-83_ash-1	Aw	83_ash	t a ʐ a ʔ i p u k	awet1244	awe	646	ASH	083-4	
+258	Aw-84_burnintr-1	Aw	84_burnintr	a p ɨ	awet1244	awe	1428	BURNING	084-2	
+259	Aw-85_path-1	Aw	85_path	p e	awet1244	awe	2252	PATH	085-1	
+260	Aw-86_mountain-1	Aw	86_mountain	ɨ w ɨ ʔ a m	awet1244	awe	639	MOUNTAIN	086-2	
+261	Aw-87_red-1	Aw	87_red	p i l a ŋ	awet1244	awe	156	RED	087-3	
+262	Aw-88_green-1	Aw	88_green	k ɨ t	awet1244	awe	1425	GREEN	088-1	
+263	Aw-89_yellow-1	Aw	89_yellow	t u p	awet1244	awe	1424	YELLOW	089-8	
+264	Aw-8_not-1	Aw	8_not	a n	awet1244	awe	1240	NOT	008-5	
+265	Aw-90_white-1	Aw	90_white	t i ŋ	awet1244	awe	1335	WHITE	090-2	
+266	Aw-91_black-1	Aw	91_black	k ɨ l a w	awet1244	awe	163	BLACK	091-6	
+267	Aw-92_night-1	Aw	92_night	ɨ p ɨ t a k o	awet1244	awe	1233	NIGHT	092-1	
+268	Aw-93_hot-1	Aw	93_hot	a k u p	awet1244	awe	1286	HOT	093-1	
+269	Aw-95_full-1	Aw	95_full	p u t	awet1244	awe	1429	FULL	095-7	
+270	Aw-96_good-1	Aw	96_good	k a t u	awet1244	awe	1035	GOOD	096-2	
+271	Aw-97_new-1	Aw	97_new	p ɨ t a t u	awet1244	awe	1231	NEW	097-1	
+272	Aw-98_round-1	Aw	98_round	ʔ a p o ʔ a	awet1244	awe	1395	ROUND	098-1	
+273	Aw-99_dry-1	Aw	99_dry	m o k a ŋ a	awet1244	awe	1398	DRY	099-1	
+274	Aw-9_all-1	Aw	9_all	n a m ã p ɨ t e	awet1244	awe	98	ALL	009-5	
+275	Gv-100_name-1	Gv	100_name	dz é/e t	gavi1246	gvo	1405	NAME	100-1	
+276	Gv-100_name-2	Gv	100_name	ts é/e t	gavi1246	gvo	1405	NAME	100-1	
+277	Gv-10_many-1	Gv	10_many	g ó/o l ó/o á/a	gavi1246	gvo	1198	MANY	010-2	
+278	Gv-11_one-1	Gv	11_one	m ó/o ò/o j	gavi1246	gvo	1493	ONE	011-1	
+279	Gv-12_two-1	Gv	12_two	p a á/a j a k í/i ì/i p	gavi1246	gvo	1498	TWO	012-11	
+280	Gv-13_big-1	Gv	13_big	p ó/o ò/o j	gavi1246	gvo	1202	BIG	013-2	
+281	Gv-14_long-1	Gv	14_long	a t ó/o ò/o	gavi1246	gvo	1203	LONG	014-2	
+282	Gv-15_small-1	Gv	15_small	c í/i c i í/i t	gavi1246	gvo	1246	SMALL	015-1	
+283	Gv-16_woman-1	Gv	16_woman	β ã dz e t	gavi1246	gvo	962	WOMAN	016-3	
+284	Gv-17_man-1	Gv	17_man	ô/o ò/o j	gavi1246	gvo	1554	MAN	017-1	
+285	Gv-18_person-1	Gv	18_person	p a d e ɾ è/e	gavi1246	gvo	683	PERSON	018-2	
+286	Gv-19_fish-1	Gv	19_fish	b o l í/i p	gavi1246	gvo	227	FISH	019-1	
+287	Gv-1_i-1	Gv	1_i	õ/õː t	gavi1246	gvo	1209	I	001-1	
+288	Gv-20_bird-1	Gv	20_bird	ĩ́/ĩ d ĩ́/ĩ ĩ t	gavi1246	gvo	937	BIRD	020-2	
+289	Gv-21_dog-1	Gv	21_dog	á/a w ɨ l ɨ	gavi1246	gvo	2009	DOG	021-2	
+290	Gv-22_louse-1	Gv	22_louse	g i t	gavi1246	gvo	1392	LOUSE	022-1	
+291	Gv-23_tree-1	Gv	23_tree	î/i ì/i p	gavi1246	gvo	906	TREE	023-1	
+292	Gv-24_seed-1	Gv	24_seed	k á/a p	gavi1246	gvo	714	SEED	024-2	
+293	Gv-24_seed-2	Gv	24_seed	k á/a à/a p	gavi1246	gvo	714	SEED	024-2	
+294	Gv-25_leaf-1	Gv	25_leaf	ts e p	gavi1246	gvo	628	LEAF	025-1	
+295	Gv-26_root-1	Gv	26_root	p á/a g a á/a	gavi1246	gvo	670	ROOT	026-3	
+296	Gv-27_bark-1	Gv	27_bark	ts á/a b é/e è/e	gavi1246	gvo	1204	BARK	027-1	
+297	Gv-28_skin-1	Gv	28_skin	ts é/e ɾ é/e k	gavi1246	gvo	763	SKIN	028-2	
+298	Gv-29_fleshmeat-1	Gv	29_fleshmeat	j õ̂/õ õ̀/õ p	gavi1246	gvo	2615	FLESH OR MEAT	029-1	
+299	Gv-2_you-1	Gv	2_you	ẽː t	gavi1246	gvo	1215	THOU	002-1	
+300	Gv-30_blood-1	Gv	30_blood	c i ì/i t	gavi1246	gvo	946	BLOOD	030-3	
+301	Gv-31_bone-1	Gv	31_bone	k ã́/ã l ĩ	gavi1246	gvo	1394	BONE	031-1	
+302	Gv-32_egg-1	Gv	32_egg	k á/a p	gavi1246	gvo	744	EGG	032-2	
+303	Gv-33_greasefat-1	Gv	33_greasefat	k a p	gavi1246	gvo	323	FAT (ORGANIC SUBSTANCE)	033-1	
+304	Gv-34_horn-1	Gv	34_horn	á/a p e k ô/o ò/o t	gavi1246	gvo	1393	HORN (ANATOMY)	034-3	
+305	Gv-35_tail-1	Gv	35_tail	ts a p õ õ̀/õ p	gavi1246	gvo	1220	TAIL	035-2	
+306	Gv-36_feather-1	Gv	36_feather	ts é/e p	gavi1246	gvo	1201	FEATHER	036-1	
+307	Gv-37_hair-1	Gv	37_hair	ts é/e p	gavi1246	gvo	1040	HAIR	037-1	
+308	Gv-38_head-1	Gv	38_head	á/a d á/a à/a t	gavi1246	gvo	1256	HEAD	038-2	
+309	Gv-39_ear-1	Gv	39_ear	n e p î/i à/a p	gavi1246	gvo	1247	EAR	039-1	
+310	Gv-3_weinclusive-1	Gv	3_weinclusive	p a n óó/oː j	gavi1246	gvo	1131	WE (INCLUSIVE)	003-2	
+311	Gv-40_eye-1	Gv	40_eye	j a k í/i ì/i p	gavi1246	gvo	1248	EYE	040-1	
+312	Gv-41_nose-1	Gv	41_nose	á/a m î/i ì/i	gavi1246	gvo	1221	NOSE	041-1	
+313	Gv-42_mouth-1	Gv	42_mouth	k o	gavi1246	gvo	674	MOUTH	042-2	
+314	Gv-43_tooth-1	Gv	43_tooth	j ẽ́ẽ́/ẽː j	gavi1246	gvo	1380	TOOTH	043-1	
+315	Gv-44_tongue-1	Gv	44_tongue	k o k í/i ì/i p	gavi1246	gvo	1205	TONGUE	044-1	
+316	Gv-45_claw-1	Gv	45_claw	k õ̂/õ õ̀/õ j	gavi1246	gvo	72	CLAW	045-2	
+317	Gv-46_foot-1	Gv	46_foot	b í/i	gavi1246	gvo	1301	FOOT	046-1	
+318	Gv-46_foot-2	Gv	46_foot	p í/i	gavi1246	gvo	1301	FOOT	046-1	
+319	Gv-47_knee-1	Gv	47_knee	ts a b i k á/a à/a p	gavi1246	gvo	1371	KNEE	047-2	
+320	Gv-48_hand-1	Gv	48_hand	p á/a b e	gavi1246	gvo	1277	HAND	048-1	
+321	Gv-49_belly-1	Gv	49_belly	p í/i a p	gavi1246	gvo	1251	BELLY	049-6	
+322	Gv-4_this-1	Gv	4_this	ãã́/ãː	gavi1246	gvo	1214	THIS	004-1	
+323	Gv-50_neck-1	Gv	50_neck	á/a b ô/o ò/o + k ã́/ã l ĩ	gavi1246	gvo	1333	NECK	050-2	
+324	Gv-51_breast-1	Gv	51_breast	n a m a á/a	gavi1246	gvo	1402	BREAST	051-1	
+325	Gv-52_heartguts-1	Gv	52_heartguts	á/a g õ ã	gavi1246	gvo	2436	GUTS OR HEART	052-1	
+326	Gv-53_liver-1	Gv	53_liver	ts a á/a	gavi1246	gvo	1224	LIVER	053-1	
+327	Gv-54_drink-1	Gv	54_drink	c i β a	gavi1246	gvo	1401	DRINK	054-2	
+328	Gv-55_eat-1	Gv	55_eat	β a	gavi1246	gvo	1336	EAT	055-2	
+329	Gv-56_bite-1	Gv	56_bite	β a	gavi1246	gvo	1403	BITE	056-2	
+330	Gv-57_see-1	Gv	57_see	á/a k i n ì/i	gavi1246	gvo	1409	SEE	057-3	
+331	Gv-57_see-2	Gv	57_see	í/i k i n ì/i	gavi1246	gvo	1409	SEE	057-3	
+332	Gv-58_hear-1	Gv	58_hear	p iː	gavi1246	gvo	1408	HEAR	058-2	
+333	Gv-59_know-1	Gv	59_know	j a à/a t	gavi1246	gvo	3626	KNOW	059-2	
+334	Gv-5_that-1	Gv	5_that	j è/e	gavi1246	gvo	78	THAT	005-1	
+335	Gv-60_sleep-1	Gv	60_sleep	k e ɾ e	gavi1246	gvo	1585	SLEEP	060-1	
+336	Gv-61_die-1	Gv	61_die	β i ì/i	gavi1246	gvo	1494	DIE	061-3	
+337	Gv-62_kill-1	Gv	62_kill	a k a	gavi1246	gvo	1417	KILL	062-1	
+338	Gv-63_swim-1	Gv	63_swim	k á/a p k á/a β á/a	gavi1246	gvo	1439	SWIM	063-2	
+339	Gv-64_fly-1	Gv	64_fly	p e p ó/o t ẽẽ̀/ẽː	gavi1246	gvo	1441	FLY (MOVE THROUGH AIR)	064-2	
+340	Gv-65_walk-1	Gv	65_walk	β ê/e ɾ e t á/a	gavi1246	gvo	1443	WALK	065-1	
+341	Gv-66_come-1	Gv	66_come	β o l ò/o	gavi1246	gvo	1446	COME	066-1	
+342	Gv-67_liedown-1	Gv	67_liedown	a ʔ â/a à/a t	gavi1246	gvo	1411	LIE (REST)	067-1	
+343	Gv-68_sit-1	Gv	68_sit	p o t ó/o ò/o t	gavi1246	gvo	1416	SIT	068-2	
+344	Gv-69_stand-1	Gv	69_stand	á/a d ó/o ò/o	gavi1246	gvo	1442	STAND	069-1	
+345	Gv-6_what-1	Gv	6_what	m é/e	gavi1246	gvo	1236	WHAT	006-1	
+346	Gv-70_give-1	Gv	70_give	n o ò/o	gavi1246	gvo	1447	GIVE	070-1	
+347	Gv-71_say-1	Gv	71_say	é/e è/e	gavi1246	gvo	1458	SAY	071-1	
+348	Gv-72_sun-1	Gv	72_sun	g á/a t	gavi1246	gvo	1343	SUN	072-1	
+349	Gv-73_moon-1	Gv	73_moon	g á/a t i	gavi1246	gvo	1313	MOON	073-1	
+350	Gv-74_star-1	Gv	74_star	g á/a t i k á/a à/a p	gavi1246	gvo	1430	STAR	074-1	
+351	Gv-75_water-1	Gv	75_water	i ì/i + p â/a à/a p	gavi1246	gvo	948	WATER	075-1	
+352	Gv-76_rain-1	Gv	76_rain	dz o j	gavi1246	gvo	2108	RAINING OR RAIN	076-2	
+353	Gv-77_stone-1	Gv	77_stone	i c í/i a	gavi1246	gvo	857	STONE	077-1	
+354	Gv-78_sand-1	Gv	78_sand	i c á/a g á/a p	gavi1246	gvo	671	SAND	078-1	
+355	Gv-79_earth-1	Gv	79_earth	g ṍṍ/õː j	gavi1246	gvo	1228	EARTH (SOIL)	079-1	
+356	Gv-7_who-1	Gv	7_who	m é/e	gavi1246	gvo	1235	WHO	007-2	
+357	Gv-80_cloud-1	Gv	80_cloud	β á/a k o ɾ a á/a	gavi1246	gvo	1489	CLOUD	080-2	
+358	Gv-81_smoke-1	Gv	81_smoke	p ó/o k ã́/ã j d ĩ k	gavi1246	gvo	778	SMOKE (EXHAUST)	081-1	
+359	Gv-82_fire-1	Gv	82_fire	p ó/o k ã́/ã ã̀/ã j	gavi1246	gvo	221	FIRE	082-2	
+360	Gv-83_ash-1	Gv	83_ash	β a t + k ô/o ò/o p + k í/i ì/i t	gavi1246	gvo	646	ASH	083-2	
+361	Gv-84_burnintr-1	Gv	84_burnintr	k ã́/ã ã̀/ã j	gavi1246	gvo	1428	BURNING	084-1	
+362	Gv-85_path-1	Gv	85_path	b e	gavi1246	gvo	2252	PATH	085-1	
+363	Gv-85_path-2	Gv	85_path	p e	gavi1246	gvo	2252	PATH	085-1	
+364	Gv-86_mountain-1	Gv	86_mountain	d o	gavi1246	gvo	639	MOUNTAIN	086-1	
+365	Gv-86_mountain-2	Gv	86_mountain	t o	gavi1246	gvo	639	MOUNTAIN	086-1	
+366	Gv-87_red-1	Gv	87_red	β ó/o ò/o p	gavi1246	gvo	156	RED	087-1	
+367	Gv-88_green-1	Gv	88_green	c í/i ɾ ô/o ò/o j	gavi1246	gvo	1425	GREEN	088-7	
+368	Gv-89_yellow-1	Gv	89_yellow	k é/e ɾ é/e ʔ á/a à/a p	gavi1246	gvo	1424	YELLOW	089-1	
+369	Gv-8_not-1	Gv	8_not	õ õ̀/õ p	gavi1246	gvo	1240	NOT	008-1	
+370	Gv-90_white-1	Gv	90_white	k í/i ì/i t	gavi1246	gvo	1335	WHITE	090-1	
+371	Gv-91_black-1	Gv	91_black	p ê/e è/e p	gavi1246	gvo	163	BLACK	091-1	
+372	Gv-92_night-1	Gv	92_night	b i c ã k	gavi1246	gvo	1233	NIGHT	092-2	
+373	Gv-93_hot-1	Gv	93_hot	a d ó/o ò/o p	gavi1246	gvo	1286	HOT	093-1	
+374	Gv-95_full-1	Gv	95_full	b í/i ɾ á/a	gavi1246	gvo	1429	FULL	095-1	
+375	Gv-96_good-1	Gv	96_good	p a ɾ â/a à/a t	gavi1246	gvo	1035	GOOD	096-1	
+376	Gv-97_new-1	Gv	97_new	k ô/o ɾ o	gavi1246	gvo	1231	NEW	097-2	
+377	Gv-99_dry-1	Gv	99_dry	k á/a g a à/a	gavi1246	gvo	1398	DRY	099-1	
+378	Gv-9_all-1	Gv	9_all	k ĩ́/ĩ ɾ ĩ́/ĩ j ã́/ã ã	gavi1246	gvo	98	ALL	009-15	
+379	Ju-100_name-1	Ju	100_name	z á/a	juru1256	jur	1405	NAME	100-1	
+380	Ju-10_many-1	Ju	10_many	i tʃ í/i b ɨ	juru1256	jur	1198	MANY	010-3	
+381	Ju-11_one-1	Ju	11_one	m e m é/e h i n a k u	juru1256	jur	1493	ONE	011-4	
+382	Ju-12_two-1	Ju	12_two	j a u d a	juru1256	jur	1498	TWO	012-8	
+383	Ju-13_big-1	Ju	13_big	u ɾ á/a h u	juru1256	jur	1202	BIG	013-1	
+384	Ju-14_long-1	Ju	14_long	a n á/a ú/u h u	juru1256	jur	1203	LONG	014-4	
+385	Ju-14_long-2	Ju	14_long	a n á/a u h ɨ h ɨ	juru1256	jur	1203	LONG	014-4	
+386	Ju-15_small-1	Ju	15_small	ʃ ĩ́/ĩ ʃ ĩ	juru1256	jur	1246	SMALL	015-1	
+387	Ju-16_woman-1	Ju	16_woman	i í/i dʒ a	juru1256	jur	962	WOMAN	016-4	
+388	Ju-17_man-1	Ju	17_man	s e n á/a h í/i	juru1256	jur	1554	MAN	017-4	
+389	Ju-18_person-1	Ju	18_person	d u b i á/a	juru1256	jur	683	PERSON	018-8	
+390	Ju-19_fish-1	Ju	19_fish	p i tʃ a	juru1256	jur	227	FISH	019-2	
+391	Ju-1_i-1	Ju	1_i	u n a	juru1256	jur	1209	I	001-1	
+392	Ju-20_bird-1	Ju	20_bird	u ʃ í/i ʃ í/i	juru1256	jur	937	BIRD	020-11	
+393	Ju-21_dog-1	Ju	21_dog	a p í/i	juru1256	jur	2009	DOG	021-5	
+394	Ju-22_louse-1	Ju	22_louse	k ɨ p á/a	juru1256	jur	1392	LOUSE	022-1	
+395	Ju-23_tree-1	Ju	23_tree	ã h ú/u á/a	juru1256	jur	906	TREE	023-2	
+396	Ju-24_seed-1	Ju	24_seed	b ɨ ɮ á/a	juru1256	jur	714	SEED	024-5	
+397	Ju-25_leaf-1	Ju	25_leaf	ú/u p á/a	juru1256	jur	628	LEAF	025-1	
+398	Ju-27_bark-1	Ju	27_bark	a b é/e	juru1256	jur	1204	BARK	027-1	
+399	Ju-28_skin-1	Ju	28_skin	s a	juru1256	jur	763	SKIN	028-4	
+400	Ju-29_fleshmeat-1	Ju	29_fleshmeat	a tʃ á/a	juru1256	jur	2615	FLESH OR MEAT	029-3	
+401	Ju-2_you-1	Ju	2_you	e n a	juru1256	jur	1215	THOU	002-1	
+402	Ju-30_blood-1	Ju	30_blood	a p e t a	juru1256	jur	946	BLOOD	030-4	
+403	Ju-31_bone-1	Ju	31_bone	p a k ɨ	juru1256	jur	1394	BONE	031-3	
+404	Ju-32_egg-1	Ju	32_egg	u p i á/a	juru1256	jur	744	EGG	032-1	
+405	Ju-33_greasefat-1	Ju	33_greasefat	i k a h á/a	juru1256	jur	323	FAT (ORGANIC SUBSTANCE)	033-1	
+406	Ju-34_horn-1	Ju	34_horn	a ʃ ã́/ã	juru1256	jur	1393	HORN (ANATOMY)	034-2	
+407	Ju-35_tail-1	Ju	35_tail	w á/a t á/a h a	juru1256	jur	1220	TAIL	035-1	
+408	Ju-36_feather-1	Ju	36_feather	b i t a h á/a	juru1256	jur	1201	FEATHER	036-3	
+409	Ju-37_hair-1	Ju	37_hair	t a b á/a	juru1256	jur	1040	HAIR	037-1	
+410	Ju-38_head-1	Ju	38_head	t a b á/a	juru1256	jur	1256	HEAD	038-5	
+411	Ju-3_weinclusive-1	Ju	3_weinclusive	s í/i	juru1256	jur	1131	WE (INCLUSIVE)	003-3	
+412	Ju-40_eye-1	Ju	40_eye	e ʔ á/a	juru1256	jur	1248	EYE	040-1	
+413	Ju-41_nose-1	Ju	41_nose	i ʔ ã́/ã	juru1256	jur	1221	NOSE	041-3	
+414	Ju-42_mouth-1	Ju	42_mouth	k á/a ʃ ĩ b ɨ a	juru1256	jur	674	MOUTH	042-6	
+415	Ju-43_tooth-1	Ju	43_tooth	a j ã́/ã	juru1256	jur	1380	TOOTH	043-1	
+416	Ju-44_tongue-1	Ju	44_tongue	k u ã	juru1256	jur	1205	TONGUE	044-1	
+417	Ju-45_claw-1	Ju	45_claw	u ʔ ã́/ã	juru1256	jur	72	CLAW	045-6	
+418	Ju-46_foot-1	Ju	46_foot	b ɨ d a h a	juru1256	jur	1301	FOOT	046-1	
+419	Ju-46_foot-2	Ju	46_foot	b ɨ d a h á/a	juru1256	jur	1301	FOOT	046-1	
+420	Ju-47_knee-1	Ju	47_knee	m a ʔ ã́/ã	juru1256	jur	1371	KNEE	047-5	
+421	Ju-48_hand-1	Ju	48_hand	w á/a	juru1256	jur	1277	HAND	048-1	
+422	Ju-49_belly-1	Ju	49_belly	w ã z á/a	juru1256	jur	1251	BELLY	049-5	
+423	Ju-4_this-1	Ju	4_this	a n ɨ	juru1256	jur	1214	THIS	004-1	
+424	Ju-50_neck-1	Ju	50_neck	ĩ ʔ ũ	juru1256	jur	1333	NECK	050-5	
+425	Ju-51_breast-1	Ju	51_breast	n a m ã́/ã	juru1256	jur	1402	BREAST	051-1	
+426	Ju-52_heartguts-1	Ju	52_heartguts	w a ĩ k á/a h á/a	juru1256	jur	2436	GUTS OR HEART	052-7	
+427	Ju-53_liver-1	Ju	53_liver	b ɨ ʔ á/a	juru1256	jur	1224	LIVER	053-1	
+428	Ju-54_drink-1	Ju	54_drink	a w í/i	juru1256	jur	1401	DRINK	054-3	
+429	Ju-55_eat-1	Ju	55_eat	i ʃ ú/u	juru1256	jur	1336	EAT	055-1	
+430	Ju-56_bite-1	Ju	56_bite	a tʃ ú/u	juru1256	jur	1403	BITE	056-1	
+431	Ju-57_see-1	Ju	57_see	z á/a k ú/u	juru1256	jur	1409	SEE	057-2	
+432	Ju-58_hear-1	Ju	58_hear	ẽ d ú/u	juru1256	jur	1408	HEAR	058-1	
+433	Ju-59_know-1	Ju	59_know	u b a h ú/u	juru1256	jur	3626	KNOW	059-6	
+434	Ju-5_that-1	Ju	5_that	a m ɨ	juru1256	jur	78	THAT	005-4	
+435	Ju-60_sleep-1	Ju	60_sleep	i j u	juru1256	jur	1585	SLEEP	060-2	
+436	Ju-61_die-1	Ju	61_die	ʔ e ʔ ã́/ã	juru1256	jur	1494	DIE	061-4	
+437	Ju-62_kill-1	Ju	62_kill	a b á/a k ú/u	juru1256	jur	1417	KILL	062-1	
+438	Ju-63_swim-1	Ju	63_swim	i b ɨ k á/a ɾ á/a h u	juru1256	jur	1439	SWIM	063-8	
+439	Ju-64_fly-1	Ju	64_fly	ʔ á/a ũ	juru1256	jur	1441	FLY (MOVE THROUGH AIR)	064-3	
+440	Ju-65_walk-1	Ju	65_walk	i p i d e p i d e a	juru1256	jur	1443	WALK	065-10	
+441	Ju-66_come-1	Ju	66_come	w ɨ	juru1256	jur	1446	COME	066-3	
+442	Ju-67_liedown-1	Ju	67_liedown	p ɨ ʃ ɨ h ú/u	juru1256	jur	1411	LIE (REST)	067-12	
+443	Ju-68_sit-1	Ju	68_sit	a b í/i k ú/u	juru1256	jur	1416	SIT	068-1	
+444	Ju-69_stand-1	Ju	69_stand	m í/i s u	juru1256	jur	1442	STAND	069-4	
+445	Ju-6_what-1	Ju	6_what	a p á/a	juru1256	jur	1236	WHAT	006-5	
+446	Ju-70_give-1	Ju	70_give	k u a	juru1256	jur	1447	GIVE	070-4	
+447	Ju-71_say-1	Ju	71_say	a	juru1256	jur	1458	SAY	071-1	
+448	Ju-72_sun-1	Ju	72_sun	k u a d í/i	juru1256	jur	1343	SUN	072-1	
+449	Ju-73_moon-1	Ju	73_moon	m ã d í/i k á/a	juru1256	jur	1313	MOON	073-3	
+450	Ju-74_star-1	Ju	74_star	a n á/a ĩ́/ĩ b ɨ a	juru1256	jur	1430	STAR	074-3	
+451	Ju-75_water-1	Ju	75_water	i j á/a	juru1256	jur	948	WATER	075-1	
+452	Ju-76_rain-1	Ju	76_rain	a m á/a n á/a	juru1256	jur	2108	RAINING OR RAIN	076-1	
+453	Ju-77_stone-1	Ju	77_stone	k u a h a	juru1256	jur	857	STONE	077-3	
+454	Ju-78_sand-1	Ju	78_sand	e t á/a	juru1256	jur	671	SAND	078-11	
+455	Ju-79_earth-1	Ju	79_earth	e p í/i á/a	juru1256	jur	1228	EARTH (SOIL)	079-2	
+456	Ju-7_who-1	Ju	7_who	m á/a	juru1256	jur	1235	WHO	007-1	
+457	Ju-81_smoke-1	Ju	81_smoke	a ʃ í/i ʃ i ʔ ã́/ã	juru1256	jur	778	SMOKE (EXHAUST)	081-1	
+458	Ju-82_fire-1	Ju	82_fire	a ʃ í/i	juru1256	jur	221	FIRE	082-1	
+459	Ju-84_burnintr-1	Ju	84_burnintr	tʃ u ʃ i	juru1256	jur	1428	BURNING	084-3	
+460	Ju-85_path-1	Ju	85_path	b a h á/a	juru1256	jur	2252	PATH	085-1	
+461	Ju-86_mountain-1	Ju	86_mountain	tʃ ú/u á/a	juru1256	jur	639	MOUNTAIN	086-1	
+462	Ju-87_red-1	Ju	87_red	a s ú/u ɾ ĩ	juru1256	jur	156	RED	087-6	
+463	Ju-88_green-1	Ju	88_green	a k é/e ɮ ú/u	juru1256	jur	1425	GREEN	088-6	
+464	Ju-89_yellow-1	Ju	89_yellow	j ũ p ĩ́/ĩ p i	juru1256	jur	1424	YELLOW	089-4	
+465	Ju-8_not-1	Ju	8_not	a ũ	juru1256	jur	1240	NOT	008-3	
+466	Ju-8_not-2	Ju	8_not	m a	juru1256	jur	1240	NOT	008-3	
+467	Ju-90_white-1	Ju	90_white	a w ĩ́ĩ́/ĩː w ĩː	juru1256	jur	1335	WHITE	090-7	
+468	Ju-91_black-1	Ju	91_black	i t ɨ n i k ĩ	juru1256	jur	163	BLACK	091-5	
+469	Ju-92_night-1	Ju	92_night	k a m a d é/e h ú/u	juru1256	jur	1233	NIGHT	092-5	
+470	Ju-93_hot-1	Ju	93_hot	a k ú/u h ú/u	juru1256	jur	1286	HOT	093-1	
+471	Ju-94_cold-1	Ju	94_cold	k u á/a k u	juru1256	jur	1287	COLD	094-1	
+472	Ju-94_cold-2	Ju	94_cold	i t a ʔ á/a k ú/u	juru1256	jur	1287	COLD	094-1	
+473	Ju-95_full-1	Ju	95_full	n a n í/i ũ	juru1256	jur	1429	FULL	095-5	
+474	Ju-96_good-1	Ju	96_good	w ã b í/i	juru1256	jur	1035	GOOD	096-1	
+475	Ju-99_dry-1	Ju	99_dry	tʃ u ɾ á/a tʃ ú/u	juru1256	jur	1398	DRY	099-8	
+476	Ju-99_dry-2	Ju	99_dry	h u a k ú/u	juru1256	jur	1398	DRY	099-8	
+477	Ju-9_all-1	Ju	9_all	b i t é/e h u	juru1256	jur	98	ALL	009-14	
+478	Ka-100_name-1	Ka	100_name	c e t	karo1305	arr	1405	NAME	100-1	
+479	Ka-10_many-1	Ka	10_many	p a ʔ p i k t e m	karo1305	arr	1198	MANY	010-14	
+480	Ka-11_one-1	Ka	11_one	k o t ĩ ɾ e m	karo1305	arr	1493	ONE	011-11	
+481	Ka-12_two-1	Ka	12_two	c a g á/a ɾ o + k õ m n e m	karo1305	arr	1498	TWO	012-9	
+482	Ka-13_big-1	Ka	13_big	c ú/u	karo1305	arr	1202	BIG	013-1	
+483	Ka-14_long-1	Ka	14_long	c á/a ɾ a ɾ e m	karo1305	arr	1203	LONG	014-11	
+484	Ka-15_small-1	Ka	15_small	ʔ ĩ t t e m	karo1305	arr	1246	SMALL	015-1	
+485	Ka-16_woman-1	Ka	16_woman	m a ʔ p ə j	karo1305	arr	962	WOMAN	016-8	
+486	Ka-17_man-1	Ka	17_man	m a ʔ w ɨ t	karo1305	arr	1554	MAN	017-12	
+487	Ka-18_person-1	Ka	18_person	i ʔ t ə	karo1305	arr	683	PERSON	018-9	
+488	Ka-19_fish-1	Ka	19_fish	i p	karo1305	arr	227	FISH	019-1	
+489	Ka-1_i-1	Ka	1_i	ʔ õ n	karo1305	arr	1209	I	001-1	
+490	Ka-20_bird-1	Ka	20_bird	ĩ j a + ʔ ɨ p	karo1305	arr	937	BIRD	020-8	
+491	Ka-21_dog-1	Ka	21_dog	w a w + w a w	karo1305	arr	2009	DOG	021-8	
+492	Ka-22_louse-1	Ka	22_louse	n ã p	karo1305	arr	1392	LOUSE	022-2	
+493	Ka-23_tree-1	Ka	23_tree	m a ʔ ɨ p	karo1305	arr	906	TREE	023-1	
+494	Ka-24_seed-1	Ka	24_seed	a ʔ c o t	karo1305	arr	714	SEED	024-7	
+495	Ka-25_leaf-1	Ka	25_leaf	n a ʔ j o p + c ɨ ʔ	karo1305	arr	628	LEAF	025-1	
+496	Ka-26_root-1	Ka	26_root	a c i b e	karo1305	arr	670	ROOT	026-5	
+497	Ka-27_bark-1	Ka	27_bark	a ʔ c a ʔ p e	karo1305	arr	1204	BARK	027-1	
+498	Ka-28_skin-1	Ka	28_skin	a ʔ p e o n + p e ʔ	karo1305	arr	763	SKIN	028-1	
+499	Ka-29_fleshmeat-1	Ka	29_fleshmeat	c ĩ m	karo1305	arr	2615	FLESH OR MEAT	029-5	
+500	Ka-2_you-1	Ka	2_you	ʔ ẽ n	karo1305	arr	1215	THOU	002-1	
+501	Ka-30_blood-1	Ka	30_blood	i j u	karo1305	arr	946	BLOOD	030-5	
+502	Ka-31_bone-1	Ka	31_bone	i c i g ã	karo1305	arr	1394	BONE	031-1	
+503	Ka-32_egg-1	Ka	32_egg	a ʔ j o g a	karo1305	arr	744	EGG	032-3	
+504	Ka-33_greasefat-1	Ka	33_greasefat	i k a p	karo1305	arr	323	FAT (ORGANIC SUBSTANCE)	033-1	
+505	Ka-34_horn-1	Ka	34_horn	a ʔ n a ʔ ĩ n	karo1305	arr	1393	HORN (ANATOMY)	034-5	
+506	Ka-35_tail-1	Ka	35_tail	a ʔ c a p ó/o p + p ɨ ʔ	karo1305	arr	1220	TAIL	035-2	
+507	Ka-36_feather-1	Ka	36_feather	a ʔ c a p	karo1305	arr	1201	FEATHER	036-1	
+508	Ka-37_hair-1	Ka	37_hair	a ʔ n a ʔ c a p	karo1305	arr	1040	HAIR	037-1	
+509	Ka-38_head-1	Ka	38_head	a n a k á/a	karo1305	arr	1256	HEAD	038-9	
+510	Ka-39_ear-1	Ka	39_ear	o p i ɾ i s a p	karo1305	arr	1247	EAR	039-2	
+511	Ka-39_ear-2	Ka	39_ear	i n a k ɨ ɾ a + p e ʔ	karo1305	arr	1247	EAR	039-4	
+512	Ka-3_weinclusive-1	Ka	3_weinclusive	i ʔ t ə́/ə	karo1305	arr	1131	WE (INCLUSIVE)	003-5	
+513	Ka-40_eye-1	Ka	40_eye	i c a g á/a + ʔ a ʔ	karo1305	arr	1248	EYE	040-3	
+514	Ka-41_nose-1	Ka	41_nose	i n a ʔ c ə̤ k + t o ʔ	karo1305	arr	1221	NOSE	041-4	
+515	Ka-42_mouth-1	Ka	42_mouth	a ʔ n ã k + k á/a ʔ	karo1305	arr	674	MOUTH	042-7	
+516	Ka-43_tooth-1	Ka	43_tooth	i j ã j + k a p	karo1305	arr	1380	TOOTH	043-1	
+517	Ka-44_tongue-1	Ka	44_tongue	k o ɾ õ m b o	karo1305	arr	1205	TONGUE	044-1	
+518	Ka-44_tongue-2	Ka	44_tongue	i j o g á/a + p e ʔ	karo1305	arr	1205	TONGUE	044-3	
+519	Ka-45_claw-1	Ka	45_claw	i c i j õ	karo1305	arr	72	CLAW	045-3	
+520	Ka-46_foot-1	Ka	46_foot	i p i b e ʔ	karo1305	arr	1301	FOOT	046-1	
+521	Ka-47_knee-1	Ka	47_knee	i j ɨ n + k á/a ʔ	karo1305	arr	1371	KNEE	047-7	
+522	Ka-48_hand-1	Ka	48_hand	i p á/a b e ʔ	karo1305	arr	1277	HAND	048-1	
+523	Ka-49_belly-1	Ka	49_belly	i k u n	karo1305	arr	1251	BELLY	049-2	
+524	Ka-4_this-1	Ka	4_this	m ẽ t	karo1305	arr	1214	THIS	004-2	
+525	Ka-50_neck-1	Ka	50_neck	i o t + k á/a ʔ	karo1305	arr	1333	NECK	050-1	
+526	Ka-51_breast-1	Ka	51_breast	n ã m + ʔ a ʔ	karo1305	arr	1402	BREAST	051-1	
+527	Ka-52_heartguts-1	Ka	52_heartguts	i c á/a ɾ a g á/a ʔ	karo1305	arr	2436	GUTS OR HEART	052-8	
+528	Ka-53_liver-1	Ka	53_liver	i p í/i a + ʔ a ʔ	karo1305	arr	1224	LIVER	053-1	
+529	Ka-54_drink-1	Ka	54_drink	ʔ o t	karo1305	arr	1401	DRINK	054-1	
+530	Ka-54_drink-2	Ka	54_drink	a h ɨ	karo1305	arr	1401	DRINK	054-6	
+531	Ka-55_eat-1	Ka	55_eat	ʔ o t	karo1305	arr	1336	EAT	055-1	
+532	Ka-56_bite-1	Ka	56_bite	t ó/o t	karo1305	arr	1403	BITE	056-1	
+533	Ka-57_see-1	Ka	57_see	t o j	karo1305	arr	1409	SEE	057-1	
+534	Ka-58_hear-1	Ka	58_hear	w e ɾ o + t o j	karo1305	arr	1408	HEAR	058-6	
+535	Ka-59_know-1	Ka	59_know	c a h m ə j + n ã n	karo1305	arr	3626	KNOW	059-8	
+536	Ka-5_that-1	Ka	5_that	j e t + j e	karo1305	arr	78	THAT	005-1	
+537	Ka-60_sleep-1	Ka	60_sleep	k e n	karo1305	arr	1585	SLEEP	060-1	
+538	Ka-61_die-1	Ka	61_die	p a j	karo1305	arr	1494	DIE	061-2	
+539	Ka-62_kill-1	Ka	62_kill	a ʔ w ĩ n	karo1305	arr	1417	KILL	062-3	
+540	Ka-63_swim-1	Ka	63_swim	p u ŋ + p u ŋ	karo1305	arr	1439	SWIM	063-9	
+541	Ka-65_walk-1	Ka	65_walk	k a t	karo1305	arr	1443	WALK	065-11	
+542	Ka-66_come-1	Ka	66_come	t i	karo1305	arr	1446	COME	066-6	
+543	Ka-67_liedown-1	Ka	67_liedown	m o j	karo1305	arr	1411	LIE (REST)	067-13	
+544	Ka-68_sit-1	Ka	68_sit	p a ɾ a m u	karo1305	arr	1416	SIT	068-9	
+545	Ka-69_stand-1	Ka	69_stand	j a t	karo1305	arr	1442	STAND	069-5	
+546	Ka-6_what-1	Ka	6_what	k ɨ t	karo1305	arr	1236	WHAT	006-8	
+547	Ka-70_give-1	Ka	70_give	m a ʔ ã t	karo1305	arr	1447	GIVE	070-5	
+548	Ka-71_say-1	Ka	71_say	ʔ e	karo1305	arr	1458	SAY	071-1	
+549	Ka-72_sun-1	Ka	72_sun	c a ʔ w a p	karo1305	arr	1343	SUN	072-4	
+550	Ka-73_moon-1	Ka	73_moon	w e n	karo1305	arr	1313	MOON	073-8	
+551	Ka-74_star-1	Ka	74_star	c i g a m o	karo1305	arr	1430	STAR	074-9	
+552	Ka-75_water-1	Ka	75_water	i c ɨ	karo1305	arr	948	WATER	075-1	
+553	Ka-76_rain-1	Ka	76_rain	a m ã n	karo1305	arr	2108	RAINING OR RAIN	076-1	
+554	Ka-77_stone-1	Ka	77_stone	i j á/a + ʔ a ʔ	karo1305	arr	857	STONE	077-1	
+555	Ka-78_sand-1	Ka	78_sand	c a ɾ o k ã j a	karo1305	arr	671	SAND	078-1	
+556	Ka-79_earth-1	Ka	79_earth	i g a n ã	karo1305	arr	1228	EARTH (SOIL)	079-4	
+557	Ka-7_who-1	Ka	7_who	m õ ɾ ã	karo1305	arr	1235	WHO	007-2	
+558	Ka-7_who-2	Ka	7_who	n ã n	karo1305	arr	1235	WHO	007-7	
+559	Ka-80_cloud-1	Ka	80_cloud	c a ɾ o g ĩ n	karo1305	arr	1489	CLOUD	080-11	
+560	Ka-81_smoke-1	Ka	81_smoke	c a ɾ o g ĩ n	karo1305	arr	778	SMOKE (EXHAUST)	081-1	
+561	Ka-82_fire-1	Ka	82_fire	c á/a n + n ã ʔ	karo1305	arr	221	FIRE	082-1	
+562	Ka-83_ash-1	Ka	83_ash	c a ɾ ĩ ŋ + ʔ a ʔ	karo1305	arr	646	ASH	083-8	
+563	Ka-84_burnintr-1	Ka	84_burnintr	a ʔ p a g a t	karo1305	arr	1428	BURNING	084-8	
+564	Ka-85_path-1	Ka	85_path	n a ʔ p i t + p e ʔ	karo1305	arr	2252	PATH	085-1	
+565	Ka-86_mountain-1	Ka	86_mountain	n o + p ɨ ʔ	karo1305	arr	639	MOUNTAIN	086-1	
+566	Ka-87_red-1	Ka	87_red	u p t e m	karo1305	arr	156	RED	087-1	
+567	Ka-88_green-1	Ka	88_green	k ɨ ɾ ɨ k t e m	karo1305	arr	1425	GREEN	088-1	
+568	Ka-89_yellow-1	Ka	89_yellow	c i õ p t e m	karo1305	arr	1424	YELLOW	089-4	
+569	Ka-8_not-1	Ka	8_not	i ʔ k e	karo1305	arr	1240	NOT	008-8	
+570	Ka-90_white-1	Ka	90_white	k ɨ t t e m	karo1305	arr	1335	WHITE	090-1	
+571	Ka-91_black-1	Ka	91_black	p ĩ k t e m	karo1305	arr	163	BLACK	091-3	
+572	Ka-92_night-1	Ka	92_night	i ʔ c a k + m ã m	karo1305	arr	1233	NIGHT	092-10	
+573	Ka-93_hot-1	Ka	93_hot	j a k õ p t e m	karo1305	arr	1286	HOT	093-1	
+574	Ka-94_cold-1	Ka	94_cold	p i t ẽ k t e m	karo1305	arr	1287	COLD	094-1	
+575	Ka-94_cold-2	Ka	94_cold	P/p u b i d e k	karo1305	arr	1287	COLD	094-1	
+576	Ka-94_cold-3	Ka	94_cold	A/a r ɟ i t ã́/ã k + k á/a	karo1305	arr	1287	COLD	094-1	
+577	Ka-94_cold-4	Ka	94_cold	S/s a ʃ í/i t a k	karo1305	arr	1287	COLD	094-1	
+578	Ka-94_cold-5	Ka	94_cold	S/s u ʃ i t a k	karo1305	arr	1287	COLD	094-1	
+579	Ka-94_cold-6	Ka	94_cold	K/k t ã n d i k	karo1305	arr	1287	COLD	094-1	
+580	Ka-95_full-1	Ka	95_full	t õ n n e m	karo1305	arr	1429	FULL	095-2	
+581	Ka-96_good-1	Ka	96_good	p ã́/ã t t e m	karo1305	arr	1035	GOOD	096-1	
+582	Ka-98_round-1	Ka	98_round	p i ɾ o n n e m	karo1305	arr	1395	ROUND	098-9	
+583	Ka-99_dry-1	Ka	99_dry	a ʔ c a ɾ a ŋ + n ã n	karo1305	arr	1398	DRY	099-9	
+584	Ka-9_all-1	Ka	9_all	i a k a t ĩː m	karo1305	arr	98	ALL	009-18	
+585	Kt-100_name-1	Kt	100_name	s a t	kari1311	ktn	1405	NAME	100-1	
+586	Kt-10_many-1	Kt	10_many	p i t a t	kari1311	ktn	1198	MANY	010-18	
+587	Kt-11_one-1	Kt	11_one	m ĩ h ĩ n t	kari1311	ktn	1493	ONE	011-12	
+588	Kt-12_two-1	Kt	12_two	s ɨ p õ m p	kari1311	ktn	1498	TWO	012-13	
+589	Kt-13_big-1	Kt	13_big	t ɨː	kari1311	ktn	1202	BIG	013-1	
+590	Kt-14_long-1	Kt	14_long	h o ɾ o w a	kari1311	ktn	1203	LONG	014-5	
+591	Kt-15_small-1	Kt	15_small	ʔ ĩ n ã	kari1311	ktn	1246	SMALL	015-1	
+592	Kt-16_woman-1	Kt	16_woman	e j + p a t	kari1311	ktn	962	WOMAN	016-9	
+593	Kt-17_man-1	Kt	17_man	o t a	kari1311	ktn	1554	MAN	017-14	
+594	Kt-18_person-1	Kt	18_person	p ɨ e s o	kari1311	ktn	683	PERSON	018-10	
+595	Kt-19_fish-1	Kt	19_fish	ʔ i p	kari1311	ktn	227	FISH	019-1	
+596	Kt-1_i-1	Kt	1_i	ĩ n	kari1311	ktn	1209	I	001-1	
+597	Kt-20_bird-1	Kt	20_bird	p a p ɨ d n ã	kari1311	ktn	937	BIRD	020-12	
+598	Kt-21_dog-1	Kt	21_dog	õ m b a k ɨ	kari1311	ktn	2009	DOG	021-1	
+599	Kt-22_louse-1	Kt	22_louse	g e p	kari1311	ktn	1392	LOUSE	022-1	
+600	Kt-23_tree-1	Kt	23_tree	ʔ e p	kari1311	ktn	906	TREE	023-1	
+601	Kt-24_seed-1	Kt	24_seed	s ɨ p o	kari1311	ktn	714	SEED	024-6	
+602	Kt-25_leaf-1	Kt	25_leaf	ʔ e p e s a p	kari1311	ktn	628	LEAF	025-1	
+603	Kt-26_root-1	Kt	26_root	k ĩ ɲ ĩ m b ɨ	kari1311	ktn	670	ROOT	026-7	
+604	Kt-27_bark-1	Kt	27_bark	p ɨ k ɨ p	kari1311	ktn	1204	BARK	027-5	
+605	Kt-28_skin-1	Kt	28_skin	p a	kari1311	ktn	763	SKIN	028-1	
+606	Kt-29_fleshmeat-1	Kt	29_fleshmeat	p i s ɨ p	kari1311	ktn	2615	FLESH OR MEAT	029-6	
+607	Kt-2_you-1	Kt	2_you	ã n	kari1311	ktn	1215	THOU	002-1	
+608	Kt-30_blood-1	Kt	30_blood	g e	kari1311	ktn	946	BLOOD	030-6	
+609	Kt-31_bone-1	Kt	31_bone	ʔ e p	kari1311	ktn	1394	BONE	031-5	
+610	Kt-33_greasefat-1	Kt	33_greasefat	o ɾ o j a	kari1311	ktn	323	FAT (ORGANIC SUBSTANCE)	033-5	
+611	Kt-34_horn-1	Kt	34_horn	o p i k ĩ ɲ õ	kari1311	ktn	1393	HORN (ANATOMY)	034-4	
+612	Kt-35_tail-1	Kt	35_tail	s ɨ p o j	kari1311	ktn	1220	TAIL	035-1	
+613	Kt-36_feather-1	Kt	36_feather	p a p ɨ	kari1311	ktn	1201	FEATHER	036-2	
+614	Kt-37_hair-1	Kt	37_hair	s o p	kari1311	ktn	1040	HAIR	037-1	
+615	Kt-38_head-1	Kt	38_head	ʔ o	kari1311	ktn	1256	HEAD	038-3	
+616	Kt-3_weinclusive-1	Kt	3_weinclusive	ɨ j tʃ a	kari1311	ktn	1131	WE (INCLUSIVE)	003-5	
+617	Kt-40_eye-1	Kt	40_eye	s ɨː p o	kari1311	ktn	1248	EYE	040-5	
+618	Kt-41_nose-1	Kt	41_nose	dʒ o p i ʔ o p	kari1311	ktn	1221	NOSE	041-1	
+619	Kt-42_mouth-1	Kt	42_mouth	k o ɾ õ m b o	kari1311	ktn	674	MOUTH	042-2	
+620	Kt-43_tooth-1	Kt	43_tooth	ɲ õ ɲ	kari1311	ktn	1380	TOOTH	043-1	
+621	Kt-45_claw-1	Kt	45_claw	p ɨ s o k õ	kari1311	ktn	72	CLAW	045-2	
+622	Kt-46_foot-1	Kt	46_foot	p i	kari1311	ktn	1301	FOOT	046-1	
+623	Kt-47_knee-1	Kt	47_knee	s a ʔ e p + o t ɨː t	kari1311	ktn	1371	KNEE	047-8	
+624	Kt-48_hand-1	Kt	48_hand	p ɨ	kari1311	ktn	1277	HAND	048-1	
+625	Kt-49_belly-1	Kt	49_belly	k õ ɲ	kari1311	ktn	1251	BELLY	049-2	
+626	Kt-4_this-1	Kt	4_this	k a h ɨ t	kari1311	ktn	1214	THIS	004-9	
+627	Kt-50_neck-1	Kt	50_neck	h ɨ t	kari1311	ktn	1333	NECK	050-7	
+628	Kt-51_breast-1	Kt	51_breast	n õ m	kari1311	ktn	1402	BREAST	051-1	
+629	Kt-52_heartguts-1	Kt	52_heartguts	h a d n ĩ p a	kari1311	ktn	2436	GUTS OR HEART	052-10	
+630	Kt-53_liver-1	Kt	53_liver	k ɨ ɾ ɨ	kari1311	ktn	1224	LIVER	053-3	
+631	Kt-55_eat-1	Kt	55_eat	p ɨ t ʔ ɨ	kari1311	ktn	1336	EAT	055-3	
+632	Kt-56_bite-1	Kt	56_bite	o k oː t	kari1311	ktn	1403	BITE	056-1	
+633	Kt-57_see-1	Kt	57_see	s o ʔ oː t	kari1311	ktn	1409	SEE	057-1	
+634	Kt-58_hear-1	Kt	58_hear	o p i s o	kari1311	ktn	1408	HEAR	058-7	
+635	Kt-59_know-1	Kt	59_know	s õ n d ɨ p	kari1311	ktn	3626	KNOW	059-5	
+636	Kt-5_that-1	Kt	5_that	k a h ɨ t	kari1311	ktn	78	THAT	005-11	
+637	Kt-60_sleep-1	Kt	60_sleep	k a t	kari1311	ktn	1585	SLEEP	060-1	
+638	Kt-61_die-1	Kt	61_die	p o p	kari1311	ktn	1494	DIE	061-2	
+639	Kt-62_kill-1	Kt	62_kill	o k ɨ	kari1311	ktn	1417	KILL	062-1	
+640	Kt-63_swim-1	Kt	63_swim	t a k + t a k	kari1311	ktn	1439	SWIM	063-13	
+641	Kt-65_walk-1	Kt	65_walk	t a ɾ a k	kari1311	ktn	1443	WALK	065-12	
+642	Kt-66_come-1	Kt	66_come	ɨ ɾ ɨ t	kari1311	ktn	1446	COME	066-1	
+643	Kt-67_liedown-1	Kt	67_liedown	n ẽ ŋ a	kari1311	ktn	1411	LIE (REST)	067-3	
+644	Kt-68_sit-1	Kt	68_sit	i b i k + t ĩ ɲ ã	kari1311	ktn	1416	SIT	068-8	
+645	Kt-69_stand-1	Kt	69_stand	dʒ ɨ g ŋ ã	kari1311	ktn	1442	STAND	069-14	
+646	Kt-6_what-1	Kt	6_what	m õ ɾ ã	kari1311	ktn	1236	WHAT	006-2	
+647	Kt-70_give-1	Kt	70_give	h i t	kari1311	ktn	1447	GIVE	070-6	
+648	Kt-71_say-1	Kt	71_say	ʔ a	kari1311	ktn	1458	SAY	071-1	
+649	Kt-72_sun-1	Kt	72_sun	ŋ o k ɨ p	kari1311	ktn	1343	SUN	072-1	
+650	Kt-73_moon-1	Kt	73_moon	o t i	kari1311	ktn	1313	MOON	073-1	
+651	Kt-74_star-1	Kt	74_star	o t i + ɨ ɾ ɨ p o	kari1311	ktn	1430	STAR	074-1	
+652	Kt-75_water-1	Kt	75_water	e s e	kari1311	ktn	948	WATER	075-1	
+653	Kt-76_rain-1	Kt	76_rain	e	kari1311	ktn	2108	RAINING OR RAIN	076-3	
+654	Kt-77_stone-1	Kt	77_stone	e j e p o	kari1311	ktn	857	STONE	077-6	
+655	Kt-78_sand-1	Kt	78_sand	ʔ e j	kari1311	ktn	671	SAND	078-2	
+656	Kt-79_earth-1	Kt	79_earth	e j e p i	kari1311	ktn	1228	EARTH (SOIL)	079-2	
+657	Kt-80_cloud-1	Kt	80_cloud	e s ɨ ɾ a	kari1311	ktn	1489	CLOUD	080-13	
+658	Kt-81_smoke-1	Kt	81_smoke	i s o + ɲ ĩ ŋ g a	kari1311	ktn	778	SMOKE (EXHAUST)	081-1	
+659	Kt-82_fire-1	Kt	82_fire	i s o	kari1311	ktn	221	FIRE	082-1	
+660	Kt-83_ash-1	Kt	83_ash	s iː t	kari1311	ktn	646	ASH	083-12	
+661	Kt-84_burnintr-1	Kt	84_burnintr	ɲ õ n ĩ n	kari1311	ktn	1428	BURNING	084-11	
+662	Kt-85_path-1	Kt	85_path	p a	kari1311	ktn	2252	PATH	085-1	
+663	Kt-86_mountain-1	Kt	86_mountain	n e s o	kari1311	ktn	639	MOUNTAIN	086-1	
+664	Kt-87_red-1	Kt	87_red	s õ m	kari1311	ktn	156	RED	087-7	
+665	Kt-88_green-1	Kt	88_green	k e t + p i t a t	kari1311	ktn	1425	GREEN	088-1	
+666	Kt-89_yellow-1	Kt	89_yellow	p o k o ɾ ɨ t	kari1311	ktn	1424	YELLOW	089-17	
+667	Kt-8_not-1	Kt	8_not	p a d n ĩ	kari1311	ktn	1240	NOT	008-10	
+668	Kt-90_white-1	Kt	90_white	p o k	kari1311	ktn	1335	WHITE	090-4	
+669	Kt-91_black-1	Kt	91_black	ẽː m	kari1311	ktn	163	BLACK	091-2	
+670	Kt-92_night-1	Kt	92_night	d i p	kari1311	ktn	1233	NIGHT	092-12	
+671	Kt-93_hot-1	Kt	93_hot	o k ɨ p	kari1311	ktn	1286	HOT	093-1	
+672	Kt-95_full-1	Kt	95_full	o s ɨ k	kari1311	ktn	1429	FULL	095-11	
+673	Kt-96_good-1	Kt	96_good	s e ʔ a	kari1311	ktn	1035	GOOD	096-10	
+674	Kt-97_new-1	Kt	97_new	ŋ o t	kari1311	ktn	1231	NEW	097-2	
+675	Kt-98_round-1	Kt	98_round	a t ĩ n ã	kari1311	ktn	1395	ROUND	098-8	
+676	Kt-99_dry-1	Kt	99_dry	p i h o p	kari1311	ktn	1398	DRY	099-10	
+677	Ku-100_name-1	Ku	100_name	b í/i t e t	kuru1309	kyr	1405	NAME	100-1	
+678	Ku-10_many-1	Ku	10_many	tʃ ĩ n	kuru1309	kyr	1198	MANY	010-9	
+679	Ku-10_many-2	Ku	10_many	dʒ ĩ n	kuru1309	kyr	1198	MANY	010-9	
+680	Ku-11_one-1	Ku	11_one	d á/a	kuru1309	kyr	1493	ONE	011-10	
+681	Ku-12_two-1	Ku	12_two	p o ɾ a k ã	kuru1309	kyr	1498	TWO	012-5	
+682	Ku-13_big-1	Ku	13_big	a d o ɾ e	kuru1309	kyr	1202	BIG	013-7	
+683	Ku-14_long-1	Ku	14_long	t a b i ŋ ʔ õ m	kuru1309	kyr	1203	LONG	014-7	
+684	Ku-15_small-1	Ku	15_small	ĩ p i t	kuru1309	kyr	1246	SMALL	015-2	
+685	Ku-16_woman-1	Ku	16_woman	a o	kuru1309	kyr	962	WOMAN	016-7	
+686	Ku-17_man-1	Ku	17_man	t e ʔ i n	kuru1309	kyr	1554	MAN	017-9	
+687	Ku-19_fish-1	Ku	19_fish	p o t i p	kuru1309	kyr	227	FISH	019-1	
+688	Ku-1_i-1	Ku	1_i	õ n	kuru1309	kyr	1209	I	001-1	
+689	Ku-20_bird-1	Ku	20_bird	o s ĩ	kuru1309	kyr	937	BIRD	020-3	
+690	Ku-21_dog-1	Ku	21_dog	tʃ o a ɾ a	kuru1309	kyr	2009	DOG	021-4	
+691	Ku-22_louse-1	Ku	22_louse	a k i p	kuru1309	kyr	1392	LOUSE	022-1	
+692	Ku-23_tree-1	Ku	23_tree	ʔ i p	kuru1309	kyr	906	TREE	023-1	
+693	Ku-24_seed-1	Ku	24_seed	t a	kuru1309	kyr	714	SEED	024-4	
+694	Ku-24_seed-2	Ku	24_seed	d a	kuru1309	kyr	714	SEED	024-4	
+695	Ku-25_leaf-1	Ku	25_leaf	t ɨ p	kuru1309	kyr	628	LEAF	025-1	
+696	Ku-25_leaf-2	Ku	25_leaf	l ɨ p	kuru1309	kyr	628	LEAF	025-1	
+697	Ku-26_root-1	Ku	26_root	t a b ɨ ʔ	kuru1309	kyr	670	ROOT	026-1	
+698	Ku-27_bark-1	Ku	27_bark	j a k í/i e	kuru1309	kyr	1204	BARK	027-2	
+699	Ku-28_skin-1	Ku	28_skin	k í/i e	kuru1309	kyr	763	SKIN	028-3	
+700	Ku-29_fleshmeat-1	Ku	29_fleshmeat	ẽ n	kuru1309	kyr	2615	FLESH OR MEAT	029-1	
+701	Ku-2_you-1	Ku	2_you	ẽ n	kuru1309	kyr	1215	THOU	002-1	
+702	Ku-30_blood-1	Ku	30_blood	t o j	kuru1309	kyr	946	BLOOD	030-1	
+703	Ku-30_blood-2	Ku	30_blood	ɮ o j	kuru1309	kyr	946	BLOOD	030-1	
+704	Ku-31_bone-1	Ku	31_bone	t a o	kuru1309	kyr	1394	BONE	031-2	
+705	Ku-31_bone-2	Ku	31_bone	ɮ a o	kuru1309	kyr	1394	BONE	031-2	
+706	Ku-32_egg-1	Ku	32_egg	t ó/o b i a̤	kuru1309	kyr	744	EGG	032-1	
+707	Ku-32_egg-2	Ku	32_egg	ɮ ó/o b i a̤	kuru1309	kyr	744	EGG	032-1	
+708	Ku-33_greasefat-1	Ku	33_greasefat	ʃ e p	kuru1309	kyr	323	FAT (ORGANIC SUBSTANCE)	033-1	
+709	Ku-35_tail-1	Ku	35_tail	t a j b ɨ ʔ	kuru1309	kyr	1220	TAIL	035-1	
+710	Ku-36_feather-1	Ku	36_feather	t a p	kuru1309	kyr	1201	FEATHER	036-1	
+711	Ku-36_feather-2	Ku	36_feather	ɬ a p	kuru1309	kyr	1201	FEATHER	036-1	
+712	Ku-37_hair-1	Ku	37_hair	t a p	kuru1309	kyr	1040	HAIR	037-1	
+713	Ku-37_hair-2	Ku	37_hair	ɬ a p	kuru1309	kyr	1040	HAIR	037-1	
+714	Ku-38_head-1	Ku	38_head	ʔ a	kuru1309	kyr	1256	HEAD	038-3	
+715	Ku-39_ear-1	Ku	39_ear	j a õ p i	kuru1309	kyr	1247	EAR	039-1	
+716	Ku-3_weinclusive-1	Ku	3_weinclusive	w e i d ɨ s i p	kuru1309	kyr	1131	WE (INCLUSIVE)	003-4	
+717	Ku-40_eye-1	Ku	40_eye	e t a	kuru1309	kyr	1248	EYE	040-1	
+718	Ku-41_nose-1	Ku	41_nose	t õ m i ʔ	kuru1309	kyr	1221	NOSE	041-1	
+719	Ku-41_nose-2	Ku	41_nose	n õ m i ʔ	kuru1309	kyr	1221	NOSE	041-1	
+720	Ku-41_nose-3	Ku	41_nose	ɮ õ m i	kuru1309	kyr	1221	NOSE	041-1	
+721	Ku-41_nose-4	Ku	41_nose	t ã j m i ʔ	kuru1309	kyr	1221	NOSE	041-1	
+722	Ku-42_mouth-1	Ku	42_mouth	b i	kuru1309	kyr	674	MOUTH	042-4	
+723	Ku-43_tooth-1	Ku	43_tooth	t ã j	kuru1309	kyr	1380	TOOTH	043-1	
+724	Ku-43_tooth-2	Ku	43_tooth	ɮ ã j	kuru1309	kyr	1380	TOOTH	043-1	
+725	Ku-44_tongue-1	Ku	44_tongue	k õ	kuru1309	kyr	1205	TONGUE	044-1	
+726	Ku-45_claw-1	Ku	45_claw	i n ã	kuru1309	kyr	72	CLAW	045-4	
+727	Ku-46_foot-1	Ku	46_foot	i	kuru1309	kyr	1301	FOOT	046-1	
+728	Ku-47_knee-1	Ku	47_knee	õ ŋ ʔ á/a	kuru1309	kyr	1371	KNEE	047-4	
+729	Ku-48_hand-1	Ku	48_hand	b ɨ	kuru1309	kyr	1277	HAND	048-2	
+730	Ku-49_belly-1	Ku	49_belly	ʔ ɨ k	kuru1309	kyr	1251	BELLY	049-1	
+731	Ku-50_neck-1	Ku	50_neck	a n õ b ɨ	kuru1309	kyr	1333	NECK	050-4	
+732	Ku-50_neck-2	Ku	50_neck	j a n õ b ɨ ʔ	kuru1309	kyr	1333	NECK	050-4	
+733	Ku-51_breast-1	Ku	51_breast	k ã m	kuru1309	kyr	1402	BREAST	051-1	
+734	Ku-52_heartguts-1	Ku	52_heartguts	tʃ õ ŋ tʃ õ ŋ ʔ a	kuru1309	kyr	2436	GUTS OR HEART	052-5	
+735	Ku-53_liver-1	Ku	53_liver	b i a̤	kuru1309	kyr	1224	LIVER	053-1	
+736	Ku-54_drink-1	Ku	54_drink	ɮ e j ʔ o	kuru1309	kyr	1401	DRINK	054-1	
+737	Ku-55_eat-1	Ku	55_eat	d o	kuru1309	kyr	1336	EAT	055-1	
+738	Ku-56_bite-1	Ku	56_bite	d e ɮ e k	kuru1309	kyr	1403	BITE	056-5	
+739	Ku-57_see-1	Ku	57_see	d o	kuru1309	kyr	1409	SEE	057-1	
+740	Ku-58_hear-1	Ku	58_hear	k ã j d o	kuru1309	kyr	1408	HEAR	058-4	
+741	Ku-59_know-1	Ku	59_know	t a i b i t	kuru1309	kyr	3626	KNOW	059-3	
+742	Ku-60_sleep-1	Ku	60_sleep	ʃ e t	kuru1309	kyr	1585	SLEEP	060-1	
+743	Ku-61_die-1	Ku	61_die	ẽ ʔ ə̃	kuru1309	kyr	1494	DIE	061-4	
+744	Ku-62_kill-1	Ku	62_kill	a o k a	kuru1309	kyr	1417	KILL	062-1	
+745	Ku-63_swim-1	Ku	63_swim	t i t i ɮ ã m	kuru1309	kyr	1439	SWIM	063-4	
+746	Ku-65_walk-1	Ku	65_walk	tʃ ã ŋ tʃ ã ŋ	kuru1309	kyr	1443	WALK	065-5	
+747	Ku-66_come-1	Ku	66_come	d o t	kuru1309	kyr	1446	COME	066-1	
+748	Ku-67_liedown-1	Ku	67_liedown	p o	kuru1309	kyr	1411	LIE (REST)	067-2	
+749	Ku-67_liedown-2	Ku	67_liedown	p i	kuru1309	kyr	1411	LIE (REST)	067-2	
+750	Ku-68_sit-1	Ku	68_sit	dʒ í/i ʔ i	kuru1309	kyr	1416	SIT	068-6	
+751	Ku-69_stand-1	Ku	69_stand	tʃ ã ŋ ʔ i	kuru1309	kyr	1442	STAND	069-3	
+752	Ku-6_what-1	Ku	6_what	a d o	kuru1309	kyr	1236	WHAT	006-4	
+753	Ku-70_give-1	Ku	70_give	õ m	kuru1309	kyr	1447	GIVE	070-1	
+754	Ku-72_sun-1	Ku	72_sun	k a dʒ i	kuru1309	kyr	1343	SUN	072-1	
+755	Ku-73_moon-1	Ku	73_moon	w a dʒ i	kuru1309	kyr	1313	MOON	073-1	
+756	Ku-74_star-1	Ku	74_star	w a dʒ í/i l a l a	kuru1309	kyr	1430	STAR	074-1	
+757	Ku-75_water-1	Ku	75_water	t í/i t i	kuru1309	kyr	948	WATER	075-1	
+758	Ku-76_rain-1	Ku	76_rain	í/i b ɨ j a t	kuru1309	kyr	2108	RAINING OR RAIN	076-4	
+759	Ku-77_stone-1	Ku	77_stone	w í/i t a ʔ a	kuru1309	kyr	857	STONE	077-1	
+760	Ku-78_sand-1	Ku	78_sand	w í/i ɮ a ɮ a	kuru1309	kyr	671	SAND	078-7	
+761	Ku-79_earth-1	Ku	79_earth	w i ʔ	kuru1309	kyr	1228	EARTH (SOIL)	079-2	
+762	Ku-7_who-1	Ku	7_who	a b ɨ	kuru1309	kyr	1235	WHO	007-1	
+763	Ku-80_cloud-1	Ku	80_cloud	k a b i ɮ o ɮ o	kuru1309	kyr	1489	CLOUD	080-1	
+764	Ku-81_smoke-1	Ku	81_smoke	t ĩ ŋ	kuru1309	kyr	778	SMOKE (EXHAUST)	081-1	
+765	Ku-82_fire-1	Ku	82_fire	ɮ á/a ʃ a	kuru1309	kyr	221	FIRE	082-1	
+766	Ku-83_ash-1	Ku	83_ash	k a b i k	kuru1309	kyr	646	ASH	083-5	
+767	Ku-84_burnintr-1	Ku	84_burnintr	o s i p i k	kuru1309	kyr	1428	BURNING	084-2	
+768	Ku-85_path-1	Ku	85_path	e ʔ	kuru1309	kyr	2252	PATH	085-1	
+769	Ku-86_mountain-1	Ku	86_mountain	tʃ o ʔ a	kuru1309	kyr	639	MOUNTAIN	086-1	
+770	Ku-86_mountain-2	Ku	86_mountain	t o ʔ a	kuru1309	kyr	639	MOUNTAIN	086-1	
+771	Ku-87_red-1	Ku	87_red	p a k	kuru1309	kyr	156	RED	087-4	
+772	Ku-88_green-1	Ku	88_green	ɾ ẽ m	kuru1309	kyr	1425	GREEN	088-3	
+773	Ku-89_yellow-1	Ku	89_yellow	p e ɾ e k	kuru1309	kyr	1424	YELLOW	089-2	
+774	Ku-90_white-1	Ku	90_white	ɾ i t	kuru1309	kyr	1335	WHITE	090-5	
+775	Ku-91_black-1	Ku	91_black	ɾ ã m	kuru1309	kyr	163	BLACK	091-8	
+776	Ku-92_night-1	Ku	92_night	k i j ã b e	kuru1309	kyr	1233	NIGHT	092-8	
+777	Ku-93_hot-1	Ku	93_hot	t á/a k i p	kuru1309	kyr	1286	HOT	093-1	
+778	Ku-94_cold-1	Ku	94_cold	i tʃ ɨ k	kuru1309	kyr	1287	COLD	094-1	
+779	Ku-94_cold-2	Ku	94_cold	k á/a d ɨ̤ k	kuru1309	kyr	1287	COLD	094-1	
+780	Ku-95_full-1	Ku	95_full	e p	kuru1309	kyr	1429	FULL	095-9	
+781	Ku-96_good-1	Ku	96_good	i t i m	kuru1309	kyr	1035	GOOD	096-7	
+782	Ku-99_dry-1	Ku	99_dry	p ɨ ɾ ɨ k	kuru1309	kyr	1398	DRY	099-5	
+783	Ku-9_all-1	Ku	9_all	p ó/o a m	kuru1309	kyr	98	ALL	009-8	
+784	Ma-100_name-1	Ma	100_name	e t	maku1278	mpu	1405	NAME	100-1	
+785	Ma-10_many-1	Ma	10_many	k a l e j õ	maku1278	mpu	1198	MANY	010-11	
+786	Ma-11_one-1	Ma	11_one	e ɾ e k ɨ t	maku1278	mpu	1493	ONE	011-2	
+787	Ma-12_two-1	Ma	12_two	e ɾ e ʔ a	maku1278	mpu	1498	TWO	012-6	
+788	Ma-13_big-1	Ma	13_big	tʃ a t o	maku1278	mpu	1202	BIG	013-1	
+789	Ma-14_long-1	Ma	14_long	k ã ɾ ã ŋ	maku1278	mpu	1203	LONG	014-9	
+790	Ma-15_small-1	Ma	15_small	ʔ ɨ ɾ u i + iː	maku1278	mpu	1246	SMALL	015-8	
+791	Ma-16_woman-1	Ma	16_woman	a ɾ ã p ĩ j ã	maku1278	mpu	962	WOMAN	016-2	
+792	Ma-17_man-1	Ma	17_man	n ã k o β o t	maku1278	mpu	1554	MAN	017-2	
+793	Ma-17_man-2	Ma	17_man	i h a j n i a	maku1278	mpu	1554	MAN	017-7	
+794	Ma-18_person-1	Ma	18_person	k i t e ʔ	maku1278	mpu	683	PERSON	018-3	
+795	Ma-19_fish-1	Ma	19_fish	p o t k a p	maku1278	mpu	227	FISH	019-1	
+796	Ma-19_fish-2	Ma	19_fish	p i ɾ a	maku1278	mpu	227	FISH	019-2	
+797	Ma-1_i-1	Ma	1_i	õ n	maku1278	mpu	1209	I	001-1	
+798	Ma-20_bird-1	Ma	20_bird	m õ k i ɾ a	maku1278	mpu	937	BIRD	020-1	
+799	Ma-21_dog-1	Ma	21_dog	a m ẽ k o	maku1278	mpu	2009	DOG	021-1	
+800	Ma-21_dog-2	Ma	21_dog	a w a ɾ e	maku1278	mpu	2009	DOG	021-4	
+801	Ma-22_louse-1	Ma	22_louse	ŋ g ɨ p	maku1278	mpu	1392	LOUSE	022-1	
+802	Ma-23_tree-1	Ma	23_tree	k ɨ p	maku1278	mpu	906	TREE	023-1	
+803	Ma-24_seed-1	Ma	24_seed	tʃ u p a	maku1278	mpu	714	SEED	024-6	
+804	Ma-25_leaf-1	Ma	25_leaf	tʃ eː p	maku1278	mpu	628	LEAF	025-1	
+805	Ma-26_root-1	Ma	26_root	h a p o	maku1278	mpu	670	ROOT	026-1	
+806	Ma-26_root-2	Ma	26_root	s a p o	maku1278	mpu	670	ROOT	026-1	
+807	Ma-26_root-3	Ma	26_root	ẽ m b i a ʔ	maku1278	mpu	670	ROOT	026-2	
+808	Ma-27_bark-1	Ma	27_bark	a ʔ p eː	maku1278	mpu	1204	BARK	027-1	
+809	Ma-28_skin-1	Ma	28_skin	p e	maku1278	mpu	763	SKIN	028-1	
+810	Ma-29_fleshmeat-1	Ma	29_fleshmeat	ɲ ĩː ɾ a ʔ	maku1278	mpu	2615	FLESH OR MEAT	029-1	
+811	Ma-2_you-1	Ma	2_you	ẽ n	maku1278	mpu	1215	THOU	002-1	
+812	Ma-30_blood-1	Ma	30_blood	tʃ e ɨ	maku1278	mpu	946	BLOOD	030-2	
+813	Ma-31_bone-1	Ma	31_bone	tʃ e β a oː	maku1278	mpu	1394	BONE	031-2	
+814	Ma-32_egg-1	Ma	32_egg	tʃ o p i + a	maku1278	mpu	744	EGG	032-1	
+815	Ma-33_greasefat-1	Ma	33_greasefat	i k a p	maku1278	mpu	323	FAT (ORGANIC SUBSTANCE)	033-1	
+816	Ma-33_greasefat-2	Ma	33_greasefat	w e ɾ e p	maku1278	mpu	323	FAT (ORGANIC SUBSTANCE)	033-3	
+817	Ma-34_horn-1	Ma	34_horn	a p i k ɨ b	maku1278	mpu	1393	HORN (ANATOMY)	034-4	
+818	Ma-35_tail-1	Ma	35_tail	ɲ ẽ n tʃ o a j	maku1278	mpu	1220	TAIL	035-1	
+819	Ma-36_feather-1	Ma	36_feather	tʃ aː	maku1278	mpu	1201	FEATHER	036-1	
+820	Ma-37_hair-1	Ma	37_hair	a h a p	maku1278	mpu	1040	HAIR	037-1	
+821	Ma-37_hair-2	Ma	37_hair	a ʔ t ɨː m	maku1278	mpu	1040	HAIR	037-2	
+822	Ma-38_head-1	Ma	38_head	a k a ɾ e	maku1278	mpu	1256	HEAD	038-1	
+823	Ma-39_ear-1	Ma	39_ear	a ʔ p i tʃ eː p	maku1278	mpu	1247	EAR	039-2	
+824	Ma-3_weinclusive-1	Ma	3_weinclusive	k i t ẽ j ã	maku1278	mpu	1131	WE (INCLUSIVE)	003-9	
+825	Ma-40_eye-1	Ma	40_eye	tʃ i tʃ a	maku1278	mpu	1248	EYE	040-1	
+826	Ma-41_nose-1	Ma	41_nose	ɲ ã p i ʔ	maku1278	mpu	1221	NOSE	041-1	
+827	Ma-42_mouth-1	Ma	42_mouth	β u ɾ a ʔ p i	maku1278	mpu	674	MOUTH	042-1	
+828	Ma-43_tooth-1	Ma	43_tooth	ɲ ã ɲ	maku1278	mpu	1380	TOOTH	043-1	
+829	Ma-44_tongue-1	Ma	44_tongue	ʔ õ m tʃ ẽ m	maku1278	mpu	1205	TONGUE	044-1	
+830	Ma-45_claw-1	Ma	45_claw	m b o a p e	maku1278	mpu	72	CLAW	045-1	
+831	Ma-46_foot-1	Ma	46_foot	m b i	maku1278	mpu	1301	FOOT	046-1	
+832	Ma-47_knee-1	Ma	47_knee	k a p ĩ ã	maku1278	mpu	1371	KNEE	047-1	
+833	Ma-48_hand-1	Ma	48_hand	m b o	maku1278	mpu	1277	HAND	048-1	
+834	Ma-49_belly-1	Ma	49_belly	ɲ e ɨ p e	maku1278	mpu	1251	BELLY	049-3	
+835	Ma-49_belly-2	Ma	49_belly	a h u n h ɨ ʔ a	maku1278	mpu	1251	BELLY	049-10	
+836	Ma-4_this-1	Ma	4_this	tʃ ẽ ɾ õ	maku1278	mpu	1214	THIS	004-7	
+837	Ma-50_neck-1	Ma	50_neck	β o t k ɨ p	maku1278	mpu	1333	NECK	050-3	
+838	Ma-51_breast-1	Ma	51_breast	ŋ ẽ m	maku1278	mpu	1402	BREAST	051-1	
+839	Ma-52_heartguts-1	Ma	52_heartguts	p ɨː t o	maku1278	mpu	2436	GUTS OR HEART	052-6	
+840	Ma-53_liver-1	Ma	53_liver	p i + a ʔ	maku1278	mpu	1224	LIVER	053-1	
+841	Ma-54_drink-1	Ma	54_drink	k a ʔ	maku1278	mpu	1401	DRINK	054-1	
+842	Ma-55_eat-1	Ma	55_eat	k a	maku1278	mpu	1336	EAT	055-1	
+843	Ma-56_bite-1	Ma	56_bite	m b o ɾ o ŋ g a	maku1278	mpu	1403	BITE	056-3	
+844	Ma-57_see-1	Ma	57_see	t o + a	maku1278	mpu	1409	SEE	057-1	
+845	Ma-58_hear-1	Ma	58_hear	k i β a ʔ t o a	maku1278	mpu	1408	HEAR	058-3	
+846	Ma-59_know-1	Ma	59_know	k ɨ β a t o a	maku1278	mpu	3626	KNOW	059-7	
+847	Ma-5_that-1	Ma	5_that	m ẽ ɾ õ	maku1278	mpu	78	THAT	005-3	
+848	Ma-60_sleep-1	Ma	60_sleep	e ɾ a	maku1278	mpu	1585	SLEEP	060-1	
+849	Ma-61_die-1	Ma	61_die	p ɨː t o ɾ o ɾ a	maku1278	mpu	1494	DIE	061-6	
+850	Ma-62_kill-1	Ma	62_kill	p o ŋ g a	maku1278	mpu	1417	KILL	062-6	
+851	Ma-65_walk-1	Ma	65_walk	β a t e ɾ a	maku1278	mpu	1443	WALK	065-2	
+852	Ma-65_walk-2	Ma	65_walk	o β i t a k w a	maku1278	mpu	1443	WALK	065-8	
+853	Ma-66_come-1	Ma	66_come	a ɾ i o t	maku1278	mpu	1446	COME	066-1	
+854	Ma-66_come-2	Ma	66_come	β iː a	maku1278	mpu	1446	COME	066-2	
+855	Ma-67_liedown-1	Ma	67_liedown	p ɨː t	maku1278	mpu	1411	LIE (REST)	067-4	
+856	Ma-68_sit-1	Ma	68_sit	β o t n ẽ	maku1278	mpu	1416	SIT	068-5	
+857	Ma-69_stand-1	Ma	69_stand	p iː tʃ e	maku1278	mpu	1442	STAND	069-10	
+858	Ma-6_what-1	Ma	6_what	a l i k ʔ o p	maku1278	mpu	1236	WHAT	006-6	
+859	Ma-70_give-1	Ma	70_give	ɲ õ ã	maku1278	mpu	1447	GIVE	070-1	
+860	Ma-71_say-1	Ma	71_say	n ã	maku1278	mpu	1458	SAY	071-2	
+861	Ma-72_sun-1	Ma	72_sun	ŋ g e a t	maku1278	mpu	1343	SUN	072-1	
+862	Ma-73_moon-1	Ma	73_moon	ʔ u l iː	maku1278	mpu	1313	MOON	073-5	
+863	Ma-74_star-1	Ma	74_star	w a ɾ o w a ɾ o	maku1278	mpu	1430	STAR	074-2	
+864	Ma-75_water-1	Ma	75_water	ʔ ɨ	maku1278	mpu	948	WATER	075-1	
+865	Ma-76_rain-1	Ma	76_rain	ʔ ɨ	maku1278	mpu	2108	RAINING OR RAIN	076-3	
+866	Ma-77_stone-1	Ma	77_stone	β a + i	maku1278	mpu	857	STONE	077-2	
+867	Ma-78_sand-1	Ma	78_sand	k ɨ dʒ i	maku1278	mpu	671	SAND	078-5	
+868	Ma-79_earth-1	Ma	79_earth	k ɨ j	maku1278	mpu	1228	EARTH (SOIL)	079-1	
+869	Ma-7_who-1	Ma	7_who	a l i k o p	maku1278	mpu	1235	WHO	007-4	
+870	Ma-80_cloud-1	Ma	80_cloud	ɨ p ɨ g e t	maku1278	mpu	1489	CLOUD	080-9	
+871	Ma-81_smoke-1	Ma	81_smoke	ɲ ĩ ŋ g ẽ n	maku1278	mpu	778	SMOKE (EXHAUST)	081-1	
+872	Ma-82_fire-1	Ma	82_fire	u j tʃ a t	maku1278	mpu	221	FIRE	082-1	
+873	Ma-83_ash-1	Ma	83_ash	k ĩ j ẽː n	maku1278	mpu	646	ASH	083-1	
+874	Ma-84_burnintr-1	Ma	84_burnintr	e k a ɾ ĩ n ã	maku1278	mpu	1428	BURNING	084-6	
+875	Ma-85_path-1	Ma	85_path	p eː ʔ	maku1278	mpu	2252	PATH	085-1	
+876	Ma-86_mountain-1	Ma	86_mountain	n d o + a ʔ	maku1278	mpu	639	MOUNTAIN	086-1	
+877	Ma-87_red-1	Ma	87_red	β ɨ ɾ ɨ p	maku1278	mpu	156	RED	087-5	
+878	Ma-88_green-1	Ma	88_green	ɲ ẽ ɾ ẽ m	maku1278	mpu	1425	GREEN	088-5	
+879	Ma-89_yellow-1	Ma	89_yellow	p a ɾ a j	maku1278	mpu	1424	YELLOW	089-11	
+880	Ma-8_not-1	Ma	8_not	p iː t	maku1278	mpu	1240	NOT	008-7	
+881	Ma-90_white-1	Ma	90_white	ŋ g a p	maku1278	mpu	1335	WHITE	090-3	
+882	Ma-91_black-1	Ma	91_black	k õ m	maku1278	mpu	163	BLACK	091-9	
+883	Ma-92_night-1	Ma	92_night	ŋ g i t a ʔ	maku1278	mpu	1233	NIGHT	092-3	
+884	Ma-93_hot-1	Ma	93_hot	k ã j	maku1278	mpu	1286	HOT	093-2	
+885	Ma-95_full-1	Ma	95_full	t õ m	maku1278	mpu	1429	FULL	095-2	
+886	Ma-96_good-1	Ma	96_good	p o a t	maku1278	mpu	1035	GOOD	096-1	
+887	Ma-98_round-1	Ma	98_round	a β ɨ β ɨ β a	maku1278	mpu	1395	ROUND	098-6	
+888	Ma-99_dry-1	Ma	99_dry	m u ŋ a ŋ	maku1278	mpu	1398	DRY	099-1	
+889	Ma-99_dry-2	Ma	99_dry	β o k	maku1278	mpu	1398	DRY	099-6	
+890	Ma-9_all-1	Ma	9_all	β iː b m õ	maku1278	mpu	98	ALL	009-10	
+891	Me-100_name-1	Me	100_name	e t	saki1248	skf	1405	NAME	100-1	
+892	Me-10_many-1	Me	10_many	o b aː t	saki1248	skf	1198	MANY	010-13	
+893	Me-11_one-1	Me	11_one	k i ts e	saki1248	skf	1493	ONE	011-2	
+894	Me-11_one-2	Me	11_one	k i e k a	saki1248	skf	1493	ONE	011-2	
+895	Me-12_two-1	Me	12_two	t ɨ ɾ ɨ + ẽ p	saki1248	skf	1498	TWO	012-2	
+896	Me-13_big-1	Me	13_big	a ts o	saki1248	skf	1202	BIG	013-1	
+897	Me-14_long-1	Me	14_long	p e ɾ e k	saki1248	skf	1203	LONG	014-3	
+898	Me-15_small-1	Me	15_small	s ĩː t	saki1248	skf	1246	SMALL	015-1	
+899	Me-16_woman-1	Me	16_woman	a ɾ a m i ɾ a	saki1248	skf	962	WOMAN	016-2	
+900	Me-17_man-1	Me	17_man	n a k o p	saki1248	skf	1554	MAN	017-2	
+901	Me-18_person-1	Me	18_person	a o s e	saki1248	skf	683	PERSON	018-1	
+902	Me-19_fish-1	Me	19_fish	k ɨ j p i t	saki1248	skf	227	FISH	019-2	
+903	Me-1_i-1	Me	1_i	õ n	saki1248	skf	1209	I	001-1	
+904	Me-20_bird-1	Me	20_bird	õ k ɨ ɾ a	saki1248	skf	937	BIRD	020-1	
+905	Me-21_dog-1	Me	21_dog	a m e k o	saki1248	skf	2009	DOG	021-1	
+906	Me-22_louse-1	Me	22_louse	k ɨ p	saki1248	skf	1392	LOUSE	022-1	
+907	Me-23_tree-1	Me	23_tree	k ɨ p k ɨ b a	saki1248	skf	906	TREE	023-1	
+908	Me-24_seed-1	Me	24_seed	k i t	saki1248	skf	714	SEED	024-3	
+909	Me-25_leaf-1	Me	25_leaf	e p	saki1248	skf	628	LEAF	025-1	
+910	Me-26_root-1	Me	26_root	k ɨ p k i b i s a	saki1248	skf	670	ROOT	026-2	
+911	Me-27_bark-1	Me	27_bark	s a p e	saki1248	skf	1204	BARK	027-1	
+912	Me-28_skin-1	Me	28_skin	i p e	saki1248	skf	763	SKIN	028-1	
+913	Me-29_fleshmeat-1	Me	29_fleshmeat	k w e + j ẽ ɾ ã	saki1248	skf	2615	FLESH OR MEAT	029-1	
+914	Me-2_you-1	Me	2_you	ẽ t	saki1248	skf	1215	THOU	002-1	
+915	Me-30_blood-1	Me	30_blood	a + ɨ	saki1248	skf	946	BLOOD	030-2	
+916	Me-31_bone-1	Me	31_bone	o aː k o	saki1248	skf	1394	BONE	031-1	
+917	Me-32_egg-1	Me	32_egg	o p i ts a	saki1248	skf	744	EGG	032-1	
+918	Me-33_greasefat-1	Me	33_greasefat	j a p + s e s e	saki1248	skf	323	FAT (ORGANIC SUBSTANCE)	033-1	
+919	Me-34_horn-1	Me	34_horn	s a k o s a	saki1248	skf	1393	HORN (ANATOMY)	034-1	
+920	Me-35_tail-1	Me	35_tail	s a p i ɾ i p	saki1248	skf	1220	TAIL	035-3	
+921	Me-36_feather-1	Me	36_feather	t a p	saki1248	skf	1201	FEATHER	036-1	
+922	Me-37_hair-1	Me	37_hair	t a p	saki1248	skf	1040	HAIR	037-1	
+923	Me-38_head-1	Me	38_head	s a n ɨ p	saki1248	skf	1256	HEAD	038-4	
+924	Me-39_ear-1	Me	39_ear	o a p i t e p	saki1248	skf	1247	EAR	039-2	
+925	Me-3_weinclusive-1	Me	3_weinclusive	k i s e j a t	saki1248	skf	1131	WE (INCLUSIVE)	003-3	
+926	Me-40_eye-1	Me	40_eye	o e b a o p a p	saki1248	skf	1248	EYE	040-2	
+927	Me-41_nose-1	Me	41_nose	o ã p i s a	saki1248	skf	1221	NOSE	041-1	
+928	Me-42_mouth-1	Me	42_mouth	ĩ j ẽ	saki1248	skf	674	MOUTH	042-3	
+929	Me-42_mouth-2	Me	42_mouth	ĩ ɲ ẽ	saki1248	skf	674	MOUTH	042-3	
+930	Me-43_tooth-1	Me	43_tooth	o j ã j	saki1248	skf	1380	TOOTH	043-1	
+931	Me-43_tooth-2	Me	43_tooth	o ɲ ã j	saki1248	skf	1380	TOOTH	043-1	
+932	Me-44_tongue-1	Me	44_tongue	k i õ	saki1248	skf	1205	TONGUE	044-1	
+933	Me-45_claw-1	Me	45_claw	p o + a p e	saki1248	skf	72	CLAW	045-1	
+934	Me-46_foot-1	Me	46_foot	o p i ts o	saki1248	skf	1301	FOOT	046-1	
+935	Me-47_knee-1	Me	47_knee	o e s e g a p	saki1248	skf	1371	KNEE	047-6	
+936	Me-48_hand-1	Me	48_hand	o p o	saki1248	skf	1277	HAND	048-1	
+937	Me-49_belly-1	Me	49_belly	e + ɨ t	saki1248	skf	1251	BELLY	049-4	
+938	Me-4_this-1	Me	4_this	o p	saki1248	skf	1214	THIS	004-8	
+939	Me-50_neck-1	Me	50_neck	k o t k ɨ p	saki1248	skf	1333	NECK	050-3	
+940	Me-51_breast-1	Me	51_breast	i k ẽ p	saki1248	skf	1402	BREAST	051-1	
+941	Me-52_heartguts-1	Me	52_heartguts	o a n o a	saki1248	skf	2436	GUTS OR HEART	052-1	
+942	Me-53_liver-1	Me	53_liver	o p i s a	saki1248	skf	1224	LIVER	053-1	
+943	Me-54_drink-1	Me	54_drink	k aː	saki1248	skf	1401	DRINK	054-1	
+944	Me-55_eat-1	Me	55_eat	k aː	saki1248	skf	1336	EAT	055-1	
+945	Me-56_bite-1	Me	56_bite	i s o g o a	saki1248	skf	1403	BITE	056-1	
+946	Me-57_see-1	Me	57_see	i s o a	saki1248	skf	1409	SEE	057-1	
+947	Me-58_hear-1	Me	58_hear	i k w a k ts o a	saki1248	skf	1408	HEAR	058-3	
+948	Me-59_know-1	Me	59_know	s o a p + s a m e k	saki1248	skf	3626	KNOW	059-4	
+949	Me-5_that-1	Me	5_that	e k e	saki1248	skf	78	THAT	005-10	
+950	Me-60_sleep-1	Me	60_sleep	s e e ɾ a	saki1248	skf	1585	SLEEP	060-1	
+951	Me-61_die-1	Me	61_die	s e p o ɾ o k a	saki1248	skf	1494	DIE	061-2	
+952	Me-62_kill-1	Me	62_kill	s õ p aː	saki1248	skf	1417	KILL	062-2	
+953	Me-63_swim-1	Me	63_swim	s e k i a	saki1248	skf	1439	SWIM	063-1	
+954	Me-65_walk-1	Me	65_walk	e k ɨ e t k i a	saki1248	skf	1443	WALK	065-4	
+955	Me-66_come-1	Me	66_come	s e i a t	saki1248	skf	1446	COME	066-2	
+956	Me-67_liedown-1	Me	67_liedown	p ɨ k aː t	saki1248	skf	1411	LIE (REST)	067-4	
+957	Me-68_sit-1	Me	68_sit	s e k õ j ãː	saki1248	skf	1416	SIT	068-3	
+958	Me-69_stand-1	Me	69_stand	p o g e t a	saki1248	skf	1442	STAND	069-13	
+959	Me-6_what-1	Me	6_what	a ɾ o p	saki1248	skf	1236	WHAT	006-4	
+960	Me-70_give-1	Me	70_give	i õ a	saki1248	skf	1447	GIVE	070-1	
+961	Me-71_say-1	Me	71_say	k e	saki1248	skf	1458	SAY	071-1	
+962	Me-72_sun-1	Me	72_sun	k i a k o p	saki1248	skf	1343	SUN	072-2	
+963	Me-73_moon-1	Me	73_moon	p a k o ɾ i	saki1248	skf	1313	MOON	073-2	
+964	Me-74_star-1	Me	74_star	p a ɾ o b a ɾ o	saki1248	skf	1430	STAR	074-2	
+965	Me-75_water-1	Me	75_water	ɨ k ɨ	saki1248	skf	948	WATER	075-1	
+966	Me-76_rain-1	Me	76_rain	a s o a p	saki1248	skf	2108	RAINING OR RAIN	076-5	
+967	Me-77_stone-1	Me	77_stone	w a ʔ i	saki1248	skf	857	STONE	077-2	
+968	Me-78_sand-1	Me	78_sand	t o p i s i ɾ i k	saki1248	skf	671	SAND	078-9	
+969	Me-79_earth-1	Me	79_earth	k ɨ m a k ĩ j	saki1248	skf	1228	EARTH (SOIL)	079-1	
+970	Me-7_who-1	Me	7_who	a ɾ o b ẽ p	saki1248	skf	1235	WHO	007-4	
+971	Me-80_cloud-1	Me	80_cloud	k w a j p e + n iː k	saki1248	skf	1489	CLOUD	080-1	
+972	Me-81_smoke-1	Me	81_smoke	o t a t + n iː k	saki1248	skf	778	SMOKE (EXHAUST)	081-1	
+973	Me-82_fire-1	Me	82_fire	o t a t + p o k	saki1248	skf	221	FIRE	082-1	
+974	Me-83_ash-1	Me	83_ash	j ẽː t	saki1248	skf	646	ASH	083-1	
+975	Me-84_burnintr-1	Me	84_burnintr	k o e k a	saki1248	skf	1428	BURNING	084-7	
+976	Me-85_path-1	Me	85_path	p e ʔ	saki1248	skf	2252	PATH	085-1	
+977	Me-85_path-2	Me	85_path	aː p e ʔ	saki1248	skf	2252	PATH	085-1	
+978	Me-86_mountain-1	Me	86_mountain	s oː	saki1248	skf	639	MOUNTAIN	086-1	
+979	Me-87_red-1	Me	87_red	i k o p	saki1248	skf	156	RED	087-2	
+980	Me-88_green-1	Me	88_green	s a ʔ ɨ p	saki1248	skf	1425	GREEN	088-10	
+981	Me-89_yellow-1	Me	89_yellow	i s a ɾ o	saki1248	skf	1424	YELLOW	089-3	
+982	Me-8_not-1	Me	8_not	n o p	saki1248	skf	1240	NOT	008-1	
+983	Me-90_white-1	Me	90_white	i p aː k	saki1248	skf	1335	WHITE	090-4	
+984	Me-91_black-1	Me	91_black	i p ɨː k	saki1248	skf	163	BLACK	091-3	
+985	Me-92_night-1	Me	92_night	m a s o p i	saki1248	skf	1233	NIGHT	092-4	
+986	Me-93_hot-1	Me	93_hot	a k o p	saki1248	skf	1286	HOT	093-1	
+987	Me-94_cold-1	Me	94_cold	p i ts iː k	saki1248	skf	1287	COLD	094-1	
+988	Me-95_full-1	Me	95_full	i o t	saki1248	skf	1429	FULL	095-4	
+989	Me-95_full-2	Me	95_full	i j o t	saki1248	skf	1429	FULL	095-4	
+990	Me-96_good-1	Me	96_good	s a m e	saki1248	skf	1035	GOOD	096-3	
+991	Me-99_dry-1	Me	99_dry	i p aː g a	saki1248	skf	1398	DRY	099-2	
+992	Me-9_all-1	Me	9_all	p a e s eː t	saki1248	skf	98	ALL	009-12	
+993	Mu-100_name-1	Mu	100_name	p ə t é/e t	mund1330	myu	1405	NAME	100-1	
+994	Mu-100_name-2	Mu	100_name	b ə t é/e t	mund1330	myu	1405	NAME	100-1	
+995	Mu-10_many-1	Mu	10_many	á/a d é/e	mund1330	myu	1198	MANY	010-8	
+996	Mu-11_one-1	Mu	11_one	p ə̃́/ə̃ ŋ	mund1330	myu	1493	ONE	011-9	
+997	Mu-12_two-1	Mu	12_two	ʃ é/e p ʃ é/e p	mund1330	myu	1498	TWO	012-4	
+998	Mu-13_big-1	Mu	13_big	b o ŋ	mund1330	myu	1202	BIG	013-6	
+999	Mu-14_long-1	Mu	14_long	p é/e ɾ é/e n	mund1330	myu	1203	LONG	014-3	
+1000	Mu-14_long-2	Mu	14_long	b é/e ɾ é/e n	mund1330	myu	1203	LONG	014-3	
+1001	Mu-15_small-1	Mu	15_small	p ĩ́/ĩ t m a	mund1330	myu	1246	SMALL	015-2	
+1002	Mu-16_woman-1	Mu	16_woman	a j á/a tʃ á/a t	mund1330	myu	962	WOMAN	016-6	
+1003	Mu-17_man-1	Mu	17_man	a ŋ ó/o k á/a t k á/a t	mund1330	myu	1554	MAN	017-8	
+1004	Mu-19_fish-1	Mu	19_fish	a ʃ i m á/a	mund1330	myu	227	FISH	019-3	
+1005	Mu-1_i-1	Mu	1_i	õ n	mund1330	myu	1209	I	001-1	
+1006	Mu-20_bird-1	Mu	20_bird	w á/a s ə̃	mund1330	myu	937	BIRD	020-3	
+1007	Mu-21_dog-1	Mu	21_dog	a k í/i ɾ i tʃ é/e	mund1330	myu	2009	DOG	021-7	
+1008	Mu-22_louse-1	Mu	22_louse	k í/i p	mund1330	myu	1392	LOUSE	022-1	
+1009	Mu-23_tree-1	Mu	23_tree	ʔ i p	mund1330	myu	906	TREE	023-1	
+1010	Mu-24_seed-1	Mu	24_seed	t a	mund1330	myu	714	SEED	024-4	
+1011	Mu-24_seed-2	Mu	24_seed	d a	mund1330	myu	714	SEED	024-4	
+1012	Mu-25_leaf-1	Mu	25_leaf	t ə p	mund1330	myu	628	LEAF	025-1	
+1013	Mu-25_leaf-2	Mu	25_leaf	d ə p	mund1330	myu	628	LEAF	025-1	
+1014	Mu-26_root-1	Mu	26_root	t a̤ b ə́/ə	mund1330	myu	670	ROOT	026-1	
+1015	Mu-26_root-2	Mu	26_root	n a̤ b ə́/ə	mund1330	myu	670	ROOT	026-1	
+1016	Mu-27_bark-1	Mu	27_bark	t a í/i ʃ e é/e	mund1330	myu	1204	BARK	027-2	
+1017	Mu-28_skin-1	Mu	28_skin	ʃ e é/e	mund1330	myu	763	SKIN	028-3	
+1018	Mu-29_fleshmeat-1	Mu	29_fleshmeat	ẽ n	mund1330	myu	2615	FLESH OR MEAT	029-1	
+1019	Mu-2_you-1	Mu	2_you	ẽ́/ẽ n	mund1330	myu	1215	THOU	002-1	
+1020	Mu-30_blood-1	Mu	30_blood	t o j	mund1330	myu	946	BLOOD	030-1	
+1021	Mu-30_blood-2	Mu	30_blood	d o j	mund1330	myu	946	BLOOD	030-1	
+1022	Mu-31_bone-1	Mu	31_bone	t a ó/o	mund1330	myu	1394	BONE	031-2	
+1023	Mu-31_bone-2	Mu	31_bone	d a ó/o	mund1330	myu	1394	BONE	031-2	
+1024	Mu-32_egg-1	Mu	32_egg	t o p s a̤	mund1330	myu	744	EGG	032-1	
+1025	Mu-32_egg-2	Mu	32_egg	d o p s a̤	mund1330	myu	744	EGG	032-1	
+1026	Mu-33_greasefat-1	Mu	33_greasefat	ʃ e p	mund1330	myu	323	FAT (ORGANIC SUBSTANCE)	033-1	
+1027	Mu-34_horn-1	Mu	34_horn	a k a n a̤ s ə̃́/ə̃	mund1330	myu	1393	HORN (ANATOMY)	034-1	
+1028	Mu-35_tail-1	Mu	35_tail	t o a̤ j b ə́/ə	mund1330	myu	1220	TAIL	035-1	
+1029	Mu-35_tail-2	Mu	35_tail	d o a̤ j b ə́/ə	mund1330	myu	1220	TAIL	035-1	
+1030	Mu-36_feather-1	Mu	36_feather	t a p	mund1330	myu	1201	FEATHER	036-1	
+1031	Mu-36_feather-2	Mu	36_feather	d a p	mund1330	myu	1201	FEATHER	036-1	
+1032	Mu-37_hair-1	Mu	37_hair	t a p	mund1330	myu	1040	HAIR	037-1	
+1033	Mu-37_hair-2	Mu	37_hair	d a p	mund1330	myu	1040	HAIR	037-1	
+1034	Mu-38_head-1	Mu	38_head	a ʔ á/a	mund1330	myu	1256	HEAD	038-3	
+1035	Mu-39_ear-1	Mu	39_ear	n ə̤ j b ə́/ə	mund1330	myu	1247	EAR	039-1	
+1036	Mu-3_weinclusive-1	Mu	3_weinclusive	w ə̤ j dʒ ə́/ə	mund1330	myu	1131	WE (INCLUSIVE)	003-4	
+1037	Mu-40_eye-1	Mu	40_eye	e t á/a	mund1330	myu	1248	EYE	040-1	
+1038	Mu-41_nose-1	Mu	41_nose	t a̤ b ə́/ə	mund1330	myu	1221	NOSE	041-1	
+1039	Mu-41_nose-2	Mu	41_nose	n a̤ b ə́/ə	mund1330	myu	1221	NOSE	041-1	
+1040	Mu-42_mouth-1	Mu	42_mouth	p i	mund1330	myu	674	MOUTH	042-4	
+1041	Mu-42_mouth-2	Mu	42_mouth	b i	mund1330	myu	674	MOUTH	042-4	
+1042	Mu-43_tooth-1	Mu	43_tooth	t ə̃ j	mund1330	myu	1380	TOOTH	043-1	
+1043	Mu-43_tooth-2	Mu	43_tooth	n ə̃ j	mund1330	myu	1380	TOOTH	043-1	
+1044	Mu-44_tongue-1	Mu	44_tongue	k õ	mund1330	myu	1205	TONGUE	044-1	
+1045	Mu-45_claw-1	Mu	45_claw	n ə̃	mund1330	myu	72	CLAW	045-4	
+1046	Mu-46_foot-1	Mu	46_foot	i	mund1330	myu	1301	FOOT	046-1	
+1047	Mu-47_knee-1	Mu	47_knee	ə̃ ŋ ʔ á/a	mund1330	myu	1371	KNEE	047-4	
+1048	Mu-48_hand-1	Mu	48_hand	i b ə́/ə	mund1330	myu	1277	HAND	048-2	
+1049	Mu-49_belly-1	Mu	49_belly	ʔ ə k	mund1330	myu	1251	BELLY	049-1	
+1050	Mu-49_belly-2	Mu	49_belly	m ã ĩ n	mund1330	myu	1251	BELLY	049-3	
+1051	Mu-4_this-1	Mu	4_this	i dʒ a	mund1330	myu	1214	THIS	004-3	
+1052	Mu-50_neck-1	Mu	50_neck	a ŋ ó/o b ə	mund1330	myu	1333	NECK	050-4	
+1053	Mu-50_neck-2	Mu	50_neck	j a̤ ŋ ó/o b ə	mund1330	myu	1333	NECK	050-4	
+1054	Mu-51_breast-1	Mu	51_breast	i k ə̃ m	mund1330	myu	1402	BREAST	051-1	
+1055	Mu-52_heartguts-1	Mu	52_heartguts	a ʔ õ ʃ a b i d a	mund1330	myu	2436	GUTS OR HEART	052-4	
+1056	Mu-53_liver-1	Mu	53_liver	j o p s a̤	mund1330	myu	1224	LIVER	053-1	
+1057	Mu-54_drink-1	Mu	54_drink	t i k õ n	mund1330	myu	1401	DRINK	054-4	
+1058	Mu-55_eat-1	Mu	55_eat	ʔ o	mund1330	myu	1336	EAT	055-1	
+1059	Mu-55_eat-2	Mu	55_eat	k õ n	mund1330	myu	1336	EAT	055-1	
+1060	Mu-56_bite-1	Mu	56_bite	á/a	mund1330	myu	1403	BITE	056-4	
+1061	Mu-57_see-1	Mu	57_see	tʃ o	mund1330	myu	1409	SEE	057-1	
+1062	Mu-58_hear-1	Mu	58_hear	a ʔ ĩ́/ĩ dʒ o	mund1330	myu	1408	HEAR	058-4	
+1063	Mu-59_know-1	Mu	59_know	t a̤ j b í/i t	mund1330	myu	3626	KNOW	059-3	
+1064	Mu-5_that-1	Mu	5_that	i b ó/o	mund1330	myu	78	THAT	005-9	
+1065	Mu-60_sleep-1	Mu	60_sleep	ʃ é/e t	mund1330	myu	1585	SLEEP	060-1	
+1066	Mu-61_die-1	Mu	61_die	é/e ʔ ə̃	mund1330	myu	1494	DIE	061-4	
+1067	Mu-62_kill-1	Mu	62_kill	a ó/o k a	mund1330	myu	1417	KILL	062-1	
+1068	Mu-63_swim-1	Mu	63_swim	d o k	mund1330	myu	1439	SWIM	063-3	
+1069	Mu-64_fly-1	Mu	64_fly	p ə p ə p	mund1330	myu	1441	FLY (MOVE THROUGH AIR)	064-5	
+1070	Mu-65_walk-1	Mu	65_walk	w ə ɾ ə ɾ ə̃ ŋ	mund1330	myu	1443	WALK	065-2	
+1071	Mu-66_come-1	Mu	66_come	d o t	mund1330	myu	1446	COME	066-1	
+1072	Mu-66_come-2	Mu	66_come	dʒ o t	mund1330	myu	1446	COME	066-1	
+1073	Mu-66_come-3	Mu	66_come	s o t	mund1330	myu	1446	COME	066-1	
+1074	Mu-67_liedown-1	Mu	67_liedown	p o	mund1330	myu	1411	LIE (REST)	067-2	
+1075	Mu-68_sit-1	Mu	68_sit	a̤ b í/i k	mund1330	myu	1416	SIT	068-1	
+1076	Mu-69_stand-1	Mu	69_stand	tʃ ə ŋ ʔ í/i	mund1330	myu	1442	STAND	069-3	
+1077	Mu-6_what-1	Mu	6_what	a dʒ ó/o	mund1330	myu	1236	WHAT	006-4	
+1078	Mu-6_what-2	Mu	6_what	á/a dʒ o	mund1330	myu	1236	WHAT	006-4	
+1079	Mu-70_give-1	Mu	70_give	ə̃́/ə̃ m	mund1330	myu	1447	GIVE	070-1	
+1080	Mu-71_say-1	Mu	71_say	ʔ é/e	mund1330	myu	1458	SAY	071-1	
+1081	Mu-72_sun-1	Mu	72_sun	k á/a ʃ i	mund1330	myu	1343	SUN	072-1	
+1082	Mu-73_moon-1	Mu	73_moon	k á/a ʃ i	mund1330	myu	1313	MOON	073-4	
+1083	Mu-74_star-1	Mu	74_star	k a s o p t á/a	mund1330	myu	1430	STAR	074-7	
+1084	Mu-75_water-1	Mu	75_water	i d i̤ b í/i	mund1330	myu	948	WATER	075-1	
+1085	Mu-76_rain-1	Mu	76_rain	w ə̃́/ə̃ j b a á/a t	mund1330	myu	2108	RAINING OR RAIN	076-4	
+1086	Mu-77_stone-1	Mu	77_stone	w i t á/a ʔ a	mund1330	myu	857	STONE	077-1	
+1087	Mu-78_sand-1	Mu	78_sand	k a ʔ ó/o ɾ i ɾ i t	mund1330	myu	671	SAND	078-6	
+1088	Mu-79_earth-1	Mu	79_earth	i̤ p í/i	mund1330	myu	1228	EARTH (SOIL)	079-2	
+1089	Mu-7_who-1	Mu	7_who	a b ə́/ə	mund1330	myu	1235	WHO	007-1	
+1090	Mu-7_who-2	Mu	7_who	á/a b ə	mund1330	myu	1235	WHO	007-1	
+1091	Mu-80_cloud-1	Mu	80_cloud	k a b i k é/e ɾ é/e ɾ é/e	mund1330	myu	1489	CLOUD	080-1	
+1092	Mu-81_smoke-1	Mu	81_smoke	t i ŋ	mund1330	myu	778	SMOKE (EXHAUST)	081-1	
+1093	Mu-81_smoke-2	Mu	81_smoke	d i ŋ	mund1330	myu	778	SMOKE (EXHAUST)	081-1	
+1094	Mu-82_fire-1	Mu	82_fire	d a ʃ á/a	mund1330	myu	221	FIRE	082-1	
+1095	Mu-83_ash-1	Mu	83_ash	k a b a ó/o ɾ i t	mund1330	myu	646	ASH	083-5	
+1096	Mu-84_burnintr-1	Mu	84_burnintr	o í/i p i k	mund1330	myu	1428	BURNING	084-2	
+1097	Mu-84_burnintr-2	Mu	84_burnintr	p í/i k	mund1330	myu	1428	BURNING	084-2	
+1098	Mu-85_path-1	Mu	85_path	é/e	mund1330	myu	2252	PATH	085-1	
+1099	Mu-86_mountain-1	Mu	86_mountain	tʃ o ʔ á/a	mund1330	myu	639	MOUNTAIN	086-1	
+1100	Mu-87_red-1	Mu	87_red	p a k	mund1330	myu	156	RED	087-4	
+1101	Mu-88_green-1	Mu	88_green	ɾ ẽ m	mund1330	myu	1425	GREEN	088-3	
+1102	Mu-89_yellow-1	Mu	89_yellow	p e k	mund1330	myu	1424	YELLOW	089-2	
+1103	Mu-8_not-1	Mu	8_not	ŋ ə́/ə	mund1330	myu	1240	NOT	008-6	
+1104	Mu-90_white-1	Mu	90_white	ɾ ə t	mund1330	myu	1335	WHITE	090-5	
+1105	Mu-91_black-1	Mu	91_black	ó/o k	mund1330	myu	163	BLACK	091-7	
+1106	Mu-92_night-1	Mu	92_night	k a b i ó/o ŋ	mund1330	myu	1233	NIGHT	092-7	
+1107	Mu-93_hot-1	Mu	93_hot	t a ʃ í/i p	mund1330	myu	1286	HOT	093-1	
+1108	Mu-93_hot-2	Mu	93_hot	d a ʃ í/i p	mund1330	myu	1286	HOT	093-1	
+1109	Mu-94_cold-1	Mu	94_cold	i tʃ ə̤ k	mund1330	myu	1287	COLD	094-1	
+1110	Mu-94_cold-2	Mu	94_cold	k a dʒ ə̤ k	mund1330	myu	1287	COLD	094-1	
+1111	Mu-95_full-1	Mu	95_full	b e ŋ b e ŋ	mund1330	myu	1429	FULL	095-8	
+1112	Mu-96_good-1	Mu	96_good	ʃ í/i p a t	mund1330	myu	1035	GOOD	096-6	
+1113	Mu-98_round-1	Mu	98_round	ɾ o j ɾ ə̤ j	mund1330	myu	1395	ROUND	098-5	
+1114	Mu-99_dry-1	Mu	99_dry	k á/a ɾ á/a w	mund1330	myu	1398	DRY	099-4	
+1115	Mu-9_all-1	Mu	9_all	s ó/o a t	mund1330	myu	98	ALL	009-7	
+1116	Mw-100_name-1	Mw	100_name	h e t	sate1243	mav	1405	NAME	100-1	
+1117	Mw-100_name-2	Mw	100_name	s e t	sate1243	mav	1405	NAME	100-1	
+1118	Mw-10_many-1	Mw	10_many	k a h a t o	sate1243	mav	1198	MANY	010-7	
+1119	Mw-11_one-1	Mw	11_one	w ẽ t u p	sate1243	mav	1493	ONE	011-8	
+1120	Mw-12_two-1	Mw	12_two	t ɨː p ɨ	sate1243	mav	1498	TWO	012-2	
+1121	Mw-13_big-1	Mw	13_big	w a t o	sate1243	mav	1202	BIG	013-1	
+1122	Mw-14_long-1	Mw	14_long	ʔ ɨ w o p	sate1243	mav	1203	LONG	014-6	
+1123	Mw-15_small-1	Mw	15_small	k u ɾ iː n	sate1243	mav	1246	SMALL	015-7	
+1124	Mw-16_woman-1	Mw	16_woman	h a ɾ ɨ p o ɾ i a	sate1243	mav	962	WOMAN	016-5	
+1125	Mw-18_person-1	Mw	18_person	m iː t	sate1243	mav	683	PERSON	018-6	
+1126	Mw-1_i-1	Mw	1_i	u j t o	sate1243	mav	1209	I	001-2	
+1127	Mw-20_bird-1	Mw	20_bird	w e i t a	sate1243	mav	937	BIRD	020-5	
+1128	Mw-22_louse-1	Mw	22_louse	ŋ ɨ p	sate1243	mav	1392	LOUSE	022-1	
+1129	Mw-24_seed-1	Mw	24_seed	h a ʔ ɨ ŋ	sate1243	mav	714	SEED	024-1	
+1130	Mw-27_bark-1	Mw	27_bark	a ɾ j a ʔ ɨ p + ɨ p e	sate1243	mav	1204	BARK	027-1	
+1131	Mw-28_skin-1	Mw	28_skin	a i p e	sate1243	mav	763	SKIN	028-1	
+1132	Mw-29_fleshmeat-1	Mw	29_fleshmeat	i p u ʔ i	sate1243	mav	2615	FLESH OR MEAT	029-4	
+1133	Mw-2_you-1	Mw	2_you	e n	sate1243	mav	1215	THOU	002-1	
+1134	Mw-30_blood-1	Mw	30_blood	h uː	sate1243	mav	946	BLOOD	030-1	
+1135	Mw-30_blood-2	Mw	30_blood	s uː	sate1243	mav	946	BLOOD	030-1	
+1136	Mw-31_bone-1	Mw	31_bone	i k a ŋ	sate1243	mav	1394	BONE	031-1	
+1137	Mw-32_egg-1	Mw	32_egg	h u p i ʔ a	sate1243	mav	744	EGG	032-1	
+1138	Mw-34_horn-1	Mw	34_horn	i a u t	sate1243	mav	1393	HORN (ANATOMY)	034-2	
+1139	Mw-35_tail-1	Mw	35_tail	h o w a i p o	sate1243	mav	1220	TAIL	035-1	
+1140	Mw-36_feather-1	Mw	36_feather	i p o p e + s a p	sate1243	mav	1201	FEATHER	036-1	
+1141	Mw-38_head-1	Mw	38_head	a i ʔ a k a ŋ	sate1243	mav	1256	HEAD	038-1	
+1142	Mw-39_ear-1	Mw	39_ear	a i h a p e	sate1243	mav	1247	EAR	039-2	
+1143	Mw-3_weinclusive-1	Mw	3_weinclusive	a i t o	sate1243	mav	1131	WE (INCLUSIVE)	003-7	
+1144	Mw-40_eye-1	Mw	40_eye	a h e h a	sate1243	mav	1248	EYE	040-1	
+1145	Mw-41_nose-1	Mw	41_nose	a i ʔ ã p ɨ	sate1243	mav	1221	NOSE	041-1	
+1146	Mw-42_mouth-1	Mw	42_mouth	a i w ẽ	sate1243	mav	674	MOUTH	042-3	
+1147	Mw-43_tooth-1	Mw	43_tooth	a h ã i	sate1243	mav	1380	TOOTH	043-1	
+1148	Mw-44_tongue-1	Mw	44_tongue	a h e k ũ	sate1243	mav	1205	TONGUE	044-1	
+1149	Mw-45_claw-1	Mw	45_claw	a i p ũ ʔ ũ j ã	sate1243	mav	72	CLAW	045-3	
+1150	Mw-47_knee-1	Mw	47_knee	a i p ɨ + a k a ŋ a	sate1243	mav	1371	KNEE	047-1	
+1151	Mw-48_hand-1	Mw	48_hand	a i p o	sate1243	mav	1277	HAND	048-1	
+1152	Mw-4_this-1	Mw	4_this	m ẽ j ẽ	sate1243	mav	1214	THIS	004-2	
+1153	Mw-50_neck-1	Mw	50_neck	a h u ɾ ʔ ɨ p	sate1243	mav	1333	NECK	050-1	
+1154	Mw-51_breast-1	Mw	51_breast	a i p o t ɨ ʔ a	sate1243	mav	1402	BREAST	051-2	
+1155	Mw-52_heartguts-1	Mw	52_heartguts	a i w e ʔ ã	sate1243	mav	2436	GUTS OR HEART	052-2	
+1156	Mw-53_liver-1	Mw	53_liver	i p ɨ ʔ a	sate1243	mav	1224	LIVER	053-1	
+1157	Mw-54_drink-1	Mw	54_drink	a ɾ e ʔ ɨ ʔ u	sate1243	mav	1401	DRINK	054-1	
+1158	Mw-55_eat-1	Mw	55_eat	a t u ʔ u	sate1243	mav	1336	EAT	055-1	
+1159	Mw-56_bite-1	Mw	56_bite	a h e k a t u ʔ u	sate1243	mav	1403	BITE	056-1	
+1160	Mw-57_see-1	Mw	57_see	a ɾ a ʔ a k a s a	sate1243	mav	1409	SEE	057-4	
+1161	Mw-58_hear-1	Mw	58_hear	a ɾ e w a n ẽ t u p	sate1243	mav	1408	HEAR	058-1	
+1162	Mw-59_know-1	Mw	59_know	a t i k u a p	sate1243	mav	3626	KNOW	059-1	
+1163	Mw-5_that-1	Mw	5_that	m e i k o	sate1243	mav	78	THAT	005-8	
+1164	Mw-60_sleep-1	Mw	60_sleep	a ɾ e k e t	sate1243	mav	1585	SLEEP	060-1	
+1165	Mw-61_die-1	Mw	61_die	u i k u ʔ u ɾ o	sate1243	mav	1494	DIE	061-5	
+1166	Mw-62_kill-1	Mw	62_kill	a t i ʔ a u k a	sate1243	mav	1417	KILL	062-1	
+1167	Mw-63_swim-1	Mw	63_swim	a ɾ e ʔ ɨ h a	sate1243	mav	1439	SWIM	063-1	
+1168	Mw-65_walk-1	Mw	65_walk	u h e w ɨ ɾ ɨ k	sate1243	mav	1443	WALK	065-2	
+1169	Mw-67_liedown-1	Mw	67_liedown	t a ʔ t a t u ŋ	sate1243	mav	1411	LIE (REST)	067-8	
+1170	Mw-68_sit-1	Mw	68_sit	a ɾ a ʔ a p ɨ k	sate1243	mav	1416	SIT	068-1	
+1171	Mw-69_stand-1	Mw	69_stand	i p õ i ʔ a m	sate1243	mav	1442	STAND	069-2	
+1172	Mw-6_what-1	Mw	6_what	k a t	sate1243	mav	1236	WHAT	006-3	
+1173	Mw-70_give-1	Mw	70_give	a t u m	sate1243	mav	1447	GIVE	070-1	
+1174	Mw-71_say-1	Mw	71_say	a ɾ e ʔ e	sate1243	mav	1458	SAY	071-1	
+1175	Mw-72_sun-1	Mw	72_sun	aː t	sate1243	mav	1343	SUN	072-1	
+1176	Mw-73_moon-1	Mw	73_moon	w a t ɨ	sate1243	mav	1313	MOON	073-1	
+1177	Mw-74_star-1	Mw	74_star	w a i k i ɾ u	sate1243	mav	1430	STAR	074-6	
+1178	Mw-76_rain-1	Mw	76_rain	i ʔ a m aː n	sate1243	mav	2108	RAINING OR RAIN	076-1	
+1179	Mw-77_stone-1	Mw	77_stone	n u	sate1243	mav	857	STONE	077-4	
+1180	Mw-78_sand-1	Mw	78_sand	ɨ i k ɨ t	sate1243	mav	671	SAND	078-2	
+1181	Mw-79_earth-1	Mw	79_earth	ɨ i	sate1243	mav	1228	EARTH (SOIL)	079-1	
+1182	Mw-7_who-1	Mw	7_who	u w ẽ i	sate1243	mav	1235	WHO	007-6	
+1183	Mw-80_cloud-1	Mw	80_cloud	ɨ w ɨ h i ŋ	sate1243	mav	1489	CLOUD	080-3	
+1184	Mw-81_smoke-1	Mw	81_smoke	ɨ h i ŋ	sate1243	mav	778	SMOKE (EXHAUST)	081-1	
+1185	Mw-82_fire-1	Mw	82_fire	a ɾ j a	sate1243	mav	221	FIRE	082-1	
+1186	Mw-83_ash-1	Mw	83_ash	ɨ w ɨ ɾ u t	sate1243	mav	646	ASH	083-6	
+1187	Mw-84_burnintr-1	Mw	84_burnintr	a ɾ e w u k	sate1243	mav	1428	BURNING	084-4	
+1188	Mw-85_path-1	Mw	85_path	m u ʔ a p	sate1243	mav	2252	PATH	085-1	
+1189	Mw-86_mountain-1	Mw	86_mountain	ɨ i t ɨ ʔ o k	sate1243	mav	639	MOUNTAIN	086-3	
+1190	Mw-87_red-1	Mw	87_red	i h u p	sate1243	mav	156	RED	087-1	
+1191	Mw-88_green-1	Mw	88_green	i h ɨ ɾ ɨ p	sate1243	mav	1425	GREEN	088-2	
+1192	Mw-89_yellow-1	Mw	89_yellow	i k a ʔ a ɨ	sate1243	mav	1424	YELLOW	089-9	
+1193	Mw-8_not-1	Mw	8_not	ɨ t + ʔ i	sate1243	mav	1240	NOT	008-2	
+1194	Mw-90_white-1	Mw	90_white	i k ɨ s i ŋ	sate1243	mav	1335	WHITE	090-1	
+1195	Mw-91_black-1	Mw	91_black	h uː n	sate1243	mav	163	BLACK	091-2	
+1196	Mw-92_night-1	Mw	92_night	w ã t ɨ m	sate1243	mav	1233	NIGHT	092-6	
+1197	Mw-93_hot-1	Mw	93_hot	h a k u p	sate1243	mav	1286	HOT	093-1	
+1198	Mw-94_cold-1	Mw	94_cold	ɾ a ʔ a k	sate1243	mav	1287	COLD	094-1	
+1199	Mw-95_full-1	Mw	95_full	h o w o p ɨ	sate1243	mav	1429	FULL	095-1	
+1200	Mw-96_good-1	Mw	96_good	i w a k u	sate1243	mav	1035	GOOD	096-5	
+1201	Mw-97_new-1	Mw	97_new	i p a k u p	sate1243	mav	1231	NEW	097-3	
+1202	Mw-97_new-2	Mw	97_new	W/w a p a g o p	sate1243	mav	1231	NEW	097-3	
+1203	Mw-97_new-3	Mw	97_new	T/t u p a k o p	sate1243	mav	1231	NEW	097-3	
+1204	Mw-97_new-4	Mw	97_new	M/m e p a g o p	sate1243	mav	1231	NEW	097-3	
+1205	Mw-98_round-1	Mw	98_round	i p o k	sate1243	mav	1395	ROUND	098-4	
+1206	Mw-9_all-1	Mw	9_all	t o ɾ a n i a	sate1243	mav	98	ALL	009-6	
+1207	Pg-100_name-1	Pg	100_name	t e ɾ a	para1311	gug	1405	NAME	100-1	
+1208	Pg-10_many-1	Pg	10_many	h e t a	para1311	gug	1198	MANY	010-1	
+1209	Pg-11_one-1	Pg	11_one	p e t e ĩ	para1311	gug	1493	ONE	011-3	
+1210	Pg-12_two-1	Pg	12_two	m o k õ j	para1311	gug	1498	TWO	012-1	
+1211	Pg-13_big-1	Pg	13_big	g w a s u	para1311	gug	1202	BIG	013-1	
+1212	Pg-14_long-1	Pg	14_long	p u k u	para1311	gug	1203	LONG	014-1	
+1213	Pg-15_small-1	Pg	15_small	m i ʃ i	para1311	gug	1246	SMALL	015-3	
+1214	Pg-16_woman-1	Pg	16_woman	k u ɲ a	para1311	gug	962	WOMAN	016-1	
+1215	Pg-17_man-1	Pg	17_man	k u i m b a ʔ e	para1311	gug	1554	MAN	017-3	
+1216	Pg-18_person-1	Pg	18_person	a v a	para1311	gug	683	PERSON	018-1	
+1217	Pg-19_fish-1	Pg	19_fish	p i ɾ a	para1311	gug	227	FISH	019-2	
+1218	Pg-1_i-1	Pg	1_i	ʃ e	para1311	gug	1209	I	001-2	
+1219	Pg-20_bird-1	Pg	20_bird	g w ɨ ɾ a	para1311	gug	937	BIRD	020-1	
+1220	Pg-21_dog-1	Pg	21_dog	j a g w a	para1311	gug	2009	DOG	021-3	
+1221	Pg-22_louse-1	Pg	22_louse	k ɨ	para1311	gug	1392	LOUSE	022-1	
+1222	Pg-23_tree-1	Pg	23_tree	ɨ β ɨ ɾ a	para1311	gug	906	TREE	023-1	
+1223	Pg-24_seed-1	Pg	24_seed	t a ʔ ĩ i	para1311	gug	714	SEED	024-1	
+1224	Pg-25_leaf-1	Pg	25_leaf	t o g w e	para1311	gug	628	LEAF	025-1	
+1225	Pg-26_root-1	Pg	26_root	t a p o	para1311	gug	670	ROOT	026-1	
+1226	Pg-27_bark-1	Pg	27_bark	p i ɾ e	para1311	gug	1204	BARK	027-3	
+1227	Pg-28_skin-1	Pg	28_skin	p i ɾ e	para1311	gug	763	SKIN	028-1	
+1228	Pg-29_fleshmeat-1	Pg	29_fleshmeat	s o ʔ o	para1311	gug	2615	FLESH OR MEAT	029-2	
+1229	Pg-2_you-1	Pg	2_you	n d e	para1311	gug	1215	THOU	002-2	
+1230	Pg-30_blood-1	Pg	30_blood	t u g w ɨ	para1311	gug	946	BLOOD	030-1	
+1231	Pg-31_bone-1	Pg	31_bone	k a ŋ w e	para1311	gug	1394	BONE	031-1	
+1232	Pg-32_egg-1	Pg	32_egg	t u p i ʔ a	para1311	gug	744	EGG	032-1	
+1233	Pg-33_greasefat-1	Pg	33_greasefat	ɲ a n d i	para1311	gug	323	FAT (ORGANIC SUBSTANCE)	033-2	
+1234	Pg-34_horn-1	Pg	34_horn	t a t ĩ	para1311	gug	1393	HORN (ANATOMY)	034-2	
+1235	Pg-35_tail-1	Pg	35_tail	t u g w a j	para1311	gug	1220	TAIL	035-1	
+1236	Pg-36_feather-1	Pg	36_feather	t a g w e	para1311	gug	1201	FEATHER	036-1	
+1237	Pg-37_hair-1	Pg	37_hair	t a g w e	para1311	gug	1040	HAIR	037-1	
+1238	Pg-38_head-1	Pg	38_head	a k ã	para1311	gug	1256	HEAD	038-1	
+1239	Pg-39_ear-1	Pg	39_ear	n a m b i	para1311	gug	1247	EAR	039-1	
+1240	Pg-3_weinclusive-1	Pg	3_weinclusive	ɲ a n d e	para1311	gug	1131	WE (INCLUSIVE)	003-1	
+1241	Pg-40_eye-1	Pg	40_eye	t e s a	para1311	gug	1248	EYE	040-1	
+1242	Pg-41_nose-1	Pg	41_nose	t ĩ	para1311	gug	1221	NOSE	041-2	
+1243	Pg-42_mouth-1	Pg	42_mouth	j u ɾ u	para1311	gug	674	MOUTH	042-1	
+1244	Pg-43_tooth-1	Pg	43_tooth	t ã i	para1311	gug	1380	TOOTH	043-1	
+1245	Pg-44_tongue-1	Pg	44_tongue	k ũ	para1311	gug	1205	TONGUE	044-1	
+1246	Pg-45_claw-1	Pg	45_claw	p ɨ a p ẽ	para1311	gug	72	CLAW	045-1	
+1247	Pg-46_foot-1	Pg	46_foot	p ɨ	para1311	gug	1301	FOOT	046-1	
+1248	Pg-47_knee-1	Pg	47_knee	t e n ɨ p ɨ ʔ ã	para1311	gug	1371	KNEE	047-1	
+1249	Pg-48_hand-1	Pg	48_hand	p o	para1311	gug	1277	HAND	048-1	
+1250	Pg-49_belly-1	Pg	49_belly	t ɨ e	para1311	gug	1251	BELLY	049-7	
+1251	Pg-4_this-1	Pg	4_this	k o	para1311	gug	1214	THIS	004-4	
+1252	Pg-50_neck-1	Pg	50_neck	a j u ɾ a	para1311	gug	1333	NECK	050-1	
+1253	Pg-51_breast-1	Pg	51_breast	k a m a	para1311	gug	1402	BREAST	051-1	
+1254	Pg-52_heartguts-1	Pg	52_heartguts	ɲ e ʔ ã	para1311	gug	2436	GUTS OR HEART	052-2	
+1255	Pg-53_liver-1	Pg	53_liver	p ɨ ʔ a	para1311	gug	1224	LIVER	053-1	
+1256	Pg-54_drink-1	Pg	54_drink	h a ɨ ʔ u	para1311	gug	1401	DRINK	054-1	
+1257	Pg-55_eat-1	Pg	55_eat	a ʔ u	para1311	gug	1336	EAT	055-1	
+1258	Pg-56_bite-1	Pg	56_bite	a i s u ʔ u	para1311	gug	1403	BITE	056-1	
+1259	Pg-57_see-1	Pg	57_see	a h e ʃ a	para1311	gug	1409	SEE	057-2	
+1260	Pg-58_hear-1	Pg	58_hear	a h e n d u	para1311	gug	1408	HEAR	058-1	
+1261	Pg-59_know-1	Pg	59_know	a i k u aː	para1311	gug	3626	KNOW	059-1	
+1262	Pg-5_that-1	Pg	5_that	a m o v a	para1311	gug	78	THAT	005-5	
+1263	Pg-60_sleep-1	Pg	60_sleep	a k e	para1311	gug	1585	SLEEP	060-1	
+1264	Pg-61_die-1	Pg	61_die	a m a n o	para1311	gug	1494	DIE	061-1	
+1265	Pg-62_kill-1	Pg	62_kill	a j u k a	para1311	gug	1417	KILL	062-1	
+1266	Pg-63_swim-1	Pg	63_swim	h a ɨ t a	para1311	gug	1439	SWIM	063-1	
+1267	Pg-64_fly-1	Pg	64_fly	a v e v e	para1311	gug	1441	FLY (MOVE THROUGH AIR)	064-1	
+1268	Pg-65_walk-1	Pg	65_walk	a g w a t a	para1311	gug	1443	WALK	065-3	
+1269	Pg-66_come-1	Pg	66_come	j u	para1311	gug	1446	COME	066-1	
+1270	Pg-66_come-2	Pg	66_come	u	para1311	gug	1446	COME	066-1	
+1271	Pg-67_liedown-1	Pg	67_liedown	a ɲ e n o	para1311	gug	1411	LIE (REST)	067-3	
+1272	Pg-68_sit-1	Pg	68_sit	a g w a p ɨ	para1311	gug	1416	SIT	068-1	
+1273	Pg-69_stand-1	Pg	69_stand	a ɲ e m b o ʔ ɨ	para1311	gug	1442	STAND	069-6	
+1274	Pg-6_what-1	Pg	6_what	m b a ʔ e	para1311	gug	1236	WHAT	006-2	
+1275	Pg-70_give-1	Pg	70_give	a m e ʔ ẽ	para1311	gug	1447	GIVE	070-2	
+1276	Pg-71_say-1	Pg	71_say	h a ʔ e	para1311	gug	1458	SAY	071-1	
+1277	Pg-72_sun-1	Pg	72_sun	k u a ɾ a + h ɨ	para1311	gug	1343	SUN	072-1	
+1278	Pg-73_moon-1	Pg	73_moon	j a s ɨ	para1311	gug	1313	MOON	073-1	
+1279	Pg-74_star-1	Pg	74_star	m b ɨ j a	para1311	gug	1430	STAR	074-5	
+1280	Pg-75_water-1	Pg	75_water	ɨ	para1311	gug	948	WATER	075-1	
+1281	Pg-76_rain-1	Pg	76_rain	a m a	para1311	gug	2108	RAINING OR RAIN	076-1	
+1282	Pg-77_stone-1	Pg	77_stone	i t a	para1311	gug	857	STONE	077-1	
+1283	Pg-78_sand-1	Pg	78_sand	ɨ v ɨ k u ʔ i	para1311	gug	671	SAND	078-3	
+1284	Pg-79_earth-1	Pg	79_earth	ɨ v ɨ	para1311	gug	1228	EARTH (SOIL)	079-2	
+1285	Pg-7_who-1	Pg	7_who	m a v a	para1311	gug	1235	WHO	007-1	
+1286	Pg-80_cloud-1	Pg	80_cloud	a ɾ a i	para1311	gug	1489	CLOUD	080-4	
+1287	Pg-81_smoke-1	Pg	81_smoke	t a t a t ĩ	para1311	gug	778	SMOKE (EXHAUST)	081-1	
+1288	Pg-82_fire-1	Pg	82_fire	t a t a	para1311	gug	221	FIRE	082-1	
+1289	Pg-83_ash-1	Pg	83_ash	k u s u g w e	para1311	gug	646	ASH	083-3	
+1290	Pg-84_burnintr-1	Pg	84_burnintr	o k a j	para1311	gug	1428	BURNING	084-1	
+1291	Pg-85_path-1	Pg	85_path	t a p e	para1311	gug	2252	PATH	085-1	
+1292	Pg-86_mountain-1	Pg	86_mountain	ɨ v ɨ t ɨ	para1311	gug	639	MOUNTAIN	086-2	
+1293	Pg-87_red-1	Pg	87_red	p ɨ t ã	para1311	gug	156	RED	087-3	
+1294	Pg-88_green-1	Pg	88_green	h o v ɨ	para1311	gug	1425	GREEN	088-4	
+1295	Pg-89_yellow-1	Pg	89_yellow	s a ɨ j u	para1311	gug	1424	YELLOW	089-5	
+1296	Pg-8_not-1	Pg	8_not	n d + i	para1311	gug	1240	NOT	008-2	
+1297	Pg-90_white-1	Pg	90_white	m o ɾ o t ĩ	para1311	gug	1335	WHITE	090-2	
+1298	Pg-91_black-1	Pg	91_black	h ũ	para1311	gug	163	BLACK	091-2	
+1299	Pg-92_night-1	Pg	92_night	p ɨ h a ɾ e	para1311	gug	1233	NIGHT	092-1	
+1300	Pg-93_hot-1	Pg	93_hot	h a k u	para1311	gug	1286	HOT	093-1	
+1301	Pg-95_full-1	Pg	95_full	h e n ɨ h ẽ	para1311	gug	1429	FULL	095-3	
+1302	Pg-96_good-1	Pg	96_good	p o ɾ ã	para1311	gug	1035	GOOD	096-4	
+1303	Pg-97_new-1	Pg	97_new	p ɨ a h u	para1311	gug	1231	NEW	097-1	
+1304	Pg-98_round-1	Pg	98_round	a p u ʔ a	para1311	gug	1395	ROUND	098-1	
+1305	Pg-99_dry-1	Pg	99_dry	k ã	para1311	gug	1398	DRY	099-1	
+1306	Pg-9_all-1	Pg	9_all	o p a	para1311	gug	98	ALL	009-2	
+1307	Pt-100_name-1	Pt	100_name	e ɾ	pari1258	nan	1405	NAME	100-1	
+1308	Pt-10_many-1	Pt	10_many	e ʔ ɨ i	pari1258	nan	1198	MANY	010-5	
+1309	Pt-11_one-1	Pt	11_one	o j i p é/e j i	pari1258	nan	1493	ONE	011-6	
+1310	Pt-12_two-1	Pt	12_two	m o k õ ɲ	pari1258	nan	1498	TWO	012-1	
+1311	Pt-13_big-1	Pt	13_big	e h ã i	pari1258	nan	1202	BIG	013-5	
+1312	Pt-14_long-1	Pt	14_long	p u k u	pari1258	nan	1203	LONG	014-1	
+1313	Pt-15_small-1	Pt	15_small	ʃ u ʔ i	pari1258	nan	1246	SMALL	015-5	
+1314	Pt-16_woman-1	Pt	16_woman	k u ɲ a	pari1258	nan	962	WOMAN	016-1	
+1315	Pt-17_man-1	Pt	17_man	a k w a i m b e ʔ e	pari1258	nan	1554	MAN	017-3	
+1316	Pt-18_person-1	Pt	18_person	a h e	pari1258	nan	683	PERSON	018-4	
+1317	Pt-19_fish-1	Pt	19_fish	p i ɾ a	pari1258	nan	227	FISH	019-2	
+1318	Pt-1_i-1	Pt	1_i	j i	pari1258	nan	1209	I	001-2	
+1319	Pt-20_bird-1	Pt	20_bird	g w ɨ ɾ a	pari1258	nan	937	BIRD	020-1	
+1320	Pt-21_dog-1	Pt	21_dog	ɲ a ŋ w a t i ŋ	pari1258	nan	2009	DOG	021-3	
+1321	Pt-22_louse-1	Pt	22_louse	k ɨ v	pari1258	nan	1392	LOUSE	022-1	
+1322	Pt-23_tree-1	Pt	23_tree	ʔ ɨ v	pari1258	nan	906	TREE	023-1	
+1323	Pt-23_tree-2	Pt	23_tree	ɨ v a	pari1258	nan	906	TREE	023-1	
+1324	Pt-24_seed-1	Pt	24_seed	a ʔ ɨ ɲ	pari1258	nan	714	SEED	024-1	
+1325	Pt-25_leaf-1	Pt	25_leaf	o v a	pari1258	nan	628	LEAF	025-1	
+1326	Pt-26_root-1	Pt	26_root	a p o	pari1258	nan	670	ROOT	026-1	
+1327	Pt-27_bark-1	Pt	27_bark	ɨ v a	pari1258	nan	1204	BARK	027-1	
+1328	Pt-28_skin-1	Pt	28_skin	p i ɾ	pari1258	nan	763	SKIN	028-1	
+1329	Pt-29_fleshmeat-1	Pt	29_fleshmeat	a ʔ o	pari1258	nan	2615	FLESH OR MEAT	029-2	
+1330	Pt-2_you-1	Pt	2_you	n d e	pari1258	nan	1215	THOU	002-2	
+1331	Pt-30_blood-1	Pt	30_blood	g w ɨ	pari1258	nan	946	BLOOD	030-1	
+1332	Pt-31_bone-1	Pt	31_bone	k a ŋ	pari1258	nan	1394	BONE	031-1	
+1333	Pt-32_egg-1	Pt	32_egg	u p i ʔ a	pari1258	nan	744	EGG	032-1	
+1334	Pt-33_greasefat-1	Pt	33_greasefat	k a v	pari1258	nan	323	FAT (ORGANIC SUBSTANCE)	033-1	
+1335	Pt-34_horn-1	Pt	34_horn	a t ĩ	pari1258	nan	1393	HORN (ANATOMY)	034-2	
+1336	Pt-35_tail-1	Pt	35_tail	g w a j a	pari1258	nan	1220	TAIL	035-1	
+1337	Pt-36_feather-1	Pt	36_feather	a v a	pari1258	nan	1201	FEATHER	036-1	
+1338	Pt-37_hair-1	Pt	37_hair	a v	pari1258	nan	1040	HAIR	037-1	
+1339	Pt-38_head-1	Pt	38_head	a k a ŋ	pari1258	nan	1256	HEAD	038-1	
+1340	Pt-39_ear-1	Pt	39_ear	n a m b i	pari1258	nan	1247	EAR	039-1	
+1341	Pt-3_weinclusive-1	Pt	3_weinclusive	ɲ a n d e	pari1258	nan	1131	WE (INCLUSIVE)	003-1	
+1342	Pt-40_eye-1	Pt	40_eye	e a ʔ ɨ ɾ	pari1258	nan	1248	EYE	040-1	
+1343	Pt-41_nose-1	Pt	41_nose	a p ɨ ɲ	pari1258	nan	1221	NOSE	041-1	
+1344	Pt-42_mouth-1	Pt	42_mouth	j u ɾ u	pari1258	nan	674	MOUTH	042-1	
+1345	Pt-43_tooth-1	Pt	43_tooth	a ɲ	pari1258	nan	1380	TOOTH	043-1	
+1346	Pt-44_tongue-1	Pt	44_tongue	k ũ	pari1258	nan	1205	TONGUE	044-1	
+1347	Pt-45_claw-1	Pt	45_claw	p ẽ	pari1258	nan	72	CLAW	045-1	
+1348	Pt-46_foot-1	Pt	46_foot	p ɨ	pari1258	nan	1301	FOOT	046-1	
+1349	Pt-47_knee-1	Pt	47_knee	e n ɨ p ɨ ʔ ã	pari1258	nan	1371	KNEE	047-1	
+1350	Pt-48_hand-1	Pt	48_hand	p o	pari1258	nan	1277	HAND	048-1	
+1351	Pt-49_belly-1	Pt	49_belly	e v e g	pari1258	nan	1251	BELLY	049-1	
+1352	Pt-4_this-1	Pt	4_this	a g w a	pari1258	nan	1214	THIS	004-5	
+1353	Pt-50_neck-1	Pt	50_neck	j u ɾ	pari1258	nan	1333	NECK	050-1	
+1354	Pt-51_breast-1	Pt	51_breast	k a m	pari1258	nan	1402	BREAST	051-1	
+1355	Pt-52_heartguts-1	Pt	52_heartguts	ɲ a ʔ a ʔ i	pari1258	nan	2436	GUTS OR HEART	052-2	
+1356	Pt-53_liver-1	Pt	53_liver	p ɨ ʔ a	pari1258	nan	1224	LIVER	053-1	
+1357	Pt-54_drink-1	Pt	54_drink	ɨ ʔ u	pari1258	nan	1401	DRINK	054-1	
+1358	Pt-55_eat-1	Pt	55_eat	ʔ u	pari1258	nan	1336	EAT	055-1	
+1359	Pt-56_bite-1	Pt	56_bite	h u ʔ u	pari1258	nan	1403	BITE	056-1	
+1360	Pt-57_see-1	Pt	57_see	e p i a g	pari1258	nan	1409	SEE	057-2	
+1361	Pt-58_hear-1	Pt	58_hear	e n d u v	pari1258	nan	1408	HEAR	058-1	
+1362	Pt-59_know-1	Pt	59_know	k w a h a v	pari1258	nan	3626	KNOW	059-1	
+1363	Pt-5_that-1	Pt	5_that	ŋ w i	pari1258	nan	78	THAT	005-6	
+1364	Pt-60_sleep-1	Pt	60_sleep	k i ɾ	pari1258	nan	1585	SLEEP	060-1	
+1365	Pt-61_die-1	Pt	61_die	m a n o	pari1258	nan	1494	DIE	061-1	
+1366	Pt-62_kill-1	Pt	62_kill	j u k a	pari1258	nan	1417	KILL	062-1	
+1367	Pt-63_swim-1	Pt	63_swim	ɨ t a v	pari1258	nan	1439	SWIM	063-1	
+1368	Pt-64_fly-1	Pt	64_fly	v e v e	pari1258	nan	1441	FLY (MOVE THROUGH AIR)	064-1	
+1369	Pt-65_walk-1	Pt	65_walk	p ɨ m o n d o	pari1258	nan	1443	WALK	065-6	
+1370	Pt-66_come-1	Pt	66_come	j o ɾ	pari1258	nan	1446	COME	066-1	
+1371	Pt-66_come-2	Pt	66_come	u ɾ	pari1258	nan	1446	COME	066-1	
+1372	Pt-67_liedown-1	Pt	67_liedown	ʔ a u	pari1258	nan	1411	LIE (REST)	067-6	
+1373	Pt-68_sit-1	Pt	68_sit	ʔ a p ɨ g	pari1258	nan	1416	SIT	068-1	
+1374	Pt-69_stand-1	Pt	69_stand	a m	pari1258	nan	1442	STAND	069-2	
+1375	Pt-6_what-1	Pt	6_what	g a ɾ a	pari1258	nan	1236	WHAT	006-3	
+1376	Pt-70_give-1	Pt	70_give	m o n d o	pari1258	nan	1447	GIVE	070-3	
+1377	Pt-71_say-1	Pt	71_say	ʔ e	pari1258	nan	1458	SAY	071-1	
+1378	Pt-72_sun-1	Pt	72_sun	k w a ɾ a	pari1258	nan	1343	SUN	072-1	
+1379	Pt-73_moon-1	Pt	73_moon	j a h ɨ	pari1258	nan	1313	MOON	073-1	
+1380	Pt-74_star-1	Pt	74_star	j a ɨ t a t a ʔ i	pari1258	nan	1430	STAR	074-1	
+1381	Pt-75_water-1	Pt	75_water	ɨ h ɨ	pari1258	nan	948	WATER	075-1	
+1382	Pt-76_rain-1	Pt	76_rain	a m a n	pari1258	nan	2108	RAINING OR RAIN	076-1	
+1383	Pt-77_stone-1	Pt	77_stone	i t a k ɨ	pari1258	nan	857	STONE	077-1	
+1384	Pt-78_sand-1	Pt	78_sand	ɨ ʔ ɨ t i ŋ	pari1258	nan	671	SAND	078-4	
+1385	Pt-79_earth-1	Pt	79_earth	ɨ v ɨ	pari1258	nan	1228	EARTH (SOIL)	079-2	
+1386	Pt-7_who-1	Pt	7_who	m a ʔ ŋ a	pari1258	nan	1235	WHO	007-1	
+1387	Pt-80_cloud-1	Pt	80_cloud	a t a t i ʔ ŋ i u h u	pari1258	nan	1489	CLOUD	080-7	
+1388	Pt-81_smoke-1	Pt	81_smoke	a t a t i ŋ	pari1258	nan	778	SMOKE (EXHAUST)	081-1	
+1389	Pt-82_fire-1	Pt	82_fire	a t a	pari1258	nan	221	FIRE	082-1	
+1390	Pt-83_ash-1	Pt	83_ash	k u h u v	pari1258	nan	646	ASH	083-3	
+1391	Pt-84_burnintr-1	Pt	84_burnintr	k a i	pari1258	nan	1428	BURNING	084-1	
+1392	Pt-85_path-1	Pt	85_path	p e h e	pari1258	nan	2252	PATH	085-1	
+1393	Pt-86_mountain-1	Pt	86_mountain	ɨ v ɨ t ɨ ɾ u h u	pari1258	nan	639	MOUNTAIN	086-2	
+1394	Pt-87_red-1	Pt	87_red	p i ɾ a ŋ	pari1258	nan	156	RED	087-3	
+1395	Pt-88_green-1	Pt	88_green	j u k ɨ ɾ ɨ	pari1258	nan	1425	GREEN	088-1	
+1396	Pt-89_yellow-1	Pt	89_yellow	j u k ɨ ɾ ɨ	pari1258	nan	1424	YELLOW	089-7	
+1397	Pt-8_not-1	Pt	8_not	n + i	pari1258	nan	1240	NOT	008-2	
+1398	Pt-90_white-1	Pt	90_white	t i ŋ	pari1258	nan	1335	WHITE	090-2	
+1399	Pt-91_black-1	Pt	91_black	u n	pari1258	nan	163	BLACK	091-2	
+1400	Pt-92_night-1	Pt	92_night	ɨ p ɨ t u n	pari1258	nan	1233	NIGHT	092-1	
+1401	Pt-93_hot-1	Pt	93_hot	a k u v	pari1258	nan	1286	HOT	093-1	
+1402	Pt-95_full-1	Pt	95_full	ɨ n ɨ h e m	pari1258	nan	1429	FULL	095-3	
+1403	Pt-96_good-1	Pt	96_good	k a t u	pari1258	nan	1035	GOOD	096-2	
+1404	Pt-97_new-1	Pt	97_new	p ɨ a h u	pari1258	nan	1231	NEW	097-1	
+1405	Pt-98_round-1	Pt	98_round	a k a ŋ a ʔ i	pari1258	nan	1395	ROUND	098-3	
+1406	Pt-99_dry-1	Pt	99_dry	k a ŋ	pari1258	nan	1398	DRY	099-1	
+1407	Pt-9_all-1	Pt	9_all	p a v ẽ i	pari1258	nan	98	ALL	009-4	
+1408	Pu-100_name-1	Pu	100_name	t e t	puru1264	pur	1405	NAME	100-1	
+1409	Pu-11_one-1	Pu	11_one	m õ m	puru1264	pur	1493	ONE	011-1	
+1410	Pu-12_two-1	Pu	12_two	β e w a p	puru1264	pur	1498	TWO	012-10	
+1411	Pu-13_big-1	Pu	13_big	h u	puru1264	pur	1202	BIG	013-1	
+1412	Pu-14_long-1	Pu	14_long	t ɨ w a	puru1264	pur	1203	LONG	014-5	
+1413	Pu-15_small-1	Pu	15_small	ʃ i n ĩ n ĩ	puru1264	pur	1246	SMALL	015-1	
+1414	Pu-16_woman-1	Pu	16_woman	p a k o j a	puru1264	pur	962	WOMAN	016-1	
+1415	Pu-17_man-1	Pu	17_man	a b ɨ t ʔ a j	puru1264	pur	1554	MAN	017-13	
+1416	Pu-18_person-1	Pu	18_person	d e d e	puru1264	pur	683	PERSON	018-2	
+1417	Pu-19_fish-1	Pu	19_fish	ʔ ɨ p ʔ a j	puru1264	pur	227	FISH	019-1	
+1418	Pu-1_i-1	Pu	1_i	ʔ õ n	puru1264	pur	1209	I	001-1	
+1419	Pu-20_bird-1	Pu	20_bird	m a ʃ a j ã	puru1264	pur	937	BIRD	020-9	
+1420	Pu-21_dog-1	Pu	21_dog	a m e k o	puru1264	pur	2009	DOG	021-1	
+1421	Pu-22_louse-1	Pu	22_louse	t ɨ p	puru1264	pur	1392	LOUSE	022-1	
+1422	Pu-23_tree-1	Pu	23_tree	w a ʔ ɨ p	puru1264	pur	906	TREE	023-1	
+1423	Pu-24_seed-1	Pu	24_seed	k a p	puru1264	pur	714	SEED	024-2	
+1424	Pu-25_leaf-1	Pu	25_leaf	t ə p	puru1264	pur	628	LEAF	025-1	
+1425	Pu-27_bark-1	Pu	27_bark	t a b e	puru1264	pur	1204	BARK	027-1	
+1426	Pu-28_skin-1	Pu	28_skin	t a b e	puru1264	pur	763	SKIN	028-1	
+1427	Pu-29_fleshmeat-1	Pu	29_fleshmeat	ʔ i t a	puru1264	pur	2615	FLESH OR MEAT	029-3	
+1428	Pu-2_you-1	Pu	2_you	ʔ ẽ n	puru1264	pur	1215	THOU	002-1	
+1429	Pu-31_bone-1	Pu	31_bone	m u ɾ ũ p	puru1264	pur	1394	BONE	031-4	
+1430	Pu-32_egg-1	Pu	32_egg	a k a p	puru1264	pur	744	EGG	032-2	
+1431	Pu-33_greasefat-1	Pu	33_greasefat	b i ʃ o a	puru1264	pur	323	FAT (ORGANIC SUBSTANCE)	033-4	
+1432	Pu-35_tail-1	Pu	35_tail	t a b o p	puru1264	pur	1220	TAIL	035-2	
+1433	Pu-36_feather-1	Pu	36_feather	t ə p	puru1264	pur	1201	FEATHER	036-1	
+1434	Pu-37_hair-1	Pu	37_hair	t a p	puru1264	pur	1040	HAIR	037-1	
+1435	Pu-38_head-1	Pu	38_head	a ʃ ã	puru1264	pur	1256	HEAD	038-1	
+1436	Pu-39_ear-1	Pu	39_ear	ʃ a p e t ə	puru1264	pur	1247	EAR	039-5	
+1437	Pu-3_weinclusive-1	Pu	3_weinclusive	j e β ə ɾ a	puru1264	pur	1131	WE (INCLUSIVE)	003-11	
+1438	Pu-40_eye-1	Pu	40_eye	t o k a	puru1264	pur	1248	EYE	040-4	
+1439	Pu-41_nose-1	Pu	41_nose	ɲ ũ ʔ ã	puru1264	pur	1221	NOSE	041-5	
+1440	Pu-42_mouth-1	Pu	42_mouth	u ɾ u ʔ a p	puru1264	pur	674	MOUTH	042-1	
+1441	Pu-43_tooth-1	Pu	43_tooth	ĩ k a p	puru1264	pur	1380	TOOTH	043-1	
+1442	Pu-44_tongue-1	Pu	44_tongue	k o b e	puru1264	pur	1205	TONGUE	044-1	
+1443	Pu-45_claw-1	Pu	45_claw	ʃ u k u j ã	puru1264	pur	72	CLAW	045-3	
+1444	Pu-46_foot-1	Pu	46_foot	ʃ i b e	puru1264	pur	1301	FOOT	046-1	
+1445	Pu-48_hand-1	Pu	48_hand	b a	puru1264	pur	1277	HAND	048-1	
+1446	Pu-49_belly-1	Pu	49_belly	ʃ u ɾ u a k a	puru1264	pur	1251	BELLY	049-12	
+1447	Pu-50_neck-1	Pu	50_neck	b u ʃ u k a	puru1264	pur	1333	NECK	050-6	
+1448	Pu-51_breast-1	Pu	51_breast	p o ɾ a b e d ə	puru1264	pur	1402	BREAST	051-3	
+1449	Pu-52_heartguts-1	Pu	52_heartguts	m ɨ n a k a	puru1264	pur	2436	GUTS OR HEART	052-9	
+1450	Pu-53_liver-1	Pu	53_liver	b i + a	puru1264	pur	1224	LIVER	053-1	
+1451	Pu-53_liver-2	Pu	53_liver	m b i + a	puru1264	pur	1224	LIVER	053-1	
+1452	Pu-54_drink-1	Pu	54_drink	ʔ o	puru1264	pur	1401	DRINK	054-1	
+1453	Pu-55_eat-1	Pu	55_eat	ʔ o	puru1264	pur	1336	EAT	055-1	
+1454	Pu-56_bite-1	Pu	56_bite	ʃ e k a	puru1264	pur	1403	BITE	056-1	
+1455	Pu-57_see-1	Pu	57_see	d o p a	puru1264	pur	1409	SEE	057-1	
+1456	Pu-60_sleep-1	Pu	60_sleep	k e t a	puru1264	pur	1585	SLEEP	060-1	
+1457	Pu-61_die-1	Pu	61_die	ʃ o m o ɾ õ m	puru1264	pur	1494	DIE	061-7	
+1458	Pu-62_kill-1	Pu	62_kill	β í/i	puru1264	pur	1417	KILL	062-3	
+1459	Pu-65_walk-1	Pu	65_walk	ʃ ã p ʃ ã m	puru1264	pur	1443	WALK	065-5	
+1460	Pu-66_come-1	Pu	66_come	β ə t a	puru1264	pur	1446	COME	066-1	
+1461	Pu-67_liedown-1	Pu	67_liedown	b o p a	puru1264	pur	1411	LIE (REST)	067-2	
+1462	Pu-68_sit-1	Pu	68_sit	t a p i a	puru1264	pur	1416	SIT	068-1	
+1463	Pu-69_stand-1	Pu	69_stand	ʔ õ n + a j a	puru1264	pur	1442	STAND	069-5	
+1464	Pu-70_give-1	Pu	70_give	b e k a	puru1264	pur	1447	GIVE	070-4	
+1465	Pu-71_say-1	Pu	71_say	β e d o w ɨ	puru1264	pur	1458	SAY	071-4	
+1466	Pu-72_sun-1	Pu	72_sun	t o k a	puru1264	pur	1343	SUN	072-5	
+1467	Pu-73_moon-1	Pu	73_moon	β e ɾ e j a	puru1264	pur	1313	MOON	073-9	
+1468	Pu-74_star-1	Pu	74_star	t u t u k u j ĩ p	puru1264	pur	1430	STAR	074-10	
+1469	Pu-75_water-1	Pu	75_water	ʃ e ɾ e	puru1264	pur	948	WATER	075-1	
+1470	Pu-76_rain-1	Pu	76_rain	a m ã n	puru1264	pur	2108	RAINING OR RAIN	076-1	
+1471	Pu-77_stone-1	Pu	77_stone	m b u ɾ u ʔ a	puru1264	pur	857	STONE	077-5	
+1472	Pu-78_sand-1	Pu	78_sand	ɨ j + ʃ a b a ɾ a k a p	puru1264	pur	671	SAND	078-2	
+1473	Pu-79_earth-1	Pu	79_earth	ʔ ɨ j	puru1264	pur	1228	EARTH (SOIL)	079-1	
+1474	Pu-82_fire-1	Pu	82_fire	β o k	puru1264	pur	221	FIRE	082-5	
+1475	Pu-82_fire-2	Pu	82_fire	d a b ə k	puru1264	pur	221	FIRE	082-5	
+1476	Pu-83_ash-1	Pu	83_ash	ʃ ĩ + ã	puru1264	pur	646	ASH	083-9	
+1477	Pu-84_burnintr-1	Pu	84_burnintr	b a k i β i p a	puru1264	pur	1428	BURNING	084-9	
+1478	Pu-85_path-1	Pu	85_path	b e	puru1264	pur	2252	PATH	085-1	
+1479	Pu-87_red-1	Pu	87_red	w ə p	puru1264	pur	156	RED	087-1	
+1480	Pu-88_green-1	Pu	88_green	h e ɾ o + a	puru1264	pur	1425	GREEN	088-2	
+1481	Pu-89_yellow-1	Pu	89_yellow	a j a β a k	puru1264	pur	1424	YELLOW	089-14	
+1482	Pu-8_not-1	Pu	8_not	n õ	puru1264	pur	1240	NOT	008-1	
+1483	Pu-90_white-1	Pu	90_white	a j a w a k	puru1264	pur	1335	WHITE	090-4	
+1484	Pu-91_black-1	Pu	91_black	m ĩ k ã	puru1264	pur	163	BLACK	091-10	
+1485	Pu-92_night-1	Pu	92_night	ʃ e w	puru1264	pur	1233	NIGHT	092-11	
+1486	Pu-93_hot-1	Pu	93_hot	d ə β a	puru1264	pur	1286	HOT	093-3	
+1487	Pu-95_full-1	Pu	95_full	b ɨ d ə t	puru1264	pur	1429	FULL	095-1	
+1488	Pu-96_good-1	Pu	96_good	k a p i ʃ e	puru1264	pur	1035	GOOD	096-8	
+1489	Pu-99_dry-1	Pu	99_dry	k ĩ ɾ ĩ k	puru1264	pur	1398	DRY	099-3	
+1490	Sa-100_name-1	Sa	100_name	z é/e t	sala1273	mnd	1405	NAME	100-1	
+1491	Sa-10_many-1	Sa	10_many	d éé/eː t	sala1273	mnd	1198	MANY	010-16	
+1492	Sa-11_one-1	Sa	11_one	m ṍṍ/õː t	sala1273	mnd	1493	ONE	011-1	
+1493	Sa-13_big-1	Sa	13_big	p óó/oː j	sala1273	mnd	1202	BIG	013-2	
+1494	Sa-14_long-1	Sa	14_long	a t o	sala1273	mnd	1203	LONG	014-2	
+1495	Sa-14_long-2	Sa	14_long	a t óó/oː	sala1273	mnd	1203	LONG	014-2	
+1496	Sa-15_small-1	Sa	15_small	ʃ ĩː t	sala1273	mnd	1246	SMALL	015-1	
+1497	Sa-16_woman-1	Sa	16_woman	β ã z e t	sala1273	mnd	962	WOMAN	016-3	
+1498	Sa-17_man-1	Sa	17_man	β í/i j	sala1273	mnd	1554	MAN	017-1	
+1499	Sa-18_person-1	Sa	18_person	p ã d eː t	sala1273	mnd	683	PERSON	018-2	
+1500	Sa-19_fish-1	Sa	19_fish	b o l í/i p	sala1273	mnd	227	FISH	019-1	
+1501	Sa-1_i-1	Sa	1_i	õ/õː t	sala1273	mnd	1209	I	001-1	
+1502	Sa-21_dog-1	Sa	21_dog	á/a w ɨ l ɨ	sala1273	mnd	2009	DOG	021-2	
+1503	Sa-21_dog-2	Sa	21_dog	á/a w ɨː l	sala1273	mnd	2009	DOG	021-2	
+1504	Sa-22_louse-1	Sa	22_louse	g i p	sala1273	mnd	1392	LOUSE	022-1	
+1505	Sa-23_tree-1	Sa	23_tree	iː p	sala1273	mnd	906	TREE	023-1	
+1506	Sa-24_seed-1	Sa	24_seed	k á/a p	sala1273	mnd	714	SEED	024-2	
+1507	Sa-25_leaf-1	Sa	25_leaf	b á/a s e p	sala1273	mnd	628	LEAF	025-1	
+1508	Sa-26_root-1	Sa	26_root	s o b á/a k ʔ aː	sala1273	mnd	670	ROOT	026-3	
+1509	Sa-27_bark-1	Sa	27_bark	s é/e b é/e	sala1273	mnd	1204	BARK	027-1	
+1510	Sa-28_skin-1	Sa	28_skin	s é/e ɾ é/e k	sala1273	mnd	763	SKIN	028-2	
+1511	Sa-2_you-1	Sa	2_you	ẽː t	sala1273	mnd	1215	THOU	002-1	
+1512	Sa-30_blood-1	Sa	30_blood	ʃ iː t	sala1273	mnd	946	BLOOD	030-3	
+1513	Sa-31_bone-1	Sa	31_bone	k ã́ã́/ãː l	sala1273	mnd	1394	BONE	031-1	
+1514	Sa-32_egg-1	Sa	32_egg	k á/a p	sala1273	mnd	744	EGG	032-2	
+1515	Sa-33_greasefat-1	Sa	33_greasefat	k a p	sala1273	mnd	323	FAT (ORGANIC SUBSTANCE)	033-1	
+1516	Sa-35_tail-1	Sa	35_tail	s a p õ p	sala1273	mnd	1220	TAIL	035-2	
+1517	Sa-36_feather-1	Sa	36_feather	s é/e p	sala1273	mnd	1201	FEATHER	036-1	
+1518	Sa-37_hair-1	Sa	37_hair	s é/e p	sala1273	mnd	1040	HAIR	037-1	
+1519	Sa-38_head-1	Sa	38_head	a d á/a t ʔ a	sala1273	mnd	1256	HEAD	038-2	
+1520	Sa-38_head-2	Sa	38_head	ã́/ã d á/a t ʔ a	sala1273	mnd	1256	HEAD	038-2	
+1521	Sa-39_ear-1	Sa	39_ear	n ã b i b é/e	sala1273	mnd	1247	EAR	039-1	
+1522	Sa-40_eye-1	Sa	40_eye	ʒ a k á/a p	sala1273	mnd	1248	EYE	040-1	
+1523	Sa-41_nose-1	Sa	41_nose	a β ĩ ʔ ã	sala1273	mnd	1221	NOSE	041-1	
+1524	Sa-42_mouth-1	Sa	42_mouth	k o	sala1273	mnd	674	MOUTH	042-2	
+1525	Sa-43_tooth-1	Sa	43_tooth	ĩ́ĩ́/ĩː t	sala1273	mnd	1380	TOOTH	043-1	
+1526	Sa-44_tongue-1	Sa	44_tongue	k o s é/e ɾ é/e k	sala1273	mnd	1205	TONGUE	044-1	
+1527	Sa-45_claw-1	Sa	45_claw	s a k õ j	sala1273	mnd	72	CLAW	045-2	
+1528	Sa-46_foot-1	Sa	46_foot	p i p e	sala1273	mnd	1301	FOOT	046-1	
+1529	Sa-46_foot-2	Sa	46_foot	b í/i ʔ a	sala1273	mnd	1301	FOOT	046-1	
+1530	Sa-47_knee-1	Sa	47_knee	s á/a b i k á/a p	sala1273	mnd	1371	KNEE	047-2	
+1531	Sa-48_hand-1	Sa	48_hand	p á/a b e	sala1273	mnd	1277	HAND	048-1	
+1532	Sa-49_belly-1	Sa	49_belly	p a k ʔ i k	sala1273	mnd	1251	BELLY	049-14	
+1533	Sa-50_neck-1	Sa	50_neck	ã b o k ã́/ã ã l	sala1273	mnd	1333	NECK	050-2	
+1534	Sa-52_heartguts-1	Sa	52_heartguts	ã g õ ʔ ã	sala1273	mnd	2436	GUTS OR HEART	052-1	
+1535	Sa-53_liver-1	Sa	53_liver	s á/a ʔ a	sala1273	mnd	1224	LIVER	053-1	
+1536	Sa-54_drink-1	Sa	54_drink	β a	sala1273	mnd	1401	DRINK	054-2	
+1537	Sa-55_eat-1	Sa	55_eat	β a	sala1273	mnd	1336	EAT	055-2	
+1538	Sa-56_bite-1	Sa	56_bite	á/a k aː l	sala1273	mnd	1403	BITE	056-1	
+1539	Sa-57_see-1	Sa	57_see	í/i k i n i	sala1273	mnd	1409	SEE	057-3	
+1540	Sa-58_hear-1	Sa	58_hear	p iː	sala1273	mnd	1408	HEAR	058-2	
+1541	Sa-60_sleep-1	Sa	60_sleep	k eː t	sala1273	mnd	1585	SLEEP	060-1	
+1542	Sa-61_die-1	Sa	61_die	j iː	sala1273	mnd	1494	DIE	061-3	
+1543	Sa-61_die-2	Sa	61_die	iː	sala1273	mnd	1494	DIE	061-3	
+1544	Sa-62_kill-1	Sa	62_kill	a k a	sala1273	mnd	1417	KILL	062-1	
+1545	Sa-63_swim-1	Sa	63_swim	s á/a t ẽ	sala1273	mnd	1439	SWIM	063-12	
+1546	Sa-65_walk-1	Sa	65_walk	β éé/eː ɾ e	sala1273	mnd	1443	WALK	065-1	
+1547	Sa-66_come-1	Sa	66_come	β oː l	sala1273	mnd	1446	COME	066-1	
+1548	Sa-68_sit-1	Sa	68_sit	p o t óó/oː	sala1273	mnd	1416	SIT	068-2	
+1549	Sa-69_stand-1	Sa	69_stand	ã d óó/oː	sala1273	mnd	1442	STAND	069-1	
+1550	Sa-6_what-1	Sa	6_what	m é/e	sala1273	mnd	1236	WHAT	006-1	
+1551	Sa-70_give-1	Sa	70_give	n õ/õː	sala1273	mnd	1447	GIVE	070-1	
+1552	Sa-72_sun-1	Sa	72_sun	g á/a t	sala1273	mnd	1343	SUN	072-1	
+1553	Sa-74_star-1	Sa	74_star	g á/a t i + k á/a p	sala1273	mnd	1430	STAR	074-1	
+1554	Sa-75_water-1	Sa	75_water	iː	sala1273	mnd	948	WATER	075-1	
+1555	Sa-76_rain-1	Sa	76_rain	z o j	sala1273	mnd	2108	RAINING OR RAIN	076-2	
+1556	Sa-77_stone-1	Sa	77_stone	ʃ á/a ʔ a	sala1273	mnd	857	STONE	077-1	
+1557	Sa-77_stone-2	Sa	77_stone	i s á/a ʔ a	sala1273	mnd	857	STONE	077-1	
+1558	Sa-78_sand-1	Sa	78_sand	i s á/a g á/a p	sala1273	mnd	671	SAND	078-1	
+1559	Sa-79_earth-1	Sa	79_earth	g iː t ʔ a	sala1273	mnd	1228	EARTH (SOIL)	079-6	
+1560	Sa-80_cloud-1	Sa	80_cloud	β a k óó/oː t ʔ a	sala1273	mnd	1489	CLOUD	080-2	
+1561	Sa-81_smoke-1	Sa	81_smoke	β a d ĩ k	sala1273	mnd	778	SMOKE (EXHAUST)	081-1	
+1562	Sa-82_fire-1	Sa	82_fire	k ã́/ã ã̀/ã j	sala1273	mnd	221	FIRE	082-2	
+1563	Sa-83_ash-1	Sa	83_ash	k ã́ã́/ãː j + k õ p	sala1273	mnd	646	ASH	083-10	
+1564	Sa-84_burnintr-1	Sa	84_burnintr	k ã́/ã j	sala1273	mnd	1428	BURNING	084-1	
+1565	Sa-85_path-1	Sa	85_path	b e	sala1273	mnd	2252	PATH	085-1	
+1566	Sa-87_red-1	Sa	87_red	β óó/oː p	sala1273	mnd	156	RED	087-1	
+1567	Sa-88_green-1	Sa	88_green	k íí/iː t	sala1273	mnd	1425	GREEN	088-1	
+1568	Sa-89_yellow-1	Sa	89_yellow	ʃ í/i ʔ íí/iː p	sala1273	mnd	1424	YELLOW	089-15	
+1569	Sa-8_not-1	Sa	8_not	a ʔ õ	sala1273	mnd	1240	NOT	008-9	
+1570	Sa-90_white-1	Sa	90_white	k íí/iː t	sala1273	mnd	1335	WHITE	090-1	
+1571	Sa-91_black-1	Sa	91_black	p é/e p	sala1273	mnd	163	BLACK	091-1	
+1572	Sa-92_night-1	Sa	92_night	b i s ã k	sala1273	mnd	1233	NIGHT	092-2	
+1573	Sa-93_hot-1	Sa	93_hot	a d o	sala1273	mnd	1286	HOT	093-1	
+1574	Sa-93_hot-2	Sa	93_hot	a d óó/oː p	sala1273	mnd	1286	HOT	093-1	
+1575	Sa-96_good-1	Sa	96_good	p a l a b ó/o t	sala1273	mnd	1035	GOOD	096-1	
+1576	Sa-97_new-1	Sa	97_new	k oː t	sala1273	mnd	1231	NEW	097-2	
+1577	Sa-97_new-2	Sa	97_new	k oː ɾ	sala1273	mnd	1231	NEW	097-2	
+1578	Sa-99_dry-1	Sa	99_dry	k ã́/ã g ã	sala1273	mnd	1398	DRY	099-1	
+1579	Sa-9_all-1	Sa	9_all	s ó/o p ó/o j	sala1273	mnd	98	ALL	009-1	
+1580	Su-100_name-1	Su	100_name	ɮ é/e t	suru1262	sru	1405	NAME	100-1	
+1581	Su-100_name-2	Su	100_name	ɬ é/e t	suru1262	sru	1405	NAME	100-1	
+1582	Su-10_many-1	Su	10_many	ʃ á/a m e + õ	suru1262	sru	1198	MANY	010-17	
+1583	Su-11_one-1	Su	11_one	m áá/aː j	suru1262	sru	1493	ONE	011-1	
+1584	Su-12_two-1	Su	12_two	m ĩ́/ĩ j a k á/a b ɨ t	suru1262	sru	1498	TWO	012-12	
+1585	Su-13_big-1	Su	13_big	p óó/oː j	suru1262	sru	1202	BIG	013-2	
+1586	Su-14_long-1	Su	14_long	a t ó/o a	suru1262	sru	1203	LONG	014-2	
+1587	Su-15_small-1	Su	15_small	ʃ ĩː n	suru1262	sru	1246	SMALL	015-1	
+1588	Su-16_woman-1	Su	16_woman	β á/a ɬ e t	suru1262	sru	962	WOMAN	016-3	
+1589	Su-17_man-1	Su	17_man	oː j	suru1262	sru	1554	MAN	017-1	
+1590	Su-17_man-2	Su	17_man	óó/oː j	suru1262	sru	1554	MAN	017-1	
+1591	Su-18_person-1	Su	18_person	p a í/i t eː ɾ	suru1262	sru	683	PERSON	018-2	
+1592	Su-19_fish-1	Su	19_fish	m o ɾ í/i p	suru1262	sru	227	FISH	019-1	
+1593	Su-19_fish-2	Su	19_fish	m o ɾ í/i w aː	suru1262	sru	227	FISH	019-1	
+1594	Su-1_i-1	Su	1_i	ó/o + ẽ n	suru1262	sru	1209	I	001-1	
+1595	Su-20_bird-1	Su	20_bird	ĩ́/ĩ j ɨː t	suru1262	sru	937	BIRD	020-2	
+1596	Su-21_dog-1	Su	21_dog	á/a w ɨ ɾ ɨ	suru1262	sru	2009	DOG	021-2	
+1597	Su-22_louse-1	Su	22_louse	ŋ i p	suru1262	sru	1392	LOUSE	022-1	
+1598	Su-23_tree-1	Su	23_tree	íí/iː p	suru1262	sru	906	TREE	023-1	
+1599	Su-24_seed-1	Su	24_seed	i b a k á/a p	suru1262	sru	714	SEED	024-2	
+1600	Su-25_leaf-1	Su	25_leaf	m ó/o s ĩ́ĩ́/ĩː n	suru1262	sru	628	LEAF	025-2	
+1601	Su-26_root-1	Su	26_root	t á/a k õ n	suru1262	sru	670	ROOT	026-6	
+1602	Su-27_bark-1	Su	27_bark	s é/e ɾ é/e k	suru1262	sru	1204	BARK	027-4	
+1603	Su-28_skin-1	Su	28_skin	ɬ é/e ɾ é/e k	suru1262	sru	763	SKIN	028-2	
+1604	Su-29_fleshmeat-1	Su	29_fleshmeat	j õ m a	suru1262	sru	2615	FLESH OR MEAT	029-1	
+1605	Su-2_you-1	Su	2_you	é/e + ẽ n	suru1262	sru	1215	THOU	002-1	
+1606	Su-30_blood-1	Su	30_blood	ʃ iː ɾ	suru1262	sru	946	BLOOD	030-3	
+1607	Su-31_bone-1	Su	31_bone	k ã́ã́/ãː ɾ	suru1262	sru	1394	BONE	031-1	
+1608	Su-32_egg-1	Su	32_egg	s ɨ p i	suru1262	sru	744	EGG	032-1	
+1609	Su-32_egg-2	Su	32_egg	k á/a p	suru1262	sru	744	EGG	032-2	
+1610	Su-33_greasefat-1	Su	33_greasefat	k a p	suru1262	sru	323	FAT (ORGANIC SUBSTANCE)	033-1	
+1611	Su-34_horn-1	Su	34_horn	n e p í/i + k oː ɾ	suru1262	sru	1393	HORN (ANATOMY)	034-7	
+1612	Su-35_tail-1	Su	35_tail	s a p o m	suru1262	sru	1220	TAIL	035-2	
+1613	Su-36_feather-1	Su	36_feather	p o s ã́/ã n	suru1262	sru	1201	FEATHER	036-4	
+1614	Su-37_hair-1	Su	37_hair	s i n	suru1262	sru	1040	HAIR	037-3	
+1615	Su-37_hair-2	Su	37_hair	s ĩ́ĩ́/ĩː n	suru1262	sru	1040	HAIR	037-3	
+1616	Su-38_head-1	Su	38_head	á/a n á/a ɾ	suru1262	sru	1256	HEAD	038-2	
+1617	Su-38_head-2	Su	38_head	ã́/ã n áá/aː ɾ	suru1262	sru	1256	HEAD	038-2	
+1618	Su-39_ear-1	Su	39_ear	n e p i b é/e	suru1262	sru	1247	EAR	039-1	
+1619	Su-3_weinclusive-1	Su	3_weinclusive	p á/a + ẽ n	suru1262	sru	1131	WE (INCLUSIVE)	003-2	
+1620	Su-40_eye-1	Su	40_eye	j a k á/a w a	suru1262	sru	1248	EYE	040-1	
+1621	Su-41_nose-1	Su	41_nose	á/a m ĩ ãː	suru1262	sru	1221	NOSE	041-1	
+1622	Su-42_mouth-1	Su	42_mouth	k o	suru1262	sru	674	MOUTH	042-2	
+1623	Su-43_tooth-1	Su	43_tooth	k aː p	suru1262	sru	1380	TOOTH	043-2	
+1624	Su-44_tongue-1	Su	44_tongue	k o ʃ éé/eː ɾ	suru1262	sru	1205	TONGUE	044-1	
+1625	Su-45_claw-1	Su	45_claw	k õ j	suru1262	sru	72	CLAW	045-2	
+1626	Su-46_foot-1	Su	46_foot	m í/i p e	suru1262	sru	1301	FOOT	046-1	
+1627	Su-46_foot-2	Su	46_foot	p í/i p e	suru1262	sru	1301	FOOT	046-1	
+1628	Su-47_knee-1	Su	47_knee	s á/a b iː k á/a b a	suru1262	sru	1371	KNEE	047-2	
+1629	Su-48_hand-1	Su	48_hand	p á/a b e	suru1262	sru	1277	HAND	048-1	
+1630	Su-49_belly-1	Su	49_belly	g ã	suru1262	sru	1251	BELLY	049-2	
+1631	Su-49_belly-2	Su	49_belly	á/a g ã́/ã ã	suru1262	sru	1251	BELLY	049-2	
+1632	Su-4_this-1	Su	4_this	ãã́/ãː	suru1262	sru	1214	THIS	004-1	
+1633	Su-50_neck-1	Su	50_neck	á/a m oː k ãː ɾ	suru1262	sru	1333	NECK	050-2	
+1634	Su-51_breast-1	Su	51_breast	n õ m a	suru1262	sru	1402	BREAST	051-1	
+1635	Su-52_heartguts-1	Su	52_heartguts	á/a g õ ã	suru1262	sru	2436	GUTS OR HEART	052-1	
+1636	Su-53_liver-1	Su	53_liver	s aː	suru1262	sru	1224	LIVER	053-1	
+1637	Su-54_drink-1	Su	54_drink	g ú/u t g ú/u t	suru1262	sru	1401	DRINK	054-5	
+1638	Su-55_eat-1	Su	55_eat	w a	suru1262	sru	1336	EAT	055-2	
+1639	Su-56_bite-1	Su	56_bite	á/a k a ɾ	suru1262	sru	1403	BITE	056-1	
+1640	Su-57_see-1	Su	57_see	í/i k ĩː n	suru1262	sru	1409	SEE	057-3	
+1641	Su-58_hear-1	Su	58_hear	w e p iː	suru1262	sru	1408	HEAR	058-2	
+1642	Su-5_that-1	Su	5_that	j e	suru1262	sru	78	THAT	005-1	
+1643	Su-60_sleep-1	Su	60_sleep	k eː ɾ	suru1262	sru	1585	SLEEP	060-1	
+1644	Su-61_die-1	Su	61_die	iː	suru1262	sru	1494	DIE	061-3	
+1645	Su-62_kill-1	Su	62_kill	a k a	suru1262	sru	1417	KILL	062-1	
+1646	Su-63_swim-1	Su	63_swim	k á/a p k á/a b á/a	suru1262	sru	1439	SWIM	063-2	
+1647	Su-65_walk-1	Su	65_walk	β éé/eː ɾ a	suru1262	sru	1443	WALK	065-1	
+1648	Su-66_come-1	Su	66_come	oː ɾ	suru1262	sru	1446	COME	066-1	
+1649	Su-67_liedown-1	Su	67_liedown	áá/aː t a	suru1262	sru	1411	LIE (REST)	067-1	
+1650	Su-68_sit-1	Su	68_sit	p a t ó/o	suru1262	sru	1416	SIT	068-2	
+1651	Su-69_stand-1	Su	69_stand	a n óó/oː	suru1262	sru	1442	STAND	069-1	
+1652	Su-6_what-1	Su	6_what	n ã́/ã ã n	suru1262	sru	1236	WHAT	006-7	
+1653	Su-70_give-1	Su	70_give	j õ/õː	suru1262	sru	1447	GIVE	070-1	
+1654	Su-72_sun-1	Su	72_sun	ŋ á/a t	suru1262	sru	1343	SUN	072-1	
+1655	Su-73_moon-1	Su	73_moon	ŋ á/a t i k á/a t	suru1262	sru	1313	MOON	073-1	
+1656	Su-74_star-1	Su	74_star	tʃ o j k áá/aː p	suru1262	sru	1430	STAR	074-4	
+1657	Su-75_water-1	Su	75_water	íí/iː tʃ e ɾ	suru1262	sru	948	WATER	075-1	
+1658	Su-76_rain-1	Su	76_rain	ɬ o j	suru1262	sru	2108	RAINING OR RAIN	076-2	
+1659	Su-77_stone-1	Su	77_stone	i ʃ áá/aː + a	suru1262	sru	857	STONE	077-1	
+1660	Su-78_sand-1	Su	78_sand	ŋ õ/õː j ŋ íí/iː ɾ	suru1262	sru	671	SAND	078-13	
+1661	Su-79_earth-1	Su	79_earth	ŋ ṍṍ/õː j	suru1262	sru	1228	EARTH (SOIL)	079-1	
+1662	Su-80_cloud-1	Su	80_cloud	ŋ á/a n i k í/i t	suru1262	sru	1489	CLOUD	080-12	
+1663	Su-81_smoke-1	Su	81_smoke	m ó/o k á/a j + n ĩ ŋ	suru1262	sru	778	SMOKE (EXHAUST)	081-1	
+1664	Su-82_fire-1	Su	82_fire	m ó/o k ã́/ã ã̀/ã j	suru1262	sru	221	FIRE	082-2	
+1665	Su-83_ash-1	Su	83_ash	í/i b i o g a p	suru1262	sru	646	ASH	083-11	
+1666	Su-84_burnintr-1	Su	84_burnintr	p aː	suru1262	sru	1428	BURNING	084-10	
+1667	Su-85_path-1	Su	85_path	m e	suru1262	sru	2252	PATH	085-1	
+1668	Su-86_mountain-1	Su	86_mountain	n o	suru1262	sru	639	MOUNTAIN	086-1	
+1669	Su-87_red-1	Su	87_red	óó/oː p	suru1262	sru	156	RED	087-1	
+1670	Su-88_green-1	Su	88_green	k í/i ɾ	suru1262	sru	1425	GREEN	088-1	
+1671	Su-89_yellow-1	Su	89_yellow	M/m a w é/e a ɾ ó/o b o	suru1262	sru	1424	YELLOW	089-16	
+1672	Su-90_white-1	Su	90_white	k íí/iː ɾ	suru1262	sru	1335	WHITE	090-1	
+1673	Su-90_white-2	Su	90_white	k í/i ɾ	suru1262	sru	1335	WHITE	090-1	
+1674	Su-91_black-1	Su	91_black	p éé/eː p	suru1262	sru	163	BLACK	091-1	
+1675	Su-91_black-2	Su	91_black	i p e p	suru1262	sru	163	BLACK	091-1	
+1676	Su-92_night-1	Su	92_night	m i ʃ ã k	suru1262	sru	1233	NIGHT	092-2	
+1677	Su-93_hot-1	Su	93_hot	a d óó/oː p	suru1262	sru	1286	HOT	093-1	
+1678	Su-95_full-1	Su	95_full	b íí/iː ɾ a	suru1262	sru	1429	FULL	095-1	
+1679	Su-96_good-1	Su	96_good	ã t é/e e	suru1262	sru	1035	GOOD	096-9	
+1680	Su-99_dry-1	Su	99_dry	k á/a g ãː	suru1262	sru	1398	DRY	099-1	
+1681	Su-9_all-1	Su	9_all	b a g a t é/e ɾ	suru1262	sru	98	ALL	009-17	
+1682	Ta-100_name-1	Ta	100_name	e t	tapi1254	taf	1405	NAME	100-1	
+1683	Ta-10_many-1	Ta	10_many	h ɨ ŋ a	tapi1254	taf	1198	MANY	010-4	
+1684	Ta-11_one-1	Ta	11_one	ã t j e p e	tapi1254	taf	1493	ONE	011-5	
+1685	Ta-12_two-1	Ta	12_two	m o k õ j	tapi1254	taf	1498	TWO	012-1	
+1686	Ta-13_big-1	Ta	13_big	o w e t e o	tapi1254	taf	1202	BIG	013-4	
+1687	Ta-14_long-1	Ta	14_long	p o k o	tapi1254	taf	1203	LONG	014-1	
+1688	Ta-15_small-1	Ta	15_small	ã h ɨ t	tapi1254	taf	1246	SMALL	015-1	
+1689	Ta-16_woman-1	Ta	16_woman	k o t j ɨ	tapi1254	taf	962	WOMAN	016-1	
+1690	Ta-18_person-1	Ta	18_person	ã w ã	tapi1254	taf	683	PERSON	018-1	
+1691	Ta-19_fish-1	Ta	19_fish	h i p i ɾ ã	tapi1254	taf	227	FISH	019-2	
+1692	Ta-1_i-1	Ta	1_i	i e	tapi1254	taf	1209	I	001-2	
+1693	Ta-20_bird-1	Ta	20_bird	w ɨ ɾ ã h i	tapi1254	taf	937	BIRD	020-1	
+1694	Ta-22_louse-1	Ta	22_louse	k ɨ p	tapi1254	taf	1392	LOUSE	022-1	
+1695	Ta-23_tree-1	Ta	23_tree	h ɨ w ɨ ɾ ã	tapi1254	taf	906	TREE	023-1	
+1696	Ta-24_seed-1	Ta	24_seed	ã h ĩ j	tapi1254	taf	714	SEED	024-1	
+1697	Ta-25_leaf-1	Ta	25_leaf	a p	tapi1254	taf	628	LEAF	025-1	
+1698	Ta-27_bark-1	Ta	27_bark	ɨ p e	tapi1254	taf	1204	BARK	027-1	
+1699	Ta-28_skin-1	Ta	28_skin	p i t	tapi1254	taf	763	SKIN	028-1	
+1700	Ta-29_fleshmeat-1	Ta	29_fleshmeat	a h a	tapi1254	taf	2615	FLESH OR MEAT	029-2	
+1701	Ta-2_you-1	Ta	2_you	a n e	tapi1254	taf	1215	THOU	002-2	
+1702	Ta-30_blood-1	Ta	30_blood	o w ɨ	tapi1254	taf	946	BLOOD	030-1	
+1703	Ta-31_bone-1	Ta	31_bone	k ɨ ŋ	tapi1254	taf	1394	BONE	031-1	
+1704	Ta-32_egg-1	Ta	32_egg	o p i h ã	tapi1254	taf	744	EGG	032-1	
+1705	Ta-33_greasefat-1	Ta	33_greasefat	k a m	tapi1254	taf	323	FAT (ORGANIC SUBSTANCE)	033-1	
+1706	Ta-34_horn-1	Ta	34_horn	ã t j ĩ	tapi1254	taf	1393	HORN (ANATOMY)	034-2	
+1707	Ta-35_tail-1	Ta	35_tail	o w ã j	tapi1254	taf	1220	TAIL	035-1	
+1708	Ta-36_feather-1	Ta	36_feather	a m	tapi1254	taf	1201	FEATHER	036-1	
+1709	Ta-37_hair-1	Ta	37_hair	h a m	tapi1254	taf	1040	HAIR	037-1	
+1710	Ta-38_head-1	Ta	38_head	ã k ɨ ŋ	tapi1254	taf	1256	HEAD	038-1	
+1711	Ta-39_ear-1	Ta	39_ear	n a m i	tapi1254	taf	1247	EAR	039-1	
+1712	Ta-3_weinclusive-1	Ta	3_weinclusive	t j a n e	tapi1254	taf	1131	WE (INCLUSIVE)	003-1	
+1713	Ta-40_eye-1	Ta	40_eye	ẽ ã	tapi1254	taf	1248	EYE	040-1	
+1714	Ta-41_nose-1	Ta	41_nose	t j ĩ	tapi1254	taf	1221	NOSE	041-2	
+1715	Ta-42_mouth-1	Ta	42_mouth	t j o ɾ o	tapi1254	taf	674	MOUTH	042-1	
+1716	Ta-43_tooth-1	Ta	43_tooth	ĩ j	tapi1254	taf	1380	TOOTH	043-1	
+1717	Ta-44_tongue-1	Ta	44_tongue	k õ	tapi1254	taf	1205	TONGUE	044-1	
+1718	Ta-45_claw-1	Ta	45_claw	m ɨ a p ẽ	tapi1254	taf	72	CLAW	045-1	
+1719	Ta-46_foot-1	Ta	46_foot	m ɨ	tapi1254	taf	1301	FOOT	046-1	
+1720	Ta-47_knee-1	Ta	47_knee	k a n a w ã	tapi1254	taf	1371	KNEE	047-3	
+1721	Ta-48_hand-1	Ta	48_hand	m a	tapi1254	taf	1277	HAND	048-1	
+1722	Ta-49_belly-1	Ta	49_belly	e w e k	tapi1254	taf	1251	BELLY	049-1	
+1723	Ta-4_this-1	Ta	4_this	h ã	tapi1254	taf	1214	THIS	004-3	
+1724	Ta-50_neck-1	Ta	50_neck	t j o t	tapi1254	taf	1333	NECK	050-1	
+1725	Ta-51_breast-1	Ta	51_breast	k ɨ m	tapi1254	taf	1402	BREAST	051-1	
+1726	Ta-52_heartguts-1	Ta	52_heartguts	t j ɨ h ĩ	tapi1254	taf	2436	GUTS OR HEART	052-2	
+1727	Ta-53_liver-1	Ta	53_liver	m ɨ h ã	tapi1254	taf	1224	LIVER	053-1	
+1728	Ta-54_drink-1	Ta	54_drink	ɨ h o	tapi1254	taf	1401	DRINK	054-1	
+1729	Ta-55_eat-1	Ta	55_eat	h o	tapi1254	taf	1336	EAT	055-1	
+1730	Ta-56_bite-1	Ta	56_bite	o h o	tapi1254	taf	1403	BITE	056-1	
+1731	Ta-57_see-1	Ta	57_see	i t j ã k	tapi1254	taf	1409	SEE	057-2	
+1732	Ta-58_hear-1	Ta	58_hear	i n o p	tapi1254	taf	1408	HEAR	058-1	
+1733	Ta-59_know-1	Ta	59_know	a k w aː m	tapi1254	taf	3626	KNOW	059-1	
+1734	Ta-5_that-1	Ta	5_that	e p e	tapi1254	taf	78	THAT	005-2	
+1735	Ta-60_sleep-1	Ta	60_sleep	k e t	tapi1254	taf	1585	SLEEP	060-1	
+1736	Ta-61_die-1	Ta	61_die	m a n õ	tapi1254	taf	1494	DIE	061-1	
+1737	Ta-62_kill-1	Ta	62_kill	h ã p i t j i	tapi1254	taf	1417	KILL	062-4	
+1738	Ta-63_swim-1	Ta	63_swim	h ɨː t a m	tapi1254	taf	1439	SWIM	063-1	
+1739	Ta-64_fly-1	Ta	64_fly	w e w e	tapi1254	taf	1441	FLY (MOVE THROUGH AIR)	064-1	
+1740	Ta-65_walk-1	Ta	65_walk	ã t ã	tapi1254	taf	1443	WALK	065-3	
+1741	Ta-66_come-1	Ta	66_come	t j a t	tapi1254	taf	1446	COME	066-1	
+1742	Ta-67_liedown-1	Ta	67_liedown	h a m	tapi1254	taf	1411	LIE (REST)	067-5	
+1743	Ta-68_sit-1	Ta	68_sit	ã p ɨ k	tapi1254	taf	1416	SIT	068-1	
+1744	Ta-69_stand-1	Ta	69_stand	t j o p	tapi1254	taf	1442	STAND	069-7	
+1745	Ta-6_what-1	Ta	6_what	m a h e	tapi1254	taf	1236	WHAT	006-2	
+1746	Ta-70_give-1	Ta	70_give	m ã ĩ j	tapi1254	taf	1447	GIVE	070-2	
+1747	Ta-71_say-1	Ta	71_say	a h ẽ	tapi1254	taf	1458	SAY	071-1	
+1748	Ta-72_sun-1	Ta	72_sun	a n	tapi1254	taf	1343	SUN	072-3	
+1749	Ta-74_star-1	Ta	74_star	t j ã ɨ t ã t ã h i	tapi1254	taf	1430	STAR	074-1	
+1750	Ta-75_water-1	Ta	75_water	h ɨ	tapi1254	taf	948	WATER	075-1	
+1751	Ta-76_rain-1	Ta	76_rain	a m ɨ n	tapi1254	taf	2108	RAINING OR RAIN	076-1	
+1752	Ta-77_stone-1	Ta	77_stone	i t ã	tapi1254	taf	857	STONE	077-1	
+1753	Ta-79_earth-1	Ta	79_earth	ɨ w ɨ	tapi1254	taf	1228	EARTH (SOIL)	079-2	
+1754	Ta-7_who-1	Ta	7_who	ã w ã	tapi1254	taf	1235	WHO	007-1	
+1755	Ta-80_cloud-1	Ta	80_cloud	a m ɨ n ã i p	tapi1254	taf	1489	CLOUD	080-6	
+1756	Ta-82_fire-1	Ta	82_fire	ã t ã	tapi1254	taf	221	FIRE	082-1	
+1757	Ta-84_burnintr-1	Ta	84_burnintr	k ã j	tapi1254	taf	1428	BURNING	084-1	
+1758	Ta-85_path-1	Ta	85_path	ã p e	tapi1254	taf	2252	PATH	085-1	
+1759	Ta-86_mountain-1	Ta	86_mountain	ɨ w ɨ t ɨ t	tapi1254	taf	639	MOUNTAIN	086-2	
+1760	Ta-87_red-1	Ta	87_red	p i ɾ ɨ ŋ	tapi1254	taf	156	RED	087-3	
+1761	Ta-88_green-1	Ta	88_green	k a h a k ɨ ɾ a + m a h e	tapi1254	taf	1425	GREEN	088-8	
+1762	Ta-8_not-1	Ta	8_not	n + i	tapi1254	taf	1240	NOT	008-2	
+1763	Ta-91_black-1	Ta	91_black	o n	tapi1254	taf	163	BLACK	091-2	
+1764	Ta-92_night-1	Ta	92_night	ɨ p ɨ t o n	tapi1254	taf	1233	NIGHT	092-1	
+1765	Ta-93_hot-1	Ta	93_hot	ã k o p	tapi1254	taf	1286	HOT	093-1	
+1766	Ta-94_cold-1	Ta	94_cold	õ h ɨː ŋ	tapi1254	taf	1287	COLD	094-6	
+1767	Ta-96_good-1	Ta	96_good	k ã t o	tapi1254	taf	1035	GOOD	096-2	
+1768	Ta-97_new-1	Ta	97_new	h ɨ ã o	tapi1254	taf	1231	NEW	097-1	
+1769	Ta-98_round-1	Ta	98_round	ã p a j ã	tapi1254	taf	1395	ROUND	098-2	
+1770	Ta-99_dry-1	Ta	99_dry	m a k ɨ ŋ	tapi1254	taf	1398	DRY	099-1	
+1771	Tu-100_name-1	Tu	100_name	e t	tupa1250	tpr	1405	NAME	100-1	
+1772	Tu-10_many-1	Tu	10_many	k a ɾ a t o	tupa1250	tpr	1198	MANY	010-12	
+1773	Tu-11_one-1	Tu	11_one	k i e	tupa1250	tpr	1493	ONE	011-2	
+1774	Tu-12_two-1	Tu	12_two	h ɨ ɾ ɨ	tupa1250	tpr	1498	TWO	012-2	
+1775	Tu-13_big-1	Tu	13_big	e ɾ aː t	tupa1250	tpr	1202	BIG	013-9	
+1776	Tu-14_long-1	Tu	14_long	t ãː n	tupa1250	tpr	1203	LONG	014-10	
+1777	Tu-15_small-1	Tu	15_small	s i n	tupa1250	tpr	1246	SMALL	015-1	
+1778	Tu-16_woman-1	Tu	16_woman	a ɾ a m i ɾ ã	tupa1250	tpr	962	WOMAN	016-2	
+1779	Tu-17_man-1	Tu	17_man	o k i o	tupa1250	tpr	1554	MAN	017-11	
+1780	Tu-18_person-1	Tu	18_person	k i ɾ e	tupa1250	tpr	683	PERSON	018-3	
+1781	Tu-19_fish-1	Tu	19_fish	i p o t	tupa1250	tpr	227	FISH	019-1	
+1782	Tu-1_i-1	Tu	1_i	õ n	tupa1250	tpr	1209	I	001-1	
+1783	Tu-20_bird-1	Tu	20_bird	k ɨ j a m ʔ i ɾ i	tupa1250	tpr	937	BIRD	020-6	
+1784	Tu-21_dog-1	Tu	21_dog	a m ẽ k o	tupa1250	tpr	2009	DOG	021-1	
+1785	Tu-22_louse-1	Tu	22_louse	k ɨ p	tupa1250	tpr	1392	LOUSE	022-1	
+1786	Tu-23_tree-1	Tu	23_tree	k ɨ p	tupa1250	tpr	906	TREE	023-1	
+1787	Tu-24_seed-1	Tu	24_seed	k i t	tupa1250	tpr	714	SEED	024-3	
+1788	Tu-25_leaf-1	Tu	25_leaf	h e p	tupa1250	tpr	628	LEAF	025-1	
+1789	Tu-26_root-1	Tu	26_root	k ɨ p k ɨ p ʔ i	tupa1250	tpr	670	ROOT	026-2	
+1790	Tu-27_bark-1	Tu	27_bark	a p e	tupa1250	tpr	1204	BARK	027-1	
+1791	Tu-28_skin-1	Tu	28_skin	p eː	tupa1250	tpr	763	SKIN	028-1	
+1792	Tu-29_fleshmeat-1	Tu	29_fleshmeat	n i e n ʔ ã	tupa1250	tpr	2615	FLESH OR MEAT	029-1	
+1793	Tu-2_you-1	Tu	2_you	ẽ n	tupa1250	tpr	1215	THOU	002-1	
+1794	Tu-30_blood-1	Tu	30_blood	e ɨ	tupa1250	tpr	946	BLOOD	030-2	
+1795	Tu-31_bone-1	Tu	31_bone	a k a n ʔ a	tupa1250	tpr	1394	BONE	031-1	
+1796	Tu-32_egg-1	Tu	32_egg	o p s i ʔ a	tupa1250	tpr	744	EGG	032-1	
+1797	Tu-33_greasefat-1	Tu	33_greasefat	a p	tupa1250	tpr	323	FAT (ORGANIC SUBSTANCE)	033-1	
+1798	Tu-34_horn-1	Tu	34_horn	a w s a	tupa1250	tpr	1393	HORN (ANATOMY)	034-1	
+1799	Tu-35_tail-1	Tu	35_tail	o a j t	tupa1250	tpr	1220	TAIL	035-1	
+1800	Tu-36_feather-1	Tu	36_feather	p e p ʔ o	tupa1250	tpr	1201	FEATHER	036-2	
+1801	Tu-37_hair-1	Tu	37_hair	a p a p ʔ a h a p	tupa1250	tpr	1040	HAIR	037-1	
+1802	Tu-38_head-1	Tu	38_head	a p a p ʔ a	tupa1250	tpr	1256	HEAD	038-8	
+1803	Tu-39_ear-1	Tu	39_ear	a p s i ɾ i p ʔ a	tupa1250	tpr	1247	EAR	039-2	
+1804	Tu-3_weinclusive-1	Tu	3_weinclusive	k i t w a t	tupa1250	tpr	1131	WE (INCLUSIVE)	003-3	
+1805	Tu-40_eye-1	Tu	40_eye	e p a	tupa1250	tpr	1248	EYE	040-2	
+1806	Tu-41_nose-1	Tu	41_nose	a m s i	tupa1250	tpr	1221	NOSE	041-1	
+1807	Tu-42_mouth-1	Tu	42_mouth	o j ẽ	tupa1250	tpr	674	MOUTH	042-3	
+1808	Tu-43_tooth-1	Tu	43_tooth	j ã j	tupa1250	tpr	1380	TOOTH	043-1	
+1809	Tu-44_tongue-1	Tu	44_tongue	ʔ õ p e	tupa1250	tpr	1205	TONGUE	044-1	
+1810	Tu-45_claw-1	Tu	45_claw	k ĩ ɾ ĩ j ã	tupa1250	tpr	72	CLAW	045-3	
+1811	Tu-46_foot-1	Tu	46_foot	s i t o	tupa1250	tpr	1301	FOOT	046-1	
+1812	Tu-47_knee-1	Tu	47_knee	m i a n ʔ a	tupa1250	tpr	1371	KNEE	047-1	
+1813	Tu-48_hand-1	Tu	48_hand	ɸ o	tupa1250	tpr	1277	HAND	048-1	
+1814	Tu-49_belly-1	Tu	49_belly	p a t a k	tupa1250	tpr	1251	BELLY	049-11	
+1815	Tu-4_this-1	Tu	4_this	h a	tupa1250	tpr	1214	THIS	004-3	
+1816	Tu-50_neck-1	Tu	50_neck	o t k ɨ p	tupa1250	tpr	1333	NECK	050-3	
+1817	Tu-51_breast-1	Tu	51_breast	k ẽ m	tupa1250	tpr	1402	BREAST	051-1	
+1818	Tu-52_heartguts-1	Tu	52_heartguts	a n o ʔ a	tupa1250	tpr	2436	GUTS OR HEART	052-1	
+1819	Tu-53_liver-1	Tu	53_liver	s i ʔ a	tupa1250	tpr	1224	LIVER	053-1	
+1820	Tu-54_drink-1	Tu	54_drink	k a	tupa1250	tpr	1401	DRINK	054-1	
+1821	Tu-55_eat-1	Tu	55_eat	k a	tupa1250	tpr	1336	EAT	055-1	
+1822	Tu-56_bite-1	Tu	56_bite	w e k a	tupa1250	tpr	1403	BITE	056-1	
+1823	Tu-57_see-1	Tu	57_see	t o a	tupa1250	tpr	1409	SEE	057-1	
+1824	Tu-58_hear-1	Tu	58_hear	a p s i ʔ a	tupa1250	tpr	1408	HEAR	058-5	
+1825	Tu-59_know-1	Tu	59_know	o a p tʃ i a	tupa1250	tpr	3626	KNOW	059-4	
+1826	Tu-60_sleep-1	Tu	60_sleep	ʔ e ɾ a	tupa1250	tpr	1585	SLEEP	060-1	
+1827	Tu-61_die-1	Tu	61_die	p a w a	tupa1250	tpr	1494	DIE	061-2	
+1828	Tu-62_kill-1	Tu	62_kill	õ p a	tupa1250	tpr	1417	KILL	062-2	
+1829	Tu-63_swim-1	Tu	63_swim	ʔ e w ɾ a	tupa1250	tpr	1439	SWIM	063-6	
+1830	Tu-64_fly-1	Tu	64_fly	p e p + o ɾ a	tupa1250	tpr	1441	FLY (MOVE THROUGH AIR)	064-2	
+1831	Tu-65_walk-1	Tu	65_walk	s i t k i a	tupa1250	tpr	1443	WALK	065-4	
+1832	Tu-66_come-1	Tu	66_come	s a	tupa1250	tpr	1446	COME	066-5	
+1833	Tu-67_liedown-1	Tu	67_liedown	a n e a	tupa1250	tpr	1411	LIE (REST)	067-10	
+1834	Tu-68_sit-1	Tu	68_sit	e p s i k a	tupa1250	tpr	1416	SIT	068-7	
+1835	Tu-69_stand-1	Tu	69_stand	o s i ɾ a	tupa1250	tpr	1442	STAND	069-11	
+1836	Tu-6_what-1	Tu	6_what	k a t	tupa1250	tpr	1236	WHAT	006-3	
+1837	Tu-70_give-1	Tu	70_give	õ ã	tupa1250	tpr	1447	GIVE	070-1	
+1838	Tu-71_say-1	Tu	71_say	e m a ʔ a	tupa1250	tpr	1458	SAY	071-2	
+1839	Tu-72_sun-1	Tu	72_sun	k i a h k o p	tupa1250	tpr	1343	SUN	072-2	
+1840	Tu-73_moon-1	Tu	73_moon	k o e p a	tupa1250	tpr	1313	MOON	073-6	
+1841	Tu-74_star-1	Tu	74_star	w a ɾ o w a ɾ o	tupa1250	tpr	1430	STAR	074-2	
+1842	Tu-75_water-1	Tu	75_water	j ɨ	tupa1250	tpr	948	WATER	075-1	
+1843	Tu-76_rain-1	Tu	76_rain	j ɨ	tupa1250	tpr	2108	RAINING OR RAIN	076-3	
+1844	Tu-77_stone-1	Tu	77_stone	k w a i	tupa1250	tpr	857	STONE	077-2	
+1845	Tu-78_sand-1	Tu	78_sand	k o j õ p ɨ ʔ ɨ t	tupa1250	tpr	671	SAND	078-8	
+1846	Tu-79_earth-1	Tu	79_earth	k ɨ j t	tupa1250	tpr	1228	EARTH (SOIL)	079-1	
+1847	Tu-7_who-1	Tu	7_who	a p o	tupa1250	tpr	1235	WHO	007-3	
+1848	Tu-80_cloud-1	Tu	80_cloud	j ɨ t o p ʔ a	tupa1250	tpr	1489	CLOUD	080-10	
+1849	Tu-81_smoke-1	Tu	81_smoke	s ĩ n	tupa1250	tpr	778	SMOKE (EXHAUST)	081-1	
+1850	Tu-82_fire-1	Tu	82_fire	k o p k a p	tupa1250	tpr	221	FIRE	082-3	
+1851	Tu-83_ash-1	Tu	83_ash	k ɨ ɲ ẽː n	tupa1250	tpr	646	ASH	083-1	
+1852	Tu-85_path-1	Tu	85_path	a p e	tupa1250	tpr	2252	PATH	085-1	
+1853	Tu-86_mountain-1	Tu	86_mountain	t o t e t	tupa1250	tpr	639	MOUNTAIN	086-1	
+1854	Tu-87_red-1	Tu	87_red	s o p	tupa1250	tpr	156	RED	087-2	
+1855	Tu-88_green-1	Tu	88_green	s i ʔ a	tupa1250	tpr	1425	GREEN	088-9	
+1856	Tu-89_yellow-1	Tu	89_yellow	h a p ʔ e	tupa1250	tpr	1424	YELLOW	089-12	
+1857	Tu-8_not-1	Tu	8_not	ʔ õ m	tupa1250	tpr	1240	NOT	008-1	
+1858	Tu-90_white-1	Tu	90_white	h i t ʔ e	tupa1250	tpr	1335	WHITE	090-2	
+1859	Tu-91_black-1	Tu	91_black	s i k ʔ e	tupa1250	tpr	163	BLACK	091-4	
+1860	Tu-92_night-1	Tu	92_night	s i m ʔ e	tupa1250	tpr	1233	NIGHT	092-9	
+1861	Tu-93_hot-1	Tu	93_hot	a k o p	tupa1250	tpr	1286	HOT	093-1	
+1862	Tu-95_full-1	Tu	95_full	e ɨ ɾ a	tupa1250	tpr	1429	FULL	095-10	
+1863	Tu-96_good-1	Tu	96_good	p o a t	tupa1250	tpr	1035	GOOD	096-1	
+1864	Tu-98_round-1	Tu	98_round	t o ɾ o	tupa1250	tpr	1395	ROUND	098-7	
+1865	Tu-99_dry-1	Tu	99_dry	k e t ʔ e	tupa1250	tpr	1398	DRY	099-7	
+1866	Tu-9_all-1	Tu	9_all	e ɾ o t e	tupa1250	tpr	98	ALL	009-11	
+1867	Uk-100_name-1	Uk	100_name	h e ɾ	urub1250	urb	1405	NAME	100-1	
+1868	Uk-10_many-1	Uk	10_many	h e t a	urub1250	urb	1198	MANY	010-1	
+1869	Uk-11_one-1	Uk	11_one	p e t e ĩ	urub1250	urb	1493	ONE	011-3	
+1870	Uk-12_two-1	Uk	12_two	m o k õ j	urub1250	urb	1498	TWO	012-1	
+1871	Uk-13_big-1	Uk	13_big	t i h a	urub1250	urb	1202	BIG	013-3	
+1872	Uk-14_long-1	Uk	14_long	p u k u	urub1250	urb	1203	LONG	014-1	
+1873	Uk-15_small-1	Uk	15_small	t a ʔ ɨ ɾ + m i	urub1250	urb	1246	SMALL	015-4	
+1874	Uk-16_woman-1	Uk	16_woman	k ũ j ã	urub1250	urb	962	WOMAN	016-1	
+1875	Uk-17_man-1	Uk	17_man	s a w a ʔ e	urub1250	urb	1554	MAN	017-5	
+1876	Uk-18_person-1	Uk	18_person	a w a	urub1250	urb	683	PERSON	018-1	
+1877	Uk-19_fish-1	Uk	19_fish	p i ɾ a	urub1250	urb	227	FISH	019-2	
+1878	Uk-1_i-1	Uk	1_i	i h ẽ	urub1250	urb	1209	I	001-2	
+1879	Uk-20_bird-1	Uk	20_bird	w ɨ ɾ a	urub1250	urb	937	BIRD	020-1	
+1880	Uk-21_dog-1	Uk	21_dog	j a w a ɾ	urub1250	urb	2009	DOG	021-3	
+1881	Uk-22_louse-1	Uk	22_louse	k ɨ	urub1250	urb	1392	LOUSE	022-1	
+1882	Uk-23_tree-1	Uk	23_tree	ɨ ʔ ɨ	urub1250	urb	906	TREE	023-1	
+1883	Uk-24_seed-1	Uk	24_seed	h a ʔ ĩ	urub1250	urb	714	SEED	024-1	
+1884	Uk-25_leaf-1	Uk	25_leaf	h o	urub1250	urb	628	LEAF	025-1	
+1885	Uk-26_root-1	Uk	26_root	h a p o	urub1250	urb	670	ROOT	026-1	
+1886	Uk-28_skin-1	Uk	28_skin	i p i ɾ e ɾ	urub1250	urb	763	SKIN	028-1	
+1887	Uk-29_fleshmeat-1	Uk	29_fleshmeat	h u k w e ɾ	urub1250	urb	2615	FLESH OR MEAT	029-2	
+1888	Uk-2_you-1	Uk	2_you	n d e	urub1250	urb	1215	THOU	002-2	
+1889	Uk-30_blood-1	Uk	30_blood	h u w ɨ	urub1250	urb	946	BLOOD	030-1	
+1890	Uk-31_bone-1	Uk	31_bone	k a ŋ w e ɾ	urub1250	urb	1394	BONE	031-1	
+1891	Uk-32_egg-1	Uk	32_egg	i p i ʔ a	urub1250	urb	744	EGG	032-1	
+1892	Uk-33_greasefat-1	Uk	33_greasefat	k a	urub1250	urb	323	FAT (ORGANIC SUBSTANCE)	033-1	
+1893	Uk-34_horn-1	Uk	34_horn	i ʔ a k	urub1250	urb	1393	HORN (ANATOMY)	034-1	
+1894	Uk-35_tail-1	Uk	35_tail	h u w a j	urub1250	urb	1220	TAIL	035-1	
+1895	Uk-36_feather-1	Uk	36_feather	h a	urub1250	urb	1201	FEATHER	036-1	
+1896	Uk-37_hair-1	Uk	37_hair	h a	urub1250	urb	1040	HAIR	037-1	
+1897	Uk-38_head-1	Uk	38_head	i a k ã	urub1250	urb	1256	HEAD	038-1	
+1898	Uk-39_ear-1	Uk	39_ear	i n a m b i	urub1250	urb	1247	EAR	039-1	
+1899	Uk-3_weinclusive-1	Uk	3_weinclusive	j a n d e	urub1250	urb	1131	WE (INCLUSIVE)	003-1	
+1900	Uk-40_eye-1	Uk	40_eye	e h a	urub1250	urb	1248	EYE	040-1	
+1901	Uk-41_nose-1	Uk	41_nose	i ã p ũ i	urub1250	urb	1221	NOSE	041-1	
+1902	Uk-42_mouth-1	Uk	42_mouth	j u ɾ u	urub1250	urb	674	MOUTH	042-1	
+1903	Uk-43_tooth-1	Uk	43_tooth	h ã i	urub1250	urb	1380	TOOTH	043-1	
+1904	Uk-44_tongue-1	Uk	44_tongue	h e m b e	urub1250	urb	1205	TONGUE	044-2	
+1905	Uk-45_claw-1	Uk	45_claw	i p ɨ a p ẽ	urub1250	urb	72	CLAW	045-1	
+1906	Uk-46_foot-1	Uk	46_foot	i p ɨ	urub1250	urb	1301	FOOT	046-1	
+1907	Uk-47_knee-1	Uk	47_knee	k a n a w a j	urub1250	urb	1371	KNEE	047-3	
+1908	Uk-48_hand-1	Uk	48_hand	i p o	urub1250	urb	1277	HAND	048-1	
+1909	Uk-49_belly-1	Uk	49_belly	n d ɨ w a	urub1250	urb	1251	BELLY	049-8	
+1910	Uk-4_this-1	Uk	4_this	k o m e ʔ ẽ	urub1250	urb	1214	THIS	004-2	
+1911	Uk-50_neck-1	Uk	50_neck	j u ɾ u p ɨ	urub1250	urb	1333	NECK	050-1	
+1912	Uk-51_breast-1	Uk	51_breast	k a m b ɨ	urub1250	urb	1402	BREAST	051-1	
+1913	Uk-52_heartguts-1	Uk	52_heartguts	ʃ i ɾ a h a	urub1250	urb	2436	GUTS OR HEART	052-3	
+1914	Uk-53_liver-1	Uk	53_liver	i p ɨ ʔ a	urub1250	urb	1224	LIVER	053-1	
+1915	Uk-54_drink-1	Uk	54_drink	u ʔ u	urub1250	urb	1401	DRINK	054-1	
+1916	Uk-55_eat-1	Uk	55_eat	u ʔ u	urub1250	urb	1336	EAT	055-1	
+1917	Uk-56_bite-1	Uk	56_bite	s u ʔ u	urub1250	urb	1403	BITE	056-1	
+1918	Uk-57_see-1	Uk	57_see	u s a k	urub1250	urb	1409	SEE	057-2	
+1919	Uk-58_hear-1	Uk	58_hear	a h e n d u	urub1250	urb	1408	HEAR	058-1	
+1920	Uk-59_know-1	Uk	59_know	u k w a	urub1250	urb	3626	KNOW	059-1	
+1921	Uk-5_that-1	Uk	5_that	p e m e ʔ ẽ	urub1250	urb	78	THAT	005-2	
+1922	Uk-60_sleep-1	Uk	60_sleep	a k e ɾ	urub1250	urb	1585	SLEEP	060-1	
+1923	Uk-61_die-1	Uk	61_die	m a n õ	urub1250	urb	1494	DIE	061-1	
+1924	Uk-62_kill-1	Uk	62_kill	j u k a	urub1250	urb	1417	KILL	062-1	
+1925	Uk-64_fly-1	Uk	64_fly	w e w e	urub1250	urb	1441	FLY (MOVE THROUGH AIR)	064-1	
+1926	Uk-65_walk-1	Uk	65_walk	w a t a	urub1250	urb	1443	WALK	065-3	
+1927	Uk-66_come-1	Uk	66_come	t u ɾ	urub1250	urb	1446	COME	066-1	
+1928	Uk-67_liedown-1	Uk	67_liedown	n i n o	urub1250	urb	1411	LIE (REST)	067-3	
+1929	Uk-68_sit-1	Uk	68_sit	w a p ɨ k	urub1250	urb	1416	SIT	068-1	
+1930	Uk-69_stand-1	Uk	69_stand	p u ʔ a m	urub1250	urb	1442	STAND	069-2	
+1931	Uk-6_what-1	Uk	6_what	m a ʔ e	urub1250	urb	1236	WHAT	006-2	
+1932	Uk-70_give-1	Uk	70_give	m e ʔ ẽ	urub1250	urb	1447	GIVE	070-2	
+1933	Uk-71_say-1	Uk	71_say	j e	urub1250	urb	1458	SAY	071-1	
+1934	Uk-72_sun-1	Uk	72_sun	w a ɾ a h ɨ	urub1250	urb	1343	SUN	072-1	
+1935	Uk-73_moon-1	Uk	73_moon	j a h ɨ	urub1250	urb	1313	MOON	073-1	
+1936	Uk-74_star-1	Uk	74_star	j a h ɨ + ɾ a t a	urub1250	urb	1430	STAR	074-1	
+1937	Uk-75_water-1	Uk	75_water	ɨ	urub1250	urb	948	WATER	075-1	
+1938	Uk-76_rain-1	Uk	76_rain	a m a n	urub1250	urb	2108	RAINING OR RAIN	076-1	
+1939	Uk-77_stone-1	Uk	77_stone	i t a	urub1250	urb	857	STONE	077-1	
+1940	Uk-78_sand-1	Uk	78_sand	ɨ w ɨ k u ʔ i	urub1250	urb	671	SAND	078-3	
+1941	Uk-79_earth-1	Uk	79_earth	ɨ w ɨ	urub1250	urb	1228	EARTH (SOIL)	079-2	
+1942	Uk-7_who-1	Uk	7_who	a w a	urub1250	urb	1235	WHO	007-1	
+1943	Uk-80_cloud-1	Uk	80_cloud	ɨ w a + t a k ã ʃ ĩ	urub1250	urb	1489	CLOUD	080-5	
+1944	Uk-81_smoke-1	Uk	81_smoke	t a t a + t a k ã ʃ ĩ	urub1250	urb	778	SMOKE (EXHAUST)	081-1	
+1945	Uk-82_fire-1	Uk	82_fire	t a t a	urub1250	urb	221	FIRE	082-1	
+1946	Uk-83_ash-1	Uk	83_ash	t a t i m b u k	urub1250	urb	646	ASH	083-4	
+1947	Uk-84_burnintr-1	Uk	84_burnintr	u k a j	urub1250	urb	1428	BURNING	084-1	
+1948	Uk-85_path-1	Uk	85_path	p e	urub1250	urb	2252	PATH	085-1	
+1949	Uk-87_red-1	Uk	87_red	i p i ɾ ã	urub1250	urb	156	RED	087-3	
+1950	Uk-88_green-1	Uk	88_green	h o w ɨ + t e	urub1250	urb	1425	GREEN	088-4	
+1951	Uk-89_yellow-1	Uk	89_yellow	i t a w a	urub1250	urb	1424	YELLOW	089-6	
+1952	Uk-8_not-1	Uk	8_not	ɨ m	urub1250	urb	1240	NOT	008-4	
+1953	Uk-90_white-1	Uk	90_white	i t u w ɨ ɾ	urub1250	urb	1335	WHITE	090-6	
+1954	Uk-91_black-1	Uk	91_black	ũ	urub1250	urb	163	BLACK	091-2	
+1955	Uk-92_night-1	Uk	92_night	p ɨ t u n	urub1250	urb	1233	NIGHT	092-1	
+1956	Uk-93_hot-1	Uk	93_hot	h a k u	urub1250	urb	1286	HOT	093-1	
+1957	Uk-94_cold-1	Uk	94_cold	i ɾ ɨ s ã	urub1250	urb	1287	COLD	094-5	
+1958	Uk-95_full-1	Uk	95_full	t ɨ h ɨ ɾ e m	urub1250	urb	1429	FULL	095-6	
+1959	Uk-96_good-1	Uk	96_good	k a t u	urub1250	urb	1035	GOOD	096-2	
+1960	Uk-97_new-1	Uk	97_new	p ɨ a h u	urub1250	urb	1231	NEW	097-1	
+1961	Uk-98_round-1	Uk	98_round	p u ʔ a	urub1250	urb	1395	ROUND	098-1	
+1962	Uk-99_dry-1	Uk	99_dry	ʃ i k ã	urub1250	urb	1398	DRY	099-1	
+1963	Uk-9_all-1	Uk	9_all	j o h u	urub1250	urb	98	ALL	009-3	
+1964	Wa-100_name-1	Wa	100_name	n d e t	wayo1238	wyr	1405	NAME	100-1	
+1965	Wa-10_many-1	Wa	10_many	p i t e	wayo1238	wyr	1198	MANY	010-10	
+1966	Wa-11_one-1	Wa	11_one	k i e t	wayo1238	wyr	1493	ONE	011-2	
+1967	Wa-12_two-1	Wa	12_two	n d ɨ ɾ ɨ t	wayo1238	wyr	1498	TWO	012-2	
+1968	Wa-13_big-1	Wa	13_big	a k a ɾ a	wayo1238	wyr	1202	BIG	013-8	
+1969	Wa-14_long-1	Wa	14_long	k ã m	wayo1238	wyr	1203	LONG	014-8	
+1970	Wa-15_small-1	Wa	15_small	n ĩ n	wayo1238	wyr	1246	SMALL	015-1	
+1971	Wa-16_woman-1	Wa	16_woman	ã ɾ ã m ĩ ɾ ã	wayo1238	wyr	962	WOMAN	016-2	
+1972	Wa-17_man-1	Wa	17_man	ŋ g w a j t k ɨ p	wayo1238	wyr	1554	MAN	017-10	
+1973	Wa-18_person-1	Wa	18_person	a o t e + n ã	wayo1238	wyr	683	PERSON	018-1	
+1974	Wa-19_fish-1	Wa	19_fish	i β o j t	wayo1238	wyr	227	FISH	019-1	
+1975	Wa-1_i-1	Wa	1_i	õ n	wayo1238	wyr	1209	I	001-1	
+1976	Wa-20_bird-1	Wa	20_bird	ɲ ũ k ɨ ɾ a	wayo1238	wyr	937	BIRD	020-1	
+1977	Wa-21_dog-1	Wa	21_dog	a m ẽ k o	wayo1238	wyr	2009	DOG	021-1	
+1978	Wa-22_louse-1	Wa	22_louse	ã ŋ g ɨ p	wayo1238	wyr	1392	LOUSE	022-1	
+1979	Wa-23_tree-1	Wa	23_tree	k ɨ p	wayo1238	wyr	906	TREE	023-1	
+1980	Wa-24_seed-1	Wa	24_seed	k i t	wayo1238	wyr	714	SEED	024-3	
+1981	Wa-25_leaf-1	Wa	25_leaf	k a ɾ a n d e p	wayo1238	wyr	628	LEAF	025-1	
+1982	Wa-26_root-1	Wa	26_root	k ɨ j u p e	wayo1238	wyr	670	ROOT	026-4	
+1983	Wa-27_bark-1	Wa	27_bark	a p e	wayo1238	wyr	1204	BARK	027-1	
+1984	Wa-28_skin-1	Wa	28_skin	p e	wayo1238	wyr	763	SKIN	028-1	
+1985	Wa-29_fleshmeat-1	Wa	29_fleshmeat	i k o ɲ ẽ ɾ ã	wayo1238	wyr	2615	FLESH OR MEAT	029-1	
+1986	Wa-2_you-1	Wa	2_you	ʔ ẽ n	wayo1238	wyr	1215	THOU	002-1	
+1987	Wa-30_blood-1	Wa	30_blood	ɲ dʒ a ɨ	wayo1238	wyr	946	BLOOD	030-2	
+1988	Wa-31_bone-1	Wa	31_bone	a k ã ɾ ã	wayo1238	wyr	1394	BONE	031-1	
+1989	Wa-32_egg-1	Wa	32_egg	ɨ p i a	wayo1238	wyr	744	EGG	032-1	
+1990	Wa-33_greasefat-1	Wa	33_greasefat	n dʒ a p	wayo1238	wyr	323	FAT (ORGANIC SUBSTANCE)	033-1	
+1991	Wa-34_horn-1	Wa	34_horn	ɲ ã ŋ g o j a	wayo1238	wyr	1393	HORN (ANATOMY)	034-1	
+1992	Wa-35_tail-1	Wa	35_tail	ɲ dʒ o k w a j	wayo1238	wyr	1220	TAIL	035-1	
+1993	Wa-36_feather-1	Wa	36_feather	p e o	wayo1238	wyr	1201	FEATHER	036-2	
+1994	Wa-37_hair-1	Wa	37_hair	o j ã n d a p	wayo1238	wyr	1040	HAIR	037-1	
+1995	Wa-38_head-1	Wa	38_head	o j a	wayo1238	wyr	1256	HEAD	038-7	
+1996	Wa-39_ear-1	Wa	39_ear	a p i t e p	wayo1238	wyr	1247	EAR	039-2	
+1997	Wa-3_weinclusive-1	Wa	3_weinclusive	tʃ i ɾ e	wayo1238	wyr	1131	WE (INCLUSIVE)	003-8	
+1998	Wa-40_eye-1	Wa	40_eye	e β a p a p	wayo1238	wyr	1248	EYE	040-2	
+1999	Wa-41_nose-1	Wa	41_nose	ã p i a	wayo1238	wyr	1221	NOSE	041-1	
+2000	Wa-42_mouth-1	Wa	42_mouth	i ɲ ẽ m p e	wayo1238	wyr	674	MOUTH	042-3	
+2001	Wa-43_tooth-1	Wa	43_tooth	o ɲ ã ɲ	wayo1238	wyr	1380	TOOTH	043-1	
+2002	Wa-44_tongue-1	Wa	44_tongue	õ ɲ õ	wayo1238	wyr	1205	TONGUE	044-1	
+2003	Wa-45_claw-1	Wa	45_claw	k ĩ ɾ ĩ ɲ ã	wayo1238	wyr	72	CLAW	045-3	
+2004	Wa-46_foot-1	Wa	46_foot	m b i	wayo1238	wyr	1301	FOOT	046-1	
+2005	Wa-46_foot-2	Wa	46_foot	o β i	wayo1238	wyr	1301	FOOT	046-1	
+2006	Wa-47_knee-1	Wa	47_knee	o k ɨ m ĩ ã	wayo1238	wyr	1371	KNEE	047-1	
+2007	Wa-48_hand-1	Wa	48_hand	m b o	wayo1238	wyr	1277	HAND	048-1	
+2008	Wa-48_hand-2	Wa	48_hand	o β o	wayo1238	wyr	1277	HAND	048-1	
+2009	Wa-4_this-1	Wa	4_this	ẽː	wayo1238	wyr	1214	THIS	004-2	
+2010	Wa-50_neck-1	Wa	50_neck	o g o t k ɨ p	wayo1238	wyr	1333	NECK	050-3	
+2011	Wa-51_breast-1	Wa	51_breast	ŋ ẽ m	wayo1238	wyr	1402	BREAST	051-1	
+2012	Wa-52_heartguts-1	Wa	52_heartguts	m ã n õ ã	wayo1238	wyr	2436	GUTS OR HEART	052-1	
+2013	Wa-53_liver-1	Wa	53_liver	o p i a	wayo1238	wyr	1224	LIVER	053-1	
+2014	Wa-54_drink-1	Wa	54_drink	k a	wayo1238	wyr	1401	DRINK	054-1	
+2015	Wa-55_eat-1	Wa	55_eat	k a	wayo1238	wyr	1336	EAT	055-1	
+2016	Wa-56_bite-1	Wa	56_bite	p ɨ ɾ ɨ k w a	wayo1238	wyr	1403	BITE	056-3	
+2017	Wa-57_see-1	Wa	57_see	t o a	wayo1238	wyr	1409	SEE	057-1	
+2018	Wa-58_hear-1	Wa	58_hear	ŋ g w a k t o a	wayo1238	wyr	1408	HEAR	058-3	
+2019	Wa-59_know-1	Wa	59_know	β o ẽ n d o p	wayo1238	wyr	3626	KNOW	059-5	
+2020	Wa-60_sleep-1	Wa	60_sleep	e ɾ a	wayo1238	wyr	1585	SLEEP	060-1	
+2021	Wa-61_die-1	Wa	61_die	p a g a	wayo1238	wyr	1494	DIE	061-2	
+2022	Wa-62_kill-1	Wa	62_kill	õ m b a	wayo1238	wyr	1417	KILL	062-2	
+2023	Wa-63_swim-1	Wa	63_swim	t i a p a	wayo1238	wyr	1439	SWIM	063-5	
+2024	Wa-64_fly-1	Wa	64_fly	e m b ɨ ɾ a	wayo1238	wyr	1441	FLY (MOVE THROUGH AIR)	064-6	
+2025	Wa-66_come-1	Wa	66_come	t e ɾ a	wayo1238	wyr	1446	COME	066-4	
+2026	Wa-67_liedown-1	Wa	67_liedown	n d o a	wayo1238	wyr	1411	LIE (REST)	067-9	
+2027	Wa-68_sit-1	Wa	68_sit	ŋ õ ŋ ã	wayo1238	wyr	1416	SIT	068-3	
+2028	Wa-69_stand-1	Wa	69_stand	e ŋ g w e t i k i a	wayo1238	wyr	1442	STAND	069-9	
+2029	Wa-6_what-1	Wa	6_what	a ɾ o p	wayo1238	wyr	1236	WHAT	006-4	
+2030	Wa-70_give-1	Wa	70_give	ɲ õ ã	wayo1238	wyr	1447	GIVE	070-1	
+2031	Wa-71_say-1	Wa	71_say	m ã j ã	wayo1238	wyr	1458	SAY	071-2	
+2032	Wa-72_sun-1	Wa	72_sun	ŋ g i a k o p	wayo1238	wyr	1343	SUN	072-2	
+2033	Wa-73_moon-1	Wa	73_moon	p a k o ɾ i	wayo1238	wyr	1313	MOON	073-2	
+2034	Wa-74_star-1	Wa	74_star	β a β a ɾ o	wayo1238	wyr	1430	STAR	074-2	
+2035	Wa-75_water-1	Wa	75_water	ɨ g ɨ	wayo1238	wyr	948	WATER	075-1	
+2036	Wa-76_rain-1	Wa	76_rain	ɨ g ɨ	wayo1238	wyr	2108	RAINING OR RAIN	076-3	
+2037	Wa-77_stone-1	Wa	77_stone	ŋ g w a i	wayo1238	wyr	857	STONE	077-2	
+2038	Wa-78_sand-1	Wa	78_sand	k ĩ ɲ õ	wayo1238	wyr	671	SAND	078-5	
+2039	Wa-79_earth-1	Wa	79_earth	k ɨː j t	wayo1238	wyr	1228	EARTH (SOIL)	079-1	
+2040	Wa-7_who-1	Wa	7_who	a p o k w aː t	wayo1238	wyr	1235	WHO	007-3	
+2041	Wa-80_cloud-1	Wa	80_cloud	ɨ g ɨ p i k ã ɾ ã ŋ	wayo1238	wyr	1489	CLOUD	080-8	
+2042	Wa-81_smoke-1	Wa	81_smoke	ɲ ĩː ŋ	wayo1238	wyr	778	SMOKE (EXHAUST)	081-1	
+2043	Wa-82_fire-1	Wa	82_fire	a g o p k a p	wayo1238	wyr	221	FIRE	082-3	
+2044	Wa-83_ash-1	Wa	83_ash	k ɨ ɲ ẽː n	wayo1238	wyr	646	ASH	083-1	
+2045	Wa-84_burnintr-1	Wa	84_burnintr	e p o k w a	wayo1238	wyr	1428	BURNING	084-5	
+2046	Wa-85_path-1	Wa	85_path	a p eː	wayo1238	wyr	2252	PATH	085-1	
+2047	Wa-86_mountain-1	Wa	86_mountain	n d o o	wayo1238	wyr	639	MOUNTAIN	086-1	
+2048	Wa-87_red-1	Wa	87_red	ŋ g o p ŋ g o p	wayo1238	wyr	156	RED	087-2	
+2049	Wa-88_green-1	Wa	88_green	k w e ɾ e p	wayo1238	wyr	1425	GREEN	088-5	
+2050	Wa-89_yellow-1	Wa	89_yellow	t a ɾ oː t	wayo1238	wyr	1424	YELLOW	089-10	
+2051	Wa-8_not-1	Wa	8_not	õ m	wayo1238	wyr	1240	NOT	008-1	
+2052	Wa-90_white-1	Wa	90_white	ɲ dʒ i ɾ a	wayo1238	wyr	1335	WHITE	090-2	
+2053	Wa-91_black-1	Wa	91_black	t i k t i k	wayo1238	wyr	163	BLACK	091-4	
+2054	Wa-92_night-1	Wa	92_night	ɲ ĩ n d a k	wayo1238	wyr	1233	NIGHT	092-3	
+2055	Wa-93_hot-1	Wa	93_hot	a k o p	wayo1238	wyr	1286	HOT	093-1	
+2056	Wa-94_cold-1	Wa	94_cold	p i t iː k	wayo1238	wyr	1287	COLD	094-1	
+2057	Wa-95_full-1	Wa	95_full	ɲ dʒ o t	wayo1238	wyr	1429	FULL	095-4	
+2058	Wa-96_good-1	Wa	96_good	p a ɾ e	wayo1238	wyr	1035	GOOD	096-1	
+2059	Wa-99_dry-1	Wa	99_dry	p a β a	wayo1238	wyr	1398	DRY	099-2	
+2060	Wa-9_all-1	Wa	9_all	n d e g e	wayo1238	wyr	98	ALL	009-9	
+2061	Xi-100_name-1	Xi	100_name	j a	xipa1240	xiy	1405	NAME	100-1	
+2062	Xi-10_many-1	Xi	10_many	t u b ɨ	xipa1240	xiy	1198	MANY	010-3	
+2063	Xi-11_one-1	Xi	11_one	m e m e h i n a k u	xipa1240	xiy	1493	ONE	011-4	
+2064	Xi-12_two-1	Xi	12_two	b ɨ d a	xipa1240	xiy	1498	TWO	012-7	
+2065	Xi-13_big-1	Xi	13_big	u ɾ a h u	xipa1240	xiy	1202	BIG	013-1	
+2066	Xi-14_long-1	Xi	14_long	n a u h u	xipa1240	xiy	1203	LONG	014-4	
+2067	Xi-15_small-1	Xi	15_small	ʃ ĩ ʃ ĩ	xipa1240	xiy	1246	SMALL	015-1	
+2068	Xi-16_woman-1	Xi	16_woman	s i dʒ a	xipa1240	xiy	962	WOMAN	016-4	
+2069	Xi-17_man-1	Xi	17_man	s e n a p ɨ	xipa1240	xiy	1554	MAN	017-4	
+2070	Xi-18_person-1	Xi	18_person	t a n a	xipa1240	xiy	683	PERSON	018-7	
+2071	Xi-19_fish-1	Xi	19_fish	ʃ i t a	xipa1240	xiy	227	FISH	019-2	
+2072	Xi-1_i-1	Xi	1_i	u n a	xipa1240	xiy	1209	I	001-1	
+2073	Xi-20_bird-1	Xi	20_bird	i t i	xipa1240	xiy	937	BIRD	020-10	
+2074	Xi-21_dog-1	Xi	21_dog	a p ɨ	xipa1240	xiy	2009	DOG	021-5	
+2075	Xi-22_louse-1	Xi	22_louse	k ɨ p a	xipa1240	xiy	1392	LOUSE	022-1	
+2076	Xi-23_tree-1	Xi	23_tree	i p a	xipa1240	xiy	906	TREE	023-1	
+2077	Xi-24_seed-1	Xi	24_seed	b ɨ a	xipa1240	xiy	714	SEED	024-5	
+2078	Xi-25_leaf-1	Xi	25_leaf	i p a + s u p a	xipa1240	xiy	628	LEAF	025-1	
+2079	Xi-27_bark-1	Xi	27_bark	s a	xipa1240	xiy	1204	BARK	027-1	
+2080	Xi-28_skin-1	Xi	28_skin	s a	xipa1240	xiy	763	SKIN	028-4	
+2081	Xi-29_fleshmeat-1	Xi	29_fleshmeat	a t a	xipa1240	xiy	2615	FLESH OR MEAT	029-3	
+2082	Xi-2_you-1	Xi	2_you	e n a	xipa1240	xiy	1215	THOU	002-1	
+2083	Xi-30_blood-1	Xi	30_blood	a p e t a	xipa1240	xiy	946	BLOOD	030-4	
+2084	Xi-31_bone-1	Xi	31_bone	p a k ɨ	xipa1240	xiy	1394	BONE	031-3	
+2085	Xi-32_egg-1	Xi	32_egg	i dʒ i a	xipa1240	xiy	744	EGG	032-1	
+2086	Xi-33_greasefat-1	Xi	33_greasefat	i k a p a	xipa1240	xiy	323	FAT (ORGANIC SUBSTANCE)	033-1	
+2087	Xi-34_horn-1	Xi	34_horn	a ʃ ã	xipa1240	xiy	1393	HORN (ANATOMY)	034-2	
+2088	Xi-35_tail-1	Xi	35_tail	w a t a p a	xipa1240	xiy	1220	TAIL	035-1	
+2089	Xi-36_feather-1	Xi	36_feather	t a b a	xipa1240	xiy	1201	FEATHER	036-1	
+2090	Xi-37_hair-1	Xi	37_hair	t a b a	xipa1240	xiy	1040	HAIR	037-1	
+2091	Xi-38_head-1	Xi	38_head	t a b a	xipa1240	xiy	1256	HEAD	038-5	
+2092	Xi-39_ear-1	Xi	39_ear	j ã ʃ u k a	xipa1240	xiy	1247	EAR	039-3	
+2093	Xi-3_weinclusive-1	Xi	3_weinclusive	u z u d ɨ	xipa1240	xiy	1131	WE (INCLUSIVE)	003-10	
+2094	Xi-40_eye-1	Xi	40_eye	s e a	xipa1240	xiy	1248	EYE	040-1	
+2095	Xi-41_nose-1	Xi	41_nose	j a m ĩ k u a	xipa1240	xiy	1221	NOSE	041-1	
+2096	Xi-42_mouth-1	Xi	42_mouth	m i t a	xipa1240	xiy	674	MOUTH	042-5	
+2097	Xi-43_tooth-1	Xi	43_tooth	a j ã	xipa1240	xiy	1380	TOOTH	043-1	
+2098	Xi-44_tongue-1	Xi	44_tongue	k u ã	xipa1240	xiy	1205	TONGUE	044-1	
+2099	Xi-45_claw-1	Xi	45_claw	w ã ɾ ã ʃ ã	xipa1240	xiy	72	CLAW	045-5	
+2100	Xi-46_foot-1	Xi	46_foot	b ɨ d a p a	xipa1240	xiy	1301	FOOT	046-1	
+2101	Xi-47_knee-1	Xi	47_knee	m ã	xipa1240	xiy	1371	KNEE	047-5	
+2102	Xi-48_hand-1	Xi	48_hand	b a	xipa1240	xiy	1277	HAND	048-1	
+2103	Xi-49_belly-1	Xi	49_belly	w a z a	xipa1240	xiy	1251	BELLY	049-5	
+2104	Xi-4_this-1	Xi	4_this	a n ɨ	xipa1240	xiy	1214	THIS	004-1	
+2105	Xi-50_neck-1	Xi	50_neck	u b u ɾ i a	xipa1240	xiy	1333	NECK	050-1	
+2106	Xi-51_breast-1	Xi	51_breast	n a m ã	xipa1240	xiy	1402	BREAST	051-1	
+2107	Xi-53_liver-1	Xi	53_liver	b ɨ a	xipa1240	xiy	1224	LIVER	053-1	
+2108	Xi-54_drink-1	Xi	54_drink	w i	xipa1240	xiy	1401	DRINK	054-3	
+2109	Xi-55_eat-1	Xi	55_eat	ʃ u	xipa1240	xiy	1336	EAT	055-1	
+2110	Xi-56_bite-1	Xi	56_bite	t u	xipa1240	xiy	1403	BITE	056-1	
+2111	Xi-57_see-1	Xi	57_see	z a k u	xipa1240	xiy	1409	SEE	057-2	
+2112	Xi-58_hear-1	Xi	58_hear	ẽ d u	xipa1240	xiy	1408	HEAR	058-1	
+2113	Xi-59_know-1	Xi	59_know	b a h u	xipa1240	xiy	3626	KNOW	059-6	
+2114	Xi-5_that-1	Xi	5_that	a m ɨ	xipa1240	xiy	78	THAT	005-4	
+2115	Xi-60_sleep-1	Xi	60_sleep	s i u	xipa1240	xiy	1585	SLEEP	060-2	
+2116	Xi-61_die-1	Xi	61_die	e j ã	xipa1240	xiy	1494	DIE	061-4	
+2117	Xi-62_kill-1	Xi	62_kill	a b a k u	xipa1240	xiy	1417	KILL	062-1	
+2118	Xi-63_swim-1	Xi	63_swim	t a h u	xipa1240	xiy	1439	SWIM	063-7	
+2119	Xi-64_fly-1	Xi	64_fly	a ũ	xipa1240	xiy	1441	FLY (MOVE THROUGH AIR)	064-3	
+2120	Xi-65_walk-1	Xi	65_walk	m a s e u	xipa1240	xiy	1443	WALK	065-9	
+2121	Xi-66_come-1	Xi	66_come	w ɨ	xipa1240	xiy	1446	COME	066-3	
+2122	Xi-67_liedown-1	Xi	67_liedown	ʃ i k u ɾ u	xipa1240	xiy	1411	LIE (REST)	067-11	
+2123	Xi-68_sit-1	Xi	68_sit	b ɨ k u	xipa1240	xiy	1416	SIT	068-1	
+2124	Xi-69_stand-1	Xi	69_stand	m a s e u	xipa1240	xiy	1442	STAND	069-4	
+2125	Xi-6_what-1	Xi	6_what	a p a	xipa1240	xiy	1236	WHAT	006-5	
+2126	Xi-70_give-1	Xi	70_give	k u a	xipa1240	xiy	1447	GIVE	070-4	
+2127	Xi-71_say-1	Xi	71_say	z e	xipa1240	xiy	1458	SAY	071-1	
+2128	Xi-72_sun-1	Xi	72_sun	k u a z a d ɨ	xipa1240	xiy	1343	SUN	072-1	
+2129	Xi-73_moon-1	Xi	73_moon	m ã d ɨ k a	xipa1240	xiy	1313	MOON	073-3	
+2130	Xi-74_star-1	Xi	74_star	n u n i b ɨ a	xipa1240	xiy	1430	STAR	074-3	
+2131	Xi-75_water-1	Xi	75_water	i j a	xipa1240	xiy	948	WATER	075-1	
+2132	Xi-76_rain-1	Xi	76_rain	m a n a	xipa1240	xiy	2108	RAINING OR RAIN	076-1	
+2133	Xi-77_stone-1	Xi	77_stone	k u a p a	xipa1240	xiy	857	STONE	077-3	
+2134	Xi-78_sand-1	Xi	78_sand	t ã j ã j ã	xipa1240	xiy	671	SAND	078-10	
+2135	Xi-79_earth-1	Xi	79_earth	i p ɨ a	xipa1240	xiy	1228	EARTH (SOIL)	079-2	
+2136	Xi-7_who-1	Xi	7_who	m a	xipa1240	xiy	1235	WHO	007-1	
+2137	Xi-80_cloud-1	Xi	80_cloud	k a p u s ĩ ã	xipa1240	xiy	1489	CLOUD	080-1	
+2138	Xi-81_smoke-1	Xi	81_smoke	s i ã	xipa1240	xiy	778	SMOKE (EXHAUST)	081-1	
+2139	Xi-81_smoke-2	Xi	81_smoke	ʃ i ã	xipa1240	xiy	778	SMOKE (EXHAUST)	081-1	
+2140	Xi-82_fire-1	Xi	82_fire	a ʃ i	xipa1240	xiy	221	FIRE	082-1	
+2141	Xi-83_ash-1	Xi	83_ash	p u b u k a	xipa1240	xiy	646	ASH	083-7	
+2142	Xi-84_burnintr-1	Xi	84_burnintr	t u ʃ i	xipa1240	xiy	1428	BURNING	084-3	
+2143	Xi-85_path-1	Xi	85_path	b a p a	xipa1240	xiy	2252	PATH	085-1	
+2144	Xi-86_mountain-1	Xi	86_mountain	t u a	xipa1240	xiy	639	MOUNTAIN	086-1	
+2145	Xi-87_red-1	Xi	87_red	k a p u ɾ u ɾ i	xipa1240	xiy	156	RED	087-2	
+2146	Xi-88_green-1	Xi	88_green	a k ɨ u	xipa1240	xiy	1425	GREEN	088-6	
+2147	Xi-89_yellow-1	Xi	89_yellow	t a k ũ ʃ ĩ	xipa1240	xiy	1424	YELLOW	089-13	
+2148	Xi-8_not-1	Xi	8_not	a ũ	xipa1240	xiy	1240	NOT	008-3	
+2149	Xi-8_not-2	Xi	8_not	m a	xipa1240	xiy	1240	NOT	008-3	
+2150	Xi-90_white-1	Xi	90_white	k a p ĩ	xipa1240	xiy	1335	WHITE	090-3	
+2151	Xi-91_black-1	Xi	91_black	t i n i k ĩ	xipa1240	xiy	163	BLACK	091-5	
+2152	Xi-92_night-1	Xi	92_night	k a m a d ɨ h u	xipa1240	xiy	1233	NIGHT	092-5	
+2153	Xi-93_hot-1	Xi	93_hot	k u h u	xipa1240	xiy	1286	HOT	093-1	
+2154	Xi-94_cold-1	Xi	94_cold	t a k u	xipa1240	xiy	1287	COLD	094-1	
+2155	Xi-95_full-1	Xi	95_full	n a n ẽ ũ	xipa1240	xiy	1429	FULL	095-5	
+2156	Xi-96_good-1	Xi	96_good	p ã	xipa1240	xiy	1035	GOOD	096-1	
+2157	Xi-99_dry-1	Xi	99_dry	k ɨ ɾ ɨ t u	xipa1240	xiy	1398	DRY	099-3	
+2158	Xi-9_all-1	Xi	9_all	k i w i	xipa1240	xiy	98	ALL	009-13	
+2159	Zo-100_name-1	Zo	100_name	z é/e t	zoro1244	nan	1405	NAME	100-1	
+2160	Zo-100_name-2	Zo	100_name	s é/e t	zoro1244	nan	1405	NAME	100-1	
+2161	Zo-10_many-1	Zo	10_many	g ó/o l ó/o á/a	zoro1244	nan	1198	MANY	010-2	
+2162	Zo-11_one-1	Zo	11_one	m ó/o ò/o j	zoro1244	nan	1493	ONE	011-1	
+2163	Zo-12_two-1	Zo	12_two	b ó/o s aː t	zoro1244	nan	1498	TWO	012-3	
+2164	Zo-13_big-1	Zo	13_big	p ó/o ò/o j	zoro1244	nan	1202	BIG	013-2	
+2165	Zo-14_long-1	Zo	14_long	a t ó/o ò/o	zoro1244	nan	1203	LONG	014-2	
+2166	Zo-15_small-1	Zo	15_small	c i ʃ ĩː t	zoro1244	nan	1246	SMALL	015-1	
+2167	Zo-16_woman-1	Zo	16_woman	β ã z e t	zoro1244	nan	962	WOMAN	016-3	
+2168	Zo-17_man-1	Zo	17_man	β ɨ j	zoro1244	nan	1554	MAN	017-1	
+2169	Zo-18_person-1	Zo	18_person	p ã d e ɾ e	zoro1244	nan	683	PERSON	018-2	
+2170	Zo-19_fish-1	Zo	19_fish	b o l í/i p	zoro1244	nan	227	FISH	019-1	
+2171	Zo-1_i-1	Zo	1_i	õ/õː t	zoro1244	nan	1209	I	001-1	
+2172	Zo-21_dog-1	Zo	21_dog	á/a w ɨ l ɨ	zoro1244	nan	2009	DOG	021-2	
+2173	Zo-22_louse-1	Zo	22_louse	g i t	zoro1244	nan	1392	LOUSE	022-1	
+2174	Zo-23_tree-1	Zo	23_tree	iː p	zoro1244	nan	906	TREE	023-1	
+2175	Zo-24_seed-1	Zo	24_seed	k á/a p	zoro1244	nan	714	SEED	024-2	
+2176	Zo-25_leaf-1	Zo	25_leaf	s e p	zoro1244	nan	628	LEAF	025-1	
+2177	Zo-26_root-1	Zo	26_root	p á/a g a	zoro1244	nan	670	ROOT	026-3	
+2178	Zo-27_bark-1	Zo	27_bark	s á/a b é/e è/e	zoro1244	nan	1204	BARK	027-1	
+2179	Zo-28_skin-1	Zo	28_skin	s é/e ɾ é/e k	zoro1244	nan	763	SKIN	028-2	
+2180	Zo-29_fleshmeat-1	Zo	29_fleshmeat	j ṍṍ/õː β a	zoro1244	nan	2615	FLESH OR MEAT	029-1	
+2181	Zo-2_you-1	Zo	2_you	ẽː t	zoro1244	nan	1215	THOU	002-1	
+2182	Zo-30_blood-1	Zo	30_blood	c iː t	zoro1244	nan	946	BLOOD	030-3	
+2183	Zo-31_bone-1	Zo	31_bone	k ã́/ã l ĩ	zoro1244	nan	1394	BONE	031-1	
+2184	Zo-32_egg-1	Zo	32_egg	k á/a p	zoro1244	nan	744	EGG	032-2	
+2185	Zo-33_greasefat-1	Zo	33_greasefat	k a p	zoro1244	nan	323	FAT (ORGANIC SUBSTANCE)	033-1	
+2186	Zo-34_horn-1	Zo	34_horn	c i β a t ó/o a	zoro1244	nan	1393	HORN (ANATOMY)	034-6	
+2187	Zo-35_tail-1	Zo	35_tail	s a p õ õ̀/õ p	zoro1244	nan	1220	TAIL	035-2	
+2188	Zo-36_feather-1	Zo	36_feather	s é/e p	zoro1244	nan	1201	FEATHER	036-1	
+2189	Zo-37_hair-1	Zo	37_hair	s é/e p	zoro1244	nan	1040	HAIR	037-1	
+2190	Zo-38_head-1	Zo	38_head	á/a d á/a à/a t	zoro1244	nan	1256	HEAD	038-2	
+2191	Zo-38_head-2	Zo	38_head	ã́/ã d á/a à/a t	zoro1244	nan	1256	HEAD	038-2	
+2192	Zo-39_ear-1	Zo	39_ear	n é/e p í/i á/a p	zoro1244	nan	1247	EAR	039-1	
+2193	Zo-3_weinclusive-1	Zo	3_weinclusive	p a n óó/oː j	zoro1244	nan	1131	WE (INCLUSIVE)	003-2	
+2194	Zo-40_eye-1	Zo	40_eye	j a k í/i ì/i p	zoro1244	nan	1248	EYE	040-1	
+2195	Zo-41_nose-1	Zo	41_nose	á/a m iː	zoro1244	nan	1221	NOSE	041-1	
+2196	Zo-42_mouth-1	Zo	42_mouth	k o	zoro1244	nan	674	MOUTH	042-2	
+2197	Zo-43_tooth-1	Zo	43_tooth	j ẽ́ẽ́/ẽː j	zoro1244	nan	1380	TOOTH	043-1	
+2198	Zo-44_tongue-1	Zo	44_tongue	k o k í/i ì/i p	zoro1244	nan	1205	TONGUE	044-1	
+2199	Zo-45_claw-1	Zo	45_claw	p í/i k ṍṍ/õː j	zoro1244	nan	72	CLAW	045-2	
+2200	Zo-46_foot-1	Zo	46_foot	b í/i	zoro1244	nan	1301	FOOT	046-1	
+2201	Zo-46_foot-2	Zo	46_foot	p í/i	zoro1244	nan	1301	FOOT	046-1	
+2202	Zo-47_knee-1	Zo	47_knee	s a b i k á/a à/a p	zoro1244	nan	1371	KNEE	047-2	
+2203	Zo-48_hand-1	Zo	48_hand	p á/a b e	zoro1244	nan	1277	HAND	048-1	
+2204	Zo-49_belly-1	Zo	49_belly	k o l í/i á/a	zoro1244	nan	1251	BELLY	049-13	
+2205	Zo-4_this-1	Zo	4_this	ãã́/ãː	zoro1244	nan	1214	THIS	004-1	
+2206	Zo-50_neck-1	Zo	50_neck	a b óó/oː + k ã́/ã l ĩ	zoro1244	nan	1333	NECK	050-2	
+2207	Zo-51_breast-1	Zo	51_breast	n ã β ãː	zoro1244	nan	1402	BREAST	051-1	
+2208	Zo-52_heartguts-1	Zo	52_heartguts	á/a g õ ã	zoro1244	nan	2436	GUTS OR HEART	052-1	
+2209	Zo-53_liver-1	Zo	53_liver	s aː	zoro1244	nan	1224	LIVER	053-1	
+2210	Zo-54_drink-1	Zo	54_drink	β a	zoro1244	nan	1401	DRINK	054-2	
+2211	Zo-55_eat-1	Zo	55_eat	β a	zoro1244	nan	1336	EAT	055-2	
+2212	Zo-56_bite-1	Zo	56_bite	β a	zoro1244	nan	1403	BITE	056-2	
+2213	Zo-57_see-1	Zo	57_see	í/i k i n ì/i	zoro1244	nan	1409	SEE	057-3	
+2214	Zo-58_hear-1	Zo	58_hear	p iː	zoro1244	nan	1408	HEAR	058-2	
+2215	Zo-59_know-1	Zo	59_know	j aː t	zoro1244	nan	3626	KNOW	059-2	
+2216	Zo-5_that-1	Zo	5_that	j i	zoro1244	nan	78	THAT	005-1	
+2217	Zo-60_sleep-1	Zo	60_sleep	k e ɾ e	zoro1244	nan	1585	SLEEP	060-1	
+2218	Zo-61_die-1	Zo	61_die	β i ì/i	zoro1244	nan	1494	DIE	061-3	
+2219	Zo-62_kill-1	Zo	62_kill	a k a	zoro1244	nan	1417	KILL	062-1	
+2220	Zo-63_swim-1	Zo	63_swim	k õ j k õ j ã	zoro1244	nan	1439	SWIM	063-11	
+2221	Zo-65_walk-1	Zo	65_walk	β eː t t á/a	zoro1244	nan	1443	WALK	065-1	
+2222	Zo-66_come-1	Zo	66_come	β o l o	zoro1244	nan	1446	COME	066-1	
+2223	Zo-67_liedown-1	Zo	67_liedown	aː t	zoro1244	nan	1411	LIE (REST)	067-1	
+2224	Zo-68_sit-1	Zo	68_sit	p o t ó/o ò/o t	zoro1244	nan	1416	SIT	068-2	
+2225	Zo-69_stand-1	Zo	69_stand	á/a d ó/o ò/o	zoro1244	nan	1442	STAND	069-1	
+2226	Zo-6_what-1	Zo	6_what	m é/e	zoro1244	nan	1236	WHAT	006-1	
+2227	Zo-70_give-1	Zo	70_give	n oː	zoro1244	nan	1447	GIVE	070-1	
+2228	Zo-72_sun-1	Zo	72_sun	g á/a t	zoro1244	nan	1343	SUN	072-1	
+2229	Zo-73_moon-1	Zo	73_moon	g á/a t i	zoro1244	nan	1313	MOON	073-1	
+2230	Zo-74_star-1	Zo	74_star	z oː j k á/a à/a p	zoro1244	nan	1430	STAR	074-4	
+2231	Zo-75_water-1	Zo	75_water	iː t e t	zoro1244	nan	948	WATER	075-1	
+2232	Zo-76_rain-1	Zo	76_rain	z o j	zoro1244	nan	2108	RAINING OR RAIN	076-2	
+2233	Zo-77_stone-1	Zo	77_stone	i c á/a a	zoro1244	nan	857	STONE	077-1	
+2234	Zo-78_sand-1	Zo	78_sand	i c á/a g á/a p	zoro1244	nan	671	SAND	078-1	
+2235	Zo-79_earth-1	Zo	79_earth	g ṍṍ/õː j	zoro1244	nan	1228	EARTH (SOIL)	079-1	
+2236	Zo-7_who-1	Zo	7_who	m é/e	zoro1244	nan	1235	WHO	007-2	
+2237	Zo-80_cloud-1	Zo	80_cloud	β á/a k o ɾ a á/a	zoro1244	nan	1489	CLOUD	080-2	
+2238	Zo-81_smoke-1	Zo	81_smoke	p ó/o k ã́/ã j n i k	zoro1244	nan	778	SMOKE (EXHAUST)	081-1	
+2239	Zo-82_fire-1	Zo	82_fire	p ó/o k ã́/ã ã̀/ã j	zoro1244	nan	221	FIRE	082-2	
+2240	Zo-83_ash-1	Zo	83_ash	β a t + k õ p + k í/i ì/i t	zoro1244	nan	646	ASH	083-2	
+2241	Zo-84_burnintr-1	Zo	84_burnintr	k ã́/ã ã̀/ã j	zoro1244	nan	1428	BURNING	084-1	
+2242	Zo-85_path-1	Zo	85_path	b e	zoro1244	nan	2252	PATH	085-1	
+2243	Zo-85_path-2	Zo	85_path	p e	zoro1244	nan	2252	PATH	085-1	
+2244	Zo-86_mountain-1	Zo	86_mountain	d o	zoro1244	nan	639	MOUNTAIN	086-1	
+2245	Zo-86_mountain-2	Zo	86_mountain	t o	zoro1244	nan	639	MOUNTAIN	086-1	
+2246	Zo-87_red-1	Zo	87_red	β ó/o ò/o p	zoro1244	nan	156	RED	087-1	
+2247	Zo-88_green-1	Zo	88_green	k í/i ɾ i	zoro1244	nan	1425	GREEN	088-1	
+2248	Zo-89_yellow-1	Zo	89_yellow	k é/e ɾ é/e è/e	zoro1244	nan	1424	YELLOW	089-1	
+2249	Zo-8_not-1	Zo	8_not	õ õ̀/õ p	zoro1244	nan	1240	NOT	008-1	
+2250	Zo-90_white-1	Zo	90_white	k í/i ì/i t	zoro1244	nan	1335	WHITE	090-1	
+2251	Zo-91_black-1	Zo	91_black	p eː p	zoro1244	nan	163	BLACK	091-1	
+2252	Zo-92_night-1	Zo	92_night	b i c ã k	zoro1244	nan	1233	NIGHT	092-2	
+2253	Zo-95_full-1	Zo	95_full	b í/i ɾ á/a	zoro1244	nan	1429	FULL	095-1	
+2254	Zo-96_good-1	Zo	96_good	p a ɾ aː t	zoro1244	nan	1035	GOOD	096-1	
+2255	Zo-97_new-1	Zo	97_new	k o ɾ o	zoro1244	nan	1231	NEW	097-2	
+2256	Zo-99_dry-1	Zo	99_dry	k ã́/ã g ãː	zoro1244	nan	1398	DRY	099-1	
+2257	Zo-9_all-1	Zo	9_all	s o p o p	zoro1244	nan	98	ALL	009-1	

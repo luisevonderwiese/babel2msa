@@ -1,0 +1,1799 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+8854	25005	johanssonsoundsymbolic-Guarani	para1311		bark	1204	BARK		ape	a p e
+22651	38802	gerarditupi-Amonda	amun1246		belly	1251	BELLY		e w e g a	e w e g a
+22652	38803	gerarditupi-Arawete	araw1273		belly	1251	BELLY		p i r i ʔ i	p i r i ʔ i
+22653	38804	gerarditupi-Asurini	toca1235		belly	1251	BELLY		e w e ŋ a	e w e ŋ a
+22654	38805	gerarditupi-AvaCanoeiro	avac1239		belly	1251	BELLY		ɨ p u ã	ɨ p u ã
+22655	38806	gerarditupi-Aweti	awet1244		belly	1251	BELLY		p ɨ l u p	p ɨ l u p
+22656	38807	gerarditupi-Chiriguano	east2555		belly	1251	BELLY		ɨ e	ɨ e
+22657	38808	gerarditupi-Emerillon	emer1243		belly	1251	BELLY		ɨ e	ɨ e
+22658	38809	gerarditupi-Guaja	guaj1256		belly	1251	BELLY		p a r a w ã	p a r a w ã
+22659	38810	gerarditupi-Guajajara	guaj1255		belly	1251	BELLY		p u r u ʔ a	p u r u ʔ a
+22660	38811	gerarditupi-GuaraniMbya	mbya1239		belly	1251	BELLY		p u r u ʔ ã	p u r u ʔ ã
+22661	38812	gerarditupi-Guarayo	guar1292		belly	1251	BELLY		i e	i e
+22662	38813	gerarditupi-Kamayura	kama1373		belly	1251	BELLY		p ɨ r u ʔ ã	p ɨ r u ʔ ã
+22663	38814	gerarditupi-Kayabi	kaya1329		belly	1251	BELLY		e w e k	e w e k
+22664	38815	gerarditupi-Kokama	coca1259		belly	1251	BELLY		t͡s e w e k a	ts e w e k a
+22665	38816	gerarditupi-Mawe	sate1243		belly	1251	BELLY		p ɨ r u m ʔ a	p ɨ r u m ʔ a
+22666	38817	gerarditupi-Nheengatu	nhen1239		belly	1251	BELLY		m u r u ã	m u r u ã
+22667	38818	gerarditupi-Parakana	para1312		belly	1251	BELLY		p ɨ r o ʔ o	p ɨ r o ʔ o
+22668	38819	gerarditupi-Parintintin	tenh1241		belly	1251	BELLY		e β e j	e β e j
+22669	38820	gerarditupi-Siriono	siri1273		belly	1251	BELLY		i e	i e
+22670	38821	gerarditupi-Tapirape	tapi1254		belly	1251	BELLY		e w e k	e w e k
+22671	38822	gerarditupi-UrubuKaapor	urub1250		belly	1251	BELLY		p u r u ʔ ã	p u r u ʔ ã
+22672	38823	gerarditupi-Urueuwauwau	urue1240		belly	1251	BELLY		e w e g a	e w e g a
+22673	38824	gerarditupi-Warazu	paus1244		belly	1251	BELLY		p u r u ʔ ã	p u r u ʔ ã
+22674	38825	gerarditupi-Wayampi	waya1270		belly	1251	BELLY		a k a p e	a k a p e
+22675	38826	gerarditupi-Yuki	yuqu1240		belly	1251	BELLY		ɨ e	ɨ e
+22890	39041	johanssonsoundsymbolic-Guarani	para1311		belly	1251	BELLY		kuʔa	k u ʔ a
+27729	43880	gerarditupi-Amonda	amun1246		big	1202	BIG		e h ã j h u	e h ã j h u
+27730	43881	gerarditupi-Anambe	anam1249		big	1202	BIG		u h u	u h u
+27731	43882	gerarditupi-Arawete	araw1273		big	1202	BIG		p u k u	p u k u
+27732	43883	gerarditupi-Asurini	toca1235		big	1202	BIG		w i s e	w i s e
+27733	43884	gerarditupi-AsuriniXingu	xing1248		big	1202	BIG		f u k u	f u k u
+27734	43885	gerarditupi-AvaCanoeiro	avac1239		big	1202	BIG		u r u	u r u
+27735	43886	gerarditupi-Aweti	awet1244		big	1202	BIG		w a t u	w a t u
+27736	43887	gerarditupi-Chiriguano	east2555		big	1202	BIG		o w e t e o	o w e t e o
+27737	43888	gerarditupi-Emerillon	emer1243		big	1202	BIG		u h u	u h u
+27738	43889	gerarditupi-Guaja	guaj1256		big	1202	BIG		h u	h u
+27739	43890	gerarditupi-Guajajara	guaj1255		big	1202	BIG		u h u a ʔ u	u h u a ʔ u
+27740	43891	gerarditupi-GuaraniMbya	mbya1239		big	1202	BIG		gʷ a t͡ʃ u	gʷ a tʃ u
+27741	43892	gerarditupi-Guarayo	guar1292		big	1202	BIG		gʷ a t͡s u	gʷ a ts u
+27742	43893	gerarditupi-Kayabi	kaya1329		big	1202	BIG		ũ ũ	ũ ũ
+27743	43894	gerarditupi-Kokama	coca1259		big	1202	BIG		t u	t u
+27744	43895	gerarditupi-Mawe	sate1243		big	1202	BIG		w a t o	w a t o
+27745	43896	gerarditupi-Nheengatu	nhen1239		big	1202	BIG		u s u	u s u
+27746	43897	gerarditupi-Parakana	para1312		big	1202	BIG		o h o	o h o
+27747	43898	gerarditupi-Parintintin	tenh1241		big	1202	BIG		e h ã j	e h ã j
+27748	43899	gerarditupi-Siriono	siri1273		big	1202	BIG		k a s u	k a s u
+27749	43900	gerarditupi-Surui	suru1262		big	1202	BIG		u h u	u h u
+27750	43901	gerarditupi-Tapirape	tapi1254		big	1202	BIG		o	o
+27751	43902	gerarditupi-Tembe	temb1276		big	1202	BIG		u h u	u h u
+27752	43903	gerarditupi-UrubuKaapor	urub1250		big	1202	BIG		u t͡ʃ u	u tʃ u
+27753	43904	gerarditupi-Urueuwauwau	urue1240		big	1202	BIG		e h ã j	e h ã j
+27754	43905	gerarditupi-Warazu	paus1244		big	1202	BIG		w u h u	w u h u
+27755	43906	gerarditupi-Xeta	xeta1241		big	1202	BIG		ɤ a ʒ o	ɤ a ʒ o
+27756	43907	gerarditupi-Yuki	yuqu1240		big	1202	BIG		gʷ a s u	gʷ a s u
+27931	44082	johanssonsoundsymbolic-Guarani	para1311		big	1202	BIG		tuitʃa	t u i tʃ a
+30126	46277	gerarditupi-Amonda	amun1246		bird	937	BIRD		w i r a	w i r a
+30127	46278	gerarditupi-Anambe	anam1249		bird	937	BIRD		w ɨ r ã	w ɨ r ã
+30128	46279	gerarditupi-Asurini	toca1235		bird	937	BIRD		w ɨ r a	w ɨ r a
+30129	46280	gerarditupi-AsuriniXingu	xing1248		bird	937	BIRD		w ɨ r a	w ɨ r a
+30130	46281	gerarditupi-AvaCanoeiro	avac1239		bird	937	BIRD		w ɨ r a	w ɨ r a
+30131	46282	gerarditupi-Aweti	awet1244		bird	937	BIRD		e p u z a	e p u z a
+30132	46283	gerarditupi-Chiriguano	east2555		bird	937	BIRD		gʷ ɨ r a	gʷ ɨ r a
+30133	46284	gerarditupi-Emerillon	emer1243		bird	937	BIRD		b a ʔ e l a ʔ ɨ l	b a ʔ e l a ʔ ɨ l
+30134	46285	gerarditupi-Guaja	guaj1256		bird	937	BIRD		i r a	i r a
+30135	46286	gerarditupi-Guajajara	guaj1255		bird	937	BIRD		w ɨ r a	w ɨ r a
+30136	46287	gerarditupi-GuaraniMbya	mbya1239		bird	937	BIRD		gʷ ɨ r a	gʷ ɨ r a
+30137	46288	gerarditupi-Guarayo	guar1292		bird	937	BIRD		β ɨ r a	β ɨ r a
+30138	46289	gerarditupi-Guayaki	ache1246		bird	937	BIRD		kʷ ɨ r a	kʷ ɨ r a
+30139	46290	gerarditupi-Kamayura	kama1373		bird	937	BIRD		w ɨ r a	w ɨ r a
+30140	46291	gerarditupi-Kayabi	kaya1329		bird	937	BIRD		w ɨ r a	w ɨ r a
+30141	46292	gerarditupi-Kokama	coca1259		bird	937	BIRD		w ɨ r a	w ɨ r a
+30142	46293	gerarditupi-Mawe	sate1243		bird	937	BIRD		w ei t a	w ei t a
+30143	46294	gerarditupi-Nheengatu	nhen1239		bird	937	BIRD		w i r a	w i r a
+30144	46295	gerarditupi-Parakana	para1312		bird	937	BIRD		β ɨ r a	β ɨ r a
+30145	46296	gerarditupi-Parintintin	tenh1241		bird	937	BIRD		gʷ ɨ r a	gʷ ɨ r a
+30146	46297	gerarditupi-Siriono	siri1273		bird	937	BIRD		g i r a	g i r a
+30147	46298	gerarditupi-Surui	suru1262		bird	937	BIRD		w ɨ r a	w ɨ r a
+30148	46299	gerarditupi-Tapirape	tapi1254		bird	937	BIRD		w ɨ r ã h i	w ɨ r ã h i
+30149	46300	gerarditupi-Tembe	temb1276		bird	937	BIRD		w i r a	w i r a
+30150	46301	gerarditupi-UrubuKaapor	urub1250		bird	937	BIRD		m a ʔ e w ɨ r a	m a ʔ e w ɨ r a
+30151	46302	gerarditupi-Urueuwauwau	urue1240		bird	937	BIRD		w i r a	w i r a
+30152	46303	gerarditupi-Warazu	paus1244		bird	937	BIRD		w i r a	w i r a
+30153	46304	gerarditupi-Wayampi	waya1270		bird	937	BIRD		w ɨ r a	w ɨ r a
+30154	46305	gerarditupi-Xeta	xeta1241		bird	937	BIRD		ŋʷ o r a	ŋʷ o r a
+30155	46306	gerarditupi-Yuki	yuqu1240		bird	937	BIRD		g u r a	g u r a
+30317	46468	johanssonsoundsymbolic-Guarani	para1311		bird	937	BIRD		ɣwɨɾa	ɣʷ ɨ ɾ a
+30539	46690	lundgrenomagoa-Omagua	omag1248		bird	937	BIRD		wɨɾa	w ɨ ɾ a
+30540	46691	lundgrenomagoa-Tupinamba	tupi1273		bird	937	BIRD		gʷɨɾá	gʷ ɨ ɾ á
+32457	48608	gerarditupi-Amonda	amun1246		bite	1403	BITE		h u ʔ u	h u ʔ u
+32458	48609	gerarditupi-Anambe	anam1249		bite	1403	BITE		u ʔ u	u ʔ u
+32459	48610	gerarditupi-Arawete	araw1273		bite	1403	BITE		ʔ u ʔ u	ʔ u ʔ u
+32460	48611	gerarditupi-Asurini	toca1235		bite	1403	BITE		o ʔ o	o ʔ o
+32461	48612	gerarditupi-AsuriniXingu	xing1248		bite	1403	BITE		o ʔ o	o ʔ o
+32462	48613	gerarditupi-AvaCanoeiro	avac1239		bite	1403	BITE		t͡ʃ u	tʃ u
+32463	48614	gerarditupi-Aweti	awet1244		bite	1403	BITE		t u ʔ u	t u ʔ u
+32464	48615	gerarditupi-Chiriguano	east2555		bite	1403	BITE		s u u	s u u
+32465	48616	gerarditupi-Emerillon	emer1243		bite	1403	BITE		t͡s u ʔ u	ts u ʔ u
+32466	48617	gerarditupi-Guaja	guaj1256		bite	1403	BITE		t͡ʃ u ʔ u	tʃ u ʔ u
+32467	48618	gerarditupi-Guajajara	guaj1255		bite	1403	BITE		t͡ʃ i ʔ u	tʃ i ʔ u
+32468	48619	gerarditupi-GuaraniMbya	mbya1239		bite	1403	BITE		t͡ʃ u ʔ u	tʃ u ʔ u
+32469	48620	gerarditupi-Guarayo	guar1292		bite	1403	BITE		s u ʔ u	s u ʔ u
+32470	48621	gerarditupi-Guayaki	ache1246		bite	1403	BITE		t͡ʃ u u	tʃ u u
+32471	48622	gerarditupi-Kamayura	kama1373		bite	1403	BITE		u ʔ u	u ʔ u
+32472	48623	gerarditupi-Kayabi	kaya1329		bite	1403	BITE		u ʔ u	u ʔ u
+32473	48624	gerarditupi-Kokama	coca1259		bite	1403	BITE		k a r u t a	k a r u t a
+32474	48625	gerarditupi-Mawe	sate1243		bite	1403	BITE		k a t u ʔ u	k a t u ʔ u
+32475	48626	gerarditupi-Nheengatu	nhen1239		bite	1403	BITE		s u ʔ u	s u ʔ u
+32476	48627	gerarditupi-Parintintin	tenh1241		bite	1403	BITE		h u ʔ u	h u ʔ u
+32477	48628	gerarditupi-Siriono	siri1273		bite	1403	BITE		s ɨ u	s ɨ u
+32478	48629	gerarditupi-Surui	suru1262		bite	1403	BITE		o ʔ o	o ʔ o
+32479	48630	gerarditupi-Tapirape	tapi1254		bite	1403	BITE		o ʔ o	o ʔ o
+32480	48631	gerarditupi-Tembe	temb1276		bite	1403	BITE		t i ʔ u	t i ʔ u
+32481	48632	gerarditupi-UrubuKaapor	urub1250		bite	1403	BITE		s u ʔ u	s u ʔ u
+32482	48633	gerarditupi-Urueuwauwau	urue1240		bite	1403	BITE		h u ʔ u	h u ʔ u
+32483	48634	gerarditupi-Warazu	paus1244		bite	1403	BITE		h u ʔ u	h u ʔ u
+32484	48635	gerarditupi-Wayampi	waya1270		bite	1403	BITE		s u ʔ u	s u ʔ u
+32485	48636	gerarditupi-Xeta	xeta1241		bite	1403	BITE		t͡ʃ o	tʃ o
+32486	48637	gerarditupi-Yuki	yuqu1240		bite	1403	BITE		s u u	s u u
+32666	48817	johanssonsoundsymbolic-Guarani	para1311		bite	1403	BITE		suʔu	s u ʔ u
+35103	51254	gerarditupi-Amonda	amun1246		black	163	BLACK		ɨ p ɨ t ũ n ã	ɨ p ɨ t ũ n ã
+35104	51255	gerarditupi-Anambe	anam1249		black	163	BLACK		p ɨ t ũ	p ɨ t ũ
+35105	51256	gerarditupi-Asurini	toca1235		black	163	BLACK		p i h o n	p i h o n
+35106	51257	gerarditupi-AsuriniXingu	xing1248		black	163	BLACK		p i o n	p i o n
+35107	51258	gerarditupi-AvaCanoeiro	avac1239		black	163	BLACK		p i u n	p i u n
+35108	51259	gerarditupi-Aweti	awet1244		black	163	BLACK		k i l a w	k i l a w
+35109	51260	gerarditupi-Chiriguano	east2555		black	163	BLACK		h ũ	h ũ
+35110	51261	gerarditupi-Emerillon	emer1243		black	163	BLACK		h u n	h u n
+35111	51262	gerarditupi-Guaja	guaj1256		black	163	BLACK		p i h ũ	p i h ũ
+35112	51263	gerarditupi-Guajajara	guaj1255		black	163	BLACK		p i h u n	p i h u n
+35113	51264	gerarditupi-GuaraniMbya	mbya1239		black	163	BLACK		ũ	ũ
+35114	51265	gerarditupi-Guarayo	guar1292		black	163	BLACK		ũ	ũ
+35115	51266	gerarditupi-Guayaki	ache1246		black	163	BLACK		n j o ʔ õ	n j o ʔ õ
+35116	51267	gerarditupi-Kamayura	kama1373		black	163	BLACK		p i t͡s u n	p i ts u n
+35117	51268	gerarditupi-Kayabi	kaya1329		black	163	BLACK		ũ n	ũ n
+35118	51269	gerarditupi-Kokama	coca1259		black	163	BLACK		t͡s u n i	ts u n i
+35119	51270	gerarditupi-Mawe	sate1243		black	163	BLACK		h u n	h u n
+35120	51271	gerarditupi-Nheengatu	nhen1239		black	163	BLACK		p i ʃ u n a	p i ʃ u n a
+35121	51272	gerarditupi-Parakana	para1312		black	163	BLACK		p i õ n	p i õ n
+35122	51273	gerarditupi-Parintintin	tenh1241		black	163	BLACK		ɨ p ɨ t ũ n ã	ɨ p ɨ t ũ n ã
+35123	51274	gerarditupi-Siriono	siri1273		black	163	BLACK		õ d e	õ d e
+35124	51275	gerarditupi-Surui	suru1262		black	163	BLACK		p ɨ s u n	p ɨ s u n
+35125	51276	gerarditupi-Tapirape	tapi1254		black	163	BLACK		o n	o n
+35126	51277	gerarditupi-Tembe	temb1276		black	163	BLACK		p i h u n	p i h u n
+35127	51278	gerarditupi-UrubuKaapor	urub1250		black	163	BLACK		p i h u n	p i h u n
+35128	51279	gerarditupi-Urueuwauwau	urue1240		black	163	BLACK		ɨ p ɨ t ũ n ã	ɨ p ɨ t ũ n ã
+35129	51280	gerarditupi-Warazu	paus1244		black	163	BLACK		ũ	ũ
+35130	51281	gerarditupi-Wayampi	waya1270		black	163	BLACK		p i j̃ ũ	p i j̃ ũ
+35131	51282	gerarditupi-Xeta	xeta1241		black	163	BLACK		h ũ n t a j	h ũ n t a j
+35132	51283	gerarditupi-Yuki	yuqu1240		black	163	BLACK		t õ d a r u	t õ d a r u
+35282	51433	johanssonsoundsymbolic-Guarani	para1311		black	163	BLACK		hũ	h ũ
+35504	51655	lundgrenomagoa-Omagua	omag1248		black	163	BLACK		suni	s + u n i
+35505	51656	lundgrenomagoa-Tupinamba	tupi1273		black	163	BLACK		una	u n a
+38692	54843	johanssonsoundsymbolic-Guarani	para1311		blood	946	BLOOD		tuɣwɨ	t u ɣʷ ɨ
+38916	55067	lundgrenomagoa-Omagua	omag1248		blood	946	BLOOD		suɨ	s + u ɨ
+38917	55068	lundgrenomagoa-Tupinamba	tupi1273		blood	946	BLOOD		ugʷɨ	u gʷ ɨ
+46748	62899	gerarditupi-Amonda	amun1246		bone	1394	BONE		k ã ŋ ã	k ã ŋ ã
+46749	62900	gerarditupi-Anambe	anam1249		bone	1394	BONE		k ɨ̃	k ɨ̃
+46750	62901	gerarditupi-Arawete	araw1273		bone	1394	BONE		t͡ʃ i	tʃ i
+46751	62902	gerarditupi-Asurini	toca1235		bone	1394	BONE		k ɨ ŋ	k ɨ ŋ
+46752	62903	gerarditupi-AsuriniXingu	xing1248		bone	1394	BONE		k ɨ̃ ŋ	k ɨ̃ ŋ
+46753	62904	gerarditupi-AvaCanoeiro	avac1239		bone	1394	BONE		k a ŋ	k a ŋ
+46754	62905	gerarditupi-Aweti	awet1244		bone	1394	BONE		k a ŋ	k a ŋ
+46755	62906	gerarditupi-Chiriguano	east2555		bone	1394	BONE		k ã gʷ e	k ã gʷ e
+46756	62907	gerarditupi-Emerillon	emer1243		bone	1394	BONE		k a w a n	k a w a n
+46757	62908	gerarditupi-Guaja	guaj1256		bone	1394	BONE		k ã	k ã
+46758	62909	gerarditupi-Guajajara	guaj1255		bone	1394	BONE		k ə g	k ə g
+46759	62910	gerarditupi-GuaraniMbya	mbya1239		bone	1394	BONE		k a ŋʷ e	k a ŋʷ e
+46760	62911	gerarditupi-Guarayo	guar1292		bone	1394	BONE		k ã ŋʷ e r	k ã ŋʷ e r
+46761	62912	gerarditupi-Guayaki	ache1246		bone	1394	BONE		k ã	k ã
+46762	62913	gerarditupi-Kamayura	kama1373		bone	1394	BONE		k a ŋ	k a ŋ
+46763	62914	gerarditupi-Kayabi	kaya1329		bone	1394	BONE		k a ʔ g	k a ʔ g
+46764	62915	gerarditupi-Kokama	coca1259		bone	1394	BONE		k a n u a r a	k a n u a r a
+46765	62916	gerarditupi-Mawe	sate1243		bone	1394	BONE		k a ŋ	k a ŋ
+46766	62917	gerarditupi-Nheengatu	nhen1239		bone	1394	BONE		k ã w e r a	k ã w e r a
+46767	62918	gerarditupi-Parakana	para1312		bone	1394	BONE		k ɨ g	k ɨ g
+46768	62919	gerarditupi-Parintintin	tenh1241		bone	1394	BONE		k ã ŋ ã	k ã ŋ ã
+46769	62920	gerarditupi-Siriono	siri1273		bone	1394	BONE		k iã ŋ e	k iã ŋ e
+46770	62921	gerarditupi-Surui	suru1262		bone	1394	BONE		k õ ŋ	k õ ŋ
+46771	62922	gerarditupi-Tapirape	tapi1254		bone	1394	BONE		k ɨ g	k ɨ g
+46772	62923	gerarditupi-Tembe	temb1276		bone	1394	BONE		k a ŋ	k a ŋ
+46773	62924	gerarditupi-UrubuKaapor	urub1250		bone	1394	BONE		ʃ ã ŋʷ e r	ʃ ã ŋʷ e r
+46774	62925	gerarditupi-Urueuwauwau	urue1240		bone	1394	BONE		k ã ŋ ã	k ã ŋ ã
+46775	62926	gerarditupi-Warazu	paus1244		bone	1394	BONE		k a w e	k a w e
+46776	62927	gerarditupi-Wayampi	waya1270		bone	1394	BONE		k a ŋʷ e	k a ŋʷ e
+46777	62928	gerarditupi-Xeta	xeta1241		bone	1394	BONE		k a	k a
+46778	62929	gerarditupi-Yuki	yuqu1240		bone	1394	BONE		k j ã g w e	k j ã g w e
+46922	63073	johanssonsoundsymbolic-Guarani	para1311		bone	1394	BONE		kãŋɣwe	k ã ŋ ɣʷ e
+47143	63294	lundgrenomagoa-Omagua	omag1248		bone	1394	BONE		kanuaɾa	k a n u a ɾ a
+47144	63295	lundgrenomagoa-Tupinamba	tupi1273		bone	1394	BONE		kaŋa	k a ŋ a
+56849	73002	gerarditupi-Amonda	amun1246		breast	1402	BREAST		k ã m ã	k ã m ã
+56850	73003	gerarditupi-Anambe	anam1249		breast	1402	BREAST		k ɨ m i	k ɨ m i
+56851	73004	gerarditupi-AsuriniXingu	xing1248		breast	1402	BREAST		k ɨ m	k ɨ m
+56852	73005	gerarditupi-AvaCanoeiro	avac1239		breast	1402	BREAST		k a m	k a m
+56853	73006	gerarditupi-Aweti	awet1244		breast	1402	BREAST		k a m	k a m
+56854	73007	gerarditupi-Chiriguano	east2555		breast	1402	BREAST		k á mb ɨ	k á mb ɨ
+56855	73008	gerarditupi-Emerillon	emer1243		breast	1402	BREAST		k a m o	k a m o
+56856	73009	gerarditupi-Guaja	guaj1256		breast	1402	BREAST		k a m ã	k a m ã
+56857	73010	gerarditupi-Guajajara	guaj1255		breast	1402	BREAST		k a m	k a m
+56858	73011	gerarditupi-GuaraniMbya	mbya1239		breast	1402	BREAST		k ã	k ã
+56859	73012	gerarditupi-Guarayo	guar1292		breast	1402	BREAST		a k ã	a k ã
+56860	73013	gerarditupi-Kamayura	kama1373		breast	1402	BREAST		k ã m	k ã m
+56861	73014	gerarditupi-Kayabi	kaya1329		breast	1402	BREAST		k a m	k a m
+56862	73015	gerarditupi-Kokama	coca1259		breast	1402	BREAST		k a m a	k a m a
+56863	73016	gerarditupi-Mawe	sate1243		breast	1402	BREAST		n a m	n a m
+56864	73017	gerarditupi-Nheengatu	nhen1239		breast	1402	BREAST		k a m i	k a m i
+56865	73018	gerarditupi-Parakana	para1312		breast	1402	BREAST		k o m	k o m
+56866	73019	gerarditupi-Parintintin	tenh1241		breast	1402	BREAST		k ã m ã	k ã m ã
+56867	73020	gerarditupi-Siriono	siri1273		breast	1402	BREAST		k i ã	k i ã
+56868	73021	gerarditupi-Tapirape	tapi1254		breast	1402	BREAST		k ɨ m	k ɨ m
+56869	73022	gerarditupi-Tembe	temb1276		breast	1402	BREAST		k a m	k a m
+56870	73023	gerarditupi-UrubuKaapor	urub1250		breast	1402	BREAST		k a mb ɨ	k a mb ɨ
+56871	73024	gerarditupi-Urueuwauwau	urue1240		breast	1402	BREAST		k ã m ã	k ã m ã
+56872	73025	gerarditupi-Warazu	paus1244		breast	1402	BREAST		k ə	k ə
+56873	73026	gerarditupi-Wayampi	waya1270		breast	1402	BREAST		k ã	k ã
+56874	73027	gerarditupi-Yuki	yuqu1240		breast	1402	BREAST		e k i t ã	e k i t ã
+57008	73161	johanssonsoundsymbolic-Guarani	para1311		breast	1402	BREAST		kama	k a m a
+57225	73378	lundgrenomagoa-Omagua	omag1248		breast	1402	BREAST		kama	k a m a
+57226	73379	lundgrenomagoa-Tupinamba	tupi1273		breast	1402	BREAST		kama	k a m a
+64480	80633	johanssonsoundsymbolic-Guarani	para1311		burn	2102	BURN		kai	k a i
+64690	80843	lundgrenomagoa-Omagua	omag1248		burn	2102	BURN		ukai	u + k a i
+64691	80844	lundgrenomagoa-Omagua	omag1248		burn	2102	BURN		ukaita	u k a i t a
+64692	80845	lundgrenomagoa-Tupinamba	tupi1273		burn	2102	BURN		apɨ	a p ɨ
+64693	80846	lundgrenomagoa-Tupinamba	tupi1273		burn	2102	BURN		kaja	k a j a
+64694	80847	lundgrenomagoa-Tupinamba	tupi1273		burn	2102	BURN		mokaja	m o k a j a
+64695	80848	lundgrenomagoa-Tupinamba	tupi1273		burn	2102	BURN		taja	t a j a
+91439	107592	gerarditupi-Amonda	amun1246		cloud	1489	CLOUD		ɨ β a k a	ɨ β a k a
+91440	107593	gerarditupi-Anambe	anam1249		cloud	1489	CLOUD		ɨ w a t͡ʃ ĩ	ɨ w a tʃ ĩ
+91441	107594	gerarditupi-Arawete	araw1273		cloud	1489	CLOUD		i β ã t͡s ɨ̃	i β ã ts ɨ̃
+91442	107595	gerarditupi-Asurini	toca1235		cloud	1489	CLOUD		ɨ w a ŋ	ɨ w a ŋ
+91443	107596	gerarditupi-AsuriniXingu	xing1248		cloud	1489	CLOUD		a m ɨ n ɨ w a k a	a m ɨ n ɨ w a k a
+91444	107597	gerarditupi-AvaCanoeiro	avac1239		cloud	1489	CLOUD		ɨ w a t i ŋ	ɨ w a t i ŋ
+91445	107598	gerarditupi-Chiriguano	east2555		cloud	1489	CLOUD		ã m a	ã m a
+91446	107599	gerarditupi-Emerillon	emer1243		cloud	1489	CLOUD		a r a t a t s i ŋ	a r a t a t s i ŋ
+91447	107600	gerarditupi-Guaja	guaj1256		cloud	1489	CLOUD		i w a k ũ	i w a k ũ
+91448	107601	gerarditupi-Guajajara	guaj1255		cloud	1489	CLOUD		ɨ w a ʃ i g	ɨ w a ʃ i g
+91449	107602	gerarditupi-GuaraniMbya	mbya1239		cloud	1489	CLOUD		a r ai	a r ai
+91450	107603	gerarditupi-Guarayo	guar1292		cloud	1489	CLOUD		i β a kʷ i a	i β a kʷ i a
+91451	107604	gerarditupi-Kamayura	kama1373		cloud	1489	CLOUD		ɨ w a t͡s i ŋ	ɨ w a ts i ŋ
+91452	107605	gerarditupi-Kayabi	kaya1329		cloud	1489	CLOUD		ɨ w a s i ŋ	ɨ w a s i ŋ
+91453	107606	gerarditupi-Kokama	coca1259		cloud	1489	CLOUD		ɨ w ɨ t i n i	ɨ w ɨ t i n i
+91454	107607	gerarditupi-Mawe	sate1243		cloud	1489	CLOUD		ɨ w ɨ h i ŋ	ɨ w ɨ h i ŋ
+91455	107608	gerarditupi-Nheengatu	nhen1239		cloud	1489	CLOUD		n u v i	n u v i
+91456	107609	gerarditupi-Parakana	para1312		cloud	1489	CLOUD		a t a t͡ʃ i g	a t a tʃ i g
+91457	107610	gerarditupi-Parintintin	tenh1241		cloud	1489	CLOUD		ɨ β a k a	ɨ β a k a
+91458	107611	gerarditupi-Siriono	siri1273		cloud	1489	CLOUD		p ã ɨ	p ã ɨ
+91459	107612	gerarditupi-Surui	suru1262		cloud	1489	CLOUD		t a t a t͡ʃ i r o n	t a t a tʃ i r o n
+91460	107613	gerarditupi-Tapirape	tapi1254		cloud	1489	CLOUD		a m ɨ n ã i p	a m ɨ n ã i p
+91461	107614	gerarditupi-Tembe	temb1276		cloud	1489	CLOUD		ɨ w a k u n	ɨ w a k u n
+91462	107615	gerarditupi-UrubuKaapor	urub1250		cloud	1489	CLOUD		t a k ã ʃ ĩ	t a k ã ʃ ĩ
+91463	107616	gerarditupi-Urueuwauwau	urue1240		cloud	1489	CLOUD		ɨ β a k a	ɨ β a k a
+91464	107617	gerarditupi-Warazu	paus1244		cloud	1489	CLOUD		i w ə j t͡s ɨ	i w ə j ts ɨ
+91465	107618	gerarditupi-Wayampi	waya1270		cloud	1489	CLOUD		ɨ w a s ĩ	ɨ w a s ĩ
+91466	107619	gerarditupi-Xeta	xeta1241		cloud	1489	CLOUD		k a r a m a t͡ʃ a	k a r a m a tʃ a
+91620	107773	johanssonsoundsymbolic-Guarani	para1311		cloud	1489	CLOUD		aɾai	a ɾ a i
+95197	111350	johanssonsoundsymbolic-Guarani	para1311		cold	1287	COLD		ɾoʔɨ	ɾ o ʔ ɨ
+98644	114797	gerarditupi-Amonda	amun1246		come	1446	COME		o r	o r
+98645	114798	gerarditupi-Anambe	anam1249		come	1446	COME		j o	j o
+98646	114799	gerarditupi-Arawete	araw1273		come	1446	COME		u	u
+98647	114800	gerarditupi-Asurini	toca1235		come	1446	COME		o n	o n
+98648	114801	gerarditupi-AsuriniXingu	xing1248		come	1446	COME		u t	u t
+98649	114802	gerarditupi-AvaCanoeiro	avac1239		come	1446	COME		u r	u r
+98650	114803	gerarditupi-Aweti	awet1244		come	1446	COME		u t	u t
+98651	114804	gerarditupi-Chiriguano	east2555		come	1446	COME		j u	j u
+98652	114805	gerarditupi-Emerillon	emer1243		come	1446	COME		dʒ o t	dʒ o t
+98653	114806	gerarditupi-Guaja	guaj1256		come	1446	COME		u	u
+98654	114807	gerarditupi-Guajajara	guaj1255		come	1446	COME		u r	u r
+98655	114808	gerarditupi-GuaraniMbya	mbya1239		come	1446	COME		dʒ u	dʒ u
+98656	114809	gerarditupi-Guarayo	guar1292		come	1446	COME		j u	j u
+98657	114810	gerarditupi-Guayaki	ache1246		come	1446	COME		u	u
+98658	114811	gerarditupi-Kamayura	kama1373		come	1446	COME		u t	u t
+98659	114812	gerarditupi-Kayabi	kaya1329		come	1446	COME		o t	o t
+98660	114813	gerarditupi-Kokama	coca1259		come	1446	COME		u r i	u r i
+98661	114814	gerarditupi-Mawe	sate1243		come	1446	COME		o t	o t
+98662	114815	gerarditupi-Nheengatu	nhen1239		come	1446	COME		u r i	u r i
+98663	114816	gerarditupi-Parakana	para1312		come	1446	COME		o r	o r
+98664	114817	gerarditupi-Parintintin	tenh1241		come	1446	COME		o r	o r
+98665	114818	gerarditupi-Siriono	siri1273		come	1446	COME		u	u
+98666	114819	gerarditupi-Surui	suru1262		come	1446	COME		u r	u r
+98667	114820	gerarditupi-Tapirape	tapi1254		come	1446	COME		t͡ʃ a r	tʃ a r
+98668	114821	gerarditupi-Tembe	temb1276		come	1446	COME		u r	u r
+98669	114822	gerarditupi-UrubuKaapor	urub1250		come	1446	COME		u r	u r
+98670	114823	gerarditupi-Urueuwauwau	urue1240		come	1446	COME		o r	o r
+98671	114824	gerarditupi-Warazu	paus1244		come	1446	COME		u	u
+98672	114825	gerarditupi-Wayampi	waya1270		come	1446	COME		u	u
+98673	114826	gerarditupi-Yuki	yuqu1240		come	1446	COME		u	u
+98859	115012	johanssonsoundsymbolic-Guarani	para1311		come	1446	COME		ɟu	ɟ u
+126867	143022	gerarditupi-Amonda	amun1246		die	1494	DIE		m õ n õ	m õ n õ
+126868	143023	gerarditupi-Anambe	anam1249		die	1494	DIE		m a n ũ	m a n ũ
+126869	143024	gerarditupi-Arawete	araw1273		die	1494	DIE		m a n ũ	m a n ũ
+126870	143025	gerarditupi-Asurini	toca1235		die	1494	DIE		m a n o	m a n o
+126871	143026	gerarditupi-AsuriniXingu	xing1248		die	1494	DIE		m a n ũ	m a n ũ
+126872	143027	gerarditupi-AvaCanoeiro	avac1239		die	1494	DIE		m a n o	m a n o
+126873	143028	gerarditupi-Aweti	awet1244		die	1494	DIE		m a j õ	m a j õ
+126874	143029	gerarditupi-Chiriguano	east2555		die	1494	DIE		m ã n o	m ã n o
+126875	143030	gerarditupi-Emerillon	emer1243		die	1494	DIE		m a n õ	m a n õ
+126876	143031	gerarditupi-Guaja	guaj1256		die	1494	DIE		m a n ũ	m a n ũ
+126877	143032	gerarditupi-Guajajara	guaj1255		die	1494	DIE		m e n o	m e n o
+126878	143033	gerarditupi-GuaraniMbya	mbya1239		die	1494	DIE		m a n o	m a n o
+126879	143034	gerarditupi-Guarayo	guar1292		die	1494	DIE		m a n o	m a n o
+126880	143035	gerarditupi-Guayaki	ache1246		die	1494	DIE		m a n o	m a n o
+126881	143036	gerarditupi-Kamayura	kama1373		die	1494	DIE		m a n o	m a n o
+126882	143037	gerarditupi-Kayabi	kaya1329		die	1494	DIE		m a n ũ	m a n ũ
+126883	143038	gerarditupi-Kokama	coca1259		die	1494	DIE		u m a n u	u m a n u
+126884	143039	gerarditupi-Mawe	sate1243		die	1494	DIE		k u ʔ u r o	k u ʔ u r o
+126885	143040	gerarditupi-Nheengatu	nhen1239		die	1494	DIE		m a n ũ	m a n ũ
+126886	143041	gerarditupi-Parakana	para1312		die	1494	DIE		m a n o	m a n o
+126887	143042	gerarditupi-Parintintin	tenh1241		die	1494	DIE		m õ n õ	m õ n õ
+126888	143043	gerarditupi-Siriono	siri1273		die	1494	DIE		m a n o	m a n o
+126889	143044	gerarditupi-Tapirape	tapi1254		die	1494	DIE		m a n õ	m a n õ
+126890	143045	gerarditupi-Tembe	temb1276		die	1494	DIE		m a n o	m a n o
+126891	143046	gerarditupi-UrubuKaapor	urub1250		die	1494	DIE		m a n õ	m a n õ
+126892	143047	gerarditupi-Urueuwauwau	urue1240		die	1494	DIE		m õ n õ	m õ n õ
+126893	143048	gerarditupi-Warazu	paus1244		die	1494	DIE		m a n o	m a n o
+126894	143049	gerarditupi-Wayampi	waya1270		die	1494	DIE		m a n ũ	m a n ũ
+126895	143050	gerarditupi-Yuki	yuqu1240		die	1494	DIE		o m a n o	o m a n o
+127080	143235	johanssonsoundsymbolic-Guarani	para1311		die	1494	DIE		mano	m a n o
+135632	151787	johanssonsoundsymbolic-Guarani	para1311		dog	2009	DOG		ɟaɣwa	ɟ a ɣʷ a
+142100	158255	johanssonsoundsymbolic-Guarani	para1311		drink	1401	DRINK		u	u
+145556	161711	gerarditupi-Amonda	amun1246		dry	1398	DRY		i β i r a h ĩ m	i β i r a h ĩ m
+145557	161712	gerarditupi-Anambe	anam1249		dry	1398	DRY		t ɨ k ɨ̃	t ɨ k ɨ̃
+145558	161713	gerarditupi-Arawete	araw1273		dry	1398	DRY		k a ʔ ẽ	k a ʔ ẽ
+145559	161714	gerarditupi-Asurini	toca1235		dry	1398	DRY		o w ɨ n	o w ɨ n
+145560	161715	gerarditupi-AvaCanoeiro	avac1239		dry	1398	DRY		t ɨ p ɨ w	t ɨ p ɨ w
+145561	161716	gerarditupi-Chiriguano	east2555		dry	1398	DRY		t ĩ n i	t ĩ n i
+145562	161717	gerarditupi-Emerillon	emer1243		dry	1398	DRY		s i k a ŋ	s i k a ŋ
+145563	161718	gerarditupi-Guaja	guaj1256		dry	1398	DRY		k ɨ̃	k ɨ̃
+145564	161719	gerarditupi-Guajajara	guaj1255		dry	1398	DRY		k ə g	k ə g
+145565	161720	gerarditupi-GuaraniMbya	mbya1239		dry	1398	DRY		p i r u	p i r u
+145566	161721	gerarditupi-Guarayo	guar1292		dry	1398	DRY		p i r u	p i r u
+145567	161722	gerarditupi-Guayaki	ache1246		dry	1398	DRY		t͡ʃ a k ã	tʃ a k ã
+145568	161723	gerarditupi-Kamayura	kama1373		dry	1398	DRY		p i k a ŋ	p i k a ŋ
+145569	161724	gerarditupi-Kayabi	kaya1329		dry	1398	DRY		k a ŋ	k a ŋ
+145570	161725	gerarditupi-Kokama	coca1259		dry	1398	DRY		i k a n a	i k a n a
+145571	161726	gerarditupi-Mawe	sate1243		dry	1398	DRY		ŋ a ŋ	ŋ a ŋ
+145572	161727	gerarditupi-Nheengatu	nhen1239		dry	1398	DRY		t i k a ŋ a	t i k a ŋ a
+145573	161728	gerarditupi-Parakana	para1312		dry	1398	DRY		a p i n	a p i n
+145574	161729	gerarditupi-Parintintin	tenh1241		dry	1398	DRY		i β i a h i	i β i a h i
+145575	161730	gerarditupi-Siriono	siri1273		dry	1398	DRY		ɨ r u	ɨ r u
+145576	161731	gerarditupi-Tembe	temb1276		dry	1398	DRY		k a ŋ	k a ŋ
+145577	161732	gerarditupi-UrubuKaapor	urub1250		dry	1398	DRY		k ã	k ã
+145578	161733	gerarditupi-Urueuwauwau	urue1240		dry	1398	DRY		i β i r a h ĩ	i β i r a h ĩ
+145579	161734	gerarditupi-Warazu	paus1244		dry	1398	DRY		p ɨ r u	p ɨ r u
+145580	161735	gerarditupi-Wayampi	waya1270		dry	1398	DRY		s i k ã	s i k ã
+145581	161736	gerarditupi-Yuki	yuqu1240		dry	1398	DRY		i r u	i r u
+145740	161895	johanssonsoundsymbolic-Guarani	para1311		dry	1398	DRY		kã	k ã
+151175	167330	johanssonsoundsymbolic-Guarani	para1311		ear	1247	EAR		nambi	n a m b i
+151402	167557	lundgrenomagoa-Omagua	omag1248		ear	1247	EAR		nami	n a m i
+151403	167558	lundgrenomagoa-Tupinamba	tupi1273		ear	1247	EAR		apɨsá	a p ɨ s á
+151404	167559	lundgrenomagoa-Tupinamba	tupi1273		ear	1247	EAR		nambi	n a mb i
+154097	170252	johanssonsoundsymbolic-Guarani	para1311		earthsoil	1228	EARTH (SOIL)		ɨʋɨ	ɨ ʋ ɨ
+156492	172647	gerarditupi-Anambe	anam1249		eat	1336	EAT		k a r u	k a r u
+156493	172648	gerarditupi-Arawete	araw1273		eat	1336	EAT		k a r u	k a r u
+156494	172649	gerarditupi-Asurini	toca1235		eat	1336	EAT		k a r o	k a r o
+156495	172650	gerarditupi-AsuriniXingu	xing1248		eat	1336	EAT		k a r o	k a r o
+156496	172651	gerarditupi-AvaCanoeiro	avac1239		eat	1336	EAT		u	u
+156497	172652	gerarditupi-Chiriguano	east2555		eat	1336	EAT		k a r u	k a r u
+156498	172653	gerarditupi-Emerillon	emer1243		eat	1336	EAT		w a	w a
+156499	172654	gerarditupi-GuaraniMbya	mbya1239		eat	1336	EAT		k a r o	k a r o
+156500	172655	gerarditupi-Guarayo	guar1292		eat	1336	EAT		k a r u	k a r u
+156501	172656	gerarditupi-Kamayura	kama1373		eat	1336	EAT		k a r u	k a r u
+156502	172657	gerarditupi-Kayabi	kaya1329		eat	1336	EAT		j e m i ʔ w a t	j e m i ʔ w a t
+156503	172658	gerarditupi-Kokama	coca1259		eat	1336	EAT		e j u	e j u
+156504	172659	gerarditupi-Nheengatu	nhen1239		eat	1336	EAT		mb a ú	mb a ú
+156505	172660	gerarditupi-Parakana	para1312		eat	1336	EAT		k a r o	k a r o
+156506	172661	gerarditupi-Siriono	siri1273		eat	1336	EAT		k a r u	k a r u
+156507	172662	gerarditupi-Tapirape	tapi1254		eat	1336	EAT		k ã r o	k ã r o
+156508	172663	gerarditupi-Warazu	paus1244		eat	1336	EAT		k j a r u	k j a r u
+156509	172664	gerarditupi-Yuki	yuqu1240		eat	1336	EAT		k j a r u	k j a r u
+156698	172853	johanssonsoundsymbolic-Guarani	para1311		eat	1336	EAT		u	u
+159010	175168	johanssonsoundsymbolic-Guarani	para1311		egg	744	EGG		tupiʔa	t u p i ʔ a
+159225	175383	lundgrenomagoa-Omagua	omag1248		egg	744	EGG		supia	s + u p i a
+159226	175384	lundgrenomagoa-Tupinamba	tupi1273		egg	744	EGG		upiʔá	u p i ʔ á
+169408	185566	gerarditupi-Amonda	amun1246		eye	1248	EYE		a kʷ a r a	a kʷ a r a
+169409	185567	gerarditupi-Anambe	anam1249		eye	1248	EYE		e h ã	e h ã
+169410	185568	gerarditupi-Arawete	araw1273		eye	1248	EYE		e h e	e h e
+169411	185569	gerarditupi-Asurini	toca1235		eye	1248	EYE		e h a	e h a
+169412	185570	gerarditupi-AsuriniXingu	xing1248		eye	1248	EYE		e a	e a
+169413	185571	gerarditupi-AvaCanoeiro	avac1239		eye	1248	EYE		e a	e a
+169414	185572	gerarditupi-Aweti	awet1244		eye	1248	EYE		e t a	e t a
+169415	185573	gerarditupi-Chiriguano	east2555		eye	1248	EYE		e s a	e s a
+169416	185574	gerarditupi-Emerillon	emer1243		eye	1248	EYE		e a	e a
+169417	185575	gerarditupi-Guaja	guaj1256		eye	1248	EYE		a h a	a h a
+169418	185576	gerarditupi-Guajajara	guaj1255		eye	1248	EYE		e h a	e h a
+169419	185577	gerarditupi-GuaraniMbya	mbya1239		eye	1248	EYE		e s a	e s a
+169420	185578	gerarditupi-Guarayo	guar1292		eye	1248	EYE		e s a	e s a
+169421	185579	gerarditupi-Guayaki	ache1246		eye	1248	EYE		t͡ʃ a	tʃ a
+169422	185580	gerarditupi-Kamayura	kama1373		eye	1248	EYE		e a	e a
+169423	185581	gerarditupi-Kayabi	kaya1329		eye	1248	EYE		e a	e a
+169424	185582	gerarditupi-Kokama	coca1259		eye	1248	EYE		t͡s i t͡s a t͡s e	ts i ts a ts e
+169425	185583	gerarditupi-Mawe	sate1243		eye	1248	EYE		e h a	e h a
+169426	185584	gerarditupi-Nheengatu	nhen1239		eye	1248	EYE		e s a	e s a
+169427	185585	gerarditupi-Parakana	para1312		eye	1248	EYE		e h a	e h a
+169428	185586	gerarditupi-Parintintin	tenh1241		eye	1248	EYE		e a kʷ a r a	e a kʷ a r a
+169429	185587	gerarditupi-Siriono	siri1273		eye	1248	EYE		e s a	e s a
+169430	185588	gerarditupi-Surui	suru1262		eye	1248	EYE		e h a	e h a
+169431	185589	gerarditupi-Tapirape	tapi1254		eye	1248	EYE		ẽ ã	ẽ ã
+169432	185590	gerarditupi-Tembe	temb1276		eye	1248	EYE		e h a	e h a
+169433	185591	gerarditupi-UrubuKaapor	urub1250		eye	1248	EYE		e h a	e h a
+169434	185592	gerarditupi-Urueuwauwau	urue1240		eye	1248	EYE		e a kʷ a r a	e a kʷ a r a
+169435	185593	gerarditupi-Warazu	paus1244		eye	1248	EYE		e h a	e h a
+169436	185594	gerarditupi-Wayampi	waya1270		eye	1248	EYE		e a	e a
+169437	185595	gerarditupi-Xeta	xeta1241		eye	1248	EYE		e t͡ʃ a	e tʃ a
+169438	185596	gerarditupi-Yuki	yuqu1240		eye	1248	EYE		e s a	e s a
+169580	185738	johanssonsoundsymbolic-Guarani	para1311		eye	1248	EYE		tesa	t e s a
+182067	198227	johanssonsoundsymbolic-Guarani	para1311		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ɲandɨ	ɲ a n d ɨ
+184907	201067	johanssonsoundsymbolic-Guarani	para1311		feather	1201	FEATHER		taɣwe	t a ɣʷ e
+187096	219749	gerarditupi-Amonda	amun1246		fleshormeat	2615	FLESH OR MEAT		a ʔ o	a ʔ o
+187097	219750	gerarditupi-Arawete	araw1273		fleshormeat	2615	FLESH OR MEAT		h a a	h a a
+187098	219751	gerarditupi-Asurini	toca1235		fleshormeat	2615	FLESH OR MEAT		a ʔ a	a ʔ a
+187099	219752	gerarditupi-AsuriniXingu	xing1248		fleshormeat	2615	FLESH OR MEAT		a ʔ a	a ʔ a
+187100	219753	gerarditupi-AvaCanoeiro	avac1239		fleshormeat	2615	FLESH OR MEAT		o	o
+187101	219754	gerarditupi-Aweti	awet1244		fleshormeat	2615	FLESH OR MEAT		j u j ã	j u j ã
+187102	219755	gerarditupi-Chiriguano	east2555		fleshormeat	2615	FLESH OR MEAT		o o	o o
+187103	219756	gerarditupi-Emerillon	emer1243		fleshormeat	2615	FLESH OR MEAT		ɨ w ɨ kʷ e r	ɨ w ɨ kʷ e r
+187104	219757	gerarditupi-Guaja	guaj1256		fleshormeat	2615	FLESH OR MEAT		h a ʔ o	h a ʔ o
+187105	219758	gerarditupi-Guajajara	guaj1255		fleshormeat	2615	FLESH OR MEAT		o ʔ o	o ʔ o
+187106	219759	gerarditupi-GuaraniMbya	mbya1239		fleshormeat	2615	FLESH OR MEAT		t͡ʃ o ʔ o	tʃ o ʔ o
+187107	219760	gerarditupi-Guarayo	guar1292		fleshormeat	2615	FLESH OR MEAT		o ʔ o	o ʔ o
+187108	219761	gerarditupi-Guayaki	ache1246		fleshormeat	2615	FLESH OR MEAT		o	o
+187109	219762	gerarditupi-Kamayura	kama1373		fleshormeat	2615	FLESH OR MEAT		a ʔ o	a ʔ o
+187110	219763	gerarditupi-Kayabi	kaya1329		fleshormeat	2615	FLESH OR MEAT		w ɨ r a	w ɨ r a
+187111	219764	gerarditupi-Kokama	coca1259		fleshormeat	2615	FLESH OR MEAT		t͡s u	ts u
+187112	219765	gerarditupi-Mawe	sate1243		fleshormeat	2615	FLESH OR MEAT		p u ʔ i	p u ʔ i
+187113	219766	gerarditupi-Nheengatu	nhen1239		fleshormeat	2615	FLESH OR MEAT		s u u	s u u
+187114	219767	gerarditupi-Parakana	para1312		fleshormeat	2615	FLESH OR MEAT		a ʔ a	a ʔ a
+187115	219768	gerarditupi-Parintintin	tenh1241		fleshormeat	2615	FLESH OR MEAT		a ʔ o	a ʔ o
+187116	219769	gerarditupi-Siriono	siri1273		fleshormeat	2615	FLESH OR MEAT		o o	o o
+187117	219770	gerarditupi-Surui	suru1262		fleshormeat	2615	FLESH OR MEAT		o ʔ o	o ʔ o
+187118	219771	gerarditupi-Tapirape	tapi1254		fleshormeat	2615	FLESH OR MEAT		a ʔ a	a ʔ a
+187119	219772	gerarditupi-Tembe	temb1276		fleshormeat	2615	FLESH OR MEAT		o o	o o
+187120	219773	gerarditupi-UrubuKaapor	urub1250		fleshormeat	2615	FLESH OR MEAT		o ʔ o	o ʔ o
+187121	219774	gerarditupi-Urueuwauwau	urue1240		fleshormeat	2615	FLESH OR MEAT		a ʔ o	a ʔ o
+187122	219775	gerarditupi-Warazu	paus1244		fleshormeat	2615	FLESH OR MEAT		o ʔ o	o ʔ o
+187123	219776	gerarditupi-Wayampi	waya1270		fleshormeat	2615	FLESH OR MEAT		o ʔ o	o ʔ o
+187124	219777	gerarditupi-Yuki	yuqu1240		fleshormeat	2615	FLESH OR MEAT		o	o
+192680	225333	gerarditupi-Amonda	amun1246		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		β e β e	β e β e
+192681	225334	gerarditupi-Anambe	anam1249		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w a w a	w a w a
+192682	225335	gerarditupi-Arawete	araw1273		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192683	225336	gerarditupi-Asurini	toca1235		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192684	225337	gerarditupi-AsuriniXingu	xing1248		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192685	225338	gerarditupi-AvaCanoeiro	avac1239		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192686	225339	gerarditupi-Chiriguano	east2555		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		v e v e	v e v e
+192687	225340	gerarditupi-Emerillon	emer1243		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192688	225341	gerarditupi-Guaja	guaj1256		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192689	225342	gerarditupi-Guajajara	guaj1255		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192690	225343	gerarditupi-GuaraniMbya	mbya1239		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		β e β e	β e β e
+192691	225344	gerarditupi-Guarayo	guar1292		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		β e β e	β e β e
+192692	225345	gerarditupi-Kamayura	kama1373		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192693	225346	gerarditupi-Kayabi	kaya1329		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192694	225347	gerarditupi-Kokama	coca1259		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		u w e	u w e
+192695	225348	gerarditupi-Mawe	sate1243		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		m o p ɨ	m o p ɨ
+192696	225349	gerarditupi-Nheengatu	nhen1239		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192697	225350	gerarditupi-Parakana	para1312		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		β e β e	β e β e
+192698	225351	gerarditupi-Parintintin	tenh1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		β e β e	β e β e
+192699	225352	gerarditupi-Siriono	siri1273		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		m b e β e	m b e β e
+192700	225353	gerarditupi-Tapirape	tapi1254		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192701	225354	gerarditupi-Tembe	temb1276		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e w	w e w e w
+192702	225355	gerarditupi-UrubuKaapor	urub1250		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192703	225356	gerarditupi-Urueuwauwau	urue1240		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		β e β e	β e β e
+192704	225357	gerarditupi-Warazu	paus1244		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192705	225358	gerarditupi-Wayampi	waya1270		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		w e w e	w e w e
+192706	225359	gerarditupi-Xeta	xeta1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		β e β e	β e β e
+192707	225360	gerarditupi-Yuki	yuqu1240		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		β e β e	β e β e
+192862	225515	johanssonsoundsymbolic-Guarani	para1311		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		mbeɾu	m b e ɾ u
+196029	228682	gerarditupi-Amonda	amun1246		foot	1301	FOOT		p ɨ a	p ɨ a
+196030	228683	gerarditupi-Anambe	anam1249		foot	1301	FOOT		p ɨ	p ɨ
+196031	228684	gerarditupi-Arawete	araw1273		foot	1301	FOOT		p ɨ	p ɨ
+196032	228685	gerarditupi-Asurini	toca1235		foot	1301	FOOT		p ɨ	p ɨ
+196033	228686	gerarditupi-AsuriniXingu	xing1248		foot	1301	FOOT		p ɨ	p ɨ
+196034	228687	gerarditupi-AvaCanoeiro	avac1239		foot	1301	FOOT		p ɨ ŋ	p ɨ ŋ
+196035	228688	gerarditupi-Aweti	awet1244		foot	1301	FOOT		p ɨ	p ɨ
+196036	228689	gerarditupi-Chiriguano	east2555		foot	1301	FOOT		p ɨ	p ɨ
+196037	228690	gerarditupi-Emerillon	emer1243		foot	1301	FOOT		p ɨ	p ɨ
+196038	228691	gerarditupi-Guaja	guaj1256		foot	1301	FOOT		p ɨ	p ɨ
+196039	228692	gerarditupi-Guajajara	guaj1255		foot	1301	FOOT		p ɨ	p ɨ
+196040	228693	gerarditupi-GuaraniMbya	mbya1239		foot	1301	FOOT		p ɨ	p ɨ
+196041	228694	gerarditupi-Guarayo	guar1292		foot	1301	FOOT		p ɨ	p ɨ
+196042	228695	gerarditupi-Guayaki	ache1246		foot	1301	FOOT		p ɨ t͡ʃ ã	p ɨ tʃ ã
+196043	228696	gerarditupi-Kamayura	kama1373		foot	1301	FOOT		p ɨ	p ɨ
+196044	228697	gerarditupi-Kayabi	kaya1329		foot	1301	FOOT		p ɨ	p ɨ
+196045	228698	gerarditupi-Kokama	coca1259		foot	1301	FOOT		p ɨ t a	p ɨ t a
+196046	228699	gerarditupi-Mawe	sate1243		foot	1301	FOOT		p ɨ	p ɨ
+196047	228700	gerarditupi-Nheengatu	nhen1239		foot	1301	FOOT		p i	p i
+196048	228701	gerarditupi-Parakana	para1312		foot	1301	FOOT		p ɨ	p ɨ
+196049	228702	gerarditupi-Parintintin	tenh1241		foot	1301	FOOT		p ɨ a	p ɨ a
+196050	228703	gerarditupi-Siriono	siri1273		foot	1301	FOOT		i	i
+196051	228704	gerarditupi-Surui	suru1262		foot	1301	FOOT		p ɨ	p ɨ
+196052	228705	gerarditupi-Tapirape	tapi1254		foot	1301	FOOT		m ɨ	m ɨ
+196053	228706	gerarditupi-Tembe	temb1276		foot	1301	FOOT		p ɨ	p ɨ
+196054	228707	gerarditupi-UrubuKaapor	urub1250		foot	1301	FOOT		p ɨ	p ɨ
+196055	228708	gerarditupi-Urueuwauwau	urue1240		foot	1301	FOOT		p ɨ a	p ɨ a
+196056	228709	gerarditupi-Warazu	paus1244		foot	1301	FOOT		p i	p i
+196057	228710	gerarditupi-Wayampi	waya1270		foot	1301	FOOT		p ɨ	p ɨ
+196058	228711	gerarditupi-Xeta	xeta1241		foot	1301	FOOT		p u r ũ h a	p u r ũ h a
+196059	228712	gerarditupi-Yuki	yuqu1240		foot	1301	FOOT		i s ã	i s ã
+196178	228831	johanssonsoundsymbolic-Guarani	para1311		foot	1301	FOOT		pɨ	p ɨ
+196333	228986	lundgrenomagoa-Omagua	omag1248		foot	1301	FOOT		pɨta	p ɨ t a
+196334	228987	lundgrenomagoa-Tupinamba	tupi1273		foot	1301	FOOT		pɨ	p ɨ
+209089	241742	gerarditupi-Amonda	amun1246		full	1429	FULL		ɨ n a h e m	ɨ n a h e m
+209090	241743	gerarditupi-Asurini	toca1235		full	1429	FULL		ɨ n e h e m	ɨ n e h e m
+209091	241744	gerarditupi-AsuriniXingu	xing1248		full	1429	FULL		ɨ n o h e m	ɨ n o h e m
+209092	241745	gerarditupi-Chiriguano	east2555		full	1429	FULL		t ɨ n e ẽ	t ɨ n e ẽ
+209093	241746	gerarditupi-Emerillon	emer1243		full	1429	FULL		p i t o g	p i t o g
+209094	241747	gerarditupi-Guajajara	guaj1255		full	1429	FULL		ɨ n e h e m	ɨ n e h e m
+209095	241748	gerarditupi-GuaraniMbya	mbya1239		full	1429	FULL		t ɨ n ɨ h ẽ	t ɨ n ɨ h ẽ
+209096	241749	gerarditupi-Guarayo	guar1292		full	1429	FULL		t e n ɨ h e	t e n ɨ h e
+209097	241750	gerarditupi-Guayaki	ache1246		full	1429	FULL		e mb e	e mb e
+209098	241751	gerarditupi-Kamayura	kama1373		full	1429	FULL		w o t	w o t
+209099	241752	gerarditupi-Kayabi	kaya1329		full	1429	FULL		ɨ n e e m	ɨ n e e m
+209100	241753	gerarditupi-Kokama	coca1259		full	1429	FULL		i m i t͡s a m a	i m i ts a m a
+209101	241754	gerarditupi-Mawe	sate1243		full	1429	FULL		h ɨ t	h ɨ t
+209102	241755	gerarditupi-Nheengatu	nhen1239		full	1429	FULL		t e r e s e m u	t e r e s e m u
+209103	241756	gerarditupi-Parakana	para1312		full	1429	FULL		ɨ n e h e m	ɨ n e h e m
+209104	241757	gerarditupi-Parintintin	tenh1241		full	1429	FULL		ɨ n ɨ h e m	ɨ n ɨ h e m
+209105	241758	gerarditupi-Siriono	siri1273		full	1429	FULL		mb i s ẽ	mb i s ẽ
+209106	241759	gerarditupi-Surui	suru1262		full	1429	FULL		ɨ n e h e m	ɨ n e h e m
+209107	241760	gerarditupi-Tembe	temb1276		full	1429	FULL		ɨ n e h e m	ɨ n e h e m
+209108	241761	gerarditupi-UrubuKaapor	urub1250		full	1429	FULL		ɨ r ɨ h e m	ɨ r ɨ h e m
+209109	241762	gerarditupi-Urueuwauwau	urue1240		full	1429	FULL		ɨ n a h e m	ɨ n a h e m
+209110	241763	gerarditupi-Warazu	paus1244		full	1429	FULL		i n i h e	i n i h e
+209111	241764	gerarditupi-Wayampi	waya1270		full	1429	FULL		ɨ n ẽ	ɨ n ẽ
+209112	241765	gerarditupi-Xeta	xeta1241		full	1429	FULL		mb ɨ a j ẽ	mb ɨ a j ẽ
+209113	241766	gerarditupi-Yuki	yuqu1240		full	1429	FULL		i s ẽ	i s ẽ
+209282	241935	johanssonsoundsymbolic-Guarani	para1311		full	1429	FULL		henɨhẽ	h e n ɨ h ẽ
+214406	247059	gerarditupi-Amonda	amun1246		give	1447	GIVE		m õ n o	m õ n o
+214407	247060	gerarditupi-Anambe	anam1249		give	1447	GIVE		m e ʔ ẽ	m e ʔ ẽ
+214408	247061	gerarditupi-Arawete	araw1273		give	1447	GIVE		m e ʔ ẽ	m e ʔ ẽ
+214409	247062	gerarditupi-Asurini	toca1235		give	1447	GIVE		m a n a	m a n a
+214410	247063	gerarditupi-AsuriniXingu	xing1248		give	1447	GIVE		m a n a	m a n a
+214411	247064	gerarditupi-AvaCanoeiro	avac1239		give	1447	GIVE		m e ŋ	m e ŋ
+214412	247065	gerarditupi-Aweti	awet1244		give	1447	GIVE		m o t o	m o t o
+214413	247066	gerarditupi-Chiriguano	east2555		give	1447	GIVE		m ẽ e	m ẽ e
+214414	247067	gerarditupi-Emerillon	emer1243		give	1447	GIVE		m e ʔ e ŋ	m e ʔ e ŋ
+214415	247068	gerarditupi-Guaja	guaj1256		give	1447	GIVE		m a n õ	m a n õ
+214416	247069	gerarditupi-Guajajara	guaj1255		give	1447	GIVE		m o n o	m o n o
+214417	247070	gerarditupi-GuaraniMbya	mbya1239		give	1447	GIVE		m e ʔ ẽ	m e ʔ ẽ
+214418	247071	gerarditupi-Guarayo	guar1292		give	1447	GIVE		m o nd o	m o nd o
+214419	247072	gerarditupi-Kamayura	kama1373		give	1447	GIVE		m e ʔ ẽ ŋ	m e ʔ ẽ ŋ
+214420	247073	gerarditupi-Kayabi	kaya1329		give	1447	GIVE		m o n o	m o n o
+214421	247074	gerarditupi-Kokama	coca1259		give	1447	GIVE		j u m i	j u m i
+214422	247075	gerarditupi-Mawe	sate1243		give	1447	GIVE		a t u m	a t u m
+214423	247076	gerarditupi-Nheengatu	nhen1239		give	1447	GIVE		m ẽ ʔ ẽ	m ẽ ʔ ẽ
+214424	247077	gerarditupi-Parakana	para1312		give	1447	GIVE		m a n a	m a n a
+214425	247078	gerarditupi-Parintintin	tenh1241		give	1447	GIVE		m õ n o	m õ n o
+214426	247079	gerarditupi-Siriono	siri1273		give	1447	GIVE		m o n o	m o n o
+214427	247080	gerarditupi-Tapirape	tapi1254		give	1447	GIVE		m a ɨ̃ j	m a ɨ̃ j
+214428	247081	gerarditupi-Tembe	temb1276		give	1447	GIVE		m o n ó	m o n ó
+214429	247082	gerarditupi-UrubuKaapor	urub1250		give	1447	GIVE		m e ʔ ẽ	m e ʔ ẽ
+214430	247083	gerarditupi-Urueuwauwau	urue1240		give	1447	GIVE		m õ n o	m õ n o
+214431	247084	gerarditupi-Warazu	paus1244		give	1447	GIVE		m o n o	m o n o
+214432	247085	gerarditupi-Wayampi	waya1270		give	1447	GIVE		m e ʔ ẽ	m e ʔ ẽ
+214433	247086	gerarditupi-Yuki	yuqu1240		give	1447	GIVE		m o r o	m o r o
+214608	247261	johanssonsoundsymbolic-Guarani	para1311		give	1447	GIVE		meʔẽ	m e ʔ ẽ
+220506	253162	gerarditupi-Amonda	amun1246		good	1035	GOOD		k a t u	k a t u
+220507	253163	gerarditupi-Anambe	anam1249		good	1035	GOOD		k a t u	k a t u
+220508	253164	gerarditupi-Arawete	araw1273		good	1035	GOOD		k a t u	k a t u
+220509	253165	gerarditupi-Asurini	toca1235		good	1035	GOOD		k a t o	k a t o
+220510	253166	gerarditupi-AsuriniXingu	xing1248		good	1035	GOOD		k a t u	k a t u
+220511	253167	gerarditupi-AvaCanoeiro	avac1239		good	1035	GOOD		k a t u	k a t u
+220512	253168	gerarditupi-Aweti	awet1244		good	1035	GOOD		k a t u	k a t u
+220513	253169	gerarditupi-Chiriguano	east2555		good	1035	GOOD		k a t u	k a t u
+220514	253170	gerarditupi-Emerillon	emer1243		good	1035	GOOD		k a t u	k a t u
+220515	253171	gerarditupi-Guaja	guaj1256		good	1035	GOOD		k a t u	k a t u
+220516	253172	gerarditupi-Guajajara	guaj1255		good	1035	GOOD		k a t u	k a t u
+220517	253173	gerarditupi-Guarayo	guar1292		good	1035	GOOD		k a t u	k a t u
+220518	253174	gerarditupi-Guayaki	ache1246		good	1035	GOOD		k a t u	k a t u
+220519	253175	gerarditupi-Kamayura	kama1373		good	1035	GOOD		k a t u	k a t u
+220520	253176	gerarditupi-Kayabi	kaya1329		good	1035	GOOD		k a t u	k a t u
+220521	253177	gerarditupi-Kokama	coca1259		good	1035	GOOD		e r a	e r a
+220522	253178	gerarditupi-Mawe	sate1243		good	1035	GOOD		w a k u	w a k u
+220523	253179	gerarditupi-Nheengatu	nhen1239		good	1035	GOOD		k a t u	k a t u
+220524	253180	gerarditupi-Parakana	para1312		good	1035	GOOD		k a t o	k a t o
+220525	253181	gerarditupi-Parintintin	tenh1241		good	1035	GOOD		k a t u	k a t u
+220526	253182	gerarditupi-Siriono	siri1273		good	1035	GOOD		k j a t u	k j a t u
+220527	253183	gerarditupi-Tapirape	tapi1254		good	1035	GOOD		k ã t o	k ã t o
+220528	253184	gerarditupi-Tembe	temb1276		good	1035	GOOD		k a t u	k a t u
+220529	253185	gerarditupi-UrubuKaapor	urub1250		good	1035	GOOD		k a t u	k a t u
+220530	253186	gerarditupi-Urueuwauwau	urue1240		good	1035	GOOD		k a t u	k a t u
+220531	253187	gerarditupi-Warazu	paus1244		good	1035	GOOD		k a t u	k a t u
+220532	253188	gerarditupi-Wayampi	waya1270		good	1035	GOOD		k a t u	k a t u
+220533	253189	gerarditupi-Yuki	yuqu1240		good	1035	GOOD		k j a t u	k j a t u
+220735	253391	johanssonsoundsymbolic-Guarani	para1311		good	1035	GOOD		maɾaŋgatu	m a ɾ a ŋ g a t u
+228532	261188	johanssonsoundsymbolic-Guarani	para1311		green	1425	GREEN		hoʋɨ	h o ʋ ɨ
+228718	261374	lundgrenomagoa-Omagua	omag1248		green	1425	GREEN		ɨkɨɾa	ɨ k ɨ ɾ a
+234539	267195	johanssonsoundsymbolic-Guarani	para1311		hair	1040	HAIR		taɣwe	t a ɣʷ e
+238208	270864	gerarditupi-Amonda	amun1246		hand	1277	HAND		p o	p o
+238209	270865	gerarditupi-Anambe	anam1249		hand	1277	HAND		p o	p o
+238210	270866	gerarditupi-Arawete	araw1273		hand	1277	HAND		p ə	p ə
+238211	270867	gerarditupi-AsuriniXingu	xing1248		hand	1277	HAND		p a	p a
+238212	270868	gerarditupi-AvaCanoeiro	avac1239		hand	1277	HAND		p o	p o
+238213	270869	gerarditupi-Aweti	awet1244		hand	1277	HAND		p o	p o
+238214	270870	gerarditupi-Chiriguano	east2555		hand	1277	HAND		p o	p o
+238215	270871	gerarditupi-Emerillon	emer1243		hand	1277	HAND		p o	p o
+238216	270872	gerarditupi-Guaja	guaj1256		hand	1277	HAND		p o	p o
+238217	270873	gerarditupi-Guajajara	guaj1255		hand	1277	HAND		p o	p o
+238218	270874	gerarditupi-GuaraniMbya	mbya1239		hand	1277	HAND		p o	p o
+238219	270875	gerarditupi-Guarayo	guar1292		hand	1277	HAND		kʷ ã	kʷ ã
+238220	270876	gerarditupi-Guayaki	ache1246		hand	1277	HAND		p o	p o
+238221	270877	gerarditupi-Kamayura	kama1373		hand	1277	HAND		hʷ a	hʷ a
+238222	270878	gerarditupi-Kayabi	kaya1329		hand	1277	HAND		p o	p o
+238223	270879	gerarditupi-Kokama	coca1259		hand	1277	HAND		p u a	p u a
+238224	270880	gerarditupi-Mawe	sate1243		hand	1277	HAND		p o	p o
+238225	270881	gerarditupi-Nheengatu	nhen1239		hand	1277	HAND		p u	p u
+238226	270882	gerarditupi-Parakana	para1312		hand	1277	HAND		p a	p a
+238227	270883	gerarditupi-Parintintin	tenh1241		hand	1277	HAND		k o	k o
+238228	270884	gerarditupi-Siriono	siri1273		hand	1277	HAND		o	o
+238229	270885	gerarditupi-Surui	suru1262		hand	1277	HAND		p o	p o
+238230	270886	gerarditupi-Tapirape	tapi1254		hand	1277	HAND		m a	m a
+238231	270887	gerarditupi-Tembe	temb1276		hand	1277	HAND		p o	p o
+238232	270888	gerarditupi-UrubuKaapor	urub1250		hand	1277	HAND		p o	p o
+238233	270889	gerarditupi-Urueuwauwau	urue1240		hand	1277	HAND		p o	p o
+238234	270890	gerarditupi-Warazu	paus1244		hand	1277	HAND		p o	p o
+238235	270891	gerarditupi-Wayampi	waya1270		hand	1277	HAND		p o	p o
+238236	270892	gerarditupi-Xeta	xeta1241		hand	1277	HAND		p a	p a
+238237	270893	gerarditupi-Yuki	yuqu1240		hand	1277	HAND		o o	o o
+238378	271034	johanssonsoundsymbolic-Guarani	para1311		hand	1277	HAND		po	p o
+238547	271203	lundgrenomagoa-Omagua	omag1248		hand	1277	HAND		pua	p u a
+238548	271204	lundgrenomagoa-Tupinamba	tupi1273		hand	1277	HAND		pó	p ó
+243933	276590	johanssonsoundsymbolic-Guarani	para1311		head	1256	HEAD		akã	a k ã
+244160	276817	lundgrenomagoa-Omagua	omag1248		head	1256	HEAD		jakɨ	j + a k ɨ
+244161	276818	lundgrenomagoa-Tupinamba	tupi1273		head	1256	HEAD		akaŋa	a k a ŋ a
+246877	279534	johanssonsoundsymbolic-Guarani	para1311		hear	1408	HEAR		hendu	h e n d u
+248318	280975	gerarditupi-Amonda	amun1246		heart	1223	HEART		ɲ a β e β u ɲ a	ɲ a β e β u ɲ a
+248319	280976	gerarditupi-Arawete	araw1273		heart	1223	HEART		j ĩ ʔ ĩ m e	j ĩ ʔ ĩ m e
+248320	280977	gerarditupi-Asurini	toca1235		heart	1223	HEART		s ɨ ʔ o	s ɨ ʔ o
+248321	280978	gerarditupi-AsuriniXingu	xing1248		heart	1223	HEART		ɲ i ʔ a	ɲ i ʔ a
+248322	280979	gerarditupi-AvaCanoeiro	avac1239		heart	1223	HEART		j ɨ̃	j ɨ̃
+248323	280980	gerarditupi-Aweti	awet1244		heart	1223	HEART		p o z i ʔ ã	p o z i ʔ ã
+248324	280981	gerarditupi-Chiriguano	east2555		heart	1223	HEART		p ɨ a	p ɨ a
+248325	280982	gerarditupi-Emerillon	emer1243		heart	1223	HEART		t u n a ɨ ɲ	t u n a ɨ ɲ
+248326	280983	gerarditupi-Guaja	guaj1256		heart	1223	HEART		i ʔ ã	i ʔ ã
+248327	280984	gerarditupi-Guajajara	guaj1255		heart	1223	HEART		j e ʔ ə	j e ʔ ə
+248328	280985	gerarditupi-GuaraniMbya	mbya1239		heart	1223	HEART		p ɨ ʔ a	p ɨ ʔ a
+248329	280986	gerarditupi-Guarayo	guar1292		heart	1223	HEART		a t õ p i r	a t õ p i r
+248330	280987	gerarditupi-Guayaki	ache1246		heart	1223	HEART		j a ʔ a	j a ʔ a
+248331	280988	gerarditupi-Kamayura	kama1373		heart	1223	HEART		p ɨ ʔ a	p ɨ ʔ a
+248332	280989	gerarditupi-Kokama	coca1259		heart	1223	HEART		i j a	i j a
+248333	280990	gerarditupi-Mawe	sate1243		heart	1223	HEART		w e ʔ ã	w e ʔ ã
+248334	280991	gerarditupi-Nheengatu	nhen1239		heart	1223	HEART		p i á	p i á
+248335	280992	gerarditupi-Parakana	para1312		heart	1223	HEART		t͡ʃ ɨ ʔ o	tʃ ɨ ʔ o
+248336	280993	gerarditupi-Parintintin	tenh1241		heart	1223	HEART		ɲ a ʔ a ʔ ĩ	ɲ a ʔ a ʔ ĩ
+248337	280994	gerarditupi-Siriono	siri1273		heart	1223	HEART		t͡ʃ i ã	tʃ i ã
+248338	280995	gerarditupi-Surui	suru1262		heart	1223	HEART		s i ʔ o	s i ʔ o
+248339	280996	gerarditupi-Tapirape	tapi1254		heart	1223	HEART		t͡ʃ ɨ̃ ʔ ɨ̃	tʃ ɨ̃ ʔ ɨ̃
+248340	280997	gerarditupi-Tembe	temb1276		heart	1223	HEART		z ə ʔ ə	z ə ʔ ə
+248341	280998	gerarditupi-UrubuKaapor	urub1250		heart	1223	HEART		ʃ i r a h ã	ʃ i r a h ã
+248342	280999	gerarditupi-Urueuwauwau	urue1240		heart	1223	HEART		ɲ a ʔ a ʔ ã ɲ ã	ɲ a ʔ a ʔ ã ɲ ã
+248343	281000	gerarditupi-Warazu	paus1244		heart	1223	HEART		ð e ʔ ə w e	ð e ʔ ə w e
+248344	281001	gerarditupi-Wayampi	waya1270		heart	1223	HEART		u ʔ ã	u ʔ ã
+248345	281002	gerarditupi-Yuki	yuqu1240		heart	1223	HEART		i ã ã	i ã ã
+248462	281119	johanssonsoundsymbolic-Guarani	para1311		heart	1223	HEART		ɲeʔã	ɲ e ʔ ã
+248684	281341	lundgrenomagoa-Omagua	omag1248		heart	1223	HEART		iNja	ĩ j a
+248685	281342	lundgrenomagoa-Tupinamba	tupi1273		heart	1223	HEART		ɲɨʔã	ɲ ɨ ʔ ã
+248686	281343	lundgrenomagoa-Tupinamba	tupi1273		heart	1223	HEART		pɨʔá	p ɨ ʔ á
+263345	296005	johanssonsoundsymbolic-Guarani	para1311		hornanatomy	1393	HORN (ANATOMY)		tatĩ	t a t ĩ
+263534	296194	lundgrenomagoa-Omagua	omag1248		hornanatomy	1393	HORN (ANATOMY)		ijaka	i + j + a k a
+263535	296195	lundgrenomagoa-Tupinamba	tupi1273		hornanatomy	1393	HORN (ANATOMY)		aka	a k a
+274686	307346	johanssonsoundsymbolic-Guarani	para1311		i	1209	I		tʃe	tʃ e
+287338	319998	gerarditupi-Amonda	amun1246		kill	1417	KILL		ɲ u k a	ɲ u k a
+287339	319999	gerarditupi-Anambe	anam1249		kill	1417	KILL		j u k a	j u k a
+287340	320000	gerarditupi-Arawete	araw1273		kill	1417	KILL		ʒ u k ə	ʒ u k ə
+287341	320001	gerarditupi-Asurini	toca1235		kill	1417	KILL		s o k a	s o k a
+287342	320002	gerarditupi-AsuriniXingu	xing1248		kill	1417	KILL		dʒ o k a	dʒ o k a
+287343	320003	gerarditupi-AvaCanoeiro	avac1239		kill	1417	KILL		j u k a	j u k a
+287344	320004	gerarditupi-Aweti	awet1244		kill	1417	KILL		k ɨ̃ j	k ɨ̃ j
+287345	320005	gerarditupi-Chiriguano	east2555		kill	1417	KILL		j u k a	j u k a
+287346	320006	gerarditupi-Emerillon	emer1243		kill	1417	KILL		dʒ i k a	dʒ i k a
+287347	320007	gerarditupi-Guaja	guaj1256		kill	1417	KILL		i k a	i k a
+287348	320008	gerarditupi-Guajajara	guaj1255		kill	1417	KILL		z u k a	z u k a
+287349	320009	gerarditupi-GuaraniMbya	mbya1239		kill	1417	KILL		dʒ u k a	dʒ u k a
+287350	320010	gerarditupi-Guarayo	guar1292		kill	1417	KILL		j u k a	j u k a
+287351	320011	gerarditupi-Guayaki	ache1246		kill	1417	KILL		j u k a	j u k a
+287352	320012	gerarditupi-Kamayura	kama1373		kill	1417	KILL		j u k a	j u k a
+287353	320013	gerarditupi-Kayabi	kaya1329		kill	1417	KILL		j u k a	j u k a
+287354	320014	gerarditupi-Kokama	coca1259		kill	1417	KILL		u m a n u t a	u m a n u t a
+287355	320015	gerarditupi-Mawe	sate1243		kill	1417	KILL		a u k a	a u k a
+287356	320016	gerarditupi-Nheengatu	nhen1239		kill	1417	KILL		j u k a	j u k a
+287357	320017	gerarditupi-Parakana	para1312		kill	1417	KILL		t͡ʃ o k a	tʃ o k a
+287358	320018	gerarditupi-Parintintin	tenh1241		kill	1417	KILL		ɲ u k a	ɲ u k a
+287359	320019	gerarditupi-Siriono	siri1273		kill	1417	KILL		ɨ k j a	ɨ k j a
+287360	320020	gerarditupi-Tapirape	tapi1254		kill	1417	KILL		t͡ʃ o k ã	tʃ o k ã
+287361	320021	gerarditupi-Tembe	temb1276		kill	1417	KILL		z u k ə	z u k ə
+287362	320022	gerarditupi-UrubuKaapor	urub1250		kill	1417	KILL		j u kʷ a	j u kʷ a
+287363	320023	gerarditupi-Urueuwauwau	urue1240		kill	1417	KILL		ɲ u k a	ɲ u k a
+287364	320024	gerarditupi-Warazu	paus1244		kill	1417	KILL		ð u k a	ð u k a
+287365	320025	gerarditupi-Wayampi	waya1270		kill	1417	KILL		j u k a	j u k a
+287366	320026	gerarditupi-Xeta	xeta1241		kill	1417	KILL		dʒ u g a	dʒ u g a
+287367	320027	gerarditupi-Yuki	yuqu1240		kill	1417	KILL		j u k j a	j u k j a
+287531	320191	johanssonsoundsymbolic-Guarani	para1311		kill	1417	KILL		ɟuka	ɟ u k a
+290048	322708	gerarditupi-Amonda	amun1246		knee	1371	KNEE		e ɨ p ɨ ʔ ã	e ɨ p ɨ ʔ ã
+290049	322709	gerarditupi-Anambe	anam1249		knee	1371	KNEE		i n a p ɨ ʔ ɨ̃	i n a p ɨ ʔ ɨ̃
+290050	322710	gerarditupi-AsuriniXingu	xing1248		knee	1371	KNEE		k a n a w a	k a n a w a
+290051	322711	gerarditupi-AvaCanoeiro	avac1239		knee	1371	KNEE		ɨp ɨ a	ɨ p ɨ a
+290052	322712	gerarditupi-Chiriguano	east2555		knee	1371	KNEE		e n e p ɨ a	e n e p ɨ a
+290053	322713	gerarditupi-Emerillon	emer1243		knee	1371	KNEE		e n ɨ p u ʔ a	e n ɨ p u ʔ a
+290054	322714	gerarditupi-Guaja	guaj1256		knee	1371	KNEE		p a r a n ɨ̃	p a r a n ɨ̃
+290055	322715	gerarditupi-Guajajara	guaj1255		knee	1371	KNEE		p e n a r a g	p e n a r a g
+290056	322716	gerarditupi-GuaraniMbya	mbya1239		knee	1371	KNEE		e n a p ɨ ʔ ã	e n a p ɨ ʔ ã
+290057	322717	gerarditupi-Guarayo	guar1292		knee	1371	KNEE		e n ɨ p ɨ a	e n ɨ p ɨ a
+290058	322718	gerarditupi-Kamayura	kama1373		knee	1371	KNEE		p e r e n a n	p e r e n a n
+290059	322719	gerarditupi-Kayabi	kaya1329		knee	1371	KNEE		e n u p ɨ ʔ ã	e n u p ɨ ʔ ã
+290060	322720	gerarditupi-Kokama	coca1259		knee	1371	KNEE		t͡s e n e p i a	ts e n e p i a
+290061	322721	gerarditupi-Mawe	sate1243		knee	1371	KNEE		m ɨ ʔ a k a ŋ ʔ a	m ɨ ʔ a k a ŋ ʔ a
+290062	322722	gerarditupi-Nheengatu	nhen1239		knee	1371	KNEE		i n i p i a	i n i p i a
+290063	322723	gerarditupi-Parakana	para1312		knee	1371	KNEE		e t͡ʃ a m e β	e tʃ a m e β
+290064	322724	gerarditupi-Parintintin	tenh1241		knee	1371	KNEE		e n ɨ p ɨ ʔ ã	e n ɨ p ɨ ʔ ã
+290065	322725	gerarditupi-Siriono	siri1273		knee	1371	KNEE		n i ã	n i ã
+290066	322726	gerarditupi-Tapirape	tapi1254		knee	1371	KNEE		k a n ã w ã	k a n ã w ã
+290067	322727	gerarditupi-Tembe	temb1276		knee	1371	KNEE		e n ɨ p ɨ ʔ ə	e n ɨ p ɨ ʔ ə
+290068	322728	gerarditupi-UrubuKaapor	urub1250		knee	1371	KNEE		k a n a w a j	k a n a w a j
+290069	322729	gerarditupi-Urueuwauwau	urue1240		knee	1371	KNEE		a n ɨ p ɨ ʔ ã	a n ɨ p ɨ ʔ ã
+290070	322730	gerarditupi-Warazu	paus1244		knee	1371	KNEE		e n i p ɨ ʔ ə	e n i p ɨ ʔ ə
+290071	322731	gerarditupi-Wayampi	waya1270		knee	1371	KNEE		e n ɨ p a ʔ ã	e n ɨ p a ʔ ã
+290072	322732	gerarditupi-Yuki	yuqu1240		knee	1371	KNEE		n i a	n i a
+290209	322869	johanssonsoundsymbolic-Guarani	para1311		knee	1371	KNEE		penaɾã	p e n a ɾ ã
+301981	334641	gerarditupi-Amonda	amun1246		leaf	628	LEAF		k a ʔ a	k a ʔ a
+301982	334642	gerarditupi-Anambe	anam1249		leaf	628	LEAF		o w a	o w a
+301983	334643	gerarditupi-Arawete	araw1273		leaf	628	LEAF		a w e	a w e
+301984	334644	gerarditupi-Asurini	toca1235		leaf	628	LEAF		a w	a w
+301985	334645	gerarditupi-AsuriniXingu	xing1248		leaf	628	LEAF		a w	a w
+301986	334646	gerarditupi-AvaCanoeiro	avac1239		leaf	628	LEAF		o w	o w
+301987	334647	gerarditupi-Aweti	awet1244		leaf	628	LEAF		o p	o p
+301988	334648	gerarditupi-Chiriguano	east2555		leaf	628	LEAF		ó o	ó o
+301989	334649	gerarditupi-Emerillon	emer1243		leaf	628	LEAF		o w a l	o w a l
+301990	334650	gerarditupi-Guaja	guaj1256		leaf	628	LEAF		o	o
+301991	334651	gerarditupi-Guajajara	guaj1255		leaf	628	LEAF		u e r	u e r
+301992	334652	gerarditupi-GuaraniMbya	mbya1239		leaf	628	LEAF		o gʷ e	o gʷ e
+301993	334653	gerarditupi-Guarayo	guar1292		leaf	628	LEAF		o	o
+301994	334654	gerarditupi-Guayaki	ache1246		leaf	628	LEAF		o	o
+301995	334655	gerarditupi-Kamayura	kama1373		leaf	628	LEAF		o p	o p
+301996	334656	gerarditupi-Kayabi	kaya1329		leaf	628	LEAF		o w	o w
+301997	334657	gerarditupi-Kokama	coca1259		leaf	628	LEAF		t͡s a	ts a
+301998	334658	gerarditupi-Mawe	sate1243		leaf	628	LEAF		o p	o p
+301999	334659	gerarditupi-Nheengatu	nhen1239		leaf	628	LEAF		a w a	a w a
+302000	334660	gerarditupi-Parintintin	tenh1241		leaf	628	LEAF		k a ʔ a	k a ʔ a
+302001	334661	gerarditupi-Siriono	siri1273		leaf	628	LEAF		o	o
+302002	334662	gerarditupi-Surui	suru1262		leaf	628	LEAF		a r a	a r a
+302003	334663	gerarditupi-Tapirape	tapi1254		leaf	628	LEAF		a p	a p
+302004	334664	gerarditupi-Tembe	temb1276		leaf	628	LEAF		o w	o w
+302005	334665	gerarditupi-UrubuKaapor	urub1250		leaf	628	LEAF		o	o
+302006	334666	gerarditupi-Urueuwauwau	urue1240		leaf	628	LEAF		k a ʔ a	k a ʔ a
+302007	334667	gerarditupi-Warazu	paus1244		leaf	628	LEAF		o w e	o w e
+302008	334668	gerarditupi-Wayampi	waya1270		leaf	628	LEAF		o	o
+302009	334669	gerarditupi-Xeta	xeta1241		leaf	628	LEAF		a	a
+302010	334670	gerarditupi-Yuki	yuqu1240		leaf	628	LEAF		o	o
+302168	334828	johanssonsoundsymbolic-Guarani	para1311		leaf	628	LEAF		toɣwe	t o ɣʷ e
+316787	349447	gerarditupi-Amonda	amun1246		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316788	349448	gerarditupi-Anambe	anam1249		liver	1224	LIVER		p i ʔ ã	p i ʔ ã
+316789	349449	gerarditupi-Arawete	araw1273		liver	1224	LIVER		p i ã	p i ã
+316790	349450	gerarditupi-Asurini	toca1235		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316791	349451	gerarditupi-AsuriniXingu	xing1248		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316792	349452	gerarditupi-AvaCanoeiro	avac1239		liver	1224	LIVER		p ɨ a	p ɨ a
+316793	349453	gerarditupi-Chiriguano	east2555		liver	1224	LIVER		p ɨ a	p ɨ a
+316794	349454	gerarditupi-Emerillon	emer1243		liver	1224	LIVER		p ɨ ʔ a kʷ ə r	p ɨ ʔ a kʷ ə r
+316795	349455	gerarditupi-Guaja	guaj1256		liver	1224	LIVER		p ɨ ʔ a k e r	p ɨ ʔ a k e r
+316796	349456	gerarditupi-Guajajara	guaj1255		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316797	349457	gerarditupi-GuaraniMbya	mbya1239		liver	1224	LIVER		p ɨ ʔ a kʷ e	p ɨ ʔ a kʷ e
+316798	349458	gerarditupi-Guarayo	guar1292		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316799	349459	gerarditupi-Guayaki	ache1246		liver	1224	LIVER		p ɨ a a	p ɨ a a
+316800	349460	gerarditupi-Kamayura	kama1373		liver	1224	LIVER		p e r e	p e r e
+316801	349461	gerarditupi-Kayabi	kaya1329		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316802	349462	gerarditupi-Kokama	coca1259		liver	1224	LIVER		p ɨ a	p ɨ a
+316803	349463	gerarditupi-Mawe	sate1243		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316804	349464	gerarditupi-Nheengatu	nhen1239		liver	1224	LIVER		p i ʔ a	p i ʔ a
+316805	349465	gerarditupi-Parakana	para1312		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316806	349466	gerarditupi-Parintintin	tenh1241		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316807	349467	gerarditupi-Siriono	siri1273		liver	1224	LIVER		i a	i a
+316808	349468	gerarditupi-Surui	suru1262		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316809	349469	gerarditupi-Tapirape	tapi1254		liver	1224	LIVER		m ɨ ʔ ã	m ɨ ʔ ã
+316810	349470	gerarditupi-Tembe	temb1276		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316811	349471	gerarditupi-UrubuKaapor	urub1250		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316812	349472	gerarditupi-Urueuwauwau	urue1240		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316813	349473	gerarditupi-Warazu	paus1244		liver	1224	LIVER		p i ʔ a kʷ e	p i ʔ a kʷ e
+316814	349474	gerarditupi-Wayampi	waya1270		liver	1224	LIVER		p ɨ ʔ a	p ɨ ʔ a
+316815	349475	gerarditupi-Xeta	xeta1241		liver	1224	LIVER		i p i a	i p i a
+316816	349476	gerarditupi-Yuki	yuqu1240		liver	1224	LIVER		i a	i a
+316932	349592	johanssonsoundsymbolic-Guarani	para1311		liver	1224	LIVER		mbɨʔa	m b ɨ ʔ a
+319657	352317	gerarditupi-Amonda	amun1246		long	1203	LONG		p u k u	p u k u
+319658	352318	gerarditupi-Anambe	anam1249		long	1203	LONG		p u k u	p u k u
+319659	352319	gerarditupi-Arawete	araw1273		long	1203	LONG		p u k u	p u k u
+319660	352320	gerarditupi-Asurini	toca1235		long	1203	LONG		p o k o	p o k o
+319661	352321	gerarditupi-AsuriniXingu	xing1248		long	1203	LONG		p o k o	p o k o
+319662	352322	gerarditupi-AvaCanoeiro	avac1239		long	1203	LONG		p u k u	p u k u
+319663	352323	gerarditupi-Aweti	awet1244		long	1203	LONG		p u k u	p u k u
+319664	352324	gerarditupi-Chiriguano	east2555		long	1203	LONG		p u k u	p u k u
+319665	352325	gerarditupi-Emerillon	emer1243		long	1203	LONG		p u k u	p u k u
+319666	352326	gerarditupi-Guaja	guaj1256		long	1203	LONG		p u k u	p u k u
+319667	352327	gerarditupi-Guajajara	guaj1255		long	1203	LONG		p u k u	p u k u
+319668	352328	gerarditupi-GuaraniMbya	mbya1239		long	1203	LONG		p o k u	p o k u
+319669	352329	gerarditupi-Guarayo	guar1292		long	1203	LONG		p u k u	p u k u
+319670	352330	gerarditupi-Guayaki	ache1246		long	1203	LONG		p u k u	p u k u
+319671	352331	gerarditupi-Kamayura	kama1373		long	1203	LONG		w u k u	w u k u
+319672	352332	gerarditupi-Kayabi	kaya1329		long	1203	LONG		p u k u	p u k u
+319673	352333	gerarditupi-Kokama	coca1259		long	1203	LONG		i p u k u	i p u k u
+319674	352334	gerarditupi-Mawe	sate1243		long	1203	LONG		ɨ w o p	ɨ w o p
+319675	352335	gerarditupi-Nheengatu	nhen1239		long	1203	LONG		p u k u	p u k u
+319676	352336	gerarditupi-Parakana	para1312		long	1203	LONG		p o k o	p o k o
+319677	352337	gerarditupi-Parintintin	tenh1241		long	1203	LONG		p u k u	p u k u
+319678	352338	gerarditupi-Siriono	siri1273		long	1203	LONG		e o k o	e o k o
+319679	352339	gerarditupi-Surui	suru1262		long	1203	LONG		p u k u	p u k u
+319680	352340	gerarditupi-Tapirape	tapi1254		long	1203	LONG		p o k o	p o k o
+319681	352341	gerarditupi-Tembe	temb1276		long	1203	LONG		p u k u	p u k u
+319682	352342	gerarditupi-UrubuKaapor	urub1250		long	1203	LONG		p u k u	p u k u
+319683	352343	gerarditupi-Urueuwauwau	urue1240		long	1203	LONG		p u k u r e h u	p u k u r e h u
+319684	352344	gerarditupi-Warazu	paus1244		long	1203	LONG		p u k u	p u k u
+319685	352345	gerarditupi-Wayampi	waya1270		long	1203	LONG		p u k u	p u k u
+319686	352346	gerarditupi-Yuki	yuqu1240		long	1203	LONG		e r u b i	e r u b i
+319829	352489	johanssonsoundsymbolic-Guarani	para1311		long	1203	LONG		puku	p u k u
+320047	352707	lundgrenomagoa-Omagua	omag1248		long	1203	LONG		ipuku	i + p u k u
+320048	352708	lundgrenomagoa-Tupinamba	tupi1273		long	1203	LONG		puku	p u k u
+323277	355937	gerarditupi-Amonda	amun1246		louse	1392	LOUSE		k ɨ β	k ɨ β
+323278	355938	gerarditupi-Anambe	anam1249		louse	1392	LOUSE		k ɨ	k ɨ
+323279	355939	gerarditupi-Arawete	araw1273		louse	1392	LOUSE		i w i t͡ʃ i	i w i tʃ i
+323280	355940	gerarditupi-Asurini	toca1235		louse	1392	LOUSE		k ɨ w	k ɨ w
+323281	355941	gerarditupi-AsuriniXingu	xing1248		louse	1392	LOUSE		k ɨ w	k ɨ w
+323282	355942	gerarditupi-AvaCanoeiro	avac1239		louse	1392	LOUSE		k ɨ w	k ɨ w
+323283	355943	gerarditupi-Aweti	awet1244		louse	1392	LOUSE		k ɨ p	k ɨ p
+323284	355944	gerarditupi-Chiriguano	east2555		louse	1392	LOUSE		k ɨ	k ɨ
+323285	355945	gerarditupi-Emerillon	emer1243		louse	1392	LOUSE		k ɨ	k ɨ
+323286	355946	gerarditupi-Guaja	guaj1256		louse	1392	LOUSE		k ɨ	k ɨ
+323287	355947	gerarditupi-Guajajara	guaj1255		louse	1392	LOUSE		k ɨ w	k ɨ w
+323288	355948	gerarditupi-GuaraniMbya	mbya1239		louse	1392	LOUSE		k ɨ	k ɨ
+323289	355949	gerarditupi-Guarayo	guar1292		louse	1392	LOUSE		k ɨ	k ɨ
+323290	355950	gerarditupi-Kamayura	kama1373		louse	1392	LOUSE		k ɨ p	k ɨ p
+323291	355951	gerarditupi-Kayabi	kaya1329		louse	1392	LOUSE		k ɨ p	k ɨ p
+323292	355952	gerarditupi-Kokama	coca1259		louse	1392	LOUSE		k ɨ w a	k ɨ w a
+323293	355953	gerarditupi-Mawe	sate1243		louse	1392	LOUSE		ŋ ɨ p	ŋ ɨ p
+323294	355954	gerarditupi-Nheengatu	nhen1239		louse	1392	LOUSE		k ɨ w a	k ɨ w a
+323295	355955	gerarditupi-Parakana	para1312		louse	1392	LOUSE		k ɨ	k ɨ
+323296	355956	gerarditupi-Parintintin	tenh1241		louse	1392	LOUSE		k ɨ β	k ɨ β
+323297	355957	gerarditupi-Siriono	siri1273		louse	1392	LOUSE		k ĩ	k ĩ
+323298	355958	gerarditupi-Surui	suru1262		louse	1392	LOUSE		k ɨ β	k ɨ β
+323299	355959	gerarditupi-Tapirape	tapi1254		louse	1392	LOUSE		k ɨ p	k ɨ p
+323300	355960	gerarditupi-Tembe	temb1276		louse	1392	LOUSE		k ɨ w	k ɨ w
+323301	355961	gerarditupi-UrubuKaapor	urub1250		louse	1392	LOUSE		k ɨ	k ɨ
+323302	355962	gerarditupi-Urueuwauwau	urue1240		louse	1392	LOUSE		k ɨ β	k ɨ β
+323303	355963	gerarditupi-Warazu	paus1244		louse	1392	LOUSE		k i	k i
+323304	355964	gerarditupi-Wayampi	waya1270		louse	1392	LOUSE		k ɨ	k ɨ
+323305	355965	gerarditupi-Xeta	xeta1241		louse	1392	LOUSE		k ë	k ë
+323306	355966	gerarditupi-Yuki	yuqu1240		louse	1392	LOUSE		k ij	k i̯ː
+323475	356135	johanssonsoundsymbolic-Guarani	para1311		louse	1392	LOUSE		kɨ	k ɨ
+323685	356345	lundgrenomagoa-Omagua	omag1248		louse	1392	LOUSE		kɨwa	k ɨ w a
+323686	356346	lundgrenomagoa-Tupinamba	tupi1273		louse	1392	LOUSE		kɨβa	k ɨ β a
+330246	362907	gerarditupi-Amonda	amun1246		man	1554	MAN		kʷ ã m a ʔ e	kʷ ã m a ʔ e
+330247	362908	gerarditupi-Anambe	anam1249		man	1554	MAN		k u m a ʔ a	k u m a ʔ a
+330248	362909	gerarditupi-Arawete	araw1273		man	1554	MAN		k u m e ʔ e	k u m e ʔ e
+330249	362910	gerarditupi-Asurini	toca1235		man	1554	MAN		k o m a ʔ e	k o m a ʔ e
+330250	362911	gerarditupi-AsuriniXingu	xing1248		man	1554	MAN		k u d͡ʒ e m a ʔ e	k u dʒ e m a ʔ e
+330251	362912	gerarditupi-AvaCanoeiro	avac1239		man	1554	MAN		a kʷ a m a e	a kʷ a m a e
+330252	362913	gerarditupi-Chiriguano	east2555		man	1554	MAN		k u i m a e	k u i m a e
+330253	362914	gerarditupi-Emerillon	emer1243		man	1554	MAN		a w a kʷ e l	a w a kʷ e l
+330254	362915	gerarditupi-Guaja	guaj1256		man	1554	MAN		w a n i h ã	w a n i h ã
+330255	362916	gerarditupi-Guajajara	guaj1255		man	1554	MAN		a w a	a w a
+330256	362917	gerarditupi-GuaraniMbya	mbya1239		man	1554	MAN		k u i m a ʔ e	k u i m a ʔ e
+330257	362918	gerarditupi-Guarayo	guar1292		man	1554	MAN		k u i m b a ʔ e	k u i m b a ʔ e
+330258	362919	gerarditupi-Guayaki	ache1246		man	1554	MAN		k ɨ b a i	k ɨ b a i
+330259	362920	gerarditupi-Kamayura	kama1373		man	1554	MAN		a kʷ a m a ʔ e	a kʷ a m a ʔ e
+330260	362921	gerarditupi-Kayabi	kaya1329		man	1554	MAN		kʷ i m a ʔ e	kʷ i m a ʔ e
+330261	362922	gerarditupi-Kokama	coca1259		man	1554	MAN		n i a p i t s a r a	n i a p i t s a r a
+330262	362923	gerarditupi-Mawe	sate1243		man	1554	MAN		i h a i ɲ a	i h a i ɲ a
+330263	362924	gerarditupi-Nheengatu	nhen1239		man	1554	MAN		a p i g a w a	a p i g a w a
+330264	362925	gerarditupi-Parakana	para1312		man	1554	MAN		k u m a ʔ e	k u m a ʔ e
+330265	362926	gerarditupi-Parintintin	tenh1241		man	1554	MAN		kʷ a j m a ʔ e	kʷ a j m a ʔ e
+330266	362927	gerarditupi-Siriono	siri1273		man	1554	MAN		k i m b a e	k i m b a e
+330267	362928	gerarditupi-Surui	suru1262		man	1554	MAN		k u m a ʔ e	k u m a ʔ e
+330268	362929	gerarditupi-Tapirape	tapi1254		man	1554	MAN		a k o m a ʔ e	a k o m a ʔ e
+330269	362930	gerarditupi-UrubuKaapor	urub1250		man	1554	MAN		s a w a ʔ e	s a w a ʔ e
+330270	362931	gerarditupi-Urueuwauwau	urue1240		man	1554	MAN		kʷ ã m a ʔ e	kʷ ã m a ʔ e
+330271	362932	gerarditupi-Warazu	paus1244		man	1554	MAN		kʷ ɨ m a ʔ e	kʷ ɨ m a ʔ e
+330272	362933	gerarditupi-Wayampi	waya1270		man	1554	MAN		kʷ i m a ʔ e	kʷ i m a ʔ e
+330273	362934	gerarditupi-Xeta	xeta1241		man	1554	MAN		k a n o m i	k a n o m i
+330274	362935	gerarditupi-Yuki	yuqu1240		man	1554	MAN		k ẽ b a	k ẽ b a
+330441	363102	johanssonsoundsymbolic-Guarani	para1311		man	1554	MAN		aʋa	a ʋ a
+332057	364718	gerarditupi-Amonda	amun1246		many	1198	MANY		e ʔ u j	e ʔ u j
+332058	364719	gerarditupi-Arawete	araw1273		many	1198	MANY		p a w ẽ	p a w ẽ
+332059	364720	gerarditupi-Asurini	toca1235		many	1198	MANY		e t a	e t a
+332060	364721	gerarditupi-AsuriniXingu	xing1248		many	1198	MANY		e t a	e t a
+332061	364722	gerarditupi-AvaCanoeiro	avac1239		many	1198	MANY		e t a	e t a
+332062	364723	gerarditupi-Chiriguano	east2555		many	1198	MANY		h e t a	h e t a
+332063	364724	gerarditupi-Emerillon	emer1243		many	1198	MANY		a ɨ	a ɨ
+332064	364725	gerarditupi-Guaja	guaj1256		many	1198	MANY		j a t e	j a t e
+332065	364726	gerarditupi-Guajajara	guaj1255		many	1198	MANY		t e t e	t e t e
+332066	364727	gerarditupi-GuaraniMbya	mbya1239		many	1198	MANY		h e t a	h e t a
+332067	364728	gerarditupi-Guarayo	guar1292		many	1198	MANY		r e t a	r e t a
+332068	364729	gerarditupi-Kamayura	kama1373		many	1198	MANY		e t ã	e t ã
+332069	364730	gerarditupi-Kokama	coca1259		many	1198	MANY		t͡ʃ i t a	tʃ i t a
+332070	364731	gerarditupi-Mawe	sate1243		many	1198	MANY		k a h a t o	k a h a t o
+332071	364732	gerarditupi-Nheengatu	nhen1239		many	1198	MANY		r e t a	r e t a
+332072	364733	gerarditupi-Parakana	para1312		many	1198	MANY		e t e	e t e
+332073	364734	gerarditupi-Parintintin	tenh1241		many	1198	MANY		e ʔ h u j	e ʔ h u j
+332074	364735	gerarditupi-Siriono	siri1273		many	1198	MANY		r e t a	r e t a
+332075	364736	gerarditupi-Tapirape	tapi1254		many	1198	MANY		e t e	e t e
+332076	364737	gerarditupi-Tembe	temb1276		many	1198	MANY		e t a	e t a
+332077	364738	gerarditupi-UrubuKaapor	urub1250		many	1198	MANY		h e t a	h e t a
+332078	364739	gerarditupi-Urueuwauwau	urue1240		many	1198	MANY		e ʔ u j	e ʔ u j
+332079	364740	gerarditupi-Warazu	paus1244		many	1198	MANY		t j e r ə	t j e r ə
+332080	364741	gerarditupi-Wayampi	waya1270		many	1198	MANY		a t ɨ	a t ɨ
+332081	364742	gerarditupi-Yuki	yuqu1240		many	1198	MANY		e t a t ẽ	e t a t ẽ
+332264	364925	johanssonsoundsymbolic-Guarani	para1311		many	1198	MANY		heta	h e t a
+344240	376901	gerarditupi-Amonda	amun1246		moon	1313	MOON		ɲ a h ɨ a	ɲ a h ɨ a
+344241	376902	gerarditupi-Anambe	anam1249		moon	1313	MOON		j a h ɨ	j a h ɨ
+344242	376903	gerarditupi-Arawete	araw1273		moon	1313	MOON		j a h i	j a h i
+344243	376904	gerarditupi-Asurini	toca1235		moon	1313	MOON		s a h ɨ	s a h ɨ
+344244	376905	gerarditupi-AsuriniXingu	xing1248		moon	1313	MOON		dʒ a h ɨ	dʒ a h ɨ
+344245	376906	gerarditupi-AvaCanoeiro	avac1239		moon	1313	MOON		dʒ a ɨ	dʒ a ɨ
+344246	376907	gerarditupi-Aweti	awet1244		moon	1313	MOON		t a t ɨ	t a t ɨ
+344247	376908	gerarditupi-Chiriguano	east2555		moon	1313	MOON		j a s ɨ	j a s ɨ
+344248	376909	gerarditupi-Emerillon	emer1243		moon	1313	MOON		dʒ a ɨ	dʒ a ɨ
+344249	376910	gerarditupi-Guaja	guaj1256		moon	1313	MOON		j a h ɨ	j a h ɨ
+344250	376911	gerarditupi-Guajajara	guaj1255		moon	1313	MOON		z a h ɨ	z a h ɨ
+344251	376912	gerarditupi-GuaraniMbya	mbya1239		moon	1313	MOON		dʒ a s ɨ	dʒ a s ɨ
+344252	376913	gerarditupi-Guarayo	guar1292		moon	1313	MOON		j a s ɨ	j a s ɨ
+344253	376914	gerarditupi-Guayaki	ache1246		moon	1313	MOON		j a t͡ʃ ɨ	j a tʃ ɨ
+344254	376915	gerarditupi-Kamayura	kama1373		moon	1313	MOON		j a ɨ	j a ɨ
+344255	376916	gerarditupi-Kayabi	kaya1329		moon	1313	MOON		j a ɨ	j a ɨ
+344256	376917	gerarditupi-Kokama	coca1259		moon	1313	MOON		j a t͡s ɨ	j a ts ɨ
+344257	376918	gerarditupi-Mawe	sate1243		moon	1313	MOON		w a t ɨ	w a t ɨ
+344258	376919	gerarditupi-Nheengatu	nhen1239		moon	1313	MOON		j a s i	j a s i
+344259	376920	gerarditupi-Parakana	para1312		moon	1313	MOON		t͡ʃ a h ɨ	tʃ a h ɨ
+344260	376921	gerarditupi-Parintintin	tenh1241		moon	1313	MOON		ɲ a h ɨ a	ɲ a h ɨ a
+344261	376922	gerarditupi-Siriono	siri1273		moon	1313	MOON		dʒ a s i	dʒ a s i
+344262	376923	gerarditupi-Surui	suru1262		moon	1313	MOON		s a h ɨ	s a h ɨ
+344263	376924	gerarditupi-Tapirape	tapi1254		moon	1313	MOON		t͡ʃ ã ɨ	tʃ ã ɨ
+344264	376925	gerarditupi-Tembe	temb1276		moon	1313	MOON		z a h ɨ	z a h ɨ
+344265	376926	gerarditupi-UrubuKaapor	urub1250		moon	1313	MOON		j a h ɨ	j a h ɨ
+344266	376927	gerarditupi-Urueuwauwau	urue1240		moon	1313	MOON		ɲ a h ɨ a	ɲ a h ɨ a
+344267	376928	gerarditupi-Warazu	paus1244		moon	1313	MOON		ð a h i	ð a h i
+344268	376929	gerarditupi-Wayampi	waya1270		moon	1313	MOON		j a ɨ	j a ɨ
+344269	376930	gerarditupi-Yuki	yuqu1240		moon	1313	MOON		j a s i	j a s i
+344433	377094	johanssonsoundsymbolic-Guarani	para1311		moon	1313	MOON		ɟasɨ	ɟ a s ɨ
+344650	377311	lundgrenomagoa-Omagua	omag1248		moon	1313	MOON		jasɨ	j a s ɨ
+344651	377312	lundgrenomagoa-Tupinamba	tupi1273		moon	1313	MOON		jasɨ	j a s ɨ
+350751	383415	gerarditupi-Amonda	amun1246		mountain	639	MOUNTAIN		ɨ w ɨ t ɨ r u h u a	ɨ w ɨ t ɨ r u h u a
+350752	383416	gerarditupi-Chiriguano	east2555		mountain	639	MOUNTAIN		ɨ v ɨ t ɨ	ɨ v ɨ t ɨ
+350753	383417	gerarditupi-Emerillon	emer1243		mountain	639	MOUNTAIN		w ɨ t u l	w ɨ t u l
+350754	383418	gerarditupi-Guajajara	guaj1255		mountain	639	MOUNTAIN		ɨ w ɨ t ɨ r	ɨ w ɨ t ɨ r
+350755	383419	gerarditupi-GuaraniMbya	mbya1239		mountain	639	MOUNTAIN		ɨ v ɨ t ɨ	ɨ v ɨ t ɨ
+350756	383420	gerarditupi-Guarayo	guar1292		mountain	639	MOUNTAIN		ɨ β ɨ t ɨ r	ɨ β ɨ t ɨ r
+350757	383421	gerarditupi-Kamayura	kama1373		mountain	639	MOUNTAIN		ɨ w ɨ ʔ a m	ɨ w ɨ ʔ a m
+350758	383422	gerarditupi-Kayabi	kaya1329		mountain	639	MOUNTAIN		ɨ w ɨ ʔ a m u k u	ɨ w ɨ ʔ a m u k u
+350759	383423	gerarditupi-Kokama	coca1259		mountain	639	MOUNTAIN		ɨ w a t a	ɨ w a t a
+350760	383424	gerarditupi-Nheengatu	nhen1239		mountain	639	MOUNTAIN		i w i t i r a	i w i t i r a
+350761	383425	gerarditupi-Parakana	para1312		mountain	639	MOUNTAIN		ɨ β ɨ t ɨ r	ɨ β ɨ t ɨ r
+350762	383426	gerarditupi-Siriono	siri1273		mountain	639	MOUNTAIN		i β i t i	i β i t i
+350763	383427	gerarditupi-Urueuwauwau	urue1240		mountain	639	MOUNTAIN		ɨ w ɨ t ɨ r a	ɨ w ɨ t ɨ r a
+350764	383428	gerarditupi-Warazu	paus1244		mountain	639	MOUNTAIN		i w í t i	i w í t i
+350765	383429	gerarditupi-Wayampi	waya1270		mountain	639	MOUNTAIN		ɨ w ɨ t ɨ	ɨ w ɨ t ɨ
+350766	383430	gerarditupi-Yuki	yuqu1240		mountain	639	MOUNTAIN		i β i h u ã	i β i h u ã
+350910	383574	johanssonsoundsymbolic-Guarani	para1311		mountain	639	MOUNTAIN		ɨʋɨtɨ	ɨ ʋ ɨ t ɨ
+353418	386082	johanssonsoundsymbolic-Guarani	para1311		mouth	674	MOUTH		ɟuɾu	ɟ u ɾ u
+353648	386312	lundgrenomagoa-Omagua	omag1248		mouth	674	MOUTH		juɾu	j u ɾ u
+353649	386313	lundgrenomagoa-Tupinamba	tupi1273		mouth	674	MOUTH		juɾu	j u ɾ u
+358253	390917	gerarditupi-Amonda	amun1246		name	1405	NAME		e r	e r
+358254	390918	gerarditupi-Arawete	araw1273		name	1405	NAME		e r	e r
+358255	390919	gerarditupi-Asurini	toca1235		name	1405	NAME		e r	e r
+358256	390920	gerarditupi-AvaCanoeiro	avac1239		name	1405	NAME		e r	e r
+358257	390921	gerarditupi-Aweti	awet1244		name	1405	NAME		e t	e t
+358258	390922	gerarditupi-Chiriguano	east2555		name	1405	NAME		e e	e e
+358259	390923	gerarditupi-Emerillon	emer1243		name	1405	NAME		e r	e r
+358260	390924	gerarditupi-Guajajara	guaj1255		name	1405	NAME		e r	e r
+358261	390925	gerarditupi-GuaraniMbya	mbya1239		name	1405	NAME		e r ɨ	e r ɨ
+358262	390926	gerarditupi-Guarayo	guar1292		name	1405	NAME		e r	e r
+358263	390927	gerarditupi-Guayaki	ache1246		name	1405	NAME		e t e	e t e
+358264	390928	gerarditupi-Kamayura	kama1373		name	1405	NAME		e t	e t
+358265	390929	gerarditupi-Kayabi	kaya1329		name	1405	NAME		ʔ e t	ʔ e t
+358266	390930	gerarditupi-Kokama	coca1259		name	1405	NAME		i r a	i r a
+358267	390931	gerarditupi-Mawe	sate1243		name	1405	NAME		e t	e t
+358268	390932	gerarditupi-Nheengatu	nhen1239		name	1405	NAME		e r a	e r a
+358269	390933	gerarditupi-Parakana	para1312		name	1405	NAME		e r	e r
+358270	390934	gerarditupi-Parintintin	tenh1241		name	1405	NAME		e r	e r
+358271	390935	gerarditupi-Siriono	siri1273		name	1405	NAME		e	e
+358272	390936	gerarditupi-Surui	suru1262		name	1405	NAME		e r	e r
+358273	390937	gerarditupi-Tapirape	tapi1254		name	1405	NAME		e t	e t
+358274	390938	gerarditupi-Tembe	temb1276		name	1405	NAME		e r	e r
+358275	390939	gerarditupi-UrubuKaapor	urub1250		name	1405	NAME		e r	e r
+358276	390940	gerarditupi-Urueuwauwau	urue1240		name	1405	NAME		e r	e r
+358277	390941	gerarditupi-Warazu	paus1244		name	1405	NAME		e	e
+358278	390942	gerarditupi-Wayampi	waya1270		name	1405	NAME		e	e
+358437	391101	johanssonsoundsymbolic-Guarani	para1311		name	1405	NAME		teɾa	t e ɾ a
+364553	397220	gerarditupi-Amonda	amun1246		neck	1333	NECK		ɲ u r	ɲ u r
+364554	397221	gerarditupi-Arawete	araw1273		neck	1333	NECK		a j ɨ r ɨ	a j ɨ r ɨ
+364555	397222	gerarditupi-Asurini	toca1235		neck	1333	NECK		s o r	s o r
+364556	397223	gerarditupi-AsuriniXingu	xing1248		neck	1333	NECK		ʒ o r	ʒ o r
+364557	397224	gerarditupi-AvaCanoeiro	avac1239		neck	1333	NECK		a j u r	a j u r
+364558	397225	gerarditupi-Aweti	awet1244		neck	1333	NECK		t u r ʔ ɨ p	t u r ʔ ɨ p
+364559	397226	gerarditupi-Chiriguano	east2555		neck	1333	NECK		á j u	á j u
+364560	397227	gerarditupi-Emerillon	emer1243		neck	1333	NECK		k u l u k a g	k u l u k a g
+364561	397228	gerarditupi-Guajajara	guaj1255		neck	1333	NECK		a z u ʔ ɨ w	a z u ʔ ɨ w
+364562	397229	gerarditupi-GuaraniMbya	mbya1239		neck	1333	NECK		a j u	a j u
+364563	397230	gerarditupi-Guarayo	guar1292		neck	1333	NECK		a j u r u p ɨ	a j u r u p ɨ
+364564	397231	gerarditupi-Guayaki	ache1246		neck	1333	NECK		j u a	j u a
+364565	397232	gerarditupi-Kamayura	kama1373		neck	1333	NECK		j u r	j u r
+364566	397233	gerarditupi-Kokama	coca1259		neck	1333	NECK		j a t͡ʃ u k a	j a tʃ u k a
+364567	397234	gerarditupi-Mawe	sate1243		neck	1333	NECK		h u t ʔ ɨ p	h u t ʔ ɨ p
+364568	397235	gerarditupi-Nheengatu	nhen1239		neck	1333	NECK		j u r a	j u r a
+364569	397236	gerarditupi-Parakana	para1312		neck	1333	NECK		t͡ʃ o r	tʃ o r
+364570	397237	gerarditupi-Parintintin	tenh1241		neck	1333	NECK		ɲ u r	ɲ u r
+364571	397238	gerarditupi-Siriono	siri1273		neck	1333	NECK		d͡ʒ u r u i	dʒ u r u i
+364572	397239	gerarditupi-Surui	suru1262		neck	1333	NECK		s u r	s u r
+364573	397240	gerarditupi-Tapirape	tapi1254		neck	1333	NECK		t͡ʃ o t	tʃ o t
+364574	397241	gerarditupi-UrubuKaapor	urub1250		neck	1333	NECK		j u r u p i	j u r u p i
+364575	397242	gerarditupi-Urueuwauwau	urue1240		neck	1333	NECK		ɲ u r	ɲ u r
+364576	397243	gerarditupi-Warazu	paus1244		neck	1333	NECK		a ð u	a ð u
+364577	397244	gerarditupi-Wayampi	waya1270		neck	1333	NECK		a l ɨ p ɨ	a l ɨ p ɨ
+364578	397245	gerarditupi-Yuki	yuqu1240		neck	1333	NECK		j i r u	j i r u
+364725	397392	johanssonsoundsymbolic-Guarani	para1311		neck	1333	NECK		aɟuɾa	a ɟ u ɾ a
+368614	401281	gerarditupi-Amonda	amun1246		new	1231	NEW		p ɨ a h u	p ɨ a h u
+368615	401282	gerarditupi-Anambe	anam1249		new	1231	NEW		j a h u	j a h u
+368616	401283	gerarditupi-Arawete	araw1273		new	1231	NEW		j a h u	j a h u
+368617	401284	gerarditupi-Asurini	toca1235		new	1231	NEW		ʔ ɨ a h o	ʔ ɨ a h o
+368618	401285	gerarditupi-AsuriniXingu	xing1248		new	1231	NEW		ɨ a h o	ɨ a h o
+368619	401286	gerarditupi-AvaCanoeiro	avac1239		new	1231	NEW		p ɨ a w	p ɨ a w
+368620	401287	gerarditupi-Aweti	awet1244		new	1231	NEW		m ɨ t a	m ɨ t a
+368621	401288	gerarditupi-Chiriguano	east2555		new	1231	NEW		p ɨ a u	p ɨ a u
+368622	401289	gerarditupi-Emerillon	emer1243		new	1231	NEW		p ɨ o k a t u	p ɨ o k a t u
+368623	401290	gerarditupi-Guaja	guaj1256		new	1231	NEW		p i a h u	p i a h u
+368624	401291	gerarditupi-Guajajara	guaj1255		new	1231	NEW		p ɨ a h u	p ɨ a h u
+368625	401292	gerarditupi-GuaraniMbya	mbya1239		new	1231	NEW		i p ɨ a ʔ u	i p ɨ a ʔ u
+368626	401293	gerarditupi-Guarayo	guar1292		new	1231	NEW		p ɨ a s u	p ɨ a s u
+368627	401294	gerarditupi-Kamayura	kama1373		new	1231	NEW		p ɨ a u	p ɨ a u
+368628	401295	gerarditupi-Kayabi	kaya1329		new	1231	NEW		p ɨ a u	p ɨ a u
+368629	401296	gerarditupi-Kokama	coca1259		new	1231	NEW		ɨ p ɨ t͡s a t͡s u n	ɨ p ɨ ts a ts u n
+368630	401297	gerarditupi-Mawe	sate1243		new	1231	NEW		p a k u p	p a k u p
+368631	401298	gerarditupi-Nheengatu	nhen1239		new	1231	NEW		p i s a j u	p i s a j u
+368632	401299	gerarditupi-Parintintin	tenh1241		new	1231	NEW		p ɨ a h u a	p ɨ a h u a
+368633	401300	gerarditupi-Siriono	siri1273		new	1231	NEW		i a s u	i a s u
+368634	401301	gerarditupi-Tapirape	tapi1254		new	1231	NEW		ʔ ɨ ã o	ʔ ɨ ã o
+368635	401302	gerarditupi-Tembe	temb1276		new	1231	NEW		p i a h u	p i a h u
+368636	401303	gerarditupi-UrubuKaapor	urub1250		new	1231	NEW		p ɨ a h u	p ɨ a h u
+368637	401304	gerarditupi-Urueuwauwau	urue1240		new	1231	NEW		p ɨ a h u a	p ɨ a h u a
+368638	401305	gerarditupi-Warazu	paus1244		new	1231	NEW		p i a h u	p i a h u
+368639	401306	gerarditupi-Wayampi	waya1270		new	1231	NEW		p ɨ a u	p ɨ a u
+368640	401307	gerarditupi-Yuki	yuqu1240		new	1231	NEW		w i s a u	w i s a u
+368782	401449	johanssonsoundsymbolic-Guarani	para1311		new	1231	NEW		pɨahu	p ɨ a h u
+368987	401654	lundgrenomagoa-Omagua	omag1248		new	1231	NEW		ɨpɨsasu	ɨ p ɨ s a s u
+368988	401655	lundgrenomagoa-Tupinamba	tupi1273		new	1231	NEW		pɨsasu	p ɨ s a s u
+368989	401656	lundgrenomagoa-Tupinamba	tupi1273		new	1231	NEW		kɨɾa	k ɨ ɾ a
+368990	401657	lundgrenomagoa-Tupinamba	tupi1273		new	1231	NEW		ɨβɨɾa	ɨ β ɨ ɾ a
+371368	404035	gerarditupi-Amonda	amun1246		night	1233	NIGHT		ɨ p ɨ t u n	ɨ p ɨ t u n
+371369	404036	gerarditupi-Anambe	anam1249		night	1233	NIGHT		p ɨ t ũ	p ɨ t ũ
+371370	404037	gerarditupi-Arawete	araw1273		night	1233	NIGHT		p i t ə m	p i t ə m
+371371	404038	gerarditupi-Asurini	toca1235		night	1233	NIGHT		i p ɨ t o n	i p ɨ t o n
+371372	404039	gerarditupi-AsuriniXingu	xing1248		night	1233	NIGHT		i p ɨ t u n	i p ɨ t u n
+371373	404040	gerarditupi-AvaCanoeiro	avac1239		night	1233	NIGHT		p ɨ t u n	p ɨ t u n
+371374	404041	gerarditupi-Aweti	awet1244		night	1233	NIGHT		i p ɨ t a k o	i p ɨ t a k o
+371375	404042	gerarditupi-Chiriguano	east2555		night	1233	NIGHT		p ɨ̃ t u	p ɨ̃ t u
+371376	404043	gerarditupi-Emerillon	emer1243		night	1233	NIGHT		p ɨ a	p ɨ a
+371377	404044	gerarditupi-Guaja	guaj1256		night	1233	NIGHT		p ɨ h a	p ɨ h a
+371378	404045	gerarditupi-Guajajara	guaj1255		night	1233	NIGHT		p ɨ h a w	p ɨ h a w
+371379	404046	gerarditupi-GuaraniMbya	mbya1239		night	1233	NIGHT		p ɨ t u	p ɨ t u
+371380	404047	gerarditupi-Guarayo	guar1292		night	1233	NIGHT		p ɨ̃ t ũ	p ɨ̃ t ũ
+371381	404048	gerarditupi-Guayaki	ache1246		night	1233	NIGHT		p i t õ	p i t õ
+371382	404049	gerarditupi-Kamayura	kama1373		night	1233	NIGHT		ɨ p ɨ t u n	ɨ p ɨ t u n
+371383	404050	gerarditupi-Kayabi	kaya1329		night	1233	NIGHT		ɨ p ɨ̃ i	ɨ p ɨ̃ i
+371384	404051	gerarditupi-Kokama	coca1259		night	1233	NIGHT		ɨ p ɨ t͡s a	ɨ p ɨ ts a
+371385	404052	gerarditupi-Mawe	sate1243		night	1233	NIGHT		w ã t ɨ m	w ã t ɨ m
+371386	404053	gerarditupi-Nheengatu	nhen1239		night	1233	NIGHT		p i t u n a	p i t u n a
+371387	404054	gerarditupi-Parakana	para1312		night	1233	NIGHT		ɨ p ɨ t o n	ɨ p ɨ t o n
+371388	404055	gerarditupi-Parintintin	tenh1241		night	1233	NIGHT		ɨ p ɨ t u n	ɨ p ɨ t u n
+371389	404056	gerarditupi-Siriono	siri1273		night	1233	NIGHT		i t õ	i t õ
+371390	404057	gerarditupi-Surui	suru1262		night	1233	NIGHT		i p ɨ t u n	i p ɨ t u n
+371391	404058	gerarditupi-Tapirape	tapi1254		night	1233	NIGHT		ɨ p ɨ t o n	ɨ p ɨ t o n
+371392	404059	gerarditupi-Tembe	temb1276		night	1233	NIGHT		p ɨ t u n	p ɨ t u n
+371393	404060	gerarditupi-UrubuKaapor	urub1250		night	1233	NIGHT		p ɨ t u n	p ɨ t u n
+371394	404061	gerarditupi-Urueuwauwau	urue1240		night	1233	NIGHT		ɨ p ɨ t ũ n ã	ɨ p ɨ t ũ n ã
+371395	404062	gerarditupi-Warazu	paus1244		night	1233	NIGHT		p i h a	p i h a
+371396	404063	gerarditupi-Wayampi	waya1270		night	1233	NIGHT		p ɨ t ũ	p ɨ t ũ
+371397	404064	gerarditupi-Xeta	xeta1241		night	1233	NIGHT		p o á	p o á
+371398	404065	gerarditupi-Yuki	yuqu1240		night	1233	NIGHT		h i t õ	h i t õ
+371557	404224	johanssonsoundsymbolic-Guarani	para1311		night	1233	NIGHT		pɨhaɾe	p ɨ h a ɾ e
+377203	409870	gerarditupi-Amonda	amun1246		nose	1221	NOSE		a p ɨ̃ ɲ ã	a p ɨ̃ ɲ ã
+377204	409871	gerarditupi-Anambe	anam1249		nose	1221	NOSE		t ĩ	t ĩ
+377205	409872	gerarditupi-Arawete	araw1273		nose	1221	NOSE		t͡s ĩ	ts ĩ
+377206	409873	gerarditupi-Asurini	toca1235		nose	1221	NOSE		s i	s i
+377207	409874	gerarditupi-AsuriniXingu	xing1248		nose	1221	NOSE		t͡ʃ i	tʃ i
+377208	409875	gerarditupi-AvaCanoeiro	avac1239		nose	1221	NOSE		a p ɨ̃ i	a p ɨ̃ i
+377209	409876	gerarditupi-Aweti	awet1244		nose	1221	NOSE		t ĩ	t ĩ
+377210	409877	gerarditupi-Chiriguano	east2555		nose	1221	NOSE		t ĩ	t ĩ
+377211	409878	gerarditupi-Emerillon	emer1243		nose	1221	NOSE		t͡s ĩ	ts ĩ
+377212	409879	gerarditupi-Guaja	guaj1256		nose	1221	NOSE		j i p i a w ɨ̃	j i p i a w ɨ̃
+377213	409880	gerarditupi-Guajajara	guaj1255		nose	1221	NOSE		t͡ʃ i	tʃ i
+377214	409881	gerarditupi-GuaraniMbya	mbya1239		nose	1221	NOSE		t͡ʃ ĩ	tʃ ĩ
+377215	409882	gerarditupi-Guarayo	guar1292		nose	1221	NOSE		ã	ã
+377216	409883	gerarditupi-Kamayura	kama1373		nose	1221	NOSE		t͡s ĩ	ts ĩ
+377217	409884	gerarditupi-Kayabi	kaya1329		nose	1221	NOSE		s ĩ	s ĩ
+377218	409885	gerarditupi-Kokama	coca1259		nose	1221	NOSE		t i	t i
+377219	409886	gerarditupi-Mawe	sate1243		nose	1221	NOSE		a m p ɨ	a m p ɨ
+377220	409887	gerarditupi-Nheengatu	nhen1239		nose	1221	NOSE		t ĩ	t ĩ
+377221	409888	gerarditupi-Parakana	para1312		nose	1221	NOSE		t͡ʃ i	tʃ i
+377222	409889	gerarditupi-Parintintin	tenh1241		nose	1221	NOSE		a p ɨ̃ ɲ ã	a p ɨ̃ ɲ ã
+377223	409890	gerarditupi-Siriono	siri1273		nose	1221	NOSE		ã	ã
+377224	409891	gerarditupi-Surui	suru1262		nose	1221	NOSE		t͡ʃ i	tʃ i
+377225	409892	gerarditupi-Tapirape	tapi1254		nose	1221	NOSE		t͡ʃ ĩ	tʃ ĩ
+377226	409893	gerarditupi-Tembe	temb1276		nose	1221	NOSE		t i	t i
+377227	409894	gerarditupi-UrubuKaapor	urub1250		nose	1221	NOSE		ã p ũ i	ã p ũ i
+377228	409895	gerarditupi-Urueuwauwau	urue1240		nose	1221	NOSE		a p ɨ̃ ɲ ã	a p ɨ̃ ɲ ã
+377229	409896	gerarditupi-Warazu	paus1244		nose	1221	NOSE		a w a	a w a
+377230	409897	gerarditupi-Wayampi	waya1270		nose	1221	NOSE		s ĩ	s ĩ
+377231	409898	gerarditupi-Yuki	yuqu1240		nose	1221	NOSE		ã gʷ a	ã gʷ a
+377377	410044	johanssonsoundsymbolic-Guarani	para1311		nose	1221	NOSE		tĩ	t ĩ
+377606	410273	lundgrenomagoa-Omagua	omag1248		nose	1221	NOSE		tii	t i i
+377607	410274	lundgrenomagoa-Tupinamba	tupi1273		nose	1221	NOSE		tĩ	t ĩ
+378972	411639	johanssonsoundsymbolic-Guarani	para1311		not	1240	NOT		nahaniɾi	n a h a n i ɾ i
+389476	422143	gerarditupi-Amonda	amun1246		one	1493	ONE		o d͡ʒ i p e ʔ i	o dʒ i p e ʔ i
+389477	422144	gerarditupi-Anambe	anam1249		one	1493	ONE		t i p e ʔ ĩ	t i p e ʔ ĩ
+389478	422145	gerarditupi-Arawete	araw1273		one	1493	ONE		t͡ʃ i p ẽ	tʃ i p ẽ
+389479	422146	gerarditupi-Asurini	toca1235		one	1493	ONE		p i t e ʔ i	p i t e ʔ i
+389480	422147	gerarditupi-AsuriniXingu	xing1248		one	1493	ONE		m u d͡ʒ e p e j̃	m u dʒ e p e j̃
+389481	422148	gerarditupi-AvaCanoeiro	avac1239		one	1493	ONE		m e p e n oa n	m e p e n oa n
+389482	422149	gerarditupi-Aweti	awet1244		one	1493	ONE		m o m o z o t͡s u	m o m o z o ts u
+389483	422150	gerarditupi-Chiriguano	east2555		one	1493	ONE		p ẽ t i	p ẽ t i
+389484	422151	gerarditupi-Emerillon	emer1243		one	1493	ONE		m o z e p ẽ	m o z e p ẽ
+389485	422152	gerarditupi-Guaja	guaj1256		one	1493	ONE		m a k a m u t u h ũ	m a k a m u t u h ũ
+389486	422153	gerarditupi-Guajajara	guaj1255		one	1493	ONE		a m o	a m o
+389487	422154	gerarditupi-GuaraniMbya	mbya1239		one	1493	ONE		p e t e ĩ	p e t e ĩ
+389488	422155	gerarditupi-Guarayo	guar1292		one	1493	ONE		j̃ e p ẽ i	j̃ e p ẽ i
+389489	422156	gerarditupi-Kamayura	kama1373		one	1493	ONE		o j e p e t e	o j e p e t e
+389490	422157	gerarditupi-Kayabi	kaya1329		one	1493	ONE		a j e p e ʔ i	a j e p e ʔ i
+389491	422158	gerarditupi-Kokama	coca1259		one	1493	ONE		w e p e	w e p e
+389492	422159	gerarditupi-Mawe	sate1243		one	1493	ONE		w e n t u p	w e n t u p
+389493	422160	gerarditupi-Nheengatu	nhen1239		one	1493	ONE		j e p e	j e p e
+389494	422161	gerarditupi-Parakana	para1312		one	1493	ONE		o r e p e t͡ʃ o w e	o r e p e tʃ o w e
+389495	422162	gerarditupi-Parintintin	tenh1241		one	1493	ONE		o d͡ʒ i p e d͡ʒ i	o dʒ i p e dʒ i
+389496	422163	gerarditupi-Siriono	siri1273		one	1493	ONE		m ɨ ɨ	m ɨ ɨ
+389497	422164	gerarditupi-Tapirape	tapi1254		one	1493	ONE		ã t͡ʃ e p e	ã tʃ e p e
+389498	422165	gerarditupi-Tembe	temb1276		one	1493	ONE		p i t ə í	p i t ə í
+389499	422166	gerarditupi-UrubuKaapor	urub1250		one	1493	ONE		p e t e ĩ	p e t e ĩ
+389500	422167	gerarditupi-Urueuwauwau	urue1240		one	1493	ONE		o j p e ʔ i	o j p e ʔ i
+389501	422168	gerarditupi-Warazu	paus1244		one	1493	ONE		m u p e ð o	m u p e ð o
+389502	422169	gerarditupi-Wayampi	waya1270		one	1493	ONE		p e ʔ ĩ	p e ʔ ĩ
+389503	422170	gerarditupi-Yuki	yuqu1240		one	1493	ONE		k j o j õ	k j o j õ
+389672	422339	johanssonsoundsymbolic-Guarani	para1311		one	1493	ONE		peteĩ	p e t e ĩ
+406094	438761	gerarditupi-Amonda	amun1246		person	683	PERSON		a h e	a h e
+406095	438762	gerarditupi-Anambe	anam1249		person	683	PERSON		a w ã	a w ã
+406096	438763	gerarditupi-Arawete	araw1273		person	683	PERSON		a w a	a w a
+406097	438764	gerarditupi-Asurini	toca1235		person	683	PERSON		a w a	a w a
+406098	438765	gerarditupi-AsuriniXingu	xing1248		person	683	PERSON		a β a	a β a
+406099	438766	gerarditupi-AvaCanoeiro	avac1239		person	683	PERSON		a w a	a w a
+406100	438767	gerarditupi-Chiriguano	east2555		person	683	PERSON		á β a	á β a
+406101	438768	gerarditupi-Guaja	guaj1256		person	683	PERSON		a w a	a w a
+406102	438769	gerarditupi-Guajajara	guaj1255		person	683	PERSON		p u r u	p u r u
+406103	438770	gerarditupi-Guarayo	guar1292		person	683	PERSON		a β a	a β a
+406104	438771	gerarditupi-Kamayura	kama1373		person	683	PERSON		a w a	a w a
+406105	438772	gerarditupi-Kayabi	kaya1329		person	683	PERSON		a e	a e
+406106	438773	gerarditupi-Kokama	coca1259		person	683	PERSON		a w a	a w a
+406107	438774	gerarditupi-Mawe	sate1243		person	683	PERSON		m i t	m i t
+406108	438775	gerarditupi-Nheengatu	nhen1239		person	683	PERSON		a w á	a w á
+406109	438776	gerarditupi-Parintintin	tenh1241		person	683	PERSON		a h e	a h e
+406110	438777	gerarditupi-Siriono	siri1273		person	683	PERSON		a β a	a β a
+406111	438778	gerarditupi-Tapirape	tapi1254		person	683	PERSON		ã w ã	ã w ã
+406112	438779	gerarditupi-Tembe	temb1276		person	683	PERSON		a w á	a w á
+406113	438780	gerarditupi-UrubuKaapor	urub1250		person	683	PERSON		s a w a ʔ e	s a w a ʔ e
+406114	438781	gerarditupi-Urueuwauwau	urue1240		person	683	PERSON		a h e	a h e
+406115	438782	gerarditupi-Warazu	paus1244		person	683	PERSON		ə w ə	ə w ə
+406116	438783	gerarditupi-Wayampi	waya1270		person	683	PERSON		a w a	a w a
+406117	438784	gerarditupi-Yuki	yuqu1240		person	683	PERSON		a β a	a β a
+406207	438874	johanssonsoundsymbolic-Guarani	para1311		person	683	PERSON		aʋa	a ʋ a
+425998	458666	lundgrenomagoa-Omagua	omag1248		rainingorrain	2108	RAINING OR RAIN		amana	a m a n a
+425999	458667	lundgrenomagoa-Tupinamba	tupi1273		rainingorrain	2108	RAINING OR RAIN		amana	a m a n a
+432278	464946	gerarditupi-Amonda	amun1246		red	156	RED		r u r i	r u r i
+432279	464947	gerarditupi-Anambe	anam1249		red	156	RED		p i r ɨ̃	p i r ɨ̃
+432280	464948	gerarditupi-Arawete	araw1273		red	156	RED		p ɨ d ɨ	p ɨ d ɨ
+432281	464949	gerarditupi-Asurini	toca1235		red	156	RED		p i r o ŋ	p i r o ŋ
+432282	464950	gerarditupi-AsuriniXingu	xing1248		red	156	RED		p i r ɨ̃ ŋ	p i r ɨ̃ ŋ
+432283	464951	gerarditupi-AvaCanoeiro	avac1239		red	156	RED		p i r a ŋ	p i r a ŋ
+432284	464952	gerarditupi-Aweti	awet1244		red	156	RED		p i l a ŋ	p i l a ŋ
+432285	464953	gerarditupi-Chiriguano	east2555		red	156	RED		p ɨ̃ t a	p ɨ̃ t a
+432286	464954	gerarditupi-Emerillon	emer1243		red	156	RED		p i r a ŋ	p i r a ŋ
+432287	464955	gerarditupi-Guaja	guaj1256		red	156	RED		p i r ã	p i r ã
+432288	464956	gerarditupi-Guajajara	guaj1255		red	156	RED		p i r a g	p i r a g
+432289	464957	gerarditupi-GuaraniMbya	mbya1239		red	156	RED		p ɨ t ã	p ɨ t ã
+432290	464958	gerarditupi-Guarayo	guar1292		red	156	RED		p ĩ r ã	p ĩ r ã
+432291	464959	gerarditupi-Guayaki	ache1246		red	156	RED		p i r ã	p i r ã
+432292	464960	gerarditupi-Kamayura	kama1373		red	156	RED		p i r a ŋ	p i r a ŋ
+432293	464961	gerarditupi-Kayabi	kaya1329		red	156	RED		p i r a ŋ	p i r a ŋ
+432294	464962	gerarditupi-Kokama	coca1259		red	156	RED		p ɨ t a n i	p ɨ t a n i
+432295	464963	gerarditupi-Mawe	sate1243		red	156	RED		h u p	h u p
+432296	464964	gerarditupi-Nheengatu	nhen1239		red	156	RED		p i r a ŋ a	p i r a ŋ a
+432297	464965	gerarditupi-Parakana	para1312		red	156	RED		p ɨ t o g	p ɨ t o g
+432298	464966	gerarditupi-Parintintin	tenh1241		red	156	RED		r u r i	r u r i
+432299	464967	gerarditupi-Siriono	siri1273		red	156	RED		ɨ r e ɨ̃	ɨ r e ɨ̃
+432300	464968	gerarditupi-Surui	suru1262		red	156	RED		p i r a ŋ	p i r a ŋ
+432301	464969	gerarditupi-Tapirape	tapi1254		red	156	RED		p i r ɨ g	p i r ɨ g
+432302	464970	gerarditupi-Tembe	temb1276		red	156	RED		p i r a ŋ	p i r a ŋ
+432303	464971	gerarditupi-UrubuKaapor	urub1250		red	156	RED		p i r ã	p i r ã
+432304	464972	gerarditupi-Urueuwauwau	urue1240		red	156	RED		r u r i	r u r i
+432305	464973	gerarditupi-Warazu	paus1244		red	156	RED		p ɨ r ə	p ɨ r ə
+432306	464974	gerarditupi-Wayampi	waya1270		red	156	RED		p i r ã	p i r ã
+432307	464975	gerarditupi-Xeta	xeta1241		red	156	RED		m o r á p i r ã	m o r á p i r ã
+432308	464976	gerarditupi-Yuki	yuqu1240		red	156	RED		i r ã	i r ã
+432465	465133	johanssonsoundsymbolic-Guarani	para1311		red	156	RED		pɨtã	p ɨ t ã
+432681	465349	lundgrenomagoa-Omagua	omag1248		red	156	RED		pɨtani	p ɨ t a n i
+432682	465350	lundgrenomagoa-Tupinamba	tupi1273		red	156	RED		piɾaŋa	p i ɾ a ŋ a
+444230	476899	gerarditupi-Amonda	amun1246		root	670	ROOT		ɨ β a p o a	ɨ β a p o a
+444231	476900	gerarditupi-Anambe	anam1249		root	670	ROOT		a p o	a p o
+444232	476901	gerarditupi-Arawete	araw1273		root	670	ROOT		a p a	a p a
+444233	476902	gerarditupi-Asurini	toca1235		root	670	ROOT		h a p a	h a p a
+444234	476903	gerarditupi-AsuriniXingu	xing1248		root	670	ROOT		a p a	a p a
+444235	476904	gerarditupi-Aweti	awet1244		root	670	ROOT		a p o	a p o
+444236	476905	gerarditupi-Chiriguano	east2555		root	670	ROOT		h a p o	h a p o
+444237	476906	gerarditupi-Emerillon	emer1243		root	670	ROOT		a p o	a p o
+444238	476907	gerarditupi-Guaja	guaj1256		root	670	ROOT		a p o	a p o
+444239	476908	gerarditupi-Guajajara	guaj1255		root	670	ROOT		a p o	a p o
+444240	476909	gerarditupi-GuaraniMbya	mbya1239		root	670	ROOT		a p o	a p o
+444241	476910	gerarditupi-Guarayo	guar1292		root	670	ROOT		t͡s a p o	ts a p o
+444242	476911	gerarditupi-Guayaki	ache1246		root	670	ROOT		a p o	a p o
+444243	476912	gerarditupi-Kamayura	kama1373		root	670	ROOT		a p o	a p o
+444244	476913	gerarditupi-Kayabi	kaya1329		root	670	ROOT		a p o	a p o
+444245	476914	gerarditupi-Kokama	coca1259		root	670	ROOT		t͡s a p u a	ts a p u a
+444246	476915	gerarditupi-Mawe	sate1243		root	670	ROOT		a p o	a p o
+444247	476916	gerarditupi-Nheengatu	nhen1239		root	670	ROOT		s a p u	s a p u
+444248	476917	gerarditupi-Parakana	para1312		root	670	ROOT		a p a	a p a
+444249	476918	gerarditupi-Parintintin	tenh1241		root	670	ROOT		ɨ β a p o a	ɨ β a p o a
+444250	476919	gerarditupi-Siriono	siri1273		root	670	ROOT		r a o	r a o
+444251	476920	gerarditupi-Surui	suru1262		root	670	ROOT		o p o	o p o
+444252	476921	gerarditupi-Tembe	temb1276		root	670	ROOT		h a p o	h a p o
+444253	476922	gerarditupi-UrubuKaapor	urub1250		root	670	ROOT		h a p o	h a p o
+444254	476923	gerarditupi-Urueuwauwau	urue1240		root	670	ROOT		ɨ β a p o a	ɨ β a p o a
+444255	476924	gerarditupi-Warazu	paus1244		root	670	ROOT		a p o	a p o
+444256	476925	gerarditupi-Wayampi	waya1270		root	670	ROOT		a p o	a p o
+444257	476926	gerarditupi-Xeta	xeta1241		root	670	ROOT		a p a	a p a
+444415	477084	johanssonsoundsymbolic-Guarani	para1311		root	670	ROOT		hapo	h a p o
+448647	481316	gerarditupi-Arawete	araw1273		round	1395	ROUND		r e ʔ a	r e ʔ a
+448648	481317	gerarditupi-Asurini	toca1235		round	1395	ROUND		a p o ʔ a	a p o ʔ a
+448649	481318	gerarditupi-AsuriniXingu	xing1248		round	1395	ROUND		a p u ʔ a	a p u ʔ a
+448650	481319	gerarditupi-Chiriguano	east2555		round	1395	ROUND		a p ua	a p ua
+448651	481320	gerarditupi-Guaja	guaj1256		round	1395	ROUND		j a p o h u	j a p o h u
+448652	481321	gerarditupi-Guajajara	guaj1255		round	1395	ROUND		j a p u ʔ a	j a p u ʔ a
+448653	481322	gerarditupi-GuaraniMbya	mbya1239		round	1395	ROUND		a p u ʔ a	a p u ʔ a
+448654	481323	gerarditupi-Guarayo	guar1292		round	1395	ROUND		a p ua	a p ua
+448655	481324	gerarditupi-Guayaki	ache1246		round	1395	ROUND		k ɨ t ã	k ɨ t ã
+448656	481325	gerarditupi-Kamayura	kama1373		round	1395	ROUND		a h u ʔ a	a h u ʔ a
+448657	481326	gerarditupi-Kayabi	kaya1329		round	1395	ROUND		e p e	e p e
+448658	481327	gerarditupi-Kokama	coca1259		round	1395	ROUND		j a p ua	j a p ua
+448659	481328	gerarditupi-Mawe	sate1243		round	1395	ROUND		a w e r e p	a w e r e p
+448660	481329	gerarditupi-Nheengatu	nhen1239		round	1395	ROUND		a p u ʔ ã	a p u ʔ ã
+448661	481330	gerarditupi-Parakana	para1312		round	1395	ROUND		a p o ʔ a	a p o ʔ a
+448662	481331	gerarditupi-Siriono	siri1273		round	1395	ROUND		h ua	h ua
+448663	481332	gerarditupi-Surui	suru1262		round	1395	ROUND		a p u ʔ a	a p u ʔ a
+448664	481333	gerarditupi-Tapirape	tapi1254		round	1395	ROUND		ã p a j ã	ã p a j ã
+448665	481334	gerarditupi-Tembe	temb1276		round	1395	ROUND		a p u ʔ a	a p u ʔ a
+448666	481335	gerarditupi-UrubuKaapor	urub1250		round	1395	ROUND		p u ʔ a	p u ʔ a
+448667	481336	gerarditupi-Warazu	paus1244		round	1395	ROUND		a p u ʔ a	a p u ʔ a
+448668	481337	gerarditupi-Wayampi	waya1270		round	1395	ROUND		a p u ʔ a	a p u ʔ a
+448812	481481	johanssonsoundsymbolic-Guarani	para1311		round	1395	ROUND		apuʔa	a p u ʔ a
+448935	481604	lundgrenomagoa-Omagua	omag1248		round	1395	ROUND		japua	j + a p u a
+448936	481605	lundgrenomagoa-Tupinamba	tupi1273		round	1395	ROUND		ajeɾeβa	a j e ɾ e β a
+448937	481606	lundgrenomagoa-Tupinamba	tupi1273		round	1395	ROUND		amandaβa	a m a nd a β a
+448938	481607	lundgrenomagoa-Tupinamba	tupi1273		round	1395	ROUND		apɨ̃ja	a p ɨ̃ j a
+456194	488863	gerarditupi-Amonda	amun1246		sand	671	SAND		ɨ β ɨ t ĩ ŋ ã	ɨ β ɨ t ĩ ŋ ã
+456195	488864	gerarditupi-Arawete	araw1273		sand	671	SAND		i β i t͡ʃ ĩ	i β i tʃ ĩ
+456196	488865	gerarditupi-Asurini	toca1235		sand	671	SAND		ʔ ɨ t͡ʃ	ʔ ɨ tʃ
+456197	488866	gerarditupi-AvaCanoeiro	avac1239		sand	671	SAND		u k u t i ŋ a	u k u t i ŋ a
+456198	488867	gerarditupi-Chiriguano	east2555		sand	671	SAND		ɨ v ɨ k u ĩ t i	ɨ v ɨ k u ĩ t i
+456199	488868	gerarditupi-Emerillon	emer1243		sand	671	SAND		ɨ w ɨ s i ŋ	ɨ w ɨ s i ŋ
+456200	488869	gerarditupi-Guajajara	guaj1255		sand	671	SAND		ɨ w a t͡ʃ i g	ɨ w a tʃ i g
+456201	488870	gerarditupi-GuaraniMbya	mbya1239		sand	671	SAND		i t a k u ʔ i	i t a k u ʔ i
+456202	488871	gerarditupi-Guarayo	guar1292		sand	671	SAND		ɨ β ɨ k u ʔ i	ɨ β ɨ k u ʔ i
+456203	488872	gerarditupi-Kamayura	kama1373		sand	671	SAND		ʔ ɨ t͡s i ŋ	ʔ ɨ ts i ŋ
+456204	488873	gerarditupi-Kayabi	kaya1329		sand	671	SAND		j i s i ŋ	j i s i ŋ
+456205	488874	gerarditupi-Kokama	coca1259		sand	671	SAND		i t i n i	i t i n i
+456206	488875	gerarditupi-Nheengatu	nhen1239		sand	671	SAND		i w i k u í	i w i k u í
+456207	488876	gerarditupi-Parakana	para1312		sand	671	SAND		ɨ t͡ʃ i g	ɨ tʃ i g
+456208	488877	gerarditupi-Parintintin	tenh1241		sand	671	SAND		ɨ β ɨ t ĩ ŋ ã	ɨ β ɨ t ĩ ŋ ã
+456209	488878	gerarditupi-Siriono	siri1273		sand	671	SAND		ɨ t a k ɨ ɨ ʃ ɨ̃	ɨ t a k ɨ ɨ ʃ ɨ̃
+456210	488879	gerarditupi-UrubuKaapor	urub1250		sand	671	SAND		ɨ w ɨ	ɨ w ɨ
+456211	488880	gerarditupi-Urueuwauwau	urue1240		sand	671	SAND		ɨ β ɨ t ĩ ŋ ã	ɨ β ɨ t ĩ ŋ ã
+456212	488881	gerarditupi-Warazu	paus1244		sand	671	SAND		i w i k u ʔ ɨ t͡s ɨ	i w i k u ʔ ɨ ts ɨ
+456213	488882	gerarditupi-Wayampi	waya1270		sand	671	SAND		ɨ s i	ɨ s i
+456214	488883	gerarditupi-Yuki	yuqu1240		sand	671	SAND		i β i k i t͡ʃ ĩ	i β i k i tʃ ĩ
+456368	489037	johanssonsoundsymbolic-Guarani	para1311		sand	671	SAND		ɨʋɨkuʔi	ɨ ʋ ɨ k u ʔ i
+459334	492003	johanssonsoundsymbolic-Guarani	para1311		say	1458	SAY		e	e
+464870	497540	gerarditupi-Amonda	amun1246		see	1409	SEE		e p i e k	e p i e k
+464871	497541	gerarditupi-Anambe	anam1249		see	1409	SEE		e t͡s a k	e ts a k
+464872	497542	gerarditupi-Arawete	araw1273		see	1409	SEE		e t͡ʃ ã	e tʃ ã
+464873	497543	gerarditupi-Asurini	toca1235		see	1409	SEE		e s a	e s a
+464874	497544	gerarditupi-AsuriniXingu	xing1248		see	1409	SEE		e t͡ʃ a k	e tʃ a k
+464875	497545	gerarditupi-AvaCanoeiro	avac1239		see	1409	SEE		m a e	m a e
+464876	497546	gerarditupi-Aweti	awet1244		see	1409	SEE		t u p	t u p
+464877	497547	gerarditupi-Chiriguano	east2555		see	1409	SEE		e t͡ʃ a	e tʃ a
+464878	497548	gerarditupi-Emerillon	emer1243		see	1409	SEE		e s a g	e s a g
+464879	497549	gerarditupi-Guaja	guaj1256		see	1409	SEE		t͡ʃ a	tʃ a
+464880	497550	gerarditupi-Guajajara	guaj1255		see	1409	SEE		e t͡ʃ a k	e tʃ a k
+464881	497551	gerarditupi-GuaraniMbya	mbya1239		see	1409	SEE		e t͡ʃ a	e tʃ a
+464882	497552	gerarditupi-Guarayo	guar1292		see	1409	SEE		e p i a	e p i a
+464883	497553	gerarditupi-Kamayura	kama1373		see	1409	SEE		e t͡s a k	e ts a k
+464884	497554	gerarditupi-Kayabi	kaya1329		see	1409	SEE		e s a k	e s a k
+464885	497555	gerarditupi-Kokama	coca1259		see	1409	SEE		u m i	u m i
+464886	497556	gerarditupi-Nheengatu	nhen1239		see	1409	SEE		m a ã	m a ã
+464887	497557	gerarditupi-Parakana	para1312		see	1409	SEE		e t͡ʃ a n	e tʃ a n
+464888	497558	gerarditupi-Parintintin	tenh1241		see	1409	SEE		e p i e	e p i e
+464889	497559	gerarditupi-Siriono	siri1273		see	1409	SEE		e a	e a
+464890	497560	gerarditupi-Tapirape	tapi1254		see	1409	SEE		i t͡ʃ ã k	i tʃ ã k
+464891	497561	gerarditupi-Tembe	temb1276		see	1409	SEE		e s á k	e s á k
+464892	497562	gerarditupi-UrubuKaapor	urub1250		see	1409	SEE		s a k	s a k
+464893	497563	gerarditupi-Urueuwauwau	urue1240		see	1409	SEE		e p i e k	e p i e k
+464894	497564	gerarditupi-Warazu	paus1244		see	1409	SEE		e p a	e p a
+464895	497565	gerarditupi-Wayampi	waya1270		see	1409	SEE		e s a	e s a
+464896	497566	gerarditupi-Yuki	yuqu1240		see	1409	SEE		m ã ã	m ã ã
+465080	497750	johanssonsoundsymbolic-Guarani	para1311		see	1409	SEE		hetʃa	h e tʃ a
+466479	499149	gerarditupi-Amonda	amun1246		seed	714	SEED		h a ʔ ɨ̃ ɲ ã	h a ʔ ɨ̃ ɲ ã
+466480	499150	gerarditupi-Anambe	anam1249		seed	714	SEED		a ʔ ɨ̃	a ʔ ɨ̃
+466481	499151	gerarditupi-Arawete	araw1273		seed	714	SEED		t͡ʃ i j ã	tʃ i j ã
+466482	499152	gerarditupi-Asurini	toca1235		seed	714	SEED		a ʔ ɨ s	a ʔ ɨ s
+466483	499153	gerarditupi-AsuriniXingu	xing1248		seed	714	SEED		a ʔ ɨ̃ dʒ	a ʔ ɨ̃ dʒ
+466484	499154	gerarditupi-AvaCanoeiro	avac1239		seed	714	SEED		a ɨ̃ j	a ɨ̃ j
+466485	499155	gerarditupi-Aweti	awet1244		seed	714	SEED		a ʔ ɨ j	a ʔ ɨ j
+466486	499156	gerarditupi-Chiriguano	east2555		seed	714	SEED		h ã ɨ	h ã ɨ
+466487	499157	gerarditupi-Emerillon	emer1243		seed	714	SEED		a ʔ ɨ w a n	a ʔ ɨ w a n
+466488	499158	gerarditupi-Guaja	guaj1256		seed	714	SEED		w i h ẽ	w i h ẽ
+466489	499159	gerarditupi-Guajajara	guaj1255		seed	714	SEED		h a ʔ a z	h a ʔ a z
+466490	499160	gerarditupi-GuaraniMbya	mbya1239		seed	714	SEED		a ʔ ɨ ĩ	a ʔ ɨ ĩ
+466491	499161	gerarditupi-Guarayo	guar1292		seed	714	SEED		a ʔ ɨ̃ i	a ʔ ɨ̃ i
+466492	499162	gerarditupi-Guayaki	ache1246		seed	714	SEED		ã	ã
+466493	499163	gerarditupi-Kamayura	kama1373		seed	714	SEED		a ʔ ɨ̃ j	a ʔ ɨ̃ j
+466494	499164	gerarditupi-Kayabi	kaya1329		seed	714	SEED		a ʔ ɨ̃ j	a ʔ ɨ̃ j
+466495	499165	gerarditupi-Kokama	coca1259		seed	714	SEED		t͡s a i	ts a i
+466496	499166	gerarditupi-Mawe	sate1243		seed	714	SEED		a ʔ ɨ j	a ʔ ɨ j
+466497	499167	gerarditupi-Nheengatu	nhen1239		seed	714	SEED		t a i ɲ a	t a i ɲ a
+466498	499168	gerarditupi-Parakana	para1312		seed	714	SEED		a ʔ ɨ n i	a ʔ ɨ n i
+466499	499169	gerarditupi-Parintintin	tenh1241		seed	714	SEED		h a ʔ ɨ̃ j	h a ʔ ɨ̃ j
+466500	499170	gerarditupi-Siriono	siri1273		seed	714	SEED		e ɨ̃	e ɨ̃
+466501	499171	gerarditupi-Surui	suru1262		seed	714	SEED		o ʔ o j	o ʔ o j
+466502	499172	gerarditupi-Tapirape	tapi1254		seed	714	SEED		a ʔ ɨ̃ j	a ʔ ɨ̃ j
+466503	499173	gerarditupi-Tembe	temb1276		seed	714	SEED		ə ʔ ɨ̃ j	ə ʔ ɨ̃ j
+466504	499174	gerarditupi-UrubuKaapor	urub1250		seed	714	SEED		a ʔ ɨ̃	a ʔ ɨ̃
+466505	499175	gerarditupi-Urueuwauwau	urue1240		seed	714	SEED		h a ʔ ɨ̃ ɲ ã	h a ʔ ɨ̃ ɲ ã
+466506	499176	gerarditupi-Warazu	paus1244		seed	714	SEED		ə ʔ ə ɨ	ə ʔ ə ɨ
+466507	499177	gerarditupi-Wayampi	waya1270		seed	714	SEED		a ʔ ɨ̃ j	a ʔ ɨ̃ j
+466508	499178	gerarditupi-Yuki	yuqu1240		seed	714	SEED		a ĩ	a ĩ
+466650	499320	johanssonsoundsymbolic-Guarani	para1311		seed	714	SEED		taʔɨ̃i	t a ʔ ɨ̃ i
+490397	523069	gerarditupi-Amonda	amun1246		sit	1416	SIT		p ɨ̃ n	p ɨ̃ n
+490398	523070	gerarditupi-Anambe	anam1249		sit	1416	SIT		a p ɨ	a p ɨ
+490399	523071	gerarditupi-Arawete	araw1273		sit	1416	SIT		a p i	a p i
+490400	523072	gerarditupi-Asurini	toca1235		sit	1416	SIT		a p ɨ ŋ	a p ɨ ŋ
+490401	523073	gerarditupi-AsuriniXingu	xing1248		sit	1416	SIT		a p ɨ k	a p ɨ k
+490402	523074	gerarditupi-AvaCanoeiro	avac1239		sit	1416	SIT		a p ɨ k	a p ɨ k
+490403	523075	gerarditupi-Aweti	awet1244		sit	1416	SIT		a p ɨ k	a p ɨ k
+490404	523076	gerarditupi-Chiriguano	east2555		sit	1416	SIT		gʷ á p ɨ	gʷ á p ɨ
+490405	523077	gerarditupi-Emerillon	emer1243		sit	1416	SIT		a p ɨ g	a p ɨ g
+490406	523078	gerarditupi-Guaja	guaj1256		sit	1416	SIT		w a p ɨ k	w a p ɨ k
+490407	523079	gerarditupi-Guajajara	guaj1255		sit	1416	SIT		a p ɨ k	a p ɨ k
+490408	523080	gerarditupi-GuaraniMbya	mbya1239		sit	1416	SIT		gʷ a p ɨ	gʷ a p ɨ
+490409	523081	gerarditupi-Guarayo	guar1292		sit	1416	SIT		w a p ɨ	w a p ɨ
+490410	523082	gerarditupi-Guayaki	ache1246		sit	1416	SIT		v a p ɨ	v a p ɨ
+490411	523083	gerarditupi-Kamayura	kama1373		sit	1416	SIT		ʔ a p ɨ k	ʔ a p ɨ k
+490412	523084	gerarditupi-Kayabi	kaya1329		sit	1416	SIT		a p ɨ k	a p ɨ k
+490413	523085	gerarditupi-Kokama	coca1259		sit	1416	SIT		j a p ɨ k a	j a p ɨ k a
+490414	523086	gerarditupi-Mawe	sate1243		sit	1416	SIT		a p ɨ k	a p ɨ k
+490415	523087	gerarditupi-Nheengatu	nhen1239		sit	1416	SIT		w a p i k a	w a p i k a
+490416	523088	gerarditupi-Parakana	para1312		sit	1416	SIT		a p ɨ g	a p ɨ g
+490417	523089	gerarditupi-Parintintin	tenh1241		sit	1416	SIT		p ɨ	p ɨ
+490418	523090	gerarditupi-Siriono	siri1273		sit	1416	SIT		k o i	k o i
+490419	523091	gerarditupi-Tapirape	tapi1254		sit	1416	SIT		ã p ɨ k	ã p ɨ k
+490420	523092	gerarditupi-Tembe	temb1276		sit	1416	SIT		a p ɨ k	a p ɨ k
+490421	523093	gerarditupi-UrubuKaapor	urub1250		sit	1416	SIT		w a p ɨ k	w a p ɨ k
+490422	523094	gerarditupi-Urueuwauwau	urue1240		sit	1416	SIT		p ɨ̃	p ɨ̃
+490423	523095	gerarditupi-Warazu	paus1244		sit	1416	SIT		w a p i	w a p i
+490424	523096	gerarditupi-Wayampi	waya1270		sit	1416	SIT		a p ɨ	a p ɨ
+490425	523097	gerarditupi-Yuki	yuqu1240		sit	1416	SIT		kʷ a i	kʷ a i
+490524	523196	johanssonsoundsymbolic-Guarani	para1311		sit	1416	SIT		ɣwapɨ	ɣʷ a p ɨ
+494634	527306	johanssonsoundsymbolic-Guarani	para1311		skin	763	SKIN		piɾe	p i ɾ e
+494853	527525	lundgrenomagoa-Omagua	omag1248		skin	763	SKIN		piɾuaɾa	p i ɾ u a ɾ a
+494854	527526	lundgrenomagoa-Tupinamba	tupi1273		skin	763	SKIN		ajapé	a j a p é
+494855	527527	lundgrenomagoa-Tupinamba	tupi1273		skin	763	SKIN		piɾa	p i ɾ a
+499084	531756	gerarditupi-Amonda	amun1246		sleep	1585	SLEEP		t͡ʃ i r a	tʃ i r a
+499085	531757	gerarditupi-Anambe	anam1249		sleep	1585	SLEEP		k a	k a
+499086	531758	gerarditupi-Arawete	araw1273		sleep	1585	SLEEP		t͡ʃ e	tʃ e
+499087	531759	gerarditupi-Asurini	toca1235		sleep	1585	SLEEP		k e n	k e n
+499088	531760	gerarditupi-AsuriniXingu	xing1248		sleep	1585	SLEEP		k i t	k i t
+499089	531761	gerarditupi-AvaCanoeiro	avac1239		sleep	1585	SLEEP		k e r	k e r
+499090	531762	gerarditupi-Aweti	awet1244		sleep	1585	SLEEP		t e t	t e t
+499091	531763	gerarditupi-Chiriguano	east2555		sleep	1585	SLEEP		k e	k e
+499092	531764	gerarditupi-Emerillon	emer1243		sleep	1585	SLEEP		k e r	k e r
+499093	531765	gerarditupi-Guaja	guaj1256		sleep	1585	SLEEP		k e r e	k e r e
+499094	531766	gerarditupi-Guajajara	guaj1255		sleep	1585	SLEEP		k e r	k e r
+499095	531767	gerarditupi-GuaraniMbya	mbya1239		sleep	1585	SLEEP		k e	k e
+499096	531768	gerarditupi-Guarayo	guar1292		sleep	1585	SLEEP		k e r	k e r
+499097	531769	gerarditupi-Guayaki	ache1246		sleep	1585	SLEEP		k e	k e
+499098	531770	gerarditupi-Kamayura	kama1373		sleep	1585	SLEEP		k e t	k e t
+499099	531771	gerarditupi-Kayabi	kaya1329		sleep	1585	SLEEP		s e r	s e r
+499100	531772	gerarditupi-Kokama	coca1259		sleep	1585	SLEEP		k ɨ r ɨ	k ɨ r ɨ
+499101	531773	gerarditupi-Mawe	sate1243		sleep	1585	SLEEP		k e t	k e t
+499102	531774	gerarditupi-Nheengatu	nhen1239		sleep	1585	SLEEP		k i r i	k i r i
+499103	531775	gerarditupi-Parakana	para1312		sleep	1585	SLEEP		k e n	k e n
+499104	531776	gerarditupi-Parintintin	tenh1241		sleep	1585	SLEEP		k i r a	k i r a
+499105	531777	gerarditupi-Siriono	siri1273		sleep	1585	SLEEP		k e	k e
+499106	531778	gerarditupi-Tapirape	tapi1254		sleep	1585	SLEEP		k e t	k e t
+499107	531779	gerarditupi-Tembe	temb1276		sleep	1585	SLEEP		k e r	k e r
+499108	531780	gerarditupi-UrubuKaapor	urub1250		sleep	1585	SLEEP		ʃ e r	ʃ e r
+499109	531781	gerarditupi-Urueuwauwau	urue1240		sleep	1585	SLEEP		t͡ʃ i r a	tʃ i r a
+499110	531782	gerarditupi-Warazu	paus1244		sleep	1585	SLEEP		k e	k e
+499111	531783	gerarditupi-Wayampi	waya1270		sleep	1585	SLEEP		k e	k e
+499112	531784	gerarditupi-Xeta	xeta1241		sleep	1585	SLEEP		k e	k e
+499113	531785	gerarditupi-Yuki	yuqu1240		sleep	1585	SLEEP		k j e	k j e
+499273	531945	johanssonsoundsymbolic-Guarani	para1311		sleep	1585	SLEEP		ke	k e
+502645	535319	gerarditupi-Amonda	amun1246		small	1246	SMALL		t͡ʃ u ʔ ĩ	tʃ u ʔ ĩ
+502646	535320	gerarditupi-Asurini	toca1235		small	1246	SMALL		ʔ i	ʔ i
+502647	535321	gerarditupi-AvaCanoeiro	avac1239		small	1246	SMALL		m i r i	m i r i
+502648	535322	gerarditupi-Chiriguano	east2555		small	1246	SMALL		m ĩ ʃ i	m ĩ ʃ i
+502649	535323	gerarditupi-Emerillon	emer1243		small	1246	SMALL		s ĩ k ã ĩ	s ĩ k ã ĩ
+502650	535324	gerarditupi-Guaja	guaj1256		small	1246	SMALL		m i i	m i i
+502651	535325	gerarditupi-Guajajara	guaj1255		small	1246	SMALL		p i t͡ʃ i k	p i tʃ i k
+502652	535326	gerarditupi-GuaraniMbya	mbya1239		small	1246	SMALL		k ɨ r ĩ	k ɨ r ĩ
+502653	535327	gerarditupi-Guarayo	guar1292		small	1246	SMALL		m i n i	m i n i
+502654	535328	gerarditupi-Guayaki	ache1246		small	1246	SMALL		m i r ĩ	m i r ĩ
+502655	535329	gerarditupi-Kayabi	kaya1329		small	1246	SMALL		ɨ ʔ ɨ	ɨ ʔ ɨ
+502656	535330	gerarditupi-Kokama	coca1259		small	1246	SMALL		m i r i	m i r i
+502657	535331	gerarditupi-Mawe	sate1243		small	1246	SMALL		h i t	h i t
+502658	535332	gerarditupi-Nheengatu	nhen1239		small	1246	SMALL		m i r i	m i r i
+502659	535333	gerarditupi-Parakana	para1312		small	1246	SMALL		p i p i	p i p i
+502660	535334	gerarditupi-Parintintin	tenh1241		small	1246	SMALL		t͡ʃ u ʔ ĩ	tʃ u ʔ ĩ
+502661	535335	gerarditupi-Tembe	temb1276		small	1246	SMALL		m i r i	m i r i
+502662	535336	gerarditupi-UrubuKaapor	urub1250		small	1246	SMALL		m i	m i
+502663	535337	gerarditupi-Urueuwauwau	urue1240		small	1246	SMALL		t͡ʃ u ʔ ĩ	tʃ u ʔ ĩ
+502664	535338	gerarditupi-Warazu	paus1244		small	1246	SMALL		m ɨ n ɨ	m ɨ n ɨ
+502665	535339	gerarditupi-Wayampi	waya1270		small	1246	SMALL		m ĩ l ĩ	m ĩ l ĩ
+502666	535340	gerarditupi-Yuki	yuqu1240		small	1246	SMALL		r i r ĩ ĩ	r i r ĩ ĩ
+502856	535530	johanssonsoundsymbolic-Guarani	para1311		small	1246	SMALL		mitʃĩ	m i tʃ ĩ
+507002	539678	gerarditupi-Amonda	amun1246		smokeexhaust	778	SMOKE (EXHAUST)		t a t a t ĩ ŋ ã	t a t a t ĩ ŋ ã
+507003	539679	gerarditupi-Anambe	anam1249		smokeexhaust	778	SMOKE (EXHAUST)		t a k a n ʃ ĩ	t a k a n ʃ ĩ
+507004	539680	gerarditupi-Arawete	araw1273		smokeexhaust	778	SMOKE (EXHAUST)		t a t a t ɨ̃	t a t a t ɨ̃
+507005	539681	gerarditupi-Asurini	toca1235		smokeexhaust	778	SMOKE (EXHAUST)		t a t a s i ŋ	t a t a s i ŋ
+507006	539682	gerarditupi-AsuriniXingu	xing1248		smokeexhaust	778	SMOKE (EXHAUST)		t a t a t͡ʃ i ŋ	t a t a tʃ i ŋ
+507007	539683	gerarditupi-AvaCanoeiro	avac1239		smokeexhaust	778	SMOKE (EXHAUST)		t a t a t i n g	t a t a t i n g
+507008	539684	gerarditupi-Aweti	awet1244		smokeexhaust	778	SMOKE (EXHAUST)		t i ŋ	t i ŋ
+507009	539685	gerarditupi-Chiriguano	east2555		smokeexhaust	778	SMOKE (EXHAUST)		t a t ã t i	t a t ã t i
+507010	539686	gerarditupi-Emerillon	emer1243		smokeexhaust	778	SMOKE (EXHAUST)		t a t a t͡s i ŋ	t a t a ts i ŋ
+507011	539687	gerarditupi-Guaja	guaj1256		smokeexhaust	778	SMOKE (EXHAUST)		t a t a t͡ʃ ĩ	t a t a tʃ ĩ
+507012	539688	gerarditupi-Guajajara	guaj1255		smokeexhaust	778	SMOKE (EXHAUST)		t͡ʃ i m o r e r	tʃ i m o r e r
+507013	539689	gerarditupi-GuaraniMbya	mbya1239		smokeexhaust	778	SMOKE (EXHAUST)		h a t a t͡ʃ ĩ	h a t a tʃ ĩ
+507014	539690	gerarditupi-Guarayo	guar1292		smokeexhaust	778	SMOKE (EXHAUST)		a t ã t͡ʃ ĩ	a t ã tʃ ĩ
+507015	539691	gerarditupi-Guayaki	ache1246		smokeexhaust	778	SMOKE (EXHAUST)		t a t͡ʃ ĩ	t a tʃ ĩ
+507016	539692	gerarditupi-Kamayura	kama1373		smokeexhaust	778	SMOKE (EXHAUST)		t a t a t͡s i ŋ	t a t a ts i ŋ
+507017	539693	gerarditupi-Kayabi	kaya1329		smokeexhaust	778	SMOKE (EXHAUST)		a t a s i ŋ	a t a s i ŋ
+507018	539694	gerarditupi-Kokama	coca1259		smokeexhaust	778	SMOKE (EXHAUST)		t a t a t i n i	t a t a t i n i
+507019	539695	gerarditupi-Mawe	sate1243		smokeexhaust	778	SMOKE (EXHAUST)		h i ŋ	h i ŋ
+507020	539696	gerarditupi-Parakana	para1312		smokeexhaust	778	SMOKE (EXHAUST)		t a t a t͡ʃ i n	t a t a tʃ i n
+507021	539697	gerarditupi-Parintintin	tenh1241		smokeexhaust	778	SMOKE (EXHAUST)		t a t a t ĩ ŋ ã	t a t a t ĩ ŋ ã
+507022	539698	gerarditupi-Siriono	siri1273		smokeexhaust	778	SMOKE (EXHAUST)		a t a ʃ ĩ	a t a ʃ ĩ
+507023	539699	gerarditupi-Surui	suru1262		smokeexhaust	778	SMOKE (EXHAUST)		t a t a t͡ʃ i ŋ	t a t a tʃ i ŋ
+507024	539700	gerarditupi-Tembe	temb1276		smokeexhaust	778	SMOKE (EXHAUST)		t a t a t i ŋ	t a t a t i ŋ
+507025	539701	gerarditupi-Urueuwauwau	urue1240		smokeexhaust	778	SMOKE (EXHAUST)		t a t a t ĩ ŋ ã	t a t a t ĩ ŋ ã
+507026	539702	gerarditupi-Warazu	paus1244		smokeexhaust	778	SMOKE (EXHAUST)		ə t ə t͡s ɨ	ə t ə ts ɨ
+507027	539703	gerarditupi-Wayampi	waya1270		smokeexhaust	778	SMOKE (EXHAUST)		t a t a s ĩ	t a t a s ĩ
+507028	539704	gerarditupi-Xeta	xeta1241		smokeexhaust	778	SMOKE (EXHAUST)		t a t a ʒ i	t a t a ʒ i
+507029	539705	gerarditupi-Yuki	yuqu1240		smokeexhaust	778	SMOKE (EXHAUST)		t͡ʃ ĩ	tʃ ĩ
+507182	539858	johanssonsoundsymbolic-Guarani	para1311		smokeexhaust	778	SMOKE (EXHAUST)		tatatĩ	t a t a t ĩ
+507401	540077	lundgrenomagoa-Omagua	omag1248		smokeexhaust	778	SMOKE (EXHAUST)		tatatini	t a t a t i n i
+507402	540078	lundgrenomagoa-Tupinamba	tupi1273		smokeexhaust	778	SMOKE (EXHAUST)		atatiŋa	t a t a t i ŋ a
+530058	562734	johanssonsoundsymbolic-Guarani	para1311		stand	1442	STAND		moɲemboʔɨ	m o ɲ e m b o ʔ ɨ
+532126	564802	gerarditupi-Amonda	amun1246		star	1430	STAR		ɲ a ɨ t a t a ʔ i a	ɲ a ɨ t a t a ʔ i a
+532127	564803	gerarditupi-Arawete	araw1273		star	1430	STAR		j a i t a t ə	j a i t a t ə
+532128	564804	gerarditupi-Asurini	toca1235		star	1430	STAR		s a h ɨ t a t a	s a h ɨ t a t a
+532129	564805	gerarditupi-AsuriniXingu	xing1248		star	1430	STAR		dʒ a ɨ t a t a	dʒ a ɨ t a t a
+532130	564806	gerarditupi-AvaCanoeiro	avac1239		star	1430	STAR		dʒ a ɨ t a t a	dʒ a ɨ t a t a
+532131	564807	gerarditupi-Chiriguano	east2555		star	1430	STAR		j a s ɨ t a t a	j a s ɨ t a t a
+532132	564808	gerarditupi-Emerillon	emer1243		star	1430	STAR		s i r i k ə	s i r i k ə
+532133	564809	gerarditupi-Guaja	guaj1256		star	1430	STAR		i w a r t a ĩ	i w a r t a ĩ
+532134	564810	gerarditupi-Guajajara	guaj1255		star	1430	STAR		z a h ɨ t a t a	z a h ɨ t a t a
+532135	564811	gerarditupi-GuaraniMbya	mbya1239		star	1430	STAR		dʒ a t͡ʃ ɨ t a t a	dʒ a tʃ ɨ t a t a
+532136	564812	gerarditupi-Guarayo	guar1292		star	1430	STAR		j a t͡s ɨ t a t a	j a ts ɨ t a t a
+532137	564813	gerarditupi-Guayaki	ache1246		star	1430	STAR		t a t a	t a t a
+532138	564814	gerarditupi-Kamayura	kama1373		star	1430	STAR		j a ɨ t a t a ʔ i	j a ɨ t a t a ʔ i
+532139	564815	gerarditupi-Kayabi	kaya1329		star	1430	STAR		j a ɨ t a t a	j a ɨ t a t a
+532140	564816	gerarditupi-Kokama	coca1259		star	1430	STAR		t͡s e t͡s u	ts e ts u
+532141	564817	gerarditupi-Mawe	sate1243		star	1430	STAR		w a j k i r u	w a j k i r u
+532142	564818	gerarditupi-Nheengatu	nhen1239		star	1430	STAR		j a s i t a	j a s i t a
+532143	564819	gerarditupi-Parakana	para1312		star	1430	STAR		t͡ʃ a i t a t a	tʃ a i t a t a
+532144	564820	gerarditupi-Parintintin	tenh1241		star	1430	STAR		ɲ a ɨ t a t a ʔ i a	ɲ a ɨ t a t a ʔ i a
+532145	564821	gerarditupi-Siriono	siri1273		star	1430	STAR		t͡ʃ a s i t a t a	tʃ a s i t a t a
+532146	564822	gerarditupi-Surui	suru1262		star	1430	STAR		s a h ɨ t a t a	s a h ɨ t a t a
+532147	564823	gerarditupi-Tapirape	tapi1254		star	1430	STAR		t͡ʃ ã ɨ t ã t ã ʔ i	tʃ ã ɨ t ã t ã ʔ i
+532148	564824	gerarditupi-Tembe	temb1276		star	1430	STAR		z a h ɨ t a t a	z a h ɨ t a t a
+532149	564825	gerarditupi-UrubuKaapor	urub1250		star	1430	STAR		j a h ɨ r a t a	j a h ɨ r a t a
+532150	564826	gerarditupi-Urueuwauwau	urue1240		star	1430	STAR		ɲ a ɨ t a t a ʔ i a	ɲ a ɨ t a t a ʔ i a
+532151	564827	gerarditupi-Warazu	paus1244		star	1430	STAR		ð a h i t a t a	ð a h i t a t a
+532152	564828	gerarditupi-Wayampi	waya1270		star	1430	STAR		j a ɨ t a t a	j a ɨ t a t a
+532153	564829	gerarditupi-Yuki	yuqu1240		star	1430	STAR		j a s i r i r ĩ	j a s i r i r ĩ
+532316	564992	johanssonsoundsymbolic-Guarani	para1311		star	1430	STAR		mbɨɟa	m b ɨ ɟ a
+532534	565210	lundgrenomagoa-Omagua	omag1248		star	1430	STAR		sɪsu	s ɪ s u
+532535	565211	lundgrenomagoa-Tupinamba	tupi1273		star	1430	STAR		jasɨtatá	j a s ɨ t a t á
+538684	571361	gerarditupi-Amonda	amun1246		stone	857	STONE		i t a	i t a
+538685	571362	gerarditupi-Anambe	anam1249		stone	857	STONE		i t ã	i t ã
+538686	571363	gerarditupi-Arawete	araw1273		stone	857	STONE		i t ə	i t ə
+538687	571364	gerarditupi-Asurini	toca1235		stone	857	STONE		i t a	i t a
+538688	571365	gerarditupi-AsuriniXingu	xing1248		stone	857	STONE		i t a	i t a
+538689	571366	gerarditupi-AvaCanoeiro	avac1239		stone	857	STONE		i t a	i t a
+538690	571367	gerarditupi-Aweti	awet1244		stone	857	STONE		k ɨ t a	k ɨ t a
+538691	571368	gerarditupi-Chiriguano	east2555		stone	857	STONE		i t a	i t a
+538692	571369	gerarditupi-Emerillon	emer1243		stone	857	STONE		t a k u r u n a ʔ ɨ ɲ	t a k u r u n a ʔ ɨ ɲ
+538693	571370	gerarditupi-Guaja	guaj1256		stone	857	STONE		i t a	i t a
+538694	571371	gerarditupi-Guajajara	guaj1255		stone	857	STONE		i t a	i t a
+538695	571372	gerarditupi-GuaraniMbya	mbya1239		stone	857	STONE		i t a	i t a
+538696	571373	gerarditupi-Guarayo	guar1292		stone	857	STONE		i t a	i t a
+538697	571374	gerarditupi-Guayaki	ache1246		stone	857	STONE		i t a	i t a
+538698	571375	gerarditupi-Kamayura	kama1373		stone	857	STONE		i t a	i t a
+538699	571376	gerarditupi-Kayabi	kaya1329		stone	857	STONE		i t a	i t a
+538700	571377	gerarditupi-Kokama	coca1259		stone	857	STONE		i t a k i	i t a k i
+538701	571378	gerarditupi-Mawe	sate1243		stone	857	STONE		n u	n u
+538702	571379	gerarditupi-Nheengatu	nhen1239		stone	857	STONE		i t a	i t a
+538703	571380	gerarditupi-Parakana	para1312		stone	857	STONE		i t a	i t a
+538704	571381	gerarditupi-Parintintin	tenh1241		stone	857	STONE		i t a	i t a
+538705	571382	gerarditupi-Siriono	siri1273		stone	857	STONE		ɨ t a	ɨ t a
+538706	571383	gerarditupi-Tapirape	tapi1254		stone	857	STONE		i t ã	i t ã
+538707	571384	gerarditupi-Tembe	temb1276		stone	857	STONE		i t a	i t a
+538708	571385	gerarditupi-UrubuKaapor	urub1250		stone	857	STONE		i t a	i t a
+538709	571386	gerarditupi-Urueuwauwau	urue1240		stone	857	STONE		i t a	i t a
+538710	571387	gerarditupi-Warazu	paus1244		stone	857	STONE		ɨ t a	ɨ t a
+538711	571388	gerarditupi-Wayampi	waya1270		stone	857	STONE		t a k u l u	t a k u l u
+538712	571389	gerarditupi-Xeta	xeta1241		stone	857	STONE		i t a	i t a
+538713	571390	gerarditupi-Yuki	yuqu1240		stone	857	STONE		i t a	i t a
+538856	571533	johanssonsoundsymbolic-Guarani	para1311		stone	857	STONE		ita	i t a
+548038	580715	gerarditupi-Amonda	amun1246		sun	1343	SUN		kʷ a r a	kʷ a r a
+548039	580716	gerarditupi-Anambe	anam1249		sun	1343	SUN		k o r a h ɨ	k o r a h ɨ
+548040	580717	gerarditupi-Arawete	araw1273		sun	1343	SUN		k a r a h i	k a r a h i
+548041	580718	gerarditupi-Asurini	toca1235		sun	1343	SUN		k a r a h ɨ	k a r a h ɨ
+548042	580719	gerarditupi-AsuriniXingu	xing1248		sun	1343	SUN		kʷ a r a h ɨ	kʷ a r a h ɨ
+548043	580720	gerarditupi-AvaCanoeiro	avac1239		sun	1343	SUN		kʷ a r	kʷ a r
+548044	580721	gerarditupi-Aweti	awet1244		sun	1343	SUN		kʷ a t	kʷ a t
+548045	580722	gerarditupi-Chiriguano	east2555		sun	1343	SUN		kʷ a r a s ɨ	kʷ a r a s ɨ
+548046	580723	gerarditupi-Emerillon	emer1243		sun	1343	SUN		kʷ a r a ɨ	kʷ a r a ɨ
+548047	580724	gerarditupi-Guaja	guaj1256		sun	1343	SUN		kʷ a r a h ɨ	kʷ a r a h ɨ
+548048	580725	gerarditupi-Guajajara	guaj1255		sun	1343	SUN		kʷ a r a h ɨ	kʷ a r a h ɨ
+548049	580726	gerarditupi-GuaraniMbya	mbya1239		sun	1343	SUN		kʷ a r a ɨ	kʷ a r a ɨ
+548050	580727	gerarditupi-Guarayo	guar1292		sun	1343	SUN		a r ɨ	a r ɨ
+548051	580728	gerarditupi-Guayaki	ache1246		sun	1343	SUN		k ɨ r a ɨ	k ɨ r a ɨ
+548052	580729	gerarditupi-Kamayura	kama1373		sun	1343	SUN		kʷ a t	kʷ a t
+548053	580730	gerarditupi-Kayabi	kaya1329		sun	1343	SUN		kʷ a t	kʷ a t
+548054	580731	gerarditupi-Kokama	coca1259		sun	1343	SUN		kʷ a r a t͡ʃ i	kʷ a r a tʃ i
+548055	580732	gerarditupi-Mawe	sate1243		sun	1343	SUN		a t	a t
+548056	580733	gerarditupi-Nheengatu	nhen1239		sun	1343	SUN		k u r a s i	k u r a s i
+548057	580734	gerarditupi-Parakana	para1312		sun	1343	SUN		kʷ a r a h ɨ a	kʷ a r a h ɨ a
+548058	580735	gerarditupi-Parintintin	tenh1241		sun	1343	SUN		kʷ a r a	kʷ a r a
+548059	580736	gerarditupi-Siriono	siri1273		sun	1343	SUN		t e n d a	t e n d a
+548060	580737	gerarditupi-Surui	suru1262		sun	1343	SUN		ʔ a r a	ʔ a r a
+548061	580738	gerarditupi-Tapirape	tapi1254		sun	1343	SUN		kʷ ã r	kʷ ã r
+548062	580739	gerarditupi-Tembe	temb1276		sun	1343	SUN		kʷ a r a h ɨ	kʷ a r a h ɨ
+548063	580740	gerarditupi-UrubuKaapor	urub1250		sun	1343	SUN		kʷ a r a h ɨ	kʷ a r a h ɨ
+548064	580741	gerarditupi-Urueuwauwau	urue1240		sun	1343	SUN		kʷ a r a	kʷ a r a
+548065	580742	gerarditupi-Warazu	paus1244		sun	1343	SUN		kʷ a r a h i	kʷ a r a h i
+548066	580743	gerarditupi-Wayampi	waya1270		sun	1343	SUN		kʷ a r aɨ	kʷ a r aɨ
+548067	580744	gerarditupi-Xeta	xeta1241		sun	1343	SUN		kʷ a r h a	kʷ a r h a
+548068	580745	gerarditupi-Yuki	yuqu1240		sun	1343	SUN		t ẽ d a	t ẽ d a
+548242	580919	johanssonsoundsymbolic-Guarani	para1311		sun	1343	SUN		kuaɾahɨ	k u a ɾ a h ɨ
+548461	581138	lundgrenomagoa-Omagua	omag1248		sun	1343	SUN		kʷaɾaʃi	kʷ a ɾ a ʃ i
+548462	581139	lundgrenomagoa-Tupinamba	tupi1273		sun	1343	SUN		aɾa	a ɾ a
+548463	581140	lundgrenomagoa-Tupinamba	tupi1273		sun	1343	SUN		kʷaɾa	kʷ a ɾ a
+548464	581141	lundgrenomagoa-Tupinamba	tupi1273		sun	1343	SUN		kʷaɾasɨ	kʷ a ɾ a s ɨ
+555093	587770	gerarditupi-Amonda	amun1246		swim	1439	SWIM		ɲ a h o g	ɲ a h o g
+555094	587771	gerarditupi-Arawete	araw1273		swim	1439	SWIM		i t a	i t a
+555095	587772	gerarditupi-Asurini	toca1235		swim	1439	SWIM		w e w o t͡ʃ	w e w o tʃ
+555096	587773	gerarditupi-AsuriniXingu	xing1248		swim	1439	SWIM		u β e β u j	u β e β u j
+555097	587774	gerarditupi-AvaCanoeiro	avac1239		swim	1439	SWIM		ɨ t a w	ɨ t a w
+555098	587775	gerarditupi-Chiriguano	east2555		swim	1439	SWIM		ɨ t a	ɨ t a
+555099	587776	gerarditupi-Emerillon	emer1243		swim	1439	SWIM		ʔ ɨ t a	ʔ ɨ t a
+555100	587777	gerarditupi-Guajajara	guaj1255		swim	1439	SWIM		ɨ ʔ t a w	ɨ ʔ t a w
+555101	587778	gerarditupi-GuaraniMbya	mbya1239		swim	1439	SWIM		ʔ i t a	ʔ i t a
+555102	587779	gerarditupi-Guarayo	guar1292		swim	1439	SWIM		ɨ t a	ɨ t a
+555103	587780	gerarditupi-Kamayura	kama1373		swim	1439	SWIM		ʔ ɨ t a p	ʔ ɨ t a p
+555104	587781	gerarditupi-Kokama	coca1259		swim	1439	SWIM		ɨ a t a	ɨ a t a
+555105	587782	gerarditupi-Nheengatu	nhen1239		swim	1439	SWIM		w i t a	w i t a
+555106	587783	gerarditupi-Parakana	para1312		swim	1439	SWIM		t͡ʃ e m o p i p a	tʃ e m o p i p a
+555107	587784	gerarditupi-Parintintin	tenh1241		swim	1439	SWIM		ɨ t a β a t a	ɨ t a β a t a
+555108	587785	gerarditupi-Siriono	siri1273		swim	1439	SWIM		i t a	i t a
+555109	587786	gerarditupi-Tapirape	tapi1254		swim	1439	SWIM		ʔ ɨ ɨ t ã	ʔ ɨ ɨ t ã
+555110	587787	gerarditupi-UrubuKaapor	urub1250		swim	1439	SWIM		j u p e t ẽ	j u p e t ẽ
+555111	587788	gerarditupi-Urueuwauwau	urue1240		swim	1439	SWIM		ɨ p e t ã	ɨ p e t ã
+555112	587789	gerarditupi-Warazu	paus1244		swim	1439	SWIM		ʔ i t a	ʔ i t a
+555113	587790	gerarditupi-Wayampi	waya1270		swim	1439	SWIM		ɨ a	ɨ a
+555114	587791	gerarditupi-Yuki	yuqu1240		swim	1439	SWIM		i t a t a	i t a t a
+555278	587955	johanssonsoundsymbolic-Guarani	para1311		swim	1439	SWIM		ɨta	ɨ t a
+557563	590240	gerarditupi-Amonda	amun1246		tail	1220	TAIL		β a h a j ə	β a h a j ə
+557564	590241	gerarditupi-Anambe	anam1249		tail	1220	TAIL		e i kʷ ã	e i kʷ ã
+557565	590242	gerarditupi-Arawete	araw1273		tail	1220	TAIL		h u β ã ĩ	h u β ã ĩ
+557566	590243	gerarditupi-Asurini	toca1235		tail	1220	TAIL		w a s	w a s
+557567	590244	gerarditupi-AsuriniXingu	xing1248		tail	1220	TAIL		w a j	w a j
+557568	590245	gerarditupi-AvaCanoeiro	avac1239		tail	1220	TAIL		u w a j	u w a j
+557569	590246	gerarditupi-Aweti	awet1244		tail	1220	TAIL		u w a j	u w a j
+557570	590247	gerarditupi-Chiriguano	east2555		tail	1220	TAIL		h u gʷ a i	h u gʷ a i
+557571	590248	gerarditupi-Emerillon	emer1243		tail	1220	TAIL		u w a j	u w a j
+557572	590249	gerarditupi-Guaja	guaj1256		tail	1220	TAIL		h a w a j	h a w a j
+557573	590250	gerarditupi-Guajajara	guaj1255		tail	1220	TAIL		u a j	u a j
+557574	590251	gerarditupi-GuaraniMbya	mbya1239		tail	1220	TAIL		u gʷ a j	u gʷ a j
+557575	590252	gerarditupi-Guarayo	guar1292		tail	1220	TAIL		u w a i	u w a i
+557576	590253	gerarditupi-Kamayura	kama1373		tail	1220	TAIL		w a j	w a j
+557577	590254	gerarditupi-Kayabi	kaya1329		tail	1220	TAIL		w a j	w a j
+557578	590255	gerarditupi-Kokama	coca1259		tail	1220	TAIL		t͡s u i	ts u i
+557579	590256	gerarditupi-Mawe	sate1243		tail	1220	TAIL		u w a j p o	u w a j p o
+557580	590257	gerarditupi-Nheengatu	nhen1239		tail	1220	TAIL		u a j a	u a j a
+557581	590258	gerarditupi-Parakana	para1312		tail	1220	TAIL		β a t͡ʃ a	β a tʃ a
+557582	590259	gerarditupi-Parintintin	tenh1241		tail	1220	TAIL		gʷ a j	gʷ a j
+557583	590260	gerarditupi-Siriono	siri1273		tail	1220	TAIL		o kʷ e ɨ	o kʷ e ɨ
+557584	590261	gerarditupi-Surui	suru1262		tail	1220	TAIL		w a s	w a s
+557585	590262	gerarditupi-Tapirape	tapi1254		tail	1220	TAIL		o w ã j	o w ã j
+557586	590263	gerarditupi-Tembe	temb1276		tail	1220	TAIL		u w a j	u w a j
+557587	590264	gerarditupi-UrubuKaapor	urub1250		tail	1220	TAIL		u w a j	u w a j
+557588	590265	gerarditupi-Urueuwauwau	urue1240		tail	1220	TAIL		gʷ a h ã j ə	gʷ a h ã j ə
+557589	590266	gerarditupi-Warazu	paus1244		tail	1220	TAIL		u w a ɨ	u w a ɨ
+557590	590267	gerarditupi-Wayampi	waya1270		tail	1220	TAIL		u w a j	u w a j
+557591	590268	gerarditupi-Yuki	yuqu1240		tail	1220	TAIL		u gʷ a i	u gʷ a i
+557736	590413	johanssonsoundsymbolic-Guarani	para1311		tail	1220	TAIL		tuɣwai	t u ɣʷ a i
+557951	590628	lundgrenomagoa-Omagua	omag1248		tail	1220	TAIL		suNi	s + ũ i
+557952	590629	lundgrenomagoa-Tupinamba	tupi1273		tail	1220	TAIL		uaja	u a j a
+567122	599801	johanssonsoundsymbolic-Guarani	para1311		that	78	THAT		pe	p e
+578212	610891	johanssonsoundsymbolic-Guarani	para1311		this	1214	THIS		ko	k o
+580210	612892	gerarditupi-Amonda	amun1246		thou	1215	THOU		n e h e	n e h e
+580211	612893	gerarditupi-Anambe	anam1249		thou	1215	THOU		e n e	e n e
+580212	612894	gerarditupi-Arawete	araw1273		thou	1215	THOU		n e	n e
+580213	612895	gerarditupi-Asurini	toca1235		thou	1215	THOU		e n e	e n e
+580214	612896	gerarditupi-AsuriniXingu	xing1248		thou	1215	THOU		n e	n e
+580215	612897	gerarditupi-AvaCanoeiro	avac1239		thou	1215	THOU		n e	n e
+580216	612898	gerarditupi-Aweti	awet1244		thou	1215	THOU		e n	e n
+580217	612899	gerarditupi-Chiriguano	east2555		thou	1215	THOU		n e	n e
+580218	612900	gerarditupi-Emerillon	emer1243		thou	1215	THOU		n e	n e
+580219	612901	gerarditupi-Guaja	guaj1256		thou	1215	THOU		n i j ã	n i j ã
+580220	612902	gerarditupi-Guajajara	guaj1255		thou	1215	THOU		n e	n e
+580221	612903	gerarditupi-GuaraniMbya	mbya1239		thou	1215	THOU		n e	n e
+580222	612904	gerarditupi-Guarayo	guar1292		thou	1215	THOU		nd e	nd e
+580223	612905	gerarditupi-Guayaki	ache1246		thou	1215	THOU		d e	d e
+580224	612906	gerarditupi-Kamayura	kama1373		thou	1215	THOU		n e	n e
+580225	612907	gerarditupi-Kayabi	kaya1329		thou	1215	THOU		e n e	e n e
+580226	612908	gerarditupi-Kokama	coca1259		thou	1215	THOU		e n e	e n e
+580227	612909	gerarditupi-Mawe	sate1243		thou	1215	THOU		e n	e n
+580228	612910	gerarditupi-Nheengatu	nhen1239		thou	1215	THOU		n e	n e
+580229	612911	gerarditupi-Parakana	para1312		thou	1215	THOU		e n é	e n é
+580230	612912	gerarditupi-Parintintin	tenh1241		thou	1215	THOU		d e h e	d e h e
+580231	612913	gerarditupi-Siriono	siri1273		thou	1215	THOU		n e	n e
+580232	612914	gerarditupi-Surui	suru1262		thou	1215	THOU		n e	n e
+580233	612915	gerarditupi-Tapirape	tapi1254		thou	1215	THOU		t͡ʃ a n e	tʃ a n e
+580234	612916	gerarditupi-Tembe	temb1276		thou	1215	THOU		r e	r e
+580235	612917	gerarditupi-UrubuKaapor	urub1250		thou	1215	THOU		n e	n e
+580236	612918	gerarditupi-Urueuwauwau	urue1240		thou	1215	THOU		n e h e	n e h e
+580237	612919	gerarditupi-Warazu	paus1244		thou	1215	THOU		n e	n e
+580238	612920	gerarditupi-Yuki	yuqu1240		thou	1215	THOU		d e	d e
+580400	613083	johanssonsoundsymbolic-Guarani	para1311		thou	1215	THOU		nde	n d e
+596134	628821	gerarditupi-Amonda	amun1246		tongue	1205	TONGUE		k õ a	k õ a
+596135	628822	gerarditupi-Arawete	araw1273		tongue	1205	TONGUE		a p e k õ	a p e k õ
+596136	628823	gerarditupi-Asurini	toca1235		tongue	1205	TONGUE		k o a	k o a
+596137	628824	gerarditupi-Aweti	awet1244		tongue	1205	TONGUE		ẽ k u	ẽ k u
+596138	628825	gerarditupi-Chiriguano	east2555		tongue	1205	TONGUE		k ũ	k ũ
+596139	628826	gerarditupi-Emerillon	emer1243		tongue	1205	TONGUE		a w u	a w u
+596140	628827	gerarditupi-Guaja	guaj1256		tongue	1205	TONGUE		j a m u k ũ	j a m u k ũ
+596141	628828	gerarditupi-Guajajara	guaj1255		tongue	1205	TONGUE		a p e k u	a p e k u
+596142	628829	gerarditupi-GuaraniMbya	mbya1239		tongue	1205	TONGUE		k ũ	k ũ
+596143	628830	gerarditupi-Guarayo	guar1292		tongue	1205	TONGUE		a p ẽ k ũ	a p ẽ k ũ
+596144	628831	gerarditupi-Kamayura	kama1373		tongue	1205	TONGUE		k õ	k õ
+596145	628832	gerarditupi-Kayabi	kaya1329		tongue	1205	TONGUE		k u	k u
+596146	628833	gerarditupi-Kokama	coca1259		tongue	1205	TONGUE		k u m ɨ r a	k u m ɨ r a
+596147	628834	gerarditupi-Mawe	sate1243		tongue	1205	TONGUE		ẽ k u	ẽ k u
+596148	628835	gerarditupi-Nheengatu	nhen1239		tongue	1205	TONGUE		k ũ	k ũ
+596149	628836	gerarditupi-Parintintin	tenh1241		tongue	1205	TONGUE		k õ a	k õ a
+596150	628837	gerarditupi-Siriono	siri1273		tongue	1205	TONGUE		e k õ	e k õ
+596151	628838	gerarditupi-Tapirape	tapi1254		tongue	1205	TONGUE		k õ	k õ
+596152	628839	gerarditupi-UrubuKaapor	urub1250		tongue	1205	TONGUE		e mb e	e mb e
+596153	628840	gerarditupi-Urueuwauwau	urue1240		tongue	1205	TONGUE		k õ a	k õ a
+596154	628841	gerarditupi-Warazu	paus1244		tongue	1205	TONGUE		k u	k u
+596155	628842	gerarditupi-Wayampi	waya1270		tongue	1205	TONGUE		a p e k ũ	a p e k ũ
+596156	628843	gerarditupi-Yuki	yuqu1240		tongue	1205	TONGUE		ẽ k j õ	ẽ k j õ
+596297	628984	johanssonsoundsymbolic-Guarani	para1311		tongue	1205	TONGUE		kũ	k ũ
+596518	629205	lundgrenomagoa-Omagua	omag1248		tongue	1205	TONGUE		kumɨɾa	k u + m ɨ ɾ a
+596519	629206	lundgrenomagoa-Tupinamba	tupi1273		tongue	1205	TONGUE		apekũ	a p e + k ũ
+598473	631160	johanssonsoundsymbolic-Guarani	para1311		tooth	1380	TOOTH		tãi	t ã i
+602684	635371	gerarditupi-Amonda	amun1246		tree	906	TREE		ɨ β	ɨ β
+602685	635372	gerarditupi-Anambe	anam1249		tree	906	TREE		i w i r ã	i w i r ã
+602686	635373	gerarditupi-Arawete	araw1273		tree	906	TREE		i	i
+602687	635374	gerarditupi-Asurini	toca1235		tree	906	TREE		ʔ ɨ w	ʔ ɨ w
+602688	635375	gerarditupi-AsuriniXingu	xing1248		tree	906	TREE		ɨ w ɨ r	ɨ w ɨ r
+602689	635376	gerarditupi-AvaCanoeiro	avac1239		tree	906	TREE		ɨ w ɨ r a	ɨ w ɨ r a
+602690	635377	gerarditupi-Aweti	awet1244		tree	906	TREE		ʔ ɨ p	ʔ ɨ p
+602691	635378	gerarditupi-Chiriguano	east2555		tree	906	TREE		ɨ w ɨ r a	ɨ w ɨ r a
+602692	635379	gerarditupi-Emerillon	emer1243		tree	906	TREE		w ɨ l a	w ɨ l a
+602693	635380	gerarditupi-Guaja	guaj1256		tree	906	TREE		m i r a	m i r a
+602694	635381	gerarditupi-Guajajara	guaj1255		tree	906	TREE		ɨ w ɨ r a	ɨ w ɨ r a
+602695	635382	gerarditupi-GuaraniMbya	mbya1239		tree	906	TREE		ɨ w ɨ r a	ɨ w ɨ r a
+602696	635383	gerarditupi-Guarayo	guar1292		tree	906	TREE		ɨ β ɨ r a	ɨ β ɨ r a
+602697	635384	gerarditupi-Guayaki	ache1246		tree	906	TREE		w ɨ r a	w ɨ r a
+602698	635385	gerarditupi-Kamayura	kama1373		tree	906	TREE		ɨ w ɨ r a	ɨ w ɨ r a
+602699	635386	gerarditupi-Kayabi	kaya1329		tree	906	TREE		ʔ ɨ p	ʔ ɨ p
+602700	635387	gerarditupi-Kokama	coca1259		tree	906	TREE		ɨ w ɨ r a	ɨ w ɨ r a
+602701	635388	gerarditupi-Mawe	sate1243		tree	906	TREE		ʔ ɨ p	ʔ ɨ p
+602702	635389	gerarditupi-Nheengatu	nhen1239		tree	906	TREE		m i r a	m i r a
+602703	635390	gerarditupi-Parakana	para1312		tree	906	TREE		ʔ ɨ β	ʔ ɨ β
+602704	635391	gerarditupi-Parintintin	tenh1241		tree	906	TREE		ɨ β	ɨ β
+602705	635392	gerarditupi-Siriono	siri1273		tree	906	TREE		i r a	i r a
+602706	635393	gerarditupi-Surui	suru1262		tree	906	TREE		ʔ ɨ w a	ʔ ɨ w a
+602707	635394	gerarditupi-Tapirape	tapi1254		tree	906	TREE		h ɨ w ɨ r ã	h ɨ w ɨ r ã
+602708	635395	gerarditupi-Tembe	temb1276		tree	906	TREE		i w i r	i w i r
+602709	635396	gerarditupi-UrubuKaapor	urub1250		tree	906	TREE		m i r a	m i r a
+602710	635397	gerarditupi-Urueuwauwau	urue1240		tree	906	TREE		ɨ β	ɨ β
+602711	635398	gerarditupi-Warazu	paus1244		tree	906	TREE		i w í r a	i w í r a
+602712	635399	gerarditupi-Wayampi	waya1270		tree	906	TREE		ʔ ɨ	ʔ ɨ
+602713	635400	gerarditupi-Xeta	xeta1241		tree	906	TREE		a w e r a	a w e r a
+602714	635401	gerarditupi-Yuki	yuqu1240		tree	906	TREE		i r a	i r a
+602874	635561	johanssonsoundsymbolic-Guarani	para1311		tree	906	TREE		ɨʋɨɾa	ɨ ʋ ɨ ɾ a
+603103	635790	lundgrenomagoa-Omagua	omag1248		tree	906	TREE		ɨwɨɾa	ɨ w ɨ ɾ a
+603104	635791	lundgrenomagoa-Tupinamba	tupi1273		tree	906	TREE		ɨβɨɾá	ɨ β ɨ ɾ á
+611180	643867	gerarditupi-Amonda	amun1246		two	1498	TWO		m o k õ j	m o k õ j
+611181	643868	gerarditupi-Anambe	anam1249		two	1498	TWO		m u k ũ	m u k ũ
+611182	643869	gerarditupi-Arawete	araw1273		two	1498	TWO		m u k ũi	m u k ũi
+611183	643870	gerarditupi-Asurini	toca1235		two	1498	TWO		m o k o j	m o k o j
+611184	643871	gerarditupi-AsuriniXingu	xing1248		two	1498	TWO		m o k o j	m o k o j
+611185	643872	gerarditupi-AvaCanoeiro	avac1239		two	1498	TWO		m o k õ j	m o k õ j
+611186	643873	gerarditupi-Aweti	awet1244		two	1498	TWO		m o k õ j	m o k õ j
+611187	643874	gerarditupi-Chiriguano	east2555		two	1498	TWO		m o k õ j	m o k õ j
+611188	643875	gerarditupi-Emerillon	emer1243		two	1498	TWO		m o k õ j	m o k õ j
+611189	643876	gerarditupi-Guaja	guaj1256		two	1498	TWO		m a k ũ j	m a k ũ j
+611190	643877	gerarditupi-Guajajara	guaj1255		two	1498	TWO		m o k o z	m o k o z
+611191	643878	gerarditupi-GuaraniMbya	mbya1239		two	1498	TWO		m o k o j̃	m o k o j̃
+611192	643879	gerarditupi-Guarayo	guar1292		two	1498	TWO		j u n i o	j u n i o
+611193	643880	gerarditupi-Kamayura	kama1373		two	1498	TWO		m o k õ j	m o k õ j
+611194	643881	gerarditupi-Kayabi	kaya1329		two	1498	TWO		m u k ũ j	m u k ũ j
+611195	643882	gerarditupi-Kokama	coca1259		two	1498	TWO		m u k u i k a	m u k u i k a
+611196	643883	gerarditupi-Mawe	sate1243		two	1498	TWO		t ɨ p ɨ	t ɨ p ɨ
+611197	643884	gerarditupi-Nheengatu	nhen1239		two	1498	TWO		m ũ k ũ j	m ũ k ũ j
+611198	643885	gerarditupi-Parakana	para1312		two	1498	TWO		m o k o j	m o k o j
+611199	643886	gerarditupi-Parintintin	tenh1241		two	1498	TWO		m o k o ɲ	m o k o ɲ
+611200	643887	gerarditupi-Siriono	siri1273		two	1498	TWO		d͡ʒ e r e m o	dʒ e r e m o
+611201	643888	gerarditupi-Surui	suru1262		two	1498	TWO		m u k u j	m u k u j
+611202	643889	gerarditupi-Tapirape	tapi1254		two	1498	TWO		m o k õ j	m o k õ j
+611203	643890	gerarditupi-Tembe	temb1276		two	1498	TWO		m u k u j	m u k u j
+611204	643891	gerarditupi-UrubuKaapor	urub1250		two	1498	TWO		m o k õ j	m o k õ j
+611205	643892	gerarditupi-Urueuwauwau	urue1240		two	1498	TWO		m õ k o j	m õ k o j
+611206	643893	gerarditupi-Warazu	paus1244		two	1498	TWO		m o k w e i	m o k w e i
+611207	643894	gerarditupi-Wayampi	waya1270		two	1498	TWO		m o k ũ j	m o k ũ j
+611208	643895	gerarditupi-Xeta	xeta1241		two	1498	TWO		m ɔ k ã j	m ɔ k ã j
+611209	643896	gerarditupi-Yuki	yuqu1240		two	1498	TWO		j e s e	j e s e
+611380	644067	johanssonsoundsymbolic-Guarani	para1311		two	1498	TWO		mokõi	m o k õ i
+611617	644304	lundgrenomagoa-Omagua	omag1248		two	1498	TWO		mukuika	m u k u i + k a
+611618	644305	lundgrenomagoa-Tupinamba	tupi1273		two	1498	TWO		mokõj	m o k õ j
+627030	679691	gerarditupi-Amonda	amun1246		white	1335	WHITE		t ĩ ŋ ã h ĩ m	t ĩ ŋ ã h ĩ m
+627031	679692	gerarditupi-Anambe	anam1249		white	1335	WHITE		t͡ʃ ĩ	tʃ ĩ
+627032	679693	gerarditupi-Arawete	araw1273		white	1335	WHITE		t ĩ	t ĩ
+627033	679694	gerarditupi-Asurini	toca1235		white	1335	WHITE		t͡ʃ i ŋ	tʃ i ŋ
+627034	679695	gerarditupi-AsuriniXingu	xing1248		white	1335	WHITE		t͡ʃ i ŋ	tʃ i ŋ
+627035	679696	gerarditupi-AvaCanoeiro	avac1239		white	1335	WHITE		t i ŋ	t i ŋ
+627036	679697	gerarditupi-Aweti	awet1244		white	1335	WHITE		t i ŋ	t i ŋ
+627037	679698	gerarditupi-Chiriguano	east2555		white	1335	WHITE		t ĩ i	t ĩ i
+627038	679699	gerarditupi-Emerillon	emer1243		white	1335	WHITE		t͡s i ŋ	ts i ŋ
+627039	679700	gerarditupi-Guaja	guaj1256		white	1335	WHITE		t͡ʃ ũ	tʃ ũ
+627040	679701	gerarditupi-Guajajara	guaj1255		white	1335	WHITE		t͡s i ŋ	ts i ŋ
+627041	679702	gerarditupi-GuaraniMbya	mbya1239		white	1335	WHITE		t͡ʃ ĩ ĩ	tʃ ĩ ĩ
+627042	679703	gerarditupi-Guarayo	guar1292		white	1335	WHITE		t͡ʃ ĩ	tʃ ĩ
+627043	679704	gerarditupi-Guayaki	ache1246		white	1335	WHITE		t͡ʃ ĩ	tʃ ĩ
+627044	679705	gerarditupi-Kamayura	kama1373		white	1335	WHITE		t͡s i ŋ	ts i ŋ
+627045	679706	gerarditupi-Kayabi	kaya1329		white	1335	WHITE		s i ŋ	s i ŋ
+627046	679707	gerarditupi-Kokama	coca1259		white	1335	WHITE		t i n i	t i n i
+627047	679708	gerarditupi-Mawe	sate1243		white	1335	WHITE		k ɨ t͡s i ŋ	k ɨ ts i ŋ
+627048	679709	gerarditupi-Nheengatu	nhen1239		white	1335	WHITE		t i ŋ a	t i ŋ a
+627049	679710	gerarditupi-Parakana	para1312		white	1335	WHITE		t͡ʃ i g	tʃ i g
+627050	679711	gerarditupi-Parintintin	tenh1241		white	1335	WHITE		t ĩ ŋ ã h ĩ	t ĩ ŋ ã h ĩ
+627051	679712	gerarditupi-Siriono	siri1273		white	1335	WHITE		ʃ ĩ	ʃ ĩ
+627052	679713	gerarditupi-Surui	suru1262		white	1335	WHITE		t͡ʃ ɨ ŋ	tʃ ɨ ŋ
+627053	679714	gerarditupi-Tapirape	tapi1254		white	1335	WHITE		s i ŋ	s i ŋ
+627054	679715	gerarditupi-Tembe	temb1276		white	1335	WHITE		t ĩ ŋ	t ĩ ŋ
+627055	679716	gerarditupi-UrubuKaapor	urub1250		white	1335	WHITE		ʃ ĩ	ʃ ĩ
+627056	679717	gerarditupi-Urueuwauwau	urue1240		white	1335	WHITE		t ĩ ŋ ã h ĩ	t ĩ ŋ ã h ĩ
+627057	679718	gerarditupi-Warazu	paus1244		white	1335	WHITE		t͡s ɨ	ts ɨ
+627058	679719	gerarditupi-Wayampi	waya1270		white	1335	WHITE		s ĩ	s ĩ
+627059	679720	gerarditupi-Yuki	yuqu1240		white	1335	WHITE		t͡ʃ i	tʃ i
+627231	679892	johanssonsoundsymbolic-Guarani	para1311		white	1335	WHITE		moɾotĩ	m o ɾ o t ĩ
+627459	680120	lundgrenomagoa-Omagua	omag1248		white	1335	WHITE		tini	t i n i
+627460	680121	lundgrenomagoa-Tupinamba	tupi1273		white	1335	WHITE		moɾotiŋa	m o ɾ o t i ŋ a
+627461	680122	lundgrenomagoa-Tupinamba	tupi1273		white	1335	WHITE		tiŋa	t i ŋ a
+629698	682451	johanssonsoundsymbolic-Guarani	para1311		who	1235	WHO		maʋapa	m a ʋ a p a
+639867	692622	gerarditupi-Amonda	amun1246		woman	962	WOMAN		k u ɲ ã	k u ɲ ã
+639868	692623	gerarditupi-Anambe	anam1249		woman	962	WOMAN		k u j ã	k u j ã
+639869	692624	gerarditupi-Arawete	araw1273		woman	962	WOMAN		k u ɲ i	k u ɲ i
+639870	692625	gerarditupi-Asurini	toca1235		woman	962	WOMAN		k o s o	k o s o
+639871	692626	gerarditupi-AsuriniXingu	xing1248		woman	962	WOMAN		k u ɲ ɨ̃	k u ɲ ɨ̃
+639872	692627	gerarditupi-AvaCanoeiro	avac1239		woman	962	WOMAN		k u j ã	k u j ã
+639873	692628	gerarditupi-Aweti	awet1244		woman	962	WOMAN		k u j ã	k u j ã
+639874	692629	gerarditupi-Chiriguano	east2555		woman	962	WOMAN		k ũ ŋ a	k ũ ŋ a
+639875	692630	gerarditupi-Emerillon	emer1243		woman	962	WOMAN		w ã ĩ w ĩ	w ã ĩ w ĩ
+639876	692631	gerarditupi-Guaja	guaj1256		woman	962	WOMAN		kʷ a j ã	kʷ a j ã
+639877	692632	gerarditupi-Guajajara	guaj1255		woman	962	WOMAN		i h ɨ a ʔ u	i h ɨ a ʔ u
+639878	692633	gerarditupi-GuaraniMbya	mbya1239		woman	962	WOMAN		k ũ ŋ ã	k ũ ŋ ã
+639879	692634	gerarditupi-Guarayo	guar1292		woman	962	WOMAN		k u j ã	k u j ã
+639880	692635	gerarditupi-Guayaki	ache1246		woman	962	WOMAN		k u j ã	k u j ã
+639881	692636	gerarditupi-Kamayura	kama1373		woman	962	WOMAN		k u j ã	k u j ã
+639882	692637	gerarditupi-Kayabi	kaya1329		woman	962	WOMAN		k ũ j ã	k ũ j ã
+639883	692638	gerarditupi-Kokama	coca1259		woman	962	WOMAN		w a i n a	w a i n a
+639884	692639	gerarditupi-Mawe	sate1243		woman	962	WOMAN		h a r ɨ p o r i a	h a r ɨ p o r i a
+639885	692640	gerarditupi-Nheengatu	nhen1239		woman	962	WOMAN		k u j ã	k u j ã
+639886	692641	gerarditupi-Parakana	para1312		woman	962	WOMAN		k o t͡ʃ u	k o tʃ u
+639887	692642	gerarditupi-Parintintin	tenh1241		woman	962	WOMAN		k u ɲ a	k u ɲ a
+639888	692643	gerarditupi-Siriono	siri1273		woman	962	WOMAN		k u ɲ ã	k u ɲ ã
+639889	692644	gerarditupi-Surui	suru1262		woman	962	WOMAN		k u s o	k u s o
+639890	692645	gerarditupi-Tapirape	tapi1254		woman	962	WOMAN		k o t͡ʃ ɨ̃	k o tʃ ɨ̃
+639891	692646	gerarditupi-Tembe	temb1276		woman	962	WOMAN		k u z ə	k u z ə
+639892	692647	gerarditupi-UrubuKaapor	urub1250		woman	962	WOMAN		k u j ã	k u j ã
+639893	692648	gerarditupi-Urueuwauwau	urue1240		woman	962	WOMAN		k u ɲ ã	k u ɲ ã
+639894	692649	gerarditupi-Warazu	paus1244		woman	962	WOMAN		k u ð ə	k u ð ə
+639895	692650	gerarditupi-Wayampi	waya1270		woman	962	WOMAN		k u j ã	k u j ã
+639896	692651	gerarditupi-Xeta	xeta1241		woman	962	WOMAN		k o ɲ a	k o ɲ a
+639897	692652	gerarditupi-Yuki	yuqu1240		woman	962	WOMAN		k j u j a	k j u j a
+640079	692834	johanssonsoundsymbolic-Guarani	para1311		woman	962	WOMAN		kuɲa	k u ɲ a

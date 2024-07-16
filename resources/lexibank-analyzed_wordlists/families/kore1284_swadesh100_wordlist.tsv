@@ -1,0 +1,499 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+9039	25190	leekoreanic-Gyeonggi	seou1239		bark	1204	BARK		k'ə-pul	k͈ ə + p u l
+9040	25191	leekoreanic-Jeju	jeju1234		bark	1204	BARK		kaŋ-ma-gi	k a ŋ + m a + g i
+9041	25192	leekoreanic-NChungcheong	chun1247		bark	1204	BARK		k'ə-pul	k͈ ə + p u l
+9042	25193	leekoreanic-SGyeongsang	kyon1247		bark	1204	BARK		k'əp-te-gi	k͈ ə p + t e + g i
+9043	25194	leekoreanic-SHamgyong	hamg1238		bark	1204	BARK		k'əp-cu-ri	k͈ ə p + tɕ u + ɾ i
+9044	25195	leekoreanic-SJeolla	chol1278		bark	1204	BARK		k'əp-cil	k͈ ə p + tɕ i l
+9155	25306	northeuralex-kor	kore1280		bark	1204	BARK		namukk͈͈ʌpt͡ɕ͈͈il	n a m u k k͈ ʌ p tɕ͈ i l
+23040	39191	leekoreanic-Gyeonggi	seou1239		belly	1251	BELLY		pɛ	p ɛ
+23041	39192	leekoreanic-Jeju	jeju1234		belly	1251	BELLY		pɛ	p ɛ
+23042	39193	leekoreanic-NChungcheong	chun1247		belly	1251	BELLY		pɛ	p ɛ
+23043	39194	leekoreanic-NPyongan	pyon1239		belly	1251	BELLY		hə-buk	h ə + b u k
+23044	39195	leekoreanic-SGyeongsang	kyon1247		belly	1251	BELLY		pɛ	p ɛ
+23045	39196	leekoreanic-SHamgyong	hamg1238		belly	1251	BELLY		pɛ	p ɛ
+23046	39197	leekoreanic-SJeolla	chol1278		belly	1251	BELLY		pɛ	p ɛ
+23168	39319	northeuralex-kor	kore1280		belly	1251	BELLY		pɛ	p ɛ
+28148	44299	leekoreanic-Gyeonggi	seou1239		big	1202	BIG		kɨ-	k ɨ
+28149	44300	leekoreanic-NChungcheong	chun1247		big	1202	BIG		kə-da-ra-	k ə + d a + ɾ a
+28150	44301	leekoreanic-SGyeongsang	kyon1247		big	1202	BIG		kəŋ-k'e-na	k ə ŋ + k͈ e + n a
+28151	44302	leekoreanic-SJeolla	chol1278		big	1202	BIG		ma-na-	m a + n a
+28318	44469	northeuralex-kor	kore1280		big	1202	BIG		kxn	k x n
+30522	46673	leekoreanic-Gyeonggi	seou1239		bird	937	BIRD		sɛ	s ɛ
+30523	46674	leekoreanic-Jeju	jeju1234		bird	937	BIRD		sɛŋ-i	s ɛ ŋ + i
+30524	46675	leekoreanic-NChungcheong	chun1247		bird	937	BIRD		sɛ	s ɛ
+30525	46676	leekoreanic-NPyongan	pyon1239		bird	937	BIRD		sɛ	s ɛ
+30526	46677	leekoreanic-SGyeongsang	kyon1247		bird	937	BIRD		sɛ	s ɛ
+30527	46678	leekoreanic-SHamgyong	hamg1238		bird	937	BIRD		sɛ	s ɛ
+30528	46679	leekoreanic-SJeolla	chol1278		bird	937	BIRD		sɛ	s ɛ
+30658	46809	northeuralex-kor	kore1280		bird	937	BIRD		sʰɛ	sʰ ɛ
+32877	49028	leekoreanic-Gyeonggi	seou1239		bite	1403	BITE		mul-	m u l
+32999	49150	northeuralex-kor	kore1280		bite	1403	BITE		mulda	m u l d a
+35493	51644	leekoreanic-Gyeonggi	seou1239		black	163	BLACK		k'əm-	k͈ ə m
+35494	51645	leekoreanic-SGyeongsang	kyon1247		black	163	BLACK		si-k'u-mə-	s i + k͈ u + m ə
+35495	51646	leekoreanic-SJeolla	chol1278		black	163	BLACK		k'əm-	k͈ ə m
+35616	51767	northeuralex-kor	kore1280		black	163	BLACK		kʌmɯn	k ʌ m ɯ n
+38907	55058	leekoreanic-Gyeonggi	seou1239		blood	946	BLOOD		pi	p i
+39030	55181	northeuralex-kor	kore1280		blood	946	BLOOD		pʰi	pʰ i
+47129	63280	leekoreanic-Gyeonggi	seou1239		bone	1394	BONE		p'e	p͈ e
+47130	63281	leekoreanic-Jeju	jeju1234		bone	1394	BONE		k'waŋ	k͈ w a ŋ
+47131	63282	leekoreanic-NChungcheong	chun1247		bone	1394	BONE		p'ɛ	p͈ ɛ
+47132	63283	leekoreanic-NPyongan	pyon1239		bone	1394	BONE		p'e-da-gu	p͈ e + d a + g u
+47133	63284	leekoreanic-SGyeongsang	kyon1247		bone	1394	BONE		p'ek-ta-gu	p͈ e k + t a + g u
+47134	63285	leekoreanic-SJeolla	chol1278		bone	1394	BONE		p'it-ta-gu	p͈ i t + t a + g u
+47251	63402	northeuralex-kor	kore1280		bone	1394	BONE		pp͈͈jʌ	p p͈ j ʌ
+57211	73364	leekoreanic-Gyeonggi	seou1239		breast	1402	BREAST		ka-sɨm	k a + s ɨ m
+57212	73365	leekoreanic-Jeju	jeju1234		breast	1402	BREAST		ka-sim	k a + s i m
+57213	73366	leekoreanic-NChungcheong	chun1247		breast	1402	BREAST		ka-sim	k a + s i m
+57214	73367	leekoreanic-SGyeongsang	kyon1247		breast	1402	BREAST		ka-sim	k a + s i m
+57215	73368	leekoreanic-SJeolla	chol1278		breast	1402	BREAST		ka-sim	k a + s i m
+57314	73467	northeuralex-kor	kore1280		breast	1402	BREAST		kasʰɯmsʰok̚	k a sʰ ɯ m sʰ o k̚
+64679	80832	leekoreanic-Gyeonggi	seou1239		burn	2102	BURN		ta-	t a
+64680	80833	leekoreanic-Jeju	jeju1234		burn	2102	BURN		kʰa-	kʰ a
+64681	80834	leekoreanic-NChungcheong	chun1247		burn	2102	BURN		tan-	t a n
+64682	80835	leekoreanic-SGyeongsang	kyon1247		burn	2102	BURN		tan-	t a n
+86987	103140	leekoreanic-Gyeonggi	seou1239		claw	72	CLAW		son-top	s o n + t o p
+86988	103141	leekoreanic-Jeju	jeju1234		claw	72	CLAW		son-k'op	s o n + k͈ o p
+86989	103142	leekoreanic-SGyeongsang	kyon1247		claw	72	CLAW		son-t'ɨp	s o n + t͈ ɨ p
+86990	103143	leekoreanic-SJeolla	chol1278		claw	72	CLAW		son-top	s o n + t o p
+87081	103234	northeuralex-kor	kore1280		claw	72	CLAW		kalɡoɾi_paldʰop̚	k a l g o ɾ i + p a l dʰ o p̚
+91814	107967	leekoreanic-Gyeonggi	seou1239		cloud	1489	CLOUD		ku-rum	k u + ɾ u m
+91815	107968	leekoreanic-Jeju	jeju1234		cloud	1489	CLOUD		ku-rum	k u + ɾ u m
+91816	107969	leekoreanic-NChungcheong	chun1247		cloud	1489	CLOUD		ku-rum	k u + ɾ u m
+91817	107970	leekoreanic-SGyeongsang	kyon1247		cloud	1489	CLOUD		ku-rum	k u + ɾ u m
+91818	107971	leekoreanic-SJeolla	chol1278		cloud	1489	CLOUD		ku-rum	k u + ɾ u m
+91936	108089	northeuralex-kor	kore1280		cloud	1489	CLOUD		kuɾɯm	k u ɾ ɯ m
+95402	111555	leekoreanic-Gyeonggi	seou1239		cold	1287	COLD		cʰup-	tɕʰ u p
+95403	111556	leekoreanic-NChungcheong	chun1247		cold	1287	COLD		cʰu-wə	tɕʰ u + w ə
+95404	111557	leekoreanic-NPyongan	pyon1239		cold	1287	COLD		cʰu-wə	tɕʰ u + w ə
+95405	111558	leekoreanic-SGyeongsang	kyon1247		cold	1287	COLD		cʰi-ba	tɕʰ i + b a
+95406	111559	leekoreanic-SHamgyong	hamg1238		cold	1287	COLD		cʰi-bə	tɕʰ i + b ə
+95407	111560	leekoreanic-SJeolla	chol1278		cold	1287	COLD		cʰu-up-da	tɕʰ u + u p + d a
+95526	111679	northeuralex-kor	kore1280		cold	1287	COLD		can	c a n
+99070	115223	leekoreanic-Gyeonggi	seou1239		come	1446	COME		o-	o
+99199	115352	northeuralex-kor	kore1280		come	1446	COME		oda	o d a
+127410	143565	northeuralex-kor	kore1280		die	1494	DIE		t͡ɕukt͈͈a	tɕ u k t͈ a
+135846	152001	leekoreanic-Gyeonggi	seou1239		dog	2009	DOG		ka-hi	k a + h i
+135847	152002	leekoreanic-Jeju	jeju1234		dog	2009	DOG		kɛ	k ɛ
+135848	152003	leekoreanic-NChungcheong	chun1247		dog	2009	DOG		ka-a-ɟi	k a + a + ɟ i
+135849	152004	leekoreanic-NPyongan	pyon1239		dog	2009	DOG		sɨ-cɨl-pɛ	s ɨ + tɕ ɨ l + p ɛ
+135850	152005	leekoreanic-SGyeongsang	kyon1247		dog	2009	DOG		k'aŋ-sɛ-i	k͈ a ŋ + s ɛ + i
+135851	152006	leekoreanic-SHamgyong	hamg1238		dog	2009	DOG		cɨ-cɨl-pje	tɕ ɨ + tɕ ɨ l + p dʑ e
+135852	152007	leekoreanic-SJeolla	chol1278		dog	2009	DOG		kɛ	k ɛ
+135974	152129	northeuralex-kor	kore1280		dog	2009	DOG		kɛ	k ɛ
+142312	158467	leekoreanic-Gyeonggi	seou1239		drink	1401	DRINK		ma-si-	m a + s i
+142430	158585	northeuralex-kor	kore1280		drink	1401	DRINK		maɕʰida	m a ɕʰ i d a
+145881	162036	leekoreanic-Gyeonggi	seou1239		dry	1398	DRY		ma-rɨ-	m a + ɾ ɨ
+145882	162037	leekoreanic-Jeju	jeju1234		dry	1398	DRY		mɔl-lɨn-	m ɔ l + l ɨ n
+145883	162038	leekoreanic-NChungcheong	chun1247		dry	1398	DRY		kol-	k o l
+145884	162039	leekoreanic-NPyongan	pyon1239		dry	1398	DRY		ma-rɨn-	m a + ɾ ɨ n
+145885	162040	leekoreanic-SGyeongsang	kyon1247		dry	1398	DRY		pin-	p i n
+145886	162041	leekoreanic-SJeolla	chol1278		dry	1398	DRY		mol-lɨn-da	m o l + l ɨ n + d a
+145997	162152	northeuralex-kor	kore1280		dry	1398	DRY		maɾɯn	m a ɾ ɯ n
+151386	167541	leekoreanic-Gyeonggi	seou1239		ear	1247	EAR		kwi	k w i
+151387	167542	leekoreanic-Jeju	jeju1234		ear	1247	EAR		kwi-twi-i	k w i + t w i + i
+151388	167543	leekoreanic-NChungcheong	chun1247		ear	1247	EAR		kwi-t'wi	k w i + t͈ w i
+151389	167544	leekoreanic-NPyongan	pyon1239		ear	1247	EAR		kwi-t'ɛ-gi	k w i + t͈ ɛ + g i
+151390	167545	leekoreanic-SGyeongsang	kyon1247		ear	1247	EAR		gi	g i
+151391	167546	leekoreanic-SHamgyong	hamg1238		ear	1247	EAR		kwi-t'wiŋ	k w i + t͈ w i ŋ
+151392	167547	leekoreanic-SJeolla	chol1278		ear	1247	EAR		kwi-t'ɛ-gi	k w i + t͈ ɛ + g i
+151516	167671	northeuralex-kor	kore1280		ear	1247	EAR		kwi	k w i
+154244	170399	leekoreanic-Gyeonggi	seou1239		earthsoil	1228	EARTH (SOIL)		hɨk	h ɨ k
+154245	170400	leekoreanic-Jeju	jeju1234		earthsoil	1228	EARTH (SOIL)		hɨk	h ɨ k
+154246	170401	leekoreanic-NChungcheong	chun1247		earthsoil	1228	EARTH (SOIL)		hɨk	h ɨ k
+154247	170402	leekoreanic-NPyongan	pyon1239		earthsoil	1228	EARTH (SOIL)		hulk	h u l k
+154248	170403	leekoreanic-SGyeongsang	kyon1247		earthsoil	1228	EARTH (SOIL)		hɨl	h ɨ l
+154249	170404	leekoreanic-SHamgyong	hamg1238		earthsoil	1228	EARTH (SOIL)		hɨl-gi	h ɨ l + g i
+154250	170405	leekoreanic-SJeolla	chol1278		earthsoil	1228	EARTH (SOIL)		hɨk	h ɨ k
+154340	170495	northeuralex-kor	kore1280		earthsoil	1228	EARTH (SOIL)		xlɡ	x l g
+156919	173074	leekoreanic-Gyeonggi	seou1239		eat	1336	EAT		məŋ-nɨn-	m ə ŋ + n ɨ n
+156920	173075	leekoreanic-Jeju	jeju1234		eat	1336	EAT		məŋ-nɨn-	m ə ŋ + n ɨ n
+156921	173076	leekoreanic-NChungcheong	chun1247		eat	1336	EAT		məŋ-nɨn-	m ə ŋ + n ɨ n
+156922	173077	leekoreanic-NPyongan	pyon1239		eat	1336	EAT		sɨn-	s ɨ n
+156923	173078	leekoreanic-SGyeongsang	kyon1247		eat	1336	EAT		muŋ-nɨn-	m u ŋ + n ɨ n
+156924	173079	leekoreanic-SHamgyong	hamg1238		eat	1336	EAT		s'ɨn-	s͈ ɨ n
+156925	173080	leekoreanic-SJeolla	chol1278		eat	1336	EAT		muŋ-nɨn-	m u ŋ + n ɨ n
+157050	173205	northeuralex-kor	kore1280		eat	1336	EAT		mʌkt͈͈a	m ʌ k t͈ a
+159210	175368	leekoreanic-Gyeonggi	seou1239		egg	744	EGG		tal-gjal	t a l + g dʑ a l
+159211	175369	leekoreanic-Jeju	jeju1234		egg	744	EGG		tal-gjal	t a l + g dʑ a l
+159212	175370	leekoreanic-NChungcheong	chun1247		egg	744	EGG		tal-gjal	t a l + g dʑ a l
+159213	175371	leekoreanic-NPyongan	pyon1239		egg	744	EGG		tal-gjal	t a l + g dʑ a l
+159214	175372	leekoreanic-SGyeongsang	kyon1247		egg	744	EGG		ci-i-ral	tɕ i + i + ɾ a l
+159215	175373	leekoreanic-SHamgyong	hamg1238		egg	744	EGG		tal-gjal	t a l + g dʑ a l
+159216	175374	leekoreanic-SJeolla	chol1278		egg	744	EGG		tal-gjal	t a l + g dʑ a l
+159330	175488	northeuralex-kor	kore1280		egg	744	EGG		al	a l
+169793	185951	leekoreanic-Gyeonggi	seou1239		eye	1248	EYE		nut-kwal	n u t + k w a l
+169794	185952	leekoreanic-Jeju	jeju1234		eye	1248	EYE		nun-k'a-ri	n u n + k͈ a + ɾ i
+169795	185953	leekoreanic-NChungcheong	chun1247		eye	1248	EYE		nun-k'al	n u n + k͈ a l
+169796	185954	leekoreanic-SGyeongsang	kyon1247		eye	1248	EYE		nun-k'a-ri	n u n + k͈ a + ɾ i
+169797	185955	leekoreanic-SHamgyong	hamg1238		eye	1248	EYE		nut-kwal	n u t + k w a l
+169798	185956	leekoreanic-SJeolla	chol1278		eye	1248	EYE		nun-k'al	n u n + k͈ a l
+169916	186074	northeuralex-kor	kore1280		eye	1248	EYE		nun	n u n
+182196	198356	leekoreanic-Gyeonggi	seou1239		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ki-rɨm	k i + ɾ ɨ m
+182197	198357	leekoreanic-Jeju	jeju1234		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ci-rɨm	tɕ i + ɾ ɨ m
+182198	198358	leekoreanic-NChungcheong	chun1247		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ci-rɨm	tɕ i + ɾ ɨ m
+182199	198359	leekoreanic-NPyongan	pyon1239		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ma-raŋ-gu	m a + ɾ a ŋ + g u
+182200	198360	leekoreanic-SGyeongsang	kyon1247		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ci-rɨm	tɕ i + ɾ ɨ m
+182201	198361	leekoreanic-SHamgyong	hamg1238		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ma-raŋ-tu	m a + ɾ a ŋ + t u
+182202	198362	leekoreanic-SJeolla	chol1278		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ci-rɨm	tɕ i + ɾ ɨ m
+182284	198444	northeuralex-kor	kore1280		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		kiɾɯm	k i ɾ ɯ m
+185043	201203	leekoreanic-Gyeonggi	seou1239		feather	1201	FEATHER		kit	k i t
+185044	201204	leekoreanic-Jeju	jeju1234		feather	1201	FEATHER		cit	tɕ i t
+185045	201205	leekoreanic-NChungcheong	chun1247		feather	1201	FEATHER		cit	tɕ i t
+185046	201206	leekoreanic-NPyongan	pyon1239		feather	1201	FEATHER		ci-cʰi	tɕ i + tɕʰ i
+185047	201207	leekoreanic-SGyeongsang	kyon1247		feather	1201	FEATHER		cit	tɕ i t
+185048	201208	leekoreanic-SHamgyong	hamg1238		feather	1201	FEATHER		cit	tɕ i t
+185049	201209	leekoreanic-SJeolla	chol1278		feather	1201	FEATHER		cit	tɕ i t
+185162	201322	northeuralex-kor	kore1280		feather	1201	FEATHER		kitt͈ʰʌl	k i t t͈ʰ ʌ l
+187210	219863	leekoreanic-Gyeonggi	seou1239		fleshormeat	2615	FLESH OR MEAT		sal	s a l
+187211	219864	leekoreanic-SGyeongsang	kyon1247		fleshormeat	2615	FLESH OR MEAT		sal-kwi	s a l + k w i
+187212	219865	leekoreanic-SJeolla	chol1278		fleshormeat	2615	FLESH OR MEAT		sal-t'a-gu	s a l + t͈ a + g u
+192989	225642	leekoreanic-Gyeonggi	seou1239		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		nal-	n a l
+193070	225723	northeuralex-kor	kore1280		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		nalda	n a l d a
+196322	228975	leekoreanic-SGyeongsang	kyon1247		foot	1301	FOOT		pal-mo-ga-ɟi	p a l + m o + g a + ɟ i
+196323	228976	leekoreanic-SJeolla	chol1278		foot	1301	FOOT		pal-mo-ga-ɟi	p a l + m o + g a + ɟ i
+196454	229107	northeuralex-kor	kore1280		foot	1301	FOOT		pal	p a l
+209401	242054	leekoreanic-Gyeonggi	seou1239		full	1429	FULL		ka-dɨk-	k a + d ɨ k
+209402	242055	leekoreanic-SGyeongsang	kyon1247		full	1429	FULL		k'ak-cʰat-	k͈ a k + tɕʰ a t
+209403	242056	leekoreanic-SJeolla	chol1278		full	1429	FULL		kwak-cʰat-	k w a k + tɕʰ a t
+209515	242168	northeuralex-kor	kore1280		full	1429	FULL		wand͡ʑʌnɦan	w a n dʑ ʌ n ɦ a n
+214818	247471	leekoreanic-Gyeonggi	seou1239		give	1447	GIVE		cu-	tɕ u
+214942	247595	northeuralex-kor	kore1280		give	1447	GIVE		t͡ɕuda	tɕ u d a
+220951	253607	leekoreanic-Gyeonggi	seou1239		good	1035	GOOD		co-	tɕ o
+220952	253608	leekoreanic-NChungcheong	chun1247		good	1035	GOOD		co-	tɕ o
+220953	253609	leekoreanic-NPyongan	pyon1239		good	1035	GOOD		do-	d o
+220954	253610	leekoreanic-SGyeongsang	kyon1247		good	1035	GOOD		co-	tɕ o
+221082	253738	northeuralex-kor	kore1280		good	1035	GOOD		t͡ɕoɣn	tɕ o ɣ n
+228706	261362	leekoreanic-Gyeonggi	seou1239		green	1425	GREEN		pu-rɨ-	p u + ɾ ɨ
+228707	261363	leekoreanic-Jeju	jeju1234		green	1425	GREEN		pu-ri-	p u + ɾ i
+228708	261364	leekoreanic-NChungcheong	chun1247		green	1425	GREEN		pu-rɨ-sɨ-rɨm-	p u + ɾ ɨ + s ɨ + ɾ ɨ m
+228709	261365	leekoreanic-SJeolla	chol1278		green	1425	GREEN		pu-rut-	p u + ɾ u t
+228822	261478	northeuralex-kor	kore1280		green	1425	GREEN		noksʰɛɡji	n o k sʰ ɛ g j i
+234748	267404	leekoreanic-Gyeonggi	seou1239		hair	1040	HAIR		tʰəl	tʰ ə l
+234749	267405	leekoreanic-Jeju	jeju1234		hair	1040	HAIR		hə-un-də-gi	h ə + u n + d ə + g i
+234750	267406	leekoreanic-NChungcheong	chun1247		hair	1040	HAIR		tʰəl	tʰ ə l
+234751	267407	leekoreanic-NPyongan	pyon1239		hair	1040	HAIR		tə-rə-gu	t ə + ɾ ə + g u
+234752	267408	leekoreanic-SGyeongsang	kyon1247		hair	1040	HAIR		tʰə-re-gi	tʰ ə + ɾ e + g i
+234753	267409	leekoreanic-SJeolla	chol1278		hair	1040	HAIR		tʰə-rək	tʰ ə + ɾ ə k
+234823	267479	northeuralex-kor	kore1280		hair	1040	HAIR		tʰʌl	tʰ ʌ l
+238532	271188	leekoreanic-Gyeonggi	seou1239		hand	1277	HAND		son	s o n
+238533	271189	leekoreanic-Jeju	jeju1234		hand	1277	HAND		son	s o n
+238534	271190	leekoreanic-NChungcheong	chun1247		hand	1277	HAND		son	s o n
+238535	271191	leekoreanic-NPyongan	pyon1239		hand	1277	HAND		son	s o n
+238536	271192	leekoreanic-SGyeongsang	kyon1247		hand	1277	HAND		son	s o n
+238537	271193	leekoreanic-SHamgyong	hamg1238		hand	1277	HAND		son	s o n
+238538	271194	leekoreanic-SJeolla	chol1278		hand	1277	HAND		son	s o n
+238663	271319	northeuralex-kor	kore1280		hand	1277	HAND		sʰon	sʰ o n
+244145	276802	leekoreanic-Gyeonggi	seou1239		head	1256	HEAD		mə-ri	m ə + ɾ i
+244146	276803	leekoreanic-Jeju	jeju1234		head	1256	HEAD		tɛ-gaŋ-i	t ɛ + g a ŋ + i
+244147	276804	leekoreanic-NChungcheong	chun1247		head	1256	HEAD		tɛ-gal	t ɛ + g a l
+244148	276805	leekoreanic-SGyeongsang	kyon1247		head	1256	HEAD		tɛ-ga-ri	t ɛ + g a + ɾ i
+244149	276806	leekoreanic-SHamgyong	hamg1238		head	1256	HEAD		tɛ-gol	t ɛ + g o l
+244150	276807	leekoreanic-SJeolla	chol1278		head	1256	HEAD		tɛ-gɨl-p'ak	t ɛ + g ɨ l + p͈ a k
+244279	276936	northeuralex-kor	kore1280		head	1256	HEAD		mʌɾi	m ʌ ɾ i
+247077	279734	leekoreanic-Gyeonggi	seou1239		hear	1408	HEAR		tɨn-nɨn-	t ɨ n + n ɨ n
+247078	279735	leekoreanic-Jeju	jeju1234		hear	1408	HEAR		tɨn-nɨn-	t ɨ n + n ɨ n
+247079	279736	leekoreanic-NChungcheong	chun1247		hear	1408	HEAR		tɨn-nɨn-	t ɨ n + n ɨ n
+247080	279737	leekoreanic-NPyongan	pyon1239		hear	1408	HEAR		tɨn-nɨn-	t ɨ n + n ɨ n
+247081	279738	leekoreanic-SGyeongsang	kyon1247		hear	1408	HEAR		tɨn-nɨn-	t ɨ n + n ɨ n
+247082	279739	leekoreanic-SHamgyong	hamg1238		hear	1408	HEAR		tɨn-nɨn-	t ɨ n + n ɨ n
+247083	279740	leekoreanic-SJeolla	chol1278		hear	1408	HEAR		tɨn-nɨn-	t ɨ n + n ɨ n
+247208	279865	northeuralex-kor	kore1280		hear	1408	HEAR		tɯtt͈͈a	t ɯ t t͈ a
+248667	281324	leekoreanic-Gyeonggi	seou1239		heart	1223	HEART		jem-toŋ	dʑ e m + t o ŋ
+248668	281325	leekoreanic-SHamgyong	hamg1238		heart	1223	HEART		jem-tʰi	dʑ e m + tʰ i
+248791	281448	northeuralex-kor	kore1280		heart	1223	HEART		jʌmdʰoŋ	j ʌ m dʰ o ŋ
+263518	296178	leekoreanic-Gyeonggi	seou1239		hornanatomy	1393	HORN (ANATOMY)		p'ul	p͈ u l
+263519	296179	leekoreanic-Jeju	jeju1234		hornanatomy	1393	HORN (ANATOMY)		p'ul	p͈ u l
+263520	296180	leekoreanic-NChungcheong	chun1247		hornanatomy	1393	HORN (ANATOMY)		p'ul	p͈ u l
+263521	296181	leekoreanic-NPyongan	pyon1239		hornanatomy	1393	HORN (ANATOMY)		p'ul	p͈ u l
+263522	296182	leekoreanic-SGyeongsang	kyon1247		hornanatomy	1393	HORN (ANATOMY)		p'ul	p͈ u l
+263523	296183	leekoreanic-SHamgyong	hamg1238		hornanatomy	1393	HORN (ANATOMY)		p'ul	p͈ u l
+263524	296184	leekoreanic-SJeolla	chol1278		hornanatomy	1393	HORN (ANATOMY)		p'ul	p͈ u l
+263634	296294	northeuralex-kor	kore1280		hornanatomy	1393	HORN (ANATOMY)		pp͈͈ul	p p͈ u l
+274842	307502	leekoreanic-Gyeonggi	seou1239		i	1209	I		na	n a
+274843	307503	leekoreanic-NChungcheong	chun1247		i	1209	I		ca-gi	tɕ a + g i
+274844	307504	leekoreanic-SGyeongsang	kyon1247		i	1209	I		nɛ	n ɛ
+274956	307616	northeuralex-kor	kore1280		i	1209	I		na	n a
+287737	320397	leekoreanic-Gyeonggi	seou1239		kill	1417	KILL		cu-gi-	tɕ u + g i
+287862	320522	northeuralex-kor	kore1280		kill	1417	KILL		t͡ɕuɡida	tɕ u g i d a
+290408	323068	leekoreanic-Gyeonggi	seou1239		knee	1371	KNEE		mu-rum-pʰak	m u + ɾ u m + pʰ a k
+290409	323069	leekoreanic-Jeju	jeju1234		knee	1371	KNEE		toŋ-mu-rəp	t o ŋ + m u + ɾ ə p
+290410	323070	leekoreanic-NChungcheong	chun1247		knee	1371	KNEE		mu-ru-pʰak	m u + ɾ u + pʰ a k
+290411	323071	leekoreanic-NPyongan	pyon1239		knee	1371	KNEE		mu-rup-pʰɛ-gi	m u + ɾ u p + pʰ ɛ + g i
+290412	323072	leekoreanic-SGyeongsang	kyon1247		knee	1371	KNEE		coŋ-ɟi-p'ɛ	tɕ o ŋ + ɟ i + p͈ ɛ
+290413	323073	leekoreanic-SHamgyong	hamg1238		knee	1371	KNEE		mu-rəp	m u + ɾ ə p
+290414	323074	leekoreanic-SJeolla	chol1278		knee	1371	KNEE		mul-pʰak	m u l + pʰ a k
+290528	323188	northeuralex-kor	kore1280		knee	1371	KNEE		muɾɯp̚	m u ɾ ɯ p̚
+294517	327177	northeuralex-kor	kore1280		knowsomething	1410	KNOW (SOMETHING)		alda	a l d a
+302366	335026	leekoreanic-Gyeonggi	seou1239		leaf	628	LEAF		ip	i p
+302367	335027	leekoreanic-Jeju	jeju1234		leaf	628	LEAF		ip-sɛŋ-i	i p + s ɛ ŋ + i
+302368	335028	leekoreanic-NChungcheong	chun1247		leaf	628	LEAF		ip-sa-gu	i p + s a + g u
+302369	335029	leekoreanic-NPyongan	pyon1239		leaf	628	LEAF		nip-sa-gwi	n i p + s a + g w i
+302370	335030	leekoreanic-SGyeongsang	kyon1247		leaf	628	LEAF		ip-pʰa-ri	i p + pʰ a + ɾ i
+302371	335031	leekoreanic-SHamgyong	hamg1238		leaf	628	LEAF		səp-caŋ-kwi	s ə p + tɕ a ŋ + k w i
+302372	335032	leekoreanic-SJeolla	chol1278		leaf	628	LEAF		ip-sak	i p + s a k
+302501	335161	northeuralex-kor	kore1280		leaf	628	LEAF		ip̚	i p̚
+310604	343264	northeuralex-kor	kore1280		lierest	1411	LIE (REST)		nupt͈͈a	n u p t͈ a
+317131	349791	leekoreanic-Gyeonggi	seou1239		liver	1224	LIVER		kan	k a n
+317230	349890	northeuralex-kor	kore1280		liver	1224	LIVER		kan	k a n
+320033	352693	leekoreanic-Gyeonggi	seou1239		long	1203	LONG		kil-	k i l
+320034	352694	leekoreanic-Jeju	jeju1234		long	1203	LONG		cil-	tɕ i l
+320035	352695	leekoreanic-NChungcheong	chun1247		long	1203	LONG		cil-	tɕ i l
+320036	352696	leekoreanic-SGyeongsang	kyon1247		long	1203	LONG		cil-	tɕ i l
+320037	352697	leekoreanic-SHamgyong	hamg1238		long	1203	LONG		cil-	tɕ i l
+320038	352698	leekoreanic-SJeolla	chol1278		long	1203	LONG		cil-	tɕ i l
+320163	352823	northeuralex-kor	kore1280		long	1203	LONG		kin	k i n
+323669	356329	leekoreanic-Gyeonggi	seou1239		louse	1392	LOUSE		i	i
+323670	356330	leekoreanic-Jeju	jeju1234		louse	1392	LOUSE		nɨy	n ɨ j
+323671	356331	leekoreanic-NChungcheong	chun1247		louse	1392	LOUSE		ka-raŋ-i	k a + ɾ a ŋ + i
+323672	356332	leekoreanic-NPyongan	pyon1239		louse	1392	LOUSE		nɨy	n ɨ j
+323673	356333	leekoreanic-SGyeongsang	kyon1247		louse	1392	LOUSE		s'i-ge-mi	s͈ i + g e + m i
+323674	356334	leekoreanic-SHamgyong	hamg1238		louse	1392	LOUSE		i	i
+323675	356335	leekoreanic-SJeolla	chol1278		louse	1392	LOUSE		i	i
+323776	356436	northeuralex-kor	kore1280		louse	1392	LOUSE		i	i
+330734	363395	northeuralex-kor	kore1280		man	1554	MAN		namd͡ʑa	n a m dʑ a
+332466	365127	leekoreanic-Gyeonggi	seou1239		many	1198	MANY		man-hi	m a n + h i
+332467	365128	leekoreanic-Jeju	jeju1234		many	1198	MANY		ha-yəŋ	h a + j ə ŋ
+332468	365129	leekoreanic-NChungcheong	chun1247		many	1198	MANY		man-hi	m a n + h i
+332469	365130	leekoreanic-NPyongan	pyon1239		many	1198	MANY		man-hi	m a n + h i
+332470	365131	leekoreanic-SGyeongsang	kyon1247		many	1198	MANY		haŋ-gɨ-si	h a ŋ + g ɨ + s i
+332471	365132	leekoreanic-SHamgyong	hamg1238		many	1198	MANY		man-hi	m a n + h i
+332472	365133	leekoreanic-SJeolla	chol1278		many	1198	MANY		han-na	h a n + n a
+344640	377301	leekoreanic-Gyeonggi	seou1239		moon	1313	MOON		tal	t a l
+344758	377419	northeuralex-kor	kore1280		moon	1313	MOON		tal	t a l
+351104	383768	leekoreanic-Gyeonggi	seou1239		mountain	639	MOUNTAIN		mø	m ø
+351105	383769	leekoreanic-Jeju	jeju1234		mountain	639	MOUNTAIN		me	m e
+351106	383770	leekoreanic-NChungcheong	chun1247		mountain	639	MOUNTAIN		mi	m i
+351107	383771	leekoreanic-NPyongan	pyon1239		mountain	639	MOUNTAIN		me	m e
+351108	383772	leekoreanic-SGyeongsang	kyon1247		mountain	639	MOUNTAIN		mɛ-t'oŋ	m ɛ + t͈ o ŋ
+351109	383773	leekoreanic-SHamgyong	hamg1238		mountain	639	MOUNTAIN		mø	m ø
+351110	383774	leekoreanic-SJeolla	chol1278		mountain	639	MOUNTAIN		me-t'oŋ	m e + t͈ o ŋ
+351232	383896	northeuralex-kor	kore1280		mountain	639	MOUNTAIN		sʰan	sʰ a n
+353631	386295	leekoreanic-Gyeonggi	seou1239		mouth	674	MOUTH		ip	i p
+353632	386296	leekoreanic-Jeju	jeju1234		mouth	674	MOUTH		kul-rɛ-k'wa-i	k u l + ɾ ɛ + k͈ w a + i
+353633	386297	leekoreanic-NChungcheong	chun1247		mouth	674	MOUTH		ip	i p
+353634	386298	leekoreanic-NPyongan	pyon1239		mouth	674	MOUTH		ip	i p
+353635	386299	leekoreanic-SGyeongsang	kyon1247		mouth	674	MOUTH		ip	i p
+353636	386300	leekoreanic-SHamgyong	hamg1238		mouth	674	MOUTH		ip	i p
+353637	386301	leekoreanic-SJeolla	chol1278		mouth	674	MOUTH		ip	i p
+353760	386424	northeuralex-kor	kore1280		mouth	674	MOUTH		ip̚	i p̚
+358644	391309	leekoreanic-Gyeonggi	seou1239		name	1405	NAME		i-rɨm	i + ɾ ɨ m
+358645	391310	leekoreanic-Jeju	jeju1234		name	1405	NAME		il-rum	i l + ɾ u m
+358646	391311	leekoreanic-NChungcheong	chun1247		name	1405	NAME		i-tɨl	i + t ɨ l
+358647	391312	leekoreanic-SGyeongsang	kyon1247		name	1405	NAME		i-tɨl	i + t ɨ l
+358765	391430	northeuralex-kor	kore1280		name	1405	NAME		iɾɯm	i ɾ ɯ m
+364928	397595	leekoreanic-Gyeonggi	seou1239		neck	1333	NECK		mo-ga-ɟi	m o + g a + ɟ i
+364929	397596	leekoreanic-Jeju	jeju1234		neck	1333	NECK		ja-ga-gi	dʑ a + g a + g i
+364930	397597	leekoreanic-NChungcheong	chun1247		neck	1333	NECK		mo-ga-ɟi	m o + g a + ɟ i
+364931	397598	leekoreanic-NPyongan	pyon1239		neck	1333	NECK		mo-ga-ɟi	m o + g a + ɟ i
+364932	397599	leekoreanic-SGyeongsang	kyon1247		neck	1333	NECK		mik-s'a-ri	m i k + s͈ a + ɾ i
+364933	397600	leekoreanic-SHamgyong	hamg1238		neck	1333	NECK		mo-ga-ɟi	m o + g a + ɟ i
+364934	397601	leekoreanic-SJeolla	chol1278		neck	1333	NECK		mo-ga-ɟi	m o + g a + ɟ i
+365057	397724	northeuralex-kor	kore1280		neck	1333	NECK		mok̚	m o k̚
+368976	401643	leekoreanic-Gyeonggi	seou1239		new	1231	NEW		sɛ-rop-	s ɛ + ɾ o p
+368977	401644	leekoreanic-NChungcheong	chun1247		new	1231	NEW		sɛ-rup-	s ɛ + ɾ u p
+368978	401645	leekoreanic-SGyeongsang	kyon1247		new	1231	NEW		sɛ-ro-pa-sə	s ɛ + ɾ o + p a + s ə
+369104	401771	northeuralex-kor	kore1280		new	1231	NEW		sʰɛ	sʰ ɛ
+371769	404436	leekoreanic-Gyeonggi	seou1239		night	1233	NIGHT		pam	p a m
+371770	404437	leekoreanic-NChungcheong	chun1247		night	1233	NIGHT		pam-cuŋ	p a m + tɕ u ŋ
+371771	404438	leekoreanic-SGyeongsang	kyon1247		night	1233	NIGHT		cə-njək	tɕ ə + n dʑ ə k
+371772	404439	leekoreanic-SJeolla	chol1278		night	1233	NIGHT		cə-njək	tɕ ə + n dʑ ə k
+371896	404563	northeuralex-kor	kore1280		night	1233	NIGHT		pam	p a m
+377590	410257	leekoreanic-Gyeonggi	seou1239		nose	1221	NOSE		kʰo	kʰ o
+377591	410258	leekoreanic-Jeju	jeju1234		nose	1221	NOSE		kʰo	kʰ o
+377592	410259	leekoreanic-NChungcheong	chun1247		nose	1221	NOSE		kʰo	kʰ o
+377593	410260	leekoreanic-NPyongan	pyon1239		nose	1221	NOSE		kʰo	kʰ o
+377594	410261	leekoreanic-SGyeongsang	kyon1247		nose	1221	NOSE		kʰo	kʰ o
+377595	410262	leekoreanic-SHamgyong	hamg1238		nose	1221	NOSE		kʰo	kʰ o
+377596	410263	leekoreanic-SJeolla	chol1278		nose	1221	NOSE		kʰo	kʰ o
+377718	410385	northeuralex-kor	kore1280		nose	1221	NOSE		kʰo	kʰ o
+379249	411916	northeuralex-kor	kore1280		not	1240	NOT		an	a n
+389902	422569	leekoreanic-Gyeonggi	seou1239		one	1493	ONE		ha-na	h a + n a
+389903	422570	leekoreanic-NChungcheong	chun1247		one	1493	ONE		han-kɛ	h a n + k ɛ
+389904	422571	leekoreanic-NPyongan	pyon1239		one	1493	ONE		han-na	h a n + n a
+389905	422572	leekoreanic-SGyeongsang	kyon1247		one	1493	ONE		han-na	h a n + n a
+389906	422573	leekoreanic-SJeolla	chol1278		one	1493	ONE		han-na	h a n + n a
+389991	422658	northeuralex-kor	kore1280		one	1493	ONE		hana	h a n a
+406390	439057	leekoreanic-Gyeonggi	seou1239		person	683	PERSON		sa:-ram	s aː + ɾ a m
+406391	439058	leekoreanic-Jeju	jeju1234		person	683	PERSON		sa:-ram	s aː + ɾ a m
+406392	439059	leekoreanic-NChungcheong	chun1247		person	683	PERSON		sa:-ram	s aː + ɾ a m
+406393	439060	leekoreanic-NPyongan	pyon1239		person	683	PERSON		sa:-ram	s aː + ɾ a m
+406394	439061	leekoreanic-SGyeongsang	kyon1247		person	683	PERSON		sa:-ram	s aː + ɾ a m
+406395	439062	leekoreanic-SHamgyong	hamg1238		person	683	PERSON		sa:-ram	s aː + ɾ a m
+406396	439063	leekoreanic-SJeolla	chol1278		person	683	PERSON		sa:-ram	s aː + ɾ a m
+406567	439234	northeuralex-kor	kore1280		person	683	PERSON		sʰaɾam	sʰ a ɾ a m
+432669	465337	leekoreanic-Gyeonggi	seou1239		red	156	RED		p'al-ga-	p͈ a l + g a
+432670	465338	leekoreanic-NChungcheong	chun1247		red	156	RED		p'al-ga-	p͈ a l + g a
+432671	465339	leekoreanic-SGyeongsang	kyon1247		red	156	RED		pal-ga-	p a l + g a
+432672	465340	leekoreanic-SJeolla	chol1278		red	156	RED		pəl-kət-	p ə l + k ə t
+432797	465465	northeuralex-kor	kore1280		red	156	RED		pulɡɯn	p u l g ɯ n
+441506	474175	leekoreanic-Gyeonggi	seou1239		road	667	ROAD		kil	k i l
+441507	474176	leekoreanic-Jeju	jeju1234		road	667	ROAD		cil	tɕ i l
+441508	474177	leekoreanic-NChungcheong	chun1247		road	667	ROAD		cil	tɕ i l
+441509	474178	leekoreanic-NPyongan	pyon1239		road	667	ROAD		kil	k i l
+441510	474179	leekoreanic-SGyeongsang	kyon1247		road	667	ROAD		cil	tɕ i l
+441511	474180	leekoreanic-SHamgyong	hamg1238		road	667	ROAD		cil	tɕ i l
+441512	474181	leekoreanic-SJeolla	chol1278		road	667	ROAD		cil	tɕ i l
+441588	474257	northeuralex-kor	kore1280		road	667	ROAD		kil	k i l
+444542	477211	leekoreanic-Gyeonggi	seou1239		root	670	ROOT		p'u-reŋ-i	p͈ u + ɾ e ŋ + i
+444543	477212	leekoreanic-Jeju	jeju1234		root	670	ROOT		p'ul-li	p͈ u l + l i
+444544	477213	leekoreanic-NChungcheong	chun1247		root	670	ROOT		p'u-riŋ-i	p͈ u + ɾ i ŋ + i
+444545	477214	leekoreanic-NPyongan	pyon1239		root	670	ROOT		p'u-rək-ɟi	p͈ u + ɾ ə k + ɟ i
+444546	477215	leekoreanic-SGyeongsang	kyon1247		root	670	ROOT		p'u-riŋ-i	p͈ u + ɾ i ŋ + i
+444547	477216	leekoreanic-SHamgyong	hamg1238		root	670	ROOT		p'u-re-gi	p͈ u + ɾ e + g i
+444548	477217	leekoreanic-SJeolla	chol1278		root	670	ROOT		p'u-rɛŋ-i	p͈ u + ɾ ɛ ŋ + i
+444673	477342	northeuralex-kor	kore1280		root	670	ROOT		pp͈͈uɾi	p p͈ u ɾ i
+448922	481591	leekoreanic-Gyeonggi	seou1239		round	1395	ROUND		tuŋ-gɨl-	t u ŋ + g ɨ l
+448923	481592	leekoreanic-Jeju	jeju1234		round	1395	ROUND		tɛŋ-gu-ra-	t ɛ ŋ + g u + ɾ a
+448924	481593	leekoreanic-NChungcheong	chun1247		round	1395	ROUND		t'uŋ-gɨl-	t͈ u ŋ + g ɨ l
+448925	481594	leekoreanic-SGyeongsang	kyon1247		round	1395	ROUND		t'uŋ-gɨl-	t͈ u ŋ + g ɨ l
+448926	481595	leekoreanic-SJeolla	chol1278		round	1395	ROUND		t'uŋ-gɨ-rə-	t͈ u ŋ + g ɨ + ɾ ə
+449035	481704	northeuralex-kor	kore1280		round	1395	ROUND		tuŋɡɯn	t u ŋ g ɯ n
+456565	489234	leekoreanic-Gyeonggi	seou1239		sand	671	SAND		mo-rɛ	m o + ɾ ɛ
+456566	489235	leekoreanic-Jeju	jeju1234		sand	671	SAND		mol-lɛ	m o l + l ɛ
+456567	489236	leekoreanic-NChungcheong	chun1247		sand	671	SAND		moŋ-kɛ	m o ŋ + k ɛ
+456568	489237	leekoreanic-NPyongan	pyon1239		sand	671	SAND		mol-gɛ	m o l + g ɛ
+456569	489238	leekoreanic-SGyeongsang	kyon1247		sand	671	SAND		pul	p u l
+456570	489239	leekoreanic-SHamgyong	hamg1238		sand	671	SAND		mol-gɛ	m o l + g ɛ
+456571	489240	leekoreanic-SJeolla	chol1278		sand	671	SAND		pok-sɛ	p o k + s ɛ
+456685	489354	northeuralex-kor	kore1280		sand	671	SAND		moɾɛ	m o ɾ ɛ
+459476	492145	leekoreanic-Gyeonggi	seou1239		say	1458	SAY		mal-	m a l
+459611	492280	northeuralex-kor	kore1280		say	1458	SAY		malɦada	m a l ɦ a d a
+465289	497959	leekoreanic-Gyeonggi	seou1239		see	1409	SEE		po-	p o
+465418	498088	northeuralex-kor	kore1280		see	1409	SEE		poda	p o d a
+466820	499490	leekoreanic-Gyeonggi	seou1239		seed	714	SEED		s'i-at	s͈ i + a t
+466821	499491	leekoreanic-NChungcheong	chun1247		seed	714	SEED		s'i-kap-si	s͈ i + k a p + s i
+466822	499492	leekoreanic-NPyongan	pyon1239		seed	714	SEED		s'i-kat	s͈ i + k a t
+466823	499493	leekoreanic-SGyeongsang	kyon1247		seed	714	SEED		s'i-kat	s͈ i + k a t
+466824	499494	leekoreanic-SHamgyong	hamg1238		seed	714	SEED		s'i-kat	s͈ i + k a t
+466825	499495	leekoreanic-SJeolla	chol1278		seed	714	SEED		s'i-kat	s͈ i + k a t
+466941	499611	northeuralex-kor	kore1280		seed	714	SEED		ɕ͈i	ɕ͈ i
+490730	523402	leekoreanic-Gyeonggi	seou1239		sit	1416	SIT		an-	a n
+490731	523403	leekoreanic-Jeju	jeju1234		sit	1416	SIT		at-	a t
+490852	523524	northeuralex-kor	kore1280		sit	1416	SIT		and͡ʑta	a n dʑ t a
+494842	527514	leekoreanic-Gyeonggi	seou1239		skin	763	SKIN		sal-kat	s a l + k a t
+494843	527515	leekoreanic-NChungcheong	chun1247		skin	763	SKIN		sal-kat	s a l + k a t
+494844	527516	leekoreanic-SGyeongsang	kyon1247		skin	763	SKIN		sal-k'at	s a l + k͈ a t
+494954	527626	northeuralex-kor	kore1280		skin	763	SKIN		sʰalɡacc	sʰ a l g a c c
+499484	532157	leekoreanic-Gyeonggi	seou1239		sleep	1585	SLEEP		can-	tɕ a n
+499485	532158	leekoreanic-Jeju	jeju1234		sleep	1585	SLEEP		can-	tɕ a n
+499486	532159	leekoreanic-NChungcheong	chun1247		sleep	1585	SLEEP		can-	tɕ a n
+499487	532160	leekoreanic-NPyongan	pyon1239		sleep	1585	SLEEP		can-	tɕ a n
+499488	532161	leekoreanic-SGyeongsang	kyon1247		sleep	1585	SLEEP		can-	tɕ a n
+499489	532162	leekoreanic-SHamgyong	hamg1238		sleep	1585	SLEEP		can-	tɕ a n
+499490	532163	leekoreanic-SJeolla	chol1278		sleep	1585	SLEEP		can-	tɕ a n
+499618	532291	northeuralex-kor	kore1280		sleep	1585	SLEEP		t͡ɕada	tɕ a d a
+503069	535743	leekoreanic-Gyeonggi	seou1239		small	1246	SMALL		cak-	tɕ a k
+503070	535744	leekoreanic-Jeju	jeju1234		small	1246	SMALL		cok-	tɕ o k
+503071	535745	leekoreanic-NChungcheong	chun1247		small	1246	SMALL		cək-	tɕ ə k
+503072	535746	leekoreanic-SGyeongsang	kyon1247		small	1246	SMALL		co-k'en-tʰa	tɕ o + k͈ e n + tʰ a
+503073	535747	leekoreanic-SJeolla	chol1278		small	1246	SMALL		cək-	tɕ ə k
+503204	535878	northeuralex-kor	kore1280		small	1246	SMALL		t͡ɕaɡɯn	tɕ a g ɯ n
+507383	540059	leekoreanic-Gyeonggi	seou1239		smokeexhaust	778	SMOKE (EXHAUST)		jən-gɨy	dʑ ə n + g ɨ j
+507384	540060	leekoreanic-Gyeonggi	seou1239		smokeexhaust	778	SMOKE (EXHAUST)		nɛ	n ɛ
+507385	540061	leekoreanic-Jeju	jeju1234		smokeexhaust	778	SMOKE (EXHAUST)		nø	n ø
+507386	540062	leekoreanic-NChungcheong	chun1247		smokeexhaust	778	SMOKE (EXHAUST)		nɛ	n ɛ
+507387	540063	leekoreanic-NChungcheong	chun1247		smokeexhaust	778	SMOKE (EXHAUST)		jən-gɨy	dʑ ə n + g ɨ j
+507388	540064	leekoreanic-NPyongan	pyon1239		smokeexhaust	778	SMOKE (EXHAUST)		nɛ	n ɛ
+507389	540065	leekoreanic-SGyeongsang	kyon1247		smokeexhaust	778	SMOKE (EXHAUST)		jən-gi	dʑ ə n + g i
+507390	540066	leekoreanic-SGyeongsang	kyon1247		smokeexhaust	778	SMOKE (EXHAUST)		nɛŋ-gi	n ɛ ŋ + g i
+507391	540067	leekoreanic-SHamgyong	hamg1238		smokeexhaust	778	SMOKE (EXHAUST)		nɛ-gu-ri	n ɛ + g u + ɾ i
+507392	540068	leekoreanic-SJeolla	chol1278		smokeexhaust	778	SMOKE (EXHAUST)		jən-gɨy	dʑ ə n + g ɨ j
+507481	540157	northeuralex-kor	kore1280		smokeexhaust	778	SMOKE (EXHAUST)		jʌŋi	j ʌ ŋ i
+530204	562880	leekoreanic-Gyeonggi	seou1239		stand	1442	STAND		sə-	s ə
+530316	562992	northeuralex-kor	kore1280		stand	1442	STAND		sʰʌda	sʰ ʌ d a
+532519	565195	leekoreanic-Gyeonggi	seou1239		star	1430	STAR		pyəl	p j ə l
+532520	565196	leekoreanic-Jeju	jeju1234		star	1430	STAR		pel	p e l
+532521	565197	leekoreanic-NChungcheong	chun1247		star	1430	STAR		pi:l	p iː l
+532522	565198	leekoreanic-NPyongan	pyon1239		star	1430	STAR		pyəl	p j ə l
+532523	565199	leekoreanic-SGyeongsang	kyon1247		star	1430	STAR		pi:l	p iː l
+532524	565200	leekoreanic-SHamgyong	hamg1238		star	1430	STAR		pel	p e l
+532525	565201	leekoreanic-SJeolla	chol1278		star	1430	STAR		pel	p e l
+532654	565330	northeuralex-kor	kore1280		star	1430	STAR		pjʌl	p j ʌ l
+539067	571744	leekoreanic-Gyeonggi	seou1239		stone	857	STONE		tuk	t u k
+539068	571745	leekoreanic-Jeju	jeju1234		stone	857	STONE		tok	t o k
+539069	571746	leekoreanic-NChungcheong	chun1247		stone	857	STONE		tol-mɛŋ-i	t o l + m ɛ ŋ + i
+539070	571747	leekoreanic-SGyeongsang	kyon1247		stone	857	STONE		tol-miŋ-i	t o l + m i ŋ + i
+539071	571748	leekoreanic-SJeolla	chol1278		stone	857	STONE		tok	t o k
+539188	571865	northeuralex-kor	kore1280		stone	857	STONE		tol	t o l
+548444	581121	leekoreanic-Gyeonggi	seou1239		sun	1343	SUN		hɛ	h ɛ
+548445	581122	leekoreanic-Jeju	jeju1234		sun	1343	SUN		hɛ	h ɛ
+548446	581123	leekoreanic-NChungcheong	chun1247		sun	1343	SUN		hɛ	h ɛ
+548447	581124	leekoreanic-NPyongan	pyon1239		sun	1343	SUN		hɛ	h ɛ
+548448	581125	leekoreanic-SGyeongsang	kyon1247		sun	1343	SUN		hɛ	h ɛ
+548449	581126	leekoreanic-SHamgyong	hamg1238		sun	1343	SUN		hɛ	h ɛ
+548450	581127	leekoreanic-SJeolla	chol1278		sun	1343	SUN		hɛ	h ɛ
+548577	581254	northeuralex-kor	kore1280		sun	1343	SUN		hɛ	h ɛ
+555414	588091	leekoreanic-Gyeonggi	seou1239		swim	1439	SWIM		hə-əm-	h ə + ə m
+555415	588092	leekoreanic-NPyongan	pyon1239		swim	1439	SWIM		hem-	h e m
+555517	588194	northeuralex-kor	kore1280		swim	1439	SWIM		heʌmcida	h e ʌ m c i d a
+557936	590613	leekoreanic-Gyeonggi	seou1239		tail	1220	TAIL		k'o-ri	k͈ o + ɾ i
+557937	590614	leekoreanic-Jeju	jeju1234		tail	1220	TAIL		cʰol-ri	tɕʰ o l + ɾ i
+557938	590615	leekoreanic-NChungcheong	chun1247		tail	1220	TAIL		k'o-ri	k͈ o + ɾ i
+557939	590616	leekoreanic-NPyongan	pyon1239		tail	1220	TAIL		k'o-rɛŋ-i	k͈ o + ɾ ɛ ŋ + i
+557940	590617	leekoreanic-SGyeongsang	kyon1247		tail	1220	TAIL		k'o-raŋ-dɛŋ-gi	k͈ o + ɾ a ŋ + d ɛ ŋ + g i
+557941	590618	leekoreanic-SHamgyong	hamg1238		tail	1220	TAIL		k'o-ri	k͈ o + ɾ i
+557942	590619	leekoreanic-SJeolla	chol1278		tail	1220	TAIL		cʰol-ri	tɕʰ o l + ɾ i
+558062	590739	northeuralex-kor	kore1280		tail	1220	TAIL		kk͈͈oɾi	k k͈ o ɾ i
+567319	599998	leekoreanic-Gyeonggi	seou1239		that	78	THAT		kɨ	k ɨ
+567320	599999	leekoreanic-NPyongan	pyon1239		that	78	THAT		te-ku	t e + k u
+567449	600128	northeuralex-kor	kore1280		that	78	THAT		t͡ɕʌ	tɕ ʌ
+578409	611089	leekoreanic-Gyeonggi	seou1239		this	1214	THIS		i	i
+578549	611229	northeuralex-kor	kore1280		this	1214	THIS		i	i
+580539	613222	leekoreanic-Gyeonggi	seou1239		thou	1215	THOU		nə	n ə
+580540	613223	leekoreanic-Jeju	jeju1234		thou	1215	THOU		nə-nø	n ə + n ø
+580541	613224	leekoreanic-NChungcheong	chun1247		thou	1215	THOU		nə	n ə
+580542	613225	leekoreanic-NPyongan	pyon1239		thou	1215	THOU		nə	n ə
+580543	613226	leekoreanic-SGyeongsang	kyon1247		thou	1215	THOU		nə	n ə
+580544	613227	leekoreanic-SHamgyong	hamg1238		thou	1215	THOU		nə	n ə
+580545	613228	leekoreanic-SJeolla	chol1278		thou	1215	THOU		nə	n ə
+580665	613348	northeuralex-kor	kore1280		thou	1215	THOU		nʌ	n ʌ
+596502	629189	leekoreanic-Gyeonggi	seou1239		tongue	1205	TONGUE		se-p'a-dak	s e + p͈ a + d a k
+596503	629190	leekoreanic-Jeju	jeju1234		tongue	1205	TONGUE		se-k'a-dak	s e + k͈ a + d a k
+596504	629191	leekoreanic-NChungcheong	chun1247		tongue	1205	TONGUE		se-p'a-dak	s e + p͈ a + d a k
+596505	629192	leekoreanic-NPyongan	pyon1239		tongue	1205	TONGUE		hɛ	h ɛ
+596506	629193	leekoreanic-SGyeongsang	kyon1247		tongue	1205	TONGUE		sɛ	s ɛ
+596507	629194	leekoreanic-SHamgyong	hamg1238		tongue	1205	TONGUE		se-t'ɛ	s e + t͈ ɛ
+596508	629195	leekoreanic-SJeolla	chol1278		tongue	1205	TONGUE		se-p'a-dak	s e + p͈ a + d a k
+596630	629317	northeuralex-kor	kore1280		tongue	1205	TONGUE		çjʌ	ç j ʌ
+598682	631369	leekoreanic-Gyeonggi	seou1239		tooth	1380	TOOTH		i	i
+598683	631370	leekoreanic-Jeju	jeju1234		tooth	1380	TOOTH		nɨy-p'al	n ɨ j + p͈ a l
+598684	631371	leekoreanic-NChungcheong	chun1247		tooth	1380	TOOTH		i	i
+598685	631372	leekoreanic-NPyongan	pyon1239		tooth	1380	TOOTH		ni	n i
+598686	631373	leekoreanic-SGyeongsang	kyon1247		tooth	1380	TOOTH		i-p'a-dɨy	i + p͈ a + d ɨ j
+598687	631374	leekoreanic-SHamgyong	hamg1238		tooth	1380	TOOTH		i	i
+598688	631375	leekoreanic-SJeolla	chol1278		tooth	1380	TOOTH		i-p'al	i + p͈ a l
+598801	631488	northeuralex-kor	kore1280		tooth	1380	TOOTH		i	i
+603081	635768	leekoreanic-Gyeonggi	seou1239		tree	906	TREE		na-mu	n a + m u
+603082	635769	leekoreanic-Gyeonggi	seou1239		tree	906	TREE		naŋ-gu	n a ŋ + g u
+603083	635770	leekoreanic-Jeju	jeju1234		tree	906	TREE		na-mu	n a + m u
+603084	635771	leekoreanic-Jeju	jeju1234		tree	906	TREE		naŋ	n a ŋ
+603085	635772	leekoreanic-NChungcheong	chun1247		tree	906	TREE		naŋ-gu	n a ŋ + g u
+603086	635773	leekoreanic-NChungcheong	chun1247		tree	906	TREE		na-mu	n a + m u
+603087	635774	leekoreanic-NPyongan	pyon1239		tree	906	TREE		mu-tu	m u + t u
+603088	635775	leekoreanic-SGyeongsang	kyon1247		tree	906	TREE		na-mu	n a + m u
+603089	635776	leekoreanic-SGyeongsang	kyon1247		tree	906	TREE		naŋ-kʰi	n a ŋ + kʰ i
+603090	635777	leekoreanic-SHamgyong	hamg1238		tree	906	TREE		na-mu	n a + m u
+603091	635778	leekoreanic-SHamgyong	hamg1238		tree	906	TREE		naŋ-gi	n a ŋ + g i
+603092	635779	leekoreanic-SJeolla	chol1278		tree	906	TREE		na-mu	n a + m u
+603093	635780	leekoreanic-SJeolla	chol1278		tree	906	TREE		naŋ-gu	n a ŋ + g u
+603227	635914	northeuralex-kor	kore1280		tree	906	TREE		namu	n a m u
+611600	644287	leekoreanic-Gyeonggi	seou1239		two	1498	TWO		tul	t u l
+611601	644288	leekoreanic-NChungcheong	chun1247		two	1498	TWO		tu-kɛ	t u + k ɛ
+611602	644289	leekoreanic-NPyongan	pyon1239		two	1498	TWO		tu-ul	t u + u l
+611603	644290	leekoreanic-SGyeongsang	kyon1247		two	1498	TWO		tu	t u
+611604	644291	leekoreanic-SHamgyong	hamg1238		two	1498	TWO		tu-hɨl	t u + h ɨ l
+611701	644388	northeuralex-kor	kore1280		two	1498	TWO		tul	t u l
+627444	680105	leekoreanic-Gyeonggi	seou1239		white	1335	WHITE		ha-ja-	h a + dʑ a
+627445	680106	leekoreanic-Jeju	jeju1234		white	1335	WHITE		ha-jaŋ-	h a + dʑ a ŋ
+627446	680107	leekoreanic-NChungcheong	chun1247		white	1335	WHITE		ha-ja-	h a + dʑ a
+627447	680108	leekoreanic-NPyongan	pyon1239		white	1335	WHITE		s'e-	s͈ e
+627448	680109	leekoreanic-SGyeongsang	kyon1247		white	1335	WHITE		hu-jət-	h u + dʑ ə t
+627449	680110	leekoreanic-SJeolla	chol1278		white	1335	WHITE		hu-je-da	h u + dʑ e + d a
+627573	680234	northeuralex-kor	kore1280		white	1335	WHITE		hajan	h a j a n
+629904	682657	leekoreanic-Gyeonggi	seou1239		who	1235	WHO		nu-gu	n u + g u
+629905	682658	leekoreanic-NChungcheong	chun1247		who	1235	WHO		nu-gu	n u + g u
+629906	682659	leekoreanic-SGyeongsang	kyon1247		who	1235	WHO		nu	n u
+629907	682660	leekoreanic-SHamgyong	hamg1238		who	1235	WHO		nwi-kwi	n w i + k w i
+630033	682786	northeuralex-kor	kore1280		who	1235	WHO		nuɡu	n u g u
+640414	693169	northeuralex-kor	kore1280		woman	962	WOMAN		jʌd͡ʑa	j ʌ dʑ a

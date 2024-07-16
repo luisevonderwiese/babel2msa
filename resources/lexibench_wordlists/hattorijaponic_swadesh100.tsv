@@ -1,0 +1,970 @@
+	ID	DOCULECT	CONCEPT	Segments	GLOTTOCODE	ISO_CODE	CONCEPTICON_ID	CONCEPTICON_GLOSS	COGNATES	FORM
+0	Amami-100_name-1	Amami	100_name	n aː	naze1238	nan	1405	NAME	221	
+10	Amami-10_many-1	Amami	10_many	ɕ o g o ɕ a ɴ	naze1238	nan	1198	MANY	34	
+21	Amami-11_one-1	Amami	11_one	t ɨː ts ɨ	naze1238	nan	1493	ONE	35	
+32	Amami-12_two-1	Amami	12_two	t aː ts ɨ	naze1238	nan	1498	TWO	36	
+44	Amami-13_big-1	Amami	13_big	h w ɨ sː a r i	naze1238	nan	1202	BIG	40	
+54	Amami-14_small-1	Amami	14_small	ʔʲ e n a s a r i	naze1238	nan	1246	SMALL	46	
+64	Amami-15_long-1	Amami	15_long	n a g a s a r i	naze1238	nan	1203	LONG	48	
+75	Amami-16_woman-1	Amami	16_woman	o n a g u	naze1238	nan	962	WOMAN	49	
+86	Amami-17_man-1	Amami	17_man	j e ɴ g a	naze1238	nan	1554	MAN	55	
+97	Amami-18_person-1	Amami	18_person	tɕ u	naze1238	nan	683	PERSON	56	
+108	Amami-19_fish-1	Amami	19_fish	ʔʲ u	naze1238	nan	227	FISH	59	
+109	Amami-1_i-1	Amami	1_i	w a ɴ	naze1238	nan	1209	I	1	
+111	Amami-20_bird-1	Amami	20_bird	θ u r i	naze1238	nan	937	BIRD	60	
+112	Amami-21_dog-1	Amami	21_dog	ʔ i ɴ	naze1238	nan	2009	DOG	62	
+113	Amami-22_louse-1	Amami	22_louse	s i r a ɴ	naze1238	nan	1392	LOUSE	63	
+114	Amami-23_tree-1	Amami	23_tree	x ɨ	naze1238	nan	906	TREE	64	
+115	Amami-24_barkoftree-1	Amami	24_barkoftree	x ɨ ɴ x o	naze1238	nan	1204	BARK	66	
+116	Amami-25_leaf-1	Amami	25_leaf	h w a	naze1238	nan	628	LEAF	67	
+117	Amami-26_root-1	Amami	26_root	n ɨ g u r i	naze1238	nan	670	ROOT	68	
+118	Amami-27_seed-1	Amami	27_seed	θ a n ɨ	naze1238	nan	714	SEED	70	
+119	Amami-28_blood-1	Amami	28_blood	tɕ i	naze1238	nan	946	BLOOD	71	
+121	Amami-2_thou-1	Amami	2_thou	ʔʲ a	naze1238	nan	1215	THOU	10	
+122	Amami-30_skin-1	Amami	30_skin	d u ɴ x o	naze1238	nan	763	SKIN	74	
+123	Amami-31_bone-1	Amami	31_bone	h u n ɨ	naze1238	nan	1394	BONE	76	
+124	Amami-32_greasefat-1	Amami	32_greasefat	s i r u m i	naze1238	nan	323	FAT (ORGANIC SUBSTANCE)	79	
+125	Amami-33_egg-1	Amami	33_egg	x o g a	naze1238	nan	744	EGG	81	
+126	Amami-34_horn-1	Amami	34_horn	ts ɨ n o	naze1238	nan	1393	HORN (ANATOMY)	83	
+127	Amami-35_tail-1	Amami	35_tail	z u b u	naze1238	nan	1220	TAIL	85	
+128	Amami-36_feather-1	Amami	36_feather	h a ɴ g e	naze1238	nan	1201	FEATHER	87	
+129	Amami-37_hair-1	Amami	37_hair	h i g i	naze1238	nan	1040	HAIR	88	
+130	Amami-38_head-1	Amami	38_head	x a m a tɕ i	naze1238	nan	1256	HEAD	93	
+131	Amami-39_ear-1	Amami	39_ear	m i ɴ	naze1238	nan	1247	EAR	95	
+132	Amami-3_we-1	Amami	3_we	w a x j a	naze1238	nan	1212	WE	11	
+133	Amami-40_eye-1	Amami	40_eye	m ɨː	naze1238	nan	1248	EYE	96	
+134	Amami-41_nose-1	Amami	41_nose	h a n a	naze1238	nan	1221	NOSE	98	
+135	Amami-42_mouth-1	Amami	42_mouth	k u tɕ i	naze1238	nan	674	MOUTH	99	
+136	Amami-43_tooth-1	Amami	43_tooth	h w a	naze1238	nan	1380	TOOTH	101	
+137	Amami-44_tongue-1	Amami	44_tongue	s ɨ b a	naze1238	nan	1205	TONGUE	-102	
+138	Amami-45_claw-1	Amami	45_claw	ts ɨ m ɨ	naze1238	nan	72	CLAW	103	
+139	Amami-46_foot-1	Amami	46_foot	h a g i	naze1238	nan	1301	FOOT	105	
+140	Amami-47_knee-1	Amami	47_knee	ts ɨ b u s i	naze1238	nan	1371	KNEE	109	
+141	Amami-48_hand-1	Amami	48_hand	θ ɨ	naze1238	nan	1277	HAND	110	
+142	Amami-49_belly-1	Amami	49_belly	w a θ a	naze1238	nan	1251	BELLY	113	
+143	Amami-4_this-1	Amami	4_this	x u r ɨ	naze1238	nan	1214	THIS	14	
+144	Amami-50_neck-1	Amami	50_neck	k u b i	naze1238	nan	1333	NECK	114	
+145	Amami-51_breast-1	Amami	51_breast	m u n ɨ	naze1238	nan	1402	BREAST	116	
+146	Amami-52_heart-1	Amami	52_heart	s i ɴ d o	naze1238	nan	1223	HEART	118	
+147	Amami-53_liver-1	Amami	53_liver	k i m o	naze1238	nan	1224	LIVER	119	
+148	Amami-54_drink-1	Amami	54_drink	n u m u r i	naze1238	nan	1401	DRINK	120	
+149	Amami-55_eat-1	Amami	55_eat	x a m u r i	naze1238	nan	1336	EAT	124	
+150	Amami-56_bite-1	Amami	56_bite	k ui ts ɨ k ɨ r u r i	naze1238	nan	1403	BITE	126	
+151	Amami-57_see-1	Amami	57_see	mʲ uː r i	naze1238	nan	1409	SEE	130	
+152	Amami-58_hear-1	Amami	58_hear	k i kʲ u r i	naze1238	nan	1408	HEAR	132	
+154	Amami-5_that-1	Amami	5_that	ʔ a r ɨ	naze1238	nan	78	THAT	15	
+155	Amami-60_sleep-1	Amami	60_sleep	n ɨ b u r u r i	naze1238	nan	1585	SLEEP	136	
+156	Amami-61_die-1	Amami	61_die	s i mʲ u r i	naze1238	nan	1494	DIE	138	
+157	Amami-62_kill-1	Amami	62_kill	x u sː u r i	naze1238	nan	1417	KILL	139	
+158	Amami-63_swim-1	Amami	63_swim	ʔ w ɨː g u r i	naze1238	nan	1439	SWIM	140	
+159	Amami-64_fly-1	Amami	64_fly	θ u b u r i	naze1238	nan	1441	FLY (MOVE THROUGH AIR)	142	
+160	Amami-65_walk-1	Amami	65_walk	ʔ a kː u r i	naze1238	nan	1443	WALK	146	
+161	Amami-66_come-1	Amami	66_come	x u r i	naze1238	nan	1446	COME	149	
+162	Amami-67_lie-1	Amami	67_lie	n ɨ h u θ u r i	naze1238	nan	1411	LIE (REST)	151	
+163	Amami-68_sit-1	Amami	68_sit	i r u r i	naze1238	nan	1416	SIT	155	
+164	Amami-69_stand-1	Amami	69_stand	θ a tɕː u r i	naze1238	nan	1442	STAND	156	
+165	Amami-6_who-1	Amami	6_who	θ a r u	naze1238	nan	1235	WHO	18	
+166	Amami-70_give-1	Amami	70_give	k u r ɨ r u r i	naze1238	nan	1447	GIVE	160	
+167	Amami-71_say-1	Amami	71_say	ʔʲ u r i	naze1238	nan	1458	SAY	161	
+168	Amami-72_sun-1	Amami	72_sun	θ e d a	naze1238	nan	1343	SUN	167	
+169	Amami-73_moon-1	Amami	73_moon	ts ɨ k i	naze1238	nan	1313	MOON	168	
+170	Amami-74_star-1	Amami	74_star	h u s i	naze1238	nan	1430	STAR	169	
+171	Amami-75_water-1	Amami	75_water	m ɨ z ɨ	naze1238	nan	948	WATER	170	
+173	Amami-77_stone-1	Amami	77_stone	ʔ i s i	naze1238	nan	857	STONE	173	
+174	Amami-78_sand-1	Amami	78_sand	s ɨ n a	naze1238	nan	671	SAND	175	
+175	Amami-79_earth-1	Amami	79_earth	m i tɕ a	naze1238	nan	1228	EARTH (SOIL)	178	
+176	Amami-7_what-1	Amami	7_what	n uː	naze1238	nan	1236	WHAT	21	
+177	Amami-80_cloud-1	Amami	80_cloud	k u m o	naze1238	nan	1489	CLOUD	180	
+178	Amami-81_smoke-1	Amami	81_smoke	x ɨ b u s i	naze1238	nan	778	SMOKE (EXHAUST)	182	
+179	Amami-82_fire-1	Amami	82_fire	u a ts ɨ	naze1238	nan	221	FIRE	184	
+180	Amami-83_ash-1	Amami	83_ash	h w e	naze1238	nan	646	ASH	185	
+181	Amami-84_burn-1	Amami	84_burn	m eː r u r i	naze1238	nan	2102	BURN	186	
+182	Amami-85_pathroad-1	Amami	85_pathroad	m i tɕ i	naze1238	nan	667	ROAD	187	
+183	Amami-86_mountain-1	Amami	86_mountain	j a m a	naze1238	nan	639	MOUNTAIN	188	
+184	Amami-87_red-1	Amami	87_red	h aː s a r i	naze1238	nan	156	RED	190	
+185	Amami-88_green-1	Amami	88_green	ʔ oː s a r i	naze1238	nan	1425	GREEN	191	
+186	Amami-89_yellow-1	Amami	89_yellow	k iː s a r i	naze1238	nan	1424	YELLOW	193	
+187	Amami-8_not-1	Amami	8_not	ʔ a r a ɴ	naze1238	nan	1240	NOT	23	
+188	Amami-90_white-1	Amami	90_white	s i r u s a r i	naze1238	nan	1335	WHITE	194	
+189	Amami-91_black-1	Amami	91_black	k u r u s a r i	naze1238	nan	163	BLACK	195	
+190	Amami-92_night-1	Amami	92_night	j u r u	naze1238	nan	1233	NIGHT	196	
+191	Amami-93_hotwarm-1	Amami	93_hotwarm	ʔ a ts ɨ s a r i	naze1238	nan	2272	HOT OR WARM	199	
+192	Amami-94_cold-1	Amami	94_cold	h i g u r u s a r i	naze1238	nan	1287	COLD	201	
+193	Amami-95_full-1	Amami	95_full	z o ɴ b a i	naze1238	nan	1429	FULL	205	
+194	Amami-96_new-1	Amami	96_new	m iː s a r i	naze1238	nan	1231	NEW	210	
+195	Amami-97_good-1	Amami	97_good	i tɕː a r i	naze1238	nan	1035	GOOD	212	
+196	Amami-98_round-1	Amami	98_round	m a r u s a r i	naze1238	nan	1395	ROUND	216	
+197	Amami-99_dry-1	Amami	99_dry	x o r a tɕ a ɴ	naze1238	nan	1398	DRY	217	
+198	Amami-9_all-1	Amami	9_all	ʔ a ɴ x aː r i	naze1238	nan	98	ALL	26	
+199	Hachijo-100_name-1	Hachijo	100_name	n a m i a	hach1238	nan	1405	NAME	221	
+209	Hachijo-10_many-1	Hachijo	10_many	s i kː a r i	hach1238	nan	1198	MANY	30	
+220	Hachijo-11_one-1	Hachijo	11_one	t eː ts u	hach1238	nan	1493	ONE	35	
+231	Hachijo-12_two-1	Hachijo	12_two	h u t a ts u	hach1238	nan	1498	TWO	36	
+242	Hachijo-13_big-1	Hachijo	13_big	b oː kʲ a	hach1238	nan	1202	BIG	37	
+253	Hachijo-14_small-1	Hachijo	14_small	n e kː o kʲ a	hach1238	nan	1246	SMALL	42	
+264	Hachijo-15_long-1	Hachijo	15_long	n a g a kʲ a	hach1238	nan	1203	LONG	48	
+275	Hachijo-16_woman-1	Hachijo	16_woman	o ɴ n a g o	hach1238	nan	962	WOMAN	49	
+286	Hachijo-17_man-1	Hachijo	17_man	o n o k o g o	hach1238	nan	1554	MAN	52	
+297	Hachijo-18_person-1	Hachijo	18_person	h i t o	hach1238	nan	683	PERSON	56	
+308	Hachijo-19_fish-1	Hachijo	19_fish	s a k a n a	hach1238	nan	227	FISH	58	
+309	Hachijo-1_i-1	Hachijo	1_i	w a r e	hach1238	nan	1209	I	1	
+311	Hachijo-20_bird-1	Hachijo	20_bird	t o r i m e	hach1238	nan	937	BIRD	60	
+312	Hachijo-21_dog-1	Hachijo	21_dog	tɕ i ɴ m e	hach1238	nan	2009	DOG	61	
+313	Hachijo-22_louse-1	Hachijo	22_louse	ɕ a ɴ m e	hach1238	nan	1392	LOUSE	63	
+314	Hachijo-23_tree-1	Hachijo	23_tree	k i	hach1238	nan	906	TREE	64	
+315	Hachijo-24_barkoftree-1	Hachijo	24_barkoftree	k u a	hach1238	nan	1204	BARK	65	
+316	Hachijo-25_leaf-1	Hachijo	25_leaf	h a	hach1238	nan	628	LEAF	67	
+317	Hachijo-26_root-1	Hachijo	26_root	n e	hach1238	nan	670	ROOT	68	
+318	Hachijo-27_seed-1	Hachijo	27_seed	t a n e	hach1238	nan	714	SEED	70	
+319	Hachijo-28_blood-1	Hachijo	28_blood	tɕ i	hach1238	nan	946	BLOOD	71	
+321	Hachijo-2_thou-1	Hachijo	2_thou	o m i	hach1238	nan	1215	THOU	4	
+322	Hachijo-30_skin-1	Hachijo	30_skin	k u a b e	hach1238	nan	763	SKIN	75	
+323	Hachijo-31_bone-1	Hachijo	31_bone	h o n e	hach1238	nan	1394	BONE	76	
+324	Hachijo-32_greasefat-1	Hachijo	32_greasefat	a b u r a n i k u	hach1238	nan	323	FAT (ORGANIC SUBSTANCE)	78	
+325	Hachijo-33_egg-1	Hachijo	33_egg	t a m a g o	hach1238	nan	744	EGG	80	
+326	Hachijo-34_horn-1	Hachijo	34_horn	ts u n o	hach1238	nan	1393	HORN (ANATOMY)	83	
+327	Hachijo-35_tail-1	Hachijo	35_tail	o b a	hach1238	nan	1220	TAIL	84	
+328	Hachijo-36_feather-1	Hachijo	36_feather	h a n e	hach1238	nan	1201	FEATHER	87	
+329	Hachijo-37_hair-1	Hachijo	37_hair	k iː	hach1238	nan	1040	HAIR	89	
+330	Hachijo-37_hair-2	Hachijo	37_hair	k e b u ɕ o	hach1238	nan	1040	HAIR	89	
+331	Hachijo-38_head-1	Hachijo	38_head	ts u b u r i	hach1238	nan	1256	HEAD	90	
+332	Hachijo-39_ear-1	Hachijo	39_ear	m i m i	hach1238	nan	1247	EAR	95	
+333	Hachijo-3_we-1	Hachijo	3_we	w a r e ɴ i s a	hach1238	nan	1212	WE	11	
+334	Hachijo-40_eye-1	Hachijo	40_eye	m a n a k o	hach1238	nan	1248	EYE	97	
+335	Hachijo-41_nose-1	Hachijo	41_nose	h a n a	hach1238	nan	1221	NOSE	98	
+336	Hachijo-42_mouth-1	Hachijo	42_mouth	k u tɕ i	hach1238	nan	674	MOUTH	99	
+337	Hachijo-43_tooth-1	Hachijo	43_tooth	n u k a b a	hach1238	nan	1380	TOOTH	100	
+338	Hachijo-44_tongue-1	Hachijo	44_tongue	s i t a	hach1238	nan	1205	TONGUE	-102	
+339	Hachijo-45_claw-1	Hachijo	45_claw	ts u m e	hach1238	nan	72	CLAW	103	
+340	Hachijo-46_foot-1	Hachijo	46_foot	a s i	hach1238	nan	1301	FOOT	104	
+341	Hachijo-47_knee-1	Hachijo	47_knee	h i dʑ a k a b u r a	hach1238	nan	1371	KNEE	107	
+342	Hachijo-48_hand-1	Hachijo	48_hand	t e	hach1238	nan	1277	HAND	110	
+343	Hachijo-49_belly-1	Hachijo	49_belly	h a r a	hach1238	nan	1251	BELLY	111	
+344	Hachijo-4_this-1	Hachijo	4_this	k o r e	hach1238	nan	1214	THIS	14	
+345	Hachijo-50_neck-1	Hachijo	50_neck	k u b i	hach1238	nan	1333	NECK	114	
+346	Hachijo-51_breast-1	Hachijo	51_breast	m u n e	hach1238	nan	1402	BREAST	116	
+347	Hachijo-52_heart-1	Hachijo	52_heart	s i ɴ z oː	hach1238	nan	1223	HEART	118	
+348	Hachijo-53_liver-1	Hachijo	53_liver	k i m o	hach1238	nan	1224	LIVER	119	
+349	Hachijo-54_drink-1	Hachijo	54_drink	n o m u	hach1238	nan	1401	DRINK	120	
+350	Hachijo-55_eat-1	Hachijo	55_eat	m i a r u	hach1238	nan	1336	EAT	121	
+351	Hachijo-56_bite-1	Hachijo	56_bite	k ui ts u k u	hach1238	nan	1403	BITE	126	
+352	Hachijo-57_see-1	Hachijo	57_see	m a b a r u	hach1238	nan	1409	SEE	129	
+353	Hachijo-58_hear-1	Hachijo	58_hear	k i k u	hach1238	nan	1408	HEAR	132	
+355	Hachijo-5_that-1	Hachijo	5_that	o r e	hach1238	nan	78	THAT	17	
+356	Hachijo-60_sleep-1	Hachijo	60_sleep	j o d o r u	hach1238	nan	1585	SLEEP	135	
+357	Hachijo-61_die-1	Hachijo	61_die	m a r u b u	hach1238	nan	1494	DIE	137	
+358	Hachijo-62_kill-1	Hachijo	62_kill	k o r o s u	hach1238	nan	1417	KILL	139	
+359	Hachijo-63_swim-1	Hachijo	63_swim	o j o g u	hach1238	nan	1439	SWIM	140	
+360	Hachijo-64_fly-1	Hachijo	64_fly	m a k u	hach1238	nan	1441	FLY (MOVE THROUGH AIR)	141	
+361	Hachijo-65_walk-1	Hachijo	65_walk	j a m u	hach1238	nan	1443	WALK	145	
+362	Hachijo-66_come-1	Hachijo	66_come	k u r u	hach1238	nan	1446	COME	149	
+363	Hachijo-67_lie-1	Hachijo	67_lie	n e t e	hach1238	nan	1411	LIE (REST)	150	
+364	Hachijo-68_sit-1	Hachijo	68_sit	i t e	hach1238	nan	1416	SIT	155	
+365	Hachijo-69_stand-1	Hachijo	69_stand	t a tː e	hach1238	nan	1442	STAND	156	
+366	Hachijo-6_who-1	Hachijo	6_who	d a r e	hach1238	nan	1235	WHO	18	
+367	Hachijo-70_give-1	Hachijo	70_give	m u a s e r u	hach1238	nan	1447	GIVE	157	
+368	Hachijo-71_say-1	Hachijo	71_say	j u	hach1238	nan	1458	SAY	161	
+369	Hachijo-72_sun-1	Hachijo	72_sun	t e ɴ t oː s a m a	hach1238	nan	1343	SUN	163	
+370	Hachijo-73_moon-1	Hachijo	73_moon	ts u k i	hach1238	nan	1313	MOON	168	
+371	Hachijo-74_star-1	Hachijo	74_star	h o s i	hach1238	nan	1430	STAR	169	
+372	Hachijo-75_water-1	Hachijo	75_water	m i z u	hach1238	nan	948	WATER	170	
+374	Hachijo-77_stone-1	Hachijo	77_stone	i s i	hach1238	nan	857	STONE	173	
+375	Hachijo-78_sand-1	Hachijo	78_sand	dʑ a r i	hach1238	nan	671	SAND	174	
+376	Hachijo-79_earth-1	Hachijo	79_earth	tɕ i tɕ i	hach1238	nan	1228	EARTH (SOIL)	179	
+377	Hachijo-7_what-1	Hachijo	7_what	a n i	hach1238	nan	1236	WHAT	19	
+378	Hachijo-80_cloud-1	Hachijo	80_cloud	k u m o	hach1238	nan	1489	CLOUD	180	
+379	Hachijo-81_smoke-1	Hachijo	81_smoke	i b u r i	hach1238	nan	778	SMOKE (EXHAUST)	181	
+380	Hachijo-82_fire-1	Hachijo	82_fire	h i	hach1238	nan	221	FIRE	183	
+381	Hachijo-83_ash-1	Hachijo	83_ash	h i a	hach1238	nan	646	ASH	185	
+382	Hachijo-84_burn-1	Hachijo	84_burn	m i e r u	hach1238	nan	2102	BURN	186	
+383	Hachijo-85_pathroad-1	Hachijo	85_pathroad	m i tɕ i	hach1238	nan	667	ROAD	187	
+384	Hachijo-86_mountain-1	Hachijo	86_mountain	j a m a	hach1238	nan	639	MOUNTAIN	188	
+385	Hachijo-87_red-1	Hachijo	87_red	a k a kʲ a	hach1238	nan	156	RED	190	
+386	Hachijo-88_green-1	Hachijo	88_green	a o kʲ a	hach1238	nan	1425	GREEN	192	
+387	Hachijo-89_yellow-1	Hachijo	89_yellow	k iː r o kʲ a	hach1238	nan	1424	YELLOW	193	
+388	Hachijo-8_not-1	Hachijo	8_not	n a kː j a	hach1238	nan	1240	NOT	22	
+389	Hachijo-90_white-1	Hachijo	90_white	s i r o kʲ a	hach1238	nan	1335	WHITE	194	
+390	Hachijo-91_black-1	Hachijo	91_black	k u r o kʲ a	hach1238	nan	163	BLACK	195	
+391	Hachijo-92_night-1	Hachijo	92_night	j o r u	hach1238	nan	1233	NIGHT	196	
+392	Hachijo-93_hotwarm-1	Hachijo	93_hotwarm	h o t oː tː e	hach1238	nan	2272	HOT OR WARM	198	
+393	Hachijo-94_cold-1	Hachijo	94_cold	k o g i e t e	hach1238	nan	1287	COLD	202	
+394	Hachijo-95_full-1	Hachijo	95_full	i pː i a	hach1238	nan	1429	FULL	204	
+395	Hachijo-96_new-1	Hachijo	96_new	a t a r a s i kʲ a	hach1238	nan	1231	NEW	207	
+396	Hachijo-97_good-1	Hachijo	97_good	j o kː j a	hach1238	nan	1035	GOOD	215	
+397	Hachijo-98_round-1	Hachijo	98_round	m a r u kʲ a	hach1238	nan	1395	ROUND	216	
+398	Hachijo-99_dry-1	Hachijo	99_dry	k u a tː e	hach1238	nan	1398	DRY	218	
+399	Hachijo-9_all-1	Hachijo	9_all	m i ɴ n a	hach1238	nan	98	ALL	24	
+400	Kagoshima-100_name-1	Kagoshima	100_name	n a i	kyus1238	nan	1405	NAME	221	
+410	Kagoshima-10_many-1	Kagoshima	10_many	d o sː a i	kyus1238	nan	1198	MANY	28	
+421	Kagoshima-11_one-1	Kagoshima	11_one	h i t o i	kyus1238	nan	1493	ONE	35	
+432	Kagoshima-12_two-1	Kagoshima	12_two	h u t a i	kyus1238	nan	1498	TWO	36	
+443	Kagoshima-13_big-1	Kagoshima	13_big	h u t e	kyus1238	nan	1202	BIG	39	
+454	Kagoshima-14_small-1	Kagoshima	14_small	tɕ i ɴ k e	kyus1238	nan	1246	SMALL	43	
+465	Kagoshima-15_long-1	Kagoshima	15_long	n a g e	kyus1238	nan	1203	LONG	48	
+476	Kagoshima-16_woman-1	Kagoshima	16_woman	o n a g o	kyus1238	nan	962	WOMAN	49	
+487	Kagoshima-17_man-1	Kagoshima	17_man	o t o k o	kyus1238	nan	1554	MAN	53	
+498	Kagoshima-18_person-1	Kagoshima	18_person	h iː t o	kyus1238	nan	683	PERSON	56	
+509	Kagoshima-19_fish-1	Kagoshima	19_fish	iː o	kyus1238	nan	227	FISH	59	
+510	Kagoshima-1_i-1	Kagoshima	1_i	o iː	kyus1238	nan	1209	I	3	
+512	Kagoshima-20_bird-1	Kagoshima	20_bird	t o iː	kyus1238	nan	937	BIRD	60	
+513	Kagoshima-21_dog-1	Kagoshima	21_dog	i ɴ	kyus1238	nan	2009	DOG	62	
+514	Kagoshima-22_louse-1	Kagoshima	22_louse	s i t a m e	kyus1238	nan	1392	LOUSE	63	
+515	Kagoshima-23_tree-1	Kagoshima	23_tree	k i	kyus1238	nan	906	TREE	64	
+516	Kagoshima-24_barkoftree-1	Kagoshima	24_barkoftree	k a w a	kyus1238	nan	1204	BARK	65	
+517	Kagoshima-25_leaf-1	Kagoshima	25_leaf	h a i	kyus1238	nan	628	LEAF	67	
+518	Kagoshima-26_root-1	Kagoshima	26_root	n e	kyus1238	nan	670	ROOT	68	
+519	Kagoshima-27_seed-1	Kagoshima	27_seed	t a n e	kyus1238	nan	714	SEED	70	
+520	Kagoshima-28_blood-1	Kagoshima	28_blood	tɕ iː	kyus1238	nan	946	BLOOD	71	
+522	Kagoshima-2_thou-1	Kagoshima	2_thou	w a iː	kyus1238	nan	1215	THOU	9	
+523	Kagoshima-30_skin-1	Kagoshima	30_skin	k a w a	kyus1238	nan	763	SKIN	75	
+524	Kagoshima-31_bone-1	Kagoshima	31_bone	h o n e	kyus1238	nan	1394	BONE	76	
+525	Kagoshima-32_greasefat-1	Kagoshima	32_greasefat	a b u r a m i	kyus1238	nan	323	FAT (ORGANIC SUBSTANCE)	78	
+526	Kagoshima-33_egg-1	Kagoshima	33_egg	t a m a g o	kyus1238	nan	744	EGG	80	
+527	Kagoshima-34_horn-1	Kagoshima	34_horn	ts u n o	kyus1238	nan	1393	HORN (ANATOMY)	83	
+528	Kagoshima-35_tail-1	Kagoshima	35_tail	s iː b o	kyus1238	nan	1220	TAIL	86	
+529	Kagoshima-36_feather-1	Kagoshima	36_feather	h a i n e	kyus1238	nan	1201	FEATHER	87	
+530	Kagoshima-37_hair-1	Kagoshima	37_hair	k e i	kyus1238	nan	1040	HAIR	89	
+531	Kagoshima-38_head-1	Kagoshima	38_head	b i ɴ t a	kyus1238	nan	1256	HEAD	92	
+532	Kagoshima-39_ear-1	Kagoshima	39_ear	m i ɴ	kyus1238	nan	1247	EAR	95	
+533	Kagoshima-3_we-1	Kagoshima	3_we	o i d o ɴ	kyus1238	nan	1212	WE	13	
+534	Kagoshima-40_eye-1	Kagoshima	40_eye	m e	kyus1238	nan	1248	EYE	96	
+535	Kagoshima-41_nose-1	Kagoshima	41_nose	h a i n a	kyus1238	nan	1221	NOSE	98	
+536	Kagoshima-42_mouth-1	Kagoshima	42_mouth	k ui	kyus1238	nan	674	MOUTH	99	
+537	Kagoshima-43_tooth-1	Kagoshima	43_tooth	h a	kyus1238	nan	1380	TOOTH	101	
+538	Kagoshima-44_tongue-1	Kagoshima	44_tongue	s i t a	kyus1238	nan	1205	TONGUE	-102	
+539	Kagoshima-45_claw-1	Kagoshima	45_claw	ts ui m e	kyus1238	nan	72	CLAW	103	
+540	Kagoshima-46_foot-1	Kagoshima	46_foot	a ɕ	kyus1238	nan	1301	FOOT	104	
+541	Kagoshima-47_knee-1	Kagoshima	47_knee	h iː z a	kyus1238	nan	1371	KNEE	-107	
+542	Kagoshima-48_hand-1	Kagoshima	48_hand	t e	kyus1238	nan	1277	HAND	110	
+543	Kagoshima-49_belly-1	Kagoshima	49_belly	h a r a	kyus1238	nan	1251	BELLY	111	
+544	Kagoshima-4_this-1	Kagoshima	4_this	k o iː	kyus1238	nan	1214	THIS	14	
+545	Kagoshima-50_neck-1	Kagoshima	50_neck	k ui	kyus1238	nan	1333	NECK	114	
+546	Kagoshima-51_breast-1	Kagoshima	51_breast	m ui n e	kyus1238	nan	1402	BREAST	116	
+547	Kagoshima-52_heart-1	Kagoshima	52_heart	s i ɴ i z oː	kyus1238	nan	1223	HEART	118	
+548	Kagoshima-53_liver-1	Kagoshima	53_liver	k i m o	kyus1238	nan	1224	LIVER	119	
+549	Kagoshima-54_drink-1	Kagoshima	54_drink	n o ɴ	kyus1238	nan	1401	DRINK	120	
+550	Kagoshima-55_eat-1	Kagoshima	55_eat	k uː	kyus1238	nan	1336	EAT	123	
+551	Kagoshima-56_bite-1	Kagoshima	56_bite	k a ɴ ts u	kyus1238	nan	1403	BITE	128	
+552	Kagoshima-57_see-1	Kagoshima	57_see	m i	kyus1238	nan	1409	SEE	130	
+553	Kagoshima-58_hear-1	Kagoshima	58_hear	k iː	kyus1238	nan	1408	HEAR	132	
+555	Kagoshima-5_that-1	Kagoshima	5_that	a iː	kyus1238	nan	78	THAT	15	
+556	Kagoshima-60_sleep-1	Kagoshima	60_sleep	n e i m u tɕː o i	kyus1238	nan	1585	SLEEP	136	
+557	Kagoshima-61_die-1	Kagoshima	61_die	s iː ɴ	kyus1238	nan	1494	DIE	138	
+558	Kagoshima-62_kill-1	Kagoshima	62_kill	u kː o r o s	kyus1238	nan	1417	KILL	139	
+559	Kagoshima-63_swim-1	Kagoshima	63_swim	o j o	kyus1238	nan	1439	SWIM	140	
+560	Kagoshima-64_fly-1	Kagoshima	64_fly	t o i	kyus1238	nan	1441	FLY (MOVE THROUGH AIR)	142	
+561	Kagoshima-65_walk-1	Kagoshima	65_walk	a j u ɴ	kyus1238	nan	1443	WALK	146	
+562	Kagoshima-66_come-1	Kagoshima	66_come	k u	kyus1238	nan	1446	COME	149	
+563	Kagoshima-67_lie-1	Kagoshima	67_lie	n e i tɕ o	kyus1238	nan	1411	LIE (REST)	150	
+564	Kagoshima-68_sit-1	Kagoshima	68_sit	s u w a iː tɕ o	kyus1238	nan	1416	SIT	153	
+565	Kagoshima-69_stand-1	Kagoshima	69_stand	t a tɕː o	kyus1238	nan	1442	STAND	156	
+566	Kagoshima-6_who-1	Kagoshima	6_who	d a iː	kyus1238	nan	1235	WHO	18	
+567	Kagoshima-70_give-1	Kagoshima	70_give	k ui r u	kyus1238	nan	1447	GIVE	160	
+568	Kagoshima-71_say-1	Kagoshima	71_say	j u i u	kyus1238	nan	1458	SAY	161	
+569	Kagoshima-72_sun-1	Kagoshima	72_sun	o t e ɴ t o s aː	kyus1238	nan	1343	SUN	166	
+570	Kagoshima-73_moon-1	Kagoshima	73_moon	o ts u sː aː	kyus1238	nan	1313	MOON	168	
+571	Kagoshima-74_star-1	Kagoshima	74_star	h o i ɕ	kyus1238	nan	1430	STAR	169	
+572	Kagoshima-75_water-1	Kagoshima	75_water	m iː	kyus1238	nan	948	WATER	170	
+574	Kagoshima-77_stone-1	Kagoshima	77_stone	iː ɕ	kyus1238	nan	857	STONE	173	
+575	Kagoshima-78_sand-1	Kagoshima	78_sand	z ui n a	kyus1238	nan	671	SAND	175	
+576	Kagoshima-79_earth-1	Kagoshima	79_earth	d o r o	kyus1238	nan	1228	EARTH (SOIL)	177	
+577	Kagoshima-7_what-1	Kagoshima	7_what	n a iː	kyus1238	nan	1236	WHAT	20	
+578	Kagoshima-80_cloud-1	Kagoshima	80_cloud	k u m o	kyus1238	nan	1489	CLOUD	180	
+579	Kagoshima-81_smoke-1	Kagoshima	81_smoke	k e i m ui	kyus1238	nan	778	SMOKE (EXHAUST)	182	
+580	Kagoshima-82_fire-1	Kagoshima	82_fire	h i	kyus1238	nan	221	FIRE	183	
+581	Kagoshima-83_ash-1	Kagoshima	83_ash	h e i	kyus1238	nan	646	ASH	185	
+582	Kagoshima-84_burn-1	Kagoshima	84_burn	m o i j u	kyus1238	nan	2102	BURN	186	
+583	Kagoshima-85_pathroad-1	Kagoshima	85_pathroad	m iː	kyus1238	nan	667	ROAD	187	
+584	Kagoshima-86_mountain-1	Kagoshima	86_mountain	j a m a	kyus1238	nan	639	MOUNTAIN	188	
+585	Kagoshima-87_red-1	Kagoshima	87_red	a i k e	kyus1238	nan	156	RED	190	
+586	Kagoshima-88_green-1	Kagoshima	88_green	a o	kyus1238	nan	1425	GREEN	192	
+587	Kagoshima-89_yellow-1	Kagoshima	89_yellow	k iː	kyus1238	nan	1424	YELLOW	193	
+588	Kagoshima-8_not-1	Kagoshima	8_not	n a k a	kyus1238	nan	1240	NOT	22	
+589	Kagoshima-90_white-1	Kagoshima	90_white	s i r e	kyus1238	nan	1335	WHITE	194	
+590	Kagoshima-91_black-1	Kagoshima	91_black	k u r e	kyus1238	nan	163	BLACK	195	
+591	Kagoshima-92_night-1	Kagoshima	92_night	b a i ɴ	kyus1238	nan	1233	NIGHT	197	
+592	Kagoshima-93_hotwarm-1	Kagoshima	93_hotwarm	a tɕ i	kyus1238	nan	2272	HOT OR WARM	199	
+593	Kagoshima-94_cold-1	Kagoshima	94_cold	s a m i	kyus1238	nan	1287	COLD	203	
+594	Kagoshima-95_full-1	Kagoshima	95_full	pː e	kyus1238	nan	1429	FULL	204	
+595	Kagoshima-96_new-1	Kagoshima	96_new	n i k e	kyus1238	nan	1231	NEW	210	
+596	Kagoshima-97_good-1	Kagoshima	97_good	j o k a	kyus1238	nan	1035	GOOD	215	
+597	Kagoshima-98_round-1	Kagoshima	98_round	m a ɴ m a i r i	kyus1238	nan	1395	ROUND	216	
+598	Kagoshima-99_dry-1	Kagoshima	99_dry	k a e t a	kyus1238	nan	1398	DRY	218	
+599	Kagoshima-9_all-1	Kagoshima	9_all	s u kː a i	kyus1238	nan	98	ALL	25	
+600	Kochi-100_name-1	Kochi	100_name	n a	shik1243	nan	1405	NAME	221	
+610	Kochi-10_many-1	Kochi	10_many	j o k e	shik1243	nan	1198	MANY	32	
+621	Kochi-11_one-1	Kochi	11_one	h i t o t u	shik1243	nan	1493	ONE	35	
+632	Kochi-12_two-1	Kochi	12_two	h u t aː t u	shik1243	nan	1498	TWO	36	
+643	Kochi-13_big-1	Kochi	13_big	h u t o i	shik1243	nan	1202	BIG	39	
+654	Kochi-14_small-1	Kochi	14_small	h o s o i	shik1243	nan	1246	SMALL	44	
+665	Kochi-15_long-1	Kochi	15_long	n a g a i	shik1243	nan	1203	LONG	48	
+676	Kochi-16_woman-1	Kochi	16_woman	o n a g o	shik1243	nan	962	WOMAN	49	
+687	Kochi-17_man-1	Kochi	17_man	o t o k o	shik1243	nan	1554	MAN	53	
+698	Kochi-18_person-1	Kochi	18_person	h i t o	shik1243	nan	683	PERSON	56	
+709	Kochi-19_fish-1	Kochi	19_fish	u o	shik1243	nan	227	FISH	59	
+710	Kochi-1_i-1	Kochi	1_i	a s i	shik1243	nan	1209	I	2	
+712	Kochi-20_bird-1	Kochi	20_bird	t o r i	shik1243	nan	937	BIRD	60	
+713	Kochi-21_dog-1	Kochi	21_dog	i n u	shik1243	nan	2009	DOG	62	
+714	Kochi-22_louse-1	Kochi	22_louse	s i r a m i	shik1243	nan	1392	LOUSE	63	
+715	Kochi-23_tree-1	Kochi	23_tree	k i	shik1243	nan	906	TREE	64	
+716	Kochi-24_barkoftree-1	Kochi	24_barkoftree	k a w a	shik1243	nan	1204	BARK	65	
+717	Kochi-25_leaf-1	Kochi	25_leaf	h a	shik1243	nan	628	LEAF	67	
+718	Kochi-26_root-1	Kochi	26_root	n e	shik1243	nan	670	ROOT	68	
+719	Kochi-27_seed-1	Kochi	27_seed	t a n e	shik1243	nan	714	SEED	70	
+720	Kochi-28_blood-1	Kochi	28_blood	t i	shik1243	nan	946	BLOOD	71	
+722	Kochi-2_thou-1	Kochi	2_thou	o ɴ s i	shik1243	nan	1215	THOU	7	
+723	Kochi-30_skin-1	Kochi	30_skin	k a w a	shik1243	nan	763	SKIN	75	
+724	Kochi-31_bone-1	Kochi	31_bone	h o n e	shik1243	nan	1394	BONE	76	
+725	Kochi-32_greasefat-1	Kochi	32_greasefat	a b u r a	shik1243	nan	323	FAT (ORGANIC SUBSTANCE)	78	
+726	Kochi-33_egg-1	Kochi	33_egg	t a m a g o	shik1243	nan	744	EGG	80	
+727	Kochi-34_horn-1	Kochi	34_horn	t u n o	shik1243	nan	1393	HORN (ANATOMY)	83	
+728	Kochi-35_tail-1	Kochi	35_tail	o	shik1243	nan	1220	TAIL	84	
+729	Kochi-36_feather-1	Kochi	36_feather	h a n e	shik1243	nan	1201	FEATHER	87	
+730	Kochi-37_hair-1	Kochi	37_hair	k e	shik1243	nan	1040	HAIR	89	
+731	Kochi-38_head-1	Kochi	38_head	a t a m a	shik1243	nan	1256	HEAD	91	
+732	Kochi-39_ear-1	Kochi	39_ear	m i m i	shik1243	nan	1247	EAR	95	
+733	Kochi-3_we-1	Kochi	3_we	a s i r aː	shik1243	nan	1212	WE	12	
+734	Kochi-40_eye-1	Kochi	40_eye	m e	shik1243	nan	1248	EYE	96	
+735	Kochi-41_nose-1	Kochi	41_nose	h a n a	shik1243	nan	1221	NOSE	98	
+736	Kochi-42_mouth-1	Kochi	42_mouth	k u t i	shik1243	nan	674	MOUTH	99	
+737	Kochi-43_tooth-1	Kochi	43_tooth	h a	shik1243	nan	1380	TOOTH	101	
+738	Kochi-44_tongue-1	Kochi	44_tongue	s i t a	shik1243	nan	1205	TONGUE	-102	
+739	Kochi-45_claw-1	Kochi	45_claw	t u m e	shik1243	nan	72	CLAW	103	
+740	Kochi-46_foot-1	Kochi	46_foot	a s i	shik1243	nan	1301	FOOT	104	
+741	Kochi-47_knee-1	Kochi	47_knee	s u n e	shik1243	nan	1371	KNEE	108	
+742	Kochi-48_hand-1	Kochi	48_hand	t e	shik1243	nan	1277	HAND	110	
+743	Kochi-49_belly-1	Kochi	49_belly	h a r a	shik1243	nan	1251	BELLY	111	
+744	Kochi-4_this-1	Kochi	4_this	k o r e	shik1243	nan	1214	THIS	14	
+745	Kochi-50_neck-1	Kochi	50_neck	k u b i	shik1243	nan	1333	NECK	114	
+746	Kochi-51_breast-1	Kochi	51_breast	m u n e	shik1243	nan	1402	BREAST	116	
+747	Kochi-52_heart-1	Kochi	52_heart	k i m o	shik1243	nan	1223	HEART	117	
+748	Kochi-53_liver-1	Kochi	53_liver	k i m o	shik1243	nan	1224	LIVER	119	
+749	Kochi-54_drink-1	Kochi	54_drink	n o m u	shik1243	nan	1401	DRINK	120	
+750	Kochi-55_eat-1	Kochi	55_eat	t a b e r u	shik1243	nan	1336	EAT	122	
+751	Kochi-56_bite-1	Kochi	56_bite	k ui t u k u	shik1243	nan	1403	BITE	126	
+752	Kochi-57_see-1	Kochi	57_see	m i r u	shik1243	nan	1409	SEE	130	
+753	Kochi-58_hear-1	Kochi	58_hear	k i k u	shik1243	nan	1408	HEAR	132	
+755	Kochi-5_that-1	Kochi	5_that	a r e	shik1243	nan	78	THAT	15	
+756	Kochi-60_sleep-1	Kochi	60_sleep	n e r u	shik1243	nan	1585	SLEEP	-136	
+757	Kochi-61_die-1	Kochi	61_die	s i n u r u	shik1243	nan	1494	DIE	138	
+758	Kochi-62_kill-1	Kochi	62_kill	k o r o s u	shik1243	nan	1417	KILL	139	
+759	Kochi-63_swim-1	Kochi	63_swim	o j o g u	shik1243	nan	1439	SWIM	140	
+760	Kochi-64_fly-1	Kochi	64_fly	t o b u	shik1243	nan	1441	FLY (MOVE THROUGH AIR)	142	
+761	Kochi-65_walk-1	Kochi	65_walk	a r u k u	shik1243	nan	1443	WALK	146	
+762	Kochi-66_come-1	Kochi	66_come	k u r u	shik1243	nan	1446	COME	149	
+763	Kochi-67_lie-1	Kochi	67_lie	n e j uː	shik1243	nan	1411	LIE (REST)	150	
+764	Kochi-68_sit-1	Kochi	68_sit	s u w a r u	shik1243	nan	1416	SIT	153	
+765	Kochi-69_stand-1	Kochi	69_stand	t a t e tː j uː	shik1243	nan	1442	STAND	156	
+766	Kochi-6_who-1	Kochi	6_who	d a r e	shik1243	nan	1235	WHO	18	
+767	Kochi-70_give-1	Kochi	70_give	j a r u	shik1243	nan	1447	GIVE	159	
+768	Kochi-71_say-1	Kochi	71_say	j uː	shik1243	nan	1458	SAY	161	
+769	Kochi-72_sun-1	Kochi	72_sun	o h i s a m a	shik1243	nan	1343	SUN	164	
+770	Kochi-73_moon-1	Kochi	73_moon	t u k i	shik1243	nan	1313	MOON	168	
+771	Kochi-74_star-1	Kochi	74_star	h o s i	shik1243	nan	1430	STAR	169	
+772	Kochi-75_water-1	Kochi	75_water	m i d u	shik1243	nan	948	WATER	170	
+774	Kochi-77_stone-1	Kochi	77_stone	i s i	shik1243	nan	857	STONE	173	
+775	Kochi-78_sand-1	Kochi	78_sand	s u n a	shik1243	nan	671	SAND	175	
+776	Kochi-79_earth-1	Kochi	79_earth	t u t i	shik1243	nan	1228	EARTH (SOIL)	179	
+777	Kochi-7_what-1	Kochi	7_what	n a n i	shik1243	nan	1236	WHAT	20	
+778	Kochi-80_cloud-1	Kochi	80_cloud	k u m o	shik1243	nan	1489	CLOUD	180	
+779	Kochi-81_smoke-1	Kochi	81_smoke	k e m u r i	shik1243	nan	778	SMOKE (EXHAUST)	182	
+780	Kochi-82_fire-1	Kochi	82_fire	h i	shik1243	nan	221	FIRE	183	
+781	Kochi-83_ash-1	Kochi	83_ash	h a i	shik1243	nan	646	ASH	185	
+782	Kochi-84_burn-1	Kochi	84_burn	m o e r u	shik1243	nan	2102	BURN	186	
+783	Kochi-85_pathroad-1	Kochi	85_pathroad	m i t i	shik1243	nan	667	ROAD	187	
+784	Kochi-86_mountain-1	Kochi	86_mountain	j a m a	shik1243	nan	639	MOUNTAIN	188	
+785	Kochi-87_red-1	Kochi	87_red	a k a i	shik1243	nan	156	RED	190	
+786	Kochi-88_green-1	Kochi	88_green	a o i	shik1243	nan	1425	GREEN	192	
+787	Kochi-89_yellow-1	Kochi	89_yellow	k iː r o i	shik1243	nan	1424	YELLOW	193	
+788	Kochi-8_not-1	Kochi	8_not	n a i	shik1243	nan	1240	NOT	22	
+789	Kochi-90_white-1	Kochi	90_white	s i r o i	shik1243	nan	1335	WHITE	194	
+790	Kochi-91_black-1	Kochi	91_black	k u r o i	shik1243	nan	163	BLACK	195	
+791	Kochi-92_night-1	Kochi	92_night	j o r u	shik1243	nan	1233	NIGHT	196	
+792	Kochi-93_hotwarm-1	Kochi	93_hotwarm	a t ui	shik1243	nan	2272	HOT OR WARM	199	
+793	Kochi-94_cold-1	Kochi	94_cold	h i j a i	shik1243	nan	1287	COLD	201	
+794	Kochi-95_full-1	Kochi	95_full	i pː a i	shik1243	nan	1429	FULL	204	
+795	Kochi-96_new-1	Kochi	96_new	s i ɴ k i n a	shik1243	nan	1231	NEW	209	
+796	Kochi-97_good-1	Kochi	97_good	eː	shik1243	nan	1035	GOOD	211	
+797	Kochi-98_round-1	Kochi	98_round	m a r ui	shik1243	nan	1395	ROUND	216	
+798	Kochi-99_dry-1	Kochi	99_dry	k a w a i t a	shik1243	nan	1398	DRY	218	
+799	Kochi-9_all-1	Kochi	9_all	m i ɴ n a	shik1243	nan	98	ALL	24	
+800	Kyoto-100_name-1	Kyoto	100_name	n aː	kyot1238	nan	1405	NAME	221	
+810	Kyoto-10_many-1	Kyoto	10_many	j oː k e	kyot1238	nan	1198	MANY	32	
+821	Kyoto-11_one-1	Kyoto	11_one	h i t o ts u	kyot1238	nan	1493	ONE	35	
+832	Kyoto-12_two-1	Kyoto	12_two	h u t a ts u	kyot1238	nan	1498	TWO	36	
+843	Kyoto-13_big-1	Kyoto	13_big	oː k iː	kyot1238	nan	1202	BIG	38	
+854	Kyoto-14_small-1	Kyoto	14_small	tɕ iː s a i	kyot1238	nan	1246	SMALL	43	
+865	Kyoto-15_long-1	Kyoto	15_long	n a ŋ a i	kyot1238	nan	1203	LONG	48	
+876	Kyoto-16_woman-1	Kyoto	16_woman	o n a ŋ o	kyot1238	nan	962	WOMAN	49	
+887	Kyoto-17_man-1	Kyoto	17_man	o t o k o	kyot1238	nan	1554	MAN	53	
+898	Kyoto-18_person-1	Kyoto	18_person	h i t o	kyot1238	nan	683	PERSON	56	
+908	Kyoto-19_fish-1	Kyoto	19_fish	s a k a n a	kyot1238	nan	227	FISH	58	
+909	Kyoto-1_i-1	Kyoto	1_i	w a t e	kyot1238	nan	1209	I	2	
+911	Kyoto-20_bird-1	Kyoto	20_bird	t o r i	kyot1238	nan	937	BIRD	60	
+912	Kyoto-21_dog-1	Kyoto	21_dog	i n u	kyot1238	nan	2009	DOG	62	
+913	Kyoto-22_louse-1	Kyoto	22_louse	s i r a m i	kyot1238	nan	1392	LOUSE	63	
+914	Kyoto-23_tree-1	Kyoto	23_tree	k iː	kyot1238	nan	906	TREE	64	
+915	Kyoto-24_barkoftree-1	Kyoto	24_barkoftree	k a w a	kyot1238	nan	1204	BARK	65	
+916	Kyoto-25_leaf-1	Kyoto	25_leaf	h aː	kyot1238	nan	628	LEAF	67	
+917	Kyoto-26_root-1	Kyoto	26_root	n eː	kyot1238	nan	670	ROOT	68	
+918	Kyoto-27_seed-1	Kyoto	27_seed	t a n e	kyot1238	nan	714	SEED	70	
+919	Kyoto-28_blood-1	Kyoto	28_blood	tɕ iː	kyot1238	nan	946	BLOOD	71	
+921	Kyoto-2_thou-1	Kyoto	2_thou	a ɴ t a	kyot1238	nan	1215	THOU	5	
+922	Kyoto-30_skin-1	Kyoto	30_skin	k a w a	kyot1238	nan	763	SKIN	75	
+923	Kyoto-31_bone-1	Kyoto	31_bone	h o n e	kyot1238	nan	1394	BONE	76	
+924	Kyoto-32_greasefat-1	Kyoto	32_greasefat	a b u r a	kyot1238	nan	323	FAT (ORGANIC SUBSTANCE)	78	
+925	Kyoto-33_egg-1	Kyoto	33_egg	t a m a ŋ o	kyot1238	nan	744	EGG	80	
+926	Kyoto-34_horn-1	Kyoto	34_horn	ts u n o	kyot1238	nan	1393	HORN (ANATOMY)	83	
+927	Kyoto-35_tail-1	Kyoto	35_tail	oː	kyot1238	nan	1220	TAIL	84	
+928	Kyoto-36_feather-1	Kyoto	36_feather	h a n e	kyot1238	nan	1201	FEATHER	87	
+929	Kyoto-37_hair-1	Kyoto	37_hair	k eː	kyot1238	nan	1040	HAIR	89	
+930	Kyoto-38_head-1	Kyoto	38_head	a t a m a	kyot1238	nan	1256	HEAD	91	
+931	Kyoto-39_ear-1	Kyoto	39_ear	m i m i	kyot1238	nan	1247	EAR	95	
+932	Kyoto-3_we-1	Kyoto	3_we	w a t e r a	kyot1238	nan	1212	WE	12	
+933	Kyoto-40_eye-1	Kyoto	40_eye	m eː	kyot1238	nan	1248	EYE	96	
+934	Kyoto-41_nose-1	Kyoto	41_nose	h a n a	kyot1238	nan	1221	NOSE	98	
+935	Kyoto-42_mouth-1	Kyoto	42_mouth	k u tɕ i	kyot1238	nan	674	MOUTH	99	
+936	Kyoto-43_tooth-1	Kyoto	43_tooth	h aː	kyot1238	nan	1380	TOOTH	101	
+937	Kyoto-44_tongue-1	Kyoto	44_tongue	s i t a	kyot1238	nan	1205	TONGUE	-102	
+938	Kyoto-45_claw-1	Kyoto	45_claw	ts u m e	kyot1238	nan	72	CLAW	103	
+939	Kyoto-46_foot-1	Kyoto	46_foot	a s i	kyot1238	nan	1301	FOOT	104	
+940	Kyoto-47_knee-1	Kyoto	47_knee	h i z a	kyot1238	nan	1371	KNEE	107	
+941	Kyoto-48_hand-1	Kyoto	48_hand	t eː	kyot1238	nan	1277	HAND	110	
+942	Kyoto-49_belly-1	Kyoto	49_belly	h a r a	kyot1238	nan	1251	BELLY	111	
+943	Kyoto-4_this-1	Kyoto	4_this	k o r e	kyot1238	nan	1214	THIS	14	
+944	Kyoto-50_neck-1	Kyoto	50_neck	k u b i	kyot1238	nan	1333	NECK	114	
+945	Kyoto-51_breast-1	Kyoto	51_breast	m u n e	kyot1238	nan	1402	BREAST	116	
+946	Kyoto-52_heart-1	Kyoto	52_heart	s i ɴ z oː	kyot1238	nan	1223	HEART	118	
+947	Kyoto-53_liver-1	Kyoto	53_liver	k i m o	kyot1238	nan	1224	LIVER	119	
+948	Kyoto-54_drink-1	Kyoto	54_drink	n o m u	kyot1238	nan	1401	DRINK	120	
+949	Kyoto-55_eat-1	Kyoto	55_eat	t a b e r u	kyot1238	nan	1336	EAT	122	
+950	Kyoto-56_bite-1	Kyoto	56_bite	k a m i ts u k u	kyot1238	nan	1403	BITE	128	
+951	Kyoto-57_see-1	Kyoto	57_see	m i r u	kyot1238	nan	1409	SEE	130	
+952	Kyoto-58_hear-1	Kyoto	58_hear	k i k u	kyot1238	nan	1408	HEAR	132	
+954	Kyoto-5_that-1	Kyoto	5_that	a r e	kyot1238	nan	78	THAT	15	
+955	Kyoto-60_sleep-1	Kyoto	60_sleep	n e r u	kyot1238	nan	1585	SLEEP	-136	
+956	Kyoto-61_die-1	Kyoto	61_die	s i n u	kyot1238	nan	1494	DIE	138	
+957	Kyoto-62_kill-1	Kyoto	62_kill	k o r o s u	kyot1238	nan	1417	KILL	139	
+958	Kyoto-63_swim-1	Kyoto	63_swim	o j o ŋ u	kyot1238	nan	1439	SWIM	140	
+959	Kyoto-64_fly-1	Kyoto	64_fly	t o b u	kyot1238	nan	1441	FLY (MOVE THROUGH AIR)	142	
+960	Kyoto-65_walk-1	Kyoto	65_walk	a r u k u	kyot1238	nan	1443	WALK	146	
+961	Kyoto-66_come-1	Kyoto	66_come	k u r u	kyot1238	nan	1446	COME	149	
+962	Kyoto-67_lie-1	Kyoto	67_lie	n e t e r u	kyot1238	nan	1411	LIE (REST)	150	
+963	Kyoto-68_sit-1	Kyoto	68_sit	s u w a tː e r u	kyot1238	nan	1416	SIT	153	
+964	Kyoto-69_stand-1	Kyoto	69_stand	t a tː e r u	kyot1238	nan	1442	STAND	156	
+965	Kyoto-6_who-1	Kyoto	6_who	d a r e	kyot1238	nan	1235	WHO	18	
+966	Kyoto-70_give-1	Kyoto	70_give	a ŋ e r u	kyot1238	nan	1447	GIVE	158	
+967	Kyoto-71_say-1	Kyoto	71_say	j uː	kyot1238	nan	1458	SAY	161	
+968	Kyoto-72_sun-1	Kyoto	72_sun	o h i s a ɴ	kyot1238	nan	1343	SUN	164	
+969	Kyoto-73_moon-1	Kyoto	73_moon	ts u k i	kyot1238	nan	1313	MOON	168	
+970	Kyoto-74_star-1	Kyoto	74_star	h o s i	kyot1238	nan	1430	STAR	169	
+971	Kyoto-75_water-1	Kyoto	75_water	m i z u	kyot1238	nan	948	WATER	170	
+973	Kyoto-77_stone-1	Kyoto	77_stone	i s i	kyot1238	nan	857	STONE	173	
+974	Kyoto-78_sand-1	Kyoto	78_sand	s u n a	kyot1238	nan	671	SAND	175	
+975	Kyoto-79_earth-1	Kyoto	79_earth	ts u tɕ i	kyot1238	nan	1228	EARTH (SOIL)	179	
+976	Kyoto-7_what-1	Kyoto	7_what	n a n i	kyot1238	nan	1236	WHAT	20	
+977	Kyoto-80_cloud-1	Kyoto	80_cloud	k u m o	kyot1238	nan	1489	CLOUD	180	
+978	Kyoto-81_smoke-1	Kyoto	81_smoke	k e m u r i	kyot1238	nan	778	SMOKE (EXHAUST)	182	
+979	Kyoto-82_fire-1	Kyoto	82_fire	h iː	kyot1238	nan	221	FIRE	183	
+980	Kyoto-83_ash-1	Kyoto	83_ash	h a i	kyot1238	nan	646	ASH	185	
+981	Kyoto-84_burn-1	Kyoto	84_burn	m o e r u	kyot1238	nan	2102	BURN	186	
+982	Kyoto-85_pathroad-1	Kyoto	85_pathroad	m i tɕ i	kyot1238	nan	667	ROAD	187	
+983	Kyoto-86_mountain-1	Kyoto	86_mountain	j a m a	kyot1238	nan	639	MOUNTAIN	188	
+984	Kyoto-87_red-1	Kyoto	87_red	a k a i	kyot1238	nan	156	RED	190	
+985	Kyoto-88_green-1	Kyoto	88_green	a o i	kyot1238	nan	1425	GREEN	192	
+986	Kyoto-89_yellow-1	Kyoto	89_yellow	k iː r o i	kyot1238	nan	1424	YELLOW	193	
+987	Kyoto-8_not-1	Kyoto	8_not	n a i	kyot1238	nan	1240	NOT	22	
+988	Kyoto-90_white-1	Kyoto	90_white	s i r o i	kyot1238	nan	1335	WHITE	194	
+989	Kyoto-91_black-1	Kyoto	91_black	k u r o i	kyot1238	nan	163	BLACK	195	
+990	Kyoto-92_night-1	Kyoto	92_night	j o r u	kyot1238	nan	1233	NIGHT	196	
+991	Kyoto-93_hotwarm-1	Kyoto	93_hotwarm	a ts ui	kyot1238	nan	2272	HOT OR WARM	199	
+992	Kyoto-94_cold-1	Kyoto	94_cold	s a b ui	kyot1238	nan	1287	COLD	203	
+993	Kyoto-95_full-1	Kyoto	95_full	i pː a i	kyot1238	nan	1429	FULL	204	
+994	Kyoto-96_new-1	Kyoto	96_new	s a r a	kyot1238	nan	1231	NEW	208	
+995	Kyoto-97_good-1	Kyoto	97_good	eː	kyot1238	nan	1035	GOOD	211	
+996	Kyoto-98_round-1	Kyoto	98_round	m a r ui	kyot1238	nan	1395	ROUND	216	
+997	Kyoto-99_dry-1	Kyoto	99_dry	k a w a i t a	kyot1238	nan	1398	DRY	218	
+998	Kyoto-9_all-1	Kyoto	9_all	m i ɴ n a	kyot1238	nan	98	ALL	24	
+999	Miyako-100_name-1	Miyako	100_name	n aː	miya1259	mvi	1405	NAME	221	
+1009	Miyako-10_many-1	Miyako	10_many	u k aː ʃ a	miya1259	mvi	1198	MANY	34	
+1020	Miyako-11_one-1	Miyako	11_one	p ɨ t iː s ɨ	miya1259	mvi	1493	ONE	35	
+1029	Miyako-12_two-1	Miyako	12_two	f u t aː ts ɨ	miya1259	mvi	1498	TWO	36	
+1038	Miyako-13_big-1	Miyako	13_big	u k u	miya1259	mvi	1202	BIG	38	
+1048	Miyako-14_small-1	Miyako	14_small	i m i	miya1259	mvi	1246	SMALL	47	
+1058	Miyako-15_long-1	Miyako	15_long	n a g a	miya1259	mvi	1203	LONG	48	
+1069	Miyako-16_woman-1	Miyako	16_woman	m i d u m	miya1259	mvi	962	WOMAN	51	
+1079	Miyako-17_man-1	Miyako	17_man	b ɨ k i d u m	miya1259	mvi	1554	MAN	54	
+1088	Miyako-18_person-1	Miyako	18_person	p ɨ t u	miya1259	mvi	683	PERSON	56	
+1099	Miyako-19_fish-1	Miyako	19_fish	i z o	miya1259	mvi	227	FISH	59	
+1100	Miyako-1_i-1	Miyako	1_i	b a n	miya1259	mvi	1209	I	1	
+1102	Miyako-20_bird-1	Miyako	20_bird	t ui	miya1259	mvi	937	BIRD	60	
+1103	Miyako-21_dog-1	Miyako	21_dog	i n	miya1259	mvi	2009	DOG	62	
+1104	Miyako-22_louse-1	Miyako	22_louse	sː a m	miya1259	mvi	1392	LOUSE	63	
+1105	Miyako-23_tree-1	Miyako	23_tree	k iː	miya1259	mvi	906	TREE	64	
+1106	Miyako-24_barkoftree-1	Miyako	24_barkoftree	k aː	miya1259	mvi	1204	BARK	65	
+1107	Miyako-25_leaf-1	Miyako	25_leaf	p aː	miya1259	mvi	628	LEAF	67	
+1108	Miyako-26_root-1	Miyako	26_root	n iː	miya1259	mvi	670	ROOT	68	
+1109	Miyako-27_seed-1	Miyako	27_seed	t a n i	miya1259	mvi	714	SEED	70	
+1110	Miyako-28_blood-1	Miyako	28_blood	a k a ts ɨ	miya1259	mvi	946	BLOOD	71	
+1112	Miyako-2_thou-1	Miyako	2_thou	vː a	miya1259	mvi	1215	THOU	10	
+1113	Miyako-30_skin-1	Miyako	30_skin	k aː	miya1259	mvi	763	SKIN	75	
+1114	Miyako-31_bone-1	Miyako	31_bone	p u n i	miya1259	mvi	1394	BONE	76	
+1115	Miyako-32_greasefat-1	Miyako	32_greasefat	a vː a	miya1259	mvi	323	FAT (ORGANIC SUBSTANCE)	78	
+1116	Miyako-33_egg-1	Miyako	33_egg	t u n u k a	miya1259	mvi	744	EGG	82	
+1117	Miyako-34_horn-1	Miyako	34_horn	ts ɨ n u	miya1259	mvi	1393	HORN (ANATOMY)	83	
+1118	Miyako-35_tail-1	Miyako	35_tail	dz uː	miya1259	mvi	1220	TAIL	85	
+1119	Miyako-36_feather-1	Miyako	36_feather	p a n i	miya1259	mvi	1201	FEATHER	87	
+1120	Miyako-37_hair-1	Miyako	37_hair	pˢ ɨ g i	miya1259	mvi	1040	HAIR	88	
+1121	Miyako-38_head-1	Miyako	38_head	k a n a m a ɭ	miya1259	mvi	1256	HEAD	94	
+1122	Miyako-39_ear-1	Miyako	39_ear	m i m	miya1259	mvi	1247	EAR	95	
+1123	Miyako-3_we-1	Miyako	3_we	b a n t iː	miya1259	mvi	1212	WE	11	
+1124	Miyako-40_eye-1	Miyako	40_eye	m iː	miya1259	mvi	1248	EYE	96	
+1125	Miyako-41_nose-1	Miyako	41_nose	p a n a	miya1259	mvi	1221	NOSE	98	
+1126	Miyako-42_mouth-1	Miyako	42_mouth	f u ts ɨ	miya1259	mvi	674	MOUTH	99	
+1127	Miyako-43_tooth-1	Miyako	43_tooth	p aː	miya1259	mvi	1380	TOOTH	101	
+1128	Miyako-44_tongue-1	Miyako	44_tongue	s ɨ t a	miya1259	mvi	1205	TONGUE	-102	
+1129	Miyako-45_claw-1	Miyako	45_claw	ts ɨ m i	miya1259	mvi	72	CLAW	103	
+1130	Miyako-46_foot-1	Miyako	46_foot	p ɨ s a	miya1259	mvi	1301	FOOT	106	
+1131	Miyako-47_knee-1	Miyako	47_knee	ts ɨ g u s ɨ	miya1259	mvi	1371	KNEE	109	
+1132	Miyako-48_hand-1	Miyako	48_hand	t iː	miya1259	mvi	1277	HAND	110	
+1133	Miyako-49_belly-1	Miyako	49_belly	b a t a	miya1259	mvi	1251	BELLY	113	
+1134	Miyako-4_this-1	Miyako	4_this	k u r i	miya1259	mvi	1214	THIS	14	
+1135	Miyako-50_neck-1	Miyako	50_neck	n u d u f u dz ɨ	miya1259	mvi	1333	NECK	115	
+1136	Miyako-51_breast-1	Miyako	51_breast	mː i f u ts ɨ	miya1259	mvi	1402	BREAST	116	
+1137	Miyako-53_liver-1	Miyako	53_liver	ts ɨ m u	miya1259	mvi	1224	LIVER	119	
+1138	Miyako-54_drink-1	Miyako	54_drink	n u m	miya1259	mvi	1401	DRINK	120	
+1139	Miyako-55_eat-1	Miyako	55_eat	f a u	miya1259	mvi	1336	EAT	125	
+1140	Miyako-56_bite-1	Miyako	56_bite	f uː	miya1259	mvi	1403	BITE	127	
+1141	Miyako-57_see-1	Miyako	57_see	m iː ɭ	miya1259	mvi	1409	SEE	130	
+1142	Miyako-58_hear-1	Miyako	58_hear	ts ɨ f u	miya1259	mvi	1408	HEAR	132	
+1144	Miyako-5_that-1	Miyako	5_that	k a r i	miya1259	mvi	78	THAT	16	
+1145	Miyako-60_sleep-1	Miyako	60_sleep	n i v	miya1259	mvi	1585	SLEEP	136	
+1146	Miyako-61_die-1	Miyako	61_die	s ɨ n	miya1259	mvi	1494	DIE	138	
+1147	Miyako-62_kill-1	Miyako	62_kill	k u r u s ɨ	miya1259	mvi	1417	KILL	139	
+1148	Miyako-63_swim-1	Miyako	63_swim	uː dz ɨ	miya1259	mvi	1439	SWIM	140	
+1149	Miyako-64_fly-1	Miyako	64_fly	m a u	miya1259	mvi	1441	FLY (MOVE THROUGH AIR)	144	
+1150	Miyako-65_walk-1	Miyako	65_walk	a ɭ ɨ f u	miya1259	mvi	1443	WALK	146	
+1151	Miyako-66_come-1	Miyako	66_come	f uː	miya1259	mvi	1446	COME	147	
+1152	Miyako-67_lie-1	Miyako	67_lie	j u k u t aː ɭ	miya1259	mvi	1411	LIE (REST)	152	
+1153	Miyako-68_sit-1	Miyako	68_sit	bˢ ɨː	miya1259	mvi	1416	SIT	154	
+1154	Miyako-69_stand-1	Miyako	69_stand	t a k iː	miya1259	mvi	1442	STAND	156	
+1155	Miyako-6_who-1	Miyako	6_who	t a r u	miya1259	mvi	1235	WHO	18	
+1156	Miyako-70_give-1	Miyako	70_give	f iː ɭ	miya1259	mvi	1447	GIVE	160	
+1157	Miyako-71_say-1	Miyako	71_say	a z ɨ	miya1259	mvi	1458	SAY	162	
+1158	Miyako-72_sun-1	Miyako	72_sun	t i d a	miya1259	mvi	1343	SUN	167	
+1159	Miyako-73_moon-1	Miyako	73_moon	ts ɨ ts ɨ	miya1259	mvi	1313	MOON	168	
+1160	Miyako-74_star-1	Miyako	74_star	p u s ɨ	miya1259	mvi	1430	STAR	169	
+1161	Miyako-75_water-1	Miyako	75_water	m i dz ɨ	miya1259	mvi	948	WATER	170	
+1163	Miyako-77_stone-1	Miyako	77_stone	i s ɨ	miya1259	mvi	857	STONE	173	
+1164	Miyako-78_sand-1	Miyako	78_sand	m n a g u	miya1259	mvi	671	SAND	176	
+1165	Miyako-79_earth-1	Miyako	79_earth	m t a	miya1259	mvi	1228	EARTH (SOIL)	178	
+1166	Miyako-7_what-1	Miyako	7_what	n a u	miya1259	mvi	1236	WHAT	21	
+1167	Miyako-80_cloud-1	Miyako	80_cloud	f u m u	miya1259	mvi	1489	CLOUD	180	
+1168	Miyako-81_smoke-1	Miyako	81_smoke	k i β u s ɨ	miya1259	mvi	778	SMOKE (EXHAUST)	182	
+1169	Miyako-82_fire-1	Miyako	82_fire	u m a ts ɨ	miya1259	mvi	221	FIRE	184	
+1170	Miyako-83_ash-1	Miyako	83_ash	p a z ɨ	miya1259	mvi	646	ASH	185	
+1171	Miyako-84_burn-1	Miyako	84_burn	m ui ɭ	miya1259	mvi	2102	BURN	186	
+1172	Miyako-85_pathroad-1	Miyako	85_pathroad	m ts ɨ	miya1259	mvi	667	ROAD	187	
+1173	Miyako-86_mountain-1	Miyako	86_mountain	j a m a	miya1259	mvi	639	MOUNTAIN	188	
+1174	Miyako-87_red-1	Miyako	87_red	a k a	miya1259	mvi	156	RED	190	
+1175	Miyako-88_green-1	Miyako	88_green	a u	miya1259	mvi	1425	GREEN	192	
+1176	Miyako-89_yellow-1	Miyako	89_yellow	ts ɨː r u	miya1259	mvi	1424	YELLOW	193	
+1177	Miyako-8_not-1	Miyako	8_not	a r a ŋ	miya1259	mvi	1240	NOT	23	
+1178	Miyako-90_white-1	Miyako	90_white	sː u	miya1259	mvi	1335	WHITE	194	
+1179	Miyako-91_black-1	Miyako	91_black	f u	miya1259	mvi	163	BLACK	195	
+1180	Miyako-92_night-1	Miyako	92_night	j u ɭ	miya1259	mvi	1233	NIGHT	196	
+1181	Miyako-93_hotwarm-1	Miyako	93_hotwarm	a ts ɨ	miya1259	mvi	2272	HOT OR WARM	199	
+1182	Miyako-94_cold-1	Miyako	94_cold	p i ʃ i	miya1259	mvi	1287	COLD	201	
+1183	Miyako-95_full-1	Miyako	95_full	m t i	miya1259	mvi	1429	FULL	206	
+1184	Miyako-96_new-1	Miyako	96_new	m ɨː	miya1259	mvi	1231	NEW	210	
+1185	Miyako-97_good-1	Miyako	97_good	dz a u t uː	miya1259	mvi	1035	GOOD	214	
+1186	Miyako-98_round-1	Miyako	98_round	m aː k oː m aː k o	miya1259	mvi	1395	ROUND	216	
+1187	Miyako-99_dry-1	Miyako	99_dry	k aː r a ts ɨ	miya1259	mvi	1398	DRY	217	
+1188	Miyako-9_all-1	Miyako	9_all	mː n a	miya1259	mvi	98	ALL	24	
+1189	Oki-100_name-1	Oki	100_name	n a	okin1246	okn	1405	NAME	221	
+1199	Oki-10_many-1	Oki	10_many	e tː o	okin1246	okn	1198	MANY	27	
+1210	Oki-11_one-1	Oki	11_one	ɸ u t o ts u	okin1246	okn	1493	ONE	35	
+1221	Oki-12_two-1	Oki	12_two	ɸ u t aː ts u	okin1246	okn	1498	TWO	36	
+1232	Oki-13_big-1	Oki	13_big	ɸ u t eː	okin1246	okn	1202	BIG	39	
+1243	Oki-14_small-1	Oki	14_small	k o m eː	okin1246	okn	1246	SMALL	45	
+1254	Oki-15_long-1	Oki	15_long	n a ŋ eː	okin1246	okn	1203	LONG	48	
+1265	Oki-16_woman-1	Oki	16_woman	nʲ oː b a	okin1246	okn	962	WOMAN	50	
+1276	Oki-17_man-1	Oki	17_man	o t o k o	okin1246	okn	1554	MAN	53	
+1287	Oki-18_person-1	Oki	18_person	ɸ u t o	okin1246	okn	683	PERSON	56	
+1298	Oki-19_fish-1	Oki	19_fish	e o	okin1246	okn	227	FISH	59	
+1299	Oki-1_i-1	Oki	1_i	o r a	okin1246	okn	1209	I	3	
+1301	Oki-20_bird-1	Oki	20_bird	t o r i	okin1246	okn	937	BIRD	60	
+1302	Oki-21_dog-1	Oki	21_dog	e n o	okin1246	okn	2009	DOG	62	
+1303	Oki-22_louse-1	Oki	22_louse	s i r a m e	okin1246	okn	1392	LOUSE	63	
+1304	Oki-23_tree-1	Oki	23_tree	k i	okin1246	okn	906	TREE	64	
+1305	Oki-24_barkoftree-1	Oki	24_barkoftree	k a w a	okin1246	okn	1204	BARK	65	
+1306	Oki-25_leaf-1	Oki	25_leaf	ɸ a	okin1246	okn	628	LEAF	67	
+1307	Oki-26_root-1	Oki	26_root	n e	okin1246	okn	670	ROOT	68	
+1308	Oki-27_seed-1	Oki	27_seed	t a n e	okin1246	okn	714	SEED	70	
+1309	Oki-28_blood-1	Oki	28_blood	tɕ i	okin1246	okn	946	BLOOD	71	
+1311	Oki-2_thou-1	Oki	2_thou	o m a e	okin1246	okn	1215	THOU	8	
+1312	Oki-30_skin-1	Oki	30_skin	k a w a	okin1246	okn	763	SKIN	75	
+1313	Oki-31_bone-1	Oki	31_bone	ɸ o n e	okin1246	okn	1394	BONE	76	
+1314	Oki-32_greasefat-1	Oki	32_greasefat	a b u r a	okin1246	okn	323	FAT (ORGANIC SUBSTANCE)	78	
+1315	Oki-33_egg-1	Oki	33_egg	t a m a ŋ o	okin1246	okn	744	EGG	80	
+1316	Oki-34_horn-1	Oki	34_horn	ts u n o	okin1246	okn	1393	HORN (ANATOMY)	83	
+1317	Oki-35_tail-1	Oki	35_tail	o	okin1246	okn	1220	TAIL	84	
+1318	Oki-36_feather-1	Oki	36_feather	h a n e	okin1246	okn	1201	FEATHER	87	
+1319	Oki-37_hair-1	Oki	37_hair	k e	okin1246	okn	1040	HAIR	89	
+1320	Oki-38_head-1	Oki	38_head	a t a m a	okin1246	okn	1256	HEAD	91	
+1321	Oki-39_ear-1	Oki	39_ear	m i m i	okin1246	okn	1247	EAR	95	
+1322	Oki-3_we-1	Oki	3_we	o r a r a	okin1246	okn	1212	WE	13	
+1323	Oki-40_eye-1	Oki	40_eye	m e	okin1246	okn	1248	EYE	96	
+1324	Oki-41_nose-1	Oki	41_nose	h a n a	okin1246	okn	1221	NOSE	98	
+1325	Oki-42_mouth-1	Oki	42_mouth	k u tɕ i	okin1246	okn	674	MOUTH	99	
+1326	Oki-43_tooth-1	Oki	43_tooth	ɸ a	okin1246	okn	1380	TOOTH	101	
+1327	Oki-44_tongue-1	Oki	44_tongue	b e r o	okin1246	okn	1205	TONGUE	-102	
+1328	Oki-45_claw-1	Oki	45_claw	ts u m e	okin1246	okn	72	CLAW	103	
+1329	Oki-46_foot-1	Oki	46_foot	a s i	okin1246	okn	1301	FOOT	104	
+1330	Oki-47_knee-1	Oki	47_knee	ɸ u z a	okin1246	okn	1371	KNEE	-107	
+1331	Oki-48_hand-1	Oki	48_hand	t e	okin1246	okn	1277	HAND	110	
+1332	Oki-49_belly-1	Oki	49_belly	ɸ a r a	okin1246	okn	1251	BELLY	111	
+1333	Oki-4_this-1	Oki	4_this	k o r e	okin1246	okn	1214	THIS	14	
+1334	Oki-50_neck-1	Oki	50_neck	k u b i	okin1246	okn	1333	NECK	114	
+1335	Oki-51_breast-1	Oki	51_breast	ɴ n e	okin1246	okn	1402	BREAST	116	
+1336	Oki-52_heart-1	Oki	52_heart	s i ɴ z oː	okin1246	okn	1223	HEART	118	
+1337	Oki-54_drink-1	Oki	54_drink	n o m u	okin1246	okn	1401	DRINK	120	
+1338	Oki-55_eat-1	Oki	55_eat	k uː	okin1246	okn	1336	EAT	123	
+1339	Oki-56_bite-1	Oki	56_bite	k a m u	okin1246	okn	1403	BITE	128	
+1340	Oki-57_see-1	Oki	57_see	m i r u	okin1246	okn	1409	SEE	130	
+1341	Oki-58_hear-1	Oki	58_hear	k i k u	okin1246	okn	1408	HEAR	132	
+1343	Oki-5_that-1	Oki	5_that	a r e	okin1246	okn	78	THAT	15	
+1344	Oki-60_sleep-1	Oki	60_sleep	n e r u	okin1246	okn	1585	SLEEP	-136	
+1345	Oki-61_die-1	Oki	61_die	s i n o r u	okin1246	okn	1494	DIE	138	
+1346	Oki-62_kill-1	Oki	62_kill	k o r o s u	okin1246	okn	1417	KILL	139	
+1347	Oki-63_swim-1	Oki	63_swim	o j o ŋ u	okin1246	okn	1439	SWIM	140	
+1348	Oki-64_fly-1	Oki	64_fly	t o b u	okin1246	okn	1441	FLY (MOVE THROUGH AIR)	142	
+1349	Oki-65_walk-1	Oki	65_walk	a r u k u	okin1246	okn	1443	WALK	146	
+1350	Oki-66_come-1	Oki	66_come	k u r u	okin1246	okn	1446	COME	149	
+1351	Oki-67_lie-1	Oki	67_lie	n e tɕ oː r u	okin1246	okn	1411	LIE (REST)	150	
+1352	Oki-68_sit-1	Oki	68_sit	s u w a r u	okin1246	okn	1416	SIT	153	
+1353	Oki-69_stand-1	Oki	69_stand	t a tɕː o r u	okin1246	okn	1442	STAND	156	
+1354	Oki-6_who-1	Oki	6_who	d a r e	okin1246	okn	1235	WHO	18	
+1355	Oki-70_give-1	Oki	70_give	j a r u	okin1246	okn	1447	GIVE	159	
+1356	Oki-71_say-1	Oki	71_say	e o	okin1246	okn	1458	SAY	161	
+1357	Oki-72_sun-1	Oki	72_sun	o ɸ i s a ɴ	okin1246	okn	1343	SUN	164	
+1358	Oki-73_moon-1	Oki	73_moon	ts u k i	okin1246	okn	1313	MOON	168	
+1359	Oki-74_star-1	Oki	74_star	ɸ o s i	okin1246	okn	1430	STAR	169	
+1360	Oki-75_water-1	Oki	75_water	m e z u	okin1246	okn	948	WATER	170	
+1362	Oki-77_stone-1	Oki	77_stone	e s i	okin1246	okn	857	STONE	173	
+1363	Oki-78_sand-1	Oki	78_sand	s u n a	okin1246	okn	671	SAND	175	
+1364	Oki-79_earth-1	Oki	79_earth	tɕ i tɕ i	okin1246	okn	1228	EARTH (SOIL)	179	
+1365	Oki-7_what-1	Oki	7_what	n a n i	okin1246	okn	1236	WHAT	20	
+1366	Oki-80_cloud-1	Oki	80_cloud	k u m o	okin1246	okn	1489	CLOUD	180	
+1367	Oki-81_smoke-1	Oki	81_smoke	k e m o r i	okin1246	okn	778	SMOKE (EXHAUST)	182	
+1368	Oki-82_fire-1	Oki	82_fire	ɸ i	okin1246	okn	221	FIRE	183	
+1369	Oki-83_ash-1	Oki	83_ash	ɸ eː	okin1246	okn	646	ASH	185	
+1370	Oki-84_burn-1	Oki	84_burn	m o e r u	okin1246	okn	2102	BURN	186	
+1371	Oki-85_pathroad-1	Oki	85_pathroad	m e tɕ i	okin1246	okn	667	ROAD	187	
+1372	Oki-86_mountain-1	Oki	86_mountain	j a m a	okin1246	okn	639	MOUNTAIN	188	
+1373	Oki-87_red-1	Oki	87_red	a k eː	okin1246	okn	156	RED	190	
+1374	Oki-88_green-1	Oki	88_green	a w eː	okin1246	okn	1425	GREEN	192	
+1375	Oki-89_yellow-1	Oki	89_yellow	k iː r o	okin1246	okn	1424	YELLOW	193	
+1376	Oki-8_not-1	Oki	8_not	n eː	okin1246	okn	1240	NOT	22	
+1377	Oki-90_white-1	Oki	90_white	s i r eː	okin1246	okn	1335	WHITE	194	
+1378	Oki-91_black-1	Oki	91_black	k u r eː	okin1246	okn	163	BLACK	195	
+1379	Oki-92_night-1	Oki	92_night	j o r u	okin1246	okn	1233	NIGHT	196	
+1380	Oki-93_hotwarm-1	Oki	93_hotwarm	n o k iː	okin1246	okn	2272	HOT OR WARM	200	
+1381	Oki-94_cold-1	Oki	94_cold	s a b iː	okin1246	okn	1287	COLD	203	
+1382	Oki-95_full-1	Oki	95_full	e pː eː	okin1246	okn	1429	FULL	204	
+1383	Oki-96_new-1	Oki	96_new	a t a r a s i	okin1246	okn	1231	NEW	207	
+1384	Oki-97_good-1	Oki	97_good	eː	okin1246	okn	1035	GOOD	211	
+1385	Oki-98_round-1	Oki	98_round	m a r iː	okin1246	okn	1395	ROUND	216	
+1386	Oki-99_dry-1	Oki	99_dry	ɸ i t a	okin1246	okn	1398	DRY	220	
+1387	Oki-9_all-1	Oki	9_all	ɴː n a	okin1246	okn	98	ALL	24	
+1388	Sado-100_name-1	Sado	100_name	n a m a	sado1237	nan	1405	NAME	221	
+1398	Sado-10_many-1	Sado	10_many	i k a i	sado1237	nan	1198	MANY	33	
+1409	Sado-11_one-1	Sado	11_one	h i t o ts u	sado1237	nan	1493	ONE	35	
+1420	Sado-12_two-1	Sado	12_two	h u t a ts u	sado1237	nan	1498	TWO	36	
+1431	Sado-13_big-1	Sado	13_big	oː k iː	sado1237	nan	1202	BIG	38	
+1442	Sado-14_small-1	Sado	14_small	tɕ iː s a i	sado1237	nan	1246	SMALL	43	
+1453	Sado-15_long-1	Sado	15_long	n a g a i	sado1237	nan	1203	LONG	48	
+1464	Sado-16_woman-1	Sado	16_woman	o ɴ n a	sado1237	nan	962	WOMAN	49	
+1475	Sado-17_man-1	Sado	17_man	o t o k o	sado1237	nan	1554	MAN	53	
+1486	Sado-18_person-1	Sado	18_person	n i ɴ g e ɴ	sado1237	nan	683	PERSON	57	
+1497	Sado-19_fish-1	Sado	19_fish	u o	sado1237	nan	227	FISH	59	
+1498	Sado-1_i-1	Sado	1_i	o r e	sado1237	nan	1209	I	3	
+1500	Sado-20_bird-1	Sado	20_bird	t o r i	sado1237	nan	937	BIRD	60	
+1501	Sado-21_dog-1	Sado	21_dog	i n u	sado1237	nan	2009	DOG	62	
+1502	Sado-22_louse-1	Sado	22_louse	s i r a m i	sado1237	nan	1392	LOUSE	63	
+1503	Sado-23_tree-1	Sado	23_tree	k i	sado1237	nan	906	TREE	64	
+1504	Sado-24_barkoftree-1	Sado	24_barkoftree	k a w a	sado1237	nan	1204	BARK	65	
+1505	Sado-25_leaf-1	Sado	25_leaf	h a	sado1237	nan	628	LEAF	67	
+1506	Sado-26_root-1	Sado	26_root	n e	sado1237	nan	670	ROOT	68	
+1507	Sado-27_seed-1	Sado	27_seed	t a n e	sado1237	nan	714	SEED	70	
+1508	Sado-28_blood-1	Sado	28_blood	tɕ i	sado1237	nan	946	BLOOD	71	
+1510	Sado-2_thou-1	Sado	2_thou	ɴ n a	sado1237	nan	1215	THOU	6	
+1511	Sado-30_skin-1	Sado	30_skin	k a w a	sado1237	nan	763	SKIN	75	
+1512	Sado-31_bone-1	Sado	31_bone	h o n e	sado1237	nan	1394	BONE	76	
+1513	Sado-32_greasefat-1	Sado	32_greasefat	a b u r a n i k u	sado1237	nan	323	FAT (ORGANIC SUBSTANCE)	78	
+1514	Sado-33_egg-1	Sado	33_egg	t a m a g o	sado1237	nan	744	EGG	80	
+1515	Sado-34_horn-1	Sado	34_horn	ts u n o	sado1237	nan	1393	HORN (ANATOMY)	83	
+1516	Sado-35_tail-1	Sado	35_tail	o	sado1237	nan	1220	TAIL	84	
+1517	Sado-36_feather-1	Sado	36_feather	h a n e	sado1237	nan	1201	FEATHER	87	
+1518	Sado-37_hair-1	Sado	37_hair	k e	sado1237	nan	1040	HAIR	89	
+1519	Sado-38_head-1	Sado	38_head	a t a m a	sado1237	nan	1256	HEAD	91	
+1520	Sado-39_ear-1	Sado	39_ear	m i m i	sado1237	nan	1247	EAR	95	
+1521	Sado-3_we-1	Sado	3_we	o r a tɕ i	sado1237	nan	1212	WE	13	
+1522	Sado-40_eye-1	Sado	40_eye	m e	sado1237	nan	1248	EYE	96	
+1523	Sado-41_nose-1	Sado	41_nose	h a n a	sado1237	nan	1221	NOSE	98	
+1524	Sado-42_mouth-1	Sado	42_mouth	k u tɕ i	sado1237	nan	674	MOUTH	99	
+1525	Sado-43_tooth-1	Sado	43_tooth	h a	sado1237	nan	1380	TOOTH	101	
+1526	Sado-44_tongue-1	Sado	44_tongue	s i t a b e r a	sado1237	nan	1205	TONGUE	-102	
+1527	Sado-45_claw-1	Sado	45_claw	ts u m e	sado1237	nan	72	CLAW	103	
+1528	Sado-46_foot-1	Sado	46_foot	a s i	sado1237	nan	1301	FOOT	104	
+1529	Sado-47_knee-1	Sado	47_knee	h i z a	sado1237	nan	1371	KNEE	107	
+1530	Sado-48_hand-1	Sado	48_hand	t e	sado1237	nan	1277	HAND	110	
+1531	Sado-49_belly-1	Sado	49_belly	h a r a	sado1237	nan	1251	BELLY	111	
+1532	Sado-4_this-1	Sado	4_this	k o r e	sado1237	nan	1214	THIS	14	
+1533	Sado-50_neck-1	Sado	50_neck	k u b i	sado1237	nan	1333	NECK	114	
+1534	Sado-51_breast-1	Sado	51_breast	m u n e	sado1237	nan	1402	BREAST	116	
+1535	Sado-52_heart-1	Sado	52_heart	s i ɴ z oː	sado1237	nan	1223	HEART	118	
+1536	Sado-53_liver-1	Sado	53_liver	k i m o	sado1237	nan	1224	LIVER	119	
+1537	Sado-54_drink-1	Sado	54_drink	n o m u	sado1237	nan	1401	DRINK	120	
+1538	Sado-55_eat-1	Sado	55_eat	k uː	sado1237	nan	1336	EAT	123	
+1539	Sado-56_bite-1	Sado	56_bite	k a m i ts u k u	sado1237	nan	1403	BITE	128	
+1540	Sado-57_see-1	Sado	57_see	m i r u	sado1237	nan	1409	SEE	130	
+1541	Sado-58_hear-1	Sado	58_hear	k i k u	sado1237	nan	1408	HEAR	132	
+1543	Sado-5_that-1	Sado	5_that	a r e	sado1237	nan	78	THAT	15	
+1544	Sado-60_sleep-1	Sado	60_sleep	n e b u r u	sado1237	nan	1585	SLEEP	-136	
+1545	Sado-61_die-1	Sado	61_die	s i n u	sado1237	nan	1494	DIE	138	
+1546	Sado-62_kill-1	Sado	62_kill	k o r o s u	sado1237	nan	1417	KILL	139	
+1547	Sado-63_swim-1	Sado	63_swim	o j o g u	sado1237	nan	1439	SWIM	140	
+1548	Sado-64_fly-1	Sado	64_fly	t a tː o r u	sado1237	nan	1441	FLY (MOVE THROUGH AIR)	143	
+1549	Sado-65_walk-1	Sado	65_walk	a r u k u	sado1237	nan	1443	WALK	146	
+1550	Sado-66_come-1	Sado	66_come	k u r u	sado1237	nan	1446	COME	149	
+1551	Sado-67_lie-1	Sado	67_lie	n e t o r u	sado1237	nan	1411	LIE (REST)	150	
+1552	Sado-68_sit-1	Sado	68_sit	s u w a r u	sado1237	nan	1416	SIT	153	
+1553	Sado-69_stand-1	Sado	69_stand	t a tː o r u	sado1237	nan	1442	STAND	156	
+1554	Sado-6_who-1	Sado	6_who	d a r e	sado1237	nan	1235	WHO	18	
+1555	Sado-70_give-1	Sado	70_give	j a r u	sado1237	nan	1447	GIVE	159	
+1556	Sado-71_say-1	Sado	71_say	j uː	sado1237	nan	1458	SAY	161	
+1557	Sado-72_sun-1	Sado	72_sun	n i tː e ɴ s a m a	sado1237	nan	1343	SUN	165	
+1558	Sado-73_moon-1	Sado	73_moon	ts u k i	sado1237	nan	1313	MOON	168	
+1559	Sado-74_star-1	Sado	74_star	h o s i	sado1237	nan	1430	STAR	169	
+1560	Sado-75_water-1	Sado	75_water	m i z u	sado1237	nan	948	WATER	170	
+1562	Sado-77_stone-1	Sado	77_stone	i s i	sado1237	nan	857	STONE	173	
+1563	Sado-78_sand-1	Sado	78_sand	s u n a	sado1237	nan	671	SAND	175	
+1564	Sado-79_earth-1	Sado	79_earth	ts u tɕ i	sado1237	nan	1228	EARTH (SOIL)	179	
+1565	Sado-7_what-1	Sado	7_what	n a n i	sado1237	nan	1236	WHAT	20	
+1566	Sado-80_cloud-1	Sado	80_cloud	k u m o	sado1237	nan	1489	CLOUD	180	
+1567	Sado-81_smoke-1	Sado	81_smoke	k e m u r i	sado1237	nan	778	SMOKE (EXHAUST)	182	
+1568	Sado-82_fire-1	Sado	82_fire	h i	sado1237	nan	221	FIRE	183	
+1569	Sado-83_ash-1	Sado	83_ash	h a i	sado1237	nan	646	ASH	185	
+1570	Sado-84_burn-1	Sado	84_burn	m o e r u	sado1237	nan	2102	BURN	186	
+1571	Sado-85_pathroad-1	Sado	85_pathroad	m i tɕ i	sado1237	nan	667	ROAD	187	
+1572	Sado-86_mountain-1	Sado	86_mountain	j a m a	sado1237	nan	639	MOUNTAIN	188	
+1573	Sado-87_red-1	Sado	87_red	a k a i	sado1237	nan	156	RED	190	
+1574	Sado-88_green-1	Sado	88_green	a o i	sado1237	nan	1425	GREEN	192	
+1575	Sado-89_yellow-1	Sado	89_yellow	k iː r o i	sado1237	nan	1424	YELLOW	193	
+1576	Sado-8_not-1	Sado	8_not	n a i	sado1237	nan	1240	NOT	22	
+1577	Sado-90_white-1	Sado	90_white	s i r o i	sado1237	nan	1335	WHITE	194	
+1578	Sado-91_black-1	Sado	91_black	k u r o i	sado1237	nan	163	BLACK	195	
+1579	Sado-92_night-1	Sado	92_night	j o r u	sado1237	nan	1233	NIGHT	196	
+1580	Sado-93_hotwarm-1	Sado	93_hotwarm	a ts ui	sado1237	nan	2272	HOT OR WARM	199	
+1581	Sado-94_cold-1	Sado	94_cold	s a m ui	sado1237	nan	1287	COLD	203	
+1582	Sado-95_full-1	Sado	95_full	i pː a i	sado1237	nan	1429	FULL	204	
+1583	Sado-96_new-1	Sado	96_new	a t a r a s iː	sado1237	nan	1231	NEW	207	
+1584	Sado-97_good-1	Sado	97_good	eː	sado1237	nan	1035	GOOD	211	
+1585	Sado-98_round-1	Sado	98_round	m a r ui	sado1237	nan	1395	ROUND	216	
+1586	Sado-99_dry-1	Sado	99_dry	h o s e t a	sado1237	nan	1398	DRY	219	
+1587	Sado-9_all-1	Sado	9_all	m i ɴ n a	sado1237	nan	98	ALL	24	
+1588	Shuri-100_name-1	Shuri	100_name	n aː	shur1243	nan	1405	NAME	221	
+1598	Shuri-10_many-1	Shuri	10_many	ʔ u h oː k u	shur1243	nan	1198	MANY	29	
+1609	Shuri-11_one-1	Shuri	11_one	t iː ɕ i	shur1243	nan	1493	ONE	35	
+1620	Shuri-12_two-1	Shuri	12_two	t aː ɕ i	shur1243	nan	1498	TWO	36	
+1631	Shuri-13_big-1	Shuri	13_big	m a g i s a ɴ	shur1243	nan	1202	BIG	41	
+1641	Shuri-14_small-1	Shuri	14_small	g u m a s a ɴ	shur1243	nan	1246	SMALL	45	
+1651	Shuri-15_long-1	Shuri	15_long	n a g a s a ɴ	shur1243	nan	1203	LONG	48	
+1662	Shuri-16_woman-1	Shuri	16_woman	w i n a g u	shur1243	nan	962	WOMAN	49	
+1673	Shuri-17_man-1	Shuri	17_man	w i k i g a	shur1243	nan	1554	MAN	54	
+1684	Shuri-18_person-1	Shuri	18_person	tsː u	shur1243	nan	683	PERSON	56	
+1695	Shuri-19_fish-1	Shuri	19_fish	ʔ i j u	shur1243	nan	227	FISH	59	
+1696	Shuri-1_i-1	Shuri	1_i	w a ɴ	shur1243	nan	1209	I	1	
+1698	Shuri-20_bird-1	Shuri	20_bird	t ui	shur1243	nan	937	BIRD	60	
+1699	Shuri-21_dog-1	Shuri	21_dog	ʔ i ɴ	shur1243	nan	2009	DOG	62	
+1700	Shuri-22_louse-1	Shuri	22_louse	s i r a ɴ	shur1243	nan	1392	LOUSE	63	
+1701	Shuri-23_tree-1	Shuri	23_tree	k iː	shur1243	nan	906	TREE	64	
+1702	Shuri-24_barkoftree-1	Shuri	24_barkoftree	k aː	shur1243	nan	1204	BARK	65	
+1703	Shuri-25_leaf-1	Shuri	25_leaf	h w aː	shur1243	nan	628	LEAF	67	
+1704	Shuri-26_root-1	Shuri	26_root	n iː	shur1243	nan	670	ROOT	68	
+1705	Shuri-27_seed-1	Shuri	27_seed	s a n i	shur1243	nan	714	SEED	69	
+1706	Shuri-28_blood-1	Shuri	28_blood	tɕ iː	shur1243	nan	946	BLOOD	71	
+1708	Shuri-2_thou-1	Shuri	2_thou	ʔʲ aː	shur1243	nan	1215	THOU	10	
+1709	Shuri-30_skin-1	Shuri	30_skin	k aː	shur1243	nan	763	SKIN	75	
+1710	Shuri-31_bone-1	Shuri	31_bone	h u n i	shur1243	nan	1394	BONE	76	
+1711	Shuri-32_greasefat-1	Shuri	32_greasefat	ʔ a ɴ d a dʑ i s i	shur1243	nan	323	FAT (ORGANIC SUBSTANCE)	77	
+1712	Shuri-33_egg-1	Shuri	33_egg	k uː g a	shur1243	nan	744	EGG	81	
+1713	Shuri-34_horn-1	Shuri	34_horn	ɕ i n u	shur1243	nan	1393	HORN (ANATOMY)	83	
+1714	Shuri-35_tail-1	Shuri	35_tail	z uː	shur1243	nan	1220	TAIL	85	
+1715	Shuri-36_feather-1	Shuri	36_feather	h a n i g iː	shur1243	nan	1201	FEATHER	87	
+1716	Shuri-37_hair-1	Shuri	37_hair	k iː	shur1243	nan	1040	HAIR	89	
+1717	Shuri-38_head-1	Shuri	38_head	ɕ i b u r u	shur1243	nan	1256	HEAD	90	
+1718	Shuri-39_ear-1	Shuri	39_ear	m i m i	shur1243	nan	1247	EAR	95	
+1719	Shuri-3_we-1	Shuri	3_we	w a tː aː	shur1243	nan	1212	WE	11	
+1720	Shuri-40_eye-1	Shuri	40_eye	m iː	shur1243	nan	1248	EYE	96	
+1721	Shuri-41_nose-1	Shuri	41_nose	h a n a	shur1243	nan	1221	NOSE	98	
+1722	Shuri-42_mouth-1	Shuri	42_mouth	k u tɕ i	shur1243	nan	674	MOUTH	99	
+1723	Shuri-43_tooth-1	Shuri	43_tooth	h aː	shur1243	nan	1380	TOOTH	101	
+1724	Shuri-44_tongue-1	Shuri	44_tongue	ʃ i b a	shur1243	nan	1205	TONGUE	-102	
+1725	Shuri-45_claw-1	Shuri	45_claw	ɕ i m i	shur1243	nan	72	CLAW	103	
+1726	Shuri-46_foot-1	Shuri	46_foot	h w i ɕ a	shur1243	nan	1301	FOOT	106	
+1727	Shuri-47_knee-1	Shuri	47_knee	tɕ i ɴ s i	shur1243	nan	1371	KNEE	109	
+1728	Shuri-48_hand-1	Shuri	48_hand	t iː	shur1243	nan	1277	HAND	110	
+1729	Shuri-49_belly-1	Shuri	49_belly	w a t a	shur1243	nan	1251	BELLY	113	
+1730	Shuri-4_this-1	Shuri	4_this	k u r i	shur1243	nan	1214	THIS	14	
+1731	Shuri-50_neck-1	Shuri	50_neck	k u b i	shur1243	nan	1333	NECK	114	
+1732	Shuri-51_breast-1	Shuri	51_breast	ɴ n i	shur1243	nan	1402	BREAST	116	
+1733	Shuri-52_heart-1	Shuri	52_heart	tɕ i m u	shur1243	nan	1223	HEART	117	
+1734	Shuri-53_liver-1	Shuri	53_liver	tɕ i m u	shur1243	nan	1224	LIVER	119	
+1735	Shuri-54_drink-1	Shuri	54_drink	n u n u ɴ	shur1243	nan	1401	DRINK	120	
+1736	Shuri-55_eat-1	Shuri	55_eat	k a n u ɴ	shur1243	nan	1336	EAT	124	
+1737	Shuri-56_bite-1	Shuri	56_bite	k uː j u ɴ	shur1243	nan	1403	BITE	126	
+1738	Shuri-57_see-1	Shuri	57_see	ɴː z u ɴ	shur1243	nan	1409	SEE	131	
+1739	Shuri-58_hear-1	Shuri	58_hear	tɕ i ts u ɴ	shur1243	nan	1408	HEAR	132	
+1741	Shuri-5_that-1	Shuri	5_that	ʔ a r i	shur1243	nan	78	THAT	15	
+1742	Shuri-60_sleep-1	Shuri	60_sleep	n i ɴ z u ɴ	shur1243	nan	1585	SLEEP	136	
+1743	Shuri-61_die-1	Shuri	61_die	s i n u ɴ	shur1243	nan	1494	DIE	138	
+1744	Shuri-62_kill-1	Shuri	62_kill	k u r u ɕ u ɴ	shur1243	nan	1417	KILL	139	
+1745	Shuri-63_swim-1	Shuri	63_swim	ʔ w iː z u ɴ	shur1243	nan	1439	SWIM	140	
+1746	Shuri-64_fly-1	Shuri	64_fly	t u b u ɴ	shur1243	nan	1441	FLY (MOVE THROUGH AIR)	142	
+1747	Shuri-65_walk-1	Shuri	65_walk	ʔ a tsː u ɴ	shur1243	nan	1443	WALK	146	
+1748	Shuri-66_come-1	Shuri	66_come	ts uː ɴ	shur1243	nan	1446	COME	148	
+1749	Shuri-67_lie-1	Shuri	67_lie	n i ɴ t oː ɴ	shur1243	nan	1411	LIE (REST)	151	
+1750	Shuri-68_sit-1	Shuri	68_sit	i ts oː n	shur1243	nan	1416	SIT	155	
+1751	Shuri-69_stand-1	Shuri	69_stand	t a tsː oː n	shur1243	nan	1442	STAND	156	
+1752	Shuri-6_who-1	Shuri	6_who	t aː	shur1243	nan	1235	WHO	18	
+1753	Shuri-70_give-1	Shuri	70_give	k w iː j u ɴ	shur1243	nan	1447	GIVE	160	
+1754	Shuri-71_say-1	Shuri	71_say	ʔʲ u ɴ	shur1243	nan	1458	SAY	161	
+1755	Shuri-72_sun-1	Shuri	72_sun	t iː d a	shur1243	nan	1343	SUN	167	
+1756	Shuri-73_moon-1	Shuri	73_moon	ɕ i tɕ i	shur1243	nan	1313	MOON	168	
+1757	Shuri-74_star-1	Shuri	74_star	h u s i	shur1243	nan	1430	STAR	169	
+1758	Shuri-75_water-1	Shuri	75_water	m i dʒ i	shur1243	nan	948	WATER	170	
+1760	Shuri-77_stone-1	Shuri	77_stone	ʔ i s i	shur1243	nan	857	STONE	173	
+1761	Shuri-78_sand-1	Shuri	78_sand	ʃ i n a	shur1243	nan	671	SAND	175	
+1762	Shuri-79_earth-1	Shuri	79_earth	ɴ ts a	shur1243	nan	1228	EARTH (SOIL)	178	
+1763	Shuri-7_what-1	Shuri	7_what	n uː	shur1243	nan	1236	WHAT	21	
+1764	Shuri-80_cloud-1	Shuri	80_cloud	k u m u	shur1243	nan	1489	CLOUD	180	
+1765	Shuri-81_smoke-1	Shuri	81_smoke	k i b u s i	shur1243	nan	778	SMOKE (EXHAUST)	182	
+1766	Shuri-82_fire-1	Shuri	82_fire	h w iː	shur1243	nan	221	FIRE	183	
+1767	Shuri-83_ash-1	Shuri	83_ash	h w eː	shur1243	nan	646	ASH	185	
+1768	Shuri-84_burn-1	Shuri	84_burn	m eː j u ɴ	shur1243	nan	2102	BURN	186	
+1769	Shuri-85_pathroad-1	Shuri	85_pathroad	m i tɕ i	shur1243	nan	667	ROAD	187	
+1770	Shuri-86_mountain-1	Shuri	86_mountain	m ui	shur1243	nan	639	MOUNTAIN	189	
+1771	Shuri-87_red-1	Shuri	87_red	ʔ a k a s a ɴ	shur1243	nan	156	RED	190	
+1772	Shuri-88_green-1	Shuri	88_green	ʔ oː s a ɴ	shur1243	nan	1425	GREEN	191	
+1773	Shuri-89_yellow-1	Shuri	89_yellow	tɕ iː r u	shur1243	nan	1424	YELLOW	193	
+1774	Shuri-8_not-1	Shuri	8_not	n eː ɴ	shur1243	nan	1240	NOT	22	
+1775	Shuri-90_white-1	Shuri	90_white	s i r u s a ɴ	shur1243	nan	1335	WHITE	194	
+1776	Shuri-91_black-1	Shuri	91_black	k u r u s a ɴ	shur1243	nan	163	BLACK	195	
+1777	Shuri-92_night-1	Shuri	92_night	j u r u	shur1243	nan	1233	NIGHT	196	
+1778	Shuri-93_hotwarm-1	Shuri	93_hotwarm	ʔ a ɕ i s a ɴ	shur1243	nan	2272	HOT OR WARM	199	
+1779	Shuri-94_cold-1	Shuri	94_cold	h w iː s a ɴ	shur1243	nan	1287	COLD	201	
+1780	Shuri-95_full-1	Shuri	95_full	m iː	shur1243	nan	1429	FULL	206	
+1781	Shuri-96_new-1	Shuri	96_new	m iː s a ɴ	shur1243	nan	1231	NEW	210	
+1782	Shuri-97_good-1	Shuri	97_good	j u t a ɕ a ɴ	shur1243	nan	1035	GOOD	213	
+1783	Shuri-98_round-1	Shuri	98_round	m a r u s a ɴ	shur1243	nan	1395	ROUND	216	
+1784	Shuri-99_dry-1	Shuri	99_dry	k aː r a ts oː r u	shur1243	nan	1398	DRY	217	
+1785	Shuri-9_all-1	Shuri	9_all	ɴ n a	shur1243	nan	98	ALL	24	
+1786	Tokyo-100_name-1	Tokyo	100_name	n a m a e	toky1238	nan	1405	NAME	221	
+1796	Tokyo-10_many-1	Tokyo	10_many	t a k u s a ɴ	toky1238	nan	1198	MANY	31	
+1807	Tokyo-11_one-1	Tokyo	11_one	h i t o ts u	toky1238	nan	1493	ONE	35	
+1818	Tokyo-12_two-1	Tokyo	12_two	h u t a tsː u	toky1238	nan	1498	TWO	36	
+1829	Tokyo-13_big-1	Tokyo	13_big	oː k iː	toky1238	nan	1202	BIG	38	
+1840	Tokyo-14_small-1	Tokyo	14_small	tɕ i tɕː a i	toky1238	nan	1246	SMALL	43	
+1851	Tokyo-15_long-1	Tokyo	15_long	n a ŋ a i	toky1238	nan	1203	LONG	48	
+1862	Tokyo-16_woman-1	Tokyo	16_woman	o ɴ n a	toky1238	nan	962	WOMAN	49	
+1873	Tokyo-17_man-1	Tokyo	17_man	o t o k o	toky1238	nan	1554	MAN	53	
+1884	Tokyo-18_person-1	Tokyo	18_person	h i t o	toky1238	nan	683	PERSON	56	
+1895	Tokyo-19_fish-1	Tokyo	19_fish	s a k a n a	toky1238	nan	227	FISH	58	
+1896	Tokyo-1_i-1	Tokyo	1_i	w a t a s i	toky1238	nan	1209	I	2	
+1898	Tokyo-20_bird-1	Tokyo	20_bird	t o r i	toky1238	nan	937	BIRD	60	
+1899	Tokyo-21_dog-1	Tokyo	21_dog	i n u	toky1238	nan	2009	DOG	62	
+1900	Tokyo-22_louse-1	Tokyo	22_louse	s i r a m i	toky1238	nan	1392	LOUSE	63	
+1901	Tokyo-23_tree-1	Tokyo	23_tree	k i	toky1238	nan	906	TREE	64	
+1902	Tokyo-24_barkoftree-1	Tokyo	24_barkoftree	k a w a	toky1238	nan	1204	BARK	65	
+1903	Tokyo-25_leaf-1	Tokyo	25_leaf	h a pː a	toky1238	nan	628	LEAF	67	
+1904	Tokyo-26_root-1	Tokyo	26_root	n e kː o	toky1238	nan	670	ROOT	68	
+1905	Tokyo-27_seed-1	Tokyo	27_seed	t a n e	toky1238	nan	714	SEED	70	
+1906	Tokyo-28_blood-1	Tokyo	28_blood	tɕ i	toky1238	nan	946	BLOOD	71	
+1908	Tokyo-2_thou-1	Tokyo	2_thou	a n a t a	toky1238	nan	1215	THOU	5	
+1909	Tokyo-30_skin-1	Tokyo	30_skin	k a w a	toky1238	nan	763	SKIN	75	
+1910	Tokyo-31_bone-1	Tokyo	31_bone	h o n e	toky1238	nan	1394	BONE	76	
+1911	Tokyo-32_greasefat-1	Tokyo	32_greasefat	a b u r a m i	toky1238	nan	323	FAT (ORGANIC SUBSTANCE)	78	
+1912	Tokyo-33_egg-1	Tokyo	33_egg	t a m a ŋ o	toky1238	nan	744	EGG	80	
+1913	Tokyo-34_horn-1	Tokyo	34_horn	ts u n o	toky1238	nan	1393	HORN (ANATOMY)	83	
+1914	Tokyo-35_tail-1	Tokyo	35_tail	s i pː o	toky1238	nan	1220	TAIL	86	
+1915	Tokyo-36_feather-1	Tokyo	36_feather	h a n e	toky1238	nan	1201	FEATHER	87	
+1916	Tokyo-37_hair-1	Tokyo	37_hair	k e	toky1238	nan	1040	HAIR	89	
+1917	Tokyo-38_head-1	Tokyo	38_head	a t a m a	toky1238	nan	1256	HEAD	91	
+1918	Tokyo-39_ear-1	Tokyo	39_ear	m i m i	toky1238	nan	1247	EAR	95	
+1919	Tokyo-3_we-1	Tokyo	3_we	w a t a s i t a tɕ i	toky1238	nan	1212	WE	12	
+1920	Tokyo-40_eye-1	Tokyo	40_eye	m e	toky1238	nan	1248	EYE	96	
+1921	Tokyo-41_nose-1	Tokyo	41_nose	h a n a	toky1238	nan	1221	NOSE	98	
+1922	Tokyo-42_mouth-1	Tokyo	42_mouth	k u tɕ i	toky1238	nan	674	MOUTH	99	
+1923	Tokyo-43_tooth-1	Tokyo	43_tooth	h a	toky1238	nan	1380	TOOTH	101	
+1924	Tokyo-44_tongue-1	Tokyo	44_tongue	s i t a	toky1238	nan	1205	TONGUE	-102	
+1925	Tokyo-45_claw-1	Tokyo	45_claw	ts u m e	toky1238	nan	72	CLAW	103	
+1926	Tokyo-46_foot-1	Tokyo	46_foot	a s i	toky1238	nan	1301	FOOT	104	
+1927	Tokyo-47_knee-1	Tokyo	47_knee	h i z a	toky1238	nan	1371	KNEE	107	
+1928	Tokyo-48_hand-1	Tokyo	48_hand	t e	toky1238	nan	1277	HAND	110	
+1929	Tokyo-49_belly-1	Tokyo	49_belly	o n a k a	toky1238	nan	1251	BELLY	112	
+1930	Tokyo-4_this-1	Tokyo	4_this	k o r e	toky1238	nan	1214	THIS	14	
+1931	Tokyo-50_neck-1	Tokyo	50_neck	k u b i	toky1238	nan	1333	NECK	114	
+1932	Tokyo-51_breast-1	Tokyo	51_breast	m u n e	toky1238	nan	1402	BREAST	116	
+1933	Tokyo-52_heart-1	Tokyo	52_heart	s i ɴ z oː	toky1238	nan	1223	HEART	118	
+1934	Tokyo-53_liver-1	Tokyo	53_liver	k i m o	toky1238	nan	1224	LIVER	119	
+1935	Tokyo-54_drink-1	Tokyo	54_drink	n o m u	toky1238	nan	1401	DRINK	120	
+1936	Tokyo-55_eat-1	Tokyo	55_eat	t a b e r u	toky1238	nan	1336	EAT	122	
+1937	Tokyo-56_bite-1	Tokyo	56_bite	k a m i ts u k u	toky1238	nan	1403	BITE	128	
+1938	Tokyo-57_see-1	Tokyo	57_see	m i r u	toky1238	nan	1409	SEE	130	
+1939	Tokyo-58_hear-1	Tokyo	58_hear	k i k u	toky1238	nan	1408	HEAR	132	
+1941	Tokyo-5_that-1	Tokyo	5_that	a r e	toky1238	nan	78	THAT	15	
+1942	Tokyo-60_sleep-1	Tokyo	60_sleep	n e m u r u	toky1238	nan	1585	SLEEP	136	
+1943	Tokyo-61_die-1	Tokyo	61_die	s i n u	toky1238	nan	1494	DIE	138	
+1944	Tokyo-62_kill-1	Tokyo	62_kill	k o r o s u	toky1238	nan	1417	KILL	139	
+1945	Tokyo-63_swim-1	Tokyo	63_swim	o j o ŋ u	toky1238	nan	1439	SWIM	140	
+1946	Tokyo-64_fly-1	Tokyo	64_fly	t o b u	toky1238	nan	1441	FLY (MOVE THROUGH AIR)	142	
+1947	Tokyo-65_walk-1	Tokyo	65_walk	a r u k u	toky1238	nan	1443	WALK	146	
+1948	Tokyo-66_come-1	Tokyo	66_come	k u r u	toky1238	nan	1446	COME	149	
+1949	Tokyo-67_lie-1	Tokyo	67_lie	n e t e r u	toky1238	nan	1411	LIE (REST)	150	
+1950	Tokyo-68_sit-1	Tokyo	68_sit	s u w a tː e r u	toky1238	nan	1416	SIT	153	
+1951	Tokyo-69_stand-1	Tokyo	69_stand	t a tː e r u	toky1238	nan	1442	STAND	156	
+1952	Tokyo-6_who-1	Tokyo	6_who	d a r e	toky1238	nan	1235	WHO	18	
+1953	Tokyo-70_give-1	Tokyo	70_give	a ŋ e r u	toky1238	nan	1447	GIVE	158	
+1954	Tokyo-71_say-1	Tokyo	71_say	j uː	toky1238	nan	1458	SAY	161	
+1955	Tokyo-72_sun-1	Tokyo	72_sun	o h i s a m a	toky1238	nan	1343	SUN	164	
+1956	Tokyo-73_moon-1	Tokyo	73_moon	ts u k i	toky1238	nan	1313	MOON	168	
+1957	Tokyo-74_star-1	Tokyo	74_star	h o s i	toky1238	nan	1430	STAR	169	
+1958	Tokyo-75_water-1	Tokyo	75_water	m i z u	toky1238	nan	948	WATER	170	
+1960	Tokyo-77_stone-1	Tokyo	77_stone	i s i	toky1238	nan	857	STONE	173	
+1961	Tokyo-78_sand-1	Tokyo	78_sand	s u n a	toky1238	nan	671	SAND	175	
+1962	Tokyo-79_earth-1	Tokyo	79_earth	ts u tɕ i	toky1238	nan	1228	EARTH (SOIL)	179	
+1963	Tokyo-7_what-1	Tokyo	7_what	n a n i	toky1238	nan	1236	WHAT	20	
+1964	Tokyo-80_cloud-1	Tokyo	80_cloud	k u m o	toky1238	nan	1489	CLOUD	180	
+1965	Tokyo-81_smoke-1	Tokyo	81_smoke	k e m u	toky1238	nan	778	SMOKE (EXHAUST)	182	
+1966	Tokyo-82_fire-1	Tokyo	82_fire	h i	toky1238	nan	221	FIRE	183	
+1967	Tokyo-83_ash-1	Tokyo	83_ash	h a i	toky1238	nan	646	ASH	185	
+1968	Tokyo-84_burn-1	Tokyo	84_burn	m o e r u	toky1238	nan	2102	BURN	186	
+1969	Tokyo-85_pathroad-1	Tokyo	85_pathroad	m i tɕ i	toky1238	nan	667	ROAD	187	
+1970	Tokyo-86_mountain-1	Tokyo	86_mountain	j a m a	toky1238	nan	639	MOUNTAIN	188	
+1971	Tokyo-87_red-1	Tokyo	87_red	a k a i	toky1238	nan	156	RED	190	
+1972	Tokyo-88_green-1	Tokyo	88_green	a o i	toky1238	nan	1425	GREEN	192	
+1973	Tokyo-89_yellow-1	Tokyo	89_yellow	k iː r o i	toky1238	nan	1424	YELLOW	193	
+1974	Tokyo-8_not-1	Tokyo	8_not	n a i	toky1238	nan	1240	NOT	22	
+1975	Tokyo-90_white-1	Tokyo	90_white	s i r o i	toky1238	nan	1335	WHITE	194	
+1976	Tokyo-91_black-1	Tokyo	91_black	k u r o i	toky1238	nan	163	BLACK	195	
+1977	Tokyo-92_night-1	Tokyo	92_night	j o r u	toky1238	nan	1233	NIGHT	196	
+1978	Tokyo-93_hotwarm-1	Tokyo	93_hotwarm	a ts ui	toky1238	nan	2272	HOT OR WARM	199	
+1979	Tokyo-94_cold-1	Tokyo	94_cold	s a m ui	toky1238	nan	1287	COLD	203	
+1980	Tokyo-95_full-1	Tokyo	95_full	i pː a i	toky1238	nan	1429	FULL	204	
+1981	Tokyo-96_new-1	Tokyo	96_new	a t a r a s iː	toky1238	nan	1231	NEW	207	
+1982	Tokyo-97_good-1	Tokyo	97_good	iː	toky1238	nan	1035	GOOD	211	
+1983	Tokyo-98_round-1	Tokyo	98_round	m a r ui	toky1238	nan	1395	ROUND	216	
+1984	Tokyo-99_dry-1	Tokyo	99_dry	k a w a i t a	toky1238	nan	1398	DRY	218	
+1985	Tokyo-9_all-1	Tokyo	9_all	m i ɴ n a	toky1238	nan	98	ALL	24	

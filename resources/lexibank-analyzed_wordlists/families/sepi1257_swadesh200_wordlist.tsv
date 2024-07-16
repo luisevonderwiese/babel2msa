@@ -1,0 +1,758 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+3869	20020	johanssonsoundsymbolic-Awtuw	awtu1239		back	1291	BACK		jekhmakh	j e kʰ m a kʰ
+4980	21131	johanssonsoundsymbolic-Awtuw	awtu1239		bad	1292	BAD		monokhene	m o n o kʰ e n e
+8822	24973	johanssonsoundsymbolic-Awtuw	awtu1239		bark	1204	BARK		thawmowjæj	tʰ a w m o w j æ j
+9313	25464	transnewguineaorg-bisis	bisi1244		bark	1204	BARK		motibik	m o t i b i k
+9388	25539	transnewguineaorg-saniyo-hiyewe	sani1270		bark	1204	BARK		metahɛ	m e t a h ɛ
+12962	29113	johanssonsoundsymbolic-Awtuw	awtu1239		bealive	1422	BE ALIVE		ikhij	i kʰ i j
+16299	32450	johanssonsoundsymbolic-Awtuw	awtu1239		because	1157	BECAUSE		olsem	o l s e m
+22854	39005	johanssonsoundsymbolic-Awtuw	awtu1239		belly	1251	BELLY		wækh	w æ kʰ
+23526	39677	transnewguineaorg-alamblak	alam1246		belly	1251	BELLY		'ya'tʰɩʀ̥̌	j a tʰ ɪ r
+23527	39678	transnewguineaorg-alamblak	alam1246		belly	1251	BELLY		yalith	j a l i t h
+23552	39703	transnewguineaorg-bahinemo	bahi1254		belly	1251	BELLY		law	l a w
+23561	39712	transnewguineaorg-berinomo	beri1253		belly	1251	BELLY		horokwi	h o r o k w i
+23564	39715	transnewguineaorg-bisis	bisi1244		belly	1251	BELLY		lawo	l a w o
+23576	39727	transnewguineaorg-chenapian	chen1259		belly	1251	BELLY		əban	ə b a n
+23577	39728	transnewguineaorg-chenapian	chen1259		belly	1251	BELLY		up	u p
+23635	39786	transnewguineaorg-kapriman	kapr1245		belly	1251	BELLY		fanis	f a n i s
+23735	39886	transnewguineaorg-saniyo-hiyewe	sani1270		belly	1251	BELLY		liřɛ	l i r̝ ɛ
+23736	39887	transnewguineaorg-saniyo-hiyewe	sani1270		belly	1251	BELLY		rivɛ	r i v ɛ
+27894	44045	johanssonsoundsymbolic-Awtuw	awtu1239		big	1202	BIG		waɾukhe	w a ɾ u kʰ e
+28693	44844	transnewguineaorg-alamblak	alam1246		big	1202	BIG		břotʰ	b r̝ o tʰ
+28694	44845	transnewguineaorg-alamblak	alam1246		big	1202	BIG		bʌdokham	b ʌ d o k h a m
+28724	44875	transnewguineaorg-bahinemo	bahi1254		big	1202	BIG		bʌdo	b ʌ d o
+28736	44887	transnewguineaorg-berinomo	beri1253		big	1202	BIG		pa_pɛtu	p a + p ɛ t u
+28740	44891	transnewguineaorg-bisis	bisi1244		big	1202	BIG		_siŋgeʔok	s i ŋ g e ʔ o k
+28758	44909	transnewguineaorg-chenapian	chen1259		big	1202	BIG		tamtiɛn	t a m t i ɛ n
+28759	44910	transnewguineaorg-chenapian	chen1259		big	1202	BIG		nok	n o k
+28827	44978	transnewguineaorg-kapriman	kapr1245		big	1202	BIG		marbe	m a r b e
+28940	45091	transnewguineaorg-saniyo-hiyewe	sani1270		big	1202	BIG		ařasi	a r̝ a s i
+28941	45092	transnewguineaorg-saniyo-hiyewe	sani1270		big	1202	BIG		rasi	r a s i
+30287	46438	johanssonsoundsymbolic-Awtuw	awtu1239		bird	937	BIRD		ji	j i
+31030	47181	transnewguineaorg-alamblak	alam1246		bird	937	BIRD		'nugwaʀ̥̌	n u g w a r
+31031	47182	transnewguineaorg-alamblak	alam1246		bird	937	BIRD		nongwar	n o n g w a r
+31065	47216	transnewguineaorg-bahinemo	bahi1254		bird	937	BIRD		wabo	w a b o
+31077	47228	transnewguineaorg-berinomo	beri1253		bird	937	BIRD		uro	u r o
+31081	47232	transnewguineaorg-bisis	bisi1244		bird	937	BIRD		nuŋgař	n u ŋ g a r̝
+31093	47244	transnewguineaorg-chenapian	chen1259		bird	937	BIRD		ǰɛoši	dʒ ɛ o ʂ i
+31094	47245	transnewguineaorg-chenapian	chen1259		bird	937	BIRD		džɛosiʔ	dʒ ɛ o s i ʔ
+31169	47320	transnewguineaorg-kapriman	kapr1245		bird	937	BIRD		yerɛpm	j e r ɛ p m
+31291	47442	transnewguineaorg-saniyo-hiyewe	sani1270		bird	937	BIRD		iřowɛ	i r̝ o w ɛ
+31292	47443	transnewguineaorg-saniyo-hiyewe	sani1270		bird	937	BIRD		iruwɛ	i r u w ɛ
+32635	48786	johanssonsoundsymbolic-Awtuw	awtu1239		bite	1403	BITE		æl	æ l
+33188	49339	transnewguineaorg-alamblak	alam1246		bite	1403	BITE		'kɨwitoʀ̥̌	k ɨ w i t o r
+33220	49371	transnewguineaorg-berinomo	beri1253		bite	1403	BITE		muwɛ_pehɛnɛ_owe	m u w ɛ + p e h ɛ n ɛ + o w e
+33223	49374	transnewguineaorg-bisis	bisi1244		bite	1403	BITE		lɩkʰɛnido	l ɪ kʰ ɛ n i d o
+33235	49386	transnewguineaorg-chenapian	chen1259		bite	1403	BITE		gwara_tam_tɛn_tes	g w a r a + t a m + t ɛ n + t e s
+33236	49387	transnewguineaorg-chenapian	chen1259		bite	1403	BITE		tamtɩn_teʔ	t a m t ɪ n + t e ʔ
+33397	49548	transnewguineaorg-saniyo-hiyewe	sani1270		bite	1403	BITE		awa	a w a
+35245	51396	johanssonsoundsymbolic-Awtuw	awtu1239		black	163	BLACK		thiphɾajkhwo	tʰ i pʰ ɾ a j kʰ w o
+38657	54808	johanssonsoundsymbolic-Awtuw	awtu1239		blood	946	BLOOD		æjphij	æ j pʰ i j
+39401	55552	transnewguineaorg-alamblak	alam1246		blood	946	BLOOD		kɨ'kʰupʰam	k ɨ kʰ u pʰ a m
+39402	55553	transnewguineaorg-alamblak	alam1246		blood	946	BLOOD		khukhupam	k h u k h u p a m
+39438	55589	transnewguineaorg-bahinemo	bahi1254		blood	946	BLOOD		mahələ	m a h ə l ə
+39449	55600	transnewguineaorg-berinomo	beri1253		blood	946	BLOOD		marɛ_hax	m a r ɛ + h a x
+39453	55604	transnewguineaorg-bisis	bisi1244		blood	946	BLOOD		kukwem	k u k w e m
+39467	55618	transnewguineaorg-chenapian	chen1259		blood	946	BLOOD		nᵊe	n ə e
+39468	55619	transnewguineaorg-chenapian	chen1259		blood	946	BLOOD		ne	n e
+39538	55689	transnewguineaorg-kapriman	kapr1245		blood	946	BLOOD		kokwem	k o k w e m
+39650	55801	transnewguineaorg-saniyo-hiyewe	sani1270		blood	946	BLOOD		fisaʔi	f i s a ʔ i
+39651	55802	transnewguineaorg-saniyo-hiyewe	sani1270		blood	946	BLOOD		fisa'i	f i s a i
+40883	57034	johanssonsoundsymbolic-Awtuw	awtu1239		blowofwind	175	BLOW (OF WIND)		iljæmna	i l j æ m n a
+43081	59232	johanssonsoundsymbolic-Awtuw	awtu1239		blunt	379	BLUNT		wam	w a m
+46886	63037	johanssonsoundsymbolic-Awtuw	awtu1239		bone	1394	BONE		lakhe	l a kʰ e
+47619	63770	transnewguineaorg-alamblak	alam1246		bone	1394	BONE		tɨ'pɩʀ̥̌	t ɨ p ɪ r
+47620	63771	transnewguineaorg-alamblak	alam1246		bone	1394	BONE		thʌphim	t h ʌ p h i m
+47621	63772	transnewguineaorg-alamblak	alam1246		bone	1394	BONE		tɨpi	t ɨ p i
+47660	63811	transnewguineaorg-bahinemo	bahi1254		bone	1394	BONE		hʌbi	h ʌ b i
+47672	63823	transnewguineaorg-berinomo	beri1253		bone	1394	BONE		sɛtsɛpi	s ɛ ts ɛ p i
+47676	63827	transnewguineaorg-bisis	bisi1244		bone	1394	BONE		sɩbɩkʰam	s ɪ b ɪ kʰ a m
+47693	63844	transnewguineaorg-chenapian	chen1259		bone	1394	BONE		ǰa·	dʒ a
+47694	63845	transnewguineaorg-chenapian	chen1259		bone	1394	BONE		dža	dʒ a
+47766	63917	transnewguineaorg-kapriman	kapr1245		bone	1394	BONE		sibevam	s i b e v a m
+47894	64045	transnewguineaorg-saniyo-hiyewe	sani1270		bone	1394	BONE		paʔaře	p a ʔ a r̝ e
+47895	64046	transnewguineaorg-saniyo-hiyewe	sani1270		bone	1394	BONE		pa'arɛ	p a a r ɛ
+58912	75065	johanssonsoundsymbolic-Awtuw	awtu1239		breathe	1407	BREATHE		jijkh_liwkhenajijkh	j i j kʰ + l i w kʰ e n a j i j kʰ
+91587	107740	johanssonsoundsymbolic-Awtuw	awtu1239		cloud	1489	CLOUD		æwkhthil	æ w kʰ tʰ i l
+92128	108281	transnewguineaorg-alamblak	alam1246		cloud	1489	CLOUD		'gɨřibɨpam	g ɨ r̝ i b ɨ p a m
+92129	108282	transnewguineaorg-alamblak	alam1246		cloud	1489	CLOUD		mowʌnkh	m o w ʌ n k h
+92153	108306	transnewguineaorg-bahinemo	bahi1254		cloud	1489	CLOUD		dobul	d o b u l
+92165	108318	transnewguineaorg-berinomo	beri1253		cloud	1489	CLOUD		nihoř	n i h o r̝
+92169	108322	transnewguineaorg-bisis	bisi1244		cloud	1489	CLOUD		dumbunay	d u m b u n a j
+92181	108334	transnewguineaorg-chenapian	chen1259		cloud	1489	CLOUD		nəŋgə	n ə ŋ g ə
+92182	108335	transnewguineaorg-chenapian	chen1259		cloud	1489	CLOUD		nəŋga	n ə ŋ g a
+92257	108410	transnewguineaorg-kapriman	kapr1245		cloud	1489	CLOUD		dʌbʌdali	d ʌ b ʌ d a l i
+92371	108524	transnewguineaorg-saniyo-hiyewe	sani1270		cloud	1489	CLOUD		aitu	a i t u
+92372	108525	transnewguineaorg-saniyo-hiyewe	sani1270		cloud	1489	CLOUD		safu	s a f u
+98826	114979	johanssonsoundsymbolic-Awtuw	awtu1239		come	1446	COME		eja	e j a
+99574	115727	transnewguineaorg-alamblak	alam1246		come	1446	COME		'nͥewɛ̈ʀ̥̌	n e w ɛ r
+99575	115728	transnewguineaorg-alamblak	alam1246		come	1446	COME		bineyawa	b i n e j a w a
+99576	115729	transnewguineaorg-alamblak	alam1246		come	1446	COME		nayay	n a j a j
+99609	115762	transnewguineaorg-bahinemo	bahi1254		come	1446	COME		diyayu	d i j a j u
+99622	115775	transnewguineaorg-bisis	bisi1244		come	1446	COME		atɩnyayali	a t ɪ n j a j a l i
+99702	115855	transnewguineaorg-kapriman	kapr1245		come	1446	COME		ja	j a
+99831	115984	transnewguineaorg-saniyo-hiyewe	sani1270		come	1446	COME		aiyiyei	a i j i j e i
+99832	115985	transnewguineaorg-saniyo-hiyewe	sani1270		come	1446	COME		ayuʌ	a j u ʌ
+104896	121049	johanssonsoundsymbolic-Awtuw	awtu1239		correctright	1725	CORRECT (RIGHT)		jiɾin_jekhə	j i ɾ i n + j e kʰ ə
+121770	137925	johanssonsoundsymbolic-Awtuw	awtu1239		daynotnight	1225	DAY (NOT NIGHT)		mæj	m æ j
+127046	143201	johanssonsoundsymbolic-Awtuw	awtu1239		die	1494	DIE		lakhnə	l a kʰ n ə
+127793	143948	transnewguineaorg-alamblak	alam1246		die	1494	DIE		'noǥwɛ̈ʀ̥̌	n o g w ɛ r
+127982	144137	transnewguineaorg-saniyo-hiyewe	sani1270		die	1494	DIE		tɛmɛniyeye	t ɛ m ɛ n i j e j e
+131704	147859	johanssonsoundsymbolic-Awtuw	awtu1239		dirty	1230	DIRTY		wunenenej	w u n e n e n e j
+135596	151751	johanssonsoundsymbolic-Awtuw	awtu1239		dog	2009	DOG		phijɾen	pʰ i j ɾ e n
+136356	152511	transnewguineaorg-alamblak	alam1246		dog	2009	DOG		yauʀ̥̌ʸ	j a u r j
+136357	152512	transnewguineaorg-alamblak	alam1246		dog	2009	DOG		yawu	j a w u
+136358	152513	transnewguineaorg-alamblak	alam1246		dog	2009	DOG		yawi	j a w i
+136392	152547	transnewguineaorg-bahinemo	bahi1254		dog	2009	DOG		yo	j o
+136404	152559	transnewguineaorg-berinomo	beri1253		dog	2009	DOG		yao	j a o
+136408	152563	transnewguineaorg-bisis	bisi1244		dog	2009	DOG		yau	j a u
+136420	152575	transnewguineaorg-chenapian	chen1259		dog	2009	DOG		ogwara	o g w a r a
+136421	152576	transnewguineaorg-chenapian	chen1259		dog	2009	DOG		gwara	g w a r a
+136494	152649	transnewguineaorg-kapriman	kapr1245		dog	2009	DOG		yom	j o m
+136624	152779	transnewguineaorg-saniyo-hiyewe	sani1270		dog	2009	DOG		you	j o u
+136625	152780	transnewguineaorg-saniyo-hiyewe	sani1270		dog	2009	DOG		yo	j o
+142065	158220	johanssonsoundsymbolic-Awtuw	awtu1239		drink	1401	DRINK		jiw_ɾa	j i w + ɾ a
+142718	158873	transnewguineaorg-saniyo-hiyewe	sani1270		drink	1401	DRINK		saʔi_aiyei	s a ʔ i + a i j e i
+145709	161864	johanssonsoundsymbolic-Awtuw	awtu1239		dry	1398	DRY		æjle	æ j l e
+148694	164849	johanssonsoundsymbolic-Awtuw	awtu1239		dust	2	DUST		khajphutheɾij	kʰ a j pʰ u tʰ e ɾ i j
+151139	167294	johanssonsoundsymbolic-Awtuw	awtu1239		ear	1247	EAR		mane	m a n e
+151888	168043	transnewguineaorg-alamblak	alam1246		ear	1247	EAR		yɩmbɨǥin'daŋgɨtʰ	j ɪ m b ɨ g i n d a ŋ g ɨ tʰ
+151889	168044	transnewguineaorg-alamblak	alam1246		ear	1247	EAR		yɩmbʌlindangʌm	j ɪ m b ʌ l i n d a n g ʌ m
+151890	168045	transnewguineaorg-alamblak	alam1246		ear	1247	EAR		yimbɣindang	j i m b ɣ i n d a n g
+151925	168080	transnewguineaorg-bahinemo	bahi1254		ear	1247	EAR		bʌsiya	b ʌ s i j a
+151936	168091	transnewguineaorg-berinomo	beri1253		ear	1247	EAR		pɛnɛhax	p ɛ n ɛ h a x
+151940	168095	transnewguineaorg-bisis	bisi1244		ear	1247	EAR		wanbatal	w a n b a t a l
+151955	168110	transnewguineaorg-chenapian	chen1259		ear	1247	EAR		ugwabə	u g w a b ə
+151956	168111	transnewguineaorg-chenapian	chen1259		ear	1247	EAR		gwabuo	g w a b u o
+152025	168180	transnewguineaorg-kapriman	kapr1245		ear	1247	EAR		womblaja	w o m b l a j a
+152150	168305	transnewguineaorg-saniyo-hiyewe	sani1270		ear	1247	EAR		apaniyɛ	a p a n i j ɛ
+152151	168306	transnewguineaorg-saniyo-hiyewe	sani1270		ear	1247	EAR		apahɛ	a p a h ɛ
+154062	170217	johanssonsoundsymbolic-Awtuw	awtu1239		earthsoil	1228	EARTH (SOIL)		niw	n i w
+154553	170708	transnewguineaorg-alamblak	alam1246		earthsoil	1228	EARTH (SOIL)		bɨbɩɲ'čɛ̈ƀɨtʰ	b ɨ b ɪ ɲ tʃ ɛ β ɨ tʰ
+154554	170709	transnewguineaorg-alamblak	alam1246		earthsoil	1228	EARTH (SOIL)		bʌbɩnsapith	b ʌ b ɪ n s a p i t h
+154573	170728	transnewguineaorg-bahinemo	bahi1254		earthsoil	1228	EARTH (SOIL)		bobu	b o b u
+154578	170733	transnewguineaorg-berinomo	beri1253		earthsoil	1228	EARTH (SOIL)		pɛpɛri	p ɛ p ɛ r i
+154580	170735	transnewguineaorg-bisis	bisi1244		earthsoil	1228	EARTH (SOIL)		babak	b a b a k
+154587	170742	transnewguineaorg-chenapian	chen1259		earthsoil	1228	EARTH (SOIL)		ṣan	s a n
+154588	170743	transnewguineaorg-chenapian	chen1259		earthsoil	1228	EARTH (SOIL)		sʊn	s ʊ n
+154617	170772	transnewguineaorg-kapriman	kapr1245		earthsoil	1228	EARTH (SOIL)		bubʌɣa	b u b ʌ ɣ a
+154663	170818	transnewguineaorg-saniyo-hiyewe	sani1270		earthsoil	1228	EARTH (SOIL)		pɛpɛri	p ɛ p ɛ r i
+156663	172818	johanssonsoundsymbolic-Awtuw	awtu1239		eat	1336	EAT		æje_ɾa	æ j e + ɾ a
+157251	173406	transnewguineaorg-alamblak	alam1246		eat	1336	EAT		'kʰaɛ̈ʀ̥̌	kʰ a ɛ r
+157252	173407	transnewguineaorg-alamblak	alam1246		eat	1336	EAT		weyanum	w e j a n u m
+157253	173408	transnewguineaorg-alamblak	alam1246		eat	1336	EAT		fa	f a
+157254	173409	transnewguineaorg-alamblak	alam1246		eat	1336	EAT		ka	k a
+157255	173410	transnewguineaorg-alamblak	alam1246		eat	1336	EAT		ye	j e
+157297	173452	transnewguineaorg-bahinemo	bahi1254		eat	1336	EAT		diyaw	d i j a w
+157311	173466	transnewguineaorg-bisis	bisi1244		eat	1336	EAT		bʌľia̠s	b ʌ ʎ i a s
+157389	173546	transnewguineaorg-kapriman	kapr1245		eat	1336	EAT		asoliya	a s o l i j a
+157526	173683	transnewguineaorg-saniyo-hiyewe	sani1270		eat	1336	EAT		aiyei	a i j e i
+157527	173684	transnewguineaorg-saniyo-hiyewe	sani1270		eat	1336	EAT		asiyʌ	a s i j ʌ
+158975	175133	johanssonsoundsymbolic-Awtuw	awtu1239		egg	744	EGG		wathe	w a tʰ e
+159703	175861	transnewguineaorg-alamblak	alam1246		egg	744	EGG		ᵽo'ǥat	ɸ o g a t
+159704	175862	transnewguineaorg-alamblak	alam1246		egg	744	EGG		fokam	f o k a m
+159705	175863	transnewguineaorg-alamblak	alam1246		egg	744	EGG		fɣa	f ɣ a
+159742	175900	transnewguineaorg-bahinemo	bahi1254		egg	744	EGG		wabo_mu	w a b o + m u
+159753	175911	transnewguineaorg-berinomo	beri1253		egg	744	EGG		uro_wɛka	u r o + w ɛ k a
+159758	175916	transnewguineaorg-bisis	bisi1244		egg	744	EGG		nuŋgwawobom	n u ŋ g w a w o b o m
+159771	175929	transnewguineaorg-chenapian	chen1259		egg	744	EGG		ṣⁱu_no	s i u + n o
+159772	175930	transnewguineaorg-chenapian	chen1259		egg	744	EGG		noə	n o ə
+159836	175994	transnewguineaorg-kapriman	kapr1245		egg	744	EGG		yuɣwar	j u ɣ w a r
+159951	176109	transnewguineaorg-saniyo-hiyewe	sani1270		egg	744	EGG		hotɛ	h o t ɛ
+159952	176110	transnewguineaorg-saniyo-hiyewe	sani1270		egg	744	EGG		hotɛ	h o t ɛ
+169543	185701	johanssonsoundsymbolic-Awtuw	awtu1239		eye	1248	EYE		new	n e w
+170290	186448	transnewguineaorg-alamblak	alam1246		eye	1248	EYE		'ɲiŋgaʀ̥̥̌	ɲ i ŋ g a ʀ̥
+170291	186449	transnewguineaorg-alamblak	alam1246		eye	1248	EYE		ningaw	n i n g a w
+170292	186450	transnewguineaorg-alamblak	alam1246		eye	1248	EYE		ɲinga	ɲ i n g a
+170331	186489	transnewguineaorg-bahinemo	bahi1254		eye	1248	EYE		niya	n i j a
+170344	186502	transnewguineaorg-berinomo	beri1253		eye	1248	EYE		niya	n i j a
+170348	186506	transnewguineaorg-bisis	bisi1244		eye	1248	EYE		nika	n i k a
+170363	186521	transnewguineaorg-chenapian	chen1259		eye	1248	EYE		ǰinino	dʒ i n i n o
+170364	186522	transnewguineaorg-chenapian	chen1259		eye	1248	EYE		džinano	dʒ i n a n o
+170434	186592	transnewguineaorg-kapriman	kapr1245		eye	1248	EYE		nikha	n i k h a
+170567	186725	transnewguineaorg-saniyo-hiyewe	sani1270		eye	1248	EYE		nihe	n i h e
+170568	186726	transnewguineaorg-saniyo-hiyewe	sani1270		eye	1248	EYE		nihɛ	n i h ɛ
+173549	189708	johanssonsoundsymbolic-Awtuw	awtu1239		fall	1280	FALL		lamlakhnə	l a m l a kʰ n ə
+175818	191977	johanssonsoundsymbolic-Awtuw	awtu1239		far	1406	FAR		thomthe	tʰ o m tʰ e
+180268	196427	transnewguineaorg-alamblak	alam1246		father	1217	FATHER		yi'ƀemɨʀ̥	j i β e m ɨ r
+180269	196428	transnewguineaorg-alamblak	alam1246		father	1217	FATHER		yivemar	j i v e m a r
+180299	196458	transnewguineaorg-bahinemo	bahi1254		father	1217	FATHER		mahuwa	m a h u w a
+180310	196469	transnewguineaorg-berinomo	beri1253		father	1217	FATHER		apo	a p o
+180314	196473	transnewguineaorg-bisis	bisi1244		father	1217	FATHER		tatoř	t a t o r̝
+180324	196483	transnewguineaorg-chenapian	chen1259		father	1217	FATHER		apǰa	a p dʒ a
+180325	196484	transnewguineaorg-chenapian	chen1259		father	1217	FATHER		dža	dʒ a
+180388	196547	transnewguineaorg-kapriman	kapr1245		father	1217	FATHER		aytya	a j t j a
+180507	196666	transnewguineaorg-saniyo-hiyewe	sani1270		father	1217	FATHER		aytɛ	a j t ɛ
+182039	198199	johanssonsoundsymbolic-Awtuw	awtu1239		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		khanel	kʰ a n e l
+182405	198565	transnewguineaorg-alamblak	alam1246		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		'šɩƀʌpam	ʂ ɪ β ʌ p a m
+182406	198566	transnewguineaorg-alamblak	alam1246		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		sivopam	s i v o p a m
+182431	198591	transnewguineaorg-bahinemo	bahi1254		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		gwʌlil	g w ʌ l i l
+182441	198601	transnewguineaorg-berinomo	beri1253		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		hɛsiko	h ɛ s i k o
+182445	198605	transnewguineaorg-bisis	bisi1244		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		dišuam	d i ʂ u a m
+182456	198616	transnewguineaorg-chenapian	chen1259		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		göᵘ_wiṣ	g ö w + w i s
+182457	198617	transnewguineaorg-chenapian	chen1259		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		gɛuwɩs	g ɛ u w ɪ s
+182516	198676	transnewguineaorg-kapriman	kapr1245		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		tivar	t i v a r
+182609	198769	transnewguineaorg-saniyo-hiyewe	sani1270		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		piyoʔu	p i j o ʔ u
+182610	198770	transnewguineaorg-saniyo-hiyewe	sani1270		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		piyo'u	p i j o u
+184875	201035	johanssonsoundsymbolic-Awtuw	awtu1239		feather	1201	FEATHER		jithiw	j i tʰ i w
+185336	201496	transnewguineaorg-bisis	bisi1244		feather	1201	FEATHER		tuam	t u a m
+185418	201578	transnewguineaorg-saniyo-hiyewe	sani1270		feather	1201	FEATHER		iřowɛ_towe	i r̝ o w ɛ + t o w e
+189904	222557	johanssonsoundsymbolic-Awtuw	awtu1239		flower	239	FLOWER		wale	w a l e
+192833	225486	johanssonsoundsymbolic-Awtuw	awtu1239		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		aphtha	a pʰ tʰ a
+193433	226086	transnewguineaorg-saniyo-hiyewe	sani1270		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		sinitiyei	s i n i t i j e i
+196145	228798	johanssonsoundsymbolic-Awtuw	awtu1239		foot	1301	FOOT		ɾiwe	ɾ i w e
+196804	229457	transnewguineaorg-berinomo	beri1253		foot	1301	FOOT		rowawa	r o w a w a
+196806	229459	transnewguineaorg-bisis	bisi1244		foot	1301	FOOT		ľuap̶ař	ʎ u a pˤ a r̝
+196812	229465	transnewguineaorg-chenapian	chen1259		foot	1301	FOOT		čoə	tʃ o ə
+196813	229466	transnewguineaorg-chenapian	chen1259		foot	1301	FOOT		soiauwə	s o i a u w ə
+202477	235130	johanssonsoundsymbolic-Awtuw	awtu1239		four	1500	FOUR		oɾkhwejnajwo	o ɾ kʰ w e j n a j w o
+203185	235838	transnewguineaorg-alamblak	alam1246		four	1500	FOUR		'xosƀi'ǥošɩᵽ	x o s β i g o ʂ ɪ ɸ
+203186	235839	transnewguineaorg-alamblak	alam1246		four	1500	FOUR		hutsɩfɩhutsɩf	h u ts ɪ f ɪ h u ts ɪ f
+203203	235856	transnewguineaorg-bahinemo	bahi1254		four	1500	FOUR		gʌda	g ʌ d a
+203210	235863	transnewguineaorg-bisis	bisi1244		four	1500	FOUR		kyɛdaľak	k j ɛ d a ʎ a k
+203248	235901	transnewguineaorg-kapriman	kapr1245		four	1500	FOUR		gayjala	g a j j a l a
+203283	235936	transnewguineaorg-saniyo-hiyewe	sani1270		four	1500	FOUR		hɛsiohɛsio	h ɛ s i o h ɛ s i o
+214573	247226	johanssonsoundsymbolic-Awtuw	awtu1239		give	1447	GIVE		khow	kʰ o w
+215314	247967	transnewguineaorg-alamblak	alam1246		give	1447	GIVE		'nan:_ka'ǥokwɛ̈ʀ̥̌	n a nː + k a g o k w ɛ r
+215315	247968	transnewguineaorg-alamblak	alam1246		give	1447	GIVE		rapakuda	r a p a k u d a
+215345	247998	transnewguineaorg-bahinemo	bahi1254		give	1447	GIVE		diyu	d i j u
+215359	248012	transnewguineaorg-bisis	bisi1244		give	1447	GIVE		ʔatʰop̶aʔoli	ʔ a tʰ o pˤ a ʔ o l i
+215433	248086	transnewguineaorg-kapriman	kapr1245		give	1447	GIVE		lianaɣo	l i a n a ɣ o
+215546	248199	transnewguineaorg-saniyo-hiyewe	sani1270		give	1447	GIVE		awei	a w e i
+215547	248200	transnewguineaorg-saniyo-hiyewe	sani1270		give	1447	GIVE		awe	a w e
+220700	253356	johanssonsoundsymbolic-Awtuw	awtu1239		good	1035	GOOD		medaje	m e d a j e
+221463	254119	transnewguineaorg-alamblak	alam1246		good	1035	GOOD		'xiƀa	x i β a
+221506	254162	transnewguineaorg-berinomo	beri1253		good	1035	GOOD		toʔa	t o ʔ a
+221522	254178	transnewguineaorg-chenapian	chen1259		good	1035	GOOD		jənok	j ə n o k
+221523	254179	transnewguineaorg-chenapian	chen1259		good	1035	GOOD		džɛnok	dʒ ɛ n o k
+221717	254373	transnewguineaorg-saniyo-hiyewe	sani1270		good	1035	GOOD		wisɛřiaʔi	w i s ɛ r̝ i a ʔ i
+226150	258806	johanssonsoundsymbolic-Awtuw	awtu1239		grass	606	GRASS		pheɾijajawnow	pʰ e ɾ i j a j a w n o w
+228502	261158	johanssonsoundsymbolic-Awtuw	awtu1239		green	1425	GREEN		nenewo	n e n e w o
+229017	261673	transnewguineaorg-alamblak	alam1246		green	1425	GREEN		'nambɛ̈mɨn'dɛ̈ʀ̥̌pʰam	n a m b ɛ m ɨ n d ɛ r pʰ a m
+229040	261696	transnewguineaorg-bisis	bisi1244		green	1425	GREEN		nog̶om	n o gˤ o m
+229174	261830	transnewguineaorg-saniyo-hiyewe	sani1270		green	1425	GREEN		kokowaʔi	k o k o w a ʔ i
+234502	267158	johanssonsoundsymbolic-Awtuw	awtu1239		hair	1040	HAIR		thiw	tʰ i w
+238343	270999	johanssonsoundsymbolic-Awtuw	awtu1239		hand	1277	HAND		jijle	j i j l e
+239003	271659	transnewguineaorg-alamblak	alam1246		hand	1277	HAND		tɩʀ̥̌tʰ	t ɪ r tʰ
+239004	271660	transnewguineaorg-alamblak	alam1246		hand	1277	HAND		thiwapith	t h i w a p i t h
+239018	271674	transnewguineaorg-bahinemo	bahi1254		hand	1277	HAND		həlbʌdufa	h ə l b ʌ d u f a
+239023	271679	transnewguineaorg-berinomo	beri1253		hand	1277	HAND		siyɛt	s i j ɛ t
+239026	271682	transnewguineaorg-bisis	bisi1244		hand	1277	HAND		sogulap̶a	s o g u l a pˤ a
+239032	271688	transnewguineaorg-chenapian	chen1259		hand	1277	HAND		nös	n ö s
+239033	271689	transnewguineaorg-chenapian	chen1259		hand	1277	HAND		nɛs	n ɛ s
+239070	271726	transnewguineaorg-kapriman	kapr1245		hand	1277	HAND		sɛlis	s ɛ l i s
+239117	271773	transnewguineaorg-saniyo-hiyewe	sani1270		hand	1277	HAND		'ɛrɛti	ɛ r ɛ t i
+243898	276555	johanssonsoundsymbolic-Awtuw	awtu1239		head	1256	HEAD		makh	m a kʰ
+244667	277324	transnewguineaorg-alamblak	alam1246		head	1256	HEAD		mɛ̈ƀɨǥatʰ	m ɛ β ɨ g a tʰ
+244668	277325	transnewguineaorg-alamblak	alam1246		head	1256	HEAD		mʌbogath	m ʌ b o g a t h
+244702	277359	transnewguineaorg-bahinemo	bahi1254		head	1256	HEAD		thu	t h u
+244716	277373	transnewguineaorg-berinomo	beri1253		head	1256	HEAD		tu_tɛpi	t u + t ɛ p i
+244720	277377	transnewguineaorg-bisis	bisi1244		head	1256	HEAD		tuʔus	t u ʔ u s
+244732	277389	transnewguineaorg-chenapian	chen1259		head	1256	HEAD		toapᵒ	t o a p o
+244733	277390	transnewguineaorg-chenapian	chen1259		head	1256	HEAD		tuwap	t u w a p
+244813	277470	transnewguineaorg-kapriman	kapr1245		head	1256	HEAD		toɣo	t o ɣ o
+244953	277610	transnewguineaorg-saniyo-hiyewe	sani1270		head	1256	HEAD		worɛ_siyaʔi	w o r ɛ + s i j a ʔ i
+244954	277611	transnewguineaorg-saniyo-hiyewe	sani1270		head	1256	HEAD		tu	t u
+246846	279503	johanssonsoundsymbolic-Awtuw	awtu1239		hear	1408	HEAR		wan	w a n
+247570	280227	transnewguineaorg-alamblak	alam1246		hear	1408	HEAR		wa'nukʷɛ̈ʀ̥̌	w a n u kʷ ɛ r
+247776	280433	transnewguineaorg-saniyo-hiyewe	sani1270		hear	1408	HEAR		wanuwi	w a n u w i
+248428	281085	johanssonsoundsymbolic-Awtuw	awtu1239		heart	1223	HEART		wuɾne	w u ɾ n e
+248981	281638	transnewguineaorg-alamblak	alam1246		heart	1223	HEART		'mařbɩʀ̥̌	m a r̝ b ɪ r
+248982	281639	transnewguineaorg-alamblak	alam1246		heart	1223	HEART		marbil	m a r b i l
+249007	281664	transnewguineaorg-bahinemo	bahi1254		heart	1223	HEART		yuw	j u w
+249015	281672	transnewguineaorg-berinomo	beri1253		heart	1223	HEART		yo_kowa	j o + k o w a
+249019	281676	transnewguineaorg-bisis	bisi1244		heart	1223	HEART		yɔʔɔx	j ɔ ʔ ɔ x
+249028	281685	transnewguineaorg-chenapian	chen1259		heart	1223	HEART		nɩʔ	n ɪ ʔ
+249029	281686	transnewguineaorg-chenapian	chen1259		heart	1223	HEART		niʔ	n i ʔ
+249075	281732	transnewguineaorg-kapriman	kapr1245		heart	1223	HEART		yagux	j a g u x
+249145	281802	transnewguineaorg-saniyo-hiyewe	sani1270		heart	1223	HEART		mařipi	m a r̝ i p i
+249146	281803	transnewguineaorg-saniyo-hiyewe	sani1270		heart	1223	HEART		marɛpi	m a r ɛ p i
+250598	283255	johanssonsoundsymbolic-Awtuw	awtu1239		heavy	1210	HEAVY		jijlekholkhe	j i j l e kʰ o l kʰ e
+251125	283782	transnewguineaorg-alamblak	alam1246		heavy	1210	HEAVY		koř'ǥiwɛ̈tʰ	k o r̝ g i w ɛ tʰ
+251126	283783	transnewguineaorg-alamblak	alam1246		heavy	1210	HEAVY		khurukhiyuth	k h u r u k h i j u t h
+251148	283805	transnewguineaorg-bahinemo	bahi1254		heavy	1210	HEAVY		yisiy	j i s i j
+251160	283817	transnewguineaorg-bisis	bisi1244		heavy	1210	HEAVY		bɩsinakɛľus	b ɪ s i n a k ɛ ʎ u s
+251209	283866	transnewguineaorg-kapriman	kapr1245		heavy	1210	HEAVY		xargogwor	x a r g o g w o r
+251285	283942	transnewguineaorg-saniyo-hiyewe	sani1270		heavy	1210	HEAVY		orasia'i	o r a s i a i
+254434	287093	johanssonsoundsymbolic-Awtuw	awtu1239		here	136	HERE		ade	a d e
+258676	291336	johanssonsoundsymbolic-Awtuw	awtu1239		hit	1433	HIT		phujə	pʰ u j ə
+259012	291672	transnewguineaorg-alamblak	alam1246		hit	1433	HIT		'tʰatwɛ̈ʀ̥̌	tʰ a t w ɛ r
+268818	301478	johanssonsoundsymbolic-Awtuw	awtu1239		how	1239	HOW		jokh	j o kʰ
+274650	307310	johanssonsoundsymbolic-Awtuw	awtu1239		i	1209	I		wan	w a n
+275145	307805	transnewguineaorg-alamblak	alam1246		i	1209	I		na	n a
+275146	307806	transnewguineaorg-alamblak	alam1246		i	1209	I		na	n a
+275147	307807	transnewguineaorg-alamblak	alam1246		i	1209	I		na	n a
+275177	307837	transnewguineaorg-bahinemo	bahi1254		i	1209	I		'ani	a n i
+275190	307850	transnewguineaorg-bisis	bisi1244		i	1209	I		ʔanan	ʔ a n a n
+275262	307922	transnewguineaorg-kapriman	kapr1245		i	1209	I		an	a n
+275375	308035	transnewguineaorg-saniyo-hiyewe	sani1270		i	1209	I		anɛ	a n ɛ
+275376	308036	transnewguineaorg-saniyo-hiyewe	sani1270		i	1209	I		ane	a n e
+277997	310657	johanssonsoundsymbolic-Awtuw	awtu1239		in	1460	IN		lukhwo	l u kʰ w o
+287495	320155	johanssonsoundsymbolic-Awtuw	awtu1239		kill	1417	KILL		othkholja	o tʰ kʰ o l j a
+288219	320879	transnewguineaorg-saniyo-hiyewe	sani1270		kill	1417	KILL		ainɛ_tɛřaʔiyei	a i n ɛ + t ɛ r̝ a ʔ i j e i
+294772	327432	transnewguineaorg-saniyo-hiyewe	sani1270		knowsomething	1410	KNOW (SOMETHING)		soʔořu	s o ʔ o r̝ u
+298977	331637	johanssonsoundsymbolic-Awtuw	awtu1239		laugh	1355	LAUGH		mokhəl	m o kʰ ə l
+299615	332275	transnewguineaorg-alamblak	alam1246		laugh	1355	LAUGH		niŋ'gitʷɛ̈ʀ̥̌	n i ŋ g i tʷ ɛ r
+302133	334793	johanssonsoundsymbolic-Awtuw	awtu1239		leaf	628	LEAF		thawthiw	tʰ a w tʰ i w
+302875	335535	transnewguineaorg-alamblak	alam1246		leaf	628	LEAF		tʰ̊'atʰ	tʰ a tʰ
+302876	335536	transnewguineaorg-alamblak	alam1246		leaf	628	LEAF		revatuam	r e v a t u a m
+302903	335563	transnewguineaorg-bahinemo	bahi1254		leaf	628	LEAF		mi_sɩnowa	m i + s ɪ n o w a
+302910	335570	transnewguineaorg-berinomo	beri1253		leaf	628	LEAF		rɛhi	r ɛ h i
+302913	335573	transnewguineaorg-bisis	bisi1244		leaf	628	LEAF		lapař	l a p a r̝
+302925	335585	transnewguineaorg-chenapian	chen1259		leaf	628	LEAF		məntəp_taʔ	m ə n t ə p + t a ʔ
+302926	335586	transnewguineaorg-chenapian	chen1259		leaf	628	LEAF		taʔ	t a ʔ
+302984	335644	transnewguineaorg-kapriman	kapr1245		leaf	628	LEAF		mutuwas	m u t u w a s
+303073	335733	transnewguineaorg-saniyo-hiyewe	sani1270		leaf	628	LEAF		me_towe	m e + t o w e
+303074	335734	transnewguineaorg-saniyo-hiyewe	sani1270		leaf	628	LEAF		mʌtowɛ	m ʌ t o w ɛ
+305259	337919	johanssonsoundsymbolic-Awtuw	awtu1239		left	244	LEFT		athkhwakh	a tʰ kʰ w a kʰ
+306819	339479	transnewguineaorg-alamblak	alam1246		leg	1297	LEG		'wɷ'řatʰ	w oː r̝ a tʰ
+306820	339480	transnewguineaorg-alamblak	alam1246		leg	1297	LEG		wʌlat	w ʌ l a t
+306821	339481	transnewguineaorg-alamblak	alam1246		leg	1297	LEG		wura	w u r a
+306844	339504	transnewguineaorg-bahinemo	bahi1254		leg	1297	LEG		lowa	l o w a
+306855	339515	transnewguineaorg-berinomo	beri1253		leg	1297	LEG		rowa_hɛna	r o w a + h ɛ n a
+306860	339520	transnewguineaorg-bisis	bisi1244		leg	1297	LEG		wɛlis	w ɛ l i s
+306873	339533	transnewguineaorg-chenapian	chen1259		leg	1297	LEG		šonawəp	ʂ o n a w ə p
+306874	339534	transnewguineaorg-chenapian	chen1259		leg	1297	LEG		soʷanaup	s ou̯ a n a u p
+306927	339587	transnewguineaorg-kapriman	kapr1245		leg	1297	LEG		wola	w o l a
+307016	339676	transnewguineaorg-saniyo-hiyewe	sani1270		leg	1297	LEG		lowe	l o w e
+307017	339677	transnewguineaorg-saniyo-hiyewe	sani1270		leg	1297	LEG		rowɛ	r o w ɛ
+316901	349561	johanssonsoundsymbolic-Awtuw	awtu1239		liver	1224	LIVER		wuɾnewæw	w u ɾ n e w æ w
+317413	350073	transnewguineaorg-alamblak	alam1246		liver	1224	LIVER		wavʌt	w a v ʌ t
+317433	350093	transnewguineaorg-bahinemo	bahi1254		liver	1224	LIVER		wafu	w a f u
+317445	350105	transnewguineaorg-bisis	bisi1244		liver	1224	LIVER		wap̶ibikʰa	w a pˤ i b i kʰ a
+317502	350162	transnewguineaorg-kapriman	kapr1245		liver	1224	LIVER		wavəL	w a v ə l
+317572	350232	transnewguineaorg-saniyo-hiyewe	sani1270		liver	1224	LIVER		wawɛ	w a w ɛ
+317573	350233	transnewguineaorg-saniyo-hiyewe	sani1270		liver	1224	LIVER		wave	w a v e
+319799	352459	johanssonsoundsymbolic-Awtuw	awtu1239		long	1203	LONG		wokhəkh	w o kʰ ə kʰ
+320356	353016	transnewguineaorg-alamblak	alam1246		long	1203	LONG		'yukaʀ̥̌ʸ	j u k a r j
+320357	353017	transnewguineaorg-alamblak	alam1246		long	1203	LONG		yukhar	j u k h a r
+320384	353044	transnewguineaorg-bahinemo	bahi1254		long	1203	LONG		miya	m i j a
+320396	353056	transnewguineaorg-berinomo	beri1253		long	1203	LONG		miyakoʔa	m i j a k o ʔ a
+320400	353060	transnewguineaorg-bisis	bisi1244		long	1203	LONG		_suwatok	s u w a t o k
+320414	353074	transnewguineaorg-chenapian	chen1259		long	1203	LONG		kʷokʷas	kʷ o kʷ a s
+320415	353075	transnewguineaorg-chenapian	chen1259		long	1203	LONG		kwokas	k w o k a s
+320484	353144	transnewguineaorg-kapriman	kapr1245		long	1203	LONG		xagər	x a g ə r
+320594	353254	transnewguineaorg-saniyo-hiyewe	sani1270		long	1203	LONG		piteyaʔi	p i t e j a ʔ i
+320595	353255	transnewguineaorg-saniyo-hiyewe	sani1270		long	1203	LONG		pitase	p i t a s e
+323959	356619	transnewguineaorg-alamblak	alam1246		louse	1392	LOUSE		'nɛ̈mɨtʰ	n ɛ m ɨ tʰ
+323960	356620	transnewguineaorg-alamblak	alam1246		louse	1392	LOUSE		nʌmo	n ʌ m o
+323961	356621	transnewguineaorg-alamblak	alam1246		louse	1392	LOUSE		nəm	n ə m
+323997	356657	transnewguineaorg-bahinemo	bahi1254		louse	1392	LOUSE		nʌmu	n ʌ m u
+324008	356668	transnewguineaorg-berinomo	beri1253		louse	1392	LOUSE		tu_nɛm	t u + n ɛ m
+324009	356669	transnewguineaorg-berinomo	beri1253		louse	1392	LOUSE		tu_nɛm	t u + n ɛ m
+324013	356673	transnewguineaorg-bisis	bisi1244		louse	1392	LOUSE		ninis	n i n i s
+324025	356685	transnewguineaorg-chenapian	chen1259		louse	1392	LOUSE		dəmiaʔ	d ə m i a ʔ
+324026	356686	transnewguineaorg-chenapian	chen1259		louse	1392	LOUSE		damian	d a m i a n
+324091	356751	transnewguineaorg-kapriman	kapr1245		louse	1392	LOUSE		nʌmɩs	n ʌ m ɪ s
+324218	356878	transnewguineaorg-saniyo-hiyewe	sani1270		louse	1392	LOUSE		nɛmɛ	n ɛ m ɛ
+324219	356879	transnewguineaorg-saniyo-hiyewe	sani1270		louse	1392	LOUSE		nɛmɛ	n ɛ m ɛ
+332229	364890	johanssonsoundsymbolic-Awtuw	awtu1239		many	1198	MANY		liwkhe	l i w kʰ e
+332633	365294	transnewguineaorg-alamblak	alam1246		many	1198	MANY		'bɛ̈kɨm	b ɛ k ɨ m
+332663	365324	transnewguineaorg-berinomo	beri1253		many	1198	MANY		win_pitok_ʔa	w i n + p i t o k + ʔ a
+332676	365337	transnewguineaorg-chenapian	chen1259		many	1198	MANY		hayowən	h a j o w ə n
+332814	365475	transnewguineaorg-saniyo-hiyewe	sani1270		many	1198	MANY		tomu_ařasi	t o m u + a r̝ a s i
+349793	382454	transnewguineaorg-alamblak	alam1246		mother	1216	MOTHER		mɨ'memɨtʰ	m ɨ m e m ɨ tʰ
+349794	382455	transnewguineaorg-alamblak	alam1246		mother	1216	MOTHER		mʌmɛmɩt	m ʌ m ɛ m ɪ t
+349828	382489	transnewguineaorg-bahinemo	bahi1254		mother	1216	MOTHER		thanmay	t h a n m a j
+349842	382503	transnewguineaorg-berinomo	beri1253		mother	1216	MOTHER		miya	m i j a
+349847	382508	transnewguineaorg-bisis	bisi1244		mother	1216	MOTHER		mak	m a k
+349859	382521	transnewguineaorg-chenapian	chen1259		mother	1216	MOTHER		nawa	n a w a
+349860	382522	transnewguineaorg-chenapian	chen1259		mother	1216	MOTHER		nauwa	n a u w a
+349926	382588	transnewguineaorg-kapriman	kapr1245		mother	1216	MOTHER		maynja	m a j n j a
+350058	382722	transnewguineaorg-saniyo-hiyewe	sani1270		mother	1216	MOTHER		may	m a j
+350875	383539	johanssonsoundsymbolic-Awtuw	awtu1239		mountain	639	MOUNTAIN		thiwle	tʰ i w l e
+351412	384076	transnewguineaorg-alamblak	alam1246		mountain	639	MOUNTAIN		kɨmɩɲ'čɛ̈ƀɨtʰ	k ɨ m ɪ ɲ tʃ ɛ β ɨ tʰ
+351413	384077	transnewguineaorg-alamblak	alam1246		mountain	639	MOUNTAIN		khʌmin	k h ʌ m i n
+351437	384101	transnewguineaorg-bahinemo	bahi1254		mountain	639	MOUNTAIN		biga	b i g a
+351452	384116	transnewguineaorg-berinomo	beri1253		mountain	639	MOUNTAIN		anahapi	a n a h a p i
+351456	384120	transnewguineaorg-bisis	bisi1244		mountain	639	MOUNTAIN		ʔontʰuʔu	ʔ o n tʰ u ʔ u
+351469	384133	transnewguineaorg-chenapian	chen1259		mountain	639	MOUNTAIN		ao	a o
+351470	384134	transnewguineaorg-chenapian	chen1259		mountain	639	MOUNTAIN		ao	a o
+351532	384196	transnewguineaorg-kapriman	kapr1245		mountain	639	MOUNTAIN		nʌmbwomtok	n ʌ m b w o m t o k
+351639	384303	transnewguineaorg-saniyo-hiyewe	sani1270		mountain	639	MOUNTAIN		omo	o m o
+351640	384304	transnewguineaorg-saniyo-hiyewe	sani1270		mountain	639	MOUNTAIN		omo	o m o
+353384	386048	johanssonsoundsymbolic-Awtuw	awtu1239		mouth	674	MOUTH		alwoɾaw	a l w o ɾ a w
+354138	386802	transnewguineaorg-alamblak	alam1246		mouth	674	MOUTH		tʰɨŋgɨtʰ	tʰ ɨ ŋ g ɨ tʰ
+354139	386803	transnewguineaorg-alamblak	alam1246		mouth	674	MOUTH		tʌngʌth	t ʌ n g ʌ t h
+354169	386833	transnewguineaorg-bahinemo	bahi1254		mouth	674	MOUTH		gom	g o m
+354180	386844	transnewguineaorg-berinomo	beri1253		mouth	674	MOUTH		aiyo	a i j o
+354184	386848	transnewguineaorg-bisis	bisi1244		mouth	674	MOUTH		qoʔnah	q o ʔ n a h
+354194	386858	transnewguineaorg-chenapian	chen1259		mouth	674	MOUTH		samo_one	s a m o + o n e
+354195	386859	transnewguineaorg-chenapian	chen1259		mouth	674	MOUTH		samauni	s a m a u n i
+354268	386932	transnewguineaorg-kapriman	kapr1245		mouth	674	MOUTH		ayos	a j o s
+354376	387040	transnewguineaorg-saniyo-hiyewe	sani1270		mouth	674	MOUTH		ahi	a h i
+354377	387041	transnewguineaorg-saniyo-hiyewe	sani1270		mouth	674	MOUTH		ahi	a h i
+358403	391067	johanssonsoundsymbolic-Awtuw	awtu1239		name	1405	NAME		jenjij	j e n j i j
+358955	391620	transnewguineaorg-alamblak	alam1246		name	1405	NAME		'yuƀatʰ	j u β a tʰ
+358956	391621	transnewguineaorg-alamblak	alam1246		name	1405	NAME		yufat	j u f a t
+358957	391622	transnewguineaorg-alamblak	alam1246		name	1405	NAME		yufa	j u f a
+358988	391653	transnewguineaorg-bahinemo	bahi1254		name	1405	NAME		wufa	w u f a
+358999	391665	transnewguineaorg-berinomo	beri1253		name	1405	NAME		wiyapa	w i j a p a
+359012	391678	transnewguineaorg-chenapian	chen1259		name	1405	NAME		tamgu	t a m g u
+359013	391679	transnewguineaorg-chenapian	chen1259		name	1405	NAME		tamgu	t a m g u
+359080	391746	transnewguineaorg-kapriman	kapr1245		name	1405	NAME		ovas	o v a s
+359198	391864	transnewguineaorg-saniyo-hiyewe	sani1270		name	1405	NAME		yapɛ	j a p ɛ
+359199	391865	transnewguineaorg-saniyo-hiyewe	sani1270		name	1405	NAME		yapɛ	j a p ɛ
+360322	392988	johanssonsoundsymbolic-Awtuw	awtu1239		narrow	1267	NARROW		khenkhen	kʰ e n kʰ e n
+362953	395619	johanssonsoundsymbolic-Awtuw	awtu1239		near	1942	NEAR		thejwakhe	tʰ e j w a kʰ e
+364691	397358	johanssonsoundsymbolic-Awtuw	awtu1239		neck	1333	NECK		kholæj	kʰ o l æ j
+365436	398103	transnewguineaorg-alamblak	alam1246		neck	1333	NECK		'mɛ̈ǥɨtɨpitʰ	m ɛ g ɨ t ɨ p i tʰ
+365473	398140	transnewguineaorg-berinomo	beri1253		neck	1333	NECK		ɛpɛrɛ	ɛ p ɛ r ɛ
+365477	398144	transnewguineaorg-bisis	bisi1244		neck	1333	NECK		maʔak	m a ʔ a k
+365489	398156	transnewguineaorg-chenapian	chen1259		neck	1333	NECK		ugutop	u g u t o p
+365490	398157	transnewguineaorg-chenapian	chen1259		neck	1333	NECK		gʷutop	gʷ u t o p
+365661	398328	transnewguineaorg-saniyo-hiyewe	sani1270		neck	1333	NECK		pɛřɛʔi	p ɛ r̝ ɛ ʔ i
+368751	401418	johanssonsoundsymbolic-Awtuw	awtu1239		new	1231	NEW		nækh	n æ kʰ
+369289	401956	transnewguineaorg-alamblak	alam1246		new	1231	NEW		nɨƀ'řitʰ	n ɨ β r̝ i tʰ
+369329	401996	transnewguineaorg-berinomo	beri1253		new	1231	NEW		win_yoʔuwa	w i n + j o ʔ u w a
+369344	402011	transnewguineaorg-chenapian	chen1259		new	1231	NEW		anu	a n u
+369544	402211	transnewguineaorg-saniyo-hiyewe	sani1270		new	1231	NEW		hɛʔiyaʔi	h ɛ ʔ i j a ʔ i
+371522	404189	johanssonsoundsymbolic-Awtuw	awtu1239		night	1233	NIGHT		im	i m
+372243	404910	transnewguineaorg-alamblak	alam1246		night	1233	NIGHT		yi'ƀuŋkɨtʰ	j i β u ŋ k ɨ tʰ
+372244	404911	transnewguineaorg-alamblak	alam1246		night	1233	NIGHT		yɩvungʌth	j ɪ v u n g ʌ t h
+372274	404941	transnewguineaorg-bahinemo	bahi1254		night	1233	NIGHT		nʌmuli	n ʌ m u l i
+372286	404953	transnewguineaorg-berinomo	beri1253		night	1233	NIGHT		pasiyo	p a s i j o
+372290	404957	transnewguineaorg-bisis	bisi1244		night	1233	NIGHT		imakak	i m a k a k
+372301	404968	transnewguineaorg-chenapian	chen1259		night	1233	NIGHT		nᵋu	n ɛ u
+372302	404969	transnewguineaorg-chenapian	chen1259		night	1233	NIGHT		nʸu	nʲ u
+372376	405043	transnewguineaorg-kapriman	kapr1245		night	1233	NIGHT		nilis	n i l i s
+372494	405161	transnewguineaorg-saniyo-hiyewe	sani1270		night	1233	NIGHT		pasi	p a s i
+372495	405162	transnewguineaorg-saniyo-hiyewe	sani1270		night	1233	NIGHT		pasi	p a s i
+377340	410007	johanssonsoundsymbolic-Awtuw	awtu1239		nose	1221	NOSE		wuthil	w u tʰ i l
+378092	410759	transnewguineaorg-alamblak	alam1246		nose	1221	NOSE		'hʰušɨ_ɨtʰ	h u ʂ ɨ + ɨ tʰ
+378093	410760	transnewguineaorg-alamblak	alam1246		nose	1221	NOSE		'kʰučɨmɨtʰ	kʰ u tʃ ɨ m ɨ tʰ
+378094	410761	transnewguineaorg-alamblak	alam1246		nose	1221	NOSE		khusɩmʌth	k h u s ɪ m ʌ t h
+378095	410762	transnewguineaorg-alamblak	alam1246		nose	1221	NOSE		kusm	k u s m
+378130	410797	transnewguineaorg-bahinemo	bahi1254		nose	1221	NOSE		sɛkʌnɩ	s ɛ k ʌ n ɪ
+378141	410808	transnewguineaorg-berinomo	beri1253		nose	1221	NOSE		ɛrɛm	ɛ r ɛ m
+378145	410812	transnewguineaorg-bisis	bisi1244		nose	1221	NOSE		sikʌľap̶ar	s i k ʌ ʎ a pˤ a r
+378160	410827	transnewguineaorg-chenapian	chen1259		nose	1221	NOSE		munɩk	m u n ɪ k
+378161	410828	transnewguineaorg-chenapian	chen1259		nose	1221	NOSE		mɨnɨk	m ɨ n ɨ k
+378230	410897	transnewguineaorg-kapriman	kapr1245		nose	1221	NOSE		singova	s i n g o v a
+378358	411025	transnewguineaorg-saniyo-hiyewe	sani1270		nose	1221	NOSE		ɛrɛme	ɛ r ɛ m e
+378359	411026	transnewguineaorg-saniyo-hiyewe	sani1270		nose	1221	NOSE		ɛrɛmɛ	ɛ r ɛ m ɛ
+378943	411610	johanssonsoundsymbolic-Awtuw	awtu1239		not	1240	NOT		kha	kʰ a
+379379	412046	transnewguineaorg-alamblak	alam1246		not	1240	NOT		iɲji	i ɲ j i
+379510	412177	transnewguineaorg-saniyo-hiyewe	sani1270		not	1240	NOT		-taʔama	t a ʔ a m a
+389635	422302	johanssonsoundsymbolic-Awtuw	awtu1239		one	1493	ONE		najdowo	n a j d o w o
+390369	423036	transnewguineaorg-alamblak	alam1246		one	1493	ONE		řɨpʰatʰ	r̝ ɨ pʰ a tʰ
+390370	423037	transnewguineaorg-alamblak	alam1246		one	1493	ONE		rɛphar	r ɛ p h a r
+390371	423038	transnewguineaorg-alamblak	alam1246		one	1493	ONE		rpa	r p a
+390405	423072	transnewguineaorg-bahinemo	bahi1254		one	1493	ONE		dʌbatha	d ʌ b a t h a
+390416	423083	transnewguineaorg-berinomo	beri1253		one	1493	ONE		tɛpa	t ɛ p a
+390417	423084	transnewguineaorg-berinomo	beri1253		one	1493	ONE		tɛpa	t ɛ p a
+390421	423088	transnewguineaorg-bisis	bisi1244		one	1493	ONE		tabak	t a b a k
+390437	423104	transnewguineaorg-chenapian	chen1259		one	1493	ONE		sⁱərəʔ	s i ə r ə ʔ
+390438	423105	transnewguineaorg-chenapian	chen1259		one	1493	ONE		nař	n a r̝
+390506	423173	transnewguineaorg-kapriman	kapr1245		one	1493	ONE		dɩbar	d ɪ b a r
+390629	423296	transnewguineaorg-saniyo-hiyewe	sani1270		one	1493	ONE		taʔi	t a ʔ i
+390630	423297	transnewguineaorg-saniyo-hiyewe	sani1270		one	1493	ONE		hɛta'i	h ɛ t a i
+393695	426362	johanssonsoundsymbolic-Awtuw	awtu1239		other	197	OTHER		dæni	d æ n i
+406177	438844	johanssonsoundsymbolic-Awtuw	awtu1239		person	683	PERSON		ɾaɾnejæn	ɾ a ɾ n e j æ n
+406819	439486	transnewguineaorg-saniyo-hiyewe	sani1270		person	683	PERSON		mɛni	m ɛ n i
+432433	465101	johanssonsoundsymbolic-Awtuw	awtu1239		red	156	RED		æjphijkhwo	æ j pʰ i j kʰ w o
+432986	465654	transnewguineaorg-alamblak	alam1246		red	156	RED		khokhophi	k h o k h o p h i
+433018	465686	transnewguineaorg-bahinemo	bahi1254		red	156	RED		mahiyo	m a h i j o
+433030	465698	transnewguineaorg-berinomo	beri1253		red	156	RED		mɛhi_ʔa	m ɛ h i + ʔ a
+433034	465702	transnewguineaorg-bisis	bisi1244		red	156	RED		susukʰuam	s u s u kʰ u a m
+433044	465712	transnewguineaorg-chenapian	chen1259		red	156	RED		mbi	m b i
+433045	465713	transnewguineaorg-chenapian	chen1259		red	156	RED		bi	b i
+433109	465777	transnewguineaorg-kapriman	kapr1245		red	156	RED		mʌbjay	m ʌ b j a j
+433212	465880	transnewguineaorg-saniyo-hiyewe	sani1270		red	156	RED		řoʔuwaʔi	r̝ o ʔ u w a ʔ i
+433213	465881	transnewguineaorg-saniyo-hiyewe	sani1270		red	156	RED		ro'ua'i	r o u a i
+438209	470877	johanssonsoundsymbolic-Awtuw	awtu1239		right	1019	RIGHT		jijlemede	j i j l e m e d e
+440689	473357	johanssonsoundsymbolic-Awtuw	awtu1239		river	666	RIVER		wijthaphe	w i j tʰ a pʰ e
+444389	477058	johanssonsoundsymbolic-Awtuw	awtu1239		root	670	ROOT		thawthen	tʰ a w tʰ e n
+445045	477714	transnewguineaorg-alamblak	alam1246		root	670	ROOT		nəm'bebṃ	n ə ˀb e b m
+445046	477715	transnewguineaorg-alamblak	alam1246		root	670	ROOT		mʌthithʌbm	m ʌ t h i t h ʌ b m
+445073	477742	transnewguineaorg-bahinemo	bahi1254		root	670	ROOT		mi_nabi	m i + n a b i
+445084	477753	transnewguineaorg-berinomo	beri1253		root	670	ROOT		rai	r a i
+445088	477757	transnewguineaorg-bisis	bisi1244		root	670	ROOT		boŋgo	b o ŋ g o
+445098	477767	transnewguineaorg-chenapian	chen1259		root	670	ROOT		məntəp_nɛp	m ə n t ə p + n ɛ p
+445099	477768	transnewguineaorg-chenapian	chen1259		root	670	ROOT		montoapnɛp	m o n t o a p n ɛ p
+445162	477831	transnewguineaorg-kapriman	kapr1245		root	670	ROOT		mɩnɩniva	m ɪ n ɪ n i v a
+445265	477934	transnewguineaorg-saniyo-hiyewe	sani1270		root	670	ROOT		me_napi	m e + n a p i
+445266	477935	transnewguineaorg-saniyo-hiyewe	sani1270		root	670	ROOT		menapi	m e n a p i
+446282	478951	johanssonsoundsymbolic-Awtuw	awtu1239		rope	1218	ROPE		mæth	m æ tʰ
+447930	480599	johanssonsoundsymbolic-Awtuw	awtu1239		rotten	1728	ROTTEN		phumphum_ɾokhw	pʰ u m pʰ u m + ɾ o kʷʰ
+456336	489005	johanssonsoundsymbolic-Awtuw	awtu1239		sand	671	SAND		thelman	tʰ e l m a n
+457042	489711	transnewguineaorg-alamblak	alam1246		sand	671	SAND		nonguth	n o n g u t h
+457070	489739	transnewguineaorg-bahinemo	bahi1254		sand	671	SAND		nogu	n o g u
+457079	489748	transnewguineaorg-berinomo	beri1253		sand	671	SAND		noʔ	n o ʔ
+457083	489752	transnewguineaorg-bisis	bisi1244		sand	671	SAND		qasoq̶om	q a s o qˤ o m
+457093	489762	transnewguineaorg-chenapian	chen1259		sand	671	SAND		ṣɩʔni	s ɪ ʔ n i
+457094	489763	transnewguineaorg-chenapian	chen1259		sand	671	SAND		sɩtni	s ɪ t n i
+457158	489827	transnewguineaorg-kapriman	kapr1245		sand	671	SAND		nʌngu	n ʌ n g u
+457259	489928	transnewguineaorg-saniyo-hiyewe	sani1270		sand	671	SAND		tɛřɛřɛ	t ɛ r̝ ɛ r̝ ɛ
+457260	489929	transnewguineaorg-saniyo-hiyewe	sani1270		sand	671	SAND		'ɛnɛri	ɛ n ɛ r i
+459298	491967	johanssonsoundsymbolic-Awtuw	awtu1239		say	1458	SAY		makh	m a kʰ
+459788	492457	transnewguineaorg-alamblak	alam1246		say	1458	SAY		kɨ'biwɛ̈ʀ̥̌	k ɨ b i w ɛ r
+463133	495802	johanssonsoundsymbolic-Awtuw	awtu1239		sea	1474	SEA		solwaɾa	s o l w a ɾ a
+465043	497713	johanssonsoundsymbolic-Awtuw	awtu1239		see	1409	SEE		owpha	o w pʰ a
+465797	498467	transnewguineaorg-alamblak	alam1246		see	1409	SEE		xɨ'tʰitʷɛ̈ʀ̥̌	x ɨ tʰ i tʷ ɛ r
+465798	498468	transnewguineaorg-alamblak	alam1246		see	1409	SEE		wokatinum	w o k a t i n u m
+465799	498469	transnewguineaorg-alamblak	alam1246		see	1409	SEE		ɣɨti	ɣ ɨ t i
+465824	498494	transnewguineaorg-bahinemo	bahi1254		see	1409	SEE		dʌnowey	d ʌ n o w e j
+465841	498511	transnewguineaorg-bisis	bisi1244		see	1409	SEE		ʔatʰop̶anʌle	ʔ a tʰ o pˤ a n ʌ l e
+465918	498588	transnewguineaorg-kapriman	kapr1245		see	1409	SEE		wangatogər	w a n g a t o g ə r
+466042	498712	transnewguineaorg-saniyo-hiyewe	sani1270		see	1409	SEE		siyeyei	s i j e j e i
+466043	498713	transnewguineaorg-saniyo-hiyewe	sani1270		see	1409	SEE		siyɛsiyʌ	s i j ɛ s i j ʌ
+466622	499292	johanssonsoundsymbolic-Awtuw	awtu1239		seed	714	SEED		wathe	w a tʰ e
+467115	499785	transnewguineaorg-alamblak	alam1246		seed	714	SEED		miyukhram	m i j u k h r a m
+467129	499799	transnewguineaorg-bahinemo	bahi1254		seed	714	SEED		hʌbi	h ʌ b i
+467136	499806	transnewguineaorg-bisis	bisi1244		seed	714	SEED		moyukwam	m o j u k w a m
+467188	499858	transnewguineaorg-kapriman	kapr1245		seed	714	SEED		miyokwar	m i j o k w a r
+467229	499899	transnewguineaorg-saniyo-hiyewe	sani1270		seed	714	SEED		meso	m e s o
+467230	499900	transnewguineaorg-saniyo-hiyewe	sani1270		seed	714	SEED		meso	m e s o
+474924	507595	johanssonsoundsymbolic-Awtuw	awtu1239		sharp	1396	SHARP		phəɾphəɾ	pʰ ə ɾ pʰ ə ɾ
+481514	514186	johanssonsoundsymbolic-Awtuw	awtu1239		short	1645	SHORT		thukhɾe	tʰ u kʰ ɾ e
+490488	523160	johanssonsoundsymbolic-Awtuw	awtu1239		sit	1416	SIT		ikh	i kʰ
+491007	523679	transnewguineaorg-alamblak	alam1246		sit	1416	SIT		'kʰorǥwoʀ̥̌	kʰ o r g w o r
+491008	523680	transnewguineaorg-alamblak	alam1246		sit	1416	SIT		khodʌgor	k h o d ʌ g o r
+491009	523681	transnewguineaorg-alamblak	alam1246		sit	1416	SIT		roɣ	r o ɣ
+491040	523712	transnewguineaorg-bahinemo	bahi1254		sit	1416	SIT		diyʌl	d i j ʌ l
+491052	523724	transnewguineaorg-berinomo	beri1253		sit	1416	SIT		wiriwɛ	w i r i w ɛ
+491055	523727	transnewguineaorg-bisis	bisi1244		sit	1416	SIT		biľu_yunus	b i ʎ u + j u n u s
+491067	523739	transnewguineaorg-chenapian	chen1259		sit	1416	SIT		nan_bono_was	n a n + b o n o + w a s
+491068	523740	transnewguineaorg-chenapian	chen1259		sit	1416	SIT		bunuas	b u n u a s
+491137	523809	transnewguineaorg-kapriman	kapr1245		sit	1416	SIT		woɣloL_lij	w o ɣ l o l + l i j
+491257	523929	transnewguineaorg-saniyo-hiyewe	sani1270		sit	1416	SIT		onuwɛ	o n u w ɛ
+491258	523930	transnewguineaorg-saniyo-hiyewe	sani1270		sit	1416	SIT		'ʌnue	ʌ n u e
+497055	529727	johanssonsoundsymbolic-Awtuw	awtu1239		sky	1732	SKY		mæj	m æ j
+499238	531910	johanssonsoundsymbolic-Awtuw	awtu1239		sleep	1585	SLEEP		owna	o w n a
+500205	532878	transnewguineaorg-saniyo-hiyewe	sani1270		sleep	1585	SLEEP		howeyɛ	h o w e j ɛ
+502820	535494	johanssonsoundsymbolic-Awtuw	awtu1239		small	1246	SMALL		jankhejkhe	j a n kʰ e j kʰ e
+503595	536269	transnewguineaorg-alamblak	alam1246		small	1246	SMALL		habǥii'ɛnɨʀ̥̌	h a b g iː ɛ n ɨ r
+503596	536270	transnewguineaorg-alamblak	alam1246		small	1246	SMALL		takhəphuyɛrʌm	t a k h ə p h u j ɛ r ʌ m
+503620	536294	transnewguineaorg-bahinemo	bahi1254		small	1246	SMALL		'ʌnhaytha	ʌ n h a j t h a
+503631	536305	transnewguineaorg-berinomo	beri1253		small	1246	SMALL		pano_ha	p a n o + h a
+503635	536309	transnewguineaorg-bisis	bisi1244		small	1246	SMALL		ƀanɩnɩnɩs	β a n ɪ n ɪ n ɪ s
+503647	536321	transnewguineaorg-chenapian	chen1259		small	1246	SMALL		mangɛto	m a n g ɛ t o
+503648	536322	transnewguineaorg-chenapian	chen1259		small	1246	SMALL		mɨngaito	m ɨ n g a i t o
+503715	536389	transnewguineaorg-kapriman	kapr1245		small	1246	SMALL		glɩkha	g l ɪ k h a
+503842	536516	transnewguineaorg-saniyo-hiyewe	sani1270		small	1246	SMALL		osowaʔi	o s o w a ʔ i
+503843	536517	transnewguineaorg-saniyo-hiyewe	sani1270		small	1246	SMALL		'ʌswa'i	ʌ s w a i
+507150	539826	johanssonsoundsymbolic-Awtuw	awtu1239		smokeexhaust	778	SMOKE (EXHAUST)		thipheljow	tʰ i pʰ e l j o w
+507848	540524	transnewguineaorg-alamblak	alam1246		smokeexhaust	778	SMOKE (EXHAUST)		xi'peƀɨtʰ	x i p e β ɨ tʰ
+507849	540525	transnewguineaorg-alamblak	alam1246		smokeexhaust	778	SMOKE (EXHAUST)		khaxipor	k h a x i p o r
+507882	540558	transnewguineaorg-bahinemo	bahi1254		smokeexhaust	778	SMOKE (EXHAUST)		ya_sifi	j a + s i f i
+507895	540571	transnewguineaorg-berinomo	beri1253		smokeexhaust	778	SMOKE (EXHAUST)		itai_so	i t a i + s o
+507896	540572	transnewguineaorg-berinomo	beri1253		smokeexhaust	778	SMOKE (EXHAUST)		itai_so	i t a i + s o
+507900	540576	transnewguineaorg-bisis	bisi1244		smokeexhaust	778	SMOKE (EXHAUST)		yɩ_ʔɛřis	j ɪ + ʔ ɛ r̝ i s
+507913	540589	transnewguineaorg-chenapian	chen1259		smokeexhaust	778	SMOKE (EXHAUST)		un_čok	u n + tʃ o k
+507914	540590	transnewguineaorg-chenapian	chen1259		smokeexhaust	778	SMOKE (EXHAUST)		unsək	u n s ə k
+507983	540659	transnewguineaorg-kapriman	kapr1245		smokeexhaust	778	SMOKE (EXHAUST)		yɛrikha	j ɛ r i k h a
+508104	540780	transnewguineaorg-saniyo-hiyewe	sani1270		smokeexhaust	778	SMOKE (EXHAUST)		sapu	s a p u
+508105	540781	transnewguineaorg-saniyo-hiyewe	sani1270		smokeexhaust	778	SMOKE (EXHAUST)		yɛhitʌmu	j ɛ h i t ʌ m u
+508629	541305	johanssonsoundsymbolic-Awtuw	awtu1239		smooth	1234	SMOOTH		weɾeje	w e ɾ e j e
+510545	543221	transnewguineaorg-alamblak	alam1246		snake	730	SNAKE		nan'dɛ̈mɨtʰ	n a n d ɛ m ɨ tʰ
+510546	543222	transnewguineaorg-alamblak	alam1246		snake	730	SNAKE		nandʌm	n a n d ʌ m
+510547	543223	transnewguineaorg-alamblak	alam1246		snake	730	SNAKE		nandəm	n a n d ə m
+510584	543260	transnewguineaorg-bahinemo	bahi1254		snake	730	SNAKE		no	n o
+510594	543270	transnewguineaorg-berinomo	beri1253		snake	730	SNAKE		paʔ	p a ʔ
+510598	543274	transnewguineaorg-bisis	bisi1244		snake	730	SNAKE		nɩŋgɩsɔk	n ɪ ŋ g ɪ s ɔ k
+510609	543285	transnewguineaorg-chenapian	chen1259		snake	730	SNAKE		möptö	m ö p t ö
+510610	543286	transnewguineaorg-chenapian	chen1259		snake	730	SNAKE		mʊbta	m ʊ b t a
+510661	543337	transnewguineaorg-kapriman	kapr1245		snake	730	SNAKE		bidyor	b i d j o r
+510758	543434	transnewguineaorg-saniyo-hiyewe	sani1270		snake	730	SNAKE		haru	h a r u
+514093	546769	johanssonsoundsymbolic-Awtuw	awtu1239		some	1241	SOME		womjæthne	w o m j æ tʰ n e
+524137	556813	johanssonsoundsymbolic-Awtuw	awtu1239		spit	1440	SPIT		thæphlej	tʰ æ pʰ l e j
+530025	562701	johanssonsoundsymbolic-Awtuw	awtu1239		stand	1442	STAND		iwɾekh	i w ɾ e kʰ
+530504	563180	transnewguineaorg-alamblak	alam1246		stand	1442	STAND		'tʰɛ̈ǥwoʀ̌	tʰ ɛ g w o r
+530505	563181	transnewguineaorg-alamblak	alam1246		stand	1442	STAND		thʌgaythɔgor	t h ʌ g a j t h ɔ g o r
+530506	563182	transnewguineaorg-alamblak	alam1246		stand	1442	STAND		təɣ	t ə ɣ
+530537	563213	transnewguineaorg-bahinemo	bahi1254		stand	1442	STAND		dʌthayɩsi	d ʌ t h a j ɪ s i
+530552	563228	transnewguineaorg-berinomo	beri1253		stand	1442	STAND		sinatewɛ	s i n a t e w ɛ
+530553	563229	transnewguineaorg-berinomo	beri1253		stand	1442	STAND		sinatewɛ	s i n a t e w ɛ
+530557	563233	transnewguineaorg-bisis	bisi1244		stand	1442	STAND		biľiyatɔʔɔs	b i ʎ i j a t ɔ ʔ ɔ s
+530570	563246	transnewguineaorg-chenapian	chen1259		stand	1442	STAND		bogʷanas	b o gʷ a n a s
+530571	563247	transnewguineaorg-chenapian	chen1259		stand	1442	STAND		bugunas	b u g u n a s
+530644	563320	transnewguineaorg-kapriman	kapr1245		stand	1442	STAND		wathʌx	w a t h ʌ x
+530789	563465	transnewguineaorg-saniyo-hiyewe	sani1270		stand	1442	STAND		teyei	t e j e i
+530790	563466	transnewguineaorg-saniyo-hiyewe	sani1270		stand	1442	STAND		teye	t e j e
+532280	564956	johanssonsoundsymbolic-Awtuw	awtu1239		star	1430	STAR		wuwph	w u w pʰ
+532842	565518	transnewguineaorg-alamblak	alam1246		star	1430	STAR		'guɲɨʀ̥̌	g u ɲ ɨ r
+532843	565519	transnewguineaorg-alamblak	alam1246		star	1430	STAR		gunyər	g u n j ə r
+532874	565550	transnewguineaorg-bahinemo	bahi1254		star	1430	STAR		dul	d u l
+532886	565562	transnewguineaorg-berinomo	beri1253		star	1430	STAR		kina	k i n a
+532890	565566	transnewguineaorg-bisis	bisi1244		star	1430	STAR		mɩmbitʰ	m ɪ m b i tʰ
+532906	565582	transnewguineaorg-chenapian	chen1259		star	1430	STAR		donok	d o n o k
+532907	565583	transnewguineaorg-chenapian	chen1259		star	1430	STAR		dunok	d u n o k
+532980	565656	transnewguineaorg-kapriman	kapr1245		star	1430	STAR		duL	d u l
+533110	565786	transnewguineaorg-saniyo-hiyewe	sani1270		star	1430	STAR		iřimi	i r̝ i m i
+533111	565787	transnewguineaorg-saniyo-hiyewe	sani1270		star	1430	STAR		sariyɩpu	s a r i j ɪ p u
+535995	568671	transnewguineaorg-berinomo	beri1253		stick	1295	STICK		mɛ_au	m ɛ + a u
+536004	568680	transnewguineaorg-chenapian	chen1259		stick	1295	STICK		dⁱuf	d i u f
+536005	568681	transnewguineaorg-chenapian	chen1259		stick	1295	STICK		mɨntop	m ɨ n t o p
+538820	571497	johanssonsoundsymbolic-Awtuw	awtu1239		stone	857	STONE		thijl	tʰ i j l
+539561	572238	transnewguineaorg-alamblak	alam1246		stone	857	STONE		tʰaǥᵗč	tʰ a g t tʃ
+539562	572239	transnewguineaorg-alamblak	alam1246		stone	857	STONE		š	ʂ
+539563	572240	transnewguineaorg-alamblak	alam1246		stone	857	STONE		taxim	t a x i m
+539596	572273	transnewguineaorg-bahinemo	bahi1254		stone	857	STONE		ba	b a
+539607	572284	transnewguineaorg-berinomo	beri1253		stone	857	STONE		pa	p a
+539610	572287	transnewguineaorg-bisis	bisi1244		stone	857	STONE		obak	o b a k
+539624	572301	transnewguineaorg-chenapian	chen1259		stone	857	STONE		nogɛrao	n o g ɛ r a o
+539625	572302	transnewguineaorg-chenapian	chen1259		stone	857	STONE		noguařo	n o g u a r̝ o
+539700	572377	transnewguineaorg-kapriman	kapr1245		stone	857	STONE		obar	o b a r
+539828	572505	transnewguineaorg-saniyo-hiyewe	sani1270		stone	857	STONE		tapiyɛ	t a p i j ɛ
+539829	572506	transnewguineaorg-saniyo-hiyewe	sani1270		stone	857	STONE		tapiyɛ	t a p i j ɛ
+541248	573925	johanssonsoundsymbolic-Awtuw	awtu1239		straight	1404	STRAIGHT		phethejthakhwo	pʰ e tʰ e j tʰ a kʰ w o
+546233	578910	johanssonsoundsymbolic-Awtuw	awtu1239		suck	1421	SUCK		amthiɾna	a m tʰ i ɾ n a
+548207	580884	johanssonsoundsymbolic-Awtuw	awtu1239		sun	1343	SUN		mæj	m æ j
+548956	581633	transnewguineaorg-alamblak	alam1246		sun	1343	SUN		'mařɨʀ̥̌	m a r̝ ɨ r
+548957	581634	transnewguineaorg-alamblak	alam1246		sun	1343	SUN		mar	m a r
+548958	581635	transnewguineaorg-alamblak	alam1246		sun	1343	SUN		mar	m a r
+548993	581670	transnewguineaorg-bahinemo	bahi1254		sun	1343	SUN		tɩniya	t ɪ n i j a
+549005	581682	transnewguineaorg-berinomo	beri1253		sun	1343	SUN		teniya	t e n i j a
+549009	581686	transnewguineaorg-bisis	bisi1244		sun	1343	SUN		maľɛľɛl	m a ʎ ɛ ʎ ɛ l
+549026	581703	transnewguineaorg-chenapian	chen1259		sun	1343	SUN		ǰaƀan	dʒ a β a n
+549027	581704	transnewguineaorg-chenapian	chen1259		sun	1343	SUN		džabɨn	dʒ a b ɨ n
+549101	581778	transnewguineaorg-kapriman	kapr1245		sun	1343	SUN		yɛneza	j ɛ n e z a
+549230	581907	transnewguineaorg-saniyo-hiyewe	sani1270		sun	1343	SUN		poweyɛ	p o w e j ɛ
+549231	581908	transnewguineaorg-saniyo-hiyewe	sani1270		sun	1343	SUN		poɔyuɛ	p o ɔ j u ɛ
+555248	587925	johanssonsoundsymbolic-Awtuw	awtu1239		swim	1439	SWIM		wa	w a
+555733	588410	transnewguineaorg-saniyo-hiyewe	sani1270		swim	1439	SWIM		saʔi_feiyei	s a ʔ i + f e i j e i
+557702	590379	johanssonsoundsymbolic-Awtuw	awtu1239		tail	1220	TAIL		wukhliwkhe	w u kʰ l i w kʰ e
+558250	590927	transnewguineaorg-alamblak	alam1246		tail	1220	TAIL		'guřƀɛ̈ntʰ	g u r̝ β ɛ n tʰ
+558251	590928	transnewguineaorg-alamblak	alam1246		tail	1220	TAIL		gərbʌn	g ə r b ʌ n
+558291	590968	transnewguineaorg-bahinemo	bahi1254		tail	1220	TAIL		yɩni	j ɪ n i
+558308	590985	transnewguineaorg-berinomo	beri1253		tail	1220	TAIL		yini	j i n i
+558313	590990	transnewguineaorg-bisis	bisi1244		tail	1220	TAIL		indop̶ok	i n d o pˤ o k
+558328	591005	transnewguineaorg-chenapian	chen1259		tail	1220	TAIL		ön	ö n
+558329	591006	transnewguineaorg-chenapian	chen1259		tail	1220	TAIL		ɨn	ɨ n
+558405	591082	transnewguineaorg-kapriman	kapr1245		tail	1220	TAIL		ningyɛvu	n i n g j ɛ v u
+558548	591225	transnewguineaorg-saniyo-hiyewe	sani1270		tail	1220	TAIL		ini	i n i
+558549	591226	transnewguineaorg-saniyo-hiyewe	sani1270		tail	1220	TAIL		ini	i n i
+567091	599770	johanssonsoundsymbolic-Awtuw	awtu1239		that	78	THAT		ophoɾ	o pʰ o ɾ
+569177	601856	johanssonsoundsymbolic-Awtuw	awtu1239		there	1937	THERE		opho	o pʰ o
+570636	603315	johanssonsoundsymbolic-Awtuw	awtu1239		they	817	THEY		ɾom	ɾ o m
+571034	603713	transnewguineaorg-alamblak	alam1246		they	817	THEY		řɛ̈m	r̝ ɛ m
+571035	603714	transnewguineaorg-alamblak	alam1246		they	817	THEY		rə-m	r ə + m
+571056	603735	transnewguineaorg-bisis	bisi1244		they	817	THEY		witiom	w i t i o m
+572064	604743	johanssonsoundsymbolic-Awtuw	awtu1239		thick	1244	THICK		wawəɾnenej	w a w ə ɾ n e n e j
+573462	606141	johanssonsoundsymbolic-Awtuw	awtu1239		thin	2308	THIN		pheɾijawkhwo	pʰ e ɾ i j a w kʰ w o
+574884	607563	johanssonsoundsymbolic-Awtuw	awtu1239		think	2271	THINK		nenæn_laj	n e n æ n + l a j
+578179	610858	johanssonsoundsymbolic-Awtuw	awtu1239		this	1214	THIS		adeɾ	a d e ɾ
+580364	613047	johanssonsoundsymbolic-Awtuw	awtu1239		thou	1215	THOU		jen	j e n
+580840	613523	transnewguineaorg-alamblak	alam1246		thou	1215	THOU		ni	n i
+580851	613534	transnewguineaorg-bahinemo	bahi1254		thou	1215	THOU		'ini	i n i
+580855	613538	transnewguineaorg-bisis	bisi1244		thou	1215	THOU		nɩni	n ɪ n i
+580892	613575	transnewguineaorg-kapriman	kapr1245		thou	1215	THOU		nï	n i
+580933	613616	transnewguineaorg-saniyo-hiyewe	sani1270		thou	1215	THOU		nɛ	n ɛ
+580934	613617	transnewguineaorg-saniyo-hiyewe	sani1270		thou	1215	THOU		ne	n e
+583132	615817	johanssonsoundsymbolic-Awtuw	awtu1239		three	492	THREE		uɾunkh	u ɾ u n kʰ
+583816	616501	transnewguineaorg-alamblak	alam1246		three	492	THREE		xoš'ƀiʀ̥̌pʰatʰ	x o ʂ β i r pʰ a tʰ
+583817	616502	transnewguineaorg-alamblak	alam1246		three	492	THREE		hutsɩfɩtupar	h u ts ɪ f ɪ t u p a r
+583818	616503	transnewguineaorg-alamblak	alam1246		three	492	THREE		hosfrpa	h o s f r p a
+583837	616522	transnewguineaorg-bahinemo	bahi1254		three	492	THREE		huməli	h u m ə l i
+583844	616529	transnewguineaorg-bisis	bisi1244		three	492	THREE		ʔumɛľis	ʔ u m ɛ ʎ i s
+583892	616577	transnewguineaorg-kapriman	kapr1245		three	492	THREE		humbʌli	h u m b ʌ l i
+583934	616619	transnewguineaorg-saniyo-hiyewe	sani1270		three	492	THREE		hɛsi_heta	h ɛ s i + h e t a
+589167	621854	johanssonsoundsymbolic-Awtuw	awtu1239		tie	1917	TIE		owna	o w n a
+596260	628947	johanssonsoundsymbolic-Awtuw	awtu1239		tongue	1205	TONGUE		lale	l a l e
+597002	629689	transnewguineaorg-alamblak	alam1246		tongue	1205	TONGUE		'tʰoʀ̥̌tʰ	tʰ o r tʰ
+597003	629690	transnewguineaorg-alamblak	alam1246		tongue	1205	TONGUE		torkh	t o r k h
+597004	629691	transnewguineaorg-alamblak	alam1246		tongue	1205	TONGUE		tor	t o r
+597037	629724	transnewguineaorg-bahinemo	bahi1254		tongue	1205	TONGUE		thɔlu	t h ɔ l u
+597048	629735	transnewguineaorg-berinomo	beri1253		tongue	1205	TONGUE		tor	t o r
+597049	629736	transnewguineaorg-berinomo	beri1253		tongue	1205	TONGUE		tor	t o r
+597053	629740	transnewguineaorg-bisis	bisi1244		tongue	1205	TONGUE		toguʌl	t o g u ʌ l
+597068	629755	transnewguineaorg-chenapian	chen1259		tongue	1205	TONGUE		taun	t a u n
+597069	629756	transnewguineaorg-chenapian	chen1259		tongue	1205	TONGUE		ton	t o n
+597141	629828	transnewguineaorg-kapriman	kapr1245		tongue	1205	TONGUE		thʌdɩs	t h ʌ d ɪ s
+597263	629950	transnewguineaorg-saniyo-hiyewe	sani1270		tongue	1205	TONGUE		sořowɛ	s o r̝ o w ɛ
+597264	629951	transnewguineaorg-saniyo-hiyewe	sani1270		tongue	1205	TONGUE		soruwɛ	s o r u w ɛ
+598437	631124	johanssonsoundsymbolic-Awtuw	awtu1239		tooth	1380	TOOTH		phijlakhe	pʰ i j l a kʰ e
+599177	631864	transnewguineaorg-alamblak	alam1246		tooth	1380	TOOTH		bɩ'čɛ̈tʰ	b ɪ tʃ ɛ tʰ
+599178	631865	transnewguineaorg-alamblak	alam1246		tooth	1380	TOOTH		bɩ'šɛ̈tʰ	b ɪ ʂ ɛ tʰ
+599179	631866	transnewguineaorg-alamblak	alam1246		tooth	1380	TOOTH		bɩsʌm	b ɪ s ʌ m
+599180	631867	transnewguineaorg-alamblak	alam1246		tooth	1380	TOOTH		biʃə	b i ʃ ə
+599213	631900	transnewguineaorg-bahinemo	bahi1254		tooth	1380	TOOTH		pi	p i
+599225	631912	transnewguineaorg-berinomo	beri1253		tooth	1380	TOOTH		pi	p i
+599229	631916	transnewguineaorg-bisis	bisi1244		tooth	1380	TOOTH		binikam	b i n i k a m
+599244	631931	transnewguineaorg-chenapian	chen1259		tooth	1380	TOOTH		diu	d i u
+599245	631932	transnewguineaorg-chenapian	chen1259		tooth	1380	TOOTH		duɨʔ	d u ɨ ʔ
+599315	632002	transnewguineaorg-kapriman	kapr1245		tooth	1380	TOOTH		bim	b i m
+599438	632125	transnewguineaorg-saniyo-hiyewe	sani1270		tooth	1380	TOOTH		pi	p i
+599439	632126	transnewguineaorg-saniyo-hiyewe	sani1270		tooth	1380	TOOTH		pi	p i
+602843	635530	johanssonsoundsymbolic-Awtuw	awtu1239		tree	906	TREE		thaw	tʰ a w
+603599	636286	transnewguineaorg-alamblak	alam1246		tree	906	TREE		mᵼč	m lˠ tʃ
+603600	636287	transnewguineaorg-alamblak	alam1246		tree	906	TREE		mᵼš	m lˠ ʂ
+603601	636288	transnewguineaorg-alamblak	alam1246		tree	906	TREE		mim	m i m
+603602	636289	transnewguineaorg-alamblak	alam1246		tree	906	TREE		mɨy	m ɨ j
+603635	636322	transnewguineaorg-bahinemo	bahi1254		tree	906	TREE		mi	m i
+603646	636333	transnewguineaorg-berinomo	beri1253		tree	906	TREE		mɛ	m ɛ
+603650	636337	transnewguineaorg-bisis	bisi1244		tree	906	TREE		mom	m o m
+603663	636350	transnewguineaorg-chenapian	chen1259		tree	906	TREE		məntəp	m ə n t ə p
+603664	636351	transnewguineaorg-chenapian	chen1259		tree	906	TREE		montoap	m o n t o a p
+603734	636421	transnewguineaorg-kapriman	kapr1245		tree	906	TREE		mə	m ə
+603848	636535	transnewguineaorg-saniyo-hiyewe	sani1270		tree	906	TREE		mɛ	m ɛ
+603849	636536	transnewguineaorg-saniyo-hiyewe	sani1270		tree	906	TREE		me	m e
+611343	644030	johanssonsoundsymbolic-Awtuw	awtu1239		two	1498	TWO		jikhijɾ	j i kʰ i j ɾ
+612075	644762	transnewguineaorg-alamblak	alam1246		two	1498	TWO		'xošɩᵽ	x o ʂ ɪ ɸ
+612076	644763	transnewguineaorg-alamblak	alam1246		two	1498	TWO		xočiᵽ	x o tʃ i ɸ
+612077	644764	transnewguineaorg-alamblak	alam1246		two	1498	TWO		hutsif	h u ts i f
+612111	644798	transnewguineaorg-bahinemo	bahi1254		two	1498	TWO		husi	h u s i
+612122	644809	transnewguineaorg-berinomo	beri1253		two	1498	TWO		howis	h o w i s
+612126	644813	transnewguineaorg-bisis	bisi1244		two	1498	TWO		wɩtɩp	w ɪ t ɪ p
+612141	644828	transnewguineaorg-chenapian	chen1259		two	1498	TWO		ṣiṣi	s i s i
+612142	644829	transnewguineaorg-chenapian	chen1259		two	1498	TWO		ǰⁱək	dʒ i ə k
+612143	644830	transnewguineaorg-chenapian	chen1259		two	1498	TWO		nɛsi	n ɛ s i
+612208	644895	transnewguineaorg-kapriman	kapr1245		two	1498	TWO		kothi	k o t h i
+612323	645010	transnewguineaorg-saniyo-hiyewe	sani1270		two	1498	TWO		hɛsi	h ɛ s i
+612324	645011	transnewguineaorg-saniyo-hiyewe	sani1270		two	1498	TWO		hɛsi	h ɛ s i
+621235	653923	johanssonsoundsymbolic-Awtuw	awtu1239		vomit	1278	VOMIT		ɾij	ɾ i j
+624840	677501	johanssonsoundsymbolic-Awtuw	awtu1239		where	1237	WHERE		jiphe	j i pʰ e
+627196	679857	johanssonsoundsymbolic-Awtuw	awtu1239		white	1335	WHITE		khiwjokhwo	kʰ i w j o kʰ w o
+627951	680612	transnewguineaorg-alamblak	alam1246		white	1335	WHITE		'ga'ɲɛ̈mɨtʰ	g a ɲ ɛ m ɨ tʰ
+627952	680613	transnewguineaorg-alamblak	alam1246		white	1335	WHITE		gaynyʌmth	g a j n j ʌ m t h
+627981	680642	transnewguineaorg-bahinemo	bahi1254		white	1335	WHITE		gay	g a j
+627994	680655	transnewguineaorg-berinomo	beri1253		white	1335	WHITE		wap_ʔa	w a p + ʔ a
+627997	680658	transnewguineaorg-bisis	bisi1244		white	1335	WHITE		mop̶og̶ɔs	m o pˤ o gˤ ɔ s
+628007	680668	transnewguineaorg-chenapian	chen1259		white	1335	WHITE		us	u s
+628008	680669	transnewguineaorg-chenapian	chen1259		white	1335	WHITE		us	u s
+628071	680732	transnewguineaorg-kapriman	kapr1245		white	1335	WHITE		gubow	g u b o w
+628174	680835	transnewguineaorg-saniyo-hiyewe	sani1270		white	1335	WHITE		wapowaʔi	w a p o w a ʔ i
+628175	680836	transnewguineaorg-saniyo-hiyewe	sani1270		white	1335	WHITE		wapoa'i	w a p o a i
+629662	682415	johanssonsoundsymbolic-Awtuw	awtu1239		who	1235	WHO		jeɾan	j e ɾ a n
+630197	682950	transnewguineaorg-alamblak	alam1246		who	1235	WHO		'ᵽřɛ̈ǥɛʀ̥̌	ɸ r̝ ɛ g ɛ r
+630382	683135	transnewguineaorg-saniyo-hiyewe	sani1270		who	1235	WHO		nɨbɩřai	n ɨ b ɪ r̝ a i
+631442	684196	johanssonsoundsymbolic-Awtuw	awtu1239		wide	1243	WIDE		waweɾnenej	w a w e ɾ n e n e j
+635033	687787	johanssonsoundsymbolic-Awtuw	awtu1239		wind	960	WIND		jijkh	j i j kʰ
+635562	688316	transnewguineaorg-alamblak	alam1246		wind	960	WIND		'wiƀɛ̈ʀ̥̌tʰ	w i β ɛ r tʰ
+635563	688317	transnewguineaorg-alamblak	alam1246		wind	960	WIND		wivoth	w i v o t h
+635593	688347	transnewguineaorg-bahinemo	bahi1254		wind	960	WIND		gafu	g a f u
+635603	688357	transnewguineaorg-berinomo	beri1253		wind	960	WIND		wis	w i s
+635607	688361	transnewguineaorg-bisis	bisi1244		wind	960	WIND		p̶ɛmɛni	pˤ ɛ m ɛ n i
+635619	688373	transnewguineaorg-chenapian	chen1259		wind	960	WIND		gʷön	gʷ ö n
+635620	688374	transnewguineaorg-chenapian	chen1259		wind	960	WIND		kwɛn	k w ɛ n
+635676	688430	transnewguineaorg-kapriman	kapr1245		wind	960	WIND		wevos	w e v o s
+635781	688535	transnewguineaorg-saniyo-hiyewe	sani1270		wind	960	WIND		fiaru	f i a r u
+637159	689913	johanssonsoundsymbolic-Awtuw	awtu1239		wing	1257	WING		læth	l æ tʰ
+637667	690421	transnewguineaorg-alamblak	alam1246		wing	1257	WING		'bɩřnatʰ	b ɪ r̝ n a tʰ
+637668	690422	transnewguineaorg-alamblak	alam1246		wing	1257	WING		biɛrnam	b i ɛ r n a m
+637669	690423	transnewguineaorg-alamblak	alam1246		wing	1257	WING		biɛrnam	b i ɛ r n a m
+637695	690449	transnewguineaorg-bahinemo	bahi1254		wing	1257	WING		sɩfi	s ɪ f i
+637696	690450	transnewguineaorg-bahinemo	bahi1254		wing	1257	WING		sɩi	s ɪ i
+637707	690461	transnewguineaorg-berinomo	beri1253		wing	1257	WING		sɛʔi_sɛpi	s ɛ ʔ i + s ɛ p i
+637710	690464	transnewguineaorg-bisis	bisi1244		wing	1257	WING		tip̶i	t i pˤ i
+637722	690476	transnewguineaorg-chenapian	chen1259		wing	1257	WING		kaptu	k a p t u
+637723	690477	transnewguineaorg-chenapian	chen1259		wing	1257	WING		kaptuʔ	k a p t u ʔ
+637771	690525	transnewguineaorg-kapriman	kapr1245		wing	1257	WING		tɩbi	t ɪ b i
+637772	690526	transnewguineaorg-kapriman	kapr1245		wing	1257	WING		tɩbi	t ɪ b i
+637870	690624	transnewguineaorg-saniyo-hiyewe	sani1270		wing	1257	WING		haypi	h a j p i
+637871	690625	transnewguineaorg-saniyo-hiyewe	sani1270		wing	1257	WING		haypi	h a j p i
+640044	692799	johanssonsoundsymbolic-Awtuw	awtu1239		woman	962	WOMAN		thale	tʰ a l e
+640815	693570	transnewguineaorg-alamblak	alam1246		woman	962	WOMAN		'metɨtʰ7	m e t ɨ tʰ ɤ
+640816	693571	transnewguineaorg-alamblak	alam1246		woman	962	WOMAN		metum	m e t u m
+640848	693603	transnewguineaorg-bahinemo	bahi1254		woman	962	WOMAN		swani	s w a n i
+640859	693614	transnewguineaorg-berinomo	beri1253		woman	962	WOMAN		mesan	m e s a n
+640860	693615	transnewguineaorg-berinomo	beri1253		woman	962	WOMAN		mesan	m e s a n
+640863	693618	transnewguineaorg-bisis	bisi1244		woman	962	WOMAN		toʔanʌs	t o ʔ a n ʌ s
+640877	693632	transnewguineaorg-chenapian	chen1259		woman	962	WOMAN		tawö	t a w ö
+640878	693633	transnewguineaorg-chenapian	chen1259		woman	962	WOMAN		tauwo	t a u w o
+640943	693698	transnewguineaorg-kapriman	kapr1245		woman	962	WOMAN		toɣwan	t o ɣ w a n
+641060	693815	transnewguineaorg-saniyo-hiyewe	sani1270		woman	962	WOMAN		taunɛ	t a u n ɛ
+641061	693816	transnewguineaorg-saniyo-hiyewe	sani1270		woman	962	WOMAN		tawnɛ	t a w n ɛ
+647802	700557	johanssonsoundsymbolic-Awtuw	awtu1239		year	1226	YEAR		jia	j i a
+651662	705502	johanssonsoundsymbolic-Awtuw	awtu1239		you	1213	YOU		om	o m

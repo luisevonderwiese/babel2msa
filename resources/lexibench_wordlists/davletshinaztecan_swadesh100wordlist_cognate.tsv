@@ -1,0 +1,846 @@
+	ID	DOCULECT	CONCEPT	Segments	GLOTTOCODE	ISO_CODE	CONCEPTICON_ID	CONCEPTICON_GLOSS	COGNATES	FORM
+0	ClassicalNahuatl-100_yellow-1	ClassicalNahuatl	100_yellow	k o s + t i k	clas1250	nci	1424	YELLOW	330	
+1	ClassicalNahuatl-10_bone-1	ClassicalNahuatl	10_bone	o m i + tɬ	clas1250	nci	1394	BONE	17	
+2	ClassicalNahuatl-11_breast-1	ClassicalNahuatl	11_breast	tʃ iː tʃ iː w a l	clas1250	nci	1402	BREAST	19	
+4	ClassicalNahuatl-13_clawnail-1	ClassicalNahuatl	13_clawnail	i s t e + tɬ	clas1250	nci	72	CLAW	24	
+5	ClassicalNahuatl-14_cloud-1	ClassicalNahuatl	14_cloud	m i x + tɬ i	clas1250	nci	1489	CLOUD	25	
+6	ClassicalNahuatl-15_cold-1	ClassicalNahuatl	15_cold	iː ts + t i k	clas1250	nci	1287	COLD	28	
+7	ClassicalNahuatl-16_come-1	ClassicalNahuatl	16_come	w i ts	clas1250	nci	1446	COME	30	
+8	ClassicalNahuatl-17_die-1	ClassicalNahuatl	17_die	m i k	clas1250	nci	1494	DIE	32	
+9	ClassicalNahuatl-18_dog-1	ClassicalNahuatl	18_dog	tʃ i tʃ i	clas1250	nci	2009	DOG	33	
+10	ClassicalNahuatl-19_drink-1	ClassicalNahuatl	19_drink	o n + iː	clas1250	nci	1401	DRINK	51	
+11	ClassicalNahuatl-1_alltodos-1	ClassicalNahuatl	1_alltodos	m o tʃ i + n	clas1250	nci	98	ALL	1	
+12	ClassicalNahuatl-20_dry-1	ClassicalNahuatl	20_dry	w aː k + k i	clas1250	nci	1398	DRY	52	
+13	ClassicalNahuatl-21_ear-1	ClassicalNahuatl	21_ear	n a k a s + tɬ i	clas1250	nci	1247	EAR	53	
+14	ClassicalNahuatl-22_earth-1	ClassicalNahuatl	22_earth	tɬ aː l + l i	clas1250	nci	1228	EARTH (SOIL)	54	
+15	ClassicalNahuatl-23_eat-1	ClassicalNahuatl	23_eat	k w aː	clas1250	nci	1336	EAT	55	
+16	ClassicalNahuatl-24_egg-1	ClassicalNahuatl	24_egg	t oː t o l + t e + tɬ	clas1250	nci	744	EGG	56	
+17	ClassicalNahuatl-25_eye-1	ClassicalNahuatl	25_eye	iː x + t e l o l o ʔ	clas1250	nci	1248	EYE	60	
+18	ClassicalNahuatl-26_fatn-1	ClassicalNahuatl	26_fatn	tʃ i j aː w i s + tɬ i	clas1250	nci	323	FAT (ORGANIC SUBSTANCE)	73	
+19	ClassicalNahuatl-27_feather-1	ClassicalNahuatl	27_feather	i h w i + tɬ	clas1250	nci	1201	FEATHER	79	
+20	ClassicalNahuatl-28_fire-1	ClassicalNahuatl	28_fire	tɬ e + tɬ	clas1250	nci	221	FIRE	83	
+21	ClassicalNahuatl-29_fish-1	ClassicalNahuatl	29_fish	m i tʃ + i n	clas1250	nci	227	FISH	84	
+22	ClassicalNahuatl-2_ashes-1	ClassicalNahuatl	2_ashes	n e x + tɬ i	clas1250	nci	646	ASH	2	
+23	ClassicalNahuatl-30_fly-1	ClassicalNahuatl	30_fly	p a tɬ aː n	clas1250	nci	1441	FLY (MOVE THROUGH AIR)	87	
+24	ClassicalNahuatl-31_foot-1	ClassicalNahuatl	31_foot	kx i + tɬ	clas1250	nci	1301	FOOT	88	
+25	ClassicalNahuatl-32_full-1	ClassicalNahuatl	32_full	t eː n + t o k	clas1250	nci	1429	FULL	90	
+26	ClassicalNahuatl-33_givetr-1	ClassicalNahuatl	33_givetr	m a k a	clas1250	nci	1447	GIVE	92	
+27	ClassicalNahuatl-34_good-1	ClassicalNahuatl	34_good	k w a l + l i	clas1250	nci	1035	GOOD	93	
+28	ClassicalNahuatl-34_good-2	ClassicalNahuatl	34_good	j e k + tɬ i	clas1250	nci	1035	GOOD	97	
+29	ClassicalNahuatl-35_green-1	ClassicalNahuatl	35_green	x o x o k + t i k	clas1250	nci	1425	GREEN	98	
+30	ClassicalNahuatl-36_hair-1	ClassicalNahuatl	36_hair	ts o n + tɬ i	clas1250	nci	1040	HAIR	101	
+31	ClassicalNahuatl-37_hand-1	ClassicalNahuatl	37_hand	m aː	clas1250	nci	1277	HAND	103	
+32	ClassicalNahuatl-38_head-1	ClassicalNahuatl	38_head	k w aː + tɬ	clas1250	nci	1256	HEAD	105	
+33	ClassicalNahuatl-39_hear-1	ClassicalNahuatl	39_hear	k a k	clas1250	nci	1408	HEAR	106	
+34	ClassicalNahuatl-3_bark-1	ClassicalNahuatl	3_bark	eː w a + tɬ	clas1250	nci	1204	BARK	3	
+35	ClassicalNahuatl-40_heart-1	ClassicalNahuatl	40_heart	j oː l + l i	clas1250	nci	1223	HEART	107	
+36	ClassicalNahuatl-41_horn-1	ClassicalNahuatl	41_horn	k w aː k w a w + tɬ	clas1250	nci	1393	HORN (ANATOMY)	125	
+37	ClassicalNahuatl-42_i-1	ClassicalNahuatl	42_i	n e ʔ w aː + tɬ	clas1250	nci	1209	I	138	
+38	ClassicalNahuatl-43_kill-1	ClassicalNahuatl	43_kill	m i k iː + t i aː	clas1250	nci	1417	KILL	139	
+39	ClassicalNahuatl-44_knee-1	ClassicalNahuatl	44_knee	tɬ a n + k w a i	clas1250	nci	1371	KNEE	140	
+40	ClassicalNahuatl-45_know-1	ClassicalNahuatl	45_know	m a t	clas1250	nci	1410	KNOW (SOMETHING)	142	
+41	ClassicalNahuatl-46_leaf-1	ClassicalNahuatl	46_leaf	i s w a + tɬ	clas1250	nci	628	LEAF	143	
+42	ClassicalNahuatl-47_lie-1	ClassicalNahuatl	47_lie	m o + t eː k a	clas1250	nci	1411	LIE (REST)	145	
+43	ClassicalNahuatl-48_liver-1	ClassicalNahuatl	48_liver	eː l + l i	clas1250	nci	1224	LIVER	154	
+44	ClassicalNahuatl-49_long-1	ClassicalNahuatl	49_long	w eː i j a k	clas1250	nci	1203	LONG	158	
+45	ClassicalNahuatl-4_belly-1	ClassicalNahuatl	4_belly	i ʔ t e	clas1250	nci	1251	BELLY	6	
+46	ClassicalNahuatl-50_louse-1	ClassicalNahuatl	50_louse	a t e m i + tɬ	clas1250	nci	1392	LOUSE	159	
+47	ClassicalNahuatl-51_man-1	ClassicalNahuatl	51_man	t aː k a + tɬ	clas1250	nci	1554	MAN	176	
+48	ClassicalNahuatl-52_many-1	ClassicalNahuatl	52_many	m i a k iː n	clas1250	nci	1198	MANY	177	
+49	ClassicalNahuatl-53_meat-1	ClassicalNahuatl	53_meat	n a k a + tɬ	clas1250	nci	2615	FLESH OR MEAT	179	
+50	ClassicalNahuatl-54_moon-1	ClassicalNahuatl	54_moon	m eː ts + tɬ i	clas1250	nci	1313	MOON	180	
+51	ClassicalNahuatl-55_mountain-1	ClassicalNahuatl	55_mountain	t e p eː + tɬ	clas1250	nci	639	MOUNTAIN	181	
+52	ClassicalNahuatl-56_mouth-1	ClassicalNahuatl	56_mouth	k a m + tɬ	clas1250	nci	674	MOUTH	182	
+53	ClassicalNahuatl-57_name-1	ClassicalNahuatl	57_name	t oː k aː + tɬ	clas1250	nci	1405	NAME	184	
+54	ClassicalNahuatl-58_neck-1	ClassicalNahuatl	58_neck	k e tʃ + tɬ i	clas1250	nci	1333	NECK	186	
+55	ClassicalNahuatl-59_new-1	ClassicalNahuatl	59_new	j a n k w i + k	clas1250	nci	1231	NEW	187	
+56	ClassicalNahuatl-5_big-1	ClassicalNahuatl	5_big	w eː	clas1250	nci	1202	BIG	8	
+57	ClassicalNahuatl-60_night-1	ClassicalNahuatl	60_night	j o w a l + l i	clas1250	nci	1233	NIGHT	188	
+58	ClassicalNahuatl-61_nose-1	ClassicalNahuatl	61_nose	j a k + tɬ	clas1250	nci	1221	NOSE	190	
+59	ClassicalNahuatl-62_not-1	ClassicalNahuatl	62_not	a ʔ m oː	clas1250	nci	1240	NOT	191	
+60	ClassicalNahuatl-63_one-1	ClassicalNahuatl	63_one	s eː	clas1250	nci	1493	ONE	194	
+61	ClassicalNahuatl-64_person-1	ClassicalNahuatl	64_person	tɬ aː k a + tɬ	clas1250	nci	683	PERSON	207	
+62	ClassicalNahuatl-65_rain-1	ClassicalNahuatl	65_rain	k i j a w + tɬ	clas1250	nci	2108	RAINING OR RAIN	213	
+63	ClassicalNahuatl-66_red-1	ClassicalNahuatl	66_red	tʃ iː + tʃ iː l + t i k	clas1250	nci	156	RED	218	
+64	ClassicalNahuatl-67_road-1	ClassicalNahuatl	67_road	o ʔ + tɬ i	clas1250	nci	667	ROAD	220	
+65	ClassicalNahuatl-68_root-1	ClassicalNahuatl	68_root	n e l w a + tɬ	clas1250	nci	670	ROOT	221	
+66	ClassicalNahuatl-69_round-1	ClassicalNahuatl	69_round	j a w a l + t i k	clas1250	nci	1395	ROUND	224	
+67	ClassicalNahuatl-6_bird-1	ClassicalNahuatl	6_bird	t oː t oː + tɬ	clas1250	nci	937	BIRD	9	
+68	ClassicalNahuatl-70_sand-1	ClassicalNahuatl	70_sand	x aː l + l i	clas1250	nci	671	SAND	227	
+69	ClassicalNahuatl-71_say-1	ClassicalNahuatl	71_say	ʔ t o aː	clas1250	nci	1458	SAY	228	
+70	ClassicalNahuatl-72_see-1	ClassicalNahuatl	72_see	t t a	clas1250	nci	1409	SEE	231	
+71	ClassicalNahuatl-73_seed-1	ClassicalNahuatl	73_seed	a tʃ + tɬ i	clas1250	nci	714	SEED	232	
+72	ClassicalNahuatl-74_sit-1	ClassicalNahuatl	74_sit	m o + tɬ aː l i aː	clas1250	nci	1416	SIT	235	
+73	ClassicalNahuatl-75_skin-1	ClassicalNahuatl	75_skin	eː w a + tɬ	clas1250	nci	763	SKIN	237	
+74	ClassicalNahuatl-76_sleep-1	ClassicalNahuatl	76_sleep	k o tʃ	clas1250	nci	1585	SLEEP	240	
+75	ClassicalNahuatl-77_small-1	ClassicalNahuatl	77_small	t e p i + t oː n	clas1250	nci	1246	SMALL	241	
+76	ClassicalNahuatl-78_smoke-1	ClassicalNahuatl	78_smoke	p oː k + tɬ i	clas1250	nci	778	SMOKE (EXHAUST)	249	
+77	ClassicalNahuatl-79_stand-1	ClassicalNahuatl	79_stand	m o + k e ts a	clas1250	nci	1442	STAND	251	
+78	ClassicalNahuatl-7_bite-1	ClassicalNahuatl	7_bite	k e ʔ ts o m	clas1250	nci	1403	BITE	10	
+79	ClassicalNahuatl-80_star-1	ClassicalNahuatl	80_star	s iː tɬ a l + i n	clas1250	nci	1430	STAR	268	
+80	ClassicalNahuatl-81_stone-1	ClassicalNahuatl	81_stone	t e + tɬ	clas1250	nci	857	STONE	283	
+81	ClassicalNahuatl-82_sun-1	ClassicalNahuatl	82_sun	t oː n a + t i w	clas1250	nci	1343	SUN	284	
+82	ClassicalNahuatl-83_swim-1	ClassicalNahuatl	83_swim	aː + w i l aː n	clas1250	nci	1439	SWIM	286	
+83	ClassicalNahuatl-84_tail-1	ClassicalNahuatl	84_tail	k w i tɬ a p i l + l i	clas1250	nci	1220	TAIL	289	
+84	ClassicalNahuatl-85_that-1	ClassicalNahuatl	85_that	i n + oː n	clas1250	nci	78	THAT	290	
+85	ClassicalNahuatl-86_this-1	ClassicalNahuatl	86_this	i n + iː n	clas1250	nci	1214	THIS	293	
+86	ClassicalNahuatl-87_thou-1	ClassicalNahuatl	87_thou	t e ʔ w aː + tɬ	clas1250	nci	1215	THOU	294	
+87	ClassicalNahuatl-88_tongue-1	ClassicalNahuatl	88_tongue	n e n e + p i l + l i	clas1250	nci	1205	TONGUE	296	
+88	ClassicalNahuatl-89_tooth-1	ClassicalNahuatl	89_tooth	tɬ a n + tɬ i	clas1250	nci	1380	TOOTH	313	
+89	ClassicalNahuatl-8_black-1	ClassicalNahuatl	8_black	tɬ iː l + t i k	clas1250	nci	163	BLACK	13	
+90	ClassicalNahuatl-90_tree-1	ClassicalNahuatl	90_tree	k w a w + tɬ	clas1250	nci	906	TREE	314	
+91	ClassicalNahuatl-91_two-1	ClassicalNahuatl	91_two	oː m e	clas1250	nci	1498	TWO	315	
+92	ClassicalNahuatl-92_walkgo-1	ClassicalNahuatl	92_walkgo	n e ʔ + n e m i	clas1250	nci	1443	WALK	316	
+93	ClassicalNahuatl-93_warmhot-1	ClassicalNahuatl	93_warmhot	t o + t oː n + k i	clas1250	nci	2272	HOT OR WARM	318	
+94	ClassicalNahuatl-94_water-1	ClassicalNahuatl	94_water	aː + tɬ	clas1250	nci	948	WATER	320	
+95	ClassicalNahuatl-95_we-1	ClassicalNahuatl	95_we	t e ʔ w aː n	clas1250	nci	1212	WE	322	
+96	ClassicalNahuatl-96_what-1	ClassicalNahuatl	96_what	tɬ e	clas1250	nci	1236	WHAT	323	
+97	ClassicalNahuatl-97_white-1	ClassicalNahuatl	97_white	i s t aː k	clas1250	nci	1335	WHITE	324	
+98	ClassicalNahuatl-98_who-1	ClassicalNahuatl	98_who	aː k	clas1250	nci	1235	WHO	326	
+99	ClassicalNahuatl-99_woman-1	ClassicalNahuatl	99_woman	s i w aː + tɬ	clas1250	nci	962	WOMAN	328	
+100	ClassicalNahuatl-9_blood-1	ClassicalNahuatl	9_blood	e s + tɬ i	clas1250	nci	946	BLOOD	16	
+101	JalupaNahuat-100_yellow-1	JalupaNahuat	100_yellow	j u k s i k	taba1265	nhc	1424	YELLOW	331	
+102	JalupaNahuat-10_bone-1	JalupaNahuat	10_bone	u m i + t	taba1265	nhc	1394	BONE	17	
+103	JalupaNahuat-11_breast-1	JalupaNahuat	11_breast	tʃ i tʃ i	taba1265	nhc	1402	BREAST	20	
+105	JalupaNahuat-13_clawnail-1	JalupaNahuat	13_clawnail	i s t i	taba1265	nhc	72	CLAW	24	
+106	JalupaNahuat-15_cold-1	JalupaNahuat	15_cold	s e s e k	taba1265	nhc	1287	COLD	28	
+107	JalupaNahuat-16_come-1	JalupaNahuat	16_come	ɲ o ts	taba1265	nhc	1446	COME	31	
+108	JalupaNahuat-17_die-1	JalupaNahuat	17_die	m i k i	taba1265	nhc	1494	DIE	32	
+109	JalupaNahuat-18_dog-1	JalupaNahuat	18_dog	tʃ u tʃ u	taba1265	nhc	2009	DOG	33	
+110	JalupaNahuat-19_drink-1	JalupaNahuat	19_drink	x i + k	taba1265	nhc	1401	DRINK	51	
+111	JalupaNahuat-1_alltodos-1	JalupaNahuat	1_alltodos	m u tʃ i	taba1265	nhc	98	ALL	1	
+112	JalupaNahuat-20_dry-1	JalupaNahuat	20_dry	w a k + t u k	taba1265	nhc	1398	DRY	52	
+113	JalupaNahuat-21_ear-1	JalupaNahuat	21_ear	n a k a s	taba1265	nhc	1247	EAR	53	
+114	JalupaNahuat-22_earth-1	JalupaNahuat	22_earth	t a h l i	taba1265	nhc	1228	EARTH (SOIL)	54	
+115	JalupaNahuat-23_eat-1	JalupaNahuat	23_eat	b w aː	taba1265	nhc	1336	EAT	55	
+116	JalupaNahuat-24_egg-1	JalupaNahuat	24_egg	p i l + ts i n	taba1265	nhc	744	EGG	58	
+117	JalupaNahuat-25_eye-1	JalupaNahuat	25_eye	iː x	taba1265	nhc	1248	EYE	60	
+118	JalupaNahuat-26_fatn-1	JalupaNahuat	26_fatn	m a n t e k a	taba1265	nhc	323	FAT (ORGANIC SUBSTANCE)	78	
+119	JalupaNahuat-27_feather-1	JalupaNahuat	27_feather	i j + u h w i + j u	taba1265	nhc	1201	FEATHER	79	
+120	JalupaNahuat-28_fire-1	JalupaNahuat	28_fire	t i + t	taba1265	nhc	221	FIRE	83	
+121	JalupaNahuat-29_fish-1	JalupaNahuat	29_fish	x eː n e h	taba1265	nhc	227	FISH	86	
+122	JalupaNahuat-2_ashes-1	JalupaNahuat	2_ashes	k ó/o + n e x + t i	taba1265	nhc	646	ASH	2	
+123	JalupaNahuat-30_fly-1	JalupaNahuat	30_fly	p a r a n i	taba1265	nhc	1441	FLY (MOVE THROUGH AIR)	87	
+124	JalupaNahuat-31_foot-1	JalupaNahuat	31_foot	i kx i	taba1265	nhc	1301	FOOT	88	
+125	JalupaNahuat-32_full-1	JalupaNahuat	32_full	n eː + t i k	taba1265	nhc	1429	FULL	91	
+126	JalupaNahuat-33_givetr-1	JalupaNahuat	33_givetr	m a	taba1265	nhc	1447	GIVE	92	
+127	JalupaNahuat-34_good-1	JalupaNahuat	34_good	j e k + t i	taba1265	nhc	1035	GOOD	94	
+128	JalupaNahuat-35_green-1	JalupaNahuat	35_green	x u x u í/i + k	taba1265	nhc	1425	GREEN	99	
+129	JalupaNahuat-36_hair-1	JalupaNahuat	36_hair	ts u n + t i	taba1265	nhc	1040	HAIR	101	
+130	JalupaNahuat-37_hand-1	JalupaNahuat	37_hand	m aː + n	taba1265	nhc	1277	HAND	103	
+131	JalupaNahuat-38_head-1	JalupaNahuat	38_head	ts u n + t e k o n	taba1265	nhc	1256	HEAD	104	
+132	JalupaNahuat-39_hear-1	JalupaNahuat	39_hear	k a i	taba1265	nhc	1408	HEAR	106	
+133	JalupaNahuat-3_bark-1	JalupaNahuat	3_bark	s u l + k o i	taba1265	nhc	1204	BARK	5	
+134	JalupaNahuat-40_heart-1	JalupaNahuat	40_heart	j u h + l u	taba1265	nhc	1223	HEART	107	
+135	JalupaNahuat-41_horn-1	JalupaNahuat	41_horn	k o k o i t	taba1265	nhc	1393	HORN (ANATOMY)	125	
+136	JalupaNahuat-42_i-1	JalupaNahuat	42_i	n e h e	taba1265	nhc	1209	I	138	
+137	JalupaNahuat-43_kill-1	JalupaNahuat	43_kill	m i k + t i	taba1265	nhc	1417	KILL	139	
+138	JalupaNahuat-44_knee-1	JalupaNahuat	44_knee	t a m + b w a + n	taba1265	nhc	1371	KNEE	140	
+139	JalupaNahuat-45_know-1	JalupaNahuat	45_know	m a	taba1265	nhc	1410	KNOW (SOMETHING)	142	
+140	JalupaNahuat-46_leaf-1	JalupaNahuat	46_leaf	i s w a + t	taba1265	nhc	628	LEAF	143	
+141	JalupaNahuat-47_lie-1	JalupaNahuat	47_lie	m u + r e k a + k	taba1265	nhc	1411	LIE (REST)	145	
+142	JalupaNahuat-49_long-1	JalupaNahuat	49_long	w e j a k	taba1265	nhc	1203	LONG	158	
+143	JalupaNahuat-4_belly-1	JalupaNahuat	4_belly	i h t i	taba1265	nhc	1251	BELLY	6	
+144	JalupaNahuat-50_louse-1	JalupaNahuat	50_louse	aː t i n	taba1265	nhc	1392	LOUSE	159	
+145	JalupaNahuat-51_man-1	JalupaNahuat	51_man	t aː k a + t	taba1265	nhc	1554	MAN	176	
+146	JalupaNahuat-52_many-1	JalupaNahuat	52_many	m i a k p a	taba1265	nhc	1198	MANY	177	
+147	JalupaNahuat-53_meat-1	JalupaNahuat	53_meat	n a k a + t	taba1265	nhc	2615	FLESH OR MEAT	179	
+148	JalupaNahuat-54_moon-1	JalupaNahuat	54_moon	m eː ts + t i	taba1265	nhc	1313	MOON	180	
+149	JalupaNahuat-56_mouth-1	JalupaNahuat	56_mouth	t eː n	taba1265	nhc	674	MOUTH	183	
+150	JalupaNahuat-57_name-1	JalupaNahuat	57_name	t u w a + n	taba1265	nhc	1405	NAME	184	
+151	JalupaNahuat-58_neck-1	JalupaNahuat	58_neck	k e tʃ	taba1265	nhc	1333	NECK	186	
+152	JalupaNahuat-59_new-1	JalupaNahuat	59_new	j a m b w i + k	taba1265	nhc	1231	NEW	187	
+153	JalupaNahuat-5_big-1	JalupaNahuat	5_big	w e j	taba1265	nhc	1202	BIG	8	
+154	JalupaNahuat-60_night-1	JalupaNahuat	60_night	t a + j u w a + k	taba1265	nhc	1233	NIGHT	189	
+155	JalupaNahuat-61_nose-1	JalupaNahuat	61_nose	j a k	taba1265	nhc	1221	NOSE	190	
+156	JalupaNahuat-62_not-1	JalupaNahuat	62_not	t e	taba1265	nhc	1240	NOT	192	
+157	JalupaNahuat-63_one-1	JalupaNahuat	63_one	s e	taba1265	nhc	1493	ONE	194	
+158	JalupaNahuat-64_person-1	JalupaNahuat	64_person	j o h o m e h	taba1265	nhc	683	PERSON	211	
+159	JalupaNahuat-65_rain-1	JalupaNahuat	65_rain	tʃ i m aː + t	taba1265	nhc	2108	RAINING OR RAIN	215	
+160	JalupaNahuat-66_red-1	JalupaNahuat	66_red	t r a i k	taba1265	nhc	156	RED	219	
+161	JalupaNahuat-67_road-1	JalupaNahuat	67_road	u h + t i	taba1265	nhc	667	ROAD	220	
+162	JalupaNahuat-68_root-1	JalupaNahuat	68_root	t a l w a + t	taba1265	nhc	670	ROOT	223	
+163	JalupaNahuat-69_round-1	JalupaNahuat	69_round	t u l u ts + t i k	taba1265	nhc	1395	ROUND	226	
+164	JalupaNahuat-6_bird-1	JalupaNahuat	6_bird	t uː r u + t	taba1265	nhc	937	BIRD	9	
+165	JalupaNahuat-70_sand-1	JalupaNahuat	70_sand	x aː h l i	taba1265	nhc	671	SAND	227	
+166	JalupaNahuat-71_say-1	JalupaNahuat	71_say	i h l i	taba1265	nhc	1458	SAY	229	
+167	JalupaNahuat-72_see-1	JalupaNahuat	72_see	i r a	taba1265	nhc	1409	SEE	231	
+168	JalupaNahuat-73_seed-1	JalupaNahuat	73_seed	j u h l u	taba1265	nhc	714	SEED	233	
+169	JalupaNahuat-74_sit-1	JalupaNahuat	74_sit	m u + r a l i h + t u k	taba1265	nhc	1416	SIT	235	
+170	JalupaNahuat-75_skin-1	JalupaNahuat	75_skin	b w é/e r a x t i	taba1265	nhc	763	SKIN	239	
+171	JalupaNahuat-76_sleep-1	JalupaNahuat	76_sleep	k u tʃ i	taba1265	nhc	1585	SLEEP	240	
+172	JalupaNahuat-77_small-1	JalupaNahuat	77_small	ts i r i + t u k	taba1265	nhc	1246	SMALL	246	
+173	JalupaNahuat-78_smoke-1	JalupaNahuat	78_smoke	p uː k + t i	taba1265	nhc	778	SMOKE (EXHAUST)	249	
+174	JalupaNahuat-79_stand-1	JalupaNahuat	79_stand	i h k a t u k	taba1265	nhc	1442	STAND	267	
+175	JalupaNahuat-80_star-1	JalupaNahuat	80_star	s iː t a l	taba1265	nhc	1430	STAR	268	
+176	JalupaNahuat-81_stone-1	JalupaNahuat	81_stone	x aː l + t e + t	taba1265	nhc	857	STONE	283	
+177	JalupaNahuat-82_sun-1	JalupaNahuat	82_sun	r o n t i n	taba1265	nhc	1343	SUN	284	
+178	JalupaNahuat-84_tail-1	JalupaNahuat	84_tail	b w i r a p i l	taba1265	nhc	1220	TAIL	289	
+179	JalupaNahuat-85_that-1	JalupaNahuat	85_that	h uː n i	taba1265	nhc	78	THAT	290	
+180	JalupaNahuat-86_this-1	JalupaNahuat	86_this	h iː n i	taba1265	nhc	1214	THIS	293	
+181	JalupaNahuat-87_thou-1	JalupaNahuat	87_thou	t e h e	taba1265	nhc	1215	THOU	294	
+182	JalupaNahuat-88_tongue-1	JalupaNahuat	88_tongue	n eː n e p i l	taba1265	nhc	1205	TONGUE	296	
+183	JalupaNahuat-89_tooth-1	JalupaNahuat	89_tooth	t aː n	taba1265	nhc	1380	TOOTH	313	
+184	JalupaNahuat-8_black-1	JalupaNahuat	8_black	j a j á/a k	taba1265	nhc	163	BLACK	15	
+185	JalupaNahuat-90_tree-1	JalupaNahuat	90_tree	k o i + t	taba1265	nhc	906	TREE	314	
+186	JalupaNahuat-91_two-1	JalupaNahuat	91_two	uː m e	taba1265	nhc	1498	TWO	315	
+187	JalupaNahuat-92_walkgo-1	JalupaNahuat	92_walkgo	n e h + n e m i	taba1265	nhc	1443	WALK	316	
+188	JalupaNahuat-93_warmhot-1	JalupaNahuat	93_warmhot	t r uː n i k	taba1265	nhc	2272	HOT OR WARM	318	
+189	JalupaNahuat-94_water-1	JalupaNahuat	94_water	m aː + t	taba1265	nhc	948	WATER	321	
+190	JalupaNahuat-95_we-1	JalupaNahuat	95_we	t o h o m e n	taba1265	nhc	1212	WE	322	
+191	JalupaNahuat-96_what-1	JalupaNahuat	96_what	t a i	taba1265	nhc	1236	WHAT	323	
+192	JalupaNahuat-97_white-1	JalupaNahuat	97_white	i s t aː k	taba1265	nhc	1335	WHITE	324	
+193	JalupaNahuat-98_who-1	JalupaNahuat	98_who	a i k	taba1265	nhc	1235	WHO	326	
+194	JalupaNahuat-99_woman-1	JalupaNahuat	99_woman	s u w a + t	taba1265	nhc	962	WOMAN	328	
+195	JalupaNahuat-9_blood-1	JalupaNahuat	9_blood	e s + t i	taba1265	nhc	946	BLOOD	16	
+196	MecayapanNahuat-100_yellow-1	MecayapanNahuat	100_yellow	k o s t i ʔ	isth1242	nhx	1424	YELLOW	330	
+197	MecayapanNahuat-10_bone-1	MecayapanNahuat	10_bone	o m i + ʔ	isth1242	nhx	1394	BONE	17	
+198	MecayapanNahuat-11_breast-1	MecayapanNahuat	11_breast	tʃ iː tʃ i w a l	isth1242	nhx	1402	BREAST	19	
+200	MecayapanNahuat-13_clawnail-1	MecayapanNahuat	13_clawnail	i s t i	isth1242	nhx	72	CLAW	24	
+201	MecayapanNahuat-14_cloud-1	MecayapanNahuat	14_cloud	m i x + t i	isth1242	nhx	1489	CLOUD	25	
+202	MecayapanNahuat-15_cold-1	MecayapanNahuat	15_cold	s e s eː ʔ	isth1242	nhx	1287	COLD	28	
+203	MecayapanNahuat-16_come-1	MecayapanNahuat	16_come	w iː ʔ	isth1242	nhx	1446	COME	30	
+204	MecayapanNahuat-17_die-1	MecayapanNahuat	17_die	m i k i	isth1242	nhx	1494	DIE	32	
+205	MecayapanNahuat-18_dog-1	MecayapanNahuat	18_dog	p eː l o	isth1242	nhx	2009	DOG	49	
+206	MecayapanNahuat-19_drink-1	MecayapanNahuat	19_drink	o n + i + á/a	isth1242	nhx	1401	DRINK	51	
+207	MecayapanNahuat-1_alltodos-1	MecayapanNahuat	1_alltodos	n o tʃ i	isth1242	nhx	98	ALL	1	
+208	MecayapanNahuat-20_dry-1	MecayapanNahuat	20_dry	w aː k + t o ʔ	isth1242	nhx	1398	DRY	52	
+209	MecayapanNahuat-21_ear-1	MecayapanNahuat	21_ear	n a k a s	isth1242	nhx	1247	EAR	53	
+210	MecayapanNahuat-22_earth-1	MecayapanNahuat	22_earth	t aː h l i	isth1242	nhx	1228	EARTH (SOIL)	54	
+211	MecayapanNahuat-23_eat-1	MecayapanNahuat	23_eat	k w a	isth1242	nhx	1336	EAT	55	
+212	MecayapanNahuat-24_egg-1	MecayapanNahuat	24_egg	t e k s i s	isth1242	nhx	744	EGG	57	
+213	MecayapanNahuat-25_eye-1	MecayapanNahuat	25_eye	iː x	isth1242	nhx	1248	EYE	60	
+214	MecayapanNahuat-26_fatn-1	MecayapanNahuat	26_fatn	t o m a h k a	isth1242	nhx	323	FAT (ORGANIC SUBSTANCE)	76	
+215	MecayapanNahuat-27_feather-1	MecayapanNahuat	27_feather	ts o h m i + ʔ	isth1242	nhx	1201	FEATHER	81	
+216	MecayapanNahuat-28_fire-1	MecayapanNahuat	28_fire	t i ʔ + t i	isth1242	nhx	221	FIRE	83	
+217	MecayapanNahuat-29_fish-1	MecayapanNahuat	29_fish	t oː p o h	isth1242	nhx	227	FISH	85	
+218	MecayapanNahuat-2_ashes-1	MecayapanNahuat	2_ashes	k w a + n eː x	isth1242	nhx	646	ASH	2	
+219	MecayapanNahuat-30_fly-1	MecayapanNahuat	30_fly	p a t aː n i	isth1242	nhx	1441	FLY (MOVE THROUGH AIR)	87	
+220	MecayapanNahuat-31_foot-1	MecayapanNahuat	31_foot	i kx i	isth1242	nhx	1301	FOOT	88	
+221	MecayapanNahuat-32_full-1	MecayapanNahuat	32_full	t eː n + t o ʔ	isth1242	nhx	1429	FULL	90	
+222	MecayapanNahuat-33_givetr-1	MecayapanNahuat	33_givetr	m a k a	isth1242	nhx	1447	GIVE	92	
+223	MecayapanNahuat-34_good-1	MecayapanNahuat	34_good	j eː k + t i	isth1242	nhx	1035	GOOD	94	
+224	MecayapanNahuat-35_green-1	MecayapanNahuat	35_green	x o x o k + t i ʔ	isth1242	nhx	1425	GREEN	98	
+225	MecayapanNahuat-36_hair-1	MecayapanNahuat	36_hair	ts o n + k a l	isth1242	nhx	1040	HAIR	102	
+226	MecayapanNahuat-37_hand-1	MecayapanNahuat	37_hand	m a j i ʔ	isth1242	nhx	1277	HAND	103	
+227	MecayapanNahuat-38_head-1	MecayapanNahuat	38_head	ts o n + t e k o n	isth1242	nhx	1256	HEAD	104	
+228	MecayapanNahuat-39_hear-1	MecayapanNahuat	39_hear	k a k i	isth1242	nhx	1408	HEAR	106	
+229	MecayapanNahuat-3_bark-1	MecayapanNahuat	3_bark	k w a + k a h l oː + ʔ	isth1242	nhx	1204	BARK	4	
+230	MecayapanNahuat-40_heart-1	MecayapanNahuat	40_heart	j aː l m a h	isth1242	nhx	1223	HEART	123	
+231	MecayapanNahuat-41_horn-1	MecayapanNahuat	41_horn	k w aː k w a	isth1242	nhx	1393	HORN (ANATOMY)	125	
+232	MecayapanNahuat-42_i-1	MecayapanNahuat	42_i	n e h	isth1242	nhx	1209	I	138	
+233	MecayapanNahuat-43_kill-1	MecayapanNahuat	43_kill	m i k + t i a	isth1242	nhx	1417	KILL	139	
+234	MecayapanNahuat-44_knee-1	MecayapanNahuat	44_knee	t a n + k w aː + ʔ	isth1242	nhx	1371	KNEE	140	
+235	MecayapanNahuat-45_know-1	MecayapanNahuat	45_know	m a t i	isth1242	nhx	1410	KNOW (SOMETHING)	142	
+236	MecayapanNahuat-46_leaf-1	MecayapanNahuat	46_leaf	i s w a ʔ	isth1242	nhx	628	LEAF	143	
+237	MecayapanNahuat-47_lie-1	MecayapanNahuat	47_lie	m o + t eː c a	isth1242	nhx	1411	LIE (REST)	145	
+238	MecayapanNahuat-48_liver-1	MecayapanNahuat	48_liver	j oː l	isth1242	nhx	1224	LIVER	156	
+239	MecayapanNahuat-49_long-1	MecayapanNahuat	49_long	w eː j a k t i ʔ	isth1242	nhx	1203	LONG	158	
+240	MecayapanNahuat-4_belly-1	MecayapanNahuat	4_belly	t a l a x	isth1242	nhx	1251	BELLY	7	
+241	MecayapanNahuat-50_louse-1	MecayapanNahuat	50_louse	a t i m i ʔ	isth1242	nhx	1392	LOUSE	159	
+242	MecayapanNahuat-51_man-1	MecayapanNahuat	51_man	t aː g a + ʔ	isth1242	nhx	1554	MAN	176	
+243	MecayapanNahuat-52_many-1	MecayapanNahuat	52_many	m i a ʔ	isth1242	nhx	1198	MANY	177	
+244	MecayapanNahuat-53_meat-1	MecayapanNahuat	53_meat	n a k a + ʔ	isth1242	nhx	2615	FLESH OR MEAT	179	
+245	MecayapanNahuat-54_moon-1	MecayapanNahuat	54_moon	m eː ts + t i	isth1242	nhx	1313	MOON	180	
+246	MecayapanNahuat-55_mountain-1	MecayapanNahuat	55_mountain	t e p eː + ʔ	isth1242	nhx	639	MOUNTAIN	181	
+247	MecayapanNahuat-56_mouth-1	MecayapanNahuat	56_mouth	t eː n	isth1242	nhx	674	MOUTH	183	
+248	MecayapanNahuat-57_name-1	MecayapanNahuat	57_name	t oː k aː + ʔ	isth1242	nhx	1405	NAME	184	
+249	MecayapanNahuat-58_neck-1	MecayapanNahuat	58_neck	k e tʃ	isth1242	nhx	1333	NECK	186	
+250	MecayapanNahuat-59_new-1	MecayapanNahuat	59_new	j a m k w i + ʔ	isth1242	nhx	1231	NEW	187	
+251	MecayapanNahuat-5_big-1	MecayapanNahuat	5_big	w e j i	isth1242	nhx	1202	BIG	8	
+252	MecayapanNahuat-60_night-1	MecayapanNahuat	60_night	j o w a l	isth1242	nhx	1233	NIGHT	188	
+253	MecayapanNahuat-61_nose-1	MecayapanNahuat	61_nose	j a k + t i	isth1242	nhx	1221	NOSE	190	
+254	MecayapanNahuat-62_not-1	MecayapanNahuat	62_not	a j aː ʔ	isth1242	nhx	1240	NOT	191	
+255	MecayapanNahuat-63_one-1	MecayapanNahuat	63_one	s eː	isth1242	nhx	1493	ONE	194	
+256	MecayapanNahuat-64_person-1	MecayapanNahuat	64_person	h e n t e	isth1242	nhx	683	PERSON	209	
+257	MecayapanNahuat-65_rain-1	MecayapanNahuat	65_rain	k i a h u aː + ʔ	isth1242	nhx	2108	RAINING OR RAIN	213	
+258	MecayapanNahuat-66_red-1	MecayapanNahuat	66_red	tʃ iː l + t i ʔ	isth1242	nhx	156	RED	218	
+259	MecayapanNahuat-67_road-1	MecayapanNahuat	67_road	o h + t i	isth1242	nhx	667	ROAD	220	
+260	MecayapanNahuat-68_root-1	MecayapanNahuat	68_root	n e l w a + ʔ	isth1242	nhx	670	ROOT	221	
+261	MecayapanNahuat-69_round-1	MecayapanNahuat	69_round	j a w a l + t i ʔ	isth1242	nhx	1395	ROUND	224	
+262	MecayapanNahuat-6_bird-1	MecayapanNahuat	6_bird	t oː t oː + ʔ	isth1242	nhx	937	BIRD	9	
+263	MecayapanNahuat-70_sand-1	MecayapanNahuat	70_sand	x aː h l i	isth1242	nhx	671	SAND	227	
+264	MecayapanNahuat-71_say-1	MecayapanNahuat	71_say	k + i h t o a	isth1242	nhx	1458	SAY	228	
+265	MecayapanNahuat-72_see-1	MecayapanNahuat	72_see	i t a	isth1242	nhx	1409	SEE	231	
+266	MecayapanNahuat-73_seed-1	MecayapanNahuat	73_seed	j oː l	isth1242	nhx	714	SEED	233	
+267	MecayapanNahuat-74_sit-1	MecayapanNahuat	74_sit	m o + t aː l i á/a	isth1242	nhx	1416	SIT	235	
+268	MecayapanNahuat-75_skin-1	MecayapanNahuat	75_skin	k a h l oː + ʔ	isth1242	nhx	763	SKIN	238	
+269	MecayapanNahuat-76_sleep-1	MecayapanNahuat	76_sleep	k o tʃ i	isth1242	nhx	1585	SLEEP	240	
+270	MecayapanNahuat-77_small-1	MecayapanNahuat	77_small	a l iː m + p a	isth1242	nhx	1246	SMALL	244	
+271	MecayapanNahuat-78_smoke-1	MecayapanNahuat	78_smoke	p oː k + t i	isth1242	nhx	778	SMOKE (EXHAUST)	249	
+272	MecayapanNahuat-79_stand-1	MecayapanNahuat	79_stand	m o + k e ts a	isth1242	nhx	1442	STAND	251	
+273	MecayapanNahuat-7_bite-1	MecayapanNahuat	7_bite	t a n + k w a	isth1242	nhx	1403	BITE	12	
+274	MecayapanNahuat-80_star-1	MecayapanNahuat	80_star	s iː t a l i n	isth1242	nhx	1430	STAR	268	
+275	MecayapanNahuat-81_stone-1	MecayapanNahuat	81_stone	t e ʔ + t i	isth1242	nhx	857	STONE	283	
+276	MecayapanNahuat-82_sun-1	MecayapanNahuat	82_sun	t o + t a h + ts iː n	isth1242	nhx	1343	SUN	285	
+277	MecayapanNahuat-83_swim-1	MecayapanNahuat	83_swim	aː + p a t aː n i	isth1242	nhx	1439	SWIM	288	
+278	MecayapanNahuat-84_tail-1	MecayapanNahuat	84_tail	k w i t a p iː l	isth1242	nhx	1220	TAIL	289	
+279	MecayapanNahuat-85_that-1	MecayapanNahuat	85_that	i n + eː p a	isth1242	nhx	78	THAT	291	
+280	MecayapanNahuat-86_this-1	MecayapanNahuat	86_this	i n + iː n	isth1242	nhx	1214	THIS	293	
+281	MecayapanNahuat-87_thou-1	MecayapanNahuat	87_thou	t e h	isth1242	nhx	1215	THOU	294	
+282	MecayapanNahuat-88_tongue-1	MecayapanNahuat	88_tongue	l e n w a	isth1242	nhx	1205	TONGUE	312	
+283	MecayapanNahuat-89_tooth-1	MecayapanNahuat	89_tooth	t a n + t i	isth1242	nhx	1380	TOOTH	313	
+284	MecayapanNahuat-8_black-1	MecayapanNahuat	8_black	p iː s + t i ʔ	isth1242	nhx	163	BLACK	14	
+285	MecayapanNahuat-90_tree-1	MecayapanNahuat	90_tree	k w a w i + ʔ	isth1242	nhx	906	TREE	314	
+286	MecayapanNahuat-91_two-1	MecayapanNahuat	91_two	oː m e	isth1242	nhx	1498	TWO	315	
+287	MecayapanNahuat-92_walkgo-1	MecayapanNahuat	92_walkgo	n e h + n e m i	isth1242	nhx	1443	WALK	316	
+288	MecayapanNahuat-93_warmhot-1	MecayapanNahuat	93_warmhot	t o t oː n i ʔ	isth1242	nhx	2272	HOT OR WARM	318	
+289	MecayapanNahuat-94_water-1	MecayapanNahuat	94_water	aː ʔ + t i	isth1242	nhx	948	WATER	320	
+290	MecayapanNahuat-95_we-1	MecayapanNahuat	95_we	t e h a m e h	isth1242	nhx	1212	WE	322	
+291	MecayapanNahuat-96_what-1	MecayapanNahuat	96_what	t eː	isth1242	nhx	1236	WHAT	323	
+292	MecayapanNahuat-97_white-1	MecayapanNahuat	97_white	i s t aː ʔ	isth1242	nhx	1335	WHITE	324	
+293	MecayapanNahuat-98_who-1	MecayapanNahuat	98_who	aː ʔ	isth1242	nhx	1235	WHO	326	
+294	MecayapanNahuat-99_woman-1	MecayapanNahuat	99_woman	s i w aː + ʔ	isth1242	nhx	962	WOMAN	328	
+295	MecayapanNahuat-9_blood-1	MecayapanNahuat	9_blood	e s + t i	isth1242	nhx	946	BLOOD	16	
+296	NorthPueblaNahuatl-100_yellow-1	NorthPueblaNahuatl	100_yellow	k o s t i k	nort2957	ncj	1424	YELLOW	330	
+297	NorthPueblaNahuatl-10_bone-1	NorthPueblaNahuatl	10_bone	o h m i + tɬ	nort2957	ncj	1394	BONE	17	
+298	NorthPueblaNahuatl-11_breast-1	NorthPueblaNahuatl	11_breast	tʃ i tʃ i w a l	nort2957	ncj	1402	BREAST	19	
+300	NorthPueblaNahuatl-13_clawnail-1	NorthPueblaNahuatl	13_clawnail	i s t + n	nort2957	ncj	72	CLAW	24	
+301	NorthPueblaNahuatl-14_cloud-1	NorthPueblaNahuatl	14_cloud	m e x + tɬ i	nort2957	ncj	1489	CLOUD	25	
+302	NorthPueblaNahuatl-15_cold-1	NorthPueblaNahuatl	15_cold	i ts + t i k	nort2957	ncj	1287	COLD	27	
+303	NorthPueblaNahuatl-16_come-1	NorthPueblaNahuatl	16_come	w i ts	nort2957	ncj	1446	COME	30	
+304	NorthPueblaNahuatl-17_die-1	NorthPueblaNahuatl	17_die	m i k i	nort2957	ncj	1494	DIE	32	
+305	NorthPueblaNahuatl-18_dog-1	NorthPueblaNahuatl	18_dog	tʃ i tʃ i	nort2957	ncj	2009	DOG	33	
+306	NorthPueblaNahuatl-19_drink-1	NorthPueblaNahuatl	19_drink	o n + i	nort2957	ncj	1401	DRINK	51	
+307	NorthPueblaNahuatl-1_alltodos-1	NorthPueblaNahuatl	1_alltodos	n o tʃ i + n	nort2957	ncj	98	ALL	1	
+308	NorthPueblaNahuatl-20_dry-1	NorthPueblaNahuatl	20_dry	w a h + k i	nort2957	ncj	1398	DRY	52	
+309	NorthPueblaNahuatl-21_ear-1	NorthPueblaNahuatl	21_ear	n a k a s	nort2957	ncj	1247	EAR	53	
+310	NorthPueblaNahuatl-22_earth-1	NorthPueblaNahuatl	22_earth	tɬ a l i	nort2957	ncj	1228	EARTH (SOIL)	54	
+311	NorthPueblaNahuatl-23_eat-1	NorthPueblaNahuatl	23_eat	k w a	nort2957	ncj	1336	EAT	55	
+312	NorthPueblaNahuatl-24_egg-1	NorthPueblaNahuatl	24_egg	t o t o l + t e + tɬ	nort2957	ncj	744	EGG	56	
+313	NorthPueblaNahuatl-25_eye-1	NorthPueblaNahuatl	25_eye	i x + t e l o l o	nort2957	ncj	1248	EYE	60	
+314	NorthPueblaNahuatl-26_fatn-1	NorthPueblaNahuatl	26_fatn	tʃ i a k + tɬ i	nort2957	ncj	323	FAT (ORGANIC SUBSTANCE)	75	
+315	NorthPueblaNahuatl-27_feather-1	NorthPueblaNahuatl	27_feather	i h w i + tɬ	nort2957	ncj	1201	FEATHER	79	
+316	NorthPueblaNahuatl-28_fire-1	NorthPueblaNahuatl	28_fire	tɬ e + tɬ	nort2957	ncj	221	FIRE	83	
+317	NorthPueblaNahuatl-29_fish-1	NorthPueblaNahuatl	29_fish	m i tʃ i	nort2957	ncj	227	FISH	84	
+318	NorthPueblaNahuatl-2_ashes-1	NorthPueblaNahuatl	2_ashes	tɬ e k o + n e x + tɬ i	nort2957	ncj	646	ASH	2	
+319	NorthPueblaNahuatl-30_fly-1	NorthPueblaNahuatl	30_fly	p a tɬ a n i	nort2957	ncj	1441	FLY (MOVE THROUGH AIR)	87	
+320	NorthPueblaNahuatl-31_foot-1	NorthPueblaNahuatl	31_foot	i kx i	nort2957	ncj	1301	FOOT	88	
+321	NorthPueblaNahuatl-32_full-1	NorthPueblaNahuatl	32_full	t e n + t o k	nort2957	ncj	1429	FULL	90	
+322	NorthPueblaNahuatl-33_givetr-1	NorthPueblaNahuatl	33_givetr	m a k a	nort2957	ncj	1447	GIVE	92	
+323	NorthPueblaNahuatl-34_good-1	NorthPueblaNahuatl	34_good	k w a l i	nort2957	ncj	1035	GOOD	93	
+324	NorthPueblaNahuatl-35_green-1	NorthPueblaNahuatl	35_green	x o x o k + t i k	nort2957	ncj	1425	GREEN	98	
+325	NorthPueblaNahuatl-36_hair-1	NorthPueblaNahuatl	36_hair	ts o n + tɬ i	nort2957	ncj	1040	HAIR	101	
+326	NorthPueblaNahuatl-37_hand-1	NorthPueblaNahuatl	37_hand	m a + n	nort2957	ncj	1277	HAND	103	
+327	NorthPueblaNahuatl-38_head-1	NorthPueblaNahuatl	38_head	ts o n + t e k o	nort2957	ncj	1256	HEAD	104	
+328	NorthPueblaNahuatl-39_hear-1	NorthPueblaNahuatl	39_hear	k a k i	nort2957	ncj	1408	HEAR	106	
+329	NorthPueblaNahuatl-3_bark-1	NorthPueblaNahuatl	3_bark	j e w a + j o	nort2957	ncj	1204	BARK	3	
+330	NorthPueblaNahuatl-40_heart-1	NorthPueblaNahuatl	40_heart	j o l + o	nort2957	ncj	1223	HEART	107	
+331	NorthPueblaNahuatl-41_horn-1	NorthPueblaNahuatl	41_horn	k w a k o w	nort2957	ncj	1393	HORN (ANATOMY)	125	
+332	NorthPueblaNahuatl-42_i-1	NorthPueblaNahuatl	42_i	n e h w a + tɬ	nort2957	ncj	1209	I	138	
+333	NorthPueblaNahuatl-43_kill-1	NorthPueblaNahuatl	43_kill	m i k + t i a	nort2957	ncj	1417	KILL	139	
+334	NorthPueblaNahuatl-44_knee-1	NorthPueblaNahuatl	44_knee	tɬ a n + k w a	nort2957	ncj	1371	KNEE	140	
+335	NorthPueblaNahuatl-45_know-1	NorthPueblaNahuatl	45_know	m a t i	nort2957	ncj	1410	KNOW (SOMETHING)	142	
+336	NorthPueblaNahuatl-46_leaf-1	NorthPueblaNahuatl	46_leaf	x i w i + tɬ	nort2957	ncj	628	LEAF	144	
+337	NorthPueblaNahuatl-47_lie-1	NorthPueblaNahuatl	47_lie	m o + t e k a	nort2957	ncj	1411	LIE (REST)	145	
+338	NorthPueblaNahuatl-48_liver-1	NorthPueblaNahuatl	48_liver	j e l + tɬ a p a tʃ	nort2957	ncj	1224	LIVER	155	
+339	NorthPueblaNahuatl-49_long-1	NorthPueblaNahuatl	49_long	w e j a k	nort2957	ncj	1203	LONG	158	
+340	NorthPueblaNahuatl-4_belly-1	NorthPueblaNahuatl	4_belly	i h t e	nort2957	ncj	1251	BELLY	6	
+341	NorthPueblaNahuatl-50_louse-1	NorthPueblaNahuatl	50_louse	p i o h o	nort2957	ncj	1392	LOUSE	175	
+342	NorthPueblaNahuatl-51_man-1	NorthPueblaNahuatl	51_man	tɬ a k a tɬ	nort2957	ncj	1554	MAN	176	
+343	NorthPueblaNahuatl-52_many-1	NorthPueblaNahuatl	52_many	m i a k	nort2957	ncj	1198	MANY	177	
+344	NorthPueblaNahuatl-53_meat-1	NorthPueblaNahuatl	53_meat	n a k a + tɬ	nort2957	ncj	2615	FLESH OR MEAT	179	
+345	NorthPueblaNahuatl-54_moon-1	NorthPueblaNahuatl	54_moon	m e ts + tɬ i	nort2957	ncj	1313	MOON	180	
+346	NorthPueblaNahuatl-55_mountain-1	NorthPueblaNahuatl	55_mountain	t e p e + tɬ	nort2957	ncj	639	MOUNTAIN	181	
+347	NorthPueblaNahuatl-56_mouth-1	NorthPueblaNahuatl	56_mouth	k a m a + k	nort2957	ncj	674	MOUTH	182	
+348	NorthPueblaNahuatl-57_name-1	NorthPueblaNahuatl	57_name	t o k a h + tɬ i	nort2957	ncj	1405	NAME	184	
+349	NorthPueblaNahuatl-58_neck-1	NorthPueblaNahuatl	58_neck	k e tʃ	nort2957	ncj	1333	NECK	186	
+350	NorthPueblaNahuatl-59_new-1	NorthPueblaNahuatl	59_new	j a n k w i + k	nort2957	ncj	1231	NEW	187	
+351	NorthPueblaNahuatl-5_big-1	NorthPueblaNahuatl	5_big	w e j i	nort2957	ncj	1202	BIG	8	
+352	NorthPueblaNahuatl-60_night-1	NorthPueblaNahuatl	60_night	j o w a l i	nort2957	ncj	1233	NIGHT	188	
+353	NorthPueblaNahuatl-61_nose-1	NorthPueblaNahuatl	61_nose	j e k a + k	nort2957	ncj	1221	NOSE	190	
+354	NorthPueblaNahuatl-62_not-1	NorthPueblaNahuatl	62_not	a h m o	nort2957	ncj	1240	NOT	191	
+355	NorthPueblaNahuatl-63_one-1	NorthPueblaNahuatl	63_one	s e j a	nort2957	ncj	1493	ONE	194	
+356	NorthPueblaNahuatl-65_rain-1	NorthPueblaNahuatl	65_rain	k i j a w i + tɬ	nort2957	ncj	2108	RAINING OR RAIN	213	
+357	NorthPueblaNahuatl-66_red-1	NorthPueblaNahuatl	66_red	tʃ i + tʃ i l + t i k	nort2957	ncj	156	RED	218	
+358	NorthPueblaNahuatl-67_road-1	NorthPueblaNahuatl	67_road	o h + tɬ i	nort2957	ncj	667	ROAD	220	
+359	NorthPueblaNahuatl-68_root-1	NorthPueblaNahuatl	68_root	n e l w a + tɬ	nort2957	ncj	670	ROOT	221	
+360	NorthPueblaNahuatl-69_round-1	NorthPueblaNahuatl	69_round	j e w a l + t i k	nort2957	ncj	1395	ROUND	224	
+361	NorthPueblaNahuatl-6_bird-1	NorthPueblaNahuatl	6_bird	t o t o + tɬ	nort2957	ncj	937	BIRD	9	
+362	NorthPueblaNahuatl-70_sand-1	NorthPueblaNahuatl	70_sand	x a l i	nort2957	ncj	671	SAND	227	
+363	NorthPueblaNahuatl-71_say-1	NorthPueblaNahuatl	71_say	i h t o a	nort2957	ncj	1458	SAY	228	
+364	NorthPueblaNahuatl-72_see-1	NorthPueblaNahuatl	72_see	i t a	nort2957	ncj	1409	SEE	231	
+365	NorthPueblaNahuatl-73_seed-1	NorthPueblaNahuatl	73_seed	a tʃ tɬ i	nort2957	ncj	714	SEED	232	
+366	NorthPueblaNahuatl-74_sit-1	NorthPueblaNahuatl	74_sit	m o + tɬ a l i a	nort2957	ncj	1416	SIT	235	
+367	NorthPueblaNahuatl-75_skin-1	NorthPueblaNahuatl	75_skin	j e w a j o	nort2957	ncj	763	SKIN	237	
+368	NorthPueblaNahuatl-76_sleep-1	NorthPueblaNahuatl	76_sleep	k o tʃ i	nort2957	ncj	1585	SLEEP	240	
+369	NorthPueblaNahuatl-77_small-1	NorthPueblaNahuatl	77_small	k i ts i n i n	nort2957	ncj	1246	SMALL	243	
+370	NorthPueblaNahuatl-78_smoke-1	NorthPueblaNahuatl	78_smoke	p o k + tɬ i	nort2957	ncj	778	SMOKE (EXHAUST)	249	
+371	NorthPueblaNahuatl-79_stand-1	NorthPueblaNahuatl	79_stand	m o + t e l + k e ts a	nort2957	ncj	1442	STAND	251	
+372	NorthPueblaNahuatl-7_bite-1	NorthPueblaNahuatl	7_bite	tɬ a n + k e tʃ i j a	nort2957	ncj	1403	BITE	11	
+373	NorthPueblaNahuatl-80_star-1	NorthPueblaNahuatl	80_star	s i tɬ a l i	nort2957	ncj	1430	STAR	268	
+374	NorthPueblaNahuatl-81_stone-1	NorthPueblaNahuatl	81_stone	t e + tɬ	nort2957	ncj	857	STONE	283	
+375	NorthPueblaNahuatl-82_sun-1	NorthPueblaNahuatl	82_sun	t o n a l + ts i n + tɬ i	nort2957	ncj	1343	SUN	284	
+376	NorthPueblaNahuatl-83_swim-1	NorthPueblaNahuatl	83_swim	m + a l + t i j a	nort2957	ncj	1439	SWIM	287	
+377	NorthPueblaNahuatl-84_tail-1	NorthPueblaNahuatl	84_tail	k w i tɬ a p i l	nort2957	ncj	1220	TAIL	289	
+378	NorthPueblaNahuatl-85_that-1	NorthPueblaNahuatl	85_that	i n + o n	nort2957	ncj	78	THAT	290	
+379	NorthPueblaNahuatl-86_this-1	NorthPueblaNahuatl	86_this	i n + i n	nort2957	ncj	1214	THIS	293	
+380	NorthPueblaNahuatl-87_thou-1	NorthPueblaNahuatl	87_thou	t e h w a	nort2957	ncj	1215	THOU	294	
+381	NorthPueblaNahuatl-88_tongue-1	NorthPueblaNahuatl	88_tongue	n e n e p i l	nort2957	ncj	1205	TONGUE	296	
+382	NorthPueblaNahuatl-89_tooth-1	NorthPueblaNahuatl	89_tooth	tɬ a n	nort2957	ncj	1380	TOOTH	313	
+383	NorthPueblaNahuatl-8_black-1	NorthPueblaNahuatl	8_black	tɬ i l + t i k	nort2957	ncj	163	BLACK	13	
+384	NorthPueblaNahuatl-90_tree-1	NorthPueblaNahuatl	90_tree	k o w i + tɬ	nort2957	ncj	906	TREE	314	
+385	NorthPueblaNahuatl-91_two-1	NorthPueblaNahuatl	91_two	o m e	nort2957	ncj	1498	TWO	315	
+386	NorthPueblaNahuatl-92_walkgo-1	NorthPueblaNahuatl	92_walkgo	n e h + n e m i	nort2957	ncj	1443	WALK	316	
+387	NorthPueblaNahuatl-93_warmhot-1	NorthPueblaNahuatl	93_warmhot	t o t o n k i	nort2957	ncj	2272	HOT OR WARM	318	
+388	NorthPueblaNahuatl-94_water-1	NorthPueblaNahuatl	94_water	a + tɬ	nort2957	ncj	948	WATER	320	
+389	NorthPueblaNahuatl-95_we-1	NorthPueblaNahuatl	95_we	t e h w a n	nort2957	ncj	1212	WE	322	
+390	NorthPueblaNahuatl-96_what-1	NorthPueblaNahuatl	96_what	tɬ e n	nort2957	ncj	1236	WHAT	323	
+391	NorthPueblaNahuatl-97_white-1	NorthPueblaNahuatl	97_white	i s t a k	nort2957	ncj	1335	WHITE	324	
+392	NorthPueblaNahuatl-98_who-1	NorthPueblaNahuatl	98_who	a k i n	nort2957	ncj	1235	WHO	326	
+393	NorthPueblaNahuatl-99_woman-1	NorthPueblaNahuatl	99_woman	s i w a + tɬ	nort2957	ncj	962	WOMAN	328	
+394	NorthPueblaNahuatl-9_blood-1	NorthPueblaNahuatl	9_blood	j e s + tɬ i	nort2957	ncj	946	BLOOD	16	
+395	PajapanNahuat-100_yellow-1	PajapanNahuat	100_yellow	g o s t i k	isth1241	nhp	1424	YELLOW	330	
+396	PajapanNahuat-10_bone-1	PajapanNahuat	10_bone	o m i + t	isth1241	nhp	1394	BONE	17	
+397	PajapanNahuat-11_breast-1	PajapanNahuat	11_breast	tʃ i tʃ i w a l	isth1241	nhp	1402	BREAST	19	
+399	PajapanNahuat-13_clawnail-1	PajapanNahuat	13_clawnail	i s t i	isth1241	nhp	72	CLAW	24	
+400	PajapanNahuat-14_cloud-1	PajapanNahuat	14_cloud	m iː x + t i	isth1241	nhp	1489	CLOUD	25	
+401	PajapanNahuat-15_cold-1	PajapanNahuat	15_cold	s e s eː k	isth1241	nhp	1287	COLD	28	
+402	PajapanNahuat-16_come-1	PajapanNahuat	16_come	w iː ts	isth1241	nhp	1446	COME	30	
+403	PajapanNahuat-17_die-1	PajapanNahuat	17_die	m i g i	isth1241	nhp	1494	DIE	32	
+404	PajapanNahuat-18_dog-1	PajapanNahuat	18_dog	p e l o	isth1241	nhp	2009	DOG	50	
+405	PajapanNahuat-19_drink-1	PajapanNahuat	19_drink	o n + i	isth1241	nhp	1401	DRINK	51	
+406	PajapanNahuat-1_alltodos-1	PajapanNahuat	1_alltodos	n o tʃ i	isth1241	nhp	98	ALL	1	
+407	PajapanNahuat-20_dry-1	PajapanNahuat	20_dry	w aː k + t o k	isth1241	nhp	1398	DRY	52	
+408	PajapanNahuat-21_ear-1	PajapanNahuat	21_ear	n a g a s	isth1241	nhp	1247	EAR	53	
+409	PajapanNahuat-22_earth-1	PajapanNahuat	22_earth	t aː h l i	isth1241	nhp	1228	EARTH (SOIL)	54	
+410	PajapanNahuat-23_eat-1	PajapanNahuat	23_eat	b aː	isth1241	nhp	1336	EAT	55	
+411	PajapanNahuat-24_egg-1	PajapanNahuat	24_egg	t e k s i s	isth1241	nhp	744	EGG	57	
+412	PajapanNahuat-25_eye-1	PajapanNahuat	25_eye	iː x + t o l o l o	isth1241	nhp	1248	EYE	60	
+413	PajapanNahuat-26_fatn-1	PajapanNahuat	26_fatn	m a n t e g a	isth1241	nhp	323	FAT (ORGANIC SUBSTANCE)	77	
+414	PajapanNahuat-27_feather-1	PajapanNahuat	27_feather	ts o h m i + t	isth1241	nhp	1201	FEATHER	81	
+415	PajapanNahuat-28_fire-1	PajapanNahuat	28_fire	t i + t	isth1241	nhp	221	FIRE	83	
+416	PajapanNahuat-29_fish-1	PajapanNahuat	29_fish	t oː p o h	isth1241	nhp	227	FISH	85	
+417	PajapanNahuat-2_ashes-1	PajapanNahuat	2_ashes	b a + n eː x	isth1241	nhp	646	ASH	2	
+418	PajapanNahuat-30_fly-1	PajapanNahuat	30_fly	p a t aː n i	isth1241	nhp	1441	FLY (MOVE THROUGH AIR)	87	
+419	PajapanNahuat-31_foot-1	PajapanNahuat	31_foot	i kx i	isth1241	nhp	1301	FOOT	88	
+420	PajapanNahuat-32_full-1	PajapanNahuat	32_full	t eː n + t o k	isth1241	nhp	1429	FULL	90	
+421	PajapanNahuat-33_givetr-1	PajapanNahuat	33_givetr	m a g a	isth1241	nhp	1447	GIVE	92	
+422	PajapanNahuat-34_good-1	PajapanNahuat	34_good	j e k + t i	isth1241	nhp	1035	GOOD	94	
+423	PajapanNahuat-35_green-1	PajapanNahuat	35_green	x o x o k + t i k	isth1241	nhp	1425	GREEN	98	
+424	PajapanNahuat-36_hair-1	PajapanNahuat	36_hair	ts o n + g a l	isth1241	nhp	1040	HAIR	102	
+425	PajapanNahuat-37_hand-1	PajapanNahuat	37_hand	m aː	isth1241	nhp	1277	HAND	103	
+426	PajapanNahuat-38_head-1	PajapanNahuat	38_head	ts o n + t e g o n	isth1241	nhp	1256	HEAD	104	
+427	PajapanNahuat-39_hear-1	PajapanNahuat	39_hear	g a g i	isth1241	nhp	1408	HEAR	106	
+428	PajapanNahuat-3_bark-1	PajapanNahuat	3_bark	b a + g a h l o	isth1241	nhp	1204	BARK	4	
+429	PajapanNahuat-40_heart-1	PajapanNahuat	40_heart	a l m a	isth1241	nhp	1223	HEART	124	
+430	PajapanNahuat-41_horn-1	PajapanNahuat	41_horn	b aː b aː	isth1241	nhp	1393	HORN (ANATOMY)	125	
+431	PajapanNahuat-42_i-1	PajapanNahuat	42_i	n e h a	isth1241	nhp	1209	I	138	
+432	PajapanNahuat-43_kill-1	PajapanNahuat	43_kill	m i k + t i a	isth1241	nhp	1417	KILL	139	
+433	PajapanNahuat-44_knee-1	PajapanNahuat	44_knee	t a m + b a	isth1241	nhp	1371	KNEE	140	
+434	PajapanNahuat-45_know-1	PajapanNahuat	45_know	m a t i	isth1241	nhp	1410	KNOW (SOMETHING)	142	
+435	PajapanNahuat-46_leaf-1	PajapanNahuat	46_leaf	i s w a + t	isth1241	nhp	628	LEAF	143	
+436	PajapanNahuat-47_lie-1	PajapanNahuat	47_lie	m o + t e g a	isth1241	nhp	1411	LIE (REST)	145	
+437	PajapanNahuat-49_long-1	PajapanNahuat	49_long	w eː j a k	isth1241	nhp	1203	LONG	158	
+438	PajapanNahuat-4_belly-1	PajapanNahuat	4_belly	i h t i	isth1241	nhp	1251	BELLY	6	
+439	PajapanNahuat-50_louse-1	PajapanNahuat	50_louse	aː t i n	isth1241	nhp	1392	LOUSE	159	
+440	PajapanNahuat-51_man-1	PajapanNahuat	51_man	t aː g a + t	isth1241	nhp	1554	MAN	176	
+441	PajapanNahuat-52_many-1	PajapanNahuat	52_many	m i a k	isth1241	nhp	1198	MANY	177	
+442	PajapanNahuat-53_meat-1	PajapanNahuat	53_meat	n a g a + t	isth1241	nhp	2615	FLESH OR MEAT	179	
+443	PajapanNahuat-54_moon-1	PajapanNahuat	54_moon	m eː s + t i	isth1241	nhp	1313	MOON	180	
+444	PajapanNahuat-55_mountain-1	PajapanNahuat	55_mountain	t e p eː + t	isth1241	nhp	639	MOUNTAIN	181	
+445	PajapanNahuat-56_mouth-1	PajapanNahuat	56_mouth	t eː n	isth1241	nhp	674	MOUTH	183	
+446	PajapanNahuat-57_name-1	PajapanNahuat	57_name	t o g a	isth1241	nhp	1405	NAME	184	
+447	PajapanNahuat-58_neck-1	PajapanNahuat	58_neck	g eː tʃ	isth1241	nhp	1333	NECK	186	
+448	PajapanNahuat-59_new-1	PajapanNahuat	59_new	j a m b i + k	isth1241	nhp	1231	NEW	187	
+449	PajapanNahuat-5_big-1	PajapanNahuat	5_big	w eː j	isth1241	nhp	1202	BIG	8	
+450	PajapanNahuat-60_night-1	PajapanNahuat	60_night	t a + j o á/a	isth1241	nhp	1233	NIGHT	189	
+451	PajapanNahuat-61_nose-1	PajapanNahuat	61_nose	j a g a + t	isth1241	nhp	1221	NOSE	190	
+452	PajapanNahuat-62_not-1	PajapanNahuat	62_not	a m ó/o	isth1241	nhp	1240	NOT	192	
+453	PajapanNahuat-63_one-1	PajapanNahuat	63_one	s e	isth1241	nhp	1493	ONE	194	
+454	PajapanNahuat-64_person-1	PajapanNahuat	64_person	k r i s t i a n o h	isth1241	nhp	683	PERSON	210	
+455	PajapanNahuat-65_rain-1	PajapanNahuat	65_rain	aː + ts o n a + t	isth1241	nhp	2108	RAINING OR RAIN	214	
+456	PajapanNahuat-66_red-1	PajapanNahuat	66_red	t a + t a w i + k	isth1241	nhp	156	RED	219	
+457	PajapanNahuat-67_road-1	PajapanNahuat	67_road	o h + t i	isth1241	nhp	667	ROAD	220	
+458	PajapanNahuat-68_root-1	PajapanNahuat	68_root	b a + t a k s o n	isth1241	nhp	670	ROOT	222	
+459	PajapanNahuat-69_round-1	PajapanNahuat	69_round	m o n s o	isth1241	nhp	1395	ROUND	225	
+460	PajapanNahuat-6_bird-1	PajapanNahuat	6_bird	t oː t o + t	isth1241	nhp	937	BIRD	9	
+461	PajapanNahuat-70_sand-1	PajapanNahuat	70_sand	x aː h l i	isth1241	nhp	671	SAND	227	
+462	PajapanNahuat-71_say-1	PajapanNahuat	71_say	i h t o a	isth1241	nhp	1458	SAY	228	
+463	PajapanNahuat-72_see-1	PajapanNahuat	72_see	i t a	isth1241	nhp	1409	SEE	231	
+464	PajapanNahuat-73_seed-1	PajapanNahuat	73_seed	j oː l	isth1241	nhp	714	SEED	233	
+465	PajapanNahuat-74_sit-1	PajapanNahuat	74_sit	m o + t aː l i	isth1241	nhp	1416	SIT	235	
+466	PajapanNahuat-75_skin-1	PajapanNahuat	75_skin	b e t a x	isth1241	nhp	763	SKIN	239	
+467	PajapanNahuat-76_sleep-1	PajapanNahuat	76_sleep	g o tʃ i	isth1241	nhp	1585	SLEEP	240	
+468	PajapanNahuat-77_small-1	PajapanNahuat	77_small	tʃ i h tʃ i n t i + ts i n	isth1241	nhp	1246	SMALL	245	
+469	PajapanNahuat-78_smoke-1	PajapanNahuat	78_smoke	p oː k + t i	isth1241	nhp	778	SMOKE (EXHAUST)	249	
+470	PajapanNahuat-79_stand-1	PajapanNahuat	79_stand	m o + g e ts a	isth1241	nhp	1442	STAND	251	
+471	PajapanNahuat-7_bite-1	PajapanNahuat	7_bite	t a m + b a	isth1241	nhp	1403	BITE	12	
+472	PajapanNahuat-80_star-1	PajapanNahuat	80_star	l u s e r o	isth1241	nhp	1430	STAR	282	
+473	PajapanNahuat-81_stone-1	PajapanNahuat	81_stone	t e + t	isth1241	nhp	857	STONE	283	
+474	PajapanNahuat-82_sun-1	PajapanNahuat	82_sun	t oː n a t i	isth1241	nhp	1343	SUN	284	
+475	PajapanNahuat-83_swim-1	PajapanNahuat	83_swim	aː h k i a	isth1241	nhp	1439	SWIM	288	
+476	PajapanNahuat-84_tail-1	PajapanNahuat	84_tail	b i t a p i l	isth1241	nhp	1220	TAIL	289	
+477	PajapanNahuat-85_that-1	PajapanNahuat	85_that	h oː n	isth1241	nhp	78	THAT	290	
+478	PajapanNahuat-86_this-1	PajapanNahuat	86_this	h iː n	isth1241	nhp	1214	THIS	293	
+479	PajapanNahuat-87_thou-1	PajapanNahuat	87_thou	t e h a	isth1241	nhp	1215	THOU	294	
+480	PajapanNahuat-88_tongue-1	PajapanNahuat	88_tongue	n e n e p i l	isth1241	nhp	1205	TONGUE	296	
+481	PajapanNahuat-89_tooth-1	PajapanNahuat	89_tooth	t a n	isth1241	nhp	1380	TOOTH	313	
+482	PajapanNahuat-8_black-1	PajapanNahuat	8_black	p i s + t i k	isth1241	nhp	163	BLACK	14	
+483	PajapanNahuat-90_tree-1	PajapanNahuat	90_tree	b a w i + t	isth1241	nhp	906	TREE	314	
+484	PajapanNahuat-91_two-1	PajapanNahuat	91_two	oː m e	isth1241	nhp	1498	TWO	315	
+485	PajapanNahuat-92_walkgo-1	PajapanNahuat	92_walkgo	n e h + n e m i	isth1241	nhp	1443	WALK	316	
+486	PajapanNahuat-93_warmhot-1	PajapanNahuat	93_warmhot	t o t oː n i k	isth1241	nhp	2272	HOT OR WARM	318	
+487	PajapanNahuat-94_water-1	PajapanNahuat	94_water	aː + t	isth1241	nhp	948	WATER	320	
+488	PajapanNahuat-95_we-1	PajapanNahuat	95_we	t e h a m e h	isth1241	nhp	1212	WE	322	
+489	PajapanNahuat-96_what-1	PajapanNahuat	96_what	t eː	isth1241	nhp	1236	WHAT	323	
+490	PajapanNahuat-97_white-1	PajapanNahuat	97_white	i s t aː k	isth1241	nhp	1335	WHITE	324	
+491	PajapanNahuat-98_who-1	PajapanNahuat	98_who	aː k	isth1241	nhp	1235	WHO	326	
+492	PajapanNahuat-99_woman-1	PajapanNahuat	99_woman	s o áː/aː + t	isth1241	nhp	962	WOMAN	328	
+493	PajapanNahuat-9_blood-1	PajapanNahuat	9_blood	e s + t i	isth1241	nhp	946	BLOOD	16	
+494	Pipil-100_yellow-1	Pipil	100_yellow	t u l t i k	pipi1250	ppl	1424	YELLOW	332	
+495	Pipil-10_bone-1	Pipil	10_bone	uː m i + t	pipi1250	ppl	1394	BONE	17	
+496	Pipil-11_breast-1	Pipil	11_breast	tʃ iː tʃ i h	pipi1250	ppl	1402	BREAST	20	
+498	Pipil-13_clawnail-1	Pipil	13_clawnail	i s t i + t	pipi1250	ppl	72	CLAW	24	
+499	Pipil-14_cloud-1	Pipil	14_cloud	m i x + t i	pipi1250	ppl	1489	CLOUD	25	
+500	Pipil-15_cold-1	Pipil	15_cold	s e s e k	pipi1250	ppl	1287	COLD	28	
+501	Pipil-16_come-1	Pipil	16_come	w iː ts	pipi1250	ppl	1446	COME	30	
+502	Pipil-17_die-1	Pipil	17_die	m i k i	pipi1250	ppl	1494	DIE	32	
+503	Pipil-18_dog-1	Pipil	18_dog	p eː l u	pipi1250	ppl	2009	DOG	33	
+504	Pipil-19_drink-1	Pipil	19_drink	u n + i	pipi1250	ppl	1401	DRINK	51	
+505	Pipil-1_alltodos-1	Pipil	1_alltodos	m u tʃ i	pipi1250	ppl	98	ALL	1	
+506	Pipil-20_dry-1	Pipil	20_dry	w aː k + t u k	pipi1250	ppl	1398	DRY	52	
+507	Pipil-21_ear-1	Pipil	21_ear	n a k a s	pipi1250	ppl	1247	EAR	53	
+508	Pipil-22_earth-1	Pipil	22_earth	t aː l	pipi1250	ppl	1228	EARTH (SOIL)	54	
+509	Pipil-23_eat-1	Pipil	23_eat	k w a	pipi1250	ppl	1336	EAT	55	
+510	Pipil-24_egg-1	Pipil	24_egg	t e k s i s + t i	pipi1250	ppl	744	EGG	57	
+511	Pipil-25_eye-1	Pipil	25_eye	iː x	pipi1250	ppl	1248	EYE	60	
+512	Pipil-27_feather-1	Pipil	27_feather	u h m i + j u	pipi1250	ppl	1201	FEATHER	82	
+513	Pipil-28_fire-1	Pipil	28_fire	t iː + t	pipi1250	ppl	221	FIRE	83	
+514	Pipil-29_fish-1	Pipil	29_fish	m i tʃ i n	pipi1250	ppl	227	FISH	84	
+515	Pipil-2_ashes-1	Pipil	2_ashes	n e x + t i	pipi1250	ppl	646	ASH	2	
+516	Pipil-30_fly-1	Pipil	30_fly	p a t aː n i	pipi1250	ppl	1441	FLY (MOVE THROUGH AIR)	87	
+517	Pipil-31_foot-1	Pipil	31_foot	kx i	pipi1250	ppl	1301	FOOT	88	
+518	Pipil-32_full-1	Pipil	32_full	t eː n + t u k	pipi1250	ppl	1429	FULL	90	
+519	Pipil-33_givetr-1	Pipil	33_givetr	m a k a	pipi1250	ppl	1447	GIVE	92	
+520	Pipil-34_good-1	Pipil	34_good	j eː k	pipi1250	ppl	1035	GOOD	94	
+521	Pipil-35_green-1	Pipil	35_green	x u x u w i + k	pipi1250	ppl	1425	GREEN	99	
+522	Pipil-36_hair-1	Pipil	36_hair	ts u n + k a l	pipi1250	ppl	1040	HAIR	102	
+523	Pipil-37_hand-1	Pipil	37_hand	m e j	pipi1250	ppl	1277	HAND	103	
+524	Pipil-38_head-1	Pipil	38_head	ts u n + t e k u m a + t	pipi1250	ppl	1256	HEAD	104	
+525	Pipil-39_hear-1	Pipil	39_hear	k aː k i	pipi1250	ppl	1408	HEAR	106	
+526	Pipil-3_bark-1	Pipil	3_bark	eː w a + j u	pipi1250	ppl	1204	BARK	3	
+527	Pipil-40_heart-1	Pipil	40_heart	j u l	pipi1250	ppl	1223	HEART	107	
+528	Pipil-41_horn-1	Pipil	41_horn	k a tʃ o h	pipi1250	ppl	1393	HORN (ANATOMY)	137	
+529	Pipil-42_i-1	Pipil	42_i	n a	pipi1250	ppl	1209	I	138	
+530	Pipil-43_kill-1	Pipil	43_kill	m i k + t i a	pipi1250	ppl	1417	KILL	139	
+531	Pipil-44_knee-1	Pipil	44_knee	t e w a h k a	pipi1250	ppl	1371	KNEE	141	
+532	Pipil-45_know-1	Pipil	45_know	m a t i	pipi1250	ppl	1410	KNOW (SOMETHING)	142	
+533	Pipil-46_leaf-1	Pipil	46_leaf	i s w a + t	pipi1250	ppl	628	LEAF	143	
+534	Pipil-47_lie-1	Pipil	47_lie	m u + t eː k a	pipi1250	ppl	1411	LIE (REST)	145	
+535	Pipil-48_liver-1	Pipil	48_liver	e l + t a p a tʃ	pipi1250	ppl	1224	LIVER	157	
+536	Pipil-49_long-1	Pipil	49_long	w e j a k	pipi1250	ppl	1203	LONG	158	
+537	Pipil-4_belly-1	Pipil	4_belly	i h t i	pipi1250	ppl	1251	BELLY	6	
+538	Pipil-50_louse-1	Pipil	50_louse	a t i m e + t	pipi1250	ppl	1392	LOUSE	159	
+539	Pipil-51_man-1	Pipil	51_man	t aː k a + t	pipi1250	ppl	1554	MAN	176	
+540	Pipil-52_many-1	Pipil	52_many	m i j a k	pipi1250	ppl	1198	MANY	177	
+541	Pipil-53_meat-1	Pipil	53_meat	n a k a + t	pipi1250	ppl	2615	FLESH OR MEAT	179	
+542	Pipil-54_moon-1	Pipil	54_moon	m eː ts + t i	pipi1250	ppl	1313	MOON	180	
+543	Pipil-55_mountain-1	Pipil	55_mountain	t e p eː + t	pipi1250	ppl	639	MOUNTAIN	181	
+544	Pipil-56_mouth-1	Pipil	56_mouth	t eː n	pipi1250	ppl	674	MOUTH	183	
+545	Pipil-57_name-1	Pipil	57_name	t uː k e j	pipi1250	ppl	1405	NAME	184	
+546	Pipil-58_neck-1	Pipil	58_neck	k e tʃ + k uː j u	pipi1250	ppl	1333	NECK	186	
+547	Pipil-59_new-1	Pipil	59_new	j a n k w i + k	pipi1250	ppl	1231	NEW	187	
+548	Pipil-5_big-1	Pipil	5_big	w eː j	pipi1250	ppl	1202	BIG	8	
+549	Pipil-60_night-1	Pipil	60_night	t a + j u w a	pipi1250	ppl	1233	NIGHT	189	
+550	Pipil-61_nose-1	Pipil	61_nose	j a k	pipi1250	ppl	1221	NOSE	190	
+551	Pipil-62_not-1	Pipil	62_not	t eː + t e s u	pipi1250	ppl	1240	NOT	192	
+552	Pipil-63_one-1	Pipil	63_one	s eː	pipi1250	ppl	1493	ONE	194	
+553	Pipil-64_person-1	Pipil	64_person	k r i s t a n u h	pipi1250	ppl	683	PERSON	212	
+554	Pipil-65_rain-1	Pipil	65_rain	aː + t	pipi1250	ppl	2108	RAINING OR RAIN	216	
+555	Pipil-66_red-1	Pipil	66_red	tʃ iː l + t i k	pipi1250	ppl	156	RED	218	
+556	Pipil-67_road-1	Pipil	67_road	u h + t i	pipi1250	ppl	667	ROAD	220	
+557	Pipil-68_root-1	Pipil	68_root	n e l w a + t	pipi1250	ppl	670	ROOT	221	
+558	Pipil-69_round-1	Pipil	69_round	j a w a l + n a h	pipi1250	ppl	1395	ROUND	224	
+559	Pipil-6_bird-1	Pipil	6_bird	t uː t u + t	pipi1250	ppl	937	BIRD	9	
+560	Pipil-70_sand-1	Pipil	70_sand	aː + x aː l	pipi1250	ppl	671	SAND	227	
+561	Pipil-71_say-1	Pipil	71_say	i l w i a	pipi1250	ppl	1458	SAY	229	
+562	Pipil-72_see-1	Pipil	72_see	i t a	pipi1250	ppl	1409	SEE	231	
+563	Pipil-73_seed-1	Pipil	73_seed	iː x	pipi1250	ppl	714	SEED	234	
+564	Pipil-74_sit-1	Pipil	74_sit	m u + t aː l i a	pipi1250	ppl	1416	SIT	235	
+565	Pipil-75_skin-1	Pipil	75_skin	eː w a j u	pipi1250	ppl	763	SKIN	237	
+566	Pipil-76_sleep-1	Pipil	76_sleep	k u tʃ i	pipi1250	ppl	1585	SLEEP	240	
+567	Pipil-77_small-1	Pipil	77_small	a tʃ i h + tʃ i n	pipi1250	ppl	1246	SMALL	247	
+568	Pipil-78_smoke-1	Pipil	78_smoke	p u k + t i	pipi1250	ppl	778	SMOKE (EXHAUST)	249	
+569	Pipil-79_stand-1	Pipil	79_stand	m u + k e ts a	pipi1250	ppl	1442	STAND	251	
+570	Pipil-7_bite-1	Pipil	7_bite	t a n + k w a	pipi1250	ppl	1403	BITE	12	
+571	Pipil-80_star-1	Pipil	80_star	s iː t a l	pipi1250	ppl	1430	STAR	268	
+572	Pipil-81_stone-1	Pipil	81_stone	t e + t	pipi1250	ppl	857	STONE	283	
+573	Pipil-82_sun-1	Pipil	82_sun	t uː n a l	pipi1250	ppl	1343	SUN	284	
+574	Pipil-84_tail-1	Pipil	84_tail	k w i tɬ a p i l	pipi1250	ppl	1220	TAIL	289	
+575	Pipil-85_that-1	Pipil	85_that	u n i	pipi1250	ppl	78	THAT	290	
+576	Pipil-86_this-1	Pipil	86_this	i n i	pipi1250	ppl	1214	THIS	293	
+577	Pipil-87_thou-1	Pipil	87_thou	t a	pipi1250	ppl	1215	THOU	294	
+578	Pipil-88_tongue-1	Pipil	88_tongue	n e n e p i l	pipi1250	ppl	1205	TONGUE	296	
+579	Pipil-89_tooth-1	Pipil	89_tooth	t a n	pipi1250	ppl	1380	TOOTH	313	
+580	Pipil-8_black-1	Pipil	8_black	t iː l + t i k	pipi1250	ppl	163	BLACK	13	
+581	Pipil-90_tree-1	Pipil	90_tree	k w a w i + t	pipi1250	ppl	906	TREE	314	
+582	Pipil-91_two-1	Pipil	91_two	uː m e	pipi1250	ppl	1498	TWO	315	
+583	Pipil-92_walkgo-1	Pipil	92_walkgo	n e h + n e m i	pipi1250	ppl	1443	WALK	316	
+584	Pipil-93_warmhot-1	Pipil	93_warmhot	t u t uː n i k	pipi1250	ppl	2272	HOT OR WARM	318	
+585	Pipil-94_water-1	Pipil	94_water	aː + t	pipi1250	ppl	948	WATER	320	
+586	Pipil-95_we-1	Pipil	95_we	t e h e m e t	pipi1250	ppl	1212	WE	322	
+587	Pipil-96_what-1	Pipil	96_what	t aː	pipi1250	ppl	1236	WHAT	323	
+588	Pipil-97_white-1	Pipil	97_white	i s t a k	pipi1250	ppl	1335	WHITE	324	
+589	Pipil-98_who-1	Pipil	98_who	k aː	pipi1250	ppl	1235	WHO	327	
+590	Pipil-99_woman-1	Pipil	99_woman	s i w aː + t	pipi1250	ppl	962	WOMAN	328	
+591	Pipil-9_blood-1	Pipil	9_blood	e s + t i	pipi1250	ppl	946	BLOOD	16	
+592	Pochutec-10_bone-1	Pochutec	10_bone	o + t	poch1244	xpo	1394	BONE	17	
+593	Pochutec-11_breast-1	Pochutec	11_breast	n o	poch1244	xpo	1402	BREAST	21	
+595	Pochutec-13_clawnail-1	Pochutec	13_clawnail	o x + t	poch1244	xpo	72	CLAW	24	
+596	Pochutec-14_cloud-1	Pochutec	14_cloud	p i x + t	poch1244	xpo	1489	CLOUD	26	
+597	Pochutec-15_cold-1	Pochutec	15_cold	p i n á/a	poch1244	xpo	1287	COLD	29	
+598	Pochutec-16_come-1	Pochutec	16_come	w i ts	poch1244	xpo	1446	COME	30	
+599	Pochutec-17_die-1	Pochutec	17_die	m o k	poch1244	xpo	1494	DIE	32	
+600	Pochutec-18_dog-1	Pochutec	18_dog	t a tʃ ó/o m	poch1244	xpo	2009	DOG	34	
+601	Pochutec-19_drink-1	Pochutec	19_drink	t e m + í/i	poch1244	xpo	1401	DRINK	51	
+602	Pochutec-1_alltodos-1	Pochutec	1_alltodos	n o tʃ ó/o	poch1244	xpo	98	ALL	1	
+603	Pochutec-20_dry-1	Pochutec	20_dry	w a k	poch1244	xpo	1398	DRY	52	
+604	Pochutec-21_ear-1	Pochutec	21_ear	n e k é/e s + t	poch1244	xpo	1247	EAR	53	
+605	Pochutec-22_earth-1	Pochutec	22_earth	t a l	poch1244	xpo	1228	EARTH (SOIL)	54	
+606	Pochutec-23_eat-1	Pochutec	23_eat	k w a	poch1244	xpo	1336	EAT	55	
+607	Pochutec-24_egg-1	Pochutec	24_egg	t i + t ó/o + t	poch1244	xpo	744	EGG	59	
+608	Pochutec-25_eye-1	Pochutec	25_eye	i x + t o t o l ú/u + t	poch1244	xpo	1248	EYE	60	
+609	Pochutec-28_fire-1	Pochutec	28_fire	t e + t	poch1244	xpo	221	FIRE	83	
+610	Pochutec-29_fish-1	Pochutec	29_fish	m i tʃ ó/o m	poch1244	xpo	227	FISH	84	
+611	Pochutec-2_ashes-1	Pochutec	2_ashes	n o x + t	poch1244	xpo	646	ASH	2	
+612	Pochutec-30_fly-1	Pochutec	30_fly	p a t á/a n k	poch1244	xpo	1441	FLY (MOVE THROUGH AIR)	87	
+613	Pochutec-31_foot-1	Pochutec	31_foot	n o	poch1244	xpo	1301	FOOT	89	
+614	Pochutec-33_givetr-1	Pochutec	33_givetr	m e k á/a	poch1244	xpo	1447	GIVE	92	
+615	Pochutec-34_good-1	Pochutec	34_good	u l í/i k	poch1244	xpo	1035	GOOD	95	
+616	Pochutec-35_green-1	Pochutec	35_green	x w i	poch1244	xpo	1425	GREEN	100	
+617	Pochutec-36_hair-1	Pochutec	36_hair	ts o n	poch1244	xpo	1040	HAIR	101	
+618	Pochutec-37_hand-1	Pochutec	37_hand	m a í/i	poch1244	xpo	1277	HAND	103	
+619	Pochutec-38_head-1	Pochutec	38_head	k w a í/i + t	poch1244	xpo	1256	HEAD	105	
+620	Pochutec-39_hear-1	Pochutec	39_hear	k e k í/i	poch1244	xpo	1408	HEAR	106	
+621	Pochutec-40_heart-1	Pochutec	40_heart	n	poch1244	xpo	1223	HEART	107	
+622	Pochutec-42_i-1	Pochutec	42_i	n e n	poch1244	xpo	1209	I	138	
+623	Pochutec-43_kill-1	Pochutec	43_kill	m o k t í/i	poch1244	xpo	1417	KILL	139	
+624	Pochutec-45_know-1	Pochutec	45_know	m e t í/i	poch1244	xpo	1410	KNOW (SOMETHING)	142	
+625	Pochutec-46_leaf-1	Pochutec	46_leaf	x u t	poch1244	xpo	628	LEAF	144	
+626	Pochutec-47_lie-1	Pochutec	47_lie	t e k é/e	poch1244	xpo	1411	LIE (REST)	145	
+627	Pochutec-50_louse-1	Pochutec	50_louse	a t ó/o m + t	poch1244	xpo	1392	LOUSE	159	
+628	Pochutec-51_man-1	Pochutec	51_man	o k ó/o x + t	poch1244	xpo	1554	MAN	176	
+629	Pochutec-52_many-1	Pochutec	52_many	a s ó/o k	poch1244	xpo	1198	MANY	178	
+630	Pochutec-53_meat-1	Pochutec	53_meat	n e k é/e + t	poch1244	xpo	2615	FLESH OR MEAT	179	
+631	Pochutec-54_moon-1	Pochutec	54_moon	m e s + t	poch1244	xpo	1313	MOON	180	
+632	Pochutec-56_mouth-1	Pochutec	56_mouth	t e n	poch1244	xpo	674	MOUTH	183	
+633	Pochutec-57_name-1	Pochutec	57_name	k u l	poch1244	xpo	1405	NAME	185	
+634	Pochutec-58_neck-1	Pochutec	58_neck	k o x + t	poch1244	xpo	1333	NECK	186	
+635	Pochutec-5_big-1	Pochutec	5_big	h u h i ó/o m	poch1244	xpo	1202	BIG	8	
+636	Pochutec-60_night-1	Pochutec	60_night	o w é/e l	poch1244	xpo	1233	NIGHT	188	
+637	Pochutec-61_nose-1	Pochutec	61_nose	j e k é/e + t	poch1244	xpo	1221	NOSE	190	
+638	Pochutec-62_not-1	Pochutec	62_not	a s	poch1244	xpo	1240	NOT	193	
+639	Pochutec-63_one-1	Pochutec	63_one	s e	poch1244	xpo	1493	ONE	194	
+640	Pochutec-65_rain-1	Pochutec	65_rain	j e k + t	poch1244	xpo	2108	RAINING OR RAIN	217	
+641	Pochutec-67_road-1	Pochutec	67_road	o tʼ k á/a n	poch1244	xpo	667	ROAD	220	
+642	Pochutec-71_say-1	Pochutec	71_say	i t í/i	poch1244	xpo	1458	SAY	230	
+643	Pochutec-72_see-1	Pochutec	72_see	i t á/a	poch1244	xpo	1409	SEE	231	
+644	Pochutec-73_seed-1	Pochutec	73_seed	a x + t	poch1244	xpo	714	SEED	232	
+645	Pochutec-74_sit-1	Pochutec	74_sit	m e ts á/a	poch1244	xpo	1416	SIT	236	
+646	Pochutec-75_skin-1	Pochutec	75_skin	k w e t é/e x + t	poch1244	xpo	763	SKIN	239	
+647	Pochutec-76_sleep-1	Pochutec	76_sleep	k o tʃ í/i	poch1244	xpo	1585	SLEEP	240	
+648	Pochutec-77_small-1	Pochutec	77_small	n i x t ú/u n	poch1244	xpo	1246	SMALL	248	
+649	Pochutec-78_smoke-1	Pochutec	78_smoke	a + p o t ó/o k + t	poch1244	xpo	778	SMOKE (EXHAUST)	250	
+650	Pochutec-79_stand-1	Pochutec	79_stand	x + m o + k ts é/e	poch1244	xpo	1442	STAND	251	
+651	Pochutec-81_stone-1	Pochutec	81_stone	t o + t	poch1244	xpo	857	STONE	283	
+652	Pochutec-82_sun-1	Pochutec	82_sun	t u n é/e l	poch1244	xpo	1343	SUN	284	
+653	Pochutec-85_that-1	Pochutec	85_that	n a m é/e l	poch1244	xpo	78	THAT	292	
+654	Pochutec-86_this-1	Pochutec	86_this	i n á/a	poch1244	xpo	1214	THIS	293	
+655	Pochutec-87_thou-1	Pochutec	87_thou	m w e n	poch1244	xpo	1215	THOU	295	
+656	Pochutec-88_tongue-1	Pochutec	88_tongue	n e n e p í/i l	poch1244	xpo	1205	TONGUE	296	
+657	Pochutec-90_tree-1	Pochutec	90_tree	k w a g ú/u + t	poch1244	xpo	906	TREE	314	
+658	Pochutec-91_two-1	Pochutec	91_two	o m é/e m	poch1244	xpo	1498	TWO	315	
+659	Pochutec-92_walkgo-1	Pochutec	92_walkgo	u í/i	poch1244	xpo	1443	WALK	317	
+660	Pochutec-93_warmhot-1	Pochutec	93_warmhot	t u n í/i	poch1244	xpo	2272	HOT OR WARM	319	
+661	Pochutec-94_water-1	Pochutec	94_water	a + t	poch1244	xpo	948	WATER	320	
+662	Pochutec-95_we-1	Pochutec	95_we	t w é/e n	poch1244	xpo	1212	WE	322	
+663	Pochutec-96_what-1	Pochutec	96_what	t e	poch1244	xpo	1236	WHAT	323	
+664	Pochutec-97_white-1	Pochutec	97_white	tʃ u p é/e k	poch1244	xpo	1335	WHITE	325	
+665	Pochutec-98_who-1	Pochutec	98_who	a k	poch1244	xpo	1235	WHO	326	
+666	Pochutec-99_woman-1	Pochutec	99_woman	g’ l a s + t	poch1244	xpo	962	WOMAN	329	
+667	Pochutec-9_blood-1	Pochutec	9_blood	e s + t	poch1244	xpo	946	BLOOD	16	
+668	ProtoAztecan-100_yellow-1	ProtoAztecan	100_yellow	k o s + t ɨ + k	azte1234	nan	1424	YELLOW	330	
+669	ProtoAztecan-10_bone-1	ProtoAztecan	10_bone	oː m ɨ + tɬ	azte1234	nan	1394	BONE	17	
+670	ProtoAztecan-11_breast-1	ProtoAztecan	11_breast	tʃ iː tʃ iː w a l	azte1234	nan	1402	BREAST	19	
+672	ProtoAztecan-13_clawnail-1	ProtoAztecan	13_clawnail	ɨ s t ɨ	azte1234	nan	72	CLAW	24	
+673	ProtoAztecan-14_cloud-1	ProtoAztecan	14_cloud	m i x + tɬ ɨ	azte1234	nan	1489	CLOUD	25	
+674	ProtoAztecan-15_cold-1	ProtoAztecan	15_cold	s e s e + k	azte1234	nan	1287	COLD	28	
+675	ProtoAztecan-16_come-1	ProtoAztecan	16_come	w iː ts	azte1234	nan	1446	COME	30	
+676	ProtoAztecan-17_die-1	ProtoAztecan	17_die	m ɨ k i	azte1234	nan	1494	DIE	32	
+677	ProtoAztecan-19_drink-1	ProtoAztecan	19_drink	i h i	azte1234	nan	1401	DRINK	51	
+678	ProtoAztecan-1_alltodos-1	ProtoAztecan	1_alltodos	m o tʃ ɨ + m	azte1234	nan	98	ALL	1	
+679	ProtoAztecan-20_dry-1	ProtoAztecan	20_dry	w aː k	azte1234	nan	1398	DRY	52	
+680	ProtoAztecan-21_ear-1	ProtoAztecan	21_ear	n a k a s + tɬ ɨ	azte1234	nan	1247	EAR	53	
+681	ProtoAztecan-22_earth-1	ProtoAztecan	22_earth	tɬ aː l + l ɨ	azte1234	nan	1228	EARTH (SOIL)	54	
+682	ProtoAztecan-23_eat-1	ProtoAztecan	23_eat	k w a + h aː	azte1234	nan	1336	EAT	55	
+683	ProtoAztecan-25_eye-1	ProtoAztecan	25_eye	iː x	azte1234	nan	1248	EYE	60	
+684	ProtoAztecan-27_feather-1	ProtoAztecan	27_feather	ɨ w ɨ	azte1234	nan	1201	FEATHER	79	
+685	ProtoAztecan-28_fire-1	ProtoAztecan	28_fire	tɬ a h i + tɬ	azte1234	nan	221	FIRE	83	
+686	ProtoAztecan-29_fish-1	ProtoAztecan	29_fish	m ɨ + tʃ ɨ + m	azte1234	nan	227	FISH	84	
+687	ProtoAztecan-2_ashes-1	ProtoAztecan	2_ashes	n ɨ x + tɬ ɨ	azte1234	nan	646	ASH	2	
+688	ProtoAztecan-30_fly-1	ProtoAztecan	30_fly	p a tɬ aː n i	azte1234	nan	1441	FLY (MOVE THROUGH AIR)	87	
+689	ProtoAztecan-31_foot-1	ProtoAztecan	31_foot	ɨ kx ɨ	azte1234	nan	1301	FOOT	88	
+690	ProtoAztecan-32_full-1	ProtoAztecan	32_full	t eː n + t o k	azte1234	nan	1429	FULL	90	
+691	ProtoAztecan-33_givetr-1	ProtoAztecan	33_givetr	m a k a	azte1234	nan	1447	GIVE	92	
+692	ProtoAztecan-34_good-1	ProtoAztecan	34_good	j eː k + tɬ ɨ	azte1234	nan	1035	GOOD	94	
+693	ProtoAztecan-34_good-2	ProtoAztecan	34_good	j eː k + tɬ ɨ	azte1234	nan	1035	GOOD	97	
+694	ProtoAztecan-36_hair-1	ProtoAztecan	36_hair	ts o m	azte1234	nan	1040	HAIR	101	
+695	ProtoAztecan-37_hand-1	ProtoAztecan	37_hand	m a h	azte1234	nan	1277	HAND	103	
+696	ProtoAztecan-38_head-1	ProtoAztecan	38_head	k w a h	azte1234	nan	1256	HEAD	104	
+697	ProtoAztecan-39_hear-1	ProtoAztecan	39_hear	k a k i	azte1234	nan	1408	HEAR	106	
+698	ProtoAztecan-3_bark-1	ProtoAztecan	3_bark	ɨ w aː + j oː + tɬ	azte1234	nan	1204	BARK	3	
+699	ProtoAztecan-40_heart-1	ProtoAztecan	40_heart	j oː l	azte1234	nan	1223	HEART	107	
+700	ProtoAztecan-42_i-1	ProtoAztecan	42_i	n a h a	azte1234	nan	1209	I	138	
+701	ProtoAztecan-43_kill-1	ProtoAztecan	43_kill	m ɨ k + t ɨ + h a	azte1234	nan	1417	KILL	139	
+702	ProtoAztecan-44_knee-1	ProtoAztecan	44_knee	tɬ a n + k w a h	azte1234	nan	1371	KNEE	140	
+703	ProtoAztecan-45_know-1	ProtoAztecan	45_know	m a t i	azte1234	nan	1410	KNOW (SOMETHING)	142	
+704	ProtoAztecan-46_leaf-1	ProtoAztecan	46_leaf	ɨ s w a + tɬ	azte1234	nan	628	LEAF	143	
+705	ProtoAztecan-47_lie-1	ProtoAztecan	47_lie	m o + t eː k a	azte1234	nan	1411	LIE (REST)	145	
+706	ProtoAztecan-49_long-1	ProtoAztecan	49_long	w e h e j a + k	azte1234	nan	1203	LONG	158	
+707	ProtoAztecan-4_belly-1	ProtoAztecan	4_belly	ɨ h t ɨ	azte1234	nan	1251	BELLY	6	
+708	ProtoAztecan-50_louse-1	ProtoAztecan	50_louse	a t ɨ m ɨ + tɬ	azte1234	nan	1392	LOUSE	159	
+709	ProtoAztecan-51_man-1	ProtoAztecan	51_man	tɬ aː k a + tɬ	azte1234	nan	1554	MAN	176	
+710	ProtoAztecan-52_many-1	ProtoAztecan	52_many	m ɨ j a k	azte1234	nan	1198	MANY	177	
+711	ProtoAztecan-53_meat-1	ProtoAztecan	53_meat	n a k a + tɬ	azte1234	nan	2615	FLESH OR MEAT	179	
+712	ProtoAztecan-54_moon-1	ProtoAztecan	54_moon	m eː ts + tɬ ɨ	azte1234	nan	1313	MOON	180	
+713	ProtoAztecan-55_mountain-1	ProtoAztecan	55_mountain	t ɨ p eː + tɬ	azte1234	nan	639	MOUNTAIN	181	
+714	ProtoAztecan-56_mouth-1	ProtoAztecan	56_mouth	t eː n + tɬ ɨ	azte1234	nan	674	MOUTH	183	
+715	ProtoAztecan-57_name-1	ProtoAztecan	57_name	t oː k aː h ɨ + tɬ	azte1234	nan	1405	NAME	184	
+716	ProtoAztecan-58_neck-1	ProtoAztecan	58_neck	k ə tʃ + tɬ ɨ	azte1234	nan	1333	NECK	186	
+717	ProtoAztecan-59_new-1	ProtoAztecan	59_new	j a n k w i + k	azte1234	nan	1231	NEW	187	
+718	ProtoAztecan-5_big-1	ProtoAztecan	5_big	w e h e j	azte1234	nan	1202	BIG	8	
+719	ProtoAztecan-60_night-1	ProtoAztecan	60_night	j o w a l + l ɨ	azte1234	nan	1233	NIGHT	188	
+720	ProtoAztecan-61_nose-1	ProtoAztecan	61_nose	j a k a + tɬ	azte1234	nan	1221	NOSE	190	
+721	ProtoAztecan-63_one-1	ProtoAztecan	63_one	s eː	azte1234	nan	1493	ONE	194	
+722	ProtoAztecan-66_red-1	ProtoAztecan	66_red	tʃ iː l + t ɨ + k	azte1234	nan	156	RED	218	
+723	ProtoAztecan-67_road-1	ProtoAztecan	67_road	o h + tɬ ɨ	azte1234	nan	667	ROAD	220	
+724	ProtoAztecan-68_root-1	ProtoAztecan	68_root	n e l w a + tɬ	azte1234	nan	670	ROOT	221	
+725	ProtoAztecan-69_round-1	ProtoAztecan	69_round	j a w a l + t ɨ + k	azte1234	nan	1395	ROUND	224	
+726	ProtoAztecan-6_bird-1	ProtoAztecan	6_bird	t oː t oː + tɬ	azte1234	nan	937	BIRD	9	
+727	ProtoAztecan-70_sand-1	ProtoAztecan	70_sand	x aː l + l ɨ	azte1234	nan	671	SAND	227	
+728	ProtoAztecan-72_see-1	ProtoAztecan	72_see	ɨ h t a	azte1234	nan	1409	SEE	231	
+729	ProtoAztecan-73_seed-1	ProtoAztecan	73_seed	aː tʃ + tɬ ɨ	azte1234	nan	714	SEED	232	
+730	ProtoAztecan-74_sit-1	ProtoAztecan	74_sit	m o + tɬ a l ɨ + h a	azte1234	nan	1416	SIT	235	
+731	ProtoAztecan-75_skin-1	ProtoAztecan	75_skin	eː w a + tɬ	azte1234	nan	763	SKIN	237	
+732	ProtoAztecan-76_sleep-1	ProtoAztecan	76_sleep	k o tʃ ɨ	azte1234	nan	1585	SLEEP	240	
+733	ProtoAztecan-78_smoke-1	ProtoAztecan	78_smoke	p oː k + tɬ ɨ	azte1234	nan	778	SMOKE (EXHAUST)	249	
+734	ProtoAztecan-79_stand-1	ProtoAztecan	79_stand	k ɨ ts a	azte1234	nan	1442	STAND	251	
+735	ProtoAztecan-7_bite-1	ProtoAztecan	7_bite	k ɨ h + ts o m a	azte1234	nan	1403	BITE	12	
+736	ProtoAztecan-80_star-1	ProtoAztecan	80_star	s i tɬ a l ɨ + m	azte1234	nan	1430	STAR	268	
+737	ProtoAztecan-81_stone-1	ProtoAztecan	81_stone	t ə + tɬ	azte1234	nan	857	STONE	283	
+738	ProtoAztecan-84_tail-1	ProtoAztecan	84_tail	k w i tɬ a + p ɨ l	azte1234	nan	1220	TAIL	289	
+739	ProtoAztecan-85_that-1	ProtoAztecan	85_that	oː n	azte1234	nan	78	THAT	290	
+740	ProtoAztecan-86_this-1	ProtoAztecan	86_this	i n	azte1234	nan	1214	THIS	293	
+741	ProtoAztecan-87_thou-1	ProtoAztecan	87_thou	t ə h a	azte1234	nan	1215	THOU	294	
+742	ProtoAztecan-88_tongue-1	ProtoAztecan	88_tongue	n ɨ n ɨ + p ɨ l	azte1234	nan	1205	TONGUE	296	
+743	ProtoAztecan-89_tooth-1	ProtoAztecan	89_tooth	tɬ a n	azte1234	nan	1380	TOOTH	313	
+744	ProtoAztecan-8_black-1	ProtoAztecan	8_black	tɬ iː l + t ɨ + k	azte1234	nan	163	BLACK	13	
+745	ProtoAztecan-90_tree-1	ProtoAztecan	90_tree	k w a + w ɨ + tɬ	azte1234	nan	906	TREE	314	
+746	ProtoAztecan-91_two-1	ProtoAztecan	91_two	oː m ə	azte1234	nan	1498	TWO	315	
+747	ProtoAztecan-92_walkgo-1	ProtoAztecan	92_walkgo	n ɨ h + n ɨ m i	azte1234	nan	1443	WALK	316	
+748	ProtoAztecan-93_warmhot-1	ProtoAztecan	93_warmhot	t o + t oː n ɨ + k	azte1234	nan	2272	HOT OR WARM	318	
+749	ProtoAztecan-94_water-1	ProtoAztecan	94_water	aː + tɬ	azte1234	nan	948	WATER	320	
+750	ProtoAztecan-95_we-1	ProtoAztecan	95_we	t ə h a + m ɨ + t	azte1234	nan	1212	WE	322	
+751	ProtoAztecan-96_what-1	ProtoAztecan	96_what	tɬ a	azte1234	nan	1236	WHAT	323	
+752	ProtoAztecan-97_white-1	ProtoAztecan	97_white	i s t aː + k ɨ	azte1234	nan	1335	WHITE	324	
+753	ProtoAztecan-98_who-1	ProtoAztecan	98_who	aː k	azte1234	nan	1235	WHO	326	
+754	ProtoAztecan-99_woman-1	ProtoAztecan	99_woman	s i	azte1234	nan	962	WOMAN	328	
+755	ProtoAztecan-9_blood-1	ProtoAztecan	9_blood	ɨ s + tɬ ɨ	azte1234	nan	946	BLOOD	16	
+756	TetelcingoNahuatl-100_yellow-1	TetelcingoNahuatl	100_yellow	k o s t iː k	tete1251	nhg	1424	YELLOW	330	
+757	TetelcingoNahuatl-10_bone-1	TetelcingoNahuatl	10_bone	m iː m iː t e + tɬ	tete1251	nhg	1394	BONE	18	
+758	TetelcingoNahuatl-11_breast-1	TetelcingoNahuatl	11_breast	tʃ i tʃ iː w a l	tete1251	nhg	1402	BREAST	19	
+760	TetelcingoNahuatl-13_clawnail-1	TetelcingoNahuatl	13_clawnail	i s t e	tete1251	nhg	72	CLAW	24	
+761	TetelcingoNahuatl-14_cloud-1	TetelcingoNahuatl	14_cloud	m e x + tɬ iː	tete1251	nhg	1489	CLOUD	25	
+762	TetelcingoNahuatl-15_cold-1	TetelcingoNahuatl	15_cold	i ts + t iː k	tete1251	nhg	1287	COLD	27	
+763	TetelcingoNahuatl-16_come-1	TetelcingoNahuatl	16_come	i b i ts	tete1251	nhg	1446	COME	30	
+764	TetelcingoNahuatl-17_die-1	TetelcingoNahuatl	17_die	m iː k iː	tete1251	nhg	1494	DIE	32	
+765	TetelcingoNahuatl-18_dog-1	TetelcingoNahuatl	18_dog	tʃ iː tʃ iː + t u	tete1251	nhg	2009	DOG	33	
+766	TetelcingoNahuatl-19_drink-1	TetelcingoNahuatl	19_drink	o n + i	tete1251	nhg	1401	DRINK	51	
+767	TetelcingoNahuatl-1_alltodos-1	TetelcingoNahuatl	1_alltodos	n o tʃ iː	tete1251	nhg	98	ALL	1	
+768	TetelcingoNahuatl-20_dry-1	TetelcingoNahuatl	20_dry	w a h + k iː	tete1251	nhg	1398	DRY	52	
+769	TetelcingoNahuatl-21_ear-1	TetelcingoNahuatl	21_ear	n a k a s	tete1251	nhg	1247	EAR	53	
+770	TetelcingoNahuatl-22_earth-1	TetelcingoNahuatl	22_earth	tɬ ø l iː	tete1251	nhg	1228	EARTH (SOIL)	54	
+771	TetelcingoNahuatl-23_eat-1	TetelcingoNahuatl	23_eat	k w a	tete1251	nhg	1336	EAT	55	
+772	TetelcingoNahuatl-24_egg-1	TetelcingoNahuatl	24_egg	t u t o l + t e tɬ	tete1251	nhg	744	EGG	56	
+773	TetelcingoNahuatl-25_eye-1	TetelcingoNahuatl	25_eye	i x + t e l o l o	tete1251	nhg	1248	EYE	60	
+774	TetelcingoNahuatl-26_fatn-1	TetelcingoNahuatl	26_fatn	m a n t e k a	tete1251	nhg	323	FAT (ORGANIC SUBSTANCE)	74	
+775	TetelcingoNahuatl-27_feather-1	TetelcingoNahuatl	27_feather	t o h m i tɬ	tete1251	nhg	1201	FEATHER	80	
+776	TetelcingoNahuatl-28_fire-1	TetelcingoNahuatl	28_fire	tɬ e + ts i n + tɬ iː	tete1251	nhg	221	FIRE	83	
+777	TetelcingoNahuatl-29_fish-1	TetelcingoNahuatl	29_fish	m iː tʃ iː	tete1251	nhg	227	FISH	84	
+778	TetelcingoNahuatl-2_ashes-1	TetelcingoNahuatl	2_ashes	tɬ a k o + n e x + tɬ iː	tete1251	nhg	646	ASH	2	
+779	TetelcingoNahuatl-30_fly-1	TetelcingoNahuatl	30_fly	p a tɬ ø n i	tete1251	nhg	1441	FLY (MOVE THROUGH AIR)	87	
+780	TetelcingoNahuatl-31_foot-1	TetelcingoNahuatl	31_foot	i kx iː	tete1251	nhg	1301	FOOT	88	
+781	TetelcingoNahuatl-32_full-1	TetelcingoNahuatl	32_full	t i e n + t iː k a	tete1251	nhg	1429	FULL	90	
+782	TetelcingoNahuatl-33_givetr-1	TetelcingoNahuatl	33_givetr	m a k a	tete1251	nhg	1447	GIVE	92	
+783	TetelcingoNahuatl-34_good-1	TetelcingoNahuatl	34_good	k w a l iː	tete1251	nhg	1035	GOOD	93	
+784	TetelcingoNahuatl-35_green-1	TetelcingoNahuatl	35_green	x o x o k + t iː k	tete1251	nhg	1425	GREEN	98	
+785	TetelcingoNahuatl-36_hair-1	TetelcingoNahuatl	36_hair	ts o n + tɬ iː	tete1251	nhg	1040	HAIR	101	
+786	TetelcingoNahuatl-37_hand-1	TetelcingoNahuatl	37_hand	m ø	tete1251	nhg	1277	HAND	103	
+787	TetelcingoNahuatl-38_head-1	TetelcingoNahuatl	38_head	ts o n + t e k o	tete1251	nhg	1256	HEAD	104	
+788	TetelcingoNahuatl-39_hear-1	TetelcingoNahuatl	39_hear	k a k iː	tete1251	nhg	1408	HEAR	106	
+789	TetelcingoNahuatl-3_bark-1	TetelcingoNahuatl	3_bark	j e w a + j u + tɬ	tete1251	nhg	1204	BARK	3	
+790	TetelcingoNahuatl-40_heart-1	TetelcingoNahuatl	40_heart	j u l o h + tɬ iː	tete1251	nhg	1223	HEART	107	
+791	TetelcingoNahuatl-42_i-1	TetelcingoNahuatl	42_i	n a h a	tete1251	nhg	1209	I	138	
+792	TetelcingoNahuatl-43_kill-1	TetelcingoNahuatl	43_kill	m iː k + t iː a	tete1251	nhg	1417	KILL	139	
+793	TetelcingoNahuatl-44_knee-1	TetelcingoNahuatl	44_knee	tɬ a n + k w a t e	tete1251	nhg	1371	KNEE	140	
+794	TetelcingoNahuatl-45_know-1	TetelcingoNahuatl	45_know	m a t iː	tete1251	nhg	1410	KNOW (SOMETHING)	142	
+795	TetelcingoNahuatl-46_leaf-1	TetelcingoNahuatl	46_leaf	x iː b iː tɬ	tete1251	nhg	628	LEAF	144	
+796	TetelcingoNahuatl-47_lie-1	TetelcingoNahuatl	47_lie	m o + t i e k a	tete1251	nhg	1411	LIE (REST)	145	
+797	TetelcingoNahuatl-49_long-1	TetelcingoNahuatl	49_long	b e j a k	tete1251	nhg	1203	LONG	158	
+798	TetelcingoNahuatl-4_belly-1	TetelcingoNahuatl	4_belly	i h t e	tete1251	nhg	1251	BELLY	6	
+799	TetelcingoNahuatl-50_louse-1	TetelcingoNahuatl	50_louse	a t iː m iː + tɬ	tete1251	nhg	1392	LOUSE	159	
+800	TetelcingoNahuatl-51_man-1	TetelcingoNahuatl	51_man	u m b r e	tete1251	nhg	1554	MAN	176	
+801	TetelcingoNahuatl-52_many-1	TetelcingoNahuatl	52_many	m e j a k	tete1251	nhg	1198	MANY	177	
+802	TetelcingoNahuatl-53_meat-1	TetelcingoNahuatl	53_meat	n a k a + tɬ	tete1251	nhg	2615	FLESH OR MEAT	179	
+803	TetelcingoNahuatl-54_moon-1	TetelcingoNahuatl	54_moon	m i e ts + tɬ iː	tete1251	nhg	1313	MOON	180	
+804	TetelcingoNahuatl-55_mountain-1	TetelcingoNahuatl	55_mountain	t e p i e + tɬ	tete1251	nhg	639	MOUNTAIN	181	
+805	TetelcingoNahuatl-56_mouth-1	TetelcingoNahuatl	56_mouth	k a m a + k	tete1251	nhg	674	MOUTH	182	
+806	TetelcingoNahuatl-57_name-1	TetelcingoNahuatl	57_name	t u k ø	tete1251	nhg	1405	NAME	184	
+807	TetelcingoNahuatl-58_neck-1	TetelcingoNahuatl	58_neck	k e tʃ + k o tʃ tɬ a	tete1251	nhg	1333	NECK	186	
+808	TetelcingoNahuatl-59_new-1	TetelcingoNahuatl	59_new	j a n k w iː + k	tete1251	nhg	1231	NEW	187	
+809	TetelcingoNahuatl-5_big-1	TetelcingoNahuatl	5_big	b i e j iː	tete1251	nhg	1202	BIG	8	
+810	TetelcingoNahuatl-60_night-1	TetelcingoNahuatl	60_night	j o w a l iː	tete1251	nhg	1233	NIGHT	188	
+811	TetelcingoNahuatl-61_nose-1	TetelcingoNahuatl	61_nose	j e k a + ts o l	tete1251	nhg	1221	NOSE	190	
+812	TetelcingoNahuatl-62_not-1	TetelcingoNahuatl	62_not	a m o	tete1251	nhg	1240	NOT	191	
+813	TetelcingoNahuatl-63_one-1	TetelcingoNahuatl	63_one	s i e	tete1251	nhg	1493	ONE	194	
+814	TetelcingoNahuatl-64_person-1	TetelcingoNahuatl	64_person	h i e n t e	tete1251	nhg	683	PERSON	208	
+815	TetelcingoNahuatl-65_rain-1	TetelcingoNahuatl	65_rain	k iː j a b iː + tɬ	tete1251	nhg	2108	RAINING OR RAIN	213	
+816	TetelcingoNahuatl-66_red-1	TetelcingoNahuatl	66_red	tʃ i + tʃ i + l t iː k	tete1251	nhg	156	RED	218	
+817	TetelcingoNahuatl-67_road-1	TetelcingoNahuatl	67_road	o h + tɬ iː	tete1251	nhg	667	ROAD	220	
+818	TetelcingoNahuatl-68_root-1	TetelcingoNahuatl	68_root	n e l w a + j u + tɬ	tete1251	nhg	670	ROOT	221	
+819	TetelcingoNahuatl-69_round-1	TetelcingoNahuatl	69_round	j e w a l + t iː k	tete1251	nhg	1395	ROUND	224	
+820	TetelcingoNahuatl-6_bird-1	TetelcingoNahuatl	6_bird	t u t u + tɬ	tete1251	nhg	937	BIRD	9	
+821	TetelcingoNahuatl-70_sand-1	TetelcingoNahuatl	70_sand	x ø l iː	tete1251	nhg	671	SAND	227	
+822	TetelcingoNahuatl-71_say-1	TetelcingoNahuatl	71_say	ʰt o a	tete1251	nhg	1458	SAY	228	
+823	TetelcingoNahuatl-72_see-1	TetelcingoNahuatl	72_see	ʰt a	tete1251	nhg	1409	SEE	231	
+824	TetelcingoNahuatl-73_seed-1	TetelcingoNahuatl	73_seed	x iː n + ø tʃ + tɬ iː	tete1251	nhg	714	SEED	232	
+825	TetelcingoNahuatl-74_sit-1	TetelcingoNahuatl	74_sit	m o + tɬ ø l iː a	tete1251	nhg	1416	SIT	235	
+826	TetelcingoNahuatl-75_skin-1	TetelcingoNahuatl	75_skin	j e w a j o	tete1251	nhg	763	SKIN	237	
+827	TetelcingoNahuatl-76_sleep-1	TetelcingoNahuatl	76_sleep	k o tʃ iː	tete1251	nhg	1585	SLEEP	240	
+828	TetelcingoNahuatl-77_small-1	TetelcingoNahuatl	77_small	ts i ts iː k iː + ts i	tete1251	nhg	1246	SMALL	242	
+829	TetelcingoNahuatl-78_smoke-1	TetelcingoNahuatl	78_smoke	p u k + tɬ iː	tete1251	nhg	778	SMOKE (EXHAUST)	249	
+830	TetelcingoNahuatl-79_stand-1	TetelcingoNahuatl	79_stand	m o + k e ts a	tete1251	nhg	1442	STAND	251	
+831	TetelcingoNahuatl-7_bite-1	TetelcingoNahuatl	7_bite	k e ts o m a	tete1251	nhg	1403	BITE	10	
+832	TetelcingoNahuatl-80_star-1	TetelcingoNahuatl	80_star	s i tɬ a l iː	tete1251	nhg	1430	STAR	268	
+833	TetelcingoNahuatl-81_stone-1	TetelcingoNahuatl	81_stone	t i e + t e + t u	tete1251	nhg	857	STONE	283	
+834	TetelcingoNahuatl-82_sun-1	TetelcingoNahuatl	82_sun	t u n a l iː	tete1251	nhg	1343	SUN	284	
+835	TetelcingoNahuatl-83_swim-1	TetelcingoNahuatl	83_swim	m + ø + b iː l ø n a	tete1251	nhg	1439	SWIM	286	
+836	TetelcingoNahuatl-84_tail-1	TetelcingoNahuatl	84_tail	k w iː tɬ a p iː l	tete1251	nhg	1220	TAIL	289	
+837	TetelcingoNahuatl-85_that-1	TetelcingoNahuatl	85_that	iː n + u	tete1251	nhg	78	THAT	290	
+838	TetelcingoNahuatl-86_this-1	TetelcingoNahuatl	86_this	i n + i	tete1251	nhg	1214	THIS	293	
+839	TetelcingoNahuatl-87_thou-1	TetelcingoNahuatl	87_thou	t a h a	tete1251	nhg	1215	THOU	294	
+840	TetelcingoNahuatl-88_tongue-1	TetelcingoNahuatl	88_tongue	n e n e p iː l	tete1251	nhg	1205	TONGUE	296	
+841	TetelcingoNahuatl-89_tooth-1	TetelcingoNahuatl	89_tooth	tɬ a n + k o tʃ	tete1251	nhg	1380	TOOTH	313	
+842	TetelcingoNahuatl-8_black-1	TetelcingoNahuatl	8_black	tɬ i l + t iː k	tete1251	nhg	163	BLACK	13	
+843	TetelcingoNahuatl-90_tree-1	TetelcingoNahuatl	90_tree	k w a b iː + tɬ	tete1251	nhg	906	TREE	314	
+844	TetelcingoNahuatl-91_two-1	TetelcingoNahuatl	91_two	u m e	tete1251	nhg	1498	TWO	315	
+845	TetelcingoNahuatl-92_walkgo-1	TetelcingoNahuatl	92_walkgo	n e h + n e m iː	tete1251	nhg	1443	WALK	316	
+846	TetelcingoNahuatl-93_warmhot-1	TetelcingoNahuatl	93_warmhot	t o t u n + k iː	tete1251	nhg	2272	HOT OR WARM	318	
+847	TetelcingoNahuatl-94_water-1	TetelcingoNahuatl	94_water	ø + ts i n + tɬ i	tete1251	nhg	948	WATER	320	
+848	TetelcingoNahuatl-95_we-1	TetelcingoNahuatl	95_we	t e h w a	tete1251	nhg	1212	WE	322	
+849	TetelcingoNahuatl-96_what-1	TetelcingoNahuatl	96_what	tɬ i n iː n u	tete1251	nhg	1236	WHAT	323	
+850	TetelcingoNahuatl-97_white-1	TetelcingoNahuatl	97_white	tʃ i pː p ø w a k	tete1251	nhg	1335	WHITE	324	
+851	TetelcingoNahuatl-98_who-1	TetelcingoNahuatl	98_who	ø k iː n u	tete1251	nhg	1235	WHO	326	
+852	TetelcingoNahuatl-99_woman-1	TetelcingoNahuatl	99_woman	s o w a + tɬ	tete1251	nhg	962	WOMAN	328	
+853	TetelcingoNahuatl-9_blood-1	TetelcingoNahuatl	9_blood	j e s + tɬ iː	tete1251	nhg	946	BLOOD	16	

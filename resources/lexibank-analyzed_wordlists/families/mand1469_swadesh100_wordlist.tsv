@@ -1,0 +1,979 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+8728	24879	hantganbangime-Jenaama	jena1242		bark	1204	BARK		jùgù_wógō	dʒ u g u + w o g o
+22681	38832	hantganbangime-Jenaama	jena1242		belly	1251	BELLY		nù	n u
+23247	39398	polyglottaafricana-Bambara	bamb1269		belly	1251	BELLY		kóno	k o n o
+23250	39401	polyglottaafricana-Bandi	band1352		belly	1251	BELLY		kō	k oː
+23257	39408	polyglottaafricana-Boko	boko1266		belly	1251	BELLY		nọ́sẹ̄	n o˞ s e˞ː
+23301	39452	polyglottaafricana-Jalonke	yalu1240		belly	1251	BELLY		kóno	k o n o
+23317	39468	polyglottaafricana-Kono	kono1268		belly	1251	BELLY		bū	b uː
+23321	39472	polyglottaafricana-KpelleGuinea	guin1254		belly	1251	BELLY		kui	k u i
+23327	39478	polyglottaafricana-Loko	loko1255		belly	1251	BELLY		kō	k oː
+23328	39479	polyglottaafricana-Loma	loma1260		belly	1251	BELLY		kō	k oː
+23330	39481	polyglottaafricana-Mandinka	mand1436		belly	1251	BELLY		kónō	k o n oː
+23331	39482	polyglottaafricana-Mandinka	mand1436		belly	1251	BELLY		kónō	k o n oː
+23332	39483	polyglottaafricana-Mandinka	mand1436		belly	1251	BELLY		kónyo	k o n j o
+23334	39485	polyglottaafricana-ManinkaKankan	east2426		belly	1251	BELLY		kóno	k o n o
+23337	39488	polyglottaafricana-ManoMann	mann1248		belly	1251	BELLY		ge	g e
+23345	39496	polyglottaafricana-Mende	mend1266		belly	1251	BELLY		kō	k oː
+23375	39526	polyglottaafricana-Soninke	soni1259		belly	1251	BELLY		nọ́ṛọ	n o˞ ɽ o˞
+23379	39530	polyglottaafricana-Susu	susu1250		belly	1251	BELLY		fū́di	f uː d i
+23380	39531	polyglottaafricana-Susu	susu1250		belly	1251	BELLY		fū́ri	f uː r i
+23381	39532	polyglottaafricana-Susu	susu1250		belly	1251	BELLY		dẹ̄́wẹ	d e˞ː w e˞
+23394	39545	polyglottaafricana-Vai	vaii1241		belly	1251	BELLY		bu	b u
+27786	43937	hantganbangime-Jenaama	jena1242		big	1202	BIG		būrōŋ	b u r o ŋ
+28401	44552	polyglottaafricana-Bambara	bamb1269		big	1202	BIG		a búmba	a + b u m b a
+28404	44555	polyglottaafricana-Bandi	band1352		big	1202	BIG		ẹwọ̄́rọ	e˞ w o˞ː r o˞
+28412	44563	polyglottaafricana-Boko	boko1266		big	1202	BIG		ā gmẹ́·tẹ·	aː + g m e˞ t e˞
+28458	44609	polyglottaafricana-Jalonke	yalu1240		big	1202	BIG		a bu	a + b u
+28459	44610	polyglottaafricana-Jalonke	yalu1240		big	1202	BIG		ba	b a
+28475	44626	polyglottaafricana-Kono	kono1268		big	1202	BIG		ákōlo	a k oː l o
+28479	44630	polyglottaafricana-KpelleGuinea	guin1254		big	1202	BIG		gánẹ	g a n e˞
+28485	44636	polyglottaafricana-Loko	loko1255		big	1202	BIG		mbā́	ⁿb aː
+28486	44637	polyglottaafricana-Loma	loma1260		big	1202	BIG		bọ́rọ̄a	b o˞ r o˞ː a
+28488	44639	polyglottaafricana-Mandinka	mand1436		big	1202	BIG		ā́ bu	aː + b u
+28489	44640	polyglottaafricana-Mandinka	mand1436		big	1202	BIG		ba	b a
+28490	44641	polyglottaafricana-Mandinka	mand1436		big	1202	BIG		ā́ bu	aː + b u
+28491	44642	polyglottaafricana-Mandinka	mand1436		big	1202	BIG		ba	b a
+28492	44643	polyglottaafricana-Mandinka	mand1436		big	1202	BIG		ba	b a
+28493	44644	polyglottaafricana-Mandinka	mand1436		big	1202	BIG		bṓmba	b oː m b a
+28495	44646	polyglottaafricana-ManinkaKankan	east2426		big	1202	BIG		ā́ bu	aː + b u
+28498	44649	polyglottaafricana-ManoMann	mann1248		big	1202	BIG		ẹ́ gbọu	e˞ + gb o˞ u
+28508	44659	polyglottaafricana-Mende	mend1266		big	1202	BIG		n·gọ̄́ron·gọ	n g o˞ː r o n g o˞
+28543	44694	polyglottaafricana-Soninke	soni1259		big	1202	BIG		a dárẹ	a + d a r e˞
+28547	44698	polyglottaafricana-Susu	susu1250		big	1202	BIG		a gbḗna	a + gb eː n a
+28548	44699	polyglottaafricana-Susu	susu1250		big	1202	BIG		á gbō	a + gb oː
+28549	44700	polyglottaafricana-Susu	susu1250		big	1202	BIG		makā́beṛe	m a k aː b e ɽ e
+28563	44714	polyglottaafricana-Vai	vaii1241		big	1202	BIG		kúro	k u r o
+28564	44715	polyglottaafricana-Vai	vaii1241		big	1202	BIG		ba	b a
+30183	46334	hantganbangime-Jenaama	jena1242		bird	937	BIRD		pùlēwⁿ	p u l e w̃
+30739	46890	polyglottaafricana-Bambara	bamb1269		bird	937	BIRD		kọ́no	k o˞ n o
+30742	46893	polyglottaafricana-Bandi	band1352		bird	937	BIRD		n·óni	n o n i
+30749	46900	polyglottaafricana-Boko	boko1266		bird	937	BIRD		gmá	g m a
+30788	46939	polyglottaafricana-Jalonke	yalu1240		bird	937	BIRD		kṓno	k oː n o
+30802	46953	polyglottaafricana-Kono	kono1268		bird	937	BIRD		kū́ndē	k uː n d eː
+30805	46956	polyglottaafricana-KpelleGuinea	guin1254		bird	937	BIRD		n·wṓri	n w oː r i
+30811	46962	polyglottaafricana-Loko	loko1255		bird	937	BIRD		n·ṓlī·a·	n oː l iː a
+30812	46963	polyglottaafricana-Loma	loma1260		bird	937	BIRD		n·óni	n o n i
+30814	46965	polyglottaafricana-Mandinka	mand1436		bird	937	BIRD		kónō	k o n oː
+30815	46966	polyglottaafricana-Mandinka	mand1436		bird	937	BIRD		kónō	k o n oː
+30816	46967	polyglottaafricana-Mandinka	mand1436		bird	937	BIRD		kónyō	k o n j oː
+30818	46969	polyglottaafricana-ManinkaKankan	east2426		bird	937	BIRD		kónō	k o n oː
+30821	46972	polyglottaafricana-ManoMann	mann1248		bird	937	BIRD		mō	m oː
+30828	46979	polyglottaafricana-Mende	mend1266		bird	937	BIRD		n·úāni	n u aː n i
+30857	47008	polyglottaafricana-Soninke	soni1259		bird	937	BIRD		yēlín·ẹ	j eː l i n e˞
+30861	47012	polyglottaafricana-Susu	susu1250		bird	937	BIRD		ḥọ́lla	ɦ o˞ l l a
+30862	47013	polyglottaafricana-Susu	susu1250		bird	937	BIRD		ḥónīe	ɦ o n iː e
+30863	47014	polyglottaafricana-Susu	susu1250		bird	937	BIRD		kórimāse	k o r i m aː s e
+30876	47027	polyglottaafricana-Vai	vaii1241		bird	937	BIRD		kónde	k o n d e
+32542	48693	hantganbangime-Jenaama	jena1242		bite	1403	BITE		tɔ̀wⁿ	t ɔ w̃
+35692	51843	polyglottaafricana-Bambara	bamb1269		black	163	BLACK		a fī́ma	a + f iː m a
+35695	51846	polyglottaafricana-Bandi	band1352		black	163	BLACK		tẹ̄́n·gọ	t e˞ː n g o˞
+35702	51853	polyglottaafricana-Boko	boko1266		black	163	BLACK		ṣíra	ʂ i r a
+35745	51896	polyglottaafricana-Jalonke	yalu1240		black	163	BLACK		fī́ma	f iː m a
+35761	51912	polyglottaafricana-Kono	kono1268		black	163	BLACK		a fín·ẹ	a + f i n e˞
+35766	51917	polyglottaafricana-KpelleGuinea	guin1254		black	163	BLACK		déiẹ	d e i e˞
+35772	51923	polyglottaafricana-Loko	loko1255		black	163	BLACK		téi·	t e i
+35773	51924	polyglottaafricana-Loma	loma1260		black	163	BLACK		téiẹ	t e i e˞
+35775	51926	polyglottaafricana-Mandinka	mand1436		black	163	BLACK		fī́ma	f iː m a
+35776	51927	polyglottaafricana-Mandinka	mand1436		black	163	BLACK		fī́ma	f iː m a
+35777	51928	polyglottaafricana-Mandinka	mand1436		black	163	BLACK		fī́ma	f iː m a
+35779	51930	polyglottaafricana-ManinkaKankan	east2426		black	163	BLACK		ā fī́ma	aː + f iː m a
+35782	51933	polyglottaafricana-ManoMann	mann1248		black	163	BLACK		ti·	t i
+35789	51940	polyglottaafricana-Mende	mend1266		black	163	BLACK		tẹ́līn·gọ	t e˞ l iː n g o˞
+35823	51974	polyglottaafricana-Soninke	soni1259		black	163	BLACK		ā bínẹ	aː + b i n e˞
+35827	51978	polyglottaafricana-Susu	susu1250		black	163	BLACK		a fọ̄́rẹ̄na	a + f o˞ː r e˞ː n a
+35828	51979	polyglottaafricana-Susu	susu1250		black	163	BLACK		a fṓrọ	a + f oː r o˞
+35829	51980	polyglottaafricana-Susu	susu1250		black	163	BLACK		fṓrẹ	f oː r e˞
+35842	51993	polyglottaafricana-Vai	vaii1241		black	163	BLACK		fī́ma	f iː m a
+38556	54707	hantganbangime-Jenaama	jena1242		blood	946	BLOOD		dē	d e
+39109	55260	polyglottaafricana-Bambara	bamb1269		blood	946	BLOOD		dṣéri	ɖʐ e r i
+39112	55263	polyglottaafricana-Bandi	band1352		blood	946	BLOOD		n·ā́mai	n aː m a i
+39119	55270	polyglottaafricana-Boko	boko1266		blood	946	BLOOD		áru	a r u
+39162	55313	polyglottaafricana-Jalonke	yalu1240		blood	946	BLOOD		dṣḗli	ɖʐ eː l i
+39177	55328	polyglottaafricana-Kono	kono1268		blood	946	BLOOD		ū́li	uː l i
+39180	55331	polyglottaafricana-KpelleGuinea	guin1254		blood	946	BLOOD		n·áma	n a m a
+39186	55337	polyglottaafricana-Loko	loko1255		blood	946	BLOOD		n·ọ́wa·	n o˞ w a
+39187	55338	polyglottaafricana-Loma	loma1260		blood	946	BLOOD		n·ā́	n aː
+39189	55340	polyglottaafricana-Mandinka	mand1436		blood	946	BLOOD		dṣélī	ɖʐ e l iː
+39190	55341	polyglottaafricana-Mandinka	mand1436		blood	946	BLOOD		dṣélī	ɖʐ e l iː
+39191	55342	polyglottaafricana-Mandinka	mand1436		blood	946	BLOOD		dṣẹ́yi	ɖʐ e˞ j i
+39193	55344	polyglottaafricana-ManinkaKankan	east2426		blood	946	BLOOD		dsẹ́lī	d s e˞ l iː
+39196	55347	polyglottaafricana-ManoMann	mann1248		blood	946	BLOOD		nyū́ẹ	n j uː e˞
+39203	55354	polyglottaafricana-Mende	mend1266		blood	946	BLOOD		n·ā́ma	n aː m a
+39232	55383	polyglottaafricana-Soninke	soni1259		blood	946	BLOOD		fórẹ	f o r e˞
+39236	55387	polyglottaafricana-Susu	susu1250		blood	946	BLOOD		wū́l	w uː l
+39237	55388	polyglottaafricana-Susu	susu1250		blood	946	BLOOD		wúlī	w u l iː
+39238	55389	polyglottaafricana-Susu	susu1250		blood	946	BLOOD		maṛī́e	m a ɽ iː e
+39251	55402	polyglottaafricana-Vai	vaii1241		blood	946	BLOOD		wū́li	w uː l i
+46784	62935	hantganbangime-Jenaama	jena1242		bone	1394	BONE		kúwⁿɔ̄	k u w̃ ɔ
+47329	63480	polyglottaafricana-Bambara	bamb1269		bone	1394	BONE		kúlo	k u l o
+47332	63483	polyglottaafricana-Bandi	band1352		bone	1394	BONE		kā́lẹi	k aː l e˞ i
+47339	63490	polyglottaafricana-Boko	boko1266		bone	1394	BONE		wa	w a
+47381	63532	polyglottaafricana-Jalonke	yalu1240		bone	1394	BONE		kólo	k o l o
+47397	63548	polyglottaafricana-Kono	kono1268		bone	1394	BONE		kúrū	k u r uː
+47400	63551	polyglottaafricana-KpelleGuinea	guin1254		bone	1394	BONE		kau	k a u
+47406	63557	polyglottaafricana-Loko	loko1255		bone	1394	BONE		kā́lẹ	k aː l e˞
+47407	63558	polyglottaafricana-Loma	loma1260		bone	1394	BONE		kai	k a i
+47410	63561	polyglottaafricana-Mandinka	mand1436		bone	1394	BONE		kólo	k o l o
+47411	63562	polyglottaafricana-Mandinka	mand1436		bone	1394	BONE		kólo	k o l o
+47412	63563	polyglottaafricana-Mandinka	mand1436		bone	1394	BONE		kṓyo	k oː j o
+47414	63565	polyglottaafricana-ManinkaKankan	east2426		bone	1394	BONE		kúlō	k u l oː
+47417	63568	polyglottaafricana-ManoMann	mann1248		bone	1394	BONE		wólẹ	w o l e˞
+47424	63575	polyglottaafricana-Mende	mend1266		bone	1394	BONE		kā́lẹ	k aː l e˞
+47454	63605	polyglottaafricana-Soninke	soni1259		bone	1394	BONE		kótẹ	k o t e˞
+47459	63610	polyglottaafricana-Susu	susu1250		bone	1394	BONE		ḥóāri	ɦ o aː r i
+47460	63611	polyglottaafricana-Susu	susu1250		bone	1394	BONE		ḥóāri	ɦ o aː r i
+47461	63612	polyglottaafricana-Susu	susu1250		bone	1394	BONE		ḥóāri	ɦ o aː r i
+47474	63625	polyglottaafricana-Vai	vaii1241		bone	1394	BONE		kúru	k u r u
+47475	63626	polyglottaafricana-Vai	vaii1241		bone	1394	BONE		súlu	s u l u
+56879	73032	hantganbangime-Jenaama	jena1242		breast	1402	BREAST		kānū	k a n u
+57390	73543	polyglottaafricana-Bambara	bamb1269		breast	1402	BREAST		ṣíndṣi	ʂ i n ɖʐ i
+57391	73544	polyglottaafricana-Bambara	bamb1269		breast	1402	BREAST		ṣin·	ʂ i n
+57394	73547	polyglottaafricana-Bandi	band1352		breast	1402	BREAST		n·írī·	n i r iː
+57400	73553	polyglottaafricana-Boko	boko1266		breast	1402	BREAST		nyṓ	n j oː
+57443	73596	polyglottaafricana-Jalonke	yalu1240		breast	1402	BREAST		sin·	s i n
+57458	73611	polyglottaafricana-Kono	kono1268		breast	1402	BREAST		súsū	s u s uː
+57462	73615	polyglottaafricana-KpelleGuinea	guin1254		breast	1402	BREAST		n·íri	n i r i
+57468	73621	polyglottaafricana-Loko	loko1255		breast	1402	BREAST		n·ī	n iː
+57469	73622	polyglottaafricana-Loma	loma1260		breast	1402	BREAST		n·íne	n i n e
+57471	73624	polyglottaafricana-Mandinka	mand1436		breast	1402	BREAST		sī́un·	s iː u n
+57472	73625	polyglottaafricana-Mandinka	mand1436		breast	1402	BREAST		sī́un·	s iː u n
+57473	73626	polyglottaafricana-Mandinka	mand1436		breast	1402	BREAST		ṣī·	ʂ iː
+57475	73628	polyglottaafricana-ManinkaKankan	east2426		breast	1402	BREAST		sīn·	s iː n
+57478	73631	polyglottaafricana-ManoMann	mann1248		breast	1402	BREAST		nyó	n j o
+57485	73638	polyglottaafricana-Mende	mend1266		breast	1402	BREAST		nyī́ni	n j iː n i
+57515	73668	polyglottaafricana-Soninke	soni1259		breast	1402	BREAST		kọ́mbẹ	k o˞ m b e˞
+57519	73672	polyglottaafricana-Susu	susu1250		breast	1402	BREAST		ḥényẹ̄na	ɦ e n j e˞ː n a
+57520	73673	polyglottaafricana-Susu	susu1250		breast	1402	BREAST		kḗnyei	k eː n j e i
+57521	73674	polyglottaafricana-Susu	susu1250		breast	1402	BREAST		sīn	s iː n
+57535	73688	polyglottaafricana-Vai	vaii1241		breast	1402	BREAST		súsū	s u s uː
+91496	107649	hantganbangime-Jenaama	jena1242		cloud	1489	CLOUD		pórō	p o r o
+95042	111195	hantganbangime-Jenaama	jena1242		cold	1287	COLD		mù	m u
+95609	111762	polyglottaafricana-Bambara	bamb1269		cold	1287	COLD		ā súmālen·	aː + s u m aː l e n
+95612	111765	polyglottaafricana-Bandi	band1352		cold	1287	COLD		ndẹ̄́n·gọ	n d e˞ː n g o˞
+95619	111772	polyglottaafricana-Boko	boko1266		cold	1287	COLD		á nyi·	a + n j i
+95662	111815	polyglottaafricana-Jalonke	yalu1240		cold	1287	COLD		súmālen·	s u m aː l e n
+95679	111832	polyglottaafricana-Kono	kono1268		cold	1287	COLD		a kímale	a + k i m a l e
+95683	111836	polyglottaafricana-KpelleGuinea	guin1254		cold	1287	COLD		náṛīẹ	n a ɽ iː e˞
+95689	111842	polyglottaafricana-Loko	loko1255		cold	1287	COLD		kọ̄́lẹ	k o˞ː l e˞
+95690	111843	polyglottaafricana-Loma	loma1260		cold	1287	COLD		déiẹ	d e i e˞
+95692	111845	polyglottaafricana-Mandinka	mand1436		cold	1287	COLD		súmale	s u m a l e
+95693	111846	polyglottaafricana-Mandinka	mand1436		cold	1287	COLD		súmale	s u m a l e
+95694	111847	polyglottaafricana-Mandinka	mand1436		cold	1287	COLD		súmāne	s u m aː n e
+95696	111849	polyglottaafricana-ManinkaKankan	east2426		cold	1287	COLD		ā súmāne	aː + s u m aː n e
+95699	111852	polyglottaafricana-ManoMann	mann1248		cold	1287	COLD		térọ	t e r o˞
+95706	111859	polyglottaafricana-Mende	mend1266		cold	1287	COLD		kọ̄́ran·gọ	k o˞ː r a n g o˞
+95737	111890	polyglottaafricana-Soninke	soni1259		cold	1287	COLD		á mulẹ́ni	a + m u l e˞ n i
+95741	111894	polyglottaafricana-Susu	susu1250		cold	1287	COLD		ā ṛémbẹ̄le	aː + ɽ e m b e˞ː l e
+95742	111895	polyglottaafricana-Susu	susu1250		cold	1287	COLD		ā kímbēli	aː + k i m b eː l i
+95743	111896	polyglottaafricana-Susu	susu1250		cold	1287	COLD		a fán·i	a + f a n i
+95757	111910	polyglottaafricana-Vai	vaii1241		cold	1287	COLD		kī́ma	k iː m a
+98727	114880	hantganbangime-Jenaama	jena1242		come	1446	COME		bē	b e
+99278	115431	polyglottaafricana-Bambara	bamb1269		come	1446	COME		mbī́na	ⁿb iː n a
+99279	115432	polyglottaafricana-Bambara	bamb1269		come	1446	COME		mbára na	ⁿb a r a + n a
+99282	115435	polyglottaafricana-Bandi	band1352		come	1446	COME		n·gé wá	n g e + w a
+99289	115442	polyglottaafricana-Boko	boko1266		come	1446	COME		má mo	m a + m o
+99335	115488	polyglottaafricana-Jalonke	yalu1240		come	1446	COME		mbára na	ⁿb a r a + n a
+99351	115504	polyglottaafricana-Kono	kono1268		come	1446	COME		ń nāra	ŋ + n aː r a
+99355	115508	polyglottaafricana-KpelleGuinea	guin1254		come	1446	COME		n·á pau	n a + p a u
+99361	115514	polyglottaafricana-Loko	loko1255		come	1446	COME		n·gṓ wa	n g oː + w a
+99362	115515	polyglottaafricana-Loma	loma1260		come	1446	COME		náwāsè	n a w aː s e
+99364	115517	polyglottaafricana-Mandinka	mand1436		come	1446	COME		mbára na	ⁿb a r a + n a
+99365	115518	polyglottaafricana-Mandinka	mand1436		come	1446	COME		mbára na	ⁿb a r a + n a
+99366	115519	polyglottaafricana-Mandinka	mand1436		come	1446	COME		márā na	m a r aː + n a
+99368	115521	polyglottaafricana-ManinkaKankan	east2426		come	1446	COME		mbárā na	ⁿb a r aː + n a
+99371	115524	polyglottaafricana-ManoMann	mann1248		come	1446	COME		mā́· nu	m aː + n u
+99378	115531	polyglottaafricana-Mende	mend1266		come	1446	COME		n·gẹ́ wa	n g e˞ + w a
+99410	115563	polyglottaafricana-Soninke	soni1259		come	1446	COME		llí	l l i
+99414	115567	polyglottaafricana-Susu	susu1250		come	1446	COME		ḿ fā	m̩ + f aː
+99415	115568	polyglottaafricana-Susu	susu1250		come	1446	COME		ḿbada fā	m̩ b a d a + f aː
+99416	115569	polyglottaafricana-Susu	susu1250		come	1446	COME		ḿbada fa	m̩ b a d a + f a
+99417	115570	polyglottaafricana-Susu	susu1250		come	1446	COME		ḿbada bḗli	m̩ b a d a + b eː l i
+99431	115584	polyglottaafricana-Vai	vaii1241		come	1446	COME		nā́ na	n aː + n a
+126923	143078	hantganbangime-Jenaama	jena1242		die	1494	DIE		wà	w a
+127494	143649	polyglottaafricana-Bambara	bamb1269		die	1494	DIE		mbára faṛa	ⁿb a r a + f a ɽ a
+127497	143652	polyglottaafricana-Bandi	band1352		die	1494	DIE		n·gé sā́	n g e + s aː
+127504	143659	polyglottaafricana-Boko	boko1266		die	1494	DIE		ma gá	m a + g a
+127549	143704	polyglottaafricana-Jalonke	yalu1240		die	1494	DIE		ḿbara· fáṛa	m̩ b a r a + f a ɽ a
+127565	143720	polyglottaafricana-Kono	kono1268		die	1494	DIE		m fā́la	m + f aː l a
+127569	143724	polyglottaafricana-KpelleGuinea	guin1254		die	1494	DIE		n·á ṣa	n a + ʂ a
+127575	143730	polyglottaafricana-Loko	loko1255		die	1494	DIE		ń·gō hā	ŋ g oː + h aː
+127576	143731	polyglottaafricana-Loma	loma1260		die	1494	DIE		gẹ sā	g e˞ + s aː
+127577	143732	polyglottaafricana-Loma	loma1260		die	1494	DIE		nā sā́sè	n aː + s aː s e
+127579	143734	polyglottaafricana-Mandinka	mand1436		die	1494	DIE		ḿbará faṛa	m̩ b a r a + f a ɽ a
+127580	143735	polyglottaafricana-Mandinka	mand1436		die	1494	DIE		ḿbará faṛa	m̩ b a r a + f a ɽ a
+127581	143736	polyglottaafricana-Mandinka	mand1436		die	1494	DIE		mára fáṛa	m a r a + f a ɽ a
+127583	143738	polyglottaafricana-ManinkaKankan	east2426		die	1494	DIE		mbára faṛá	ⁿb a r a + f a ɽ a
+127586	143741	polyglottaafricana-ManoMann	mann1248		die	1494	DIE		mā́· ga	m aː + g a
+127593	143748	polyglottaafricana-Mende	mend1266		die	1494	DIE		ń·ge hā́	ŋ g e + h aː
+127624	143779	polyglottaafricana-Soninke	soni1259		die	1494	DIE		n·kára	n k a r a
+127628	143783	polyglottaafricana-Susu	susu1250		die	1494	DIE		m fáṛa	m + f a ɽ a
+127629	143784	polyglottaafricana-Susu	susu1250		die	1494	DIE		ḿbada fáṛa	m̩ b a d a + f a ɽ a
+127630	143785	polyglottaafricana-Susu	susu1250		die	1494	DIE		nsíṛa	n s i ɽ a
+127643	143798	polyglottaafricana-Vai	vaii1241		die	1494	DIE		nā́ fa	n aː + f a
+135500	151655	hantganbangime-Jenaama	jena1242		dog	2009	DOG		kúŋgólō	k u ŋ g o l o
+136053	152208	polyglottaafricana-Bambara	bamb1269		dog	2009	DOG		ū́lu	uː l u
+136056	152211	polyglottaafricana-Bandi	band1352		dog	2009	DOG		n·gíla	n g i l a
+136063	152218	polyglottaafricana-Boko	boko1266		dog	2009	DOG		gmẹ́·	g m e˞
+136107	152262	polyglottaafricana-Jalonke	yalu1240		dog	2009	DOG		ū́lu	uː l u
+136123	152278	polyglottaafricana-Kono	kono1268		dog	2009	DOG		wū́lu	w uː l u
+136127	152282	polyglottaafricana-KpelleGuinea	guin1254		dog	2009	DOG		gíra	g i r a
+136133	152288	polyglottaafricana-Loko	loko1255		dog	2009	DOG		n·gíla	n g i l a
+136134	152289	polyglottaafricana-Loma	loma1260		dog	2009	DOG		gilẹ̄́-woro	g i l e˞ː + w o r o
+136136	152291	polyglottaafricana-Mandinka	mand1436		dog	2009	DOG		ū́lu	uː l u
+136137	152292	polyglottaafricana-Mandinka	mand1436		dog	2009	DOG		ū́lu	uː l u
+136138	152293	polyglottaafricana-Mandinka	mand1436		dog	2009	DOG		ū́lu	uː l u
+136140	152295	polyglottaafricana-ManinkaKankan	east2426		dog	2009	DOG		ū́lu	uː l u
+136143	152298	polyglottaafricana-ManoMann	mann1248		dog	2009	DOG		gba·	gb a
+136150	152305	polyglottaafricana-Mende	mend1266		dog	2009	DOG		n·gíla	n g i l a
+136180	152335	polyglottaafricana-Soninke	soni1259		dog	2009	DOG		ū́lẹ	uː l e˞
+136184	152339	polyglottaafricana-Susu	susu1250		dog	2009	DOG		bárēna	b a r eː n a
+136185	152340	polyglottaafricana-Susu	susu1250		dog	2009	DOG		bā́rei	b aː r e i
+136186	152341	polyglottaafricana-Susu	susu1250		dog	2009	DOG		gón·gōnṣe	g o n g oː n ʂ e
+136201	152356	polyglottaafricana-Vai	vaii1241		dog	2009	DOG		ū́lu	uː l u
+141965	158120	hantganbangime-Jenaama	jena1242		drink	1401	DRINK		āmɛ̀wⁿ	a m ɛ w̃
+145609	161764	hantganbangime-Jenaama	jena1242		dry	1398	DRY		wúwò-nà	w u w o + n a
+146071	162226	polyglottaafricana-Bambara	bamb1269		dry	1398	DRY		ā dṣára	aː + ɖʐ a r a
+146074	162229	polyglottaafricana-Bandi	band1352		dry	1398	DRY		mbẹ́n·gọ	ⁿb e˞ ŋ g o˞
+146081	162236	polyglottaafricana-Boko	boko1266		dry	1398	DRY		ā gága	aː + g a g a
+146125	162280	polyglottaafricana-Jalonke	yalu1240		dry	1398	DRY		dṣā́len·	ɖʐ aː l e n
+146141	162296	polyglottaafricana-Kono	kono1268		dry	1398	DRY		a gbā́le	a + gb aː l e
+146146	162301	polyglottaafricana-KpelleGuinea	guin1254		dry	1398	DRY		gbára	gb a r a
+146152	162307	polyglottaafricana-Loko	loko1255		dry	1398	DRY		mbḗn·gọ	ⁿb eː n g o˞
+146153	162308	polyglottaafricana-Loko	loko1255		dry	1398	DRY		mbḗ-ọ	ⁿb eː + o˞
+146154	162309	polyglottaafricana-Loma	loma1260		dry	1398	DRY		fọ̄́ai	f o˞ː a i
+146156	162311	polyglottaafricana-Mandinka	mand1436		dry	1398	DRY		dṣálende	ɖʐ a l e n d e
+146157	162312	polyglottaafricana-Mandinka	mand1436		dry	1398	DRY		dṣálende	ɖʐ a l e n d e
+146158	162313	polyglottaafricana-Mandinka	mand1436		dry	1398	DRY		ā geále	aː + g e a l e
+146159	162314	polyglottaafricana-Mandinka	mand1436		dry	1398	DRY		dṣále	ɖʐ a l e
+146161	162316	polyglottaafricana-ManinkaKankan	east2426		dry	1398	DRY		a dṣā́le	a + ɖʐ aː l e
+146165	162320	polyglottaafricana-ManoMann	mann1248		dry	1398	DRY		a kọ̄́rẹ	a + k o˞ː r e˞
+146172	162327	polyglottaafricana-Mende	mend1266		dry	1398	DRY		ebī́a	e b iː a
+146201	162356	polyglottaafricana-Soninke	soni1259		dry	1398	DRY		a kā́wa	a + k aː w a
+146205	162360	polyglottaafricana-Susu	susu1250		dry	1398	DRY		ā ḥárāḥe	aː + ɦ a r aː ɦ e
+146206	162361	polyglottaafricana-Susu	susu1250		dry	1398	DRY		ā ḥā́ra	aː + ɦ aː r a
+146207	162362	polyglottaafricana-Susu	susu1250		dry	1398	DRY		a kā́ḥe	a + k aː ɦ e
+146222	162377	polyglottaafricana-Vai	vaii1241		dry	1398	DRY		gbára	gb a r a
+151040	167195	hantganbangime-Jenaama	jena1242		ear	1247	EAR		túwɔ́_lɛ̄wⁿ	t u w ɔ + l ɛ w̃
+151590	167745	polyglottaafricana-Bambara	bamb1269		ear	1247	EAR		túlo	t u l o
+151593	167748	polyglottaafricana-Bandi	band1352		ear	1247	EAR		n·gúli	n g u l i
+151600	167755	polyglottaafricana-Boko	boko1266		ear	1247	EAR		zṓ·a·	z oː a
+151643	167798	polyglottaafricana-Jalonke	yalu1240		ear	1247	EAR		túlu	t u l u
+151658	167813	polyglottaafricana-Kono	kono1268		ear	1247	EAR		túlo	t u l o
+151662	167817	polyglottaafricana-KpelleGuinea	guin1254		ear	1247	EAR		wṓli	w oː l i
+151668	167823	polyglottaafricana-Loko	loko1255		ear	1247	EAR		ń·gọu	ŋ g o˞ u
+151669	167824	polyglottaafricana-Loma	loma1260		ear	1247	EAR		gui	g u i
+151671	167826	polyglottaafricana-Mandinka	mand1436		ear	1247	EAR		túlō	t u l oː
+151672	167827	polyglottaafricana-Mandinka	mand1436		ear	1247	EAR		túlō	t u l oː
+151673	167828	polyglottaafricana-Mandinka	mand1436		ear	1247	EAR		tṓyo	t oː j o
+151675	167830	polyglottaafricana-ManinkaKankan	east2426		ear	1247	EAR		túlō	t u l oː
+151678	167833	polyglottaafricana-ManoMann	mann1248		ear	1247	EAR		tō	t oː
+151685	167840	polyglottaafricana-Mende	mend1266		ear	1247	EAR		n·gṓli	n g oː l i
+151715	167870	polyglottaafricana-Soninke	soni1259		ear	1247	EAR		tárọ	t a r o˞
+151719	167874	polyglottaafricana-Susu	susu1250		ear	1247	EAR		túla	t u l a
+151720	167875	polyglottaafricana-Susu	susu1250		ear	1247	EAR		túlī	t u l iː
+151721	167876	polyglottaafricana-Susu	susu1250		ear	1247	EAR		túli	t u l i
+151734	167889	polyglottaafricana-Vai	vaii1241		ear	1247	EAR		túro	t u r o
+156539	172694	hantganbangime-Jenaama	jena1242		eat	1336	EAT		dīgā	d i g a
+158876	175034	hantganbangime-Jenaama	jena1242		egg	744	EGG		bíyɛ̄wⁿ	b i j ɛ w̃
+159411	175569	polyglottaafricana-Bambara	bamb1269		egg	744	EGG		kíli	k i l i
+159414	175572	polyglottaafricana-Bandi	band1352		egg	744	EGG		n·gálui	n g a l u i
+159421	175579	polyglottaafricana-Boko	boko1266		egg	744	EGG		nén·gbūlé	n e n gb uː l e
+159461	175619	polyglottaafricana-Jalonke	yalu1240		egg	744	EGG		kílī	k i l iː
+159475	175633	polyglottaafricana-Kono	kono1268		egg	744	EGG		kíli	k i l i
+159479	175637	polyglottaafricana-KpelleGuinea	guin1254		egg	744	EGG		n·gā́lon·	n g aː l o n
+159485	175643	polyglottaafricana-Loko	loko1255		egg	744	EGG		n·gáu	n g a u
+159486	175644	polyglottaafricana-Loma	loma1260		egg	744	EGG		tẹ̄́-ai	t e˞ː + a i
+159488	175646	polyglottaafricana-Mandinka	mand1436		egg	744	EGG		kílī	k i l iː
+159489	175647	polyglottaafricana-Mandinka	mand1436		egg	744	EGG		kílī	k i l iː
+159490	175648	polyglottaafricana-Mandinka	mand1436		egg	744	EGG		sīsẹ́kī	s iː s e˞ ɠ̥ iː
+159492	175650	polyglottaafricana-ManinkaKankan	east2426		egg	744	EGG		kíli	k i l i
+159495	175653	polyglottaafricana-ManoMann	mann1248		egg	744	EGG		nyā́·	n j aː
+159502	175660	polyglottaafricana-Mende	mend1266		egg	744	EGG		n·gálu	n g a l u
+159533	175691	polyglottaafricana-Soninke	soni1259		egg	744	EGG		ḥabā́ne	ɦ a b aː n e
+159537	175695	polyglottaafricana-Susu	susu1250		egg	744	EGG		ḥẹ́lẹ̄na	ɦ e˞ l e˞ː n a
+159538	175696	polyglottaafricana-Susu	susu1250		egg	744	EGG		ḥálẹ	ɦ a l e˞
+159539	175697	polyglottaafricana-Susu	susu1250		egg	744	EGG		díbāri	d i b aː r i
+159553	175711	polyglottaafricana-Vai	vaii1241		egg	744	EGG		kéli	k e l i
+169444	185602	hantganbangime-Jenaama	jena1242		eye	1248	EYE		ɲɔ̄gɔ̄_lɛ̄wⁿ	ɲ ɔ g ɔ + l ɛ w̃
+169990	186148	polyglottaafricana-Bambara	bamb1269		eye	1248	EYE		ínya	i n j a
+169993	186151	polyglottaafricana-Bandi	band1352		eye	1248	EYE		n·gā́su	n g aː s u
+170001	186159	polyglottaafricana-Boko	boko1266		eye	1248	EYE		wṓlẹ	w oː l e˞
+170045	186203	polyglottaafricana-Jalonke	yalu1240		eye	1248	EYE		nyá	n j a
+170061	186219	polyglottaafricana-Kono	kono1268		eye	1248	EYE		yā	j aː
+170065	186223	polyglottaafricana-KpelleGuinea	guin1254		eye	1248	EYE		n·ái-kau	n a i + k a u
+170071	186229	polyglottaafricana-Loko	loko1255		eye	1248	EYE		n·gā́uwẹ́kẹ	n g aː u w e˞ ɠ̥ e˞
+170072	186230	polyglottaafricana-Loma	loma1260		eye	1248	EYE		gā́so	g aː s o
+170074	186232	polyglottaafricana-Mandinka	mand1436		eye	1248	EYE		nyā́	n j aː
+170075	186233	polyglottaafricana-Mandinka	mand1436		eye	1248	EYE		nyā́	n j aː
+170076	186234	polyglottaafricana-Mandinka	mand1436		eye	1248	EYE		nyá	n j a
+170078	186236	polyglottaafricana-ManinkaKankan	east2426		eye	1248	EYE		nyá	n j a
+170081	186239	polyglottaafricana-ManoMann	mann1248		eye	1248	EYE		nyī́ẹ	n j iː e˞
+170088	186246	polyglottaafricana-Mende	mend1266		eye	1248	EYE		n·gáhu·	n g a h u
+170118	186276	polyglottaafricana-Soninke	soni1259		eye	1248	EYE		yā́ṛẹ	j aː ɽ e˞
+170122	186280	polyglottaafricana-Susu	susu1250		eye	1248	EYE		yẹ̄	j e˞ː
+170123	186281	polyglottaafricana-Susu	susu1250		eye	1248	EYE		dṣā́e	ɖʐ aː e
+170124	186282	polyglottaafricana-Susu	susu1250		eye	1248	EYE		nyá	n j a
+170137	186295	polyglottaafricana-Vai	vaii1241		eye	1248	EYE		dṣa	ɖʐ a
+182013	198173	hantganbangime-Jenaama	jena1242		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		tīyɛ̄	t i j ɛ
+187233	219886	polyglottaafricana-Bambara	bamb1269		fleshormeat	2615	FLESH OR MEAT		ṣúbō	ʂ u b oː
+187236	219889	polyglottaafricana-Bandi	band1352		fleshormeat	2615	FLESH OR MEAT		sū́a	s uː a
+187244	219897	polyglottaafricana-Boko	boko1266		fleshormeat	2615	FLESH OR MEAT		nọ́wọ̄	n o˞ w o˞ː
+187288	219941	polyglottaafricana-Jalonke	yalu1240		fleshormeat	2615	FLESH OR MEAT		súbō	s u b oː
+187303	219956	polyglottaafricana-Kono	kono1268		fleshormeat	2615	FLESH OR MEAT		sū́i	s uː i
+187307	219960	polyglottaafricana-KpelleGuinea	guin1254		fleshormeat	2615	FLESH OR MEAT		ṣū́a	ʂ uː a
+187313	219966	polyglottaafricana-Loko	loko1255		fleshormeat	2615	FLESH OR MEAT		hū́·a·	h uː a
+187314	219967	polyglottaafricana-Loma	loma1260		fleshormeat	2615	FLESH OR MEAT		sū́ọ	s uː o˞
+187316	219969	polyglottaafricana-Mandinka	mand1436		fleshormeat	2615	FLESH OR MEAT		súbō	s u b oː
+187317	219970	polyglottaafricana-Mandinka	mand1436		fleshormeat	2615	FLESH OR MEAT		súbō	s u b oː
+187318	219971	polyglottaafricana-Mandinka	mand1436		fleshormeat	2615	FLESH OR MEAT		ṣúbō	ʂ u b oː
+187320	219973	polyglottaafricana-ManinkaKankan	east2426		fleshormeat	2615	FLESH OR MEAT		súbō	s u b oː
+187323	219976	polyglottaafricana-ManoMann	mann1248		fleshormeat	2615	FLESH OR MEAT		wúī·	w u iː
+187330	219983	polyglottaafricana-Mende	mend1266		fleshormeat	2615	FLESH OR MEAT		hū́·a·	h uː a
+187361	220014	polyglottaafricana-Soninke	soni1259		fleshormeat	2615	FLESH OR MEAT		tī́e	t iː e
+187365	220018	polyglottaafricana-Susu	susu1250		fleshormeat	2615	FLESH OR MEAT		ṣúbē	ʂ u b eː
+187366	220019	polyglottaafricana-Susu	susu1250		fleshormeat	2615	FLESH OR MEAT		ṣúbei	ʂ u b e i
+187367	220020	polyglottaafricana-Susu	susu1250		fleshormeat	2615	FLESH OR MEAT		súbe	s u b e
+187381	220034	polyglottaafricana-Vai	vaii1241		fleshormeat	2615	FLESH OR MEAT		sū́e	s uː e
+192740	225393	hantganbangime-Jenaama	jena1242		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		pīīrī	p iː r i
+196533	229186	polyglottaafricana-Bambara	bamb1269		foot	1301	FOOT		ṣémfāra	ʂ e m f aː r a
+196536	229189	polyglottaafricana-Bandi	band1352		foot	1301	FOOT		kọ́ṛọ	k o˞ ɽ o˞
+196543	229196	polyglottaafricana-Boko	boko1266		foot	1301	FOOT		gẹ́sa-gbẹ́lẹ	g e˞ s a + gb e˞ l e˞
+196586	229239	polyglottaafricana-Jalonke	yalu1240		foot	1301	FOOT		sḗn·-kọ	s eː n + k o˞
+196600	229253	polyglottaafricana-Kono	kono1268		foot	1301	FOOT		kén·ẹ	k e n e˞
+196603	229256	polyglottaafricana-KpelleGuinea	guin1254		foot	1301	FOOT		kóṛọ-ba	k o ɽ o˞ + b a
+196609	229262	polyglottaafricana-Loko	loko1255		foot	1301	FOOT		n·gọ́ṛọ sámbara	n g o˞ ɽ o˞ + s a m b a r a
+196610	229263	polyglottaafricana-Loma	loma1260		foot	1301	FOOT		kọ̄́-sapāra	k o˞ː + s a p aː r a
+196612	229265	polyglottaafricana-Mandinka	mand1436		foot	1301	FOOT		sḗumfadá	s eː u m f a d a
+196613	229266	polyglottaafricana-Mandinka	mand1436		foot	1301	FOOT		sḗumfadá	s eː u m f a d a
+196614	229267	polyglottaafricana-Mandinka	mand1436		foot	1301	FOOT		sen·kóma	s e n k o m a
+196616	229269	polyglottaafricana-ManinkaKankan	east2426		foot	1301	FOOT		sēm-fáda	s eː m + f a d a
+196619	229272	polyglottaafricana-ManoMann	mann1248		foot	1301	FOOT		gá·-dēa	g a + d eː a
+196626	229279	polyglottaafricana-Mende	mend1266		foot	1301	FOOT		kọ̄-mā́hu·	k o˞ː + m aː h u
+196652	229305	polyglottaafricana-Soninke	soni1259		foot	1301	FOOT		tandṣámẹ	t a n ɖʐ a m e˞
+196656	229309	polyglottaafricana-Susu	susu1250		foot	1301	FOOT		sam-fári	s a m + f a r i
+196657	229310	polyglottaafricana-Susu	susu1250		foot	1301	FOOT		sám-fāri	s a m + f aː r i
+196658	229311	polyglottaafricana-Susu	susu1250		foot	1301	FOOT		sam-fā́ri	s a m + f aː r i
+196671	229324	polyglottaafricana-Vai	vaii1241		foot	1301	FOOT		kén·-kọ	k e n + k o˞
+209145	241798	hantganbangime-Jenaama	jena1242		full	1429	FULL		pān-nā	p a n + n a
+214467	247120	hantganbangime-Jenaama	jena1242		give	1447	GIVE		dō	d o
+215020	247673	polyglottaafricana-Bambara	bamb1269		give	1447	GIVE		ḿbaradī́ma	m̩ b a r a d iː m a
+215023	247676	polyglottaafricana-Bandi	band1352		give	1447	GIVE		n·gé be ánāwa	n g e + b e + a n aː w a
+215029	247682	polyglottaafricana-Boko	boko1266		give	1447	GIVE		mā́ n·gba	m aː + n gb a
+215070	247723	polyglottaafricana-Jalonke	yalu1240		give	1447	GIVE		ḿbara dī́ma	m̩ b a r a + d iː m a
+215084	247737	polyglottaafricana-Kono	kono1268		give	1447	GIVE		ndā́ belʼ īma	n d aː + b e lʼ + iː m a
+215087	247740	polyglottaafricana-KpelleGuinea	guin1254		give	1447	GIVE		n·ā pféiẹ	n aː + p f e i e˞
+215093	247746	polyglottaafricana-Loko	loko1255		give	1447	GIVE		ń·gʼ efẹ̄́ bīe	ŋ gʼ + e f e˞ː + b iː e
+215094	247747	polyglottaafricana-Loma	loma1260		give	1447	GIVE		gé fẹ̄ ẹ	g e + f e˞ː + e˞
+215097	247750	polyglottaafricana-Mandinka	mand1436		give	1447	GIVE		ḿbarā díma	m̩ b a r aː + d i m a
+215098	247751	polyglottaafricana-Mandinka	mand1436		give	1447	GIVE		ḿbarā díma	m̩ b a r aː + d i m a
+215099	247752	polyglottaafricana-Mandinka	mand1436		give	1447	GIVE		ḿbara dī́ma	m̩ b a r a + d iː m a
+215101	247754	polyglottaafricana-ManinkaKankan	east2426		give	1447	GIVE		ḿbarā dī́ma	m̩ b a r aː + d iː m a
+215104	247757	polyglottaafricana-ManoMann	mann1248		give	1447	GIVE		mā· tó īmo	m aː + t o + iː m o
+215111	247764	polyglottaafricana-Mende	mend1266		give	1447	GIVE		n·gé bu gúāra	n g e + b u + g u aː r a
+215112	247765	polyglottaafricana-Mende	mend1266		give	1447	GIVE		ń·ge fẹ́ bīe	ŋ g e + f e˞ + b iː e
+215141	247794	polyglottaafricana-Soninke	soni1259		give	1447	GIVE		ńdakinún·a	ŋ d a k i n u n a
+215145	247798	polyglottaafricana-Susu	susu1250		give	1447	GIVE		ḿbadā fī́ma	m̩ b a d aː + f iː m a
+215146	247799	polyglottaafricana-Susu	susu1250		give	1447	GIVE		ḿbadā fī́ma	m̩ b a d aː + f iː m a
+215147	247800	polyglottaafricana-Susu	susu1250		give	1447	GIVE		fḗma	f eː m a
+215160	247813	polyglottaafricana-Vai	vaii1241		give	1447	GIVE		nā́ i kọ	n aː + i + k o˞
+221163	253819	polyglottaafricana-Bambara	bamb1269		good	1035	GOOD		a bẹ́nda	a + b e˞ n d a
+221166	253822	polyglottaafricana-Bandi	band1352		good	1035	GOOD		pán·gọ	p a n g o˞
+221174	253830	polyglottaafricana-Boko	boko1266		good	1035	GOOD		mā́ra·	m aː r a
+221220	253876	polyglottaafricana-Jalonke	yalu1240		good	1035	GOOD		bẹ́rẹ	b e˞ r e˞
+221237	253893	polyglottaafricana-Kono	kono1268		good	1035	GOOD		á nyi	a + n j i
+221242	253898	polyglottaafricana-KpelleGuinea	guin1254		good	1035	GOOD		nā́rei	n aː r e i
+221248	253904	polyglottaafricana-Loko	loko1255		good	1035	GOOD		nyánde	n j a n d e
+221249	253905	polyglottaafricana-Loma	loma1260		good	1035	GOOD		pā́gẹ	p aː g e˞
+221251	253907	polyglottaafricana-Mandinka	mand1436		good	1035	GOOD		kḗnyi	k eː n j i
+221252	253908	polyglottaafricana-Mandinka	mand1436		good	1035	GOOD		kḗnyi	k eː n j i
+221253	253909	polyglottaafricana-Mandinka	mand1436		good	1035	GOOD		bẹ́rẹ	b e˞ r e˞
+221255	253911	polyglottaafricana-ManinkaKankan	east2426		good	1035	GOOD		akā́nyi	a k aː n j i
+221258	253914	polyglottaafricana-ManoMann	mann1248		good	1035	GOOD		sẹ·	s e˞
+221265	253921	polyglottaafricana-Mende	mend1266		good	1035	GOOD		nyā́nden·gọ	n j aː n d e n g o˞
+221297	253953	polyglottaafricana-Soninke	soni1259		good	1035	GOOD		á sīrẹ́ni	a + s iː r e˞ n i
+221302	253958	polyglottaafricana-Susu	susu1250		good	1035	GOOD		ā́ fan·	aː + f a n
+221303	253959	polyglottaafricana-Susu	susu1250		good	1035	GOOD		á fọu·	a + f o˞ u
+221304	253960	polyglottaafricana-Susu	susu1250		good	1035	GOOD		é fan·	e + f a n
+221319	253975	polyglottaafricana-Vai	vaii1241		good	1035	GOOD		nyi	n j i
+234473	267129	hantganbangime-Jenaama	jena1242		hair	1040	HAIR		tī	t i
+234902	267558	polyglottaafricana-Bambara	bamb1269		hair	1040	HAIR		kún-siṛi	k u n + s i ɽ i
+234905	267561	polyglottaafricana-Bandi	band1352		hair	1040	HAIR		n·gú-ndeṛai	n g u + n d e ɽ a i
+234912	267568	polyglottaafricana-Boko	boko1266		hair	1040	HAIR		ka·	k a
+234957	267613	polyglottaafricana-Jalonke	yalu1240		hair	1040	HAIR		kúnsi	k u n s i
+234972	267628	polyglottaafricana-Kono	kono1268		hair	1040	HAIR		kúndi	k u n d i
+234976	267632	polyglottaafricana-KpelleGuinea	guin1254		hair	1040	HAIR		n·ū-néṛa	n uː + n e ɽ a
+234982	267638	polyglottaafricana-Loko	loko1255		hair	1040	HAIR		n·gúna	n g u n a
+234983	267639	polyglottaafricana-Loko	loko1255		hair	1040	HAIR		n·gúndeṛa	n g u n d e ɽ a
+234984	267640	polyglottaafricana-Loma	loma1260		hair	1040	HAIR		déṛa	d e ɽ a
+234986	267642	polyglottaafricana-Mandinka	mand1436		hair	1040	HAIR		kúnsī	k u n s iː
+234987	267643	polyglottaafricana-Mandinka	mand1436		hair	1040	HAIR		kúnsī	k u n s iː
+234988	267644	polyglottaafricana-Mandinka	mand1436		hair	1040	HAIR		kúnṣīṛi	k u n ʂ iː ɽ i
+234990	267646	polyglottaafricana-ManinkaKankan	east2426		hair	1040	HAIR		kū́n-ṣiṛi	k uː n + ʂ i ɽ i
+234993	267649	polyglottaafricana-ManoMann	mann1248		hair	1040	HAIR		n·ū́a-kai	n uː a + k a i
+235000	267656	polyglottaafricana-Mende	mend1266		hair	1040	HAIR		n·gú-ndeṛa	n g u + n d e ɽ a
+235030	267686	polyglottaafricana-Soninke	soni1259		hair	1040	HAIR		yī́ntẹ	j iː n t e˞
+235034	267690	polyglottaafricana-Susu	susu1250		hair	1040	HAIR		kū́n-saṛẹ	k uː n + s a ɽ e˞
+235035	267691	polyglottaafricana-Susu	susu1250		hair	1040	HAIR		hōn-sẹ́ṛẹ	h oː n + s e˞ ɽ e˞
+235036	267692	polyglottaafricana-Susu	susu1250		hair	1040	HAIR		séṛẹ	s e ɽ e˞
+235050	267706	polyglottaafricana-Vai	vaii1241		hair	1040	HAIR		kúndi	k u n d i
+238245	270901	hantganbangime-Jenaama	jena1242		hand	1277	HAND		sūgū	s u g u
+238746	271402	polyglottaafricana-Bambara	bamb1269		hand	1277	HAND		búlō-kóni	b u l oː + k o n i
+238749	271405	polyglottaafricana-Bandi	band1352		hand	1277	HAND		túkui	t u k u i
+238799	271455	polyglottaafricana-Jalonke	yalu1240		hand	1277	HAND		búlō-ko	b u l oː + k o
+238813	271469	polyglottaafricana-Kono	kono1268		hand	1277	HAND		búlo	b u l o
+238816	271472	polyglottaafricana-KpelleGuinea	guin1254		hand	1277	HAND		yḗ-ba	j eː + b a
+238822	271478	polyglottaafricana-Loko	loko1255		hand	1277	HAND		n·gọ́ṛọ	n g o˞ ɽ o˞
+238823	271479	polyglottaafricana-Loma	loma1260		hand	1277	HAND		zē	z eː
+238825	271481	polyglottaafricana-Mandinka	mand1436		hand	1277	HAND		búlō-kọ	b u l oː + k o˞
+238826	271482	polyglottaafricana-Mandinka	mand1436		hand	1277	HAND		búlō-kọ	b u l oː + k o˞
+238827	271483	polyglottaafricana-Mandinka	mand1436		hand	1277	HAND		bóyō-kọ	b o j oː + k o˞
+238829	271485	polyglottaafricana-ManinkaKankan	east2426		hand	1277	HAND		búlō-kọ	b u l oː + k o˞
+238832	271488	polyglottaafricana-ManoMann	mann1248		hand	1277	HAND		kẹ́rẹ	k e˞ r e˞
+238839	271495	polyglottaafricana-Mende	mend1266		hand	1277	HAND		pṓma	p oː m a
+238867	271523	polyglottaafricana-Soninke	soni1259		hand	1277	HAND		kíte	k i t e
+238871	271527	polyglottaafricana-Susu	susu1250		hand	1277	HAND		bálaṛáfāri	b a l a ɽ a f aː r i
+238872	271528	polyglottaafricana-Susu	susu1250		hand	1277	HAND		bẹlaṛáfāri	b e˞ l a ɽ a f aː r i
+238873	271529	polyglottaafricana-Susu	susu1250		hand	1277	HAND		belaṛẹ́-fāri	b e l a ɽ e˞ + f aː r i
+238886	271542	polyglottaafricana-Vai	vaii1241		hand	1277	HAND		búrō-kọ	b u r oː + k o˞
+243793	276450	hantganbangime-Jenaama	jena1242		head	1256	HEAD		ŋìyɛ̀wⁿ	ŋ i j ɛ w̃
+244356	277013	polyglottaafricana-Bambara	bamb1269		head	1256	HEAD		kun·	k u n
+244359	277016	polyglottaafricana-Bandi	band1352		head	1256	HEAD		n·gú	n g u
+244366	277023	polyglottaafricana-Boko	boko1266		head	1256	HEAD		mi	m i
+244410	277067	polyglottaafricana-Jalonke	yalu1240		head	1256	HEAD		kū·	k uː
+244425	277082	polyglottaafricana-Kono	kono1268		head	1256	HEAD		kún·ẹ	k u n e˞
+244429	277086	polyglottaafricana-KpelleGuinea	guin1254		head	1256	HEAD		n·ū́	n uː
+244435	277092	polyglottaafricana-Loko	loko1255		head	1256	HEAD		n·gú-koko	n g u + k o k o
+244436	277093	polyglottaafricana-Loma	loma1260		head	1256	HEAD		n·u	n u
+244438	277095	polyglottaafricana-Mandinka	mand1436		head	1256	HEAD		kū·	k uː
+244439	277096	polyglottaafricana-Mandinka	mand1436		head	1256	HEAD		kū·	k uː
+244440	277097	polyglottaafricana-Mandinka	mand1436		head	1256	HEAD		kū·	k uː
+244442	277099	polyglottaafricana-ManinkaKankan	east2426		head	1256	HEAD		kū·	k uː
+244445	277102	polyglottaafricana-ManoMann	mann1248		head	1256	HEAD		n·ú	n u
+244452	277109	polyglottaafricana-Mende	mend1266		head	1256	HEAD		n·gú	n g u
+244483	277140	polyglottaafricana-Soninke	soni1259		head	1256	HEAD		yī́mẹ	j iː m e˞
+244487	277144	polyglottaafricana-Susu	susu1250		head	1256	HEAD		kun·	k u n
+244488	277145	polyglottaafricana-Susu	susu1250		head	1256	HEAD		ḥṓndṣi	ɦ oː n ɖʐ i
+244489	277146	polyglottaafricana-Susu	susu1250		head	1256	HEAD		ḥṓnyi	ɦ oː n j i
+244490	277147	polyglottaafricana-Susu	susu1250		head	1256	HEAD		kun·	k u n
+244503	277160	polyglottaafricana-Vai	vaii1241		head	1256	HEAD		kun·	k u n
+247284	279941	polyglottaafricana-Bambara	bamb1269		hear	1408	HEAR		mbarā́mmẹ	ⁿb a r aː m m e˞
+247287	279944	polyglottaafricana-Bandi	band1352		hear	1408	HEAR		n·gé mẹ́nia	n g e + m e˞ n i a
+247294	279951	polyglottaafricana-Boko	boko1266		hear	1408	HEAR		ma nyáma	m a + n j a m a
+247335	279992	polyglottaafricana-Jalonke	yalu1240		hear	1408	HEAR		ḿbara mẹ	m̩ b a r a + m e˞
+247351	280008	polyglottaafricana-Kono	kono1268		hear	1408	HEAR		n dā́la mí	n + d aː l a + m i
+247355	280012	polyglottaafricana-KpelleGuinea	guin1254		hear	1408	HEAR		n·ā máli	n aː + m a l i
+247361	280018	polyglottaafricana-Loko	loko1255		hear	1408	HEAR		ń·gō méin·ga	ŋ g oː + m e i n g a
+247362	280019	polyglottaafricana-Loma	loma1260		hear	1408	HEAR		gé manīgá	g e + m a n iː g a
+247364	280021	polyglottaafricana-Mandinka	mand1436		hear	1408	HEAR		ḿbara mẹ	m̩ b a r a + m e˞
+247365	280022	polyglottaafricana-Mandinka	mand1436		hear	1408	HEAR		ḿbara mẹ	m̩ b a r a + m e˞
+247366	280023	polyglottaafricana-Mandinka	mand1436		hear	1408	HEAR		mára mẹ́	m a r a + m e˞
+247369	280026	polyglottaafricana-ManinkaKankan	east2426		hear	1408	HEAR		ḿbarā mẹ́	m̩ b a r aː + m e˞
+247372	280029	polyglottaafricana-ManoMann	mann1248		hear	1408	HEAR		mā́· ma·	m aː + m a
+247379	280036	polyglottaafricana-Mende	mend1266		hear	1408	HEAR		ń·ge mẹ́nīa	ŋ g e + m e˞ n iː a
+247408	280065	polyglottaafricana-Soninke	soni1259		hear	1408	HEAR		ńdamúṛu	ŋ d a m u ɽ u
+247412	280069	polyglottaafricana-Susu	susu1250		hear	1408	HEAR		mbadā́ mẹ	ⁿb a d aː + m e˞
+247413	280070	polyglottaafricana-Susu	susu1250		hear	1408	HEAR		mbadā́ mẹ	ⁿb a d aː + m e˞
+247414	280071	polyglottaafricana-Susu	susu1250		hear	1408	HEAR		ámẹ	a m e˞
+247427	280084	polyglottaafricana-Vai	vaii1241		hear	1408	HEAR		nā́ dan·	n aː + d a n
+263229	295889	hantganbangime-Jenaama	jena1242		hornanatomy	1393	HORN (ANATOMY)		būwōⁿ	b u w õ
+287394	320054	hantganbangime-Jenaama	jena1242		kill	1417	KILL		wàgà	w a g a
+290078	322738	hantganbangime-Jenaama	jena1242		knee	1371	KNEE		kɔ̀bɔ́	k ɔ b ɔ
+290609	323269	polyglottaafricana-Bambara	bamb1269		knee	1371	KNEE		kumerún·guru	k u m e r u n g u r u
+290612	323272	polyglottaafricana-Bandi	band1352		knee	1371	KNEE		n·gúmbi	n g u m b i
+290620	323280	polyglottaafricana-Boko	boko1266		knee	1371	KNEE		kúsō	k u s oː
+290664	323324	polyglottaafricana-Jalonke	yalu1240		knee	1371	KNEE		kúmberun·kúdu	k u m b e r u n k u d u
+290679	323339	polyglottaafricana-Kono	kono1268		knee	1371	KNEE		kúmbāli	k u m b aː l i
+290683	323343	polyglottaafricana-KpelleGuinea	guin1254		knee	1371	KNEE		n·ū́-gbe	n uː + gb e
+290689	323349	polyglottaafricana-Loko	loko1255		knee	1371	KNEE		n·gṓmbi	n g oː m b i
+290690	323350	polyglottaafricana-Loma	loma1260		knee	1371	KNEE		n·ū́-bi	n uː + b i
+290692	323352	polyglottaafricana-Mandinka	mand1436		knee	1371	KNEE		kúmbari	k u m b a r i
+290693	323353	polyglottaafricana-Mandinka	mand1436		knee	1371	KNEE		kúmbari	k u m b a r i
+290694	323354	polyglottaafricana-Mandinka	mand1436		knee	1371	KNEE		kumbáyi	k u m b a j i
+290696	323356	polyglottaafricana-ManinkaKankan	east2426		knee	1371	KNEE		kúmarin·	k u m a r i n
+290699	323359	polyglottaafricana-ManoMann	mann1248		knee	1371	KNEE		gbū́a	gb uː a
+290706	323366	polyglottaafricana-Mende	mend1266		knee	1371	KNEE		n·gū́mbi	n g uː m b i
+290737	323397	polyglottaafricana-Soninke	soni1259		knee	1371	KNEE		ḥúrūn·go	ɦ u r uː n g o
+290741	323401	polyglottaafricana-Susu	susu1250		knee	1371	KNEE		kḗmbi	k eː m b i
+290742	323402	polyglottaafricana-Susu	susu1250		knee	1371	KNEE		ḥímbī	ɦ i m b iː
+290743	323403	polyglottaafricana-Susu	susu1250		knee	1371	KNEE		san·-dóṛāde	s a n + d o ɽ aː d e
+290756	323416	polyglottaafricana-Vai	vaii1241		knee	1371	KNEE		kúmbēle	k u m b eː l e
+302042	334702	hantganbangime-Jenaama	jena1242		leaf	628	LEAF		dūwɔ̄	d u w ɔ
+302577	335237	polyglottaafricana-Bambara	bamb1269		leaf	628	LEAF		fíra	f i r a
+302580	335240	polyglottaafricana-Bandi	band1352		leaf	628	LEAF		ndáṛai	n d a ɽ a i
+302587	335247	polyglottaafricana-Boko	boko1266		leaf	628	LEAF		la	l a
+302627	335287	polyglottaafricana-Jalonke	yalu1240		leaf	628	LEAF		fī́da	f iː d a
+302643	335303	polyglottaafricana-Kono	kono1268		leaf	628	LEAF		yámbā	j a m b aː
+302647	335307	polyglottaafricana-KpelleGuinea	guin1254		leaf	628	LEAF		lā	l aː
+302653	335313	polyglottaafricana-Loko	loko1255		leaf	628	LEAF		ndáṛa	n d a ɽ a
+302654	335314	polyglottaafricana-Loma	loma1260		leaf	628	LEAF		dā	d aː
+302656	335316	polyglottaafricana-Mandinka	mand1436		leaf	628	LEAF		fída	f i d a
+302657	335317	polyglottaafricana-Mandinka	mand1436		leaf	628	LEAF		fída	f i d a
+302658	335318	polyglottaafricana-Mandinka	mand1436		leaf	628	LEAF		fī́ya	f iː j a
+302660	335320	polyglottaafricana-ManinkaKankan	east2426		leaf	628	LEAF		fídā	f i d aː
+302663	335323	polyglottaafricana-ManoMann	mann1248		leaf	628	LEAF		dẹ̄	d e˞ː
+302670	335330	polyglottaafricana-Mende	mend1266		leaf	628	LEAF		ndáṛa	n d a ɽ a
+302700	335360	polyglottaafricana-Soninke	soni1259		leaf	628	LEAF		dẹ́rẹ	d e˞ r e˞
+302704	335364	polyglottaafricana-Susu	susu1250		leaf	628	LEAF		nyọ́ṛande	n j o˞ː ɽ a n d e
+302705	335365	polyglottaafricana-Susu	susu1250		leaf	628	LEAF		búrāgai	b u r aː g a i
+302706	335366	polyglottaafricana-Susu	susu1250		leaf	628	LEAF		yámba	j a m b a
+302720	335380	polyglottaafricana-Vai	vaii1241		leaf	628	LEAF		dṣámba	ɖʐ a m b a
+323356	356016	hantganbangime-Jenaama	jena1242		louse	1392	LOUSE		sɔ̀mɔ̀	s ɔ m ɔ
+330301	362962	hantganbangime-Jenaama	jena1242		man	1554	MAN		kɛ̄ɛ̄gū	k ɛː g u
+330823	363484	polyglottaafricana-Bambara	bamb1269		man	1554	MAN		kẹ	k e˞
+330826	363487	polyglottaafricana-Bandi	band1352		man	1554	MAN		sī́ẹna	s iː e˞ n a
+330833	363494	polyglottaafricana-Boko	boko1266		man	1554	MAN		gō·	g oː
+330876	363537	polyglottaafricana-Jalonke	yalu1240		man	1554	MAN		kẹ̄	k e˞ː
+330891	363552	polyglottaafricana-Kono	kono1268		man	1554	MAN		kai	k a i
+330895	363556	polyglottaafricana-KpelleGuinea	guin1254		man	1554	MAN		ṣíron·	ʂ i r o n
+330901	363562	polyglottaafricana-Loko	loko1255		man	1554	MAN		hī́n·ga	h iː ŋ g a
+330902	363563	polyglottaafricana-Loma	loma1260		man	1554	MAN		zū́nu	z uː n u
+330904	363565	polyglottaafricana-Mandinka	mand1436		man	1554	MAN		kẹ̄	k e˞ː
+330905	363566	polyglottaafricana-Mandinka	mand1436		man	1554	MAN		kẹ̄	k e˞ː
+330906	363567	polyglottaafricana-Mandinka	mand1436		man	1554	MAN		kẹ̄	k e˞ː
+330908	363569	polyglottaafricana-ManinkaKankan	east2426		man	1554	MAN		kẹ̄	k e˞ː
+330911	363572	polyglottaafricana-ManoMann	mann1248		man	1554	MAN		go·	g o
+330919	363580	polyglottaafricana-Mende	mend1266		man	1554	MAN		hī́ndō	h iː n d oː
+330952	363613	polyglottaafricana-Soninke	soni1259		man	1554	MAN		yū́go	j uː g o
+330956	363617	polyglottaafricana-Susu	susu1250		man	1554	MAN		kámẹ	k a m e˞
+330957	363618	polyglottaafricana-Susu	susu1250		man	1554	MAN		ḥẹ̄mẹ	ɦ e˞ː m e˞
+330958	363619	polyglottaafricana-Susu	susu1250		man	1554	MAN		sẹ́ṛe téla	s e˞ ɽ e + t e l a
+330972	363633	polyglottaafricana-Vai	vaii1241		man	1554	MAN		kai	k a i
+344835	377496	polyglottaafricana-Bambara	bamb1269		moon	1313	MOON		kárō	k a r oː
+344838	377499	polyglottaafricana-Bandi	band1352		moon	1313	MOON		n·gálu	n g a l u
+344845	377506	polyglottaafricana-Boko	boko1266		moon	1313	MOON		mo·	m o
+344888	377549	polyglottaafricana-Jalonke	yalu1240		moon	1313	MOON		kā́ro	k aː r o
+344903	377564	polyglottaafricana-Kono	kono1268		moon	1313	MOON		káru	k a r u
+344907	377568	polyglottaafricana-KpelleGuinea	guin1254		moon	1313	MOON		ṛā́lon·	ɽ aː l o n
+344913	377574	polyglottaafricana-Loko	loko1255		moon	1313	MOON		n·gau	n g a u
+344914	377575	polyglottaafricana-Loma	loma1260		moon	1313	MOON		gólu	g o l u
+344916	377577	polyglottaafricana-Mandinka	mand1436		moon	1313	MOON		kárō	k a r oː
+344917	377578	polyglottaafricana-Mandinka	mand1436		moon	1313	MOON		kárō	k a r oː
+344918	377579	polyglottaafricana-Mandinka	mand1436		moon	1313	MOON		kā́yo	k aː j o
+344920	377581	polyglottaafricana-ManinkaKankan	east2426		moon	1313	MOON		kárō	k a r oː
+344923	377584	polyglottaafricana-ManoMann	mann1248		moon	1313	MOON		mẹ́rẹ	m e˞ r e˞
+344930	377591	polyglottaafricana-Mende	mend1266		moon	1313	MOON		n·gáru	n g a r u
+344960	377621	polyglottaafricana-Soninke	soni1259		moon	1313	MOON		ḥásō	ɦ a s oː
+344964	377625	polyglottaafricana-Susu	susu1250		moon	1313	MOON		kī́kēna	k iː ɠ̥ eː n a
+344965	377626	polyglottaafricana-Susu	susu1250		moon	1313	MOON		kī́kei	k iː ɠ̥ e i
+344966	377627	polyglottaafricana-Susu	susu1250		moon	1313	MOON		léur	l e u r
+344979	377640	polyglottaafricana-Vai	vaii1241		moon	1313	MOON		káro	k a r o
+353285	385949	hantganbangime-Jenaama	jena1242		mouth	674	MOUTH		lɔ̄gū	l ɔ g u
+353835	386499	polyglottaafricana-Bambara	bamb1269		mouth	674	MOUTH		da	d a
+353838	386502	polyglottaafricana-Bandi	band1352		mouth	674	MOUTH		ndā́	n d aː
+353845	386509	polyglottaafricana-Boko	boko1266		mouth	674	MOUTH		lẹ	l e˞
+353889	386553	polyglottaafricana-Jalonke	yalu1240		mouth	674	MOUTH		da	d a
+353904	386568	polyglottaafricana-Kono	kono1268		mouth	674	MOUTH		dā	d aː
+353909	386573	polyglottaafricana-KpelleGuinea	guin1254		mouth	674	MOUTH		dā́le	d aː l e
+353915	386579	polyglottaafricana-Loko	loko1255		mouth	674	MOUTH		lā	l aː
+353916	386580	polyglottaafricana-Loma	loma1260		mouth	674	MOUTH		dā́wīliso	d aː w iː l i s o
+353918	386582	polyglottaafricana-Mandinka	mand1436		mouth	674	MOUTH		da	d a
+353919	386583	polyglottaafricana-Mandinka	mand1436		mouth	674	MOUTH		da	d a
+353920	386584	polyglottaafricana-Mandinka	mand1436		mouth	674	MOUTH		da	d a
+353922	386586	polyglottaafricana-ManinkaKankan	east2426		mouth	674	MOUTH		dā	d aː
+353925	386589	polyglottaafricana-ManoMann	mann1248		mouth	674	MOUTH		de	d e
+353932	386596	polyglottaafricana-Mende	mend1266		mouth	674	MOUTH		ndā́	n d aː
+353962	386626	polyglottaafricana-Soninke	soni1259		mouth	674	MOUTH		rákẹ	r a k e˞
+353966	386630	polyglottaafricana-Susu	susu1250		mouth	674	MOUTH		dẹ̄	d e˞ː
+353967	386631	polyglottaafricana-Susu	susu1250		mouth	674	MOUTH		dẹi	d e˞ i
+353968	386632	polyglottaafricana-Susu	susu1250		mouth	674	MOUTH		de	d e
+353981	386645	polyglottaafricana-Vai	vaii1241		mouth	674	MOUTH		da	d a
+358310	390974	hantganbangime-Jenaama	jena1242		name	1405	NAME		tíbɛ̄wⁿ	t i b ɛ w̃
+364585	397252	hantganbangime-Jenaama	jena1242		neck	1333	NECK		bòndò	b o n d o
+365134	397801	polyglottaafricana-Bambara	bamb1269		neck	1333	NECK		tọn·kóma	t o˞ n k o m a
+365137	397804	polyglottaafricana-Bandi	band1352		neck	1333	NECK		mbúro-wōlú	ⁿb u r o + w oː l u
+365144	397811	polyglottaafricana-Boko	boko1266		neck	1333	NECK		wāgbẹ́	w aː gb e˞
+365188	397855	polyglottaafricana-Jalonke	yalu1240		neck	1333	NECK		kán·-ko	k a n + k o
+365203	397870	polyglottaafricana-Kono	kono1268		neck	1333	NECK		kā́n·gōẹ	k aː ŋ g oː e˞
+365207	397874	polyglottaafricana-KpelleGuinea	guin1254		neck	1333	NECK		kọ́mpol	k o˞ m p o l
+365213	397880	polyglottaafricana-Loko	loko1255		neck	1333	NECK		kọ̄́n·ga	k o˞ː n g a
+365214	397881	polyglottaafricana-Loma	loma1260		neck	1333	NECK		kọ̄́pūru	k o˞ː p uː r u
+365217	397884	polyglottaafricana-Mandinka	mand1436		neck	1333	NECK		tọ̄·	t o˞ː
+365218	397885	polyglottaafricana-Mandinka	mand1436		neck	1333	NECK		tọ̄·	t o˞ː
+365219	397886	polyglottaafricana-Mandinka	mand1436		neck	1333	NECK		kan·-kóma	k a n + k o m a
+365221	397888	polyglottaafricana-ManinkaKankan	east2426		neck	1333	NECK		ńtọ̄n·	ŋ t o˞ː n
+365224	397891	polyglottaafricana-ManoMann	mann1248		neck	1333	NECK		pféi·	p f e i
+365231	397898	polyglottaafricana-Mende	mend1266		neck	1333	NECK		mbóro-woóma	ⁿb o r o + w o o m a
+365260	397927	polyglottaafricana-Soninke	soni1259		neck	1333	NECK		ḥánẹ	ɦ a n e˞
+365264	397931	polyglottaafricana-Susu	susu1250		neck	1333	NECK		koẹ̄ṛámbi	k o e˞ː ɽ a m b i
+365265	397932	polyglottaafricana-Susu	susu1250		neck	1333	NECK		kówẹ̄ṛámbi	k o w e˞ː ɽ a m b i
+365266	397933	polyglottaafricana-Susu	susu1250		neck	1333	NECK		kṓan·kála	k oː a n k a l a
+365281	397948	polyglottaafricana-Vai	vaii1241		neck	1333	NECK		kán·gọ	k a n g o˞
+368655	401322	hantganbangime-Jenaama	jena1242		new	1231	NEW		tōē	t o e
+371425	404092	hantganbangime-Jenaama	jena1242		night	1233	NIGHT		wùùtīnā	w uː t i n a
+371973	404640	polyglottaafricana-Bambara	bamb1269		night	1233	NIGHT		ṣū	ʂ uː
+371976	404643	polyglottaafricana-Bandi	band1352		night	1233	NIGHT		gbíndi	gb i n d i
+371983	404650	polyglottaafricana-Boko	boko1266		night	1233	NIGHT		guā́·fī·li·	g u aː f iː l i
+372026	404693	polyglottaafricana-Jalonke	yalu1240		night	1233	NIGHT		sū	s uː
+372042	404709	polyglottaafricana-Kono	kono1268		night	1233	NIGHT		sū́	s uː
+372046	404713	polyglottaafricana-KpelleGuinea	guin1254		night	1233	NIGHT		gbíne	gb i n e
+372052	404719	polyglottaafricana-Loko	loko1255		night	1233	NIGHT		gbéndi	gb e n d i
+372053	404720	polyglottaafricana-Loma	loma1260		night	1233	NIGHT		kū́ọ	k uː o˞
+372055	404722	polyglottaafricana-Mandinka	mand1436		night	1233	NIGHT		sū	s uː
+372056	404723	polyglottaafricana-Mandinka	mand1436		night	1233	NIGHT		sū	s uː
+372057	404724	polyglottaafricana-Mandinka	mand1436		night	1233	NIGHT		dṣū	ɖʐ uː
+372059	404726	polyglottaafricana-ManinkaKankan	east2426		night	1233	NIGHT		sū	s uː
+372063	404730	polyglottaafricana-ManoMann	mann1248		night	1233	NIGHT		gben·	gb e n
+372071	404738	polyglottaafricana-Mende	mend1266		night	1233	NIGHT		gbíndi	gb i n d i
+372102	404769	polyglottaafricana-Soninke	soni1259		night	1233	NIGHT		wúrō	w u r oː
+372106	404773	polyglottaafricana-Susu	susu1250		night	1233	NIGHT		kúẹ̄na	k u e˞ː n a
+372107	404774	polyglottaafricana-Susu	susu1250		night	1233	NIGHT		kóei	k o e i
+372108	404775	polyglottaafricana-Susu	susu1250		night	1233	NIGHT		náifṓrẹ	n a i f oː r e˞
+372123	404790	polyglottaafricana-Vai	vaii1241		night	1233	NIGHT		su	s u
+377237	409904	hantganbangime-Jenaama	jena1242		nose	1221	NOSE		ɲīmīnà	ɲ i m i n a
+377793	410460	polyglottaafricana-Bambara	bamb1269		nose	1221	NOSE		n·ú	n u
+377796	410463	polyglottaafricana-Bandi	band1352		nose	1221	NOSE		sógba	s o gb a
+377803	410470	polyglottaafricana-Boko	boko1266		nose	1221	NOSE		nyí·	n j i
+377847	410514	polyglottaafricana-Jalonke	yalu1240		nose	1221	NOSE		nu	n u
+377862	410529	polyglottaafricana-Kono	kono1268		nose	1221	NOSE		sún·ẹ	s u n e˞
+377866	410533	polyglottaafricana-KpelleGuinea	guin1254		nose	1221	NOSE		ṣū́·a·	ʂ uː a
+377872	410539	polyglottaafricana-Loko	loko1255		nose	1221	NOSE		hṓgba	h oː gb a
+377873	410540	polyglottaafricana-Loma	loma1260		nose	1221	NOSE		sṓgbọ	s oː gb o˞
+377875	410542	polyglottaafricana-Mandinka	mand1436		nose	1221	NOSE		nū	n uː
+377876	410543	polyglottaafricana-Mandinka	mand1436		nose	1221	NOSE		nū	n uː
+377877	410544	polyglottaafricana-Mandinka	mand1436		nose	1221	NOSE		nú	n u
+377879	410546	polyglottaafricana-ManinkaKankan	east2426		nose	1221	NOSE		nū	n uː
+377882	410549	polyglottaafricana-ManoMann	mann1248		nose	1221	NOSE		nyú	n j u
+377889	410556	polyglottaafricana-Mende	mend1266		nose	1221	NOSE		hṓgba	h oː gb a
+377919	410586	polyglottaafricana-Soninke	soni1259		nose	1221	NOSE		nóṛūnẹ	n o ɽ uː n e˞
+377923	410590	polyglottaafricana-Susu	susu1250		nose	1221	NOSE		nyū́ẹ	n j uː e˞
+377924	410591	polyglottaafricana-Susu	susu1250		nose	1221	NOSE		nyóei	n j o e i
+377925	410592	polyglottaafricana-Susu	susu1250		nose	1221	NOSE		nyū́ẹ	n j uː e˞
+377938	410605	polyglottaafricana-Vai	vaii1241		nose	1221	NOSE		sun·	s u n
+389531	422198	hantganbangime-Jenaama	jena1242		one	1493	ONE		kéẁⁿ	k e w̃
+390070	422737	polyglottaafricana-Bambara	bamb1269		one	1493	ONE		kílen·	k i l e n
+390073	422740	polyglottaafricana-Bandi	band1352		one	1493	ONE		ī́ra	iː r a
+390080	422747	polyglottaafricana-Boko	boko1266		one	1493	ONE		dō	d oː
+390124	422791	polyglottaafricana-Jalonke	yalu1240		one	1493	ONE		kélen·	k e l e n
+390139	422806	polyglottaafricana-Kono	kono1268		one	1493	ONE		n·kélen·	n k e l e n
+390143	422810	polyglottaafricana-KpelleGuinea	guin1254		one	1493	ONE		tān·	t aː n
+390149	422816	polyglottaafricana-Loko	loko1255		one	1493	ONE		ídā	i d aː
+390150	422817	polyglottaafricana-Loma	loma1260		one	1493	ONE		ī́lēa	iː l eː a
+390152	422819	polyglottaafricana-Mandinka	mand1436		one	1493	ONE		kéle	k e l e
+390153	422820	polyglottaafricana-Mandinka	mand1436		one	1493	ONE		kéle	k e l e
+390154	422821	polyglottaafricana-Mandinka	mand1436		one	1493	ONE		kéle	k e l e
+390156	422823	polyglottaafricana-ManinkaKankan	east2426		one	1493	ONE		kélen·	k e l e n
+390159	422826	polyglottaafricana-ManoMann	mann1248		one	1493	ONE		do	d o
+390167	422834	polyglottaafricana-Mende	mend1266		one	1493	ONE		étā	e t aː
+390199	422866	polyglottaafricana-Soninke	soni1259		one	1493	ONE		bā́ne	b aː n e
+390203	422870	polyglottaafricana-Susu	susu1250		one	1493	ONE		kéden·	k e d e n
+390204	422871	polyglottaafricana-Susu	susu1250		one	1493	ONE		kéren·	k e r e n
+390205	422872	polyglottaafricana-Susu	susu1250		one	1493	ONE		kéren·	k e r e n
+390218	422885	polyglottaafricana-Vai	vaii1241		one	1493	ONE		dóndo	d o n d o
+406151	438818	hantganbangime-Jenaama	jena1242		person	683	PERSON		ɲīmī	ɲ i m i
+432335	465003	hantganbangime-Jenaama	jena1242		red	156	RED		tōmōⁿ	t o m õ
+444285	476954	hantganbangime-Jenaama	jena1242		root	670	ROOT		pā	p a
+444751	477420	polyglottaafricana-Bambara	bamb1269		root	670	ROOT		lī́ri	l iː r i
+444754	477423	polyglottaafricana-Bandi	band1352		root	670	ROOT		sápei·	s a p e i
+444760	477429	polyglottaafricana-Boko	boko1266		root	670	ROOT		kí·sā·	k i s aː
+444802	477471	polyglottaafricana-Jalonke	yalu1240		root	670	ROOT		lī́li	l iː l i
+444816	477485	polyglottaafricana-Kono	kono1268		root	670	ROOT		súlū	s u l uː
+444820	477489	polyglottaafricana-KpelleGuinea	guin1254		root	670	ROOT		dṣā́me	ɖʐ aː m e
+444826	477495	polyglottaafricana-Loko	loko1255		root	670	ROOT		hā́pe	h aː p e
+444827	477496	polyglottaafricana-Loma	loma1260		root	670	ROOT		n·ása	n a s a
+444829	477498	polyglottaafricana-Mandinka	mand1436		root	670	ROOT		ṣíla	ʂ i l a
+444830	477499	polyglottaafricana-Mandinka	mand1436		root	670	ROOT		ṣíla	ʂ i l a
+444831	477500	polyglottaafricana-Mandinka	mand1436		root	670	ROOT		yī́ri	j iː r i
+444834	477503	polyglottaafricana-ManinkaKankan	east2426		root	670	ROOT		írī	i r iː
+444837	477506	polyglottaafricana-ManoMann	mann1248		root	670	ROOT		yī́rigrā·	j iː r i g r aː
+444844	477513	polyglottaafricana-Mende	mend1266		root	670	ROOT		hápe	h a p e
+444875	477544	polyglottaafricana-Soninke	soni1259		root	670	ROOT		nyī́mẹ	n j iː m e˞
+444880	477549	polyglottaafricana-Susu	susu1250		root	670	ROOT		abíli	a b i l i
+444881	477550	polyglottaafricana-Susu	susu1250		root	670	ROOT		sán·kei	s a n k e i
+444882	477551	polyglottaafricana-Susu	susu1250		root	670	ROOT		bárīde	b a r iː d e
+444896	477565	polyglottaafricana-Vai	vaii1241		root	670	ROOT		súru	s u r u
+456240	488909	hantganbangime-Jenaama	jena1242		sand	671	SAND		sɔ̀ⁿ_sɔ̀ⁿ	s ɔ̃ + s ɔ̃
+456761	489430	polyglottaafricana-Bambara	bamb1269		sand	671	SAND		kínyẹ	k i n j e˞
+456763	489432	polyglottaafricana-Bandi	band1352		sand	671	SAND		n·ẹ̄́ei·	n e˞ː e i
+456770	489439	polyglottaafricana-Boko	boko1266		sand	671	SAND		búsū	b u s uː
+456814	489483	polyglottaafricana-Jalonke	yalu1240		sand	671	SAND		kínyẹ	k i n j e˞
+456830	489499	polyglottaafricana-Kono	kono1268		sand	671	SAND		kẹ̄́kūlu	k e˞ː k uː l u
+456833	489502	polyglottaafricana-KpelleGuinea	guin1254		sand	671	SAND		n·áia·	n a i a
+456839	489508	polyglottaafricana-Loko	loko1255		sand	671	SAND		n·ẹ́·lẹ	n e˞ l e˞
+456840	489509	polyglottaafricana-Loma	loma1260		sand	671	SAND		nẹ̄́asa	n e˞ː a s a
+456842	489511	polyglottaafricana-Mandinka	mand1436		sand	671	SAND		kí·yẹ·	k i j e˞
+456843	489512	polyglottaafricana-Mandinka	mand1436		sand	671	SAND		kí·yẹ·	k i j e˞
+456844	489513	polyglottaafricana-Mandinka	mand1436		sand	671	SAND		kínyẹ	k i n j e˞
+456846	489515	polyglottaafricana-ManinkaKankan	east2426		sand	671	SAND		kínyẹ̄	k i n j e˞ː
+456849	489518	polyglottaafricana-ManoMann	mann1248		sand	671	SAND		nyẹ̄́sīrẹ	n j e˞ː s iː r e˞
+456856	489525	polyglottaafricana-Mende	mend1266		sand	671	SAND		n·ā́nya	n aː n j a
+456883	489552	polyglottaafricana-Soninke	soni1259		sand	671	SAND		sẹ̄́yẹ	s e˞ː j e˞
+456887	489556	polyglottaafricana-Susu	susu1250		sand	671	SAND		mẹ́sẹ̄ndínna	m e˞ s e˞ː n d i n n a
+456888	489557	polyglottaafricana-Susu	susu1250		sand	671	SAND		mẹ̄́yẹ̄ndṣi	m e˞ː j e˞ː n ɖʐ i
+456889	489558	polyglottaafricana-Susu	susu1250		sand	671	SAND		māṛáse	m aː ɽ a s e
+456905	489574	polyglottaafricana-Vai	vaii1241		sand	671	SAND		kẹ́·nyẹ·	k e˞ n j e˞
+464941	497611	hantganbangime-Jenaama	jena1242		see	1409	SEE		kày	k a j
+465498	498168	polyglottaafricana-Bambara	bamb1269		see	1409	SEE		mbarā́ye	ⁿb a r aː j e
+465501	498171	polyglottaafricana-Bandi	band1352		see	1409	SEE		n·gé rōa	n g e + r oː a
+465508	498178	polyglottaafricana-Boko	boko1266		see	1409	SEE		mā́ e	m aː + e
+465550	498220	polyglottaafricana-Jalonke	yalu1240		see	1409	SEE		ḿbarā yé	m̩ b a r aː + j e
+465565	498235	polyglottaafricana-Kono	kono1268		see	1409	SEE		nā́ ye	n aː + j e
+465569	498239	polyglottaafricana-KpelleGuinea	guin1254		see	1409	SEE		n·ā gá	n aː + g a
+465575	498245	polyglottaafricana-Loko	loko1255		see	1409	SEE		ń·gō nā́rōa	ŋ g oː + n aː r oː a
+465576	498246	polyglottaafricana-Loma	loma1260		see	1409	SEE		gé kā	g e + k aː
+465579	498249	polyglottaafricana-Mandinka	mand1436		see	1409	SEE		ḿbara ye	m̩ b a r a + j e
+465580	498250	polyglottaafricana-Mandinka	mand1436		see	1409	SEE		ḿbara ye	m̩ b a r a + j e
+465581	498251	polyglottaafricana-Mandinka	mand1436		see	1409	SEE		mára yḗ	m a r a + j eː
+465583	498253	polyglottaafricana-ManinkaKankan	east2426		see	1409	SEE		ḿbará ye	m̩ b a r a + j e
+465586	498256	polyglottaafricana-ManoMann	mann1248		see	1409	SEE		mā́· gẹ	m aː + g e˞
+465593	498263	polyglottaafricana-Mende	mend1266		see	1409	SEE		ń·ge tṓa	ŋ g e + t oː a
+465622	498292	polyglottaafricana-Soninke	soni1259		see	1409	SEE		ndáwārí	n d a w aː r i
+465626	498296	polyglottaafricana-Susu	susu1250		see	1409	SEE		ḿbadā́ to	m̩ b a d aː + t o
+465627	498297	polyglottaafricana-Susu	susu1250		see	1409	SEE		ḿbadā́ to	m̩ b a d aː + t o
+465628	498298	polyglottaafricana-Susu	susu1250		see	1409	SEE		a fẹ́lẹ	a + f e˞ l e˞
+465641	498311	polyglottaafricana-Vai	vaii1241		see	1409	SEE		nā́ dṣe	n aː + ɖʐ e
+490459	523131	hantganbangime-Jenaama	jena1242		sit	1416	SIT		kpɔ̀	k p ɔ
+494507	527179	hantganbangime-Jenaama	jena1242		skin	763	SKIN		kòlòⁿ	k o l õ
+495036	527708	polyglottaafricana-Bambara	bamb1269		skin	763	SKIN		búlō	b u l oː
+495039	527711	polyglottaafricana-Bandi	band1352		skin	763	SKIN		kólọ	k o l o˞
+495046	527718	polyglottaafricana-Boko	boko1266		skin	763	SKIN		bára	b a r a
+495088	527760	polyglottaafricana-Jalonke	yalu1240		skin	763	SKIN		bṓlo	b oː l o
+495105	527777	polyglottaafricana-Kono	kono1268		skin	763	SKIN		gbúlō	gb u l oː
+495109	527781	polyglottaafricana-KpelleGuinea	guin1254		skin	763	SKIN		kórọ	k o r o˞
+495115	527787	polyglottaafricana-Loko	loko1255		skin	763	SKIN		kọ̄	k o˞ː
+495116	527788	polyglottaafricana-Loma	loma1260		skin	763	SKIN		kọ́rọ	k o˞ r o˞
+495118	527790	polyglottaafricana-Mandinka	mand1436		skin	763	SKIN		fádi	f a d i
+495119	527791	polyglottaafricana-Mandinka	mand1436		skin	763	SKIN		fádi	f a d i
+495120	527792	polyglottaafricana-Mandinka	mand1436		skin	763	SKIN		fáyī	f a j iː
+495121	527793	polyglottaafricana-Mandinka	mand1436		skin	763	SKIN		fádṣī	f a ɖʐ iː
+495123	527795	polyglottaafricana-ManinkaKankan	east2426		skin	763	SKIN		fádī	f a d iː
+495126	527798	polyglottaafricana-ManoMann	mann1248		skin	763	SKIN		gbúro	gb u r o
+495133	527805	polyglottaafricana-Mende	mend1266		skin	763	SKIN		ndúwu	n d u w u
+495134	527806	polyglottaafricana-Mende	mend1266		skin	763	SKIN		ndū́ma	n d uː m a
+495166	527838	polyglottaafricana-Soninke	soni1259		skin	763	SKIN		fátẹ	f a t e˞
+495170	527842	polyglottaafricana-Susu	susu1250		skin	763	SKIN		kī́di	k iː d i
+495171	527843	polyglottaafricana-Susu	susu1250		skin	763	SKIN		fátei	f a t e i
+495172	527844	polyglottaafricana-Susu	susu1250		skin	763	SKIN		bále	b a l e
+495187	527859	polyglottaafricana-Vai	vaii1241		skin	763	SKIN		gbúro	gb u r o
+499144	531816	hantganbangime-Jenaama	jena1242		sleep	1585	SLEEP		kùmù	k u m u
+499695	532368	polyglottaafricana-Bambara	bamb1269		sleep	1585	SLEEP		ń·sinóṛōra	ŋ s i n o ɽ oː r a
+499696	532369	polyglottaafricana-Bambara	bamb1269		sleep	1585	SLEEP		mbára ṣínōṛo	ⁿb a r a + ʂ i n oː ɽ o
+499699	532372	polyglottaafricana-Bandi	band1352		sleep	1585	SLEEP		n·gé nyī́a	n g e + n j iː a
+499705	532378	polyglottaafricana-Boko	boko1266		sleep	1585	SLEEP		ma ī́	m a + iː
+499747	532420	polyglottaafricana-Jalonke	yalu1240		sleep	1585	SLEEP		ḿbára sínọ̄ṛo	m̩ b a r a + s i n o˞ː ɽ o
+499764	532437	polyglottaafricana-Kono	kono1268		sleep	1585	SLEEP		n· kínōla	n + k i n oː l a
+499767	532440	polyglottaafricana-KpelleGuinea	guin1254		sleep	1585	SLEEP		n·ā n·í	n aː + n i
+499773	532446	polyglottaafricana-Loko	loko1255		sleep	1585	SLEEP		ń·gō yī́ya	ŋ g oː + j iː j a
+499774	532447	polyglottaafricana-Loma	loma1260		sleep	1585	SLEEP		nā í·sè	n aː + i s e
+499776	532449	polyglottaafricana-Mandinka	mand1436		sleep	1585	SLEEP		ḿbara ṣínō	m̩ b a r a + ʂ i n oː
+499777	532450	polyglottaafricana-Mandinka	mand1436		sleep	1585	SLEEP		ḿbara ṣínō	m̩ b a r a + ʂ i n oː
+499778	532451	polyglottaafricana-Mandinka	mand1436		sleep	1585	SLEEP		mára sinṓa	m a r a + s i n oː a
+499780	532453	polyglottaafricana-ManinkaKankan	east2426		sleep	1585	SLEEP		ḿbara sínōṛọ	m̩ b a r a + s i n oː ɽ o˞
+499783	532456	polyglottaafricana-ManoMann	mann1248		sleep	1585	SLEEP		mā· yī́tsẹ	m aː + j iː t s e˞
+499789	532462	polyglottaafricana-Mende	mend1266		sleep	1585	SLEEP		ń·ge yī́	ŋ g e + j iː
+499819	532492	polyglottaafricana-Soninke	soni1259		sleep	1585	SLEEP		n·kẹ̄́n·kẹ	n k e˞ː n k e˞
+499823	532496	polyglottaafricana-Susu	susu1250		sleep	1585	SLEEP		ḿbada ṛḗ	m̩ b a d a + ɽ eː
+499824	532497	polyglottaafricana-Susu	susu1250		sleep	1585	SLEEP		n· kī́manẹ	n + k iː m a n e˞
+499825	532498	polyglottaafricana-Susu	susu1250		sleep	1585	SLEEP		ḿbada sá	m̩ b a d a + s a
+499838	532511	polyglottaafricana-Vai	vaii1241		sleep	1585	SLEEP		nā kíkẹ	n aː + k i k e˞
+502699	535373	hantganbangime-Jenaama	jena1242		small	1246	SMALL		dɛ̄gɛ̄_náwⁿ	d ɛ g ɛ + n a w̃
+503296	535970	polyglottaafricana-Bambara	bamb1269		small	1246	SMALL		a dóṛománẹ	a + d o ɽ o m a n e˞
+503300	535974	polyglottaafricana-Bandi	band1352		small	1246	SMALL		kúro	k u r o
+503307	535981	polyglottaafricana-Boko	boko1266		small	1246	SMALL		ā́ fede	aː + f e d e
+503356	536030	polyglottaafricana-Jalonke	yalu1240		small	1246	SMALL		dóṛọ	d o ɽ o˞
+503371	536045	polyglottaafricana-Kono	kono1268		small	1246	SMALL		á dō	a + d oː
+503375	536049	polyglottaafricana-KpelleGuinea	guin1254		small	1246	SMALL		gúro	g u r o
+503381	536055	polyglottaafricana-Loko	loko1255		small	1246	SMALL		kúrō	k u r oː
+503382	536056	polyglottaafricana-Loma	loma1260		small	1246	SMALL		pẹ́lẹ̄a	p e˞ l e˞ː a
+503385	536059	polyglottaafricana-Mandinka	mand1436		small	1246	SMALL		dóṛo	d o ɽ o
+503386	536060	polyglottaafricana-Mandinka	mand1436		small	1246	SMALL		dóṛo	d o ɽ o
+503387	536061	polyglottaafricana-Mandinka	mand1436		small	1246	SMALL		dọ̄́mane	d o˞ː m a n e
+503388	536062	polyglottaafricana-Mandinka	mand1436		small	1246	SMALL		fḗnẹ	f eː n e˞
+503391	536065	polyglottaafricana-ManinkaKankan	east2426		small	1246	SMALL		ā́ doṛọ	aː + d o ɽ o˞
+503395	536069	polyglottaafricana-ManoMann	mann1248		small	1246	SMALL		pẹi·	p e˞ i
+503402	536076	polyglottaafricana-Mende	mend1266		small	1246	SMALL		pọ́tẹ̄	p o˞ t e˞ː
+503434	536108	polyglottaafricana-Soninke	soni1259		small	1246	SMALL		a lemā́ne	a + l e m aː n e
+503435	536109	polyglottaafricana-Soninke	soni1259		small	1246	SMALL		a lọ́ṛọ	a + l o˞ ɽ o˞
+503439	536113	polyglottaafricana-Susu	susu1250		small	1246	SMALL		ā kū́rīna	aː + k uː r iː n a
+503440	536114	polyglottaafricana-Susu	susu1250		small	1246	SMALL		a kū́ru·	a + k uː r u
+503441	536115	polyglottaafricana-Susu	susu1250		small	1246	SMALL		dóndōnde	d o n d oː n d e
+503455	536129	polyglottaafricana-Vai	vaii1241		small	1246	SMALL		dọ̄	d o˞ː
+503456	536130	polyglottaafricana-Vai	vaii1241		small	1246	SMALL		dọ̄́ma	d o˞ː m a
+503457	536131	polyglottaafricana-Vai	vaii1241		small	1246	SMALL		den·	d e n
+503458	536132	polyglottaafricana-Vai	vaii1241		small	1246	SMALL		mẹ́sẹ	m e˞ s e˞
+507556	540232	polyglottaafricana-Bambara	bamb1269		smokeexhaust	778	SMOKE (EXHAUST)		ṣíṣi	ʂ i ʂ i
+507559	540235	polyglottaafricana-Bandi	band1352		smokeexhaust	778	SMOKE (EXHAUST)		ndū́ri	n d uː r i
+507566	540242	polyglottaafricana-Boko	boko1266		smokeexhaust	778	SMOKE (EXHAUST)		tasúgwa·	t a s u g w a
+507607	540283	polyglottaafricana-Jalonke	yalu1240		smokeexhaust	778	SMOKE (EXHAUST)		sísi	s i s i
+507622	540298	polyglottaafricana-Kono	kono1268		smokeexhaust	778	SMOKE (EXHAUST)		sísī	s i s iː
+507625	540301	polyglottaafricana-KpelleGuinea	guin1254		smokeexhaust	778	SMOKE (EXHAUST)		dúlu	d u l u
+507631	540307	polyglottaafricana-Loko	loko1255		smokeexhaust	778	SMOKE (EXHAUST)		ndū́ri	n d uː r i
+507632	540308	polyglottaafricana-Loma	loma1260		smokeexhaust	778	SMOKE (EXHAUST)		dū́li	d uː l i
+507634	540310	polyglottaafricana-Mandinka	mand1436		smokeexhaust	778	SMOKE (EXHAUST)		ṣíṣī	ʂ i ʂ iː
+507635	540311	polyglottaafricana-Mandinka	mand1436		smokeexhaust	778	SMOKE (EXHAUST)		ṣíṣī	ʂ i ʂ iː
+507636	540312	polyglottaafricana-Mandinka	mand1436		smokeexhaust	778	SMOKE (EXHAUST)		sísi	s i s i
+507638	540314	polyglottaafricana-ManinkaKankan	east2426		smokeexhaust	778	SMOKE (EXHAUST)		sísī	s i s iː
+507641	540317	polyglottaafricana-ManoMann	mann1248		smokeexhaust	778	SMOKE (EXHAUST)		tī́a· gbẹ̄́·	t iː a + gb e˞ː
+507648	540324	polyglottaafricana-Mende	mend1266		smokeexhaust	778	SMOKE (EXHAUST)		ndū́ri	n d uː r i
+507677	540353	polyglottaafricana-Soninke	soni1259		smokeexhaust	778	SMOKE (EXHAUST)		tī́dē	t iː d eː
+507681	540357	polyglottaafricana-Susu	susu1250		smokeexhaust	778	SMOKE (EXHAUST)		tū́tīna	t uː t iː n a
+507682	540358	polyglottaafricana-Susu	susu1250		smokeexhaust	778	SMOKE (EXHAUST)		tū́ri	t uː r i
+507683	540359	polyglottaafricana-Susu	susu1250		smokeexhaust	778	SMOKE (EXHAUST)		tẹ̄́fure	t e˞ː f u r e
+507697	540373	polyglottaafricana-Vai	vaii1241		smokeexhaust	778	SMOKE (EXHAUST)		sísī	s i s iː
+532181	564857	hantganbangime-Jenaama	jena1242		star	1430	STAR		tɔ́ɲɔ̄wⁿ	t ɔ ɲ ɔ w̃
+539263	571940	polyglottaafricana-Bambara	bamb1269		stone	857	STONE		kúrū	k u r uː
+539266	571943	polyglottaafricana-Bandi	band1352		stone	857	STONE		kọ́tui	k o˞ t u i
+539273	571950	polyglottaafricana-Boko	boko1266		stone	857	STONE		gbẹ́rẹ̄	gb e˞ r e˞ː
+539317	571994	polyglottaafricana-Jalonke	yalu1240		stone	857	STONE		kū́ru	k uː r u
+539332	572009	polyglottaafricana-Kono	kono1268		stone	857	STONE		sín·ẹ	s i n e˞
+539336	572013	polyglottaafricana-KpelleGuinea	guin1254		stone	857	STONE		kóni	k o n i
+539342	572019	polyglottaafricana-Loko	loko1255		stone	857	STONE		kọ́tu·	k o˞ t u
+539343	572020	polyglottaafricana-Loma	loma1260		stone	857	STONE		kót	k o t
+539346	572023	polyglottaafricana-Mandinka	mand1436		stone	857	STONE		kúrū	k u r uː
+539347	572024	polyglottaafricana-Mandinka	mand1436		stone	857	STONE		kúrū	k u r uː
+539348	572025	polyglottaafricana-Mandinka	mand1436		stone	857	STONE		kū́yu	k uː j u
+539350	572027	polyglottaafricana-ManinkaKankan	east2426		stone	857	STONE		kába	k a b a
+539353	572030	polyglottaafricana-ManoMann	mann1248		stone	857	STONE		gérẹ	g e r e˞
+539360	572037	polyglottaafricana-Mende	mend1266		stone	857	STONE		kọ́tu	k o˞ t u
+539390	572067	polyglottaafricana-Soninke	soni1259		stone	857	STONE		gídē	g i d eː
+539394	572071	polyglottaafricana-Susu	susu1250		stone	857	STONE		gẹ̄́mẹ	g e˞ː m e˞
+539395	572072	polyglottaafricana-Susu	susu1250		stone	857	STONE		gẹ́mei	g e˞ m e i
+539396	572073	polyglottaafricana-Susu	susu1250		stone	857	STONE		wúrēkṓbi	w u r eː k oː b i
+539410	572087	polyglottaafricana-Vai	vaii1241		stone	857	STONE		sen·	s e n
+548098	580775	hantganbangime-Jenaama	jena1242		sun	1343	SUN		kùgù_lɛ̄wⁿ	k u g u + l ɛ w̃
+548658	581335	polyglottaafricana-Bambara	bamb1269		sun	1343	SUN		télē	t e l eː
+548661	581338	polyglottaafricana-Bandi	band1352		sun	1343	SUN		fúlo	f u l o
+548668	581345	polyglottaafricana-Boko	boko1266		sun	1343	SUN		uṣántẹ	u ʂ a n t e˞
+548715	581392	polyglottaafricana-Jalonke	yalu1240		sun	1343	SUN		téle	t e l e
+548731	581408	polyglottaafricana-Kono	kono1268		sun	1343	SUN		téle	t e l e
+548736	581413	polyglottaafricana-KpelleGuinea	guin1254		sun	1343	SUN		fúro	f u r o
+548742	581419	polyglottaafricana-Loko	loko1255		sun	1343	SUN		fólo	f o l o
+548743	581420	polyglottaafricana-Loma	loma1260		sun	1343	SUN		fúro	f u r o
+548745	581422	polyglottaafricana-Mandinka	mand1436		sun	1343	SUN		télē	t e l eː
+548746	581423	polyglottaafricana-Mandinka	mand1436		sun	1343	SUN		télē	t e l eː
+548747	581424	polyglottaafricana-Mandinka	mand1436		sun	1343	SUN		tḗye	t eː j e
+548749	581426	polyglottaafricana-ManinkaKankan	east2426		sun	1343	SUN		télē	t e l eː
+548752	581429	polyglottaafricana-ManoMann	mann1248		sun	1343	SUN		n·írẹ	n i r e˞
+548759	581436	polyglottaafricana-Mende	mend1266		sun	1343	SUN		fúro	f u r o
+548792	581469	polyglottaafricana-Soninke	soni1259		sun	1343	SUN		kíē	k i eː
+548796	581473	polyglottaafricana-Susu	susu1250		sun	1343	SUN		ṣóṛẹ̄na	ʂ o ɽ e˞ː n a
+548797	581474	polyglottaafricana-Susu	susu1250		sun	1343	SUN		sṓgei	s oː g e i
+548798	581475	polyglottaafricana-Susu	susu1250		sun	1343	SUN		nán·gẹ	n a n g e˞
+548811	581488	polyglottaafricana-Vai	vaii1241		sun	1343	SUN		téle	t e l e
+557597	590274	hantganbangime-Jenaama	jena1242		tail	1220	TAIL		píyɛ̄	p i j ɛ
+596162	628849	hantganbangime-Jenaama	jena1242		tongue	1205	TONGUE		ɲɛ̀lɛ̄wⁿ	ɲ ɛ l ɛ w̃
+596704	629391	polyglottaafricana-Bambara	bamb1269		tongue	1205	TONGUE		nẹ̄n	n e˞ː n
+596707	629394	polyglottaafricana-Bandi	band1352		tongue	1205	TONGUE		nẹ́n·gi	n e˞ ŋ g i
+596714	629401	polyglottaafricana-Boko	boko1266		tongue	1205	TONGUE		nínẹ	n i n e˞
+596756	629443	polyglottaafricana-Jalonke	yalu1240		tongue	1205	TONGUE		nẹ́n·	n e˞ ŋ
+596771	629458	polyglottaafricana-Kono	kono1268		tongue	1205	TONGUE		nẹ̄́nen·ẹ	n e˞ː n e n e˞
+596775	629462	polyglottaafricana-KpelleGuinea	guin1254		tongue	1205	TONGUE		nẹn·	n e˞ n
+596781	629468	polyglottaafricana-Loko	loko1255		tongue	1205	TONGUE		nẹ̄	n e˞ː
+596782	629469	polyglottaafricana-Loma	loma1260		tongue	1205	TONGUE		nẹ	n e˞
+596784	629471	polyglottaafricana-Mandinka	mand1436		tongue	1205	TONGUE		nẹ́ọu·	n e˞ o˞ u
+596785	629472	polyglottaafricana-Mandinka	mand1436		tongue	1205	TONGUE		nẹ́ọu·	n e˞ o˞ u
+596786	629473	polyglottaafricana-Mandinka	mand1436		tongue	1205	TONGUE		nyẹ̄́	n j e˞ː
+596788	629475	polyglottaafricana-ManinkaKankan	east2426		tongue	1205	TONGUE		nẹ̄n·	n e˞ː n
+596791	629478	polyglottaafricana-ManoMann	mann1248		tongue	1205	TONGUE		nā	n aː
+596798	629485	polyglottaafricana-Mende	mend1266		tongue	1205	TONGUE		nẹ̄	n e˞ː
+596829	629516	polyglottaafricana-Soninke	soni1259		tongue	1205	TONGUE		nẹ̄́ne	n e˞ː n e
+596833	629520	polyglottaafricana-Susu	susu1250		tongue	1205	TONGUE		lẹ́nna	l e˞ n n a
+596834	629521	polyglottaafricana-Susu	susu1250		tongue	1205	TONGUE		nẹ̄́nyi	n e˞ː n j i
+596835	629522	polyglottaafricana-Susu	susu1250		tongue	1205	TONGUE		nẹ	n e˞
+596848	629535	polyglottaafricana-Vai	vaii1241		tongue	1205	TONGUE		nẹ	n e˞
+598340	631027	hantganbangime-Jenaama	jena1242		tooth	1380	TOOTH		ɲī	ɲ i
+598877	631564	polyglottaafricana-Bambara	bamb1269		tooth	1380	TOOTH		ínyi	i n j i
+598878	631565	polyglottaafricana-Bambara	bamb1269		tooth	1380	TOOTH		nyi	n j i
+598881	631568	polyglottaafricana-Bandi	band1352		tooth	1380	TOOTH		ndā́-n·gọlu	n d aː + n g o˞ l u
+598888	631575	polyglottaafricana-Boko	boko1266		tooth	1380	TOOTH		zóā	z o aː
+598931	631618	polyglottaafricana-Jalonke	yalu1240		tooth	1380	TOOTH		nyí	n j i
+598946	631633	polyglottaafricana-Kono	kono1268		tooth	1380	TOOTH		n·írẹ	n i r e˞
+598950	631637	polyglottaafricana-KpelleGuinea	guin1254		tooth	1380	TOOTH		nyín·	n j i n
+598956	631643	polyglottaafricana-Loko	loko1255		tooth	1380	TOOTH		n·gọ́n·gọu	n g o˞ ŋ g o˞ u
+598957	631644	polyglottaafricana-Loma	loma1260		tooth	1380	TOOTH		nī́ga	n iː g a
+598959	631646	polyglottaafricana-Mandinka	mand1436		tooth	1380	TOOTH		nyí	n j i
+598960	631647	polyglottaafricana-Mandinka	mand1436		tooth	1380	TOOTH		nyí	n j i
+598961	631648	polyglottaafricana-Mandinka	mand1436		tooth	1380	TOOTH		nyī́·	n j iː
+598963	631650	polyglottaafricana-ManinkaKankan	east2426		tooth	1380	TOOTH		nyī́·	n j iː
+598966	631653	polyglottaafricana-ManoMann	mann1248		tooth	1380	TOOTH		sō·	s oː
+598973	631660	polyglottaafricana-Mende	mend1266		tooth	1380	TOOTH		n·gọ́n·gọ̄ru	n g o˞ ŋ g o˞ː r u
+599003	631690	polyglottaafricana-Soninke	soni1259		tooth	1380	TOOTH		kámbe	k a m b e
+599007	631694	polyglottaafricana-Susu	susu1250		tooth	1380	TOOTH		nyín·	n j i n
+599008	631695	polyglottaafricana-Susu	susu1250		tooth	1380	TOOTH		nyī́ndṣi	n j iː n ɖʐ i
+599009	631696	polyglottaafricana-Susu	susu1250		tooth	1380	TOOTH		nyī́nyi	n j iː n j i
+599010	631697	polyglottaafricana-Susu	susu1250		tooth	1380	TOOTH		nyī́nye	n j iː n j e
+599025	631712	polyglottaafricana-Vai	vaii1241		tooth	1380	TOOTH		nyín·	n j i n
+602744	635431	hantganbangime-Jenaama	jena1242		tree	906	TREE		jūgū-náⁿ	dʒ u g u + n ã
+603302	635989	polyglottaafricana-Bambara	bamb1269		tree	906	TREE		kórōman·	k o r oː m a n
+603305	635992	polyglottaafricana-Bandi	band1352		tree	906	TREE		n·gúrī	n g u r iː
+603312	635999	polyglottaafricana-Boko	boko1266		tree	906	TREE		li	l i
+603357	636044	polyglottaafricana-Jalonke	yalu1240		tree	906	TREE		lọ́ṛọ	l o˞ ɽ o˞
+603373	636060	polyglottaafricana-Kono	kono1268		tree	906	TREE		kón·ẹ	k o n e˞
+603378	636065	polyglottaafricana-KpelleGuinea	guin1254		tree	906	TREE		ū́ru	uː r u
+603384	636071	polyglottaafricana-Loko	loko1255		tree	906	TREE		n·gúru	n g u r u
+603385	636072	polyglottaafricana-Loma	loma1260		tree	906	TREE		gúru	g u r u
+603388	636075	polyglottaafricana-Mandinka	mand1436		tree	906	TREE		kólōma	k o l oː m a
+603389	636076	polyglottaafricana-Mandinka	mand1436		tree	906	TREE		kólōma	k o l oː m a
+603390	636077	polyglottaafricana-Mandinka	mand1436		tree	906	TREE		yī́yi	j iː j i
+603392	636079	polyglottaafricana-ManinkaKankan	east2426		tree	906	TREE		lọ́ṛọ	l o˞ ɽ o˞
+603395	636082	polyglottaafricana-ManoMann	mann1248		tree	906	TREE		yī́ri	j iː r i
+603402	636089	polyglottaafricana-Mende	mend1266		tree	906	TREE		n·gúru	n g u r u
+603432	636119	polyglottaafricana-Soninke	soni1259		tree	906	TREE		yī́tẹ	j iː t e˞
+603436	636123	polyglottaafricana-Susu	susu1250		tree	906	TREE		wū́di	w uː d i
+603437	636124	polyglottaafricana-Susu	susu1250		tree	906	TREE		wū́ri	w uː r i
+603438	636125	polyglottaafricana-Susu	susu1250		tree	906	TREE		téwūri	t e w uː r i
+603439	636126	polyglottaafricana-Susu	susu1250		tree	906	TREE		bo	b o
+603453	636140	polyglottaafricana-Vai	vaii1241		tree	906	TREE		kọn·	k o˞ n
+611236	643923	hantganbangime-Jenaama	jena1242		two	1498	TWO		pēndē	p e n d e
+611777	644464	polyglottaafricana-Bambara	bamb1269		two	1498	TWO		fíla	f i l a
+611780	644467	polyglottaafricana-Bandi	band1352		two	1498	TWO		fḗle	f eː l e
+611787	644474	polyglottaafricana-Boko	boko1266		two	1498	TWO		plā́	p l aː
+611831	644518	polyglottaafricana-Jalonke	yalu1240		two	1498	TWO		fíla	f i l a
+611847	644534	polyglottaafricana-Kono	kono1268		two	1498	TWO		féla	f e l a
+611851	644538	polyglottaafricana-KpelleGuinea	guin1254		two	1498	TWO		pfḗrẹ	p f eː r e˞
+611857	644544	polyglottaafricana-Loko	loko1255		two	1498	TWO		félē	f e l eː
+611858	644545	polyglottaafricana-Loma	loma1260		two	1498	TWO		fḗle	f eː l e
+611860	644547	polyglottaafricana-Mandinka	mand1436		two	1498	TWO		fíla	f i l a
+611861	644548	polyglottaafricana-Mandinka	mand1436		two	1498	TWO		fíla	f i l a
+611862	644549	polyglottaafricana-Mandinka	mand1436		two	1498	TWO		fíla	f i l a
+611864	644551	polyglottaafricana-ManinkaKankan	east2426		two	1498	TWO		fíla	f i l a
+611867	644554	polyglottaafricana-ManoMann	mann1248		two	1498	TWO		pḗrẹ	p eː r e˞
+611874	644561	polyglottaafricana-Mende	mend1266		two	1498	TWO		féle	f e l e
+611905	644592	polyglottaafricana-Soninke	soni1259		two	1498	TWO		fíllo	f i l l o
+611910	644597	polyglottaafricana-Susu	susu1250		two	1498	TWO		fírin·	f i r i n
+611911	644598	polyglottaafricana-Susu	susu1250		two	1498	TWO		fírin·	f i r i n
+611912	644599	polyglottaafricana-Susu	susu1250		two	1498	TWO		fírin·	f i r i n
+611925	644612	polyglottaafricana-Vai	vaii1241		two	1498	TWO		féla	f e l a
+627089	679750	hantganbangime-Jenaama	jena1242		white	1335	WHITE		kūwōŋ	k u w o ŋ
+627651	680312	polyglottaafricana-Bambara	bamb1269		white	1335	WHITE		gbẹ̄́ma	gb e˞ː m a
+627654	680315	polyglottaafricana-Bandi	band1352		white	1335	WHITE		kúlẹ̄n·gọ	k u l e˞ː n g o˞
+627661	680322	polyglottaafricana-Boko	boko1266		white	1335	WHITE		ā́ pura	aː + p u r a
+627706	680367	polyglottaafricana-Jalonke	yalu1240		white	1335	WHITE		gbḗma	gb eː m a
+627721	680382	polyglottaafricana-Kono	kono1268		white	1335	WHITE		á gbẹ	a + gb e˞
+627726	680387	polyglottaafricana-KpelleGuinea	guin1254		white	1335	WHITE		gúlẹ̄	g u l e˞ː
+627732	680393	polyglottaafricana-Loko	loko1255		white	1335	WHITE		kúlẹ̄ọ	k u l e˞ː o˞
+627733	680394	polyglottaafricana-Loma	loma1260		white	1335	WHITE		kúlẹa	k u l e˞ a
+627735	680396	polyglottaafricana-Mandinka	mand1436		white	1335	WHITE		gbẹ̄́le	gb e˞ː l e
+627736	680397	polyglottaafricana-Mandinka	mand1436		white	1335	WHITE		gbẹ̄ma	gb e˞ː m a
+627737	680398	polyglottaafricana-Mandinka	mand1436		white	1335	WHITE		gbẹ̄́le	gb e˞ː l e
+627738	680399	polyglottaafricana-Mandinka	mand1436		white	1335	WHITE		gbẹ̄ma	gb e˞ː m a
+627739	680400	polyglottaafricana-Mandinka	mand1436		white	1335	WHITE		gbẹ̄́ma	gb e˞ː m a
+627741	680402	polyglottaafricana-ManinkaKankan	east2426		white	1335	WHITE		a gbẹ̄́ma	a + gb e˞ː m a
+627744	680405	polyglottaafricana-ManoMann	mann1248		white	1335	WHITE		páuru	p a u r u
+627751	680412	polyglottaafricana-Mende	mend1266		white	1335	WHITE		kúlín·gọ	k u l i n g o˞
+627783	680444	polyglottaafricana-Soninke	soni1259		white	1335	WHITE		ā ḥúlẹ	aː + ɦ u l e˞
+627787	680448	polyglottaafricana-Susu	susu1250		white	1335	WHITE		ā fúdigbē	aː + f u d i gb eː
+627788	680449	polyglottaafricana-Susu	susu1250		white	1335	WHITE		yā́magbē	j aː m a gb eː
+627789	680450	polyglottaafricana-Susu	susu1250		white	1335	WHITE		a fī́ṛẹ	a + f iː ɽ e˞
+627790	680451	polyglottaafricana-Susu	susu1250		white	1335	WHITE		sēfī́ṛẹ	s eː f iː ɽ e˞
+627804	680465	polyglottaafricana-Vai	vaii1241		white	1335	WHITE		gbẹ̄́ma	gb e˞ː m a
+639927	692682	hantganbangime-Jenaama	jena1242		woman	962	WOMAN		yùgòⁿ	j u g õ
+640499	693254	polyglottaafricana-Bambara	bamb1269		woman	962	WOMAN		múṣō	m u ʂ oː
+640502	693257	polyglottaafricana-Bandi	band1352		woman	962	WOMAN		nyáhana	n j a h a n a
+640509	693264	polyglottaafricana-Boko	boko1266		woman	962	WOMAN		nō·	n oː
+640555	693310	polyglottaafricana-Jalonke	yalu1240		woman	962	WOMAN		músū	m u s uː
+640571	693326	polyglottaafricana-Kono	kono1268		woman	962	WOMAN		músu	m u s u
+640575	693330	polyglottaafricana-KpelleGuinea	guin1254		woman	962	WOMAN		nẹ̄́nu	n e˞ː n u
+640581	693336	polyglottaafricana-Loko	loko1255		woman	962	WOMAN		nyáha·	n j a h a
+640582	693337	polyglottaafricana-Loma	loma1260		woman	962	WOMAN		ásōnu	a s oː n u
+640584	693339	polyglottaafricana-Mandinka	mand1436		woman	962	WOMAN		múso	m u s o
+640585	693340	polyglottaafricana-Mandinka	mand1436		woman	962	WOMAN		múso	m u s o
+640586	693341	polyglottaafricana-Mandinka	mand1436		woman	962	WOMAN		múṣō	m u ʂ oː
+640588	693343	polyglottaafricana-ManinkaKankan	east2426		woman	962	WOMAN		músō	m u s oː
+640591	693346	polyglottaafricana-ManoMann	mann1248		woman	962	WOMAN		dē	d eː
+640598	693353	polyglottaafricana-Mende	mend1266		woman	962	WOMAN		nyáha	n j a h a
+640630	693385	polyglottaafricana-Soninke	soni1259		woman	962	WOMAN		yáḥārẹ	j a ɦ aː r e˞
+640634	693389	polyglottaafricana-Susu	susu1250		woman	962	WOMAN		nyáṛāla	n j a ɽ aː l a
+640635	693390	polyglottaafricana-Susu	susu1250		woman	962	WOMAN		gínei	g i n e i
+640636	693391	polyglottaafricana-Susu	susu1250		woman	962	WOMAN		gíne	g i n e
+640649	693404	polyglottaafricana-Vai	vaii1241		woman	962	WOMAN		músu	m u s u

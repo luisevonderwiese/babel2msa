@@ -1,0 +1,82 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+8923	25074	johanssonsoundsymbolic-Rumu	rumu1243		bark	1204	BARK		kɑmɑn̪i	k ɑ m ɑ n̪ i
+22968	39119	johanssonsoundsymbolic-Rumu	rumu1243		belly	1251	BELLY		jɔ	j ɔ
+28012	44163	johanssonsoundsymbolic-Rumu	rumu1243		big	1202	BIG		wɔwɔpi	w ɔ w ɔ p i
+30388	46539	johanssonsoundsymbolic-Rumu	rumu1243		bird	937	BIRD		kɑ	k ɑ
+32745	48896	johanssonsoundsymbolic-Rumu	rumu1243		bite	1403	BITE		t̪ekekɑ	t̪ e k e k ɑ
+35359	51510	johanssonsoundsymbolic-Rumu	rumu1243		black	163	BLACK		kɛihɔpuɾi	k ɛ i h ɔ p u ɾ i
+38772	54923	johanssonsoundsymbolic-Rumu	rumu1243		blood	946	BLOOD		hɔkɔɾɛ	h ɔ k ɔ ɾ ɛ
+46995	63146	johanssonsoundsymbolic-Rumu	rumu1243		bone	1394	BONE		ɾɑpo	ɾ ɑ p o
+57080	73233	johanssonsoundsymbolic-Rumu	rumu1243		breast	1402	BREAST		n̪o	n̪ o
+64550	80703	johanssonsoundsymbolic-Rumu	rumu1243		burn	2102	BURN		hɑn̪ɑ_n̪ɑn̪ɑ	h ɑ n̪ ɑ + n̪ ɑ n̪ ɑ
+91688	107841	johanssonsoundsymbolic-Rumu	rumu1243		cloud	1489	CLOUD		oɾo	o ɾ o
+95272	111425	johanssonsoundsymbolic-Rumu	rumu1243		cold	1287	COLD		hɑhɑu	h ɑ h ɑ u
+98936	115089	johanssonsoundsymbolic-Rumu	rumu1243		come	1446	COME		jɑɾɑ	j ɑ ɾ ɑ
+127160	143315	johanssonsoundsymbolic-Rumu	rumu1243		die	1494	DIE		kɑhekɑ	k ɑ h e k ɑ
+135709	151864	johanssonsoundsymbolic-Rumu	rumu1243		dog	2009	DOG		kɑ	k ɑ
+142178	158333	johanssonsoundsymbolic-Rumu	rumu1243		drink	1401	DRINK		un̪ɑn̪ɑ	u n̪ ɑ n̪ ɑ
+145813	161968	johanssonsoundsymbolic-Rumu	rumu1243		dry	1398	DRY		wɑɾe	w ɑ ɾ e
+151254	167409	johanssonsoundsymbolic-Rumu	rumu1243		ear	1247	EAR		ko	k o
+154173	170328	johanssonsoundsymbolic-Rumu	rumu1243		earthsoil	1228	EARTH (SOIL)		pɛkɛmɑt̪u	p ɛ k ɛ m ɑ t̪ u
+156777	172932	johanssonsoundsymbolic-Rumu	rumu1243		eat	1336	EAT		ɾo_n̪ɑn̪ɑ	ɾ o + n̪ ɑ n̪ ɑ
+159083	175241	johanssonsoundsymbolic-Rumu	rumu1243		egg	744	EGG		ɾɛ	ɾ ɛ
+169657	185815	johanssonsoundsymbolic-Rumu	rumu1243		eye	1248	EYE		ihi	i h i
+182132	198292	johanssonsoundsymbolic-Rumu	rumu1243		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		hɑku	h ɑ k u
+184978	201138	johanssonsoundsymbolic-Rumu	rumu1243		feather	1201	FEATHER		kɑpɑt̪e	k ɑ p ɑ t̪ e
+192929	225582	johanssonsoundsymbolic-Rumu	rumu1243		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		kɑn̪ɑho	k ɑ n̪ ɑ h o
+196255	228908	johanssonsoundsymbolic-Rumu	rumu1243		foot	1301	FOOT		pipi	p i p i
+209344	241997	johanssonsoundsymbolic-Rumu	rumu1243		full	1429	FULL		kɑt̪ɑhɑ_mɑɑkɑ	k ɑ t̪ ɑ h ɑ + m ɑː k ɑ
+214685	247338	johanssonsoundsymbolic-Rumu	rumu1243		give	1447	GIVE		t̪ɑɾɑ	t̪ ɑ ɾ ɑ
+220815	253471	johanssonsoundsymbolic-Rumu	rumu1243		good	1035	GOOD		kɑho	k ɑ h o
+228598	261254	johanssonsoundsymbolic-Rumu	rumu1243		green	1425	GREEN		hekehɛit̪ɑu	h e k e h ɛ i t̪ ɑ u
+234615	267271	johanssonsoundsymbolic-Rumu	rumu1243		hair	1040	HAIR		wɔt̪u_pɑt̪e	w ɔ t̪ u + p ɑ t̪ e
+238459	271115	johanssonsoundsymbolic-Rumu	rumu1243		hand	1277	HAND		he	h e
+244013	276670	johanssonsoundsymbolic-Rumu	rumu1243		head	1256	HEAD		wɔt̪u	w ɔ t̪ u
+246948	279605	johanssonsoundsymbolic-Rumu	rumu1243		hear	1408	HEAR		wɑɾɑ	w ɑ ɾ ɑ
+248539	281196	johanssonsoundsymbolic-Rumu	rumu1243		heart	1223	HEART		kɑmɑu	k ɑ m ɑ u
+263402	296062	johanssonsoundsymbolic-Rumu	rumu1243		hornanatomy	1393	HORN (ANATOMY)		ɛkɛmu	ɛ k ɛ m u
+274763	307423	johanssonsoundsymbolic-Rumu	rumu1243		i	1209	I		ɛn̪ɛ	ɛ n̪ ɛ
+287605	320265	johanssonsoundsymbolic-Rumu	rumu1243		kill	1417	KILL		ɾɑkɑ	ɾ ɑ k ɑ
+290283	322943	johanssonsoundsymbolic-Rumu	rumu1243		knee	1371	KNEE		mɔkɔu	m ɔ k ɔ u
+302241	334901	johanssonsoundsymbolic-Rumu	rumu1243		leaf	628	LEAF		pɑt̪e	p ɑ t̪ e
+317007	349667	johanssonsoundsymbolic-Rumu	rumu1243		liver	1224	LIVER		upi	u p i
+319902	352562	johanssonsoundsymbolic-Rumu	rumu1243		long	1203	LONG		hɑpo	h ɑ p o
+323544	356204	johanssonsoundsymbolic-Rumu	rumu1243		louse	1392	LOUSE		emen̪e	e m e n̪ e
+330518	363179	johanssonsoundsymbolic-Rumu	rumu1243		man	1554	MAN		uki	u k i
+332340	365001	johanssonsoundsymbolic-Rumu	rumu1243		many	1198	MANY		t̪ɑn̪i	t̪ ɑ n̪ i
+344511	377172	johanssonsoundsymbolic-Rumu	rumu1243		moon	1313	MOON		kɔɑi	k ɔ ɑ i
+350979	383643	johanssonsoundsymbolic-Rumu	rumu1243		mountain	639	MOUNTAIN		ɑkɑpu	ɑ k ɑ p u
+353494	386158	johanssonsoundsymbolic-Rumu	rumu1243		mouth	674	MOUTH		mɔ	m ɔ
+358513	391177	johanssonsoundsymbolic-Rumu	rumu1243		name	1405	NAME		en̪en̪e	e n̪ e n̪ e
+364798	397465	johanssonsoundsymbolic-Rumu	rumu1243		neck	1333	NECK		hipu	h i p u
+368855	401522	johanssonsoundsymbolic-Rumu	rumu1243		new	1231	NEW		kɑhi	k ɑ h i
+371636	404303	johanssonsoundsymbolic-Rumu	rumu1243		night	1233	NIGHT		ɾihɔ	ɾ i h ɔ
+377455	410122	johanssonsoundsymbolic-Rumu	rumu1243		nose	1221	NOSE		muɾi	m u ɾ i
+379042	411709	johanssonsoundsymbolic-Rumu	rumu1243		not	1240	NOT		mɔi_pɔ	m ɔ i + p ɔ
+389753	422420	johanssonsoundsymbolic-Rumu	rumu1243		one	1493	ONE		ɾɛiɑpɑi	ɾ ɛ i ɑ p ɑ i
+406264	438931	johanssonsoundsymbolic-Rumu	rumu1243		person	683	PERSON		wɑme	w ɑ m e
+432539	465207	johanssonsoundsymbolic-Rumu	rumu1243		red	156	RED		hɔkɔɾɛ	h ɔ k ɔ ɾ ɛ
+444479	477148	johanssonsoundsymbolic-Rumu	rumu1243		root	670	ROOT		iɾui	i ɾ u i
+456437	489106	johanssonsoundsymbolic-Rumu	rumu1243		sand	671	SAND		wiɔ	w i ɔ
+459406	492075	johanssonsoundsymbolic-Rumu	rumu1243		say	1458	SAY		kɛkɑ	k ɛ k ɑ
+465155	497825	johanssonsoundsymbolic-Rumu	rumu1243		see	1409	SEE		wɑhekɑ	w ɑ h e k ɑ
+466709	499379	johanssonsoundsymbolic-Rumu	rumu1243		seed	714	SEED		kɔwɛ	k ɔ w ɛ
+490599	523271	johanssonsoundsymbolic-Rumu	rumu1243		sit	1416	SIT		mɑkɑ	m ɑ k ɑ
+494707	527379	johanssonsoundsymbolic-Rumu	rumu1243		skin	763	SKIN		hɛi	h ɛ i
+499351	532023	johanssonsoundsymbolic-Rumu	rumu1243		sleep	1585	SLEEP		hit̪ɑkɑ	h i t̪ ɑ k ɑ
+502934	535608	johanssonsoundsymbolic-Rumu	rumu1243		small	1246	SMALL		hi	h i
+507254	539930	johanssonsoundsymbolic-Rumu	rumu1243		smokeexhaust	778	SMOKE (EXHAUST)		hoko_n̪ɑn̪ɑ	h o k o + n̪ ɑ n̪ ɑ
+530133	562809	johanssonsoundsymbolic-Rumu	rumu1243		stand	1442	STAND		ɾɑ	ɾ ɑ
+532390	565066	johanssonsoundsymbolic-Rumu	rumu1243		star	1430	STAR		isu	i s u
+538936	571613	johanssonsoundsymbolic-Rumu	rumu1243		stone	857	STONE		kɔeɔ	k ɔ e ɔ
+555348	588025	johanssonsoundsymbolic-Rumu	rumu1243		swim	1439	SWIM		heɛɾɑɾi_wɑɾɑ	h e ɛ ɾ ɑ ɾ i + w ɑ ɾ ɑ
+557806	590483	johanssonsoundsymbolic-Rumu	rumu1243		tail	1220	TAIL		t̪uɾɑ	t̪ u ɾ ɑ
+567193	599872	johanssonsoundsymbolic-Rumu	rumu1243		that	78	THAT		ɔkɔ	ɔ k ɔ
+578280	610959	johanssonsoundsymbolic-Rumu	rumu1243		this	1214	THIS		ɛɾɛ	ɛ ɾ ɛ
+580476	613159	johanssonsoundsymbolic-Rumu	rumu1243		thou	1215	THOU		iki	i k i
+596371	629058	johanssonsoundsymbolic-Rumu	rumu1243		tongue	1205	TONGUE		oho	o h o
+598548	631235	johanssonsoundsymbolic-Rumu	rumu1243		tooth	1380	TOOTH		mɑku	m ɑ k u
+602950	635637	johanssonsoundsymbolic-Rumu	rumu1243		tree	906	TREE		i	i
+611459	644146	johanssonsoundsymbolic-Rumu	rumu1243		two	1498	TWO		t̪ɑi_t̪ɑi	t̪ ɑ i + t̪ ɑ i
+627308	679969	johanssonsoundsymbolic-Rumu	rumu1243		white	1335	WHITE		pɑɾuhɔ	p ɑ ɾ u h ɔ
+640158	692913	johanssonsoundsymbolic-Rumu	rumu1243		woman	962	WOMAN		wɔ_wɑmimi	w ɔ + w ɑ m i m i

@@ -1,0 +1,647 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+490	16641	hubercolumbian-Kakua	cacu1241		at	1461	AT		bãʔ⁴	b ã ʔ
+491	16642	hubercolumbian-Kakua	cacu1241		at	1461	AT		diʔ⁴	d i ʔ
+499	16650	hubercolumbian-Nukak	nuka1242		at	1461	AT		liʔ¹	l i ʔ
+2184	18335	hubercolumbian-Kakua	cacu1241		axe	677	AXE		ʧãc⁴ daʔ⁴	tʃ ã c + d a ʔ
+2190	18341	hubercolumbian-Nukak	nuka1242		axe	677	AXE		ʔɛʔ⁴niʔ⁴	ʔ ɛ ʔ n i ʔ
+2789	18940	hubercolumbian-Kakua	cacu1241		baby	1289	BABY		webit¹	w e b i t
+2796	18947	hubercolumbian-Nukak	nuka1242		baby	1289	BABY		wɛʔ⁴	w ɛ ʔ
+3819	19970	hubercolumbian-Kakua	cacu1241		back	1291	BACK		tãʔ²	t ã ʔ
+3825	19976	hubercolumbian-Nukak	nuka1242		back	1291	BACK		kolibaʔ⁴	k o l i b a ʔ
+4922	21073	hubercolumbian-Kakua	cacu1241		bad	1292	BAD		ti̵i²kãd⁴dĩ⁴	t ɨ i k ã d d ĩ
+4923	21074	hubercolumbian-Kakua	cacu1241		bad	1292	BAD		jch²	j c h
+4930	21081	hubercolumbian-Nukak	nuka1242		bad	1292	BAD		jee³	j eː
+8476	24627	hubercolumbian-Kakua	cacu1241		banisterium	276	BANISTERIUM		kapi⁴	k a p i
+8769	24920	hubercolumbian-Kakua	cacu1241		bark	1204	BARK		bã² ʧo²	b ã + tʃ o
+8776	24927	hubercolumbian-Nukak	nuka1242		bark	1204	BARK		ti̵⁴naʔ⁴ ni̵i³	t ɨ n a ʔ + n ɨ i
+10507	26658	hubercolumbian-Kakua	cacu1241		bat	1793	BAT		dĩ̵wʔ⁴	d ɨ̃ w ʔ
+10513	26664	hubercolumbian-Nukak	nuka1242		bat	1793	BAT		nĩ̵ũʔ⁴	n ɨ̃ ũ ʔ
+12905	29056	hubercolumbian-Kakua	cacu1241		bealive	1422	BE ALIVE		badʔ²dĩ⁴	b a d ʔ d ĩ
+12913	29064	hubercolumbian-Nukak	nuka1242		bealive	1422	BE ALIVE		haa³	h aː
+15117	31268	hubercolumbian-Kakua	cacu1241		beard	678	BEARD		hak⁴ jok³	h a k + j o k
+15123	31274	hubercolumbian-Nukak	nuka1242		beard	678	BEARD		mãũ²pa⁴ ʧẽĩ³	m ã ũ p a + tʃ ẽ ĩ
+17148	33299	hubercolumbian-Kakua	cacu1241		bed	1663	BED		kajaʔ²	k a j a ʔ
+17154	33305	hubercolumbian-Nukak	nuka1242		bed	1663	BED		ɲah⁴at¹	ɲ a h a t
+18551	34702	hubercolumbian-Kakua	cacu1241		bee	665	BEE		belo⁴	b e l o
+18558	34709	hubercolumbian-Nukak	nuka1242		bee	665	BEE		ʔewe⁴	ʔ e w e
+22758	38909	hubercolumbian-Kakua	cacu1241		belly	1251	BELLY		jab⁴ waw³	j a b + w a w
+22759	38910	hubercolumbian-Kakua	cacu1241		belly	1251	BELLY		jab⁴ waw³	j a b + w a w
+22771	38922	hubercolumbian-Nukak	nuka1242		belly	1251	BELLY		ʧi̵ka⁴	tʃ ɨ k a
+22772	38923	hubercolumbian-Nukak	nuka1242		belly	1251	BELLY		ʧi̵ka⁴	tʃ ɨ k a
+27834	43985	hubercolumbian-Kakua	cacu1241		big	1202	BIG		bi̵di¹	b ɨ d i
+27835	43986	hubercolumbian-Kakua	cacu1241		big	1202	BIG		daʔwa⁴dĩ⁴	d a ʔ w a d ĩ
+27843	43994	hubercolumbian-Nukak	nuka1242		big	1202	BIG		niʔ⁴	n i ʔ
+30228	46379	hubercolumbian-Kakua	cacu1241		bird	937	BIRD		ɸebeʔ²	ɸ e b e ʔ
+30234	46385	hubercolumbian-Nukak	nuka1242		bird	937	BIRD		ni̵¹ji̵putu⁴	n ɨ j ɨ p u t u
+32586	48737	hubercolumbian-Kakua	cacu1241		bite	1403	BITE		ʧãk³	tʃ ã k
+32592	48743	hubercolumbian-Nukak	nuka1242		bite	1403	BITE		ʧããk²	tʃ ã ã k
+35190	51341	hubercolumbian-Kakua	cacu1241		black	163	BLACK		ʔej⁴dĩ⁴	ʔ e j d ĩ
+35197	51348	hubercolumbian-Nukak	nuka1242		black	163	BLACK		hɛ̃lẽ⁴	h ɛ̃ l ẽ
+38602	54753	hubercolumbian-Kakua	cacu1241		blood	946	BLOOD		bẽp³	b ẽ p
+38608	54759	hubercolumbian-Nukak	nuka1242		blood	946	BLOOD		mɛʔɛp²	m ɛ ʔ ɛ p
+40045	56196	hubercolumbian-Kakua	cacu1241		blowgun	432	BLOWGUN		ʔi̵ʔ³ dãʔ⁴	ʔ ɨ ʔ + d ã ʔ
+40050	56201	hubercolumbian-Nukak	nuka1242		blowgun	432	BLOWGUN		ʔi̵i̵ʔ²	ʔ ɨ ɨ ʔ
+40808	56959	hubercolumbian-Kakua	cacu1241		blowofwind	175	BLOW (OF WIND)		poh²	p o h
+40820	56971	hubercolumbian-Nukak	nuka1242		blowofwind	175	BLOW (OF WIND)		hei²	h e i
+43038	59189	hubercolumbian-Kakua	cacu1241		blunt	379	BLUNT		ʔeʔ⁴kãd⁴dĩ⁴	ʔ e ʔ k ã d d ĩ
+43045	59196	hubercolumbian-Nukak	nuka1242		blunt	379	BLUNT		ʔɛʔ⁴ka¹	ʔ ɛ ʔ k a
+46832	62983	hubercolumbian-Kakua	cacu1241		bone	1394	BONE		ʔidip³ dãʔ⁴	ʔ i d i p + d ã ʔ
+46839	62990	hubercolumbian-Nukak	nuka1242		bone	1394	BONE		mik¹wɛ̃p⁴at¹	m i k w ɛ̃ p a t
+49872	66023	hubercolumbian-Kakua	cacu1241		boulder	3810	BOULDER		he³ daʔ⁴dã⁴	h e + d a ʔ d ã
+49878	66029	hubercolumbian-Nukak	nuka1242		boulder	3810	BOULDER		hee²	h eː
+50141	66292	hubercolumbian-Kakua	cacu1241		bow	994	BOW		jĩ̵p²át⁴ ti̵⁴	j ɨ̃ p a t + t ɨ
+50149	66300	hubercolumbian-Nukak	nuka1242		bow	994	BOW		ti̵⁴wei³di̵ʔ¹	t ɨ w e i d ɨ ʔ
+56923	73076	hubercolumbian-Kakua	cacu1241		breast	1402	BREAST		hõʔ³ daʔ⁴	h õ ʔ + d a ʔ
+56929	73082	hubercolumbian-Nukak	nuka1242		breast	1402	BREAST		hõõ³	h õ õ
+64382	80535	hubercolumbian-Kakua	cacu1241		burn	2102	BURN		ʔig³	ʔ i g
+64393	80546	hubercolumbian-Nukak	nuka1242		burn	2102	BURN		pãũʔ³	p ã ũ ʔ
+66278	82431	hubercolumbian-Kakua	cacu1241		bush	1683	BUSH		hia⁴	h i a
+66285	82438	hubercolumbian-Nukak	nuka1242		bush	1683	BUSH		wãʔwã⁴	w ã ʔ w ã
+69402	85555	hubercolumbian-Kakua	cacu1241		buzzard	1865	BUZZARD		hop²	h o p
+69410	85563	hubercolumbian-Nukak	nuka1242		buzzard	1865	BUZZARD		jaa²ki⁴paa²ni⁴de¹	j aː k i p aː n i d e
+69645	85798	hubercolumbian-Kakua	cacu1241		caiman	2438	CAIMAN		wĩ̵w⁴	w ɨ̃ w
+69651	85804	hubercolumbian-Nukak	nuka1242		caiman	2438	CAIMAN		ʧakun²de¹	tʃ a k u n d e
+71864	88017	hubercolumbian-Kakua	cacu1241		canoe	1970	CANOE		hãh³ ʧo²	h ã h + tʃ o
+71870	88023	hubercolumbian-Nukak	nuka1242		canoe	1970	CANOE		ti̵naʔ⁴aa²	t ɨ n a ʔ aː
+72526	88679	hubercolumbian-Kakua	cacu1241		capybara	314	CAPYBARA		bĩ̵h⁴ hiwi⁴	b ɨ̃ h + h i w i
+72527	88680	hubercolumbian-Kakua	cacu1241		capybara	314	CAPYBARA		keʧoʔ²	k e tʃ o ʔ
+72531	88684	hubercolumbian-Nukak	nuka1242		capybara	314	CAPYBARA		kɛʧuʔ²	k ɛ tʃ u ʔ
+74226	90379	hubercolumbian-Kakua	cacu1241		cassava	925	CASSAVA		tõj⁴ daʔ⁴	t õ j + d a ʔ
+74233	90386	hubercolumbian-Nukak	nuka1242		cassava	925	CASSAVA		ʤɛɛdn³ʤi¹bu⁴	dʒ ɛ ɛ d n dʒ i b u
+74990	91143	hubercolumbian-Kakua	cacu1241		cat	1208	CAT		pĩʧa³dã⁴	p ĩ tʃ a d ã
+76992	93145	hubercolumbian-Kakua	cacu1241		cebusmonkey	439	CEBUS MONKEY		wap³	w a p
+78809	94962	hubercolumbian-Kakua	cacu1241		charcoal	1188	CHARCOAL		ti̵⁴ tãwʔ²	t ɨ + t ã w ʔ
+78815	94968	hubercolumbian-Nukak	nuka1242		charcoal	1188	CHARCOAL		tĩ̵ã⁴tip⁴	t ɨ̃ ã t i p
+80304	96457	hubercolumbian-Kakua	cacu1241		chest	1592	CHEST		taka⁴	t a k a
+80311	96464	hubercolumbian-Nukak	nuka1242		chest	1592	CHEST		taka⁴	t a k a
+81618	97771	hubercolumbian-Kakua	cacu1241		chicha	441	CHICHA		bab⁴dĩʔ⁴	b a b d ĩ ʔ
+82258	98411	hubercolumbian-Kakua	cacu1241		chieftain	301	CHIEFTAIN		bãʔ³	b ã ʔ
+82410	98563	hubercolumbian-Kakua	cacu1241		chiggoejiggerflea	438	CHIGGOE (JIGGER FLEA)		doʔdoʔ²	d o ʔ d o ʔ
+82411	98564	hubercolumbian-Kakua	cacu1241		chiggoejiggerflea	438	CHIGGOE (JIGGER FLEA)		tegeʔ³	t e g e ʔ
+82417	98570	hubercolumbian-Nukak	nuka1242		chiggoejiggerflea	438	CHIGGOE (JIGGER FLEA)		tãŋãp²	t ã ŋ ã p
+83607	99760	hubercolumbian-Kakua	cacu1241		childyounghuman	1304	CHILD (YOUNG HUMAN)		webit¹	w e b i t
+83608	99761	hubercolumbian-Kakua	cacu1241		childyounghuman	1304	CHILD (YOUNG HUMAN)		wehʔ⁴	w e h ʔ
+83615	99768	hubercolumbian-Nukak	nuka1242		childyounghuman	1304	CHILD (YOUNG HUMAN)		weʔ⁴	w e ʔ
+83980	100133	hubercolumbian-Kakua	cacu1241		chilipepper	919	CHILI PEPPER		kãw²	k ã w
+83986	100139	hubercolumbian-Nukak	nuka1242		chilipepper	919	CHILI PEPPER		biaʔ³	b i a ʔ
+84515	100668	hubercolumbian-Kakua	cacu1241		chin	1510	CHIN		bãw³ di̵i⁴ dã⁴	b ã w + d ɨ i + d ã
+84522	100675	hubercolumbian-Nukak	nuka1242		chin	1510	CHIN		mãũ²pa⁴	m ã ũ p a
+85275	101428	hubercolumbian-Kakua	cacu1241		chontapalm	440	CHONTA PALM		bĩ̵daʔ³ dãʔ⁴	b ɨ̃ d a ʔ + d ã ʔ
+85280	101433	hubercolumbian-Nukak	nuka1242		chontapalm	440	CHONTA PALM		hũɲũ¹ni⁴	h ũ ɲ ũ n i
+87454	103607	hubercolumbian-Kakua	cacu1241		clawornail	2128	CLAW OR NAIL		ʧoa²	tʃ o a
+87460	103613	hubercolumbian-Nukak	nuka1242		clawornail	2128	CLAW OR NAIL		teiʔ³ni̵i¹	t e i ʔ n ɨ i
+91538	107691	hubercolumbian-Kakua	cacu1241		cloud	1489	CLOUD		bab³at⁴ toliʔ²dã⁴	b a b a t + t o l i ʔ d ã
+91545	107698	hubercolumbian-Nukak	nuka1242		cloud	1489	CLOUD		hei²	h e i
+92714	108867	hubercolumbian-Kakua	cacu1241		club	1763	CLUB		bãw⁴at⁴ dã⁴	b ã w a t + d ã
+92718	108871	hubercolumbian-Nukak	nuka1242		club	1763	CLUB		baak²at¹naʔ⁴	b aː k a t n a ʔ
+93483	109636	hubercolumbian-Kakua	cacu1241		coca	137	COCA		ɸita²	ɸ i t a
+95103	111256	hubercolumbian-Kakua	cacu1241		cold	1287	COLD		wiw⁴	w i w
+95111	111264	hubercolumbian-Nukak	nuka1242		cold	1287	COLD		hiit²	h iː t
+96913	113066	hubercolumbian-Kakua	cacu1241		collaredpeccary	435	COLLARED PECCARY		tiʔ⁴	t i ʔ
+98774	114927	hubercolumbian-Kakua	cacu1241		come	1446	COME		hãwʔ³	h ã w ʔ
+98780	114933	hubercolumbian-Nukak	nuka1242		come	1446	COME		hãuʔ²	h ã u ʔ
+102334	118487	hubercolumbian-Kakua	cacu1241		cookingpot	3653	COOKING POT		pi̵b³at⁴ daʔ⁴	p ɨ b a t + d a ʔ
+102335	118488	hubercolumbian-Kakua	cacu1241		cookingpot	3653	COOKING POT		ʔĩtaʔ² daʔ⁴	ʔ ĩ t a ʔ + d a ʔ
+102336	118489	hubercolumbian-Kakua	cacu1241		cookingpot	3653	COOKING POT		wãb² daʔ⁴	w ã b + d a ʔ
+102342	118495	hubercolumbian-Nukak	nuka1242		cookingpot	3653	COOKING POT		waam³	w aː m
+103773	119926	hubercolumbian-Kakua	cacu1241		coralsnake	2240	CORAL SNAKE		doʔi² bãj⁴	d o ʔ i + b ã j
+104068	120221	hubercolumbian-Kakua	cacu1241		cornfield	449	CORN FIELD		wapʧi²	w a p tʃ i
+104069	120222	hubercolumbian-Kakua	cacu1241		cornfield	449	CORN FIELD		ho²a⁴	h o a
+104077	120230	hubercolumbian-Nukak	nuka1242		cornfield	449	CORN FIELD		jɛɛdn³	j ɛ ɛ d n
+104854	121007	hubercolumbian-Kakua	cacu1241		correctright	1725	CORRECT (RIGHT)		job³op³diʔ⁴	j o b o p d i ʔ
+104855	121008	hubercolumbian-Kakua	cacu1241		correctright	1725	CORRECT (RIGHT)		bi̵w⁴kãd⁴dĩ⁴	b ɨ w k ã d d ĩ
+104862	121015	hubercolumbian-Nukak	nuka1242		correctright	1725	CORRECT (RIGHT)		huɛʔ²	h u ɛ ʔ
+105527	121680	hubercolumbian-Kakua	cacu1241		cotton	1850	COTTON		pab²	p a b
+105533	121686	hubercolumbian-Nukak	nuka1242		cotton	1850	COTTON		paabm³	p aː b m
+111822	127975	hubercolumbian-Kakua	cacu1241		crownofhead	1943	CROWN (OF HEAD)		waw³ di̵i⁴	w a w + d ɨ i
+114448	130601	hubercolumbian-Kakua	cacu1241		curassow	315	CURASSOW		bĩ̵h⁴ ʔĩ̵i²	b ɨ̃ h + ʔ ɨ̃ i
+114454	130607	hubercolumbian-Nukak	nuka1242		curassow	315	CURASSOW		ʤuwe³	dʒ u w e
+115081	131234	hubercolumbian-Kakua	cacu1241		cut	1432	CUT		ʔib²	ʔ i b
+115082	131235	hubercolumbian-Kakua	cacu1241		cut	1432	CUT		bod²	b o d
+115083	131236	hubercolumbian-Kakua	cacu1241		cut	1432	CUT		tib²	t i b
+115094	131247	hubercolumbian-Nukak	nuka1242		cut	1432	CUT		ʔiibm³	ʔ iː b m
+118600	134753	hubercolumbian-Kakua	cacu1241		dark	706	DARK		di̵pi̵³	d ɨ p ɨ
+118607	134760	hubercolumbian-Nukak	nuka1242		dark	706	DARK		ʧei⁴	tʃ e i
+121717	137872	hubercolumbian-Kakua	cacu1241		daynotnight	1225	DAY (NOT NIGHT)		jew³ hap²	j e w + h a p
+121725	137880	hubercolumbian-Nukak	nuka1242		daynotnight	1225	DAY (NOT NIGHT)		ʤa¹wap⁴	dʒ a w a p
+124583	140738	hubercolumbian-Kakua	cacu1241		deer	1936	DEER		wã³	w ã
+124591	140746	hubercolumbian-Nukak	nuka1242		deer	1936	DEER		wãã²	w ã ã
+126982	143137	hubercolumbian-Kakua	cacu1241		die	1494	DIE		wĩ̵d⁴	w ɨ̃ d
+126990	143145	hubercolumbian-Nukak	nuka1242		die	1494	DIE		bi̵i̵dn²	b ɨ ɨ d n
+129639	145794	hubercolumbian-Kakua	cacu1241		dig	1418	DIG		bad³	b a d
+129646	145801	hubercolumbian-Nukak	nuka1242		dig	1418	DIG		baadn²	b aː d n
+131638	147793	hubercolumbian-Kakua	cacu1241		dirty	1230	DIRTY		kej³ hĩ̵b⁴dĩ⁴	k e j + h ɨ̃ b d ĩ
+131649	147804	hubercolumbian-Nukak	nuka1242		dirty	1230	DIRTY		kei²hi̵m⁴	k e i h ɨ m
+135545	151700	hubercolumbian-Kakua	cacu1241		dog	2009	DOG		bĩ̵h⁴hiw³	b ɨ̃ h h i w
+135551	151706	hubercolumbian-Nukak	nuka1242		dog	2009	DOG		ni̵²ji̵p⁴ʧe¹hooʔ²ʤi⁴	n ɨ j ɨ p tʃ e h oː ʔ dʒ i
+137485	153640	hubercolumbian-Kakua	cacu1241		door	1567	DOOR		hẽk⁴	h ẽ k
+137492	153647	hubercolumbian-Nukak	nuka1242		door	1567	DOOR		bak⁴at¹	b a k a t
+138880	155035	hubercolumbian-Kakua	cacu1241		down	1326	DOWN		dõd⁴ bo³	d õ d + b o
+138881	155036	hubercolumbian-Kakua	cacu1241		down	1326	DOWN		dei⁴	d e i
+138889	155044	hubercolumbian-Nukak	nuka1242		down	1326	DOWN		dei⁴	d e i
+142011	158166	hubercolumbian-Kakua	cacu1241		drink	1401	DRINK		babʔ⁴	b a b ʔ
+142018	158173	hubercolumbian-Nukak	nuka1242		drink	1401	DRINK		haha²	h a h a
+143914	160069	hubercolumbian-Kakua	cacu1241		drum	908	DRUM		pẽd² daʔ⁴	p ẽ d + d a ʔ
+145656	161811	hubercolumbian-Kakua	cacu1241		dry	1398	DRY		hõp⁴dĩ⁴	h õ p d ĩ
+145664	161819	hubercolumbian-Nukak	nuka1242		dry	1398	DRY		kala²	k a l a
+148643	164798	hubercolumbian-Kakua	cacu1241		dust	2	DUST		bekʧi³	b e k tʃ i
+148644	164799	hubercolumbian-Kakua	cacu1241		dust	2	DUST		oh⁴	o h
+148651	164806	hubercolumbian-Nukak	nuka1242		dust	2	DUST		ʔuh⁴	ʔ u h
+151084	167239	hubercolumbian-Kakua	cacu1241		ear	1247	EAR		bõli⁴ ʧo²	b õ l i + tʃ o
+151090	167245	hubercolumbian-Nukak	nuka1242		ear	1247	EAR		mũnĩ⁴ nĩ̵i¹	m ũ n ĩ + n ɨ̃ i
+153993	170148	hubercolumbian-Kakua	cacu1241		earthsoil	1228	EARTH (SOIL)		bak³	b a k
+154001	170156	hubercolumbian-Nukak	nuka1242		earthsoil	1228	EARTH (SOIL)		naah²	n aː h
+156594	172749	hubercolumbian-Kakua	cacu1241		eat	1336	EAT		hẽbʔ³	h ẽ b ʔ
+156603	172758	hubercolumbian-Nukak	nuka1242		eat	1336	EAT		wam⁴	w a m
+158924	175082	hubercolumbian-Kakua	cacu1241		egg	744	EGG		bĩ̵h⁴baj⁴ tip²	b ɨ̃ h b a j + t i p
+158930	175088	hubercolumbian-Nukak	nuka1242		egg	744	EGG		ʧi̵ka⁴daʔ⁴	tʃ ɨ k a d a ʔ
+162257	178415	hubercolumbian-Kakua	cacu1241		elbow	981	ELBOW		bĩ̵h⁴ ʧa⁴ dot²	b ɨ̃ h + tʃ a + d o t
+162263	178421	hubercolumbian-Nukak	nuka1242		elbow	981	ELBOW		pee²	p eː
+169490	185648	hubercolumbian-Kakua	cacu1241		eye	1248	EYE		kib²	k i b
+169497	185655	hubercolumbian-Nukak	nuka1242		eye	1248	EYE		ʔɛn⁴at¹	ʔ ɛ n a t
+173489	189648	hubercolumbian-Kakua	cacu1241		fall	1280	FALL		bi̵g³	b ɨ g
+173497	189656	hubercolumbian-Nukak	nuka1242		fall	1280	FALL		bi̵ign²	b ɨ i g n
+175764	191923	hubercolumbian-Kakua	cacu1241		far	1406	FAR		ji̵p³	j ɨ p
+175770	191929	hubercolumbian-Nukak	nuka1242		far	1406	FAR		ʤi̵i̵p²	dʒ ɨ ɨ p
+178659	194818	hubercolumbian-Kakua	cacu1241		fatfromanimals	1282	FAT (FROM ANIMALS)		ji²	j i
+178665	194824	hubercolumbian-Nukak	nuka1242		fatfromanimals	1282	FAT (FROM ANIMALS)		jii³	j iː
+179642	195801	hubercolumbian-Kakua	cacu1241		father	1217	FATHER		pa³	p a
+179643	195802	hubercolumbian-Kakua	cacu1241		father	1217	FATHER		paʔ³	p a ʔ
+179644	195803	hubercolumbian-Kakua	cacu1241		father	1217	FATHER		wã⁴ ʔip²	w ã + ʔ i p
+179654	195813	hubercolumbian-Nukak	nuka1242		father	1217	FATHER		iip³	iː p
+183746	199906	hubercolumbian-Kakua	cacu1241		fearbeafraid	1419	FEAR (BE AFRAID)		ʔĩ̵b²	ʔ ɨ̃ b
+183753	199913	hubercolumbian-Nukak	nuka1242		fearbeafraid	1419	FEAR (BE AFRAID)		ʔi̵i̵m³	ʔ ɨ ɨ m
+184825	200985	hubercolumbian-Kakua	cacu1241		feather	1201	FEATHER		ʧah⁴ bãlaʔ²dĩ⁴	tʃ a h + b ã l a ʔ d ĩ
+184832	200992	hubercolumbian-Nukak	nuka1242		feather	1201	FEATHER		hiʔ⁴ni⁴	h i ʔ n i
+187156	219809	hubercolumbian-Kakua	cacu1241		fleshormeat	2615	FLESH OR MEAT		dep²	d e p
+187164	219817	hubercolumbian-Nukak	nuka1242		fleshormeat	2615	FLESH OR MEAT		ʧki̵i²	tʃ k ɨ i
+188769	221422	hubercolumbian-Kakua	cacu1241		flow	2003	FLOW		dõh³	d õ h
+188777	221430	hubercolumbian-Nukak	nuka1242		flow	2003	FLOW		nuuh²	n uː h
+189849	222502	hubercolumbian-Kakua	cacu1241		flower	239	FLOWER		ʧa²	tʃ a
+189856	222509	hubercolumbian-Nukak	nuka1242		flower	239	FLOWER		kɛʔɛ⁴	k ɛ ʔ ɛ
+191173	223826	hubercolumbian-Kakua	cacu1241		flyinsect	1504	FLY (INSECT)		dãdap⁴	d ã d a p
+191180	223833	hubercolumbian-Nukak	nuka1242		flyinsect	1504	FLY (INSECT)		hɛno¹ni⁴	h ɛ n o n i
+192785	225438	hubercolumbian-Kakua	cacu1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		hih³	h i h
+192792	225445	hubercolumbian-Nukak	nuka1242		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		hɛɛn³	h ɛ ɛ n
+194427	227080	hubercolumbian-Kakua	cacu1241		fog	249	FOG		ʧaw⁴at⁴	tʃ a w a t
+194428	227081	hubercolumbian-Kakua	cacu1241		fog	249	FOG		hej³	h e j
+194435	227088	hubercolumbian-Nukak	nuka1242		fog	249	FOG		hei²	h e i
+196091	228744	hubercolumbian-Kakua	cacu1241		foot	1301	FOOT		hit²ʧa⁴ daʔ⁴	h i t tʃ a + d a ʔ
+196097	228750	hubercolumbian-Nukak	nuka1242		foot	1301	FOOT		ʧĩ̵i⁴at¹	tʃ ɨ̃ i a t
+198339	230992	hubercolumbian-Kakua	cacu1241		forehead	123	FOREHEAD		bõt² hi̵ʔ³	b õ t + h ɨ ʔ
+198345	230998	hubercolumbian-Nukak	nuka1242		forehead	123	FOREHEAD		kilah¹	k i l a h
+202426	235079	hubercolumbian-Kakua	cacu1241		four	1500	FOUR		ʧẽde²dã⁴ bĩk²	tʃ ẽ d e d ã + b ĩ k
+204464	237117	hubercolumbian-Kakua	cacu1241		freeze	1431	FREEZE		ɸĩ̵bah² beh⁴	ɸ ɨ̃ b a h + b e h
+207144	239797	hubercolumbian-Kakua	cacu1241		fronttoothincisor	442	FRONT TOOTH (INCISOR)		bãw³ dobʔ³	b ã w + d o b ʔ
+207150	239803	hubercolumbian-Nukak	nuka1242		fronttoothincisor	442	FRONT TOOTH (INCISOR)		mau²	m a u
+208117	240770	hubercolumbian-Kakua	cacu1241		fruit	1507	FRUIT		ki̵bi̵ʔ²	k ɨ b ɨ ʔ
+208118	240771	hubercolumbian-Kakua	cacu1241		fruit	1507	FRUIT		kãbaʔ²dĩ⁴	k ã b a ʔ d ĩ
+208119	240772	hubercolumbian-Kakua	cacu1241		fruit	1507	FRUIT		inanim	i n a n i m
+208125	240778	hubercolumbian-Nukak	nuka1242		fruit	1507	FRUIT		ki̵pi̵²	k ɨ p ɨ
+209192	241845	hubercolumbian-Kakua	cacu1241		full	1429	FULL		jaw²dĩ⁴	j a w d ĩ
+209202	241855	hubercolumbian-Nukak	nuka1242		full	1429	FULL		hɛli²	h ɛ l i
+210165	242818	hubercolumbian-Kakua	cacu1241		fur	580	FUR		jok³	j o k
+210172	242825	hubercolumbian-Nukak	nuka1242		fur	580	FUR		ni̵i³	n ɨ i
+214520	247173	hubercolumbian-Kakua	cacu1241		give	1447	GIVE		wĩ̵ʔ⁴	w ɨ̃ ʔ
+214526	247179	hubercolumbian-Nukak	nuka1242		give	1447	GIVE		wĩ̵ʔ⁴	w ɨ̃ ʔ
+220644	253300	hubercolumbian-Kakua	cacu1241		good	1035	GOOD		ti̵i²dĩ⁴	t ɨ i d ĩ
+220652	253308	hubercolumbian-Nukak	nuka1242		good	1035	GOOD		huɛʔ²	h u ɛ ʔ
+223333	255989	hubercolumbian-Kakua	cacu1241		gourd	411	GOURD		pẽje³ ʧo²	p ẽ j e + tʃ o
+223334	255990	hubercolumbian-Kakua	cacu1241		gourd	411	GOURD		bõjʔ³ ʧo²	b õ j ʔ + tʃ o
+223343	255999	hubercolumbian-Nukak	nuka1242		gourd	411	GOURD		dalo³aʔ⁴	d a l o a ʔ
+226095	258751	hubercolumbian-Kakua	cacu1241		grass	606	GRASS		jilip²	j i l i p
+226102	258758	hubercolumbian-Nukak	nuka1242		grass	606	GRASS		ʤilip¹	dʒ i l i p
+228450	261106	hubercolumbian-Kakua	cacu1241		green	1425	GREEN		hajʔ⁴dĩ⁴	h a j ʔ d ĩ
+228456	261112	hubercolumbian-Nukak	nuka1242		green	1425	GREEN		hɛ̃lẽ⁴	h ɛ̃ l ẽ
+232186	264842	hubercolumbian-Kakua	cacu1241		guan	437	GUAN		wi̵bi̵ʔ²	w ɨ b ɨ ʔ
+235258	267914	hubercolumbian-Kakua	cacu1241		hairbody	189	HAIR (BODY)		bakaʔ² jok³	b a k a ʔ + j o k
+235264	267920	hubercolumbian-Nukak	nuka1242		hairbody	189	HAIR (BODY)		ʧẽĩ³	tʃ ẽ ĩ
+236042	268698	hubercolumbian-Kakua	cacu1241		hairhead	2648	HAIR (HEAD)		waw³ jok³	w a w + j o k
+236048	268704	hubercolumbian-Nukak	nuka1242		hairhead	2648	HAIR (HEAD)		ʧẽĩ³	tʃ ẽ ĩ
+237289	269945	hubercolumbian-Kakua	cacu1241		hammock	2019	HAMMOCK		bãʔ⁴	b ã ʔ
+237295	269951	hubercolumbian-Nukak	nuka1242		hammock	2019	HAMMOCK		ʔimʤi⁴	ʔ i m dʒ i
+238290	270946	hubercolumbian-Kakua	cacu1241		hand	1277	HAND		tejʔ²ja⁴	t e j ʔ j a
+238296	270952	hubercolumbian-Nukak	nuka1242		hand	1277	HAND		teiʔ³	t e i ʔ
+242681	275338	hubercolumbian-Kakua	cacu1241		he	1211	HE		dĩd⁴	d ĩ d
+242682	275339	hubercolumbian-Kakua	cacu1241		he	1211	HE		kõd⁴	k õ d
+242683	275340	hubercolumbian-Kakua	cacu1241		he	1211	HE		kãd³	k ã d
+242691	275348	hubercolumbian-Nukak	nuka1242		he	1211	HE		kaan²	k aː n
+243842	276499	hubercolumbian-Kakua	cacu1241		head	1256	HEAD		waw³ daʔ⁴	w a w + d a ʔ
+243849	276506	hubercolumbian-Nukak	nuka1242		head	1256	HEAD		wau²	w a u
+246794	279451	hubercolumbian-Kakua	cacu1241		hear	1408	HEAR		hoj³	h o j
+246800	279457	hubercolumbian-Nukak	nuka1242		hear	1408	HEAR		hui²	h u i
+248374	281031	hubercolumbian-Kakua	cacu1241		heart	1223	HEART		kawliʔ⁴ daʔ⁴	k a w l i ʔ + d a ʔ
+248382	281039	hubercolumbian-Nukak	nuka1242		heart	1223	HEART		haa³at¹daʔ⁴	h aː a t d a ʔ
+250547	283204	hubercolumbian-Kakua	cacu1241		heavy	1210	HEAVY		ʧod⁴op³	tʃ o d o p
+250554	283211	hubercolumbian-Nukak	nuka1242		heavy	1210	HEAVY		ʧudn⁴	tʃ u d n
+252891	285548	hubercolumbian-Kakua	cacu1241		hen	1514	HEN		bĩ̵h⁴baj⁴	b ɨ̃ h b a j
+252897	285554	hubercolumbian-Nukak	nuka1242		hen	1514	HEN		kajuʔ²	k a j u ʔ
+254375	287033	hubercolumbian-Kakua	cacu1241		here	136	HERE		dĩd⁴bo³	d ĩ d b o
+254385	287043	hubercolumbian-Nukak	nuka1242		here	136	HERE		nin⁴	n i n
+257253	289912	hubercolumbian-Kakua	cacu1241		hill	614	HILL		he³	h e
+257262	289921	hubercolumbian-Nukak	nuka1242		hill	614	HILL		bii³	b iː
+260539	293199	hubercolumbian-Kakua	cacu1241		hold	1448	HOLD		tew⁴	t e w
+260547	293207	hubercolumbian-Nukak	nuka1242		hold	1448	HOLD		ʧah⁴	tʃ a h
+263267	295927	hubercolumbian-Kakua	cacu1241		hornanatomy	1393	HORN (ANATOMY)		bõda⁴	b õ d a
+263273	295933	hubercolumbian-Nukak	nuka1242		hornanatomy	1393	HORN (ANATOMY)		hawa³loʔ⁴	h a w a l o ʔ
+265093	297753	hubercolumbian-Kakua	cacu1241		hot	1286	HOT		ʧãʔ⁴dĩ⁴	tʃ ã ʔ d ĩ
+265101	297761	hubercolumbian-Nukak	nuka1242		hot	1286	HOT		hihi¹	h i h i
+267176	299836	hubercolumbian-Kakua	cacu1241		house	1252	HOUSE		bĩ̵³	b ɨ̃
+267184	299844	hubercolumbian-Nukak	nuka1242		house	1252	HOUSE		mi̵i̵²	m ɨ ɨ
+268759	301419	hubercolumbian-Kakua	cacu1241		how	1239	HOW		de²paʔ⁴	d e p a ʔ
+268767	301427	hubercolumbian-Nukak	nuka1242		how	1239	HOW		dɛdn⁴pãʔ¹	d ɛ d n p ã ʔ
+269557	302217	hubercolumbian-Kakua	cacu1241		howlermonkey	433	HOWLER MONKEY		jogo³	j o g o
+269562	302222	hubercolumbian-Nukak	nuka1242		howlermonkey	433	HOWLER MONKEY		mĩ̵ʔ¹a⁴ bu⁴	m ɨ̃ ʔ a + b u
+270184	302844	hubercolumbian-Kakua	cacu1241		hummingbird	1589	HUMMINGBIRD		boʔjop⁴	b o ʔ j o p
+270191	302851	hubercolumbian-Nukak	nuka1242		hummingbird	1589	HUMMINGBIRD		buʔjup⁴	b u ʔ j u p
+273058	305718	hubercolumbian-Kakua	cacu1241		husband	1200	HUSBAND		ʔa²	ʔ a
+273059	305719	hubercolumbian-Kakua	cacu1241		husband	1200	HUSBAND		wã⁴heʔ³ bo²	w ã h e ʔ + b o
+273068	305728	hubercolumbian-Nukak	nuka1242		husband	1200	HUSBAND		hĩʔ⁴bu¹	h ĩ ʔ b u
+273582	306242	hubercolumbian-Kakua	cacu1241		hut	1678	HUT		wãpʧi³	w ã p tʃ i
+273588	306248	hubercolumbian-Nukak	nuka1242		hut	1678	HUT		ɲɛɛʔ³at¹	ɲ ɛ ɛ ʔ a t
+274596	307256	hubercolumbian-Kakua	cacu1241		i	1209	I		wẽb³	w ẽ b
+274602	307262	hubercolumbian-Nukak	nuka1242		i	1209	I		wɛɛm²	w ɛ ɛ m
+275695	308355	hubercolumbian-Kakua	cacu1241		ice	617	ICE		kãbaʔ²dĩ⁴ daʔ⁴	k ã b a ʔ d ĩ + d a ʔ
+276681	309341	hubercolumbian-Kakua	cacu1241		if	1459	IF		na	n a
+276690	309350	hubercolumbian-Nukak	nuka1242		if	1459	IF		ti¹	t i
+277029	309689	hubercolumbian-Kakua	cacu1241		iguana	1578	IGUANA		bãja⁴	b ã j a
+277937	310597	hubercolumbian-Kakua	cacu1241		in	1460	IN		dit³dã⁴	d i t d ã
+277946	310606	hubercolumbian-Nukak	nuka1242		in	1460	IN		liʔ¹	l i ʔ
+280954	313614	hubercolumbian-Kakua	cacu1241		intestines	1991	INTESTINES		hõdop³ tõp⁴	h õ d o p + t õ p
+280961	313621	hubercolumbian-Nukak	nuka1242		intestines	1991	INTESTINES		paan²at¹tããʔ²	p aː n a t t ã ã ʔ
+282286	314946	hubercolumbian-Kakua	cacu1241		island	622	ISLAND		kewa⁴	k e w a
+282507	315167	hubercolumbian-Kakua	cacu1241		it	169	IT		kãd³	k ã d
+282513	315173	hubercolumbian-Nukak	nuka1242		it	169	IT		kaan²	k aː n
+282514	315174	hubercolumbian-Nukak	nuka1242		it	169	IT		kaanʔ²	k aː n ʔ
+283465	316125	hubercolumbian-Kakua	cacu1241		jaguar	1250	JAGUAR		hiw³ daka³	h i w + d a k a
+283473	316133	hubercolumbian-Nukak	nuka1242		jaguar	1250	JAGUAR		hio²	h i o
+287443	320103	hubercolumbian-Kakua	cacu1241		kill	1417	KILL		bãw⁴	b ã w
+287451	320111	hubercolumbian-Nukak	nuka1242		kill	1417	KILL		mau⁴	m a u
+290126	322786	hubercolumbian-Kakua	cacu1241		knee	1371	KNEE		bodi² ʧa⁴ daʔ⁴	b o d i + tʃ a + d a ʔ
+290133	322793	hubercolumbian-Nukak	nuka1242		knee	1371	KNEE		budi¹	b u d i
+291800	324460	hubercolumbian-Kakua	cacu1241		knife	1352	KNIFE		ʔib²at⁴ dobʔ³	ʔ i b a t + d o b ʔ
+291807	324467	hubercolumbian-Nukak	nuka1242		knife	1352	KNIFE		iibm³at¹daʔ⁴	iː b m a t d a ʔ
+294344	327004	hubercolumbian-Kakua	cacu1241		knowsomething	1410	KNOW (SOMETHING)		hejʔ²	h e j ʔ
+294350	327010	hubercolumbian-Nukak	nuka1242		knowsomething	1410	KNOW (SOMETHING)		heiʔ³	h e i ʔ
+296067	328727	hubercolumbian-Kakua	cacu1241		lake	624	LAKE		ʔĩb²	ʔ ĩ b
+296074	328734	hubercolumbian-Nukak	nuka1242		lake	624	LAKE		iim³bɛʔ⁴	iː m b ɛ ʔ
+297712	330372	hubercolumbian-Kakua	cacu1241		lastfinal	1529	LAST (FINAL)		pe²dĩ⁴	p e d ĩ
+297722	330382	hubercolumbian-Nukak	nuka1242		lastfinal	1529	LAST (FINAL)		pĩh⁴	p ĩ h
+302082	334742	hubercolumbian-Kakua	cacu1241		leaf	628	LEAF		bã² dĩ̵w²	b ã + d ɨ̃ w
+302088	334748	hubercolumbian-Nukak	nuka1242		leaf	628	LEAF		ji̵i̵gn³at¹	j ɨ ɨ g n a t
+303313	335973	hubercolumbian-Kakua	cacu1241		leafleaflikeobject	2250	LEAF (LEAFLIKE OBJECT)		dĩ̵w²	d ɨ̃ w
+303319	335979	hubercolumbian-Nukak	nuka1242		leafleaflikeobject	2250	LEAF (LEAFLIKE OBJECT)		ni̵u³	n ɨ u
+305210	337870	hubercolumbian-Kakua	cacu1241		left	244	LEFT		waja¹ bãdʔ⁴bo³	w a j a + b ã d ʔ b o
+305216	337876	hubercolumbian-Nukak	nuka1242		left	244	LEFT		ʧep⁴	tʃ e p
+306328	338988	hubercolumbian-Kakua	cacu1241		leg	1297	LEG		wi̵² dãʔ⁴	w ɨ + d ã ʔ
+306334	338994	hubercolumbian-Nukak	nuka1242		leg	1297	LEG		naat³	n aː t
+309396	342056	hubercolumbian-Kakua	cacu1241		liedown	215	LIE DOWN		lah⁴	l a h
+309397	342057	hubercolumbian-Kakua	cacu1241		liedown	215	LIE DOWN		jãh⁴	j ã h
+309405	342065	hubercolumbian-Nukak	nuka1242		liedown	215	LIE DOWN		ɲah⁴	ɲ a h
+312558	345218	hubercolumbian-Kakua	cacu1241		lightning	1654	LIGHTNING		wedo³at⁴	w e d o a t
+312565	345225	hubercolumbian-Nukak	nuka1242		lightning	1654	LIGHTNING		hi̵di̵²teu⁴at¹	h ɨ d ɨ t e u a t
+315049	347709	hubercolumbian-Kakua	cacu1241		lip	478	LIP		hak⁴ ʧo²	h a k + tʃ o
+315055	347715	hubercolumbian-Nukak	nuka1242		lip	478	LIP		paan²at¹ nii¹	p aː n a t + n iː
+316850	349510	hubercolumbian-Kakua	cacu1241		liver	1224	LIVER		dẽb⁴ daʔ⁴	d ẽ b + d a ʔ
+316857	349517	hubercolumbian-Nukak	nuka1242		liver	1224	LIVER		ʧalu²	tʃ a l u
+319745	352405	hubercolumbian-Kakua	cacu1241		long	1203	LONG		bãt³dĩ⁴	b ã t d ĩ
+319746	352406	hubercolumbian-Kakua	cacu1241		long	1203	LONG		bãlaʔ⁴dĩ⁴	b ã l a ʔ d ĩ
+319752	352412	hubercolumbian-Nukak	nuka1242		long	1203	LONG		ʤi̵i̵p²	dʒ ɨ ɨ p
+320879	353539	hubercolumbian-Kakua	cacu1241		longhair	444	LONG HAIR		waw³ jok³ bãlaʔ⁴dĩ⁴	w a w + j o k + b ã l a ʔ d ĩ
+320886	353546	hubercolumbian-Nukak	nuka1242		longhair	444	LONG HAIR		ʧẽĩ³ ʤi̵pi̵²	tʃ ẽ ĩ + dʒ ɨ p ɨ
+323399	356059	hubercolumbian-Kakua	cacu1241		louse	1392	LOUSE		bi̵bʔ³	b ɨ b ʔ
+325300	357960	hubercolumbian-Kakua	cacu1241		lowerarm	446	LOWER ARM		bĩ̵h⁴ dãʔ⁴	b ɨ̃ h + d ã ʔ
+325305	357965	hubercolumbian-Nukak	nuka1242		lowerarm	446	LOWER ARM		mĩ̵h⁴	m ɨ̃ h
+325655	358315	hubercolumbian-Kakua	cacu1241		lowerleg	447	LOWER LEG		wiw² dãʔ⁴	w i w + d ã ʔ
+325663	358323	hubercolumbian-Nukak	nuka1242		lowerleg	447	LOWER LEG		naat³	n aː t
+326254	358915	hubercolumbian-Kakua	cacu1241		lung	688	LUNG		ʧa³a⁴ daʔ⁴	tʃ a a + d a ʔ
+326262	358923	hubercolumbian-Nukak	nuka1242		lung	688	LUNG		ʧaa²ʧaa²hat¹	tʃ aː tʃ aː h a t
+326778	359439	hubercolumbian-Kakua	cacu1241		macaw	1630	MACAW		jawʔ²	j a w ʔ
+326785	359446	hubercolumbian-Nukak	nuka1242		macaw	1630	MACAW		jauʔ³	j a u ʔ
+327765	360426	hubercolumbian-Kakua	cacu1241		maize	506	MAIZE		ho²	h o
+327771	360432	hubercolumbian-Nukak	nuka1242		maize	506	MAIZE		weaʔ³	w e a ʔ
+328716	361377	hubercolumbian-Kakua	cacu1241		male	1553	MALE		dẽwe³	d ẽ w e
+328722	361383	hubercolumbian-Nukak	nuka1242		male	1553	MALE		newe²	n e w e
+330353	363014	hubercolumbian-Kakua	cacu1241		man	1554	MAN		dẽwe³	d ẽ w e
+330361	363022	hubercolumbian-Nukak	nuka1242		man	1554	MAN		ʧaʔ⁴bu¹	tʃ a ʔ b u
+331741	364402	hubercolumbian-Kakua	cacu1241		maniocflour	324	MANIOC FLOUR		bekʧi⁴	b e k tʃ i
+332154	364815	hubercolumbian-Kakua	cacu1241		many	1198	MANY		dawa³	d a w a
+332165	364826	hubercolumbian-Nukak	nuka1242		many	1198	MANY		dau²	d a u
+339804	372465	hubercolumbian-Kakua	cacu1241		milk	635	MILK		hõʔ³ bãk⁴	h õ ʔ + b ã k
+339810	372471	hubercolumbian-Nukak	nuka1242		milk	635	MILK		ɸiibʔ³at¹ ulu²	ɸ iː b ʔ a t + u l u
+344346	377007	hubercolumbian-Kakua	cacu1241		moon	1313	MOON		widʔ⁴	w i d ʔ
+344353	377014	hubercolumbian-Nukak	nuka1242		moon	1313	MOON		widʔ⁴	w i d ʔ
+347404	380065	hubercolumbian-Kakua	cacu1241		mosquito	1509	MOSQUITO		ji̵bi̵²	j ɨ b ɨ
+347411	380072	hubercolumbian-Nukak	nuka1242		mosquito	1509	MOSQUITO		ʤi̵bi̵¹	dʒ ɨ b ɨ
+349179	381840	hubercolumbian-Kakua	cacu1241		mother	1216	MOTHER		dã³	d ã
+349180	381841	hubercolumbian-Kakua	cacu1241		mother	1216	MOTHER		dãʔ³	d ã ʔ
+349181	381842	hubercolumbian-Kakua	cacu1241		mother	1216	MOTHER		wã⁴ ʔĩd²	w ã + ʔ ĩ d
+349192	381853	hubercolumbian-Nukak	nuka1242		mother	1216	MOTHER		iin³	iː n
+350825	383489	hubercolumbian-Kakua	cacu1241		mountain	639	MOUNTAIN		he³	h e
+350833	383497	hubercolumbian-Nukak	nuka1242		mountain	639	MOUNTAIN		hee²	h eː
+352146	384810	hubercolumbian-Kakua	cacu1241		mouse	1491	MOUSE		ʧawʔ²	tʃ a w ʔ
+352153	384817	hubercolumbian-Nukak	nuka1242		mouse	1491	MOUSE		di̵li̵¹boʔ⁴	d ɨ l ɨ b o ʔ
+353332	385996	hubercolumbian-Kakua	cacu1241		mouth	674	MOUTH		hak⁴	h a k
+353338	386002	hubercolumbian-Nukak	nuka1242		mouth	674	MOUTH		paan²at¹ it¹	p aː n a t + i t
+358352	391016	hubercolumbian-Kakua	cacu1241		name	1405	NAME		wĩ̵t⁴	w ɨ̃ t
+358358	391022	hubercolumbian-Nukak	nuka1242		name	1405	NAME		nãuʔ²wa⁴hat¹	n ã u ʔ w a h a t
+359591	392257	hubercolumbian-Kakua	cacu1241		napeofneck	1347	NAPE (OF NECK)		bi̵t² dãʔ⁴	b ɨ t + d ã ʔ
+359597	392263	hubercolumbian-Nukak	nuka1242		napeofneck	1347	NAPE (OF NECK)		ʔeu⁴ tããʔ²	ʔ e u + t ã ã ʔ
+360273	392939	hubercolumbian-Kakua	cacu1241		narrow	1267	NARROW		baj³dĩ⁴ bi̵wa³	b a j d ĩ + b ɨ w a
+360279	392945	hubercolumbian-Nukak	nuka1242		narrow	1267	NARROW		bai²	b a i
+361364	394030	hubercolumbian-Kakua	cacu1241		navel	1838	NAVEL		dõp³ kiba²	d õ p + k i b a
+361370	394036	hubercolumbian-Nukak	nuka1242		navel	1838	NAVEL		paan²at¹daʔ⁴it²	p aː n a t d a ʔ i t
+362896	395562	hubercolumbian-Kakua	cacu1241		near	1942	NEAR		pepʔ⁴ bit⁴	p e p ʔ + b i t
+362903	395569	hubercolumbian-Nukak	nuka1242		near	1942	NEAR		ʤi̵i̵p²ka¹	dʒ ɨ ɨ p k a
+364638	397305	hubercolumbian-Kakua	cacu1241		neck	1333	NECK		bi̵t⁴ dãʔ⁴	b ɨ t + d ã ʔ
+368698	401365	hubercolumbian-Kakua	cacu1241		new	1231	NEW		hap²	h a p
+368707	401374	hubercolumbian-Nukak	nuka1242		new	1231	NEW		kobm⁴	k o b m
+371469	404136	hubercolumbian-Kakua	cacu1241		night	1233	NIGHT		ʧej⁴	tʃ e j
+371475	404142	hubercolumbian-Nukak	nuka1242		night	1233	NIGHT		ʧei⁴	tʃ e i
+377288	409955	hubercolumbian-Kakua	cacu1241		nose	1221	NOSE		wi̵k³	w ɨ k
+377294	409961	hubercolumbian-Nukak	nuka1242		nose	1221	NOSE		wi̵i̵k²	w ɨ ɨ k
+378875	411542	hubercolumbian-Kakua	cacu1241		not	1240	NOT		dĩʔ⁴kãd⁴	d ĩ ʔ k ã d
+378884	411551	hubercolumbian-Nukak	nuka1242		not	1240	NOT		ʤabʔ⁴	dʒ a b ʔ
+383394	416061	hubercolumbian-Kakua	cacu1241		old	1229	OLD		beʔe⁴	b e ʔ e
+383404	416071	hubercolumbian-Nukak	nuka1242		old	1229	OLD		ʔa⁴maa³	ʔ a m aː
+386624	419291	hubercolumbian-Kakua	cacu1241		oldman	406	OLD MAN		beʔe⁴	b e ʔ e
+386625	419292	hubercolumbian-Kakua	cacu1241		oldman	406	OLD MAN		bã²	b ã
+386634	419301	hubercolumbian-Nukak	nuka1242		oldman	406	OLD MAN		maa³	m aː
+388054	420721	hubercolumbian-Kakua	cacu1241		oldwoman	907	OLD WOMAN		beʔ⁴ wili⁴	b e ʔ + w i l i
+388061	420728	hubercolumbian-Nukak	nuka1242		oldwoman	907	OLD WOMAN		mi⁴ maa³	m i + m aː
+389579	422246	hubercolumbian-Kakua	cacu1241		one	1493	ONE		bik³	b i k
+389585	422252	hubercolumbian-Nukak	nuka1242		one	1493	ONE		miik³	m iː k
+393623	426290	hubercolumbian-Kakua	cacu1241		other	197	OTHER		biʔ³	b i ʔ
+393634	426301	hubercolumbian-Nukak	nuka1242		other	197	OTHER		biiʔ²	b iː ʔ
+394147	426814	hubercolumbian-Kakua	cacu1241		otter	15	OTTER		wẽd⁴	w ẽ d
+394153	426820	hubercolumbian-Nukak	nuka1242		otter	15	OTTER		wɛn⁴daawa⁴	w ɛ n d aː w a
+395254	427921	hubercolumbian-Kakua	cacu1241		owl	735	OWL		pi̵bi̵p⁴	p ɨ b ɨ p
+395261	427928	hubercolumbian-Nukak	nuka1242		owl	735	OWL		muni⁴bu⁴	m u n i b u
+395807	428474	hubercolumbian-Kakua	cacu1241		paca	316	PACA		keb³	k e b
+395814	428481	hubercolumbian-Nukak	nuka1242		paca	316	PACA		kɛɛbm²	k ɛ ɛ b m
+395868	428535	hubercolumbian-Kakua	cacu1241		paddle	234	PADDLE		bẽd³at⁴ dã³	b ẽ d a t + d ã
+395875	428542	hubercolumbian-Nukak	nuka1242		paddle	234	PADDLE		pi̵gʔ⁴at¹ni̵i¹	p ɨ g ʔ a t n ɨ i
+398821	431488	hubercolumbian-Kakua	cacu1241		parakeet	886	PARAKEET		jedeʔ³	j e d e ʔ
+399129	431796	hubercolumbian-Kakua	cacu1241		parrot	882	PARROT		jãh³	j ã h
+399137	431804	hubercolumbian-Nukak	nuka1242		parrot	882	PARROT		ʔɛlɛʔ⁴	ʔ ɛ l ɛ ʔ
+400766	433433	hubercolumbian-Kakua	cacu1241		path	2252	PATH		dãba³	d ã b a
+400772	433439	hubercolumbian-Nukak	nuka1242		path	2252	PATH		nama²	n a m a
+401990	434657	hubercolumbian-Kakua	cacu1241		pathorroad	2457	PATH OR ROAD		dãba³	d ã b a
+401996	434663	hubercolumbian-Nukak	nuka1242		pathorroad	2457	PATH OR ROAD		nama²	n a m a
+403303	435970	hubercolumbian-Kakua	cacu1241		pebbles	961	PEBBLES		he³ tib²dã⁴	h e + t i b d ã
+403310	435977	hubercolumbian-Nukak	nuka1242		pebbles	961	PEBBLES		doɛʔ⁴	d o ɛ ʔ
+404009	436676	hubercolumbian-Kakua	cacu1241		penis	1222	PENIS		keʔli⁴ dãʔ⁴	k e ʔ l i + d ã ʔ
+404016	436683	hubercolumbian-Nukak	nuka1242		penis	1222	PENIS		ʔĩ̵ũ³at¹na⁴	ʔ ɨ̃ ũ a t n a
+404576	437243	hubercolumbian-Kakua	cacu1241		people	789	PEOPLE		kãk²wã⁴	k ã k w ã
+404582	437249	hubercolumbian-Nukak	nuka1242		people	789	PEOPLE		nĩ̵⁴kãk¹	n ɨ̃ k ã k
+408899	441566	hubercolumbian-Kakua	cacu1241		pierce	398	PIERCE		tah⁴	t a h
+408900	441567	hubercolumbian-Kakua	cacu1241		pierce	398	PIERCE		tah²	t a h
+408907	441574	hubercolumbian-Nukak	nuka1242		pierce	398	PIERCE		tah⁴	t a h
+411363	444030	hubercolumbian-Kakua	cacu1241		piranha	317	PIRANHA		di̵ʔ³	d ɨ ʔ
+411367	444034	hubercolumbian-Nukak	nuka1242		piranha	317	PIRANHA		ʔɛʔ⁴ni⁴	ʔ ɛ ʔ n i
+412617	445284	hubercolumbian-Kakua	cacu1241		plantain	399	PLANTAIN		jok³	j o k
+412623	445290	hubercolumbian-Nukak	nuka1242		plantain	399	PLANTAIN		ʧẽĩ³	tʃ ẽ ĩ
+421085	453752	hubercolumbian-Kakua	cacu1241		pull	1455	PULL		waj²	w a j
+421093	453760	hubercolumbian-Nukak	nuka1242		pull	1455	PULL		ti̵i̵ʔ³	t ɨ ɨ ʔ
+421945	454612	hubercolumbian-Kakua	cacu1241		puma	1891	PUMA		hiw³ di̵⁴dĩ⁴	h i w + d ɨ d ĩ
+422799	455467	hubercolumbian-Kakua	cacu1241		push	1452	PUSH		to²	t o
+422808	455476	hubercolumbian-Nukak	nuka1242		push	1452	PUSH		ʔiu³	ʔ i u
+425458	458126	hubercolumbian-Kakua	cacu1241		rainbow	1733	RAINBOW		bãj³ hi̵di̵²	b ã j + h ɨ d ɨ
+425464	458132	hubercolumbian-Nukak	nuka1242		rainbow	1733	RAINBOW		nɛmaʔ¹	n ɛ m a ʔ
+426953	459621	hubercolumbian-Kakua	cacu1241		rainprecipitation	658	RAIN (PRECIPITATION)		bãʔ⁴	b ã ʔ
+426954	459622	hubercolumbian-Kakua	cacu1241		rainprecipitation	658	RAIN (PRECIPITATION)		bãʔ⁴ bi̵g³	b ã ʔ + b ɨ g
+426955	459623	hubercolumbian-Kakua	cacu1241		rainprecipitation	658	RAIN (PRECIPITATION)		báʔ⁴ wa⁴	b a ʔ + w a
+426961	459629	hubercolumbian-Nukak	nuka1242		rainprecipitation	658	RAIN (PRECIPITATION)		kaan²de¹	k aː n d e
+428964	461632	hubercolumbian-Kakua	cacu1241		rapids	1670	RAPIDS		do²	d o
+429539	462207	hubercolumbian-Kakua	cacu1241		rat	1490	RAT		ʧawʔ²	tʃ a w ʔ
+430237	462905	hubercolumbian-Kakua	cacu1241		rattle	300	RATTLE		dot² daʔ⁴	d o t + d a ʔ
+432380	465048	hubercolumbian-Kakua	cacu1241		red	156	RED		di̵⁴dĩ⁴	d ɨ d ĩ
+432386	465054	hubercolumbian-Nukak	nuka1242		red	156	RED		mɛ̃lũ²	m ɛ̃ l ũ
+433487	466155	hubercolumbian-Kakua	cacu1241		reed	659	REED		di⁴ dãʔ⁴	d i + d ã ʔ
+433493	466161	hubercolumbian-Nukak	nuka1242		reed	659	REED		mɛlɛʔ⁴	m ɛ l ɛ ʔ
+438161	470829	hubercolumbian-Kakua	cacu1241		right	1019	RIGHT		hejʔ²jep⁴ bãdʔ⁴bo³	h e j ʔ j e p + b ã d ʔ b o
+438167	470835	hubercolumbian-Nukak	nuka1242		right	1019	RIGHT		bakaʔ¹	b a k a ʔ
+439457	472125	hubercolumbian-Kakua	cacu1241		ripe	178	RIPE		bab³	b a b
+439458	472126	hubercolumbian-Kakua	cacu1241		ripe	178	RIPE		ʧãb⁴dĩ⁴	tʃ ã b d ĩ
+439466	472134	hubercolumbian-Nukak	nuka1242		ripe	178	RIPE		ʧam⁴	tʃ a m
+440630	473298	hubercolumbian-Kakua	cacu1241		river	666	RIVER		bĩ̵h⁴	b ɨ̃ h
+440638	473306	hubercolumbian-Nukak	nuka1242		river	666	RIVER		iip³bɛʔ⁴	iː p b ɛ ʔ
+442592	475261	hubercolumbian-Kakua	cacu1241		roof	769	ROOF		bĩ̵³	b ɨ̃
+442599	475268	hubercolumbian-Nukak	nuka1242		roof	769	ROOF		nɛɛʔ³at¹	n ɛ ɛ ʔ a t
+444333	477002	hubercolumbian-Kakua	cacu1241		root	670	ROOT		jẽʔ⁴	j ẽ ʔ
+444334	477003	hubercolumbian-Kakua	cacu1241		root	670	ROOT		dãt²	d ã t
+444342	477011	hubercolumbian-Nukak	nuka1242		root	670	ROOT		naʔ⁴	n a ʔ
+446227	478896	hubercolumbian-Kakua	cacu1241		rope	1218	ROPE		ti̵t²	t ɨ t
+446236	478905	hubercolumbian-Nukak	nuka1242		rope	1218	ROPE		tããʔ²	t ã ã ʔ
+447868	480537	hubercolumbian-Kakua	cacu1241		rotten	1728	ROTTEN		bõp³dĩ⁴	b õ p d ĩ
+447876	480545	hubercolumbian-Nukak	nuka1242		rotten	1728	ROTTEN		duiʔ⁴	d u i ʔ
+448730	481399	hubercolumbian-Kakua	cacu1241		round	1395	ROUND		daʔ⁴	d a ʔ
+448738	481407	hubercolumbian-Nukak	nuka1242		round	1395	ROUND		hibi⁴	h i b i
+449698	482367	hubercolumbian-Kakua	cacu1241		rub	1449	RUB		keʔe⁴ daʔ⁴	k e ʔ e + d a ʔ
+449704	482373	hubercolumbian-Nukak	nuka1242		rub	1449	RUB		daʔ⁴	d a ʔ
+452896	485565	hubercolumbian-Kakua	cacu1241		saliva	1503	SALIVA		bãw³ bãk⁴	b ã w + b ã k
+452902	485571	hubercolumbian-Nukak	nuka1242		saliva	1503	SALIVA		paan²at¹maʔ⁴	p aː n a t m a ʔ
+453720	486389	hubercolumbian-Kakua	cacu1241		salt	1274	SALT		dĩ̵b²dĩ⁴	d ɨ̃ b d ĩ
+453727	486396	hubercolumbian-Nukak	nuka1242		salt	1274	SALT		taadn²	t aː d n
+456284	488953	hubercolumbian-Kakua	cacu1241		sand	671	SAND		ʔõd²	ʔ õ d
+456290	488959	hubercolumbian-Nukak	nuka1242		sand	671	SAND		ʔuun³	ʔ uː n
+457640	490309	hubercolumbian-Kakua	cacu1241		sap	345	SAP		ʔaʔ⁴	ʔ a ʔ
+457645	490314	hubercolumbian-Nukak	nuka1242		sap	345	SAP		ʔaʔ⁴	ʔ a ʔ
+458265	490934	hubercolumbian-Kakua	cacu1241		savanna	260	SAVANNA		hi̵ʔ³	h ɨ ʔ
+459237	491906	hubercolumbian-Kakua	cacu1241		say	1458	SAY		dãwʔ³	d ã w ʔ
+459238	491907	hubercolumbian-Kakua	cacu1241		say	1458	SAY		dĩh³	d ĩ h
+459247	491916	hubercolumbian-Nukak	nuka1242		say	1458	SAY		niih²	n iː h
+463082	495751	hubercolumbian-Kakua	cacu1241		sea	1474	SEA		bi̵di¹ bĩ̵h⁴	b ɨ d i + b ɨ̃ h
+464988	497658	hubercolumbian-Kakua	cacu1241		see	1409	SEE		ʔẽd⁴	ʔ ẽ d
+464994	497664	hubercolumbian-Nukak	nuka1242		see	1409	SEE		ʔɛn⁴	ʔ ɛ n
+466565	499235	hubercolumbian-Kakua	cacu1241		seed	714	SEED		tib²	t i b
+466572	499242	hubercolumbian-Nukak	nuka1242		seed	714	SEED		tɛ̃kɛ̃lẽ	t ɛ̃ k ɛ̃ l ẽ
+472077	504748	hubercolumbian-Kakua	cacu1241		sew	1457	SEW		waj⁴	w a j
+472083	504754	hubercolumbian-Nukak	nuka1242		sew	1457	SEW		kãʔ⁴	k ã ʔ
+473941	506612	hubercolumbian-Kakua	cacu1241		shamanfolkhealer	394	SHAMAN (FOLK HEALER)		hiw³	h i w
+474872	507543	hubercolumbian-Kakua	cacu1241		sharp	1396	SHARP		ʔeep³	ʔ eː p
+474879	507550	hubercolumbian-Nukak	nuka1242		sharp	1396	SHARP		ʔɛʔ⁴	ʔ ɛ ʔ
+476129	508801	hubercolumbian-Kakua	cacu1241		she	1834	SHE		dĩdʔ⁴	d ĩ d ʔ
+476130	508802	hubercolumbian-Kakua	cacu1241		she	1834	SHE		kõdʔ⁴	k õ d ʔ
+476131	508803	hubercolumbian-Kakua	cacu1241		she	1834	SHE		kãdʔ³	k ã d ʔ
+476138	508810	hubercolumbian-Nukak	nuka1242		she	1834	SHE		kaanʔ²	k aː n ʔ
+477476	510148	hubercolumbian-Kakua	cacu1241		shin	186	SHIN		wi̵² ʔidip³	w ɨ + ʔ i d i p
+481461	514133	hubercolumbian-Kakua	cacu1241		short	1645	SHORT		baʔ⁴dĩ⁴	b a ʔ d ĩ
+481462	514134	hubercolumbian-Kakua	cacu1241		short	1645	SHORT		baa¹dĩ⁴	b aː d ĩ
+481468	514140	hubercolumbian-Nukak	nuka1242		short	1645	SHORT		ʤi̵i̵p²ka¹	dʒ ɨ ɨ p k a
+482779	515451	hubercolumbian-Kakua	cacu1241		shoulder	1482	SHOULDER		dad³	d a d
+482785	515457	hubercolumbian-Nukak	nuka1242		shoulder	1482	SHOULDER		pelu⁴	p e l u
+488335	521007	hubercolumbian-Kakua	cacu1241		sing	1261	SING		ʔew⁴	ʔ e w
+488342	521014	hubercolumbian-Nukak	nuka1242		sing	1261	SING		kaah²	k aː h
+491479	524151	hubercolumbian-Kakua	cacu1241		sitdown	1649	SIT DOWN		ʧi̵d²	tʃ ɨ d
+491487	524159	hubercolumbian-Nukak	nuka1242		sitdown	1649	SIT DOWN		wi̵i̵²jah⁴	w ɨ ɨ j a h
+494551	527223	hubercolumbian-Kakua	cacu1241		skin	763	SKIN		bakaʔ² ʧo²	b a k a ʔ + tʃ o
+494557	527229	hubercolumbian-Nukak	nuka1242		skin	763	SKIN		ni̵i³	n ɨ i
+496999	529671	hubercolumbian-Kakua	cacu1241		sky	1732	SKY		hea³	h e a
+497005	529677	hubercolumbian-Nukak	nuka1242		sky	1732	SKY		hea²	h e a
+499186	531858	hubercolumbian-Kakua	cacu1241		sleep	1585	SLEEP		ʔĩ̵w⁴	ʔ ɨ̃ w
+499192	531864	hubercolumbian-Nukak	nuka1242		sleep	1585	SLEEP		ʔĩ̵ũ⁴	ʔ ɨ̃ ũ
+502754	535428	hubercolumbian-Kakua	cacu1241		small	1246	SMALL		baj³dĩ⁴	b a j d ĩ
+502755	535429	hubercolumbian-Kakua	cacu1241		small	1246	SMALL		boto⁴dĩ⁴	b o t o d ĩ
+502763	535437	hubercolumbian-Nukak	nuka1242		small	1246	SMALL		bai²	b a i
+505500	538174	hubercolumbian-Kakua	cacu1241		smellperceive	1586	SMELL (PERCEIVE)		hõj³	h õ j
+505508	538182	hubercolumbian-Nukak	nuka1242		smellperceive	1586	SMELL (PERCEIVE)		wĩĩh³	w ĩ ĩ h
+507099	539775	hubercolumbian-Kakua	cacu1241		smokeexhaust	778	SMOKE (EXHAUST)		ti̵⁴ hej³	t ɨ + h e j
+507106	539782	hubercolumbian-Nukak	nuka1242		smokeexhaust	778	SMOKE (EXHAUST)		hei²	h e i
+508578	541254	hubercolumbian-Kakua	cacu1241		smooth	1234	SMOOTH		ʔiti³dĩ⁴	ʔ i t i d ĩ
+508586	541262	hubercolumbian-Nukak	nuka1242		smooth	1234	SMOOTH		hĩõ²	h ĩ õ
+509956	542632	hubercolumbian-Kakua	cacu1241		snake	730	SNAKE		bãj⁴	b ã j
+509963	542639	hubercolumbian-Nukak	nuka1242		snake	730	SNAKE		mãĩ⁴	m ã ĩ
+512223	544899	hubercolumbian-Kakua	cacu1241		snow	784	SNOW		kãbaʔ²dĩ⁴	k ã b a ʔ d ĩ
+520421	553097	hubercolumbian-Kakua	cacu1241		spear	945	SPEAR		ʔĩ̵⁴at⁴ dobʔ³	ʔ ɨ̃ a t + d o b ʔ
+520422	553098	hubercolumbian-Kakua	cacu1241		spear	945	SPEAR		kah⁴at⁴ dobʔ³	k a h a t + d o b ʔ
+520428	553104	hubercolumbian-Nukak	nuka1242		spear	945	SPEAR		ɲumoʔ²	ɲ u m o ʔ
+522189	554865	hubercolumbian-Kakua	cacu1241		spider	843	SPIDER		hagap⁴	h a g a p
+522198	554874	hubercolumbian-Nukak	nuka1242		spider	843	SPIDER		pĩ̵pĩ̵ʔ²	p ɨ̃ p ɨ̃ ʔ
+525317	557993	hubercolumbian-Kakua	cacu1241		split	1437	SPLIT		paʔ⁴	p a ʔ
+525318	557994	hubercolumbian-Kakua	cacu1241		split	1437	SPLIT		pãk²	p ã k
+525319	557995	hubercolumbian-Kakua	cacu1241		split	1437	SPLIT		paʔ⁴pãk²	p a ʔ p ã k
+525325	558001	hubercolumbian-Nukak	nuka1242		split	1437	SPLIT		bi̵i̵ʔ³	b ɨ ɨ ʔ
+526609	559285	hubercolumbian-Kakua	cacu1241		springofwater	849	SPRING (OF WATER)		bãʔ⁴ bak⁴hãwʔ³at⁴	b ã ʔ + b a k h ã w ʔ a t
+526615	559291	hubercolumbian-Nukak	nuka1242		springofwater	849	SPRING (OF WATER)		ti̵⁴wai³bi̵ʔ⁴	t ɨ w a i b ɨ ʔ
+527789	560465	hubercolumbian-Kakua	cacu1241		squeeze	1414	SQUEEZE		boj²	b o j
+527797	560473	hubercolumbian-Nukak	nuka1242		squeeze	1414	SQUEEZE		bui³	b u i
+531109	563785	hubercolumbian-Kakua	cacu1241		standup	570	STAND UP		jĩ̵ʔ⁴	j ɨ̃ ʔ
+531110	563786	hubercolumbian-Kakua	cacu1241		standup	570	STAND UP		jãʔ⁴ jĩ̵ʔ⁴	j ã ʔ + j ɨ̃ ʔ
+531117	563793	hubercolumbian-Nukak	nuka1242		standup	570	STAND UP		ɲaʔ⁴	ɲ a ʔ
+532228	564904	hubercolumbian-Kakua	cacu1241		star	1430	STAR		ki̵j²	k ɨ j
+532234	564910	hubercolumbian-Nukak	nuka1242		star	1430	STAR		ki̵i³	k ɨ i
+535576	568252	hubercolumbian-Kakua	cacu1241		stick	1295	STICK		bã² dobʔ³	b ã + d o b ʔ
+535583	568259	hubercolumbian-Nukak	nuka1242		stick	1295	STICK		ti̵⁴naʔ⁴	t ɨ n a ʔ
+537503	570180	hubercolumbian-Kakua	cacu1241		stomach	819	STOMACH		wi̵daʔ⁴	w ɨ d a ʔ
+537511	570188	hubercolumbian-Nukak	nuka1242		stomach	819	STOMACH		paan²at¹daʔ⁴	p aː n a t d a ʔ
+538768	571445	hubercolumbian-Kakua	cacu1241		stone	857	STONE		he³	h e
+538774	571451	hubercolumbian-Nukak	nuka1242		stone	857	STONE		hee²	h eː
+540257	572934	hubercolumbian-Kakua	cacu1241		stool	2058	STOOL		ʧi̵d² at⁴ paʔa²	tʃ ɨ d + a t + p a ʔ a
+540258	572935	hubercolumbian-Kakua	cacu1241		stool	2058	STOOL		lãtʧi²	l ã t tʃ i
+540264	572941	hubercolumbian-Nukak	nuka1242		stool	2058	STOOL		wi̵i̵²jah⁴at¹	w ɨ ɨ j a h a t
+540596	573273	hubercolumbian-Kakua	cacu1241		stormclouds	448	STORM CLOUDS		bãʔ⁴ toliʔ²dã⁴	b ã ʔ + t o l i ʔ d ã
+540601	573278	hubercolumbian-Nukak	nuka1242		stormclouds	448	STORM CLOUDS		ʧei³teu⁴at¹	tʃ e i t e u a t
+541197	573874	hubercolumbian-Kakua	cacu1241		straight	1404	STRAIGHT		job³op³diʔ⁴	j o b o p d i ʔ
+541204	573881	hubercolumbian-Nukak	nuka1242		straight	1404	STRAIGHT		juum²	j uː m
+542507	575184	hubercolumbian-Kakua	cacu1241		stream	947	STREAM		bẽw⁴	b ẽ w
+542514	575191	hubercolumbian-Nukak	nuka1242		stream	947	STREAM		mi̵h⁴	m ɨ h
+543489	576166	hubercolumbian-Kakua	cacu1241		strike	353	STRIKE		bãw⁴	b ã w
+543498	576175	hubercolumbian-Nukak	nuka1242		strike	353	STRIKE		baak²	b aː k
+546164	578841	hubercolumbian-Kakua	cacu1241		suck	1421	SUCK		dõb⁴	d õ b
+546172	578849	hubercolumbian-Nukak	nuka1242		suck	1421	SUCK		ɸiibʔ³	ɸ iː b ʔ
+548154	580831	hubercolumbian-Kakua	cacu1241		sun	1343	SUN		jew³	j e w
+548162	580839	hubercolumbian-Nukak	nuka1242		sun	1343	SUN		widʔ⁴	w i d ʔ
+550783	583460	hubercolumbian-Kakua	cacu1241		swamp	1145	SWAMP		jĩ̵ʔ³	j ɨ̃ ʔ
+550790	583467	hubercolumbian-Nukak	nuka1242		swamp	1145	SWAMP		ku⁴aʔ²	k u a ʔ
+553089	585766	hubercolumbian-Kakua	cacu1241		sweetpotato	159	SWEET POTATO		ki̵d³ daʔ⁴	k ɨ d + d a ʔ
+553095	585772	hubercolumbian-Nukak	nuka1242		sweetpotato	159	SWEET POTATO		ki̵i̵dn²	k ɨ ɨ d n
+553995	586672	hubercolumbian-Kakua	cacu1241		swell	1573	SWELL		ʧala⁴	tʃ a l a
+554001	586678	hubercolumbian-Nukak	nuka1242		swell	1573	SWELL		ʔolo²	ʔ o l o
+555199	587876	hubercolumbian-Kakua	cacu1241		swim	1439	SWIM		jaʔ³	j a ʔ
+555205	587882	hubercolumbian-Nukak	nuka1242		swim	1439	SWIM		pi̵gʔ⁴ teu⁴	p ɨ g ʔ + t e u
+557650	590327	hubercolumbian-Kakua	cacu1241		tail	1220	TAIL		pĩh⁴	p ĩ h
+557656	590333	hubercolumbian-Nukak	nuka1242		tail	1220	TAIL		tããʔ²	t ã ã ʔ
+560526	593203	hubercolumbian-Kakua	cacu1241		tapir	312	TAPIR		hiwi⁴	h i w i
+560533	593210	hubercolumbian-Nukak	nuka1242		tapir	312	TAPIR		kioʔ¹ni⁴de¹	k i o ʔ n i d e
+564515	597192	hubercolumbian-Nukak	nuka1242		ten	1515	TEN		ʧɛne¹ teiʔ¹	tʃ ɛ n e + t e i ʔ
+565786	598463	hubercolumbian-Kakua	cacu1241		termite	883	TERMITE		poloʔ²	p o l o ʔ
+565793	598470	hubercolumbian-Nukak	nuka1242		termite	883	TERMITE		nããnʔ³	n ã ã n ʔ
+567031	599710	hubercolumbian-Kakua	cacu1241		that	78	THAT		kãd³	k ã d
+567032	599711	hubercolumbian-Kakua	cacu1241		that	78	THAT		kõd⁴	k õ d
+567039	599718	hubercolumbian-Nukak	nuka1242		that	78	THAT		kan⁴	k a n
+569106	601785	hubercolumbian-Kakua	cacu1241		there	1937	THERE		kõd⁴bo³	k õ d b o
+569107	601786	hubercolumbian-Kakua	cacu1241		there	1937	THERE		kãd³bo³	k ã d b o
+569116	601795	hubercolumbian-Nukak	nuka1242		there	1937	THERE		kan⁴	k a n
+570567	603246	hubercolumbian-Kakua	cacu1241		they	817	THEY		dĩt⁴	d ĩ t
+570568	603247	hubercolumbian-Kakua	cacu1241		they	817	THEY		kot⁴	k o t
+570569	603248	hubercolumbian-Kakua	cacu1241		they	817	THEY		ket³	k e t
+570579	603258	hubercolumbian-Nukak	nuka1242		they	817	THEY		kɛɛt²	k ɛ ɛ t
+572007	604686	hubercolumbian-Kakua	cacu1241		thick	1244	THICK		wi̵p⁴dĩ⁴	w ɨ p d ĩ
+572008	604687	hubercolumbian-Kakua	cacu1241		thick	1244	THICK		bĩd³dĩ⁴	b ĩ d d ĩ
+572014	604693	hubercolumbian-Nukak	nuka1242		thick	1244	THICK		min⁴	m i n
+573404	606083	hubercolumbian-Kakua	cacu1241		thin	2308	THIN		jewe¹dĩ⁴	j e w e d ĩ
+573412	606091	hubercolumbian-Nukak	nuka1242		thin	2308	THIN		bai²	b a i
+574827	607506	hubercolumbian-Kakua	cacu1241		think	2271	THINK		henaʔ⁴ hoj³	h e n a ʔ + h o j
+574833	607512	hubercolumbian-Nukak	nuka1242		think	2271	THINK		hɛnaʔ⁴	h ɛ n a ʔ
+578116	610795	hubercolumbian-Kakua	cacu1241		this	1214	THIS		dĩd⁴	d ĩ d
+578123	610802	hubercolumbian-Nukak	nuka1242		this	1214	THIS		nin⁴	n i n
+580309	612991	hubercolumbian-Kakua	cacu1241		thou	1215	THOU		bẽb³	b ẽ b
+580315	612997	hubercolumbian-Nukak	nuka1242		thou	1215	THOU		mɛɛm²	m ɛ ɛ m
+583081	615766	hubercolumbian-Kakua	cacu1241		three	492	THREE		bik³ pejʔ⁴kãd⁴dĩ⁴	b i k + p e j ʔ k ã d d ĩ
+586012	618697	hubercolumbian-Kakua	cacu1241		throw	1456	THROW		joʔ⁴	j o ʔ
+586022	618707	hubercolumbian-Nukak	nuka1242		throw	1456	THROW		ʤuʔ⁴	dʒ u ʔ
+587829	620514	hubercolumbian-Kakua	cacu1241		thunder	1150	THUNDER		ʔẽdoʔ²	ʔ ẽ d o ʔ
+587835	620520	hubercolumbian-Nukak	nuka1242		thunder	1150	THUNDER		hi̵hi̵²at¹	h ɨ h ɨ a t
+589111	621798	hubercolumbian-Kakua	cacu1241		tie	1917	TIE		ʧew²	tʃ e w
+589118	621805	hubercolumbian-Nukak	nuka1242		tie	1917	TIE		hiign³	h iː g n
+591210	623897	hubercolumbian-Kakua	cacu1241		tipoftongue	443	TIP (OF TONGUE)		dĩ̵k³ jap⁴at⁴	d ɨ̃ k + j a p a t
+591215	623902	hubercolumbian-Nukak	nuka1242		tipoftongue	443	TIP (OF TONGUE)		ni̵i̵k²	n ɨ ɨ k
+591641	624328	hubercolumbian-Kakua	cacu1241		toad	894	TOAD		bi̵bi̵³	b ɨ b ɨ
+591652	624339	hubercolumbian-Nukak	nuka1242		toad	894	TOAD		bubu¹daʔwa⁴	b u b u d a ʔ w a
+592001	624688	hubercolumbian-Kakua	cacu1241		tobacco	974	TOBACCO		hi̵p³	h ɨ p
+592007	624694	hubercolumbian-Nukak	nuka1242		tobacco	974	TOBACCO		ɲi̵na⁴	ɲ ɨ n a
+593081	625768	hubercolumbian-Kakua	cacu1241		toe	1389	TOE		hit² tib² dobʔ³	h i t + t i b + d o b ʔ
+593087	625774	hubercolumbian-Nukak	nuka1242		toe	1389	TOE		ʧĩ̵⁴at¹daʔ⁴	tʃ ɨ̃ a t d a ʔ
+596209	628896	hubercolumbian-Kakua	cacu1241		tongue	1205	TONGUE		dĩ̵k³	d ɨ̃ k
+596215	628902	hubercolumbian-Nukak	nuka1242		tongue	1205	TONGUE		ni̵ik²	n ɨ i k
+598385	631072	hubercolumbian-Kakua	cacu1241		tooth	1380	TOOTH		bãw³	b ã w
+598391	631078	hubercolumbian-Nukak	nuka1242		tooth	1380	TOOTH		mau²	m a u
+600016	632703	hubercolumbian-Kakua	cacu1241		tortoise	895	TORTOISE		ti̵h⁴	t ɨ h
+600017	632704	hubercolumbian-Kakua	cacu1241		tortoise	895	TORTOISE		ti̵h⁴ ʧãba²	t ɨ h + tʃ ã b a
+600022	632709	hubercolumbian-Nukak	nuka1242		tortoise	895	TORTOISE		ɲãkoʔ⁴je¹	ɲ ã k o ʔ j e
+600112	632799	hubercolumbian-Kakua	cacu1241		toucan	308	TOUCAN		dĩh⁴	d ĩ h
+600121	632808	hubercolumbian-Nukak	nuka1242		toucan	308	TOUCAN		nih⁴	n i h
+602790	635477	hubercolumbian-Kakua	cacu1241		tree	906	TREE		bã² dãʔ⁴	b ã + d ã ʔ
+602797	635484	hubercolumbian-Nukak	nuka1242		tree	906	TREE		ti̵naʔ⁴	t ɨ n a ʔ
+607927	640614	hubercolumbian-Kakua	cacu1241		turtle	112	TURTLE		ti̵h⁴	t ɨ h
+607933	640620	hubercolumbian-Nukak	nuka1242		turtle	112	TURTLE		ɲãkoʔ⁴	ɲ ã k o ʔ
+611289	643976	hubercolumbian-Kakua	cacu1241		two	1498	TWO		ʧẽde²	tʃ ẽ d e
+611296	643983	hubercolumbian-Nukak	nuka1242		two	1498	TWO		ʧɛne¹	tʃ ɛ n e
+615088	647775	hubercolumbian-Kakua	cacu1241		up	1591	UP		hap⁴ bo³	h a p + b o
+615089	647776	hubercolumbian-Kakua	cacu1241		up	1591	UP		ʔab³	ʔ a b
+615097	647784	hubercolumbian-Nukak	nuka1242		up	1591	UP		kada²	k a d a
+615375	648062	hubercolumbian-Kakua	cacu1241		upperarm	431	UPPER ARM		bĩ̵h⁴ dãʔ⁴	b ɨ̃ h + d ã ʔ
+615379	648066	hubercolumbian-Nukak	nuka1242		upperarm	431	UPPER ARM		mĩ̵h⁴ hɛduʔ⁴	m ɨ̃ h + h ɛ d u ʔ
+615729	648416	hubercolumbian-Kakua	cacu1241		upperback	445	UPPER BACK		ti̵⁴ dãʔ⁴	t ɨ + d ã ʔ
+615735	648422	hubercolumbian-Nukak	nuka1242		upperback	445	UPPER BACK		kolibaʔ⁴	k o l i b a ʔ
+615965	648652	hubercolumbian-Kakua	cacu1241		upperlegthigh	471	UPPER LEG (THIGH)		bĩ̵j²	b ɨ̃ j
+615970	648657	hubercolumbian-Nukak	nuka1242		upperlegthigh	471	UPPER LEG (THIGH)		hibiʔ⁴at⁴	h i b i ʔ a t
+619158	651846	hubercolumbian-Kakua	cacu1241		village	930	VILLAGE		ti̵tʧi²	t ɨ t tʃ i
+619164	651852	hubercolumbian-Nukak	nuka1242		village	930	VILLAGE		mi̵i̵²	m ɨ ɨ
+621187	653875	hubercolumbian-Kakua	cacu1241		vomit	1278	VOMIT		ʔeg²	ʔ e g
+621193	653881	hubercolumbian-Nukak	nuka1242		vomit	1278	VOMIT		ʔɛɛgn³	ʔ ɛ ɛ g n
+622020	654708	hubercolumbian-Kakua	cacu1241		vulva	1837	VULVA		keʔli⁴ daʔ⁴	k e ʔ l i + d a ʔ
+622024	654712	hubercolumbian-Nukak	nuka1242		vulva	1837	VULVA		di̵i²	d ɨ i
+624771	677432	hubercolumbian-Kakua	cacu1241		where	1237	WHERE		ded³	d e d
+624772	677433	hubercolumbian-Kakua	cacu1241		where	1237	WHERE		de⁴job³	d e j o b
+624783	677444	hubercolumbian-Nukak	nuka1242		where	1237	WHERE		dɛdn⁴diʔ¹	d ɛ d n d i ʔ
+627139	679800	hubercolumbian-Kakua	cacu1241		white	1335	WHITE		bab³dĩ⁴	b a b d ĩ
+627146	679807	hubercolumbian-Nukak	nuka1242		white	1335	WHITE		paʧe³waʔ⁴	p a tʃ e w a ʔ
+628549	681210	hubercolumbian-Kakua	cacu1241		whitelippedpeccary	436	WHITE-LIPPED PECCARY		bĩ̵⁴	b ɨ̃
+629598	682351	hubercolumbian-Kakua	cacu1241		who	1235	WHO		deʔe²	d e ʔ e
+629612	682365	hubercolumbian-Nukak	nuka1242		who	1235	WHO		dɛʔɛ⁴	d ɛ ʔ ɛ
+631390	684144	hubercolumbian-Kakua	cacu1241		wide	1243	WIDE		bi̵di¹ bi̵wa³	b ɨ d i + b ɨ w a
+631396	684150	hubercolumbian-Nukak	nuka1242		wide	1243	WIDE		niʔ⁴	n i ʔ
+632912	685666	hubercolumbian-Kakua	cacu1241		wife	1199	WIFE		ʔa²	ʔ a
+632913	685667	hubercolumbian-Kakua	cacu1241		wife	1199	WIFE		wã⁴heʔ³ boli²	w ã h e ʔ + b o l i
+632921	685675	hubercolumbian-Nukak	nuka1242		wife	1199	WIFE		tãʔ⁴bi̵ʔ⁴	t ã ʔ b ɨ ʔ
+634980	687734	hubercolumbian-Kakua	cacu1241		wind	960	WIND		hoʔlit²	h o ʔ l i t
+634986	687740	hubercolumbian-Nukak	nuka1242		wind	960	WIND		huʔ⁴at¹	h u ʔ a t
+637110	689864	hubercolumbian-Kakua	cacu1241		wing	1257	WING		bĩ̵h⁴ ɸãpah²	b ɨ̃ h + ɸ ã p a h
+637117	689871	hubercolumbian-Nukak	nuka1242		wing	1257	WING		mĩ̵⁴ɸããp³	m ɨ̃ ɸ ã ã p
+638861	691615	hubercolumbian-Kakua	cacu1241		with	1340	WITH		hĩʔ⁴	h ĩ ʔ
+638862	691616	hubercolumbian-Kakua	cacu1241		with	1340	WITH		heʔ³	h e ʔ
+638870	691624	hubercolumbian-Nukak	nuka1242		with	1340	WITH		hĩʔ⁴	h ĩ ʔ
+639979	692734	hubercolumbian-Kakua	cacu1241		woman	962	WOMAN		jad⁴	j a d
+639980	692735	hubercolumbian-Kakua	cacu1241		woman	962	WOMAN		jad⁴ wili⁴	j a d + w i l i
+639989	692744	hubercolumbian-Nukak	nuka1242		woman	962	WOMAN		ni̵⁴mat¹	n ɨ m a t
+644348	697103	hubercolumbian-Kakua	cacu1241		worm	1219	WORM		tõj³	t õ j
+644355	697110	hubercolumbian-Nukak	nuka1242		worm	1219	WORM		dokoiʔ⁴	d o k o i ʔ
+645589	698344	hubercolumbian-Kakua	cacu1241		wrist	799	WRIST		tejʔja² koloʔ³	t e j ʔ j a + k o l o ʔ
+645595	698350	hubercolumbian-Nukak	nuka1242		wrist	799	WRIST		teiʔ³ ʧĩ̵ũʔ²	t e i ʔ + tʃ ɨ̃ ũ ʔ
+646284	699039	hubercolumbian-Kakua	cacu1241		yam	410	YAM		jõa³ daʔ⁴	j õ a + d a ʔ
+646285	699040	hubercolumbian-Kakua	cacu1241		yam	410	YAM		mamo⁴	m a m o
+646291	699046	hubercolumbian-Nukak	nuka1242		yam	410	YAM		mamu⁴	m a m u
+651600	705440	hubercolumbian-Kakua	cacu1241		you	1213	YOU		jeb³	j e b
+651609	705449	hubercolumbian-Nukak	nuka1242		you	1213	YOU		jɛɛbm²	j ɛ ɛ b m

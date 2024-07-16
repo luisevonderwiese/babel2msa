@@ -1,0 +1,528 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+3933	20084	johanssonsoundsymbolic-Mali	mali1284		back	1291	BACK		ɹəŋ	ɹ ə ŋ
+5051	21202	johanssonsoundsymbolic-Mali	mali1284		bad	1292	BAD		aŋguβaŋ	a ŋ g u β a ŋ
+8886	25037	johanssonsoundsymbolic-Mali	mali1284		bark	1204	BARK		aluat	a l u a t
+9384	25535	transnewguineaorg-qaget	qaqe1238		bark	1204	BARK		ʌ_g̶ʌtəŋit	ʌ + gˤ ʌ t ə ŋ i t
+9406	25557	transnewguineaorg-ura	urap1240		bark	1204	BARK		ʌsnʌŋgut	ʌ s n ʌ ŋ g u t
+9407	25558	transnewguineaorg-ura	urap1240		bark	1204	BARK		ʌsnʌŋgut	ʌ s n ʌ ŋ g u t
+9408	25559	transnewguineaorg-ura	urap1240		bark	1204	BARK		luat	l u a t
+9409	25560	transnewguineaorg-ura	urap1240		bark	1204	BARK		lur̰ait	l u r a i t
+13029	29180	johanssonsoundsymbolic-Mali	mali1284		bealive	1422	BE ALIVE		ajar	a j a r
+16344	32495	johanssonsoundsymbolic-Mali	mali1284		because	1157	BECAUSE		i	i
+22927	39078	johanssonsoundsymbolic-Mali	mali1284		belly	1251	BELLY		sarumgi	s a r u m g i
+23723	39874	transnewguineaorg-qaget	qaqe1238		belly	1251	BELLY		řutka	r̝ u t k a
+23724	39875	transnewguineaorg-qaget	qaqe1238		belly	1251	BELLY		ʌ_rarutkʌ	ʌ + r a r u t k ʌ
+23770	39921	transnewguineaorg-ura	urap1240		belly	1251	BELLY		ʌ_səřimgi	ʌ + s ə r̝ i m g i
+23771	39922	transnewguineaorg-ura	urap1240		belly	1251	BELLY		ʌ_sərɩmgɩ	ʌ + s ə r ɪ m g ɪ
+23772	39923	transnewguineaorg-ura	urap1240		belly	1251	BELLY		sařimgi	s a r̝ i m g i
+27970	44121	johanssonsoundsymbolic-Mali	mali1284		big	1202	BIG		amɔr	a m ɔ r
+28928	45079	transnewguineaorg-qaget	qaqe1238		big	1202	BIG		sᵊluřᵊka	s ə l u r̝ ə k a
+28929	45080	transnewguineaorg-qaget	qaqe1238		big	1202	BIG		ʌmʌL̶urľka	ʌ m ʌ l u r ʎ k a
+28981	45132	transnewguineaorg-ura	urap1240		big	1202	BIG		mořo	m o r̝ o
+28982	45133	transnewguineaorg-ura	urap1240		big	1202	BIG		mořo	m o r̝ o
+28983	45134	transnewguineaorg-ura	urap1240		big	1202	BIG		moř	m o r̝
+30353	46504	johanssonsoundsymbolic-Mali	mali1284		bird	937	BIRD		isəmga	i s ə m g a
+31280	47431	transnewguineaorg-qaget	qaqe1238		bird	937	BIRD		waⁱṱki	w ai t k i
+31281	47432	transnewguineaorg-qaget	qaqe1238		bird	937	BIRD		ʌ_wʌitka	ʌ + w ʌ i t k a
+31334	47485	transnewguineaorg-ura	urap1240		bird	937	BIRD		ɛɛsumgʌ	ɛ ɛ s u m g ʌ
+31335	47486	transnewguineaorg-ura	urap1240		bird	937	BIRD		ɛɛ'sumgʌ	ɛ ɛ s u m g ʌ
+31336	47487	transnewguineaorg-ura	urap1240		bird	937	BIRD		isʌmga	i s ʌ m g a
+32704	48855	johanssonsoundsymbolic-Mali	mali1284		bite	1403	BITE		tnɛs	t n ɛ s
+33386	49537	transnewguineaorg-qaget	qaqe1238		bite	1403	BITE		ⁿdaŋka_kanis_ama_watka	ⁿd a ŋ k a + k a n i s + a m a + w a t k a
+33387	49538	transnewguineaorg-qaget	qaqe1238		bite	1403	BITE		ʌ_dʌŋkʌ_kʌ_ts	ʌ + d ʌ ŋ k ʌ + k ʌ + ts
+33437	49588	transnewguineaorg-ura	urap1240		bite	1403	BITE		ʌ_mɛmgʌ_kʌ_tᵊsʌmʌ_rugʌ	ʌ + m ɛ m g ʌ + k ʌ + t ə s ʌ m ʌ + r u g ʌ
+33438	49589	transnewguineaorg-ura	urap1240		bite	1403	BITE		ʌ_mɛmgʌ_kʌ_ts_ʌmʌ_rugʌ	ʌ + m ɛ m g ʌ + k ʌ + ts + ʌ m ʌ + r u g ʌ
+33439	49590	transnewguineaorg-ura	urap1240		bite	1403	BITE		ɣʌṱnɛs	ɣ ʌ t n ɛ s
+35317	51468	johanssonsoundsymbolic-Mali	mali1284		black	163	BLACK		aɣluiŋ	a ɣ l u i ŋ
+38730	54881	johanssonsoundsymbolic-Mali	mali1284		blood	946	BLOOD		biaska	b i a s k a
+39640	55791	transnewguineaorg-qaget	qaqe1238		blood	946	BLOOD		ǥᵊřᵊka	g ə r̝ ə k a
+39641	55792	transnewguineaorg-qaget	qaqe1238		blood	946	BLOOD		ʌg̶ʌřʌkʌ	ʌ gˤ ʌ r̝ ʌ k ʌ
+39691	55842	transnewguineaorg-ura	urap1240		blood	946	BLOOD		biʌskʌ	b i ʌ s k ʌ
+39692	55843	transnewguineaorg-ura	urap1240		blood	946	BLOOD		biʌskʌ	b i ʌ s k ʌ
+39693	55844	transnewguineaorg-ura	urap1240		blood	946	BLOOD		a_biaska	a + b i a s k a
+40945	57096	johanssonsoundsymbolic-Mali	mali1284		blowofwind	175	BLOW (OF WIND)		pɛs	p ɛ s
+43124	59275	johanssonsoundsymbolic-Mali	mali1284		blunt	379	BLUNT		buɛl_mət	b u ɛ l + m ə t
+46959	63110	johanssonsoundsymbolic-Mali	mali1284		bone	1394	BONE		sləpki	s l ə p k i
+47880	64031	transnewguineaorg-qaget	qaqe1238		bone	1394	BONE		lan	l a n
+47881	64032	transnewguineaorg-qaget	qaqe1238		bone	1394	BONE		sləpki	s l ə p k i
+47942	64093	transnewguineaorg-ura	urap1240		bone	1394	BONE		a_Lləp	a + l l ə p
+47943	64094	transnewguineaorg-ura	urap1240		bone	1394	BONE		ʌ_Lləp	ʌ + l l ə p
+47944	64095	transnewguineaorg-ura	urap1240		bone	1394	BONE		o_slʌpki	o + s l ʌ p k i
+58963	75116	johanssonsoundsymbolic-Mali	mali1284		breathe	1407	BREATHE		saŋgas	s a ŋ g a s
+91651	107804	johanssonsoundsymbolic-Mali	mali1284		cloud	1489	CLOUD		aɣəluiŋgi	a ɣ ə l u i ŋ g i
+92356	108509	transnewguineaorg-qaget	qaqe1238		cloud	1489	CLOUD		a·tʌm	a + t ʌ m
+92357	108510	transnewguineaorg-qaget	qaqe1238		cloud	1489	CLOUD		ʌ_uusupkʌ	ʌ + uː s u p k ʌ
+92416	108569	transnewguineaorg-ura	urap1240		cloud	1489	CLOUD		məřailɛgᵊs	m ə r̝ a i l ɛ g ə s
+92417	108570	transnewguineaorg-ura	urap1240		cloud	1489	CLOUD		məřaᶥlɛgᵊs	m ə r̝ a l l ɛ g ə s
+92418	108571	transnewguineaorg-ura	urap1240		cloud	1489	CLOUD		eɣuɛɣi	e ɣ u ɛ ɣ i
+98897	115050	johanssonsoundsymbolic-Mali	mali1284		come	1446	COME		dən	d ə n
+99818	115971	transnewguineaorg-qaget	qaqe1238		come	1446	COME		katdɨn	k a t d ɨ n
+99819	115972	transnewguineaorg-qaget	qaqe1238		come	1446	COME		lug̶ʌ_kʌt_ⁿdən	l u gˤ ʌ + k ʌ t + ⁿd ə n
+99868	116021	transnewguineaorg-ura	urap1240		come	1446	COME		iʌk_nʌmuk	i ʌ k + n ʌ m u k
+99869	116022	transnewguineaorg-ura	urap1240		come	1446	COME		iʌk_nʌmuk	i ʌ k + n ʌ m u k
+99870	116023	transnewguineaorg-ura	urap1240		come	1446	COME		ɣat_dʌn	ɣ a t + d ʌ n
+104935	121088	johanssonsoundsymbolic-Mali	mali1284		correctright	1725	CORRECT (RIGHT)		sdamər	s d a m ə r
+121839	137994	johanssonsoundsymbolic-Mali	mali1284		daynotnight	1225	DAY (NOT NIGHT)		kunəŋga	k u n ə ŋ g a
+127119	143274	johanssonsoundsymbolic-Mali	mali1284		die	1494	DIE		ŋip	ŋ i p
+127972	144127	transnewguineaorg-qaget	qaqe1238		die	1494	DIE		ka_ñʸɩp	k a + ɲ j ɪ p
+127973	144128	transnewguineaorg-qaget	qaqe1238		die	1494	DIE		kʌnʌři_kʌp_nʸip	k ʌ n ʌ r̝ i + k ʌ p + nʲ i p
+128014	144169	transnewguineaorg-ura	urap1240		die	1494	DIE		kʌƀɛŋɔ	k ʌ β ɛ ŋ ɔ
+128015	144170	transnewguineaorg-ura	urap1240		die	1494	DIE		nʌniʌǥʌ_bʌ_ǥʌnyəp	n ʌ n i ʌ g ʌ + b ʌ + g ʌ n j ə p
+128016	144171	transnewguineaorg-ura	urap1240		die	1494	DIE		ɣat_dʌp	ɣ a t + d ʌ p
+131759	147914	johanssonsoundsymbolic-Mali	mali1284		dirty	1230	DIRTY		siɣirki_mət	s i ɣ i r k i + m ə t
+135670	151825	johanssonsoundsymbolic-Mali	mali1284		dog	2009	DOG		βaimga	β a i m g a
+136612	152767	transnewguineaorg-qaget	qaqe1238		dog	2009	DOG		daŋka	d a ŋ k a
+136613	152768	transnewguineaorg-qaget	qaqe1238		dog	2009	DOG		ʌ_dʌŋgʌ	ʌ + d ʌ ŋ g ʌ
+136669	152824	transnewguineaorg-ura	urap1240		dog	2009	DOG		mɛmgʌ	m ɛ m g ʌ
+136670	152825	transnewguineaorg-ura	urap1240		dog	2009	DOG		mɛmgʌ	m ɛ m g ʌ
+136671	152826	transnewguineaorg-ura	urap1240		dog	2009	DOG		imga	i m g a
+142136	158291	johanssonsoundsymbolic-Mali	mali1284		drink	1401	DRINK		tnaik	t n a i k
+142712	158867	transnewguineaorg-qaget	qaqe1238		drink	1401	DRINK		ka_sup	k a + s u p
+142713	158868	transnewguineaorg-qaget	qaqe1238		drink	1401	DRINK		kup_suup	k u p + s uː p
+142740	158895	transnewguineaorg-ura	urap1240		drink	1401	DRINK		kʌt_nʌit	k ʌ t + n ʌ i t
+142741	158896	transnewguineaorg-ura	urap1240		drink	1401	DRINK		kʌt_nʌᶥt	k ʌ t + n ʌ l t
+142742	158897	transnewguineaorg-ura	urap1240		drink	1401	DRINK		ɣʌt_nad	ɣ ʌ t + n a d
+145773	161928	johanssonsoundsymbolic-Mali	mali1284		dry	1398	DRY		aɣərarək	a ɣ ə r a r ə k
+148752	164907	johanssonsoundsymbolic-Mali	mali1284		dust	2	DUST		unəpka	u n ə p k a
+151214	167369	johanssonsoundsymbolic-Mali	mali1284		ear	1247	EAR		asdɛmga	a s d ɛ m g a
+152135	168290	transnewguineaorg-qaget	qaqe1238		ear	1247	EAR		sᵊdᵊmki	s ə d ə m k i
+152136	168291	transnewguineaorg-qaget	qaqe1238		ear	1247	EAR		asⁿdəmgi	a s ⁿd ə m g i
+152199	168354	transnewguineaorg-ura	urap1240		ear	1247	EAR		dʌsdəmgi	d ʌ s d ə m g i
+152200	168355	transnewguineaorg-ura	urap1240		ear	1247	EAR		dʌsdəmgɩ	d ʌ s d ə m g ɪ
+152201	168356	transnewguineaorg-ura	urap1240		ear	1247	EAR		asdʌmgi	a s d ʌ m g i
+154134	170289	johanssonsoundsymbolic-Mali	mali1284		earthsoil	1228	EARTH (SOIL)		iβətki	i β ə t k i
+154658	170813	transnewguineaorg-qaget	qaqe1238		earthsoil	1228	EARTH (SOIL)		iƀɨt	i β ɨ t
+154659	170814	transnewguineaorg-qaget	qaqe1238		earthsoil	1228	EARTH (SOIL)		ǥᵊřikʰ	g ə r̝ i kʰ
+154660	170815	transnewguineaorg-qaget	qaqe1238		earthsoil	1228	EARTH (SOIL)		æⁱƀəřʌm	æi β ə r̝ ʌ m
+154685	170840	transnewguineaorg-ura	urap1240		earthsoil	1228	EARTH (SOIL)		i_ƀɛtki	i + β ɛ t k i
+154686	170841	transnewguineaorg-ura	urap1240		earthsoil	1228	EARTH (SOIL)		ɩƀətkɩ	ɪ β ə t k ɪ
+154687	170842	transnewguineaorg-ura	urap1240		earthsoil	1228	EARTH (SOIL)		iwʌtki	i w ʌ t k i
+156737	172892	johanssonsoundsymbolic-Mali	mali1284		eat	1336	EAT		təs	t ə s
+157511	173668	transnewguineaorg-qaget	qaqe1238		eat	1336	EAT		ka_tɨs	k a + t ɨ s
+157512	173669	transnewguineaorg-qaget	qaqe1238		eat	1336	EAT		kʌ_tᵊs	k ʌ + t ə s
+157575	173732	transnewguineaorg-ura	urap1240		eat	1336	EAT		kʌ_tᵊs	k ʌ + t ə s
+157576	173733	transnewguineaorg-ura	urap1240		eat	1336	EAT		ka_ts	k a + ts
+157577	173734	transnewguineaorg-ura	urap1240		eat	1336	EAT		ɣat_tʌs	ɣ a t + t ʌ s
+159046	175204	johanssonsoundsymbolic-Mali	mali1284		egg	744	EGG		βaluaɣa	β a l u a ɣ a
+159940	176098	transnewguineaorg-qaget	qaqe1238		egg	744	EGG		luaǥa	l u a g a
+159941	176099	transnewguineaorg-qaget	qaqe1238		egg	744	EGG		ʌ_luʌg̶ʌ	ʌ + l u ʌ gˤ ʌ
+159986	176144	transnewguineaorg-ura	urap1240		egg	744	EGG		duřaiṱ	d u r̝ a i t
+159987	176145	transnewguineaorg-ura	urap1240		egg	744	EGG		duřaᶥt̯	d u r̝ a l t
+159988	176146	transnewguineaorg-ura	urap1240		egg	744	EGG		luaɣa	l u a ɣ a
+169617	185775	johanssonsoundsymbolic-Mali	mali1284		eye	1248	EYE		saɣɔŋaɣa	s a ɣ ɔ ŋ a ɣ a
+170555	186713	transnewguineaorg-qaget	qaqe1238		eye	1248	EYE		saknaǥa	s a k n a g a
+170556	186714	transnewguineaorg-qaget	qaqe1238		eye	1248	EYE		ʌ_rʌsʌkŋiʌm	ʌ + r ʌ s ʌ k ŋ i ʌ m
+170618	186776	transnewguineaorg-ura	urap1240		eye	1248	EYE		ʌ̂_sʌǥon	ʌ + s ʌ g o n
+170619	186777	transnewguineaorg-ura	urap1240		eye	1248	EYE		ʌ_sʌǥoŋ	ʌ + s ʌ g o ŋ
+170620	186778	transnewguineaorg-ura	urap1240		eye	1248	EYE		asauɣoŋ	a s a u ɣ o ŋ
+173621	189780	johanssonsoundsymbolic-Mali	mali1284		fall	1280	FALL		pɛn_də	p ɛ n + d ə
+175890	192049	johanssonsoundsymbolic-Mali	mali1284		far	1406	FAR		gɛlaulul	g ɛ l a u l u l
+180499	196658	transnewguineaorg-qaget	qaqe1238		father	1217	FATHER		mam	m a m
+180500	196659	transnewguineaorg-qaget	qaqe1238		father	1217	FATHER		kudʸimʌm	k u dʲ i m ʌ m
+180550	196709	transnewguineaorg-ura	urap1240		father	1217	FATHER		ʌ_gumʌm	ʌ + g u m ʌ m
+180551	196710	transnewguineaorg-ura	urap1240		father	1217	FATHER		ʌ_gumʌm	ʌ + g u m ʌ m
+180552	196711	transnewguineaorg-ura	urap1240		father	1217	FATHER		a_mam	a + m a m
+182098	198258	johanssonsoundsymbolic-Mali	mali1284		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		mamutki	m a m u t k i
+182599	198759	transnewguineaorg-qaget	qaqe1238		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ǥᵊmuŋ	g ə m u ŋ
+182600	198760	transnewguineaorg-qaget	qaqe1238		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ʌ_g̶ʌmuŋ	ʌ + gˤ ʌ m u ŋ
+182641	198801	transnewguineaorg-ura	urap1240		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		mʌmətki	m ʌ m ə t k i
+182642	198802	transnewguineaorg-ura	urap1240		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		mʌmətkɩ	m ʌ m ə t k ɪ
+182643	198803	transnewguineaorg-ura	urap1240		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		mamʌtki	m a m ʌ t k i
+184940	201100	johanssonsoundsymbolic-Mali	mali1284		feather	1201	FEATHER		ɣəsɛŋβəs	ɣ ə s ɛ ŋ β ə s
+185413	201573	transnewguineaorg-qaget	qaqe1238		feather	1201	FEATHER		ʌsiŋgəs	ʌ s i ŋ g ə s
+185436	201596	transnewguineaorg-ura	urap1240		feather	1201	FEATHER		ʌǥʌsinᵊŋ	ʌ g ʌ s i n ə ŋ
+185437	201597	transnewguineaorg-ura	urap1240		feather	1201	FEATHER		ʌǥʌsɩnᵊŋ	ʌ g ʌ s ɪ n ə ŋ
+185438	201598	transnewguineaorg-ura	urap1240		feather	1201	FEATHER		ɣʌsɩŋit	ɣ ʌ s ɪ ŋ i t
+189973	222626	johanssonsoundsymbolic-Mali	mali1284		flower	239	FLOWER		galumaiŋ	g a l u m a i ŋ
+192895	225548	johanssonsoundsymbolic-Mali	mali1284		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ləmaska	l ə m a s k a
+193424	226077	transnewguineaorg-qaget	qaqe1238		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		kʌ_məřʌnʌs	k ʌ + m ə r̝ ʌ n ʌ s
+193462	226115	transnewguineaorg-ura	urap1240		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		kʌbʌřʌp	k ʌ b ʌ r̝ ʌ p
+193463	226116	transnewguineaorg-ura	urap1240		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		kʌbʌrʌp	k ʌ b ʌ r ʌ p
+193464	226117	transnewguineaorg-ura	urap1240		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ɩni_ŋr̰ɩwʌřʌp	ɪ n i + ŋ r ɪ w ʌ r̝ ʌ p
+196214	228867	johanssonsoundsymbolic-Mali	mali1284		foot	1301	FOOT		aləɣar	a l ə ɣ a r
+196856	229509	transnewguineaorg-qaget	qaqe1238		foot	1301	FOOT		ɛlain	ɛ l a i n
+196873	229526	transnewguineaorg-ura	urap1240		foot	1301	FOOT		ʌ_gʌřʌ	ʌ + g ʌ r̝ ʌ
+196874	229527	transnewguineaorg-ura	urap1240		foot	1301	FOOT		aɣʌřɩgɛ	a ɣ ʌ r̝ ɪ g ɛ
+202547	235200	johanssonsoundsymbolic-Mali	mali1284		four	1500	FOUR		alɛβaβɛt	a l ɛ β a β ɛ t
+203279	235932	transnewguineaorg-qaget	qaqe1238		four	1500	FOUR		řatpɨs	r̝ a t p ɨ s
+203280	235933	transnewguineaorg-qaget	qaqe1238		four	1500	FOUR		ʌ_řʌtpəs	ʌ + r̝ ʌ t p ə s
+203304	235957	transnewguineaorg-ura	urap1240		four	1500	FOUR		lɛbʌit	l ɛ b ʌ i t
+203305	235958	transnewguineaorg-ura	urap1240		four	1500	FOUR		lɛbʌɩt	l ɛ b ʌ ɪ t
+203306	235959	transnewguineaorg-ura	urap1240		four	1500	FOUR		levaet	l e v a e t
+214645	247298	johanssonsoundsymbolic-Mali	mali1284		give	1447	GIVE		bɔn	b ɔ n
+215535	248188	transnewguineaorg-qaget	qaqe1238		give	1447	GIVE		ka_uřaŋʷa	k a + u r̝ a ŋʷ a
+215536	248189	transnewguineaorg-qaget	qaqe1238		give	1447	GIVE		ŋiurʌ_ŋuʌ	ŋ i u r ʌ + ŋ u ʌ
+215581	248234	transnewguineaorg-ura	urap1240		give	1447	GIVE		kʌt_bɔniŋɛ	k ʌ t + b ɔ n i ŋ ɛ
+215582	248235	transnewguineaorg-ura	urap1240		give	1447	GIVE		kʌt_bɔniŋɛ	k ʌ t + b ɔ n i ŋ ɛ
+215583	248236	transnewguineaorg-ura	urap1240		give	1447	GIVE		ɣʌt_bonŋo_r̠ʌmini	ɣ ʌ t + b o n ŋ o + r ʌ m i n i
+220774	253430	johanssonsoundsymbolic-Mali	mali1284		good	1035	GOOD		amər	a m ə r
+221703	254359	transnewguineaorg-qaget	qaqe1238		good	1035	GOOD		atlu	a t l u
+221704	254360	transnewguineaorg-qaget	qaqe1238		good	1035	GOOD		ʌtlu	ʌ t l u
+221759	254415	transnewguineaorg-ura	urap1240		good	1035	GOOD		mʌməř	m ʌ m ə r̝
+221760	254416	transnewguineaorg-ura	urap1240		good	1035	GOOD		mʌmər	m ʌ m ə r
+221761	254417	transnewguineaorg-ura	urap1240		good	1035	GOOD		mamʌs	m a m ʌ s
+226213	258869	johanssonsoundsymbolic-Mali	mali1284		grass	606	GRASS		aɣəlaɣuas	a ɣ ə l a ɣ u a s
+228565	261221	johanssonsoundsymbolic-Mali	mali1284		green	1425	GREEN		airiar	a i r i a r
+229166	261822	transnewguineaorg-qaget	qaqe1238		green	1425	GREEN		ʌ_nəski	ʌ + n ə s k i
+229202	261858	transnewguineaorg-ura	urap1240		green	1425	GREEN		idiař	i d i a r̝
+229203	261859	transnewguineaorg-ura	urap1240		green	1425	GREEN		idɩař	i d ɪ a r̝
+229204	261860	transnewguineaorg-ura	urap1240		green	1425	GREEN		ɩr̰ɩař	ɪ r ɪ a r̝
+234576	267232	johanssonsoundsymbolic-Mali	mali1284		hair	1040	HAIR		ɣəsɛŋ	ɣ ə s ɛ ŋ
+238417	271073	johanssonsoundsymbolic-Mali	mali1284		hand	1277	HAND		aŋəɹiki	a ŋ ə ɹ i k i
+239111	271767	transnewguineaorg-qaget	qaqe1238		hand	1277	HAND		ⁿgəřɩkʰ	ⁿg ə r̝ ɪ kʰ
+239112	271768	transnewguineaorg-qaget	qaqe1238		hand	1277	HAND		ʌ_ŋəritʰ	ʌ + ŋ ə r i tʰ
+239142	271798	transnewguineaorg-ura	urap1240		hand	1277	HAND		ařit	a r̝ i t
+239143	271799	transnewguineaorg-ura	urap1240		hand	1277	HAND		a_řɩt̯	a + r̝ ɪ t
+239144	271800	transnewguineaorg-ura	urap1240		hand	1277	HAND		ar̰ɩth	a r ɪ t h
+243971	276628	johanssonsoundsymbolic-Mali	mali1284		head	1256	HEAD		βuski	β u s k i
+244940	277597	transnewguineaorg-qaget	qaqe1238		head	1256	HEAD		niŋaǥa	n i ŋ a g a
+244941	277598	transnewguineaorg-qaget	qaqe1238		head	1256	HEAD		ʌ_niŋʌg̶ʌ	ʌ + n i ŋ ʌ gˤ ʌ
+245003	277660	transnewguineaorg-ura	urap1240		head	1256	HEAD		amʌ_niŋʌǥi	a m ʌ + n i ŋ ʌ g i
+245004	277661	transnewguineaorg-ura	urap1240		head	1256	HEAD		ʌmʌ_niŋʌǥɩ	ʌ m ʌ + n i ŋ ʌ g ɪ
+245005	277662	transnewguineaorg-ura	urap1240		head	1256	HEAD		auwʌski	a u w ʌ s k i
+246912	279569	johanssonsoundsymbolic-Mali	mali1284		hear	1408	HEAR		tnari	t n a r i
+247765	280422	transnewguineaorg-qaget	qaqe1238		hear	1408	HEAR		ka_na	k a + n a
+247766	280423	transnewguineaorg-qaget	qaqe1238		hear	1408	HEAR		kʌ_nʌři	k ʌ + n ʌ r̝ i
+247814	280471	transnewguineaorg-ura	urap1240		hear	1408	HEAR		kat_nʌri	k a t + n ʌ r i
+247815	280472	transnewguineaorg-ura	urap1240		hear	1408	HEAR		kʌt_nʌrɩ	k ʌ t + n ʌ r ɪ
+247816	280473	transnewguineaorg-ura	urap1240		hear	1408	HEAR		ɣat_na_ri	ɣ a t + n a + r i
+248499	281156	johanssonsoundsymbolic-Mali	mali1284		heart	1223	HEART		sənəŋaɣa	s ə n ə ŋ a ɣ a
+249139	281796	transnewguineaorg-qaget	qaqe1238		heart	1223	HEART		ŋʌtřʌg̶ʌ	ŋ ʌ t r̝ ʌ gˤ ʌ
+249174	281831	transnewguineaorg-ura	urap1240		heart	1223	HEART		ʌsnʌŋʌgʌ	ʌ s n ʌ ŋ ʌ g ʌ
+249175	281832	transnewguineaorg-ura	urap1240		heart	1223	HEART		ʌsnʌŋʌǥʌ	ʌ s n ʌ ŋ ʌ g ʌ
+249176	281833	transnewguineaorg-ura	urap1240		heart	1223	HEART		asnʌŋaɣa	a s n ʌ ŋ a ɣ a
+250669	283326	johanssonsoundsymbolic-Mali	mali1284		heavy	1210	HEAVY		amurɛŋ	a m u r ɛ ŋ
+251278	283935	transnewguineaorg-qaget	qaqe1238		heavy	1210	HEAVY		mᵊřɨnka	m ə r̝ ɨ n k a
+251279	283936	transnewguineaorg-qaget	qaqe1238		heavy	1210	HEAVY		ʌ_məřingʌ	ʌ + m ə r̝ i n g ʌ
+251314	283971	transnewguineaorg-ura	urap1240		heavy	1210	HEAVY		mʌřən	m ʌ r̝ ə n
+251315	283972	transnewguineaorg-ura	urap1240		heavy	1210	HEAVY		mʌřən	m ʌ r̝ ə n
+251316	283973	transnewguineaorg-ura	urap1240		heavy	1210	HEAVY		Mʌřn	m ʌ r̝ n
+254498	287157	johanssonsoundsymbolic-Mali	mali1284		here	136	HERE		iɹə	i ɹ ə
+258749	291409	johanssonsoundsymbolic-Mali	mali1284		hit	1433	HIT		bɔŋ	b ɔ ŋ
+259130	291790	transnewguineaorg-qaget	qaqe1238		hit	1433	HIT		ka_wamiŋ	k a + w a m i ŋ
+259131	291791	transnewguineaorg-qaget	qaqe1238		hit	1433	HIT		kuʌ_mət	k u ʌ + m ə t
+259164	291824	transnewguineaorg-ura	urap1240		hit	1433	HIT		kʌ_məiŋgʌ	k ʌ + m ə i ŋ g ʌ
+259165	291825	transnewguineaorg-ura	urap1240		hit	1433	HIT		kʌ_mɛᶥŋgʌ	k ʌ + m ɛ l ŋ g ʌ
+268880	301540	johanssonsoundsymbolic-Mali	mali1284		how	1239	HOW		mənia	m ə n i a
+274723	307383	johanssonsoundsymbolic-Mali	mali1284		i	1209	I		ŋua	ŋ u a
+275363	308023	transnewguineaorg-qaget	qaqe1238		i	1209	I		ŋʷa	ŋʷ a
+275364	308024	transnewguineaorg-qaget	qaqe1238		i	1209	I		ŋuʌ	ŋ u ʌ
+275419	308079	transnewguineaorg-ura	urap1240		i	1209	I		ʌiŋɛ	ʌ i ŋ ɛ
+275420	308080	transnewguineaorg-ura	urap1240		i	1209	I		ʌɩŋɔ	ʌ ɪ ŋ ɔ
+275421	308081	transnewguineaorg-ura	urap1240		i	1209	I		Aiŋo	ɑ i ŋ o
+276785	309445	johanssonsoundsymbolic-Mali	mali1284		if	1459	IF		asika	a s i k a
+278058	310718	johanssonsoundsymbolic-Mali	mali1284		in	1460	IN		mət	m ə t
+287566	320226	johanssonsoundsymbolic-Mali	mali1284		kill	1417	KILL		pələŋ	p ə l ə ŋ
+288209	320869	transnewguineaorg-qaget	qaqe1238		kill	1417	KILL		kʌ_ƀəluŋgʌ_bʌgain_yəp	k ʌ + β ə l u ŋ g ʌ + b ʌ g a i n + j ə p
+288247	320907	transnewguineaorg-ura	urap1240		kill	1417	KILL		kʌt_nʌmʌs	k ʌ t + n ʌ m ʌ s
+288248	320908	transnewguineaorg-ura	urap1240		kill	1417	KILL		kʌƀɛyɔ	k ʌ β ɛ j ɔ
+288249	320909	transnewguineaorg-ura	urap1240		kill	1417	KILL		ɣʌ_weŋ	ɣ ʌ + w e ŋ
+294764	327424	transnewguineaorg-qaget	qaqe1238		knowsomething	1410	KNOW (SOMETHING)		kʌ_ⁿdlᵊm	k ʌ + ⁿd l ə m
+294797	327457	transnewguineaorg-ura	urap1240		knowsomething	1410	KNOW (SOMETHING)		kʌt_dᵊm	k ʌ t + d ə m
+294798	327458	transnewguineaorg-ura	urap1240		knowsomething	1410	KNOW (SOMETHING)		kʌt_dəm	k ʌ t + d ə m
+294799	327459	transnewguineaorg-ura	urap1240		knowsomething	1410	KNOW (SOMETHING)		ɣat_dʌřʌm	ɣ a t + d ʌ r̝ ʌ m
+299047	331707	johanssonsoundsymbolic-Mali	mali1284		laugh	1355	LAUGH		tamal	t a m a l
+299750	332410	transnewguineaorg-qaget	qaqe1238		laugh	1355	LAUGH		ka_ñʸan	k a + ɲ j a n
+299751	332411	transnewguineaorg-qaget	qaqe1238		laugh	1355	LAUGH		kʌt_niʌn	k ʌ t + n i ʌ n
+299782	332442	transnewguineaorg-ura	urap1240		laugh	1355	LAUGH		kʌtʌʌmʌ	k ʌ t ʌ ʌ m ʌ
+299783	332443	transnewguineaorg-ura	urap1240		laugh	1355	LAUGH		kʌtʌʌmʌ	k ʌ t ʌ ʌ m ʌ
+302203	334863	johanssonsoundsymbolic-Mali	mali1284		leaf	628	LEAF		tələŋbəs	t ə l ə ŋ b ə s
+303065	335725	transnewguineaorg-qaget	qaqe1238		leaf	628	LEAF		mᵊřanaᵘs	m ə r̝ a n au s
+303066	335726	transnewguineaorg-qaget	qaqe1238		leaf	628	LEAF		ʌ_ŋərit	ʌ + ŋ ə r i t
+303117	335777	transnewguineaorg-ura	urap1240		leaf	628	LEAF		məřain	m ə r̝ a i n
+303118	335778	transnewguineaorg-ura	urap1240		leaf	628	LEAF		məřaᶥn	m ə r̝ a l n
+303119	335779	transnewguineaorg-ura	urap1240		leaf	628	LEAF		ɣʌlanaŋɩt	ɣ ʌ l a n a ŋ ɪ t
+305312	337972	johanssonsoundsymbolic-Mali	mali1284		left	244	LEFT		aɣais	a ɣ a i s
+307007	339667	transnewguineaorg-qaget	qaqe1238		leg	1297	LEG		ɩlaⁱŋ	ɪ l ai ŋ
+307008	339668	transnewguineaorg-qaget	qaqe1238		leg	1297	LEG		ʌ_laiŋyat	ʌ + l a i ŋ j a t
+307046	339706	transnewguineaorg-ura	urap1240		leg	1297	LEG		ʌgʌřʌ	ʌ g ʌ r̝ ʌ
+307047	339707	transnewguineaorg-ura	urap1240		leg	1297	LEG		ʌgʌřʌ	ʌ g ʌ r̝ ʌ
+316968	349628	johanssonsoundsymbolic-Mali	mali1284		liver	1224	LIVER		aniŋilka	a n i ŋ i l k a
+317563	350223	transnewguineaorg-qaget	qaqe1238		liver	1224	LIVER		ʌ_niŋgilkʌ	ʌ + n i ŋ g i l k ʌ
+317599	350259	transnewguineaorg-ura	urap1240		liver	1224	LIVER		ʌǥubugi	ʌ g u b u g i
+317600	350260	transnewguineaorg-ura	urap1240		liver	1224	LIVER		ʌǥubuǥɩ	ʌ g u b u g ɪ
+317601	350261	transnewguineaorg-ura	urap1240		liver	1224	LIVER		nʌn̰-gɩlʌs	n ʌ n + g ɪ l ʌ s
+319863	352523	johanssonsoundsymbolic-Mali	mali1284		long	1203	LONG		aulul	a u l u l
+320582	353242	transnewguineaorg-qaget	qaqe1238		long	1203	LONG		inkul	i n k u l
+320583	353243	transnewguineaorg-qaget	qaqe1238		long	1203	LONG		ʌ_ŋulka	ʌ + ŋ u l k a
+320638	353298	transnewguineaorg-ura	urap1240		long	1203	LONG		uuyuǥʌ	uː j u g ʌ
+320639	353299	transnewguineaorg-ura	urap1240		long	1203	LONG		uuyuǥʌ	uː j u g ʌ
+320640	353300	transnewguineaorg-ura	urap1240		long	1203	LONG		un̰u	u n u
+323507	356167	johanssonsoundsymbolic-Mali	mali1284		louse	1392	LOUSE		ɹəβərəɣiŋgl	ɹ ə β ə r ə ɣ i ŋ g l
+324206	356866	transnewguineaorg-qaget	qaqe1238		louse	1392	LOUSE		ᶩaⁱt	l ai t
+324207	356867	transnewguineaorg-qaget	qaqe1238		louse	1392	LOUSE		ʌ_ɛɛtki	ʌ + ɛ ɛ t k i
+324262	356922	transnewguineaorg-ura	urap1240		louse	1392	LOUSE		məaⁱt	m ə ai t
+324263	356923	transnewguineaorg-ura	urap1240		louse	1392	LOUSE		məaᶥt	m ə a l t
+324264	356924	transnewguineaorg-ura	urap1240		louse	1392	LOUSE		ɩr̰aɩt	ɪ r a ɪ t
+332299	364960	johanssonsoundsymbolic-Mali	mali1284		many	1198	MANY		aɣəndiɣən	a ɣ ə n d i ɣ ə n
+332804	365465	transnewguineaorg-qaget	qaqe1238		many	1198	MANY		bup	b u p
+332805	365466	transnewguineaorg-qaget	qaqe1238		many	1198	MANY		buup	b uː p
+332847	365508	transnewguineaorg-ura	urap1240		many	1198	MANY		mʌřʌǥʌp	m ʌ r̝ ʌ g ʌ p
+332848	365509	transnewguineaorg-ura	urap1240		many	1198	MANY		mʌrʌǥʌp	m ʌ r ʌ g ʌ p
+332849	365510	transnewguineaorg-ura	urap1240		many	1198	MANY		masir̰at	m a s i r a t
+350049	382713	transnewguineaorg-qaget	qaqe1238		mother	1216	MOTHER		ginʌn	g i n ʌ n
+350106	382770	transnewguineaorg-ura	urap1240		mother	1216	MOTHER		ʌ_gunʌn	ʌ + g u n ʌ n
+350107	382771	transnewguineaorg-ura	urap1240		mother	1216	MOTHER		gunʌn	g u n ʌ n
+350108	382772	transnewguineaorg-ura	urap1240		mother	1216	MOTHER		a_nan	a + n a n
+350941	383605	johanssonsoundsymbolic-Mali	mali1284		mountain	639	MOUNTAIN		damgi	d a m g i
+351628	384292	transnewguineaorg-qaget	qaqe1238		mountain	639	MOUNTAIN		dam	d a m
+351629	384293	transnewguineaorg-qaget	qaqe1238		mountain	639	MOUNTAIN		ʌ_dəmgi	ʌ + d ə m g i
+351677	384341	transnewguineaorg-ura	urap1240		mountain	639	MOUNTAIN		dʌmgi	d ʌ m g i
+351678	384342	transnewguineaorg-ura	urap1240		mountain	639	MOUNTAIN		dʌmgɩ	d ʌ m g ɪ
+351679	384343	transnewguineaorg-ura	urap1240		mountain	639	MOUNTAIN		damgi	d a m g i
+353455	386119	johanssonsoundsymbolic-Mali	mali1284		mouth	674	MOUTH		amgi	a m g i
+354363	387027	transnewguineaorg-qaget	qaqe1238		mouth	674	MOUTH		amki	a m k i
+354364	387028	transnewguineaorg-qaget	qaqe1238		mouth	674	MOUTH		ʌpmgi	ʌ p m g i
+354417	387081	transnewguineaorg-ura	urap1240		mouth	674	MOUTH		ʌ_ƀɛmgi	ʌ + β ɛ m g i
+354418	387082	transnewguineaorg-ura	urap1240		mouth	674	MOUTH		ʌ_ƀɛmgɩ	ʌ + β ɛ m g ɪ
+354419	387083	transnewguineaorg-ura	urap1240		mouth	674	MOUTH		awʌmgi	a w ʌ m g i
+358473	391137	johanssonsoundsymbolic-Mali	mali1284		name	1405	NAME		aŋəɹɛpki	a ŋ ə ɹ ɛ p k i
+359186	391852	transnewguineaorg-qaget	qaqe1238		name	1405	NAME		řɨnki	r̝ ɨ n k i
+359187	391853	transnewguineaorg-qaget	qaqe1238		name	1405	NAME		dʸiʌringi_namgi	dʲ i ʌ r i n g i + n a m g i
+359244	391910	transnewguineaorg-ura	urap1240		name	1405	NAME		diŋyiřipki	d i ŋ j i r̝ i p k i
+359245	391911	transnewguineaorg-ura	urap1240		name	1405	NAME		diŋyɩrɩpkɩ	d i ŋ j ɪ r ɪ p k ɪ
+359246	391912	transnewguineaorg-ura	urap1240		name	1405	NAME		ŋʌr̰iþki	ŋ ʌ r i θ k i
+360371	393037	johanssonsoundsymbolic-Mali	mali1284		narrow	1267	NARROW		alik	a l i k
+363021	395687	johanssonsoundsymbolic-Mali	mali1284		near	1942	NEAR		gələm	g ə l ə m
+364759	397426	johanssonsoundsymbolic-Mali	mali1284		neck	1333	NECK		aŋətkəngi	a ŋ ə t k ə n g i
+365649	398316	transnewguineaorg-qaget	qaqe1238		neck	1333	NECK		ǥənəm	g ə n ə m
+365650	398317	transnewguineaorg-qaget	qaqe1238		neck	1333	NECK		ʌ_rʌgʌnəm	ʌ + r ʌ g ʌ n ə m
+365700	398367	transnewguineaorg-ura	urap1240		neck	1333	NECK		ʌ_ɛgoingi	ʌ + ɛ g o i n g i
+365701	398368	transnewguineaorg-ura	urap1240		neck	1333	NECK		ʌ_ɛgoᶥngɩ	ʌ + ɛ g o l n g ɪ
+365702	398369	transnewguineaorg-ura	urap1240		neck	1333	NECK		aegoingi	a e g o i n g i
+368816	401483	johanssonsoundsymbolic-Mali	mali1284		new	1231	NEW		aiɣəru	a i ɣ ə r u
+369530	402197	transnewguineaorg-qaget	qaqe1238		new	1231	NEW		yamɨs	j a m ɨ s
+369531	402198	transnewguineaorg-qaget	qaqe1238		new	1231	NEW		ʌiʌməs	ʌ i ʌ m ə s
+369588	402255	transnewguineaorg-ura	urap1240		new	1231	NEW		yʌrini	j ʌ r i n i
+369589	402256	transnewguineaorg-ura	urap1240		new	1231	NEW		yʌrɩnɩ	j ʌ r ɪ n ɪ
+369590	402257	transnewguineaorg-ura	urap1240		new	1231	NEW		iařʌs	i a r̝ ʌ s
+371596	404263	johanssonsoundsymbolic-Mali	mali1284		night	1233	NIGHT		baŋaŋgi	b a ŋ a ŋ g i
+372482	405149	transnewguineaorg-qaget	qaqe1238		night	1233	NIGHT		ařᵊnki	a r̝ ə n k i
+372483	405150	transnewguineaorg-qaget	qaqe1238		night	1233	NIGHT		ʌ_nirʌ̂g̶ʌ̶	ʌ + n i r ʌ gˤ ʌˤ
+372533	405200	transnewguineaorg-ura	urap1240		night	1233	NIGHT		nʌmbuŋʌgi	n ʌ m b u ŋ ʌ g i
+372534	405201	transnewguineaorg-ura	urap1240		night	1233	NIGHT		nʌmbuŋʌgɩ	n ʌ m b u ŋ ʌ g ɪ
+372535	405202	transnewguineaorg-ura	urap1240		night	1233	NIGHT		Bʌŋagi	b ʌ ŋ a g i
+377414	410081	johanssonsoundsymbolic-Mali	mali1284		nose	1221	NOSE		ɣulimgi	ɣ u l i m g i
+378345	411012	transnewguineaorg-qaget	qaqe1238		nose	1221	NOSE		ǥəřɩmki	g ə r̝ ɪ m k i
+378346	411013	transnewguineaorg-qaget	qaqe1238		nose	1221	NOSE		ʌ_rʌg̶ʌrimgi	ʌ + r ʌ gˤ ʌ r i m g i
+378412	411079	transnewguineaorg-ura	urap1240		nose	1221	NOSE		ʌ_ǥulimgi	ʌ + g u l i m g i
+378413	411080	transnewguineaorg-ura	urap1240		nose	1221	NOSE		ʌ_ǥulimgɩ	ʌ + g u l i m g ɪ
+378414	411081	transnewguineaorg-ura	urap1240		nose	1221	NOSE		awʌlyʌmgi	a w ʌ l j ʌ m g i
+379006	411673	johanssonsoundsymbolic-Mali	mali1284		not	1240	NOT		kɔiku	k ɔ i k u
+379502	412169	transnewguineaorg-qaget	qaqe1238		not	1240	NOT		kʷʌsik	kʷ ʌ s i k
+379537	412204	transnewguineaorg-ura	urap1240		not	1240	NOT		kʌku	k ʌ k u
+379538	412205	transnewguineaorg-ura	urap1240		not	1240	NOT		kʌku	k ʌ k u
+379539	412206	transnewguineaorg-ura	urap1240		not	1240	NOT		ɣaku	ɣ a k u
+389711	422378	johanssonsoundsymbolic-Mali	mali1284		one	1493	ONE		asəgək	a s ə g ə k
+390618	423285	transnewguineaorg-qaget	qaqe1238		one	1493	ONE		ǥʷanaska	gʷ a n a s k a
+390619	423286	transnewguineaorg-qaget	qaqe1238		one	1493	ONE		og̶unʌskʌ	o gˤ u n ʌ s k ʌ
+390672	423339	transnewguineaorg-ura	urap1240		one	1493	ONE		sigʌk	s i g ʌ k
+390673	423340	transnewguineaorg-ura	urap1240		one	1493	ONE		sɩgʌk	s ɪ g ʌ k
+390674	423341	transnewguineaorg-ura	urap1240		one	1493	ONE		sʌgʌk	s ʌ g ʌ k
+406233	438900	johanssonsoundsymbolic-Mali	mali1284		person	683	PERSON		aruɣa	a r u ɣ a
+406839	439506	transnewguineaorg-ura	urap1240		person	683	PERSON		ɔŋiʌknʌ_mək	ɔ ŋ i ʌ k n ʌ + m ə k
+406840	439507	transnewguineaorg-ura	urap1240		person	683	PERSON		ɔŋɩak_na_mək	ɔ ŋ ɪ a k + n a + m ə k
+406841	439508	transnewguineaorg-ura	urap1240		person	683	PERSON		Ruya	r u j a
+432500	465168	johanssonsoundsymbolic-Mali	mali1284		red	156	RED		alɔlka	a l ɔ l k a
+433202	465870	transnewguineaorg-qaget	qaqe1238		red	156	RED		mařiaǥa	m a r̝ i a g a
+433203	465871	transnewguineaorg-qaget	qaqe1238		red	156	RED		ʌ_gʌřʌkʌ	ʌ + g ʌ r̝ ʌ k ʌ
+433250	465918	transnewguineaorg-ura	urap1240		red	156	RED		mʌguřət	m ʌ g u r̝ ə t
+433251	465919	transnewguineaorg-ura	urap1240		red	156	RED		mʌguřət	m ʌ g u r̝ ə t
+433252	465920	transnewguineaorg-ura	urap1240		red	156	RED		yuřat	j u r̝ a t
+438259	470927	johanssonsoundsymbolic-Mali	mali1284		right	1019	RIGHT		amərmər	a m ə r m ə r
+440757	473425	johanssonsoundsymbolic-Mali	mali1284		river	666	RIVER		arɛŋgi	a r ɛ ŋ g i
+444444	477113	johanssonsoundsymbolic-Mali	mali1284		root	670	ROOT		ɣuraɣa	ɣ u r a ɣ a
+445254	477923	transnewguineaorg-qaget	qaqe1238		root	670	ROOT		sɨnagut	s ɨ n a g u t
+445255	477924	transnewguineaorg-qaget	qaqe1238		root	670	ROOT		ʌ_ʌŋgəlkʌ	ʌ + ʌ ŋ g ə l k ʌ
+445299	477968	transnewguineaorg-ura	urap1240		root	670	ROOT		ɔǥai	ɔ g a i
+445300	477969	transnewguineaorg-ura	urap1240		root	670	ROOT		ɔǥʌɩ	ɔ g ʌ ɪ
+445301	477970	transnewguineaorg-ura	urap1240		root	670	ROOT		snagutka	s n a g u t k a
+446344	479013	johanssonsoundsymbolic-Mali	mali1284		rope	1218	ROPE		asɛska	a s ɛ s k a
+447989	480658	johanssonsoundsymbolic-Mali	mali1284		rotten	1728	ROTTEN		aɣɛsin	a ɣ ɛ s i n
+456402	489071	johanssonsoundsymbolic-Mali	mali1284		sand	671	SAND		aɣunga	a ɣ u n g a
+457249	489918	transnewguineaorg-qaget	qaqe1238		sand	671	SAND		ʌ_g̶ung̶ʌ	ʌ + gˤ u n gˤ ʌ
+457298	489967	transnewguineaorg-ura	urap1240		sand	671	SAND		ɔwʌn	ɔ w ʌ n
+457299	489968	transnewguineaorg-ura	urap1240		sand	671	SAND		ɔwʌn	ɔ w ʌ n
+457300	489969	transnewguineaorg-ura	urap1240		sand	671	SAND		ɣun-gi	ɣ u n + g i
+459368	492037	johanssonsoundsymbolic-Mali	mali1284		say	1458	SAY		kuar	k u a r
+459876	492545	transnewguineaorg-qaget	qaqe1238		say	1458	SAY		kʌm_mʌřʌg̶ʌn	k ʌ m + m ʌ r̝ ʌ gˤ ʌ n
+459904	492573	transnewguineaorg-ura	urap1240		say	1458	SAY		kʌtʌmən	k ʌ t ʌ m ə n
+459905	492574	transnewguineaorg-ura	urap1240		say	1458	SAY		kʌtʌmən	k ʌ t ʌ m ə n
+459906	492575	transnewguineaorg-ura	urap1240		say	1458	SAY		ɣuar	ɣ u a r
+463192	495861	johanssonsoundsymbolic-Mali	mali1284		sea	1474	SEA		agarəski	a g a r ə s k i
+465117	497787	johanssonsoundsymbolic-Mali	mali1284		see	1409	SEE		naiŋəm	n a i ŋ ə m
+466030	498700	transnewguineaorg-qaget	qaqe1238		see	1409	SEE		ka_lu	k a + l u
+466031	498701	transnewguineaorg-qaget	qaqe1238		see	1409	SEE		ŋiŋiəm	ŋ i ŋ i ə m
+466083	498753	transnewguineaorg-ura	urap1240		see	1409	SEE		kʌt_luŋɛɛ	k ʌ t + l u ŋ ɛ ɛ
+466084	498754	transnewguineaorg-ura	urap1240		see	1409	SEE		kʌt_luŋɛɛ	k ʌ t + l u ŋ ɛ ɛ
+466085	498755	transnewguineaorg-ura	urap1240		see	1409	SEE		ɣat_lu	ɣ a t + l u
+466677	499347	johanssonsoundsymbolic-Mali	mali1284		seed	714	SEED		traiŋga	t r a i ŋ g a
+467224	499894	transnewguineaorg-qaget	qaqe1238		seed	714	SEED		agam	a g a m
+467256	499926	transnewguineaorg-ura	urap1240		seed	714	SEED		ŋʌmuŋiɛt	ŋ ʌ m u ŋ i ɛ t
+467257	499927	transnewguineaorg-ura	urap1240		seed	714	SEED		ŋʌmuŋɩət	ŋ ʌ m u ŋ ɪ ə t
+467258	499928	transnewguineaorg-ura	urap1240		seed	714	SEED		ɢawam	ɢ a w a m
+474975	507646	johanssonsoundsymbolic-Mali	mali1284		sharp	1396	SHARP		tnɛs	t n ɛ s
+481573	514245	johanssonsoundsymbolic-Mali	mali1284		short	1645	SHORT		aɣuβət	a ɣ u β ə t
+490560	523232	johanssonsoundsymbolic-Mali	mali1284		sit	1416	SIT		tuɣun	t u ɣ u n
+491246	523918	transnewguineaorg-qaget	qaqe1238		sit	1416	SIT		ka_mugun	k a + m u g u n
+491247	523919	transnewguineaorg-qaget	qaqe1238		sit	1416	SIT		ʌ_g̶wʌtkʌ_kʌmugun	ʌ + gˤ w ʌ t k ʌ + k ʌ m u g u n
+491296	523968	transnewguineaorg-ura	urap1240		sit	1416	SIT		niʌt_mugun	n i ʌ t + m u g u n
+491297	523969	transnewguineaorg-ura	urap1240		sit	1416	SIT		niʌt_mugun	n i ʌ t + m u g u n
+491298	523970	transnewguineaorg-ura	urap1240		sit	1416	SIT		ɣatuɣun	ɣ a t u ɣ u n
+497125	529797	johanssonsoundsymbolic-Mali	mali1284		sky	1732	SKY		usupki	u s u p k i
+499310	531982	johanssonsoundsymbolic-Mali	mali1284		sleep	1585	SLEEP		mənap	m ə n a p
+500194	532867	transnewguineaorg-qaget	qaqe1238		sleep	1585	SLEEP		ka_ᵐbřaⁱn	k a + ⁿb r̝ ai n
+500195	532868	transnewguineaorg-qaget	qaqe1238		sleep	1585	SLEEP		kʌ_ᵐᵇrain	k ʌ + ⁿr a i n
+500244	532917	transnewguineaorg-ura	urap1240		sleep	1585	SLEEP		kʌt_nʌmʌs	k ʌ t + n ʌ m ʌ s
+500245	532918	transnewguineaorg-ura	urap1240		sleep	1585	SLEEP		ɣat_namas	ɣ a t + n a m a s
+502895	535569	johanssonsoundsymbolic-Mali	mali1284		small	1246	SMALL		alɛl	a l ɛ l
+503830	536504	transnewguineaorg-qaget	qaqe1238		small	1246	SMALL		gilka	g i l k a
+503831	536505	transnewguineaorg-qaget	qaqe1238		small	1246	SMALL		ʌgilini	ʌ g i l i n i
+503883	536557	transnewguineaorg-ura	urap1240		small	1246	SMALL		gaini	g a i n i
+503884	536558	transnewguineaorg-ura	urap1240		small	1246	SMALL		gaᶥni	g a l n i
+503885	536559	transnewguineaorg-ura	urap1240		small	1246	SMALL		gaini	g a i n i
+507217	539893	johanssonsoundsymbolic-Mali	mali1284		smokeexhaust	778	SMOKE (EXHAUST)		naŋasaɣi	n a ŋ a s a ɣ i
+508093	540769	transnewguineaorg-qaget	qaqe1238		smokeexhaust	778	SMOKE (EXHAUST)		naŋas	n a ŋ a s
+508094	540770	transnewguineaorg-qaget	qaqe1238		smokeexhaust	778	SMOKE (EXHAUST)		ʌ_nʌŋsayi	ʌ + n ʌ ŋ s a j i
+508148	540824	transnewguineaorg-ura	urap1240		smokeexhaust	778	SMOKE (EXHAUST)		butbutki	b u t b u t k i
+508149	540825	transnewguineaorg-ura	urap1240		smokeexhaust	778	SMOKE (EXHAUST)		butbutkɩ	b u t b u t k ɪ
+508150	540826	transnewguineaorg-ura	urap1240		smokeexhaust	778	SMOKE (EXHAUST)		butbutki	b u t b u t k i
+508674	541350	johanssonsoundsymbolic-Mali	mali1284		smooth	1234	SMOOTH		asəsət	a s ə s ə t
+510751	543427	transnewguineaorg-qaget	qaqe1238		snake	730	SNAKE		ǥəm	g ə m
+510752	543428	transnewguineaorg-qaget	qaqe1238		snake	730	SNAKE		ɛɛlug̶ʌ	ɛ ɛ l u gˤ ʌ
+510796	543472	transnewguineaorg-ura	urap1240		snake	730	SNAKE		uuyubəřʌǥʌ	uː j u b ə r̝ ʌ g ʌ
+510797	543473	transnewguineaorg-ura	urap1240		snake	730	SNAKE		uuyubərʌǥʌ	uː j u b ə r ʌ g ʌ
+510798	543474	transnewguineaorg-ura	urap1240		snake	730	SNAKE		un̰uwʌr̰wʌr̰aɣa	u n u w ʌ r w ʌ r a ɣ a
+514138	546814	johanssonsoundsymbolic-Mali	mali1284		some	1241	SOME		aŋa	a ŋ a
+524200	556876	johanssonsoundsymbolic-Mali	mali1284		spit	1440	SPIT		kɔt_pət	k ɔ t + p ə t
+530094	562770	johanssonsoundsymbolic-Mali	mali1284		stand	1442	STAND		tair	t a i r
+530776	563452	transnewguineaorg-qaget	qaqe1238		stand	1442	STAND		ka_mařᵊ	k a + m a r̝ ə
+530777	563453	transnewguineaorg-qaget	qaqe1238		stand	1442	STAND		i_g̶ʌ_mʌrʌ	i + gˤ ʌ + m ʌ r ʌ
+530829	563505	transnewguineaorg-ura	urap1240		stand	1442	STAND		kʌt_maiř	k ʌ t + m a i r̝
+530830	563506	transnewguineaorg-ura	urap1240		stand	1442	STAND		kʌt_maᶥř	k ʌ t + m a l r̝
+530831	563507	transnewguineaorg-ura	urap1240		stand	1442	STAND		ɣataiř	ɣ a t a i r̝
+532351	565027	johanssonsoundsymbolic-Mali	mali1284		star	1430	STAR		aliŋga	a l i ŋ g a
+533097	565773	transnewguineaorg-qaget	qaqe1238		star	1430	STAR		waldəŋaǥa	w a l d ə ŋ a g a
+533098	565774	transnewguineaorg-qaget	qaqe1238		star	1430	STAR		ʌ_wʌldʌŋʌg̶ʌ	ʌ + w ʌ l d ʌ ŋ ʌ gˤ ʌ
+533163	565839	transnewguineaorg-ura	urap1240		star	1430	STAR		ǥəřʌiŋgʌ	g ə r̝ ʌ i ŋ g ʌ
+533164	565840	transnewguineaorg-ura	urap1240		star	1430	STAR		ǥəřʌɩŋgʌ	g ə r̝ ʌ ɪ ŋ g ʌ
+533165	565841	transnewguineaorg-ura	urap1240		star	1430	STAR		ɣaeŋga	ɣ a e ŋ g a
+536101	568777	transnewguineaorg-qaget	qaqe1238		stick	1295	STICK		ʌ_muŋʌt	ʌ + m u ŋ ʌ t
+536134	568810	transnewguineaorg-ura	urap1240		stick	1295	STICK		ŋʌmuŋgʌ	ŋ ʌ m u ŋ g ʌ
+536135	568811	transnewguineaorg-ura	urap1240		stick	1295	STICK		ŋʌmuŋgʌ	ŋ ʌ m u ŋ g ʌ
+536136	568812	transnewguineaorg-ura	urap1240		stick	1295	STICK		ŋʌmuŋet	ŋ ʌ m u ŋ e t
+538894	571571	johanssonsoundsymbolic-Mali	mali1284		stone	857	STONE		dulka	d u l k a
+539816	572493	transnewguineaorg-qaget	qaqe1238		stone	857	STONE		dulka	d u l k a
+539817	572494	transnewguineaorg-qaget	qaqe1238		stone	857	STONE		ʌ_dulkʌ	ʌ + d u l k ʌ
+539873	572550	transnewguineaorg-ura	urap1240		stone	857	STONE		mʌ_dui	m ʌ + d u i
+539874	572551	transnewguineaorg-ura	urap1240		stone	857	STONE		mʌ_duɩ	m ʌ + d u ɪ
+539875	572552	transnewguineaorg-ura	urap1240		stone	857	STONE		duɩɣa	d u ɪ ɣ a
+541302	573979	johanssonsoundsymbolic-Mali	mali1284		straight	1404	STRAIGHT		arik	a r i k
+546289	578966	johanssonsoundsymbolic-Mali	mali1284		suck	1421	SUCK		praiɔik_də	p r a i ɔ i k + d ə
+548280	580957	johanssonsoundsymbolic-Mali	mali1284		sun	1343	SUN		kunəŋga	k u n ə ŋ g a
+549217	581894	transnewguineaorg-qaget	qaqe1238		sun	1343	SUN		nɩlaǥa	n ɪ l a g a
+549218	581895	transnewguineaorg-qaget	qaqe1238		sun	1343	SUN		niřaǥa	n i r̝ a g a
+549219	581896	transnewguineaorg-qaget	qaqe1238		sun	1343	SUN		ʌ_niřag̶a	ʌ + n i r̝ a gˤ a
+549278	581955	transnewguineaorg-ura	urap1240		sun	1343	SUN		wunʌgʌ	w u n ʌ g ʌ
+549279	581956	transnewguineaorg-ura	urap1240		sun	1343	SUN		wunʌgʌ	w u n ʌ g ʌ
+549280	581957	transnewguineaorg-ura	urap1240		sun	1343	SUN		ɣunʌga	ɣ u n ʌ g a
+555311	587988	johanssonsoundsymbolic-Mali	mali1284		swim	1439	SWIM		tɔr	t ɔ r
+555728	588405	transnewguineaorg-qaget	qaqe1238		swim	1439	SWIM		kit_tʌřʌ	k i t + t ʌ r̝ ʌ
+555751	588428	transnewguineaorg-ura	urap1240		swim	1439	SWIM		kʌt_tɔřtəm	k ʌ t + t ɔ r̝ t ə m
+555752	588429	transnewguineaorg-ura	urap1240		swim	1439	SWIM		kʌt_tɔřtəm	k ʌ t + t ɔ r̝ t ə m
+555753	588430	transnewguineaorg-ura	urap1240		swim	1439	SWIM		ɣa_tor	ɣ a + t o r
+557769	590446	johanssonsoundsymbolic-Mali	mali1284		tail	1220	TAIL		iɣurki	i ɣ u r k i
+558531	591208	transnewguineaorg-qaget	qaqe1238		tail	1220	TAIL		ƀilaŋka	β i l a ŋ k a
+558532	591209	transnewguineaorg-qaget	qaqe1238		tail	1220	TAIL		kʌniski	k ʌ n i s k i
+558597	591274	transnewguineaorg-ura	urap1240		tail	1220	TAIL		ʌ_niski	ʌ + n i s k i
+558598	591275	transnewguineaorg-ura	urap1240		tail	1220	TAIL		ʌ_niskɩ	ʌ + n i s k ɪ
+558599	591276	transnewguineaorg-ura	urap1240		tail	1220	TAIL		ɩɣurit	ɪ ɣ u r i t
+567155	599834	johanssonsoundsymbolic-Mali	mali1284		that	78	THAT		aβi	a β i
+569235	601914	johanssonsoundsymbolic-Mali	mali1284		there	1937	THERE		saisaβi	s a i s a β i
+570706	603385	johanssonsoundsymbolic-Mali	mali1284		they	817	THEY		ŋə	ŋ ə
+571149	603828	transnewguineaorg-qaget	qaqe1238		they	817	THEY		ṱa	t a
+571150	603829	transnewguineaorg-qaget	qaqe1238		they	817	THEY		ŋən_mʌi	ŋ ə n + m ʌ i
+571178	603857	transnewguineaorg-ura	urap1240		they	817	THEY		iʌřʌmʌnʌ	i ʌ r̝ ʌ m ʌ n ʌ
+571179	603858	transnewguineaorg-ura	urap1240		they	817	THEY		ɩʌřʌmʌnʌ	ɪ ʌ r̝ ʌ m ʌ n ʌ
+571180	603859	transnewguineaorg-ura	urap1240		they	817	THEY		r̰a	r a
+572121	604800	johanssonsoundsymbolic-Mali	mali1284		thick	1244	THICK		aɹɛpmən	a ɹ ɛ p m ə n
+573522	606201	johanssonsoundsymbolic-Mali	mali1284		thin	2308	THIN		lalar_pət	l a l a r + p ə t
+574948	607627	johanssonsoundsymbolic-Mali	mali1284		think	2271	THINK		tu_aβə_snəŋ	t u + a β ə + s n ə ŋ
+578244	610923	johanssonsoundsymbolic-Mali	mali1284		this	1214	THIS		iɹə	i ɹ ə
+580437	613120	johanssonsoundsymbolic-Mali	mali1284		thou	1215	THOU		ŋia	ŋ i a
+580926	613609	transnewguineaorg-qaget	qaqe1238		thou	1215	THOU		ñʸi	ɲ j i
+580927	613610	transnewguineaorg-qaget	qaqe1238		thou	1215	THOU		ŋi	ŋ i
+580953	613636	transnewguineaorg-ura	urap1240		thou	1215	THOU		ʌiŋɔ	ʌ i ŋ ɔ
+580954	613637	transnewguineaorg-ura	urap1240		thou	1215	THOU		ʌɩŋɛ	ʌ ɪ ŋ ɛ
+580955	613638	transnewguineaorg-ura	urap1240		thou	1215	THOU		Aiŋe	ɑ i ŋ e
+583208	615893	johanssonsoundsymbolic-Mali	mali1284		three	492	THREE		adəβauŋ	a d ə β a u ŋ
+583929	616614	transnewguineaorg-qaget	qaqe1238		three	492	THREE		dɨpgʷas	d ɨ p gʷ a s
+583930	616615	transnewguineaorg-qaget	qaqe1238		three	492	THREE		dʌpguʌs	d ʌ p g u ʌ s
+583957	616642	transnewguineaorg-ura	urap1240		three	492	THREE		dəƀʌu	d ə β ʌ u
+583958	616643	transnewguineaorg-ura	urap1240		three	492	THREE		dəƀʌuŋ	d ə β ʌ u ŋ
+583959	616644	transnewguineaorg-ura	urap1240		three	492	THREE		dʌwauŋ	d ʌ w a u ŋ
+589235	621922	johanssonsoundsymbolic-Mali	mali1284		tie	1917	TIE		kɛɹik_pət	k ɛ ɹ i k + p ə t
+596333	629020	johanssonsoundsymbolic-Mali	mali1284		tongue	1205	TONGUE		aɣulbiŋga	a ɣ u l b i ŋ g a
+597251	629938	transnewguineaorg-qaget	qaqe1238		tongue	1205	TONGUE		ǥalbiⁿka	g a l b ĩ k a
+597252	629939	transnewguineaorg-qaget	qaqe1238		tongue	1205	TONGUE		og̶lbinga	o gˤ l b i n g a
+597308	629995	transnewguineaorg-ura	urap1240		tongue	1205	TONGUE		duɛbingʌ	d u ɛ b i n g ʌ
+597309	629996	transnewguineaorg-ura	urap1240		tongue	1205	TONGUE		duɛbingʌ	d u ɛ b i n g ʌ
+597310	629997	transnewguineaorg-ura	urap1240		tongue	1205	TONGUE		aɣuebunga	a ɣ u e b u n g a
+598510	631197	johanssonsoundsymbolic-Mali	mali1284		tooth	1380	TOOTH		aŋətkɛŋgi	a ŋ ə t k ɛ ŋ g i
+599427	632114	transnewguineaorg-qaget	qaqe1238		tooth	1380	TOOTH		ařkiŋ	a r̝ k i ŋ
+599428	632115	transnewguineaorg-qaget	qaqe1238		tooth	1380	TOOTH		ařkingi	a r̝ k i n g i
+599487	632174	transnewguineaorg-ura	urap1240		tooth	1380	TOOTH		naeyɛŋ	n a e j ɛ ŋ
+599488	632175	transnewguineaorg-ura	urap1240		tooth	1380	TOOTH		næyɛŋ	n æ j ɛ ŋ
+599489	632176	transnewguineaorg-ura	urap1240		tooth	1380	TOOTH		ʌ_ǥʌřʌ	ʌ + g ʌ r̝ ʌ
+599490	632177	transnewguineaorg-ura	urap1240		tooth	1380	TOOTH		atkiŋgi	a t k i ŋ g i
+602912	635599	johanssonsoundsymbolic-Mali	mali1284		tree	906	TREE		aməŋga	a m ə ŋ g a
+603838	636525	transnewguineaorg-qaget	qaqe1238		tree	906	TREE		mʌŋkʰa	m ʌ ŋ kʰ a
+603839	636526	transnewguineaorg-qaget	qaqe1238		tree	906	TREE		munkʌ	m u n k ʌ
+603886	636573	transnewguineaorg-ura	urap1240		tree	906	TREE		ʌ_muŋgʌ	ʌ + m u ŋ g ʌ
+603887	636574	transnewguineaorg-ura	urap1240		tree	906	TREE		ʌ_muŋgʌ	ʌ + m u ŋ g ʌ
+603888	636575	transnewguineaorg-ura	urap1240		tree	906	TREE		ŋʌmuga	ŋ ʌ m u g a
+611419	644106	johanssonsoundsymbolic-Mali	mali1284		two	1498	TWO		aunbɛm	a u n b ɛ m
+612311	644998	transnewguineaorg-qaget	qaqe1238		two	1498	TWO		ǥʷanasⁱam	gʷ a n a s i a m
+612312	644999	transnewguineaorg-qaget	qaqe1238		two	1498	TWO		og̶unʌsiʌm	o gˤ u n ʌ s i ʌ m
+612363	645050	transnewguineaorg-ura	urap1240		two	1498	TWO		undiom	u n d i o m
+612364	645051	transnewguineaorg-ura	urap1240		two	1498	TWO		undɩom	u n d ɪ o m
+612365	645052	transnewguineaorg-ura	urap1240		two	1498	TWO		undɩom	u n d ɪ o m
+621299	653987	johanssonsoundsymbolic-Mali	mali1284		vomit	1278	VOMIT		tnənən	t n ə n ə n
+624911	677572	johanssonsoundsymbolic-Mali	mali1284		where	1237	WHERE		kuɛ	k u ɛ
+625454	678115	transnewguineaorg-qaget	qaqe1238		where	1237	WHERE		kuʌ	k u ʌ
+625484	678145	transnewguineaorg-ura	urap1240		where	1237	WHERE		kuɛnɛɛ	k u ɛ n ɛ ɛ
+625485	678146	transnewguineaorg-ura	urap1240		where	1237	WHERE		kuɛnɛɛ	k u ɛ n ɛ ɛ
+625486	678147	transnewguineaorg-ura	urap1240		where	1237	WHERE		ɣue	ɣ u e
+627268	679929	johanssonsoundsymbolic-Mali	mali1284		white	1335	WHITE		aɣabap	a ɣ a b a p
+628163	680824	transnewguineaorg-qaget	qaqe1238		white	1335	WHITE		alawil	a l a w i l
+628164	680825	transnewguineaorg-qaget	qaqe1238		white	1335	WHITE		ʌ_lauwil	ʌ + l a u w i l
+628209	680870	transnewguineaorg-ura	urap1240		white	1335	WHITE		gulumbitʰ	g u l u m b i tʰ
+628210	680871	transnewguineaorg-ura	urap1240		white	1335	WHITE		gulumbɩtʰ	g u l u m b ɪ tʰ
+628211	680872	transnewguineaorg-ura	urap1240		white	1335	WHITE		ɣulum	ɣ u l u m
+629735	682488	johanssonsoundsymbolic-Mali	mali1284		who	1235	WHO		nəma	n ə m a
+630371	683124	transnewguineaorg-qaget	qaqe1238		who	1235	WHO		nɨma	n ɨ m a
+630372	683125	transnewguineaorg-qaget	qaqe1238		who	1235	WHO		nʌmʌ	n ʌ m ʌ
+630413	683166	transnewguineaorg-ura	urap1240		who	1235	WHO		ʌuŋguʌǥait	ʌ u ŋ g u ʌ g a i t
+630414	683167	transnewguineaorg-ura	urap1240		who	1235	WHO		ʌuŋguʌǥaᶥt	ʌ u ŋ g u ʌ g a l t
+630415	683168	transnewguineaorg-ura	urap1240		who	1235	WHO		Auge	ɑ u g e
+631496	684250	johanssonsoundsymbolic-Mali	mali1284		wide	1243	WIDE		aɹaβər	a ɹ a β ə r
+635103	687857	johanssonsoundsymbolic-Mali	mali1284		wind	960	WIND		laurka	l a u r k a
+635770	688524	transnewguineaorg-qaget	qaqe1238		wind	960	WIND		laᵘř	l au r̝
+635771	688525	transnewguineaorg-qaget	qaqe1238		wind	960	WIND		ʌ_lʌuřkʌ	ʌ + l ʌ u r̝ k ʌ
+635822	688576	transnewguineaorg-ura	urap1240		wind	960	WIND		lʌuřiyi	l ʌ u r̝ i j i
+635823	688577	transnewguineaorg-ura	urap1240		wind	960	WIND		lʌuřɩyi	l ʌ u r̝ ɪ j i
+635824	688578	transnewguineaorg-ura	urap1240		wind	960	WIND		Lauřɣi	l a u r̝ ɣ i
+637227	689981	johanssonsoundsymbolic-Mali	mali1284		wing	1257	WING		anamnamgi	a n a m n a m g i
+637860	690614	transnewguineaorg-qaget	qaqe1238		wing	1257	WING		ǥiƀarɨt	g i β a r ɨ t
+637861	690615	transnewguineaorg-qaget	qaqe1238		wing	1257	WING		ʌ_yiƀʌřki	ʌ + j i β ʌ r̝ k i
+637910	690664	transnewguineaorg-ura	urap1240		wing	1257	WING		ʌyiƀʌɛtʰ	ʌ j i β ʌ ɛ tʰ
+637911	690665	transnewguineaorg-ura	urap1240		wing	1257	WING		ʌyɩƀʌɛtʰ	ʌ j ɪ β ʌ ɛ tʰ
+637912	690666	transnewguineaorg-ura	urap1240		wing	1257	WING		n̰ʌwaetka	n ʌ w a e t k a
+640116	692871	johanssonsoundsymbolic-Mali	mali1284		woman	962	WOMAN		aruɣi	a r u ɣ i
+641050	693805	transnewguineaorg-qaget	qaqe1238		woman	962	WOMAN		nanki	n a n k i
+641051	693806	transnewguineaorg-qaget	qaqe1238		woman	962	WOMAN		ʌ_nʌngi	ʌ + n ʌ n g i
+641102	693857	transnewguineaorg-ura	urap1240		woman	962	WOMAN		ɛwəpki	ɛ w ə p k i
+641103	693858	transnewguineaorg-ura	urap1240		woman	962	WOMAN		ɛwəpkɩ	ɛ w ə p k ɪ
+641104	693859	transnewguineaorg-ura	urap1240		woman	962	WOMAN		Ewopki	e w o p k i
+647860	700615	johanssonsoundsymbolic-Mali	mali1284		year	1226	YEAR		amundika	a m u n d i k a
+651734	705574	johanssonsoundsymbolic-Mali	mali1284		you	1213	YOU		ŋən	ŋ ə n

@@ -1,0 +1,847 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+5079	21230	johanssonsoundsymbolic-Odoodee	odoo1238		bad	1292	BAD		tɔkɛne	t ɔ k ɛ n e
+8077	24228	transnewguineaorg-fembe	femb1238		banana	868	BANANA		ɛ	ɛ
+8132	24283	transnewguineaorg-kubo	kubo1242		banana	868	BANANA		e:	eː
+8195	24346	transnewguineaorg-samo	samo1303		banana	868	BANANA		ebe	e b e
+9334	25485	transnewguineaorg-fembe	femb1238		bark	1204	BARK		biya_kɔlɔ	b i j a + k ɔ l ɔ
+9335	25486	transnewguineaorg-fembe	femb1238		bark	1204	BARK		habegolo	h a b e g o l o
+9362	25513	transnewguineaorg-kubo	kubo1242		bark	1204	BARK		biyo	b i j o
+9363	25514	transnewguineaorg-kubo	kubo1242		bark	1204	BARK		biɔ	b i ɔ
+9386	25537	transnewguineaorg-samo	samo1303		bark	1204	BARK		bisigobu	b i s i g o b u
+9387	25538	transnewguineaorg-samo	samo1303		bark	1204	BARK		bisigɔbu	b i s i g ɔ b u
+13055	29206	johanssonsoundsymbolic-Odoodee	odoo1238		bealive	1422	BE ALIVE		giɛ	g i ɛ
+15793	31944	johanssonsoundsymbolic-Odoodee	odoo1238		beautiful	1427	BEAUTIFUL		tɛkɛɸɔ	t ɛ k ɛ ɸ ɔ
+16361	32512	johanssonsoundsymbolic-Odoodee	odoo1238		because	1157	BECAUSE		bɛi	b ɛ i
+19298	35449	johanssonsoundsymbolic-Odoodee	odoo1238		before	1882	BEFORE		dɑgɑ	d ɑ g ɑ
+22956	39107	johanssonsoundsymbolic-Odoodee	odoo1238		belly	1251	BELLY		gɛmɛdɛi	g ɛ m ɛ d ɛ i
+23601	39752	transnewguineaorg-fembe	femb1238		belly	1251	BELLY		sasime	s a s i m e
+23602	39753	transnewguineaorg-fembe	femb1238		belly	1251	BELLY		sasimi	s a s i m i
+23615	39766	transnewguineaorg-gobasi-bibo	goba1246		belly	1251	BELLY		sas	s a s
+23657	39808	transnewguineaorg-kubo	kubo1242		belly	1251	BELLY		gosiyo	g o s i j o
+23658	39809	transnewguineaorg-kubo	kubo1242		belly	1251	BELLY		gɔsiɔ	g ɔ s i ɔ
+23732	39883	transnewguineaorg-samo	samo1303		belly	1251	BELLY		sasi	s a s i
+23733	39884	transnewguineaorg-samo	samo1303		belly	1251	BELLY		sasi	s a s i
+24591	40742	johanssonsoundsymbolic-Odoodee	odoo1238		beloworunder	1485	BELOW OR UNDER		hɛmidu	h ɛ m i d u
+25797	41948	johanssonsoundsymbolic-Odoodee	odoo1238		beside	1816	BESIDE		dɔkɔlɔ	d ɔ k ɔ l ɔ
+27999	44150	johanssonsoundsymbolic-Odoodee	odoo1238		big	1202	BIG		towɑ	t o w ɑ
+28788	44939	transnewguineaorg-fembe	femb1238		big	1202	BIG		kaudakũ	k a u d a k ũ
+28789	44940	transnewguineaorg-fembe	femb1238		big	1202	BIG		kouda	k o u d a
+28802	44953	transnewguineaorg-gobasi-bibo	goba1246		big	1202	BIG		gau	g a u
+28853	45004	transnewguineaorg-kubo	kubo1242		big	1202	BIG		kau	k a u
+28854	45005	transnewguineaorg-kubo	kubo1242		big	1202	BIG		kau	k a u
+28937	45088	transnewguineaorg-samo	samo1303		big	1202	BIG		kau	k a u
+28938	45089	transnewguineaorg-samo	samo1303		big	1202	BIG		kau	k a u
+30376	46527	johanssonsoundsymbolic-Odoodee	odoo1238		bird	937	BIRD		sɔ	s ɔ
+31133	47284	transnewguineaorg-fembe	femb1238		bird	937	BIRD		siyɔ	s i j ɔ
+31134	47285	transnewguineaorg-fembe	femb1238		bird	937	BIRD		siu	s i u
+31147	47298	transnewguineaorg-gobasi-bibo	goba1246		bird	937	BIRD		sigo	s i g o
+31198	47349	transnewguineaorg-kubo	kubo1242		bird	937	BIRD		siyu	s i j u
+31199	47350	transnewguineaorg-kubo	kubo1242		bird	937	BIRD		siu	s i u
+31288	47439	transnewguineaorg-samo	samo1303		bird	937	BIRD		sigo	s i g o
+31289	47440	transnewguineaorg-samo	samo1303		bird	937	BIRD		sigɔ	s i g ɔ
+32732	48883	johanssonsoundsymbolic-Odoodee	odoo1238		bite	1403	BITE		ɸɛ	ɸ ɛ
+33259	49410	transnewguineaorg-fembe	femb1238		bite	1403	BITE		geyau	g e j a u
+33260	49411	transnewguineaorg-fembe	femb1238		bite	1403	BITE		bofan	b o f a n
+33275	49426	transnewguineaorg-gobasi-bibo	goba1246		bite	1403	BITE		gala	g a l a
+33321	49472	transnewguineaorg-kubo	kubo1242		bite	1403	BITE		gaaiyo	g aː i j o
+33322	49473	transnewguineaorg-kubo	kubo1242		bite	1403	BITE		ga:iɔ	g aː i ɔ
+33394	49545	transnewguineaorg-samo	samo1303		bite	1403	BITE		goda	g o d a
+33395	49546	transnewguineaorg-samo	samo1303		bite	1403	BITE		gada	g a d a
+35346	51497	johanssonsoundsymbolic-Odoodee	odoo1238		black	163	BLACK		dɑsɛgɛ	d ɑ s ɛ g ɛ
+38759	54910	johanssonsoundsymbolic-Odoodee	odoo1238		blood	946	BLOOD		sɑwɔ	s ɑ w ɔ
+39503	55654	transnewguineaorg-fembe	femb1238		blood	946	BLOOD		ɔyɔ	ɔ j ɔ
+39504	55655	transnewguineaorg-fembe	femb1238		blood	946	BLOOD		iyou	i j o u
+39517	55668	transnewguineaorg-gobasi-bibo	goba1246		blood	946	BLOOD		so̧ho̧u	s o h o u
+39565	55716	transnewguineaorg-kubo	kubo1242		blood	946	BLOOD		ayo	a j o
+39566	55717	transnewguineaorg-kubo	kubo1242		blood	946	BLOOD		ayo	a j o
+39647	55798	transnewguineaorg-samo	samo1303		blood	946	BLOOD		ayu	a j u
+39648	55799	transnewguineaorg-samo	samo1303		blood	946	BLOOD		ayo	a j o
+47728	63879	transnewguineaorg-fembe	femb1238		bone	1394	BONE		diɔ	d i ɔ
+47729	63880	transnewguineaorg-fembe	femb1238		bone	1394	BONE		dio	d i o
+47741	63892	transnewguineaorg-gobasi-bibo	goba1246		bone	1394	BONE		kib	k i b
+47742	63893	transnewguineaorg-gobasi-bibo	goba1246		bone	1394	BONE		ki:b	k iː b
+47743	63894	transnewguineaorg-gobasi-bibo	goba1246		bone	1394	BONE		kibi	k i b i
+47794	63945	transnewguineaorg-kubo	kubo1242		bone	1394	BONE		diyo	d i j o
+47795	63946	transnewguineaorg-kubo	kubo1242		bone	1394	BONE		dio	d i o
+47796	63947	transnewguineaorg-kubo	kubo1242		bone	1394	BONE		diu	d i u
+47797	63948	transnewguineaorg-kubo	kubo1242		bone	1394	BONE		dio	d i o
+47889	64040	transnewguineaorg-samo	samo1303		bone	1394	BONE		kibi	k i b i
+47890	64041	transnewguineaorg-samo	samo1303		bone	1394	BONE		kibi	k i b i
+47891	64042	transnewguineaorg-samo	samo1303		bone	1394	BONE		kibi	k i b i
+47892	64043	transnewguineaorg-samo	samo1303		bone	1394	BONE		kibi	k i b i
+51564	67715	johanssonsoundsymbolic-Odoodee	odoo1238		boy	1366	BOY		gisɔhɔlɔ	g i s ɔ h ɔ l ɔ
+57777	73930	transnewguineaorg-fembe	femb1238		breast	1402	BREAST		bu	b u
+57778	73931	transnewguineaorg-fembe	femb1238		breast	1402	BREAST		bu	b u
+57792	73945	transnewguineaorg-gobasi-bibo	goba1246		breast	1402	BREAST		tol	t o l
+57793	73946	transnewguineaorg-gobasi-bibo	goba1246		breast	1402	BREAST		tor	t o r
+57844	73997	transnewguineaorg-kubo	kubo1242		breast	1402	BREAST		bu	b u
+57845	73998	transnewguineaorg-kubo	kubo1242		breast	1402	BREAST		bu	b u
+57846	73999	transnewguineaorg-kubo	kubo1242		breast	1402	BREAST		bu	b u
+57939	74092	transnewguineaorg-samo	samo1303		breast	1402	BREAST		bu	b u
+57940	74093	transnewguineaorg-samo	samo1303		breast	1402	BREAST		bu	b u
+57941	74094	transnewguineaorg-samo	samo1303		breast	1402	BREAST		bu	b u
+64872	81025	transnewguineaorg-fembe	femb1238		burn	2102	BURN		tiyae	t i j a e
+64873	81026	transnewguineaorg-fembe	femb1238		burn	2102	BURN		dohugi	d o h u g i
+64885	81038	transnewguineaorg-gobasi-bibo	goba1246		burn	2102	BURN		tologwiya	t o l o g w i j a
+64886	81039	transnewguineaorg-gobasi-bibo	goba1246		burn	2102	BURN		si	s i
+64925	81078	transnewguineaorg-kubo	kubo1242		burn	2102	BURN		hobeyotoiyo	h o b e j o t o i j o
+64926	81079	transnewguineaorg-kubo	kubo1242		burn	2102	BURN		hɔbeɔtɔiɔ	h ɔ b e ɔ t ɔ i ɔ
+64927	81080	transnewguineaorg-kubo	kubo1242		burn	2102	BURN		si	s i
+64991	81144	transnewguineaorg-samo	samo1303		burn	2102	BURN		gitoulogwa	g i t o u l o g w a
+64992	81145	transnewguineaorg-samo	samo1303		burn	2102	BURN		heyasɔgɔla	h e j a s ɔ g ɔ l a
+64993	81146	transnewguineaorg-samo	samo1303		burn	2102	BURN		si	s i
+68048	84201	transnewguineaorg-samo	samo1303		buttocks	834	BUTTOCKS		bubuhũy	b u b u h ũ j
+73045	89198	johanssonsoundsymbolic-Odoodee	odoo1238		carry	700	CARRY		kɑdɑ	k ɑ d ɑ
+74587	90740	transnewguineaorg-fembe	femb1238		cassowary	466	CASSOWARY		diɔwa	d i ɔ w a
+74636	90789	transnewguineaorg-kubo	kubo1242		cassowary	466	CASSOWARY		diuɔ	d i u ɔ
+74695	90848	transnewguineaorg-samo	samo1303		cassowary	466	CASSOWARY		kɔyabi	k ɔ j a b i
+87205	103358	transnewguineaorg-fembe	femb1238		claw	72	CLAW		siyɔ_kati	s i j ɔ + k a t i
+87206	103359	transnewguineaorg-fembe	femb1238		claw	72	CLAW		gati	g a t i
+87213	103366	transnewguineaorg-gobasi-bibo	goba1246		claw	72	CLAW		kaliyo	k a l i j o
+87230	103383	transnewguineaorg-kubo	kubo1242		claw	72	CLAW		kai	k a i
+87231	103384	transnewguineaorg-kubo	kubo1242		claw	72	CLAW		siu_kai	s i u + k a i
+87254	103407	transnewguineaorg-samo	samo1303		claw	72	CLAW		kali	k a l i
+87255	103408	transnewguineaorg-samo	samo1303		claw	72	CLAW		sigɔ_kali	s i g ɔ + k a l i
+92213	108366	transnewguineaorg-fembe	femb1238		cloud	1489	CLOUD		mãbi	m ã b i
+92214	108367	transnewguineaorg-fembe	femb1238		cloud	1489	CLOUD		mabi	m a b i
+92232	108385	transnewguineaorg-gobasi-bibo	goba1246		cloud	1489	CLOUD		wau	w a u
+92286	108439	transnewguineaorg-kubo	kubo1242		cloud	1489	CLOUD		ogabi	o g a b i
+92287	108440	transnewguineaorg-kubo	kubo1242		cloud	1489	CLOUD		ɔgabi	ɔ g a b i
+92367	108520	transnewguineaorg-samo	samo1303		cloud	1489	CLOUD		ogabi	o g a b i
+92368	108521	transnewguineaorg-samo	samo1303		cloud	1489	CLOUD		ɔgabi	ɔ g a b i
+96009	112162	transnewguineaorg-fembe	femb1238		cold	1287	COLD		deyɔ	d e j ɔ
+96010	112163	transnewguineaorg-fembe	femb1238		cold	1287	COLD		djeo	d j e o
+96024	112177	transnewguineaorg-gobasi-bibo	goba1246		cold	1287	COLD		ti̧yo	t i j o
+96069	112222	transnewguineaorg-kubo	kubo1242		cold	1287	COLD		ti̧	t i
+96070	112223	transnewguineaorg-kubo	kubo1242		cold	1287	COLD		tī	t iː
+96141	112294	transnewguineaorg-samo	samo1303		cold	1287	COLD		ti̧	t i
+96142	112295	transnewguineaorg-samo	samo1303		cold	1287	COLD		tĩ	t ĩ
+98924	115077	johanssonsoundsymbolic-Odoodee	odoo1238		come	1446	COME		simi	s i m i
+99667	115820	transnewguineaorg-fembe	femb1238		come	1446	COME		huguľu	h u g u ʎ u
+99668	115821	transnewguineaorg-fembe	femb1238		come	1446	COME		huguruyou	h u g u r u j o u
+99680	115833	transnewguineaorg-gobasi-bibo	goba1246		come	1446	COME		ama-	a m a
+99735	115888	transnewguineaorg-kubo	kubo1242		come	1446	COME		hogwaiyo	h o g w a i j o
+99736	115889	transnewguineaorg-kubo	kubo1242		come	1446	COME		hɔgwaiɔ	h ɔ g w a i ɔ
+99828	115981	transnewguineaorg-samo	samo1303		come	1446	COME		hugala	h u g a l a
+99829	115982	transnewguineaorg-samo	samo1303		come	1446	COME		hugala	h u g a l a
+104955	121108	johanssonsoundsymbolic-Odoodee	odoo1238		correctright	1725	CORRECT (RIGHT)		sowɑ	s o w ɑ
+113029	129182	johanssonsoundsymbolic-Odoodee	odoo1238		cry	1839	CRY		ɸusɔ	ɸ u s ɔ
+121865	138020	johanssonsoundsymbolic-Odoodee	odoo1238		daynotnight	1225	DAY (NOT NIGHT)		beɑmɛ	b e ɑ m ɛ
+127147	143302	johanssonsoundsymbolic-Odoodee	odoo1238		die	1494	DIE		tɑsɔ	t ɑ s ɔ
+127862	144017	transnewguineaorg-fembe	femb1238		die	1494	DIE		daladigil	d a l a d i g i l
+127872	144027	transnewguineaorg-gobasi-bibo	goba1246		die	1494	DIE		golo-	g o l o
+127911	144066	transnewguineaorg-kubo	kubo1242		die	1494	DIE		toiyo	t o i j o
+127980	144135	transnewguineaorg-samo	samo1303		die	1494	DIE		tola	t o l a
+134257	150412	johanssonsoundsymbolic-Odoodee	odoo1238		do	813	DO		modo	m o d o
+135696	151851	johanssonsoundsymbolic-Odoodee	odoo1238		dog	2009	DOG		sɔ	s ɔ
+136457	152612	transnewguineaorg-fembe	femb1238		dog	2009	DOG		sɔ	s ɔ
+136458	152613	transnewguineaorg-fembe	femb1238		dog	2009	DOG		sou	s o u
+136472	152627	transnewguineaorg-gobasi-bibo	goba1246		dog	2009	DOG		sof	s o f
+136473	152628	transnewguineaorg-gobasi-bibo	goba1246		dog	2009	DOG		sɔf	s ɔ f
+136525	152680	transnewguineaorg-kubo	kubo1242		dog	2009	DOG		so	s o
+136526	152681	transnewguineaorg-kubo	kubo1242		dog	2009	DOG		sɔ	s ɔ
+136527	152682	transnewguineaorg-kubo	kubo1242		dog	2009	DOG		sɔ	s ɔ
+136620	152775	transnewguineaorg-samo	samo1303		dog	2009	DOG		sofu	s o f u
+136621	152776	transnewguineaorg-samo	samo1303		dog	2009	DOG		sɔfo	s ɔ f o
+136622	152777	transnewguineaorg-samo	samo1303		dog	2009	DOG		sɔfu	s ɔ f u
+142165	158320	johanssonsoundsymbolic-Odoodee	odoo1238		drink	1401	DRINK		nɑ	n ɑ
+142660	158815	transnewguineaorg-fembe	femb1238		drink	1401	DRINK		hwe_nanu	h w e + n a n u
+142666	158821	transnewguineaorg-gobasi-bibo	goba1246		drink	1401	DRINK		ho̧u̧_na-	h o u + n a
+142688	158843	transnewguineaorg-kubo	kubo1242		drink	1401	DRINK		hwi̧_naiyo	h w i + n a i j o
+142717	158872	transnewguineaorg-samo	samo1303		drink	1401	DRINK		ho̧u̧_na̧la	h o u + n a l a
+147164	163319	transnewguineaorg-fembe	femb1238		dryup	1786	DRY UP		fofai	f o f a i
+147176	163331	transnewguineaorg-gobasi-bibo	goba1246		dryup	1786	DRY UP		hafoi	h a f o i
+147222	163377	transnewguineaorg-kubo	kubo1242		dryup	1786	DRY UP		hafo̧do	h a f o d o
+147298	163453	transnewguineaorg-samo	samo1303		dryup	1786	DRY UP		hafodo	h a f o d o
+151989	168144	transnewguineaorg-fembe	femb1238		ear	1247	EAR		du	d u
+151990	168145	transnewguineaorg-fembe	femb1238		ear	1247	EAR		du	d u
+152003	168158	transnewguineaorg-gobasi-bibo	goba1246		ear	1247	EAR		dul	d u l
+152004	168159	transnewguineaorg-gobasi-bibo	goba1246		ear	1247	EAR		du:r	d uː r
+152054	168209	transnewguineaorg-kubo	kubo1242		ear	1247	EAR		du	d u
+152055	168210	transnewguineaorg-kubo	kubo1242		ear	1247	EAR		du	d u
+152056	168211	transnewguineaorg-kubo	kubo1242		ear	1247	EAR		duwëw	d u w e w
+152146	168301	transnewguineaorg-samo	samo1303		ear	1247	EAR		duli	d u l i
+152147	168302	transnewguineaorg-samo	samo1303		ear	1247	EAR		duli	d u l i
+152148	168303	transnewguineaorg-samo	samo1303		ear	1247	EAR		du:ri	d uː r i
+154161	170316	johanssonsoundsymbolic-Odoodee	odoo1238		earthsoil	1228	EARTH (SOIL)		mi	m i
+156764	172919	johanssonsoundsymbolic-Odoodee	odoo1238		eat	1336	EAT		nɑ	n ɑ
+157354	173511	transnewguineaorg-fembe	femb1238		eat	1336	EAT		nɔlu	n ɔ l u
+157355	173512	transnewguineaorg-fembe	femb1238		eat	1336	EAT		nale	n a l e
+157365	173522	transnewguineaorg-gobasi-bibo	goba1246		eat	1336	EAT		na-	n a
+157366	173523	transnewguineaorg-gobasi-bibo	goba1246		eat	1336	EAT		na	n a
+157423	173580	transnewguineaorg-kubo	kubo1242		eat	1336	EAT		naiyo	n a i j o
+157424	173581	transnewguineaorg-kubo	kubo1242		eat	1336	EAT		naiɔ	n a i ɔ
+157425	173582	transnewguineaorg-kubo	kubo1242		eat	1336	EAT		na	n a
+157522	173679	transnewguineaorg-samo	samo1303		eat	1336	EAT		na̧la	n a l a
+157523	173680	transnewguineaorg-samo	samo1303		eat	1336	EAT		nãla	n ã l a
+157524	173681	transnewguineaorg-samo	samo1303		eat	1336	EAT		na	n a
+159072	175230	johanssonsoundsymbolic-Odoodee	odoo1238		egg	744	EGG		hɔ	h ɔ
+159803	175961	transnewguineaorg-fembe	femb1238		egg	744	EGG		siyɔ_hɔ	s i j ɔ + h ɔ
+159804	175962	transnewguineaorg-fembe	femb1238		egg	744	EGG		sioho	s i o h o
+159815	175973	transnewguineaorg-gobasi-bibo	goba1246		egg	744	EGG		holo	h o l o
+159862	176020	transnewguineaorg-kubo	kubo1242		egg	744	EGG		hoo	h oː
+159863	176021	transnewguineaorg-kubo	kubo1242		egg	744	EGG		siu_ho	s i u + h o
+159948	176106	transnewguineaorg-samo	samo1303		egg	744	EGG		holo	h o l o
+159949	176107	transnewguineaorg-samo	samo1303		egg	744	EGG		sigɔ_hɔlɔ	s i g ɔ + h ɔ l ɔ
+160813	176971	johanssonsoundsymbolic-Odoodee	odoo1238		eight	1705	EIGHT		de_tɔ	d e + t ɔ
+163756	179914	johanssonsoundsymbolic-Odoodee	odoo1238		eleven	1706	ELEVEN		ɛi	ɛ i
+170397	186555	transnewguineaorg-fembe	femb1238		eye	1248	EYE		gihã	g i h ã
+170398	186556	transnewguineaorg-fembe	femb1238		eye	1248	EYE		d̲iho	d i h o
+170411	186569	transnewguineaorg-gobasi-bibo	goba1246		eye	1248	EYE		hio̧w	h i o w
+170412	186570	transnewguineaorg-gobasi-bibo	goba1246		eye	1248	EYE		hĩãwã	h ĩ ã w ã
+170465	186623	transnewguineaorg-kubo	kubo1242		eye	1248	EYE		diho̧	d i h o
+170466	186624	transnewguineaorg-kubo	kubo1242		eye	1248	EYE		dihō	d i h oː
+170467	186625	transnewguineaorg-kubo	kubo1242		eye	1248	EYE		diəhã	d i ə h ã
+170563	186721	transnewguineaorg-samo	samo1303		eye	1248	EYE		hi̧yowo	h i j o w o
+170564	186722	transnewguineaorg-samo	samo1303		eye	1248	EYE		hĩɔwɔ	h ĩ ɔ w ɔ
+170565	186723	transnewguineaorg-samo	samo1303		eye	1248	EYE		hĩãwã	h ĩ ã w ã
+173649	189808	johanssonsoundsymbolic-Odoodee	odoo1238		fall	1280	FALL		hɔmɔdɔbiɑsɔ	h ɔ m ɔ d ɔ b i ɑ s ɔ
+175919	192078	johanssonsoundsymbolic-Odoodee	odoo1238		far	1406	FAR		hogo	h o g o
+180352	196511	transnewguineaorg-fembe	femb1238		father	1217	FATHER		ai	a i
+180419	196578	transnewguineaorg-kubo	kubo1242		father	1217	FATHER		ade	a d e
+180505	196664	transnewguineaorg-samo	samo1303		father	1217	FATHER		ade	a d e
+182481	198641	transnewguineaorg-fembe	femb1238		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		sefu	s e f u
+182482	198642	transnewguineaorg-fembe	femb1238		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		sofe	s o f e
+182497	198657	transnewguineaorg-gobasi-bibo	goba1246		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		bo̧no̧	b o n o
+182537	198697	transnewguineaorg-kubo	kubo1242		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		sofe	s o f e
+182538	198698	transnewguineaorg-kubo	kubo1242		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		sofe	s o f e
+182606	198766	transnewguineaorg-samo	samo1303		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		bo̧no̧	b o n o
+182607	198767	transnewguineaorg-samo	samo1303		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		bɔ̃nɔ̃	b ɔ̃ n ɔ̃
+184967	201127	johanssonsoundsymbolic-Odoodee	odoo1238		feather	1201	FEATHER		to	t o
+185361	201521	transnewguineaorg-fembe	femb1238		feather	1201	FEATHER		siyɔ_dowe	s i j ɔ + d o w e
+185362	201522	transnewguineaorg-fembe	femb1238		feather	1201	FEATHER		dowe	d o w e
+185369	201529	transnewguineaorg-gobasi-bibo	goba1246		feather	1201	FEATHER		towa	t o w a
+185386	201546	transnewguineaorg-kubo	kubo1242		feather	1201	FEATHER		toi	t o i
+185387	201547	transnewguineaorg-kubo	kubo1242		feather	1201	FEATHER		siu_toi	s i u + t o i
+185416	201576	transnewguineaorg-samo	samo1303		feather	1201	FEATHER		towo	t o w o
+185417	201577	transnewguineaorg-samo	samo1303		feather	1201	FEATHER		sigɔ_tɔwɔ	s i g ɔ + t ɔ w ɔ
+191315	223968	johanssonsoundsymbolic-Odoodee	odoo1238		flyinsect	1504	FLY (INSECT)		ɸidi	ɸ i d i
+192917	225570	johanssonsoundsymbolic-Odoodee	odoo1238		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ɸidi	ɸ i d i
+193331	225984	transnewguineaorg-fembe	femb1238		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		fuluma_ali	f u l u m a + a l i
+193332	225985	transnewguineaorg-fembe	femb1238		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		gobayali	g o b a j a l i
+193343	225996	transnewguineaorg-gobasi-bibo	goba1246		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		funduwalo	f u n d u w a l o
+193377	226030	transnewguineaorg-kubo	kubo1242		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		fuwoyo̧iyo	f u w o j o i j o
+193378	226031	transnewguineaorg-kubo	kubo1242		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		fuɔyɔ̃iɔ	f u ɔ j ɔ̃ i ɔ
+193430	226083	transnewguineaorg-samo	samo1303		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		fulumaila	f u l u m a i l a
+193431	226084	transnewguineaorg-samo	samo1303		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		fulumã_ila	f u l u m ã + i l a
+196243	228896	johanssonsoundsymbolic-Odoodee	odoo1238		foot	1301	FOOT		hɔmɔ	h ɔ m ɔ
+197550	230203	transnewguineaorg-gobasi-bibo	goba1246		footorleg	2098	FOOT OR LEG		hãm	h ã m
+197556	230209	transnewguineaorg-kubo	kubo1242		footorleg	2098	FOOT OR LEG		abogã	a b o g ã
+197573	230226	transnewguineaorg-samo	samo1303		footorleg	2098	FOOT OR LEG		hɔ̃mɔ̃	h ɔ̃ m ɔ̃
+202574	235227	johanssonsoundsymbolic-Odoodee	odoo1238		four	1500	FOUR		wɔlugu	w ɔ l u g u
+209773	242426	transnewguineaorg-fembe	femb1238		full	1429	FULL		ʌmɔnu	ʌ m ɔ n u
+209774	242427	transnewguineaorg-fembe	femb1238		full	1429	FULL		amai	a m a i
+209786	242439	transnewguineaorg-gobasi-bibo	goba1246		full	1429	FULL		moidedaga	m o i d e d a g a
+209823	242476	transnewguineaorg-kubo	kubo1242		full	1429	FULL		o̧mȩde	o m e d e
+209824	242477	transnewguineaorg-kubo	kubo1242		full	1429	FULL		ɔ̃me:dɛ	ɔ̃ m eː d ɛ
+209890	242543	transnewguineaorg-samo	samo1303		full	1429	FULL		moyotonomado	m o j o t o n o m a d o
+209891	242544	transnewguineaorg-samo	samo1303		full	1429	FULL		mɔ̃yɔtɔnɔ̃mãdɔ	m ɔ̃ j ɔ t ɔ n ɔ̃ m ã d ɔ
+209892	242545	transnewguineaorg-samo	samo1303		full	1429	FULL		mɔɛ_taw	m ɔ ɛ + t a w
+213343	245996	johanssonsoundsymbolic-Odoodee	odoo1238		girl	1646	GIRL		sɔbɔhɔlɔ	s ɔ b ɔ h ɔ l ɔ
+214672	247325	johanssonsoundsymbolic-Odoodee	odoo1238		give	1447	GIVE		tɛnɛ	t ɛ n ɛ
+215397	248050	transnewguineaorg-fembe	femb1238		give	1447	GIVE		neida	n e i d a
+215398	248051	transnewguineaorg-fembe	femb1238		give	1447	GIVE		a_neyou	a + n e j o u
+215416	248069	transnewguineaorg-gobasi-bibo	goba1246		give	1447	GIVE		ne-	n e
+215459	248112	transnewguineaorg-kubo	kubo1242		give	1447	GIVE		a̧_neiyo	a + n e i j o
+215460	248113	transnewguineaorg-kubo	kubo1242		give	1447	GIVE		neiɔ	n e i ɔ
+215542	248195	transnewguineaorg-samo	samo1303		give	1447	GIVE		nȩla	n e l a
+215543	248196	transnewguineaorg-samo	samo1303		give	1447	GIVE		nẽla	n ẽ l a
+217031	249684	johanssonsoundsymbolic-Odoodee	odoo1238		go	695	GO		di	d i
+220803	253459	johanssonsoundsymbolic-Odoodee	odoo1238		good	1035	GOOD		tɛkɛɸɔ	t ɛ k ɛ ɸ ɔ
+221559	254215	transnewguineaorg-fembe	femb1238		good	1035	GOOD		dɛ	d ɛ
+221560	254216	transnewguineaorg-fembe	femb1238		good	1035	GOOD		de	d e
+221576	254232	transnewguineaorg-gobasi-bibo	goba1246		good	1035	GOOD		de	d e
+221629	254285	transnewguineaorg-kubo	kubo1242		good	1035	GOOD		de	d e
+221630	254286	transnewguineaorg-kubo	kubo1242		good	1035	GOOD		de	d e
+221714	254370	transnewguineaorg-samo	samo1303		good	1035	GOOD		de	d e
+221715	254371	transnewguineaorg-samo	samo1303		good	1035	GOOD		de	d e
+226239	258895	johanssonsoundsymbolic-Odoodee	odoo1238		grass	606	GRASS		ɔbu	ɔ b u
+229071	261727	transnewguineaorg-fembe	femb1238		green	1425	GREEN		mayʌ	m a j ʌ
+229072	261728	transnewguineaorg-fembe	femb1238		green	1425	GREEN		biae	b i a e
+229082	261738	transnewguineaorg-gobasi-bibo	goba1246		green	1425	GREEN		molo	m o l o
+229116	261772	transnewguineaorg-kubo	kubo1242		green	1425	GREEN		moeko	m o e k o
+229117	261773	transnewguineaorg-kubo	kubo1242		green	1425	GREEN		mɔekɔ	m ɔ e k ɔ
+229172	261828	transnewguineaorg-samo	samo1303		green	1425	GREEN		molowate	m o l o w a t e
+229173	261829	transnewguineaorg-samo	samo1303		green	1425	GREEN		mɔ̃ľɔwɔwte	m ɔ̃ ʎ ɔ w ɔ w t e
+230516	263172	transnewguineaorg-fembe	femb1238		ground	2159	GROUND		ʌsɔ	ʌ s ɔ
+230517	263173	transnewguineaorg-fembe	femb1238		ground	2159	GROUND		oso	o s o
+230523	263179	transnewguineaorg-gobasi-bibo	goba1246		ground	2159	GROUND		osob	o s o b
+230550	263206	transnewguineaorg-kubo	kubo1242		ground	2159	GROUND		oso	o s o
+230551	263207	transnewguineaorg-kubo	kubo1242		ground	2159	GROUND		ɔso	ɔ s o
+230598	263254	transnewguineaorg-samo	samo1303		ground	2159	GROUND		moho̧i̧	m o h o i
+230599	263255	transnewguineaorg-samo	samo1303		ground	2159	GROUND		mʌhɔ̃i	m ʌ h ɔ̃ i
+235510	268166	transnewguineaorg-fembe	femb1238		hairbody	189	HAIR (BODY)		wɔdiɔ_tɔwɔ	w ɔ d i ɔ + t ɔ w ɔ
+235511	268167	transnewguineaorg-fembe	femb1238		hairbody	189	HAIR (BODY)		wigiduae	w i g i d u a e
+235526	268182	transnewguineaorg-gobasi-bibo	goba1246		hairbody	189	HAIR (BODY)		otowa	o t o w a
+235527	268183	transnewguineaorg-gobasi-bibo	goba1246		hairbody	189	HAIR (BODY)		tawa	t a w a
+235588	268244	transnewguineaorg-kubo	kubo1242		hairbody	189	HAIR (BODY)		wodiyo_toi	w o d i j o + t o i
+235589	268245	transnewguineaorg-kubo	kubo1242		hairbody	189	HAIR (BODY)		wodio_toi	w o d i o + t o i
+235590	268246	transnewguineaorg-kubo	kubo1242		hairbody	189	HAIR (BODY)		tɔwɛ	t ɔ w ɛ
+235697	268353	transnewguineaorg-samo	samo1303		hairbody	189	HAIR (BODY)		otowa	o t o w a
+235698	268354	transnewguineaorg-samo	samo1303		hairbody	189	HAIR (BODY)		ulʌgibi	u l ʌ g i b i
+235699	268355	transnewguineaorg-samo	samo1303		hairbody	189	HAIR (BODY)		tawa	t a w a
+238446	271102	johanssonsoundsymbolic-Odoodee	odoo1238		hand	1277	HAND		de	d e
+240359	273015	johanssonsoundsymbolic-Odoodee	odoo1238		happy	1495	HAPPY		gomɔgɔ	g o m ɔ g ɔ
+240722	273378	johanssonsoundsymbolic-Odoodee	odoo1238		hard	1884	HARD		kɑlɑwɑ	k ɑ l ɑ w ɑ
+244000	276657	johanssonsoundsymbolic-Odoodee	odoo1238		head	1256	HEAD		wiligi	w i l i g i
+244772	277429	transnewguineaorg-fembe	femb1238		head	1256	HEAD		wɔdiɔ	w ɔ d i ɔ
+244773	277430	transnewguineaorg-fembe	femb1238		head	1256	HEAD		widua	w i d u a
+244787	277444	transnewguineaorg-gobasi-bibo	goba1246		head	1256	HEAD		ulukib	u l u k i b
+244788	277445	transnewguineaorg-gobasi-bibo	goba1246		head	1256	HEAD		ukib	u k i b
+244849	277506	transnewguineaorg-kubo	kubo1242		head	1256	HEAD		wodiyo	w o d i j o
+244850	277507	transnewguineaorg-kubo	kubo1242		head	1256	HEAD		wodio	w o d i o
+244851	277508	transnewguineaorg-kubo	kubo1242		head	1256	HEAD		odiu	o d i u
+244949	277606	transnewguineaorg-samo	samo1303		head	1256	HEAD		ulagibi	u l a g i b i
+244950	277607	transnewguineaorg-samo	samo1303		head	1256	HEAD		ulʌgibi	u l ʌ g i b i
+244951	277608	transnewguineaorg-samo	samo1303		head	1256	HEAD		ukibi	u k i b i
+246938	279595	johanssonsoundsymbolic-Odoodee	odoo1238		hear	1408	HEAR		du	d u
+247647	280304	transnewguineaorg-fembe	femb1238		hear	1408	HEAR		duya	d u j a
+247648	280305	transnewguineaorg-fembe	femb1238		hear	1408	HEAR		andulu	a n d u l u
+247661	280318	transnewguineaorg-gobasi-bibo	goba1246		hear	1408	HEAR		dǔ-	d u
+247704	280361	transnewguineaorg-kubo	kubo1242		hear	1408	HEAR		duiyo	d u i j o
+247705	280362	transnewguineaorg-kubo	kubo1242		hear	1408	HEAR		duiɔ	d u i ɔ
+247773	280430	transnewguineaorg-samo	samo1303		hear	1408	HEAR		dula	d u l a
+247774	280431	transnewguineaorg-samo	samo1303		hear	1408	HEAR		dula	d u l a
+249049	281706	transnewguineaorg-fembe	femb1238		heart	1223	HEART		solo	s o l o
+249059	281716	transnewguineaorg-gobasi-bibo	goba1246		heart	1223	HEART		solof	s o l o f
+249089	281746	transnewguineaorg-kubo	kubo1242		heart	1223	HEART		soo	s oː
+249144	281801	transnewguineaorg-samo	samo1303		heart	1223	HEART		solufe	s o l u f e
+253905	286563	johanssonsoundsymbolic-Odoodee	odoo1238		heorsheorit	262	HE OR SHE OR IT		jɔ	j ɔ
+254521	287180	johanssonsoundsymbolic-Odoodee	odoo1238		here	136	HERE		hɑmɑɸo	h ɑ m ɑ ɸ o
+258778	291438	johanssonsoundsymbolic-Odoodee	odoo1238		hit	1433	HIT		wɛi	w ɛ i
+261534	294194	transnewguineaorg-gobasi-bibo	goba1246		hole	1667	HOLE		taim	t a i m
+265810	298470	transnewguineaorg-fembe	femb1238		hot	1286	HOT		defi	d e f i
+265848	298508	transnewguineaorg-kubo	kubo1242		hot	1286	HOT		dɔfi	d ɔ f i
+265890	298550	transnewguineaorg-samo	samo1303		hot	1286	HOT		dɔfi	d ɔ f i
+266264	298924	transnewguineaorg-fembe	femb1238		hotorwarm	2272	HOT OR WARM		defi	d e f i
+266267	298927	transnewguineaorg-gobasi-bibo	goba1246		hotorwarm	2272	HOT OR WARM		doyf	d o j f
+266268	298928	transnewguineaorg-gobasi-bibo	goba1246		hotorwarm	2272	HOT OR WARM		dɔif	d ɔ i f
+266283	298943	transnewguineaorg-kubo	kubo1242		hotorwarm	2272	HOT OR WARM		dofi	d o f i
+266284	298944	transnewguineaorg-kubo	kubo1242		hotorwarm	2272	HOT OR WARM		dafi	d a f i
+266326	298986	transnewguineaorg-samo	samo1303		hotorwarm	2272	HOT OR WARM		dofi	d o f i
+266327	298987	transnewguineaorg-samo	samo1303		hotorwarm	2272	HOT OR WARM		dɔfi	d ɔ f i
+267334	299994	johanssonsoundsymbolic-Odoodee	odoo1238		house	1252	HOUSE		mɔsɔ	m ɔ s ɔ
+268901	301561	johanssonsoundsymbolic-Odoodee	odoo1238		how	1239	HOW		kɑse	k ɑ s e
+274751	307411	johanssonsoundsymbolic-Odoodee	odoo1238		i	1209	I		ɑ	ɑ
+275233	307893	transnewguineaorg-fembe	femb1238		i	1209	I		ame	a m e
+275234	307894	transnewguineaorg-fembe	femb1238		i	1209	I		ame	a m e
+275246	307906	transnewguineaorg-gobasi-bibo	goba1246		i	1209	I		a̧wo	a w o
+275247	307907	transnewguineaorg-gobasi-bibo	goba1246		i	1209	I		ã	ã
+275287	307947	transnewguineaorg-kubo	kubo1242		i	1209	I		a̧	a
+275288	307948	transnewguineaorg-kubo	kubo1242		i	1209	I		ã	ã
+275289	307949	transnewguineaorg-kubo	kubo1242		i	1209	I		ã	ã
+275371	308031	transnewguineaorg-samo	samo1303		i	1209	I		a̧	a
+275372	308032	transnewguineaorg-samo	samo1303		i	1209	I		ã	ã
+275373	308033	transnewguineaorg-samo	samo1303		i	1209	I		ã	ã
+276800	309460	johanssonsoundsymbolic-Odoodee	odoo1238		if	1459	IF		gɑ	g ɑ
+278080	310740	johanssonsoundsymbolic-Odoodee	odoo1238		in	1460	IN		kulɔdu	k u l ɔ d u
+287592	320252	johanssonsoundsymbolic-Odoodee	odoo1238		kill	1417	KILL		wɔlɔmɑ	w ɔ l ɔ m ɑ
+288123	320783	transnewguineaorg-fembe	femb1238		kill	1417	KILL		wiyɔtɔ̃ke	w i j ɔ t ɔ̃ k e
+288124	320784	transnewguineaorg-fembe	femb1238		kill	1417	KILL		gaba_wala_ngu	g a b a + w a l a + n g u
+288136	320796	transnewguineaorg-gobasi-bibo	goba1246		kill	1417	KILL		ɔ-	ɔ
+288168	320828	transnewguineaorg-kubo	kubo1242		kill	1417	KILL		toiyo	t o i j o
+288169	320829	transnewguineaorg-kubo	kubo1242		kill	1417	KILL		toiɔ	t o i ɔ
+288216	320876	transnewguineaorg-samo	samo1303		kill	1417	KILL		tola	t o l a
+288217	320877	transnewguineaorg-samo	samo1303		kill	1417	KILL		ola	o l a
+290966	323626	transnewguineaorg-fembe	femb1238		knee	1371	KNEE		hɔgɔwa	h ɔ g ɔ w a
+290967	323627	transnewguineaorg-fembe	femb1238		knee	1371	KNEE		ebuton	e b u t o n
+290980	323640	transnewguineaorg-gobasi-bibo	goba1246		knee	1371	KNEE		mu̧gu̧	m u g u
+290981	323641	transnewguineaorg-gobasi-bibo	goba1246		knee	1371	KNEE		ibili	i b i l i
+291027	323687	transnewguineaorg-kubo	kubo1242		knee	1371	KNEE		yubu	j u b u
+291028	323688	transnewguineaorg-kubo	kubo1242		knee	1371	KNEE		yubu	j u b u
+291029	323689	transnewguineaorg-kubo	kubo1242		knee	1371	KNEE		iəbu	i ə b u
+291097	323757	transnewguineaorg-samo	samo1303		knee	1371	KNEE		ibulu	i b u l u
+291098	323758	transnewguineaorg-samo	samo1303		knee	1371	KNEE		ibulu	i b u l u
+291099	323759	transnewguineaorg-samo	samo1303		knee	1371	KNEE		iburi	i b u r i
+293353	326013	johanssonsoundsymbolic-Odoodee	odoo1238		know	3626	KNOW		gole	g o l e
+294713	327373	transnewguineaorg-fembe	femb1238		knowsomething	1410	KNOW (SOMETHING)		tɔwe	t ɔ w e
+294714	327374	transnewguineaorg-fembe	femb1238		knowsomething	1410	KNOW (SOMETHING)		atowe	a t o w e
+294720	327380	transnewguineaorg-gobasi-bibo	goba1246		knowsomething	1410	KNOW (SOMETHING)		duwi	d u w i
+294741	327401	transnewguineaorg-kubo	kubo1242		knowsomething	1410	KNOW (SOMETHING)		towa̧iyo	t o w a i j o
+294742	327402	transnewguineaorg-kubo	kubo1242		knowsomething	1410	KNOW (SOMETHING)		tɔwãiɔ	t ɔ w ã i ɔ
+294770	327430	transnewguineaorg-samo	samo1303		knowsomething	1410	KNOW (SOMETHING)		towe	t o w e
+294771	327431	transnewguineaorg-samo	samo1303		knowsomething	1410	KNOW (SOMETHING)		tɔwadela	t ɔ w a d e l a
+299074	331734	johanssonsoundsymbolic-Odoodee	odoo1238		laugh	1355	LAUGH		jumɔlɔ	j u m ɔ l ɔ
+302229	334889	johanssonsoundsymbolic-Odoodee	odoo1238		leaf	628	LEAF		hɔsugu	h ɔ s u g u
+302955	335615	transnewguineaorg-fembe	femb1238		leaf	628	LEAF		hebẽ_dibi	h e b ẽ + d i b i
+302956	335616	transnewguineaorg-fembe	femb1238		leaf	628	LEAF		habe_gua	h a b e + g u a
+302965	335625	transnewguineaorg-gobasi-bibo	goba1246		leaf	628	LEAF		gwob	g w o b
+302966	335626	transnewguineaorg-gobasi-bibo	goba1246		leaf	628	LEAF		gwɔ:b	g w ɔː b
+303008	335668	transnewguineaorg-kubo	kubo1242		leaf	628	LEAF		dubi	d u b i
+303009	335669	transnewguineaorg-kubo	kubo1242		leaf	628	LEAF		dubi	d u b i
+303010	335670	transnewguineaorg-kubo	kubo1242		leaf	628	LEAF		dibi	d i b i
+303070	335730	transnewguineaorg-samo	samo1303		leaf	628	LEAF		dibi	d i b i
+303071	335731	transnewguineaorg-samo	samo1303		leaf	628	LEAF		dibi	d i b i
+303072	335732	transnewguineaorg-samo	samo1303		leaf	628	LEAF		dibi	d i b i
+306899	339559	transnewguineaorg-fembe	femb1238		leg	1297	LEG		ɔbɔgɔ̃	ɔ b ɔ g ɔ̃
+306900	339560	transnewguineaorg-fembe	femb1238		leg	1297	LEG		abogo	a b o g o
+306910	339570	transnewguineaorg-gobasi-bibo	goba1246		leg	1297	LEG		homo	h o m o
+306946	339606	transnewguineaorg-kubo	kubo1242		leg	1297	LEG		obogo	o b o g o
+306947	339607	transnewguineaorg-kubo	kubo1242		leg	1297	LEG		ɔbɔgɔ	ɔ b ɔ g ɔ
+307013	339673	transnewguineaorg-samo	samo1303		leg	1297	LEG		homo	h o m o
+307014	339674	transnewguineaorg-samo	samo1303		leg	1297	LEG		hɔmɔ̃	h ɔ m ɔ̃
+310015	342675	transnewguineaorg-fembe	femb1238		liedown	215	LIE DOWN		tiɔľu	t i ɔ ʎ u
+310016	342676	transnewguineaorg-fembe	femb1238		liedown	215	LIE DOWN		diaiae	d i a i a e
+310019	342679	transnewguineaorg-gobasi-bibo	goba1246		liedown	215	LIE DOWN		kie-	k i e
+310035	342695	transnewguineaorg-kubo	kubo1242		liedown	215	LIE DOWN		ti̧ya̧diyo	t i j a d i j o
+310036	342696	transnewguineaorg-kubo	kubo1242		liedown	215	LIE DOWN		tiadiɔ	t i a d i ɔ
+310064	342724	transnewguineaorg-samo	samo1303		liedown	215	LIE DOWN		kela	k e l a
+310065	342725	transnewguineaorg-samo	samo1303		liedown	215	LIE DOWN		kela	k e l a
+317475	350135	transnewguineaorg-fembe	femb1238		liver	1224	LIVER		habe	h a b e
+317486	350146	transnewguineaorg-gobasi-bibo	goba1246		liver	1224	LIVER		kolof	k o l o f
+317515	350175	transnewguineaorg-kubo	kubo1242		liver	1224	LIVER		koo	k oː
+317570	350230	transnewguineaorg-samo	samo1303		liver	1224	LIVER		hobe	h o b e
+319890	352550	johanssonsoundsymbolic-Odoodee	odoo1238		long	1203	LONG		sɑgɛ	s ɑ g ɛ
+320445	353105	transnewguineaorg-fembe	femb1238		long	1203	LONG		sɔgɔ	s ɔ g ɔ
+320446	353106	transnewguineaorg-fembe	femb1238		long	1203	LONG		sogowai	s o g o w a i
+320461	353121	transnewguineaorg-gobasi-bibo	goba1246		long	1203	LONG		sag	s a g
+320511	353171	transnewguineaorg-kubo	kubo1242		long	1203	LONG		sago	s a g o
+320512	353172	transnewguineaorg-kubo	kubo1242		long	1203	LONG		sagɔ	s a g ɔ
+320513	353173	transnewguineaorg-kubo	kubo1242		long	1203	LONG		kuga	k u g a
+320590	353250	transnewguineaorg-samo	samo1303		long	1203	LONG		sago	s a g o
+320591	353251	transnewguineaorg-samo	samo1303		long	1203	LONG		sagɔ	s a g ɔ
+320592	353252	transnewguineaorg-samo	samo1303		long	1203	LONG		sago	s a g o
+324056	356716	transnewguineaorg-fembe	femb1238		louse	1392	LOUSE		ɔ̃u	ɔ̃ u
+324057	356717	transnewguineaorg-fembe	femb1238		louse	1392	LOUSE		ou	o u
+324069	356729	transnewguineaorg-gobasi-bibo	goba1246		louse	1392	LOUSE		om	o m
+324118	356778	transnewguineaorg-kubo	kubo1242		louse	1392	LOUSE		o̧u̧	o u
+324119	356779	transnewguineaorg-kubo	kubo1242		louse	1392	LOUSE		oū	o uː
+324214	356874	transnewguineaorg-samo	samo1303		louse	1392	LOUSE		o̧u̧	o u
+324215	356875	transnewguineaorg-samo	samo1303		louse	1392	LOUSE		õu	õ u
+324216	356876	transnewguineaorg-samo	samo1303		louse	1392	LOUSE		õw	õ w
+325019	357679	johanssonsoundsymbolic-Odoodee	odoo1238		low	721	LOW		hɛmi	h ɛ m i
+325801	358462	johanssonsoundsymbolic-Odoodee	odoo1238		lowerleg	447	LOWER LEG		hɔmɔ	h ɔ m ɔ
+330505	363166	johanssonsoundsymbolic-Odoodee	odoo1238		man	1554	MAN		gisɔ	g i s ɔ
+331181	363842	transnewguineaorg-fembe	femb1238		man	1554	MAN		o	o
+331182	363843	transnewguineaorg-fembe	femb1238		man	1554	MAN		or	o r
+331197	363858	transnewguineaorg-gobasi-bibo	goba1246		man	1554	MAN		os	o s
+331248	363909	transnewguineaorg-kubo	kubo1242		man	1554	MAN		o	o
+331249	363910	transnewguineaorg-kubo	kubo1242		man	1554	MAN		o	o
+331331	363992	transnewguineaorg-samo	samo1303		man	1554	MAN		ouson	o u s o n
+331332	363993	transnewguineaorg-samo	samo1303		man	1554	MAN		oso	o s o
+332327	364988	johanssonsoundsymbolic-Odoodee	odoo1238		many	1198	MANY		bɛi	b ɛ i
+332699	365360	transnewguineaorg-fembe	femb1238		many	1198	MANY		gɔgɔ̃	g ɔ g ɔ̃
+332700	365361	transnewguineaorg-fembe	femb1238		many	1198	MANY		kowi_kowi	k o w i + k o w i
+332714	365375	transnewguineaorg-gobasi-bibo	goba1246		many	1198	MANY		go̧go̧	g o g o
+332754	365415	transnewguineaorg-kubo	kubo1242		many	1198	MANY		go̧go̧	g o g o
+332755	365416	transnewguineaorg-kubo	kubo1242		many	1198	MANY		gõgõ	g õ g õ
+332811	365472	transnewguineaorg-samo	samo1303		many	1198	MANY		go̧u̧go̧u̧	g o u g o u
+332812	365473	transnewguineaorg-samo	samo1303		many	1198	MANY		gõgõ	g õ g õ
+344498	377159	johanssonsoundsymbolic-Odoodee	odoo1238		moon	1313	MOON		ɑ	ɑ
+345220	377881	transnewguineaorg-fembe	femb1238		moon	1313	MOON		ʌgwa	ʌ g w a
+345221	377882	transnewguineaorg-fembe	femb1238		moon	1313	MOON		oguao	o g u a o
+345235	377896	transnewguineaorg-gobasi-bibo	goba1246		moon	1313	MOON		aib	a i b
+345287	377948	transnewguineaorg-kubo	kubo1242		moon	1313	MOON		ogwa	o g w a
+345288	377949	transnewguineaorg-kubo	kubo1242		moon	1313	MOON		ogwʌ	o g w ʌ
+345369	378030	transnewguineaorg-samo	samo1303		moon	1313	MOON		ogwa	o g w a
+345370	378031	transnewguineaorg-samo	samo1303		moon	1313	MOON		ogwʌ	o g w ʌ
+349890	382552	transnewguineaorg-fembe	femb1238		mother	1216	MOTHER		ʌmaya	ʌ m a j a
+349901	382563	transnewguineaorg-gobasi-bibo	goba1246		mother	1216	MOTHER		uí	u i
+349963	382625	transnewguineaorg-kubo	kubo1242		mother	1216	MOTHER		dua	d u a
+349964	382626	transnewguineaorg-kubo	kubo1242		mother	1216	MOTHER		dua	d u a
+350055	382719	transnewguineaorg-samo	samo1303		mother	1216	MOTHER		uyɔ	u j ɔ
+350056	382720	transnewguineaorg-samo	samo1303		mother	1216	MOTHER		uya	u j a
+350968	383632	johanssonsoundsymbolic-Odoodee	odoo1238		mountain	639	MOUNTAIN		mubido	m u b i d o
+351496	384160	transnewguineaorg-fembe	femb1238		mountain	639	MOUNTAIN		gɔwule	g ɔ w u l e
+351497	384161	transnewguineaorg-fembe	femb1238		mountain	639	MOUNTAIN		bogahai	b o g a h a i
+351509	384173	transnewguineaorg-gobasi-bibo	goba1246		mountain	639	MOUNTAIN		bihay	b i h a j
+351559	384223	transnewguineaorg-kubo	kubo1242		mountain	639	MOUNTAIN		to̧fo̧	t o f o
+351560	384224	transnewguineaorg-kubo	kubo1242		mountain	639	MOUNTAIN		gɔwufɔda	g ɔ w u f ɔ d a
+351636	384300	transnewguineaorg-samo	samo1303		mountain	639	MOUNTAIN		golwu_foda	g o l w u + f o d a
+351637	384301	transnewguineaorg-samo	samo1303		mountain	639	MOUNTAIN		goufɔda	g o u f ɔ d a
+354228	386892	transnewguineaorg-fembe	femb1238		mouth	674	MOUTH		mʌga	m ʌ g a
+354229	386893	transnewguineaorg-fembe	femb1238		mouth	674	MOUTH		difogo	d i f o g o
+354243	386907	transnewguineaorg-gobasi-bibo	goba1246		mouth	674	MOUTH		magalu	m a g a l u
+354244	386908	transnewguineaorg-gobasi-bibo	goba1246		mouth	674	MOUTH		maga:r	m a g aː r
+354292	386956	transnewguineaorg-kubo	kubo1242		mouth	674	MOUTH		mogau	m o g a u
+354293	386957	transnewguineaorg-kubo	kubo1242		mouth	674	MOUTH		mɔgaʔu	m ɔ g a ʔ u
+354294	386958	transnewguineaorg-kubo	kubo1242		mouth	674	MOUTH		moga	m o g a
+354372	387036	transnewguineaorg-samo	samo1303		mouth	674	MOUTH		mogalu	m o g a l u
+354373	387037	transnewguineaorg-samo	samo1303		mouth	674	MOUTH		mɔ̃galu	m ɔ̃ g a l u
+354374	387038	transnewguineaorg-samo	samo1303		mouth	674	MOUTH		magara	m a g a r a
+358501	391165	johanssonsoundsymbolic-Odoodee	odoo1238		name	1405	NAME		hu	h u
+359043	391709	transnewguineaorg-fembe	femb1238		name	1405	NAME		hũ	h ũ
+359044	391710	transnewguineaorg-fembe	femb1238		name	1405	NAME		husolo	h u s o l o
+359056	391722	transnewguineaorg-gobasi-bibo	goba1246		name	1405	NAME		hũ	h ũ
+359057	391723	transnewguineaorg-gobasi-bibo	goba1246		name	1405	NAME		hũ	h ũ
+359107	391773	transnewguineaorg-kubo	kubo1242		name	1405	NAME		hu̧ti	h u t i
+359108	391774	transnewguineaorg-kubo	kubo1242		name	1405	NAME		hũti	h ũ t i
+359109	391775	transnewguineaorg-kubo	kubo1242		name	1405	NAME		hũ	h ũ
+359194	391860	transnewguineaorg-samo	samo1303		name	1405	NAME		hu̧ti	h u t i
+359195	391861	transnewguineaorg-samo	samo1303		name	1405	NAME		hũti	h ũ t i
+359196	391862	transnewguineaorg-samo	samo1303		name	1405	NAME		hũ	h ũ
+361498	394164	johanssonsoundsymbolic-Odoodee	odoo1238		navel	1838	NAVEL		ɛbigɑ	ɛ b i g ɑ
+363046	395712	johanssonsoundsymbolic-Odoodee	odoo1238		near	1942	NEAR		kɔlɑ	k ɔ l ɑ
+365519	398186	transnewguineaorg-fembe	femb1238		neck	1333	NECK		gɔbaidiɔ	g ɔ b a i d i ɔ
+365520	398187	transnewguineaorg-fembe	femb1238		neck	1333	NECK		gobagi	g o b a g i
+365537	398204	transnewguineaorg-gobasi-bibo	goba1246		neck	1333	NECK		gofigib	g o f i g i b
+365538	398205	transnewguineaorg-gobasi-bibo	goba1246		neck	1333	NECK		musmar	m u s m a r
+365577	398244	transnewguineaorg-kubo	kubo1242		neck	1333	NECK		gobaidiyu	g o b a i d i j u
+365578	398245	transnewguineaorg-kubo	kubo1242		neck	1333	NECK		gɔbaidiu	g ɔ b a i d i u
+365579	398246	transnewguineaorg-kubo	kubo1242		neck	1333	NECK		mu	m u
+365657	398324	transnewguineaorg-samo	samo1303		neck	1333	NECK		gobagibi	g o b a g i b i
+365658	398325	transnewguineaorg-samo	samo1303		neck	1333	NECK		gɔbʌgibi	g ɔ b ʌ g i b i
+365659	398326	transnewguineaorg-samo	samo1303		neck	1333	NECK		mu	m u
+368843	401510	johanssonsoundsymbolic-Odoodee	odoo1238		new	1231	NEW		diɑ	d i ɑ
+369376	402043	transnewguineaorg-fembe	femb1238		new	1231	NEW		dɔwadɔ	d ɔ w a d ɔ
+369377	402044	transnewguineaorg-fembe	femb1238		new	1231	NEW		aeyo	a e j o
+369391	402058	transnewguineaorg-gobasi-bibo	goba1246		new	1231	NEW		duwaif	d u w a i f
+369392	402059	transnewguineaorg-gobasi-bibo	goba1246		new	1231	NEW		doaif	d o a i f
+369449	402116	transnewguineaorg-kubo	kubo1242		new	1231	NEW		dwau	d w a u
+369450	402117	transnewguineaorg-kubo	kubo1242		new	1231	NEW		dwau	d w a u
+369451	402118	transnewguineaorg-kubo	kubo1242		new	1231	NEW		doaw	d o a w
+369539	402206	transnewguineaorg-samo	samo1303		new	1231	NEW		dwafi	d w a f i
+369540	402207	transnewguineaorg-samo	samo1303		new	1231	NEW		dwafi	d w a f i
+369541	402208	transnewguineaorg-samo	samo1303		new	1231	NEW		doafi	d o a f i
+371623	404290	johanssonsoundsymbolic-Odoodee	odoo1238		night	1233	NIGHT		gɛsi	g ɛ s i
+372335	405002	transnewguineaorg-fembe	femb1238		night	1233	NIGHT		gɔsiɔ̃gɔ	g ɔ s i ɔ̃ g ɔ
+372336	405003	transnewguineaorg-fembe	femb1238		night	1233	NIGHT		bongongulu	b o n g o n g u l u
+372349	405016	transnewguineaorg-gobasi-bibo	goba1246		night	1233	NIGHT		gosigiali	g o s i g i a l i
+372407	405074	transnewguineaorg-kubo	kubo1242		night	1233	NIGHT		go̧si̧	g o s i
+372408	405075	transnewguineaorg-kubo	kubo1242		night	1233	NIGHT		gōsī	g oː s iː
+372490	405157	transnewguineaorg-samo	samo1303		night	1233	NIGHT		go̧si̧	g o s i
+372491	405158	transnewguineaorg-samo	samo1303		night	1233	NIGHT		gɔ̃sĩ	g ɔ̃ s ĩ
+373299	405966	johanssonsoundsymbolic-Odoodee	odoo1238		nine	1483	NINE		dimɑ	d i m ɑ
+375271	407938	transnewguineaorg-gobasi-bibo	goba1246		noon	2490	NOON		aib	a i b
+375275	407942	transnewguineaorg-kubo	kubo1242		noon	2490	NOON		ugo	u g o
+375282	407949	transnewguineaorg-samo	samo1303		noon	2490	NOON		ugo	u g o
+378193	410860	transnewguineaorg-fembe	femb1238		nose	1221	NOSE		migiyao	m i g i j a o
+378194	410861	transnewguineaorg-fembe	femb1238		nose	1221	NOSE		go	g o
+378207	410874	transnewguineaorg-gobasi-bibo	goba1246		nose	1221	NOSE		mina	m i n a
+378208	410875	transnewguineaorg-gobasi-bibo	goba1246		nose	1221	NOSE		mini	m i n i
+378260	410927	transnewguineaorg-kubo	kubo1242		nose	1221	NOSE		mi	m i
+378261	410928	transnewguineaorg-kubo	kubo1242		nose	1221	NOSE		mi	m i
+378262	410929	transnewguineaorg-kubo	kubo1242		nose	1221	NOSE		mi	m i
+378354	411021	transnewguineaorg-samo	samo1303		nose	1221	NOSE		mi̧ni	m i n i
+378355	411022	transnewguineaorg-samo	samo1303		nose	1221	NOSE		mĩnĩ	m ĩ n ĩ
+378356	411023	transnewguineaorg-samo	samo1303		nose	1221	NOSE		mini	m i n i
+379030	411697	johanssonsoundsymbolic-Odoodee	odoo1238		not	1240	NOT		mɛ	m ɛ
+379427	412094	transnewguineaorg-fembe	femb1238		not	1240	NOT		mɔi	m ɔ i
+379428	412095	transnewguineaorg-fembe	femb1238		not	1240	NOT		gelegelemi	g e l e g e l e m i
+379439	412106	transnewguineaorg-gobasi-bibo	goba1246		not	1240	NOT		moi	m o i
+379462	412129	transnewguineaorg-kubo	kubo1242		not	1240	NOT		moi	m o i
+379463	412130	transnewguineaorg-kubo	kubo1242		not	1240	NOT		mɔi	m ɔ i
+379507	412174	transnewguineaorg-samo	samo1303		not	1240	NOT		moi	m o i
+379508	412175	transnewguineaorg-samo	samo1303		not	1240	NOT		mɔi	m ɔ i
+379781	412448	johanssonsoundsymbolic-Odoodee	odoo1238		nothing	687	NOTHING		mɛ	m ɛ
+380346	413013	johanssonsoundsymbolic-Odoodee	odoo1238		now	1376	NOW		ɛɸɛde	ɛ ɸ ɛ d e
+384221	416888	johanssonsoundsymbolic-Odoodee	odoo1238		oldaged	2112	OLD (AGED)		nɑɸɛ	n ɑ ɸ ɛ
+385071	417738	transnewguineaorg-gobasi-bibo	goba1246		olderbrother	1759	OLDER BROTHER		ɔ̃ɛ̃	ɔ̃ ɛ̃
+385077	417744	transnewguineaorg-kubo	kubo1242		olderbrother	1759	OLDER BROTHER		ãyã	ã j ã
+385089	417756	transnewguineaorg-samo	samo1303		olderbrother	1759	OLDER BROTHER		ãyã	ã j ã
+386053	418720	transnewguineaorg-gobasi-bibo	goba1246		oldersister	1758	OLDER SISTER		ɔ̃w	ɔ̃ w
+386058	418725	transnewguineaorg-kubo	kubo1242		oldersister	1758	OLDER SISTER		ɔ̃wɔ̃	ɔ̃ w ɔ̃
+386070	418737	transnewguineaorg-samo	samo1303		oldersister	1758	OLDER SISTER		ɔ̃wɔ̃	ɔ̃ w ɔ̃
+387696	420363	johanssonsoundsymbolic-Odoodee	odoo1238		oldused	2113	OLD (USED)		nɑɸɛ	n ɑ ɸ ɛ
+388164	420831	johanssonsoundsymbolic-Odoodee	odoo1238		oldwoman	907	OLD WOMAN		sɔbɔ_ɔdogɑ	s ɔ b ɔ + ɔ d o g ɑ
+389740	422407	johanssonsoundsymbolic-Odoodee	odoo1238		one	1493	ONE		hɔ	h ɔ
+390468	423135	transnewguineaorg-fembe	femb1238		one	1493	ONE		sisãfe	s i s ã f e
+390469	423136	transnewguineaorg-fembe	femb1238		one	1493	ONE		dano	d a n o
+390481	423148	transnewguineaorg-gobasi-bibo	goba1246		one	1493	ONE		dob	d o b
+390536	423203	transnewguineaorg-kubo	kubo1242		one	1493	ONE		tano	t a n o
+390537	423204	transnewguineaorg-kubo	kubo1242		one	1493	ONE		tanɔ	t a n ɔ
+390626	423293	transnewguineaorg-samo	samo1303		one	1493	ONE		helenu	h e l e n u
+390627	423294	transnewguineaorg-samo	samo1303		one	1493	ONE		helenũ	h e l e n ũ
+393758	426425	johanssonsoundsymbolic-Odoodee	odoo1238		other	197	OTHER		he	h e
+394506	427173	johanssonsoundsymbolic-Odoodee	odoo1238		outside	762	OUTSIDE		ɸego	ɸ e g o
+400912	433579	johanssonsoundsymbolic-Odoodee	odoo1238		path	2252	PATH		ɛli	ɛ l i
+401146	433813	transnewguineaorg-fembe	femb1238		path	2252	PATH		aili	a i l i
+401147	433814	transnewguineaorg-fembe	femb1238		path	2252	PATH		ili	i l i
+401152	433819	transnewguineaorg-gobasi-bibo	goba1246		path	2252	PATH		oli	o l i
+401176	433843	transnewguineaorg-kubo	kubo1242		path	2252	PATH		ai	a i
+401177	433844	transnewguineaorg-kubo	kubo1242		path	2252	PATH		ai	a i
+401214	433881	transnewguineaorg-samo	samo1303		path	2252	PATH		ali	a l i
+401215	433882	transnewguineaorg-samo	samo1303		path	2252	PATH		ali	a l i
+402281	434948	transnewguineaorg-gobasi-bibo	goba1246		pathorroad	2457	PATH OR ROAD		ori	o r i
+402317	434984	transnewguineaorg-kubo	kubo1242		pathorroad	2457	PATH OR ROAD		ai	a i
+402369	435036	transnewguineaorg-samo	samo1303		pathorroad	2457	PATH OR ROAD		ari	a r i
+406255	438922	johanssonsoundsymbolic-Odoodee	odoo1238		person	683	PERSON		ɔdo	ɔ d o
+406767	439434	transnewguineaorg-fembe	femb1238		person	683	PERSON		o	o
+406793	439460	transnewguineaorg-kubo	kubo1242		person	683	PERSON		oso	o s o
+406818	439485	transnewguineaorg-samo	samo1303		person	683	PERSON		oso	o s o
+409667	442334	transnewguineaorg-fembe	femb1238		pig	1337	PIG		wai	w a i
+409724	442391	transnewguineaorg-kubo	kubo1242		pig	1337	PIG		ʔo	ʔ o
+409793	442460	transnewguineaorg-samo	samo1303		pig	1337	PIG		bɔyɔ	b ɔ j ɔ
+426090	458758	transnewguineaorg-fembe	femb1238		rainingorrain	2108	RAINING OR RAIN		hwɔ̃e_tɔlu	h w ɔ̃ e + t ɔ l u
+426091	458759	transnewguineaorg-fembe	femb1238		rainingorrain	2108	RAINING OR RAIN		hoidaru	h o i d a r u
+426098	458766	transnewguineaorg-gobasi-bibo	goba1246		rainingorrain	2108	RAINING OR RAIN		ho̧u̧	h o u
+426137	458805	transnewguineaorg-kubo	kubo1242		rainingorrain	2108	RAINING OR RAIN		hwi̧_tolodo	h w i + t o l o d o
+426138	458806	transnewguineaorg-kubo	kubo1242		rainingorrain	2108	RAINING OR RAIN		hwī_tɔlɔdɔ	h w iː + t ɔ l ɔ d ɔ
+426139	458807	transnewguineaorg-kubo	kubo1242		rainingorrain	2108	RAINING OR RAIN		hũĩ	h ũ ĩ
+426210	458878	transnewguineaorg-samo	samo1303		rainingorrain	2108	RAINING OR RAIN		ho̧u̧_munu	h o u + m u n u
+426211	458879	transnewguineaorg-samo	samo1303		rainingorrain	2108	RAINING OR RAIN		hõ_mũnũ	h õ + m ũ n ũ
+426212	458880	transnewguineaorg-samo	samo1303		rainingorrain	2108	RAINING OR RAIN		hũ	h ũ
+427108	459776	johanssonsoundsymbolic-Odoodee	odoo1238		rainprecipitation	658	RAIN (PRECIPITATION)		hɔwɔ	h ɔ w ɔ
+433074	465742	transnewguineaorg-fembe	femb1238		red	156	RED		esĩ	e s ĩ
+433075	465743	transnewguineaorg-fembe	femb1238		red	156	RED		ayaw	a j a w
+433090	465758	transnewguineaorg-gobasi-bibo	goba1246		red	156	RED		obis	o b i s
+433135	465803	transnewguineaorg-kubo	kubo1242		red	156	RED		asiko	a s i k o
+433136	465804	transnewguineaorg-kubo	kubo1242		red	156	RED		osikɔ	o s i k ɔ
+433209	465877	transnewguineaorg-samo	samo1303		red	156	RED		obusite	o b u s i t e
+433210	465878	transnewguineaorg-samo	samo1303		red	156	RED		ɔbusĩte	ɔ b u s ĩ t e
+438278	470946	johanssonsoundsymbolic-Odoodee	odoo1238		right	1019	RIGHT		dede	d e d e
+440783	473451	johanssonsoundsymbolic-Odoodee	odoo1238		river	666	RIVER		hɔwɔ	h ɔ w ɔ
+445127	477796	transnewguineaorg-fembe	femb1238		root	670	ROOT		hebẽ_tefẽ	h e b ẽ + t e f ẽ
+445128	477797	transnewguineaorg-fembe	femb1238		root	670	ROOT		habedafe	h a b e d a f e
+445141	477810	transnewguineaorg-gobasi-bibo	goba1246		root	670	ROOT		tof	t o f
+445186	477855	transnewguineaorg-kubo	kubo1242		root	670	ROOT		tofe	t o f e
+445187	477856	transnewguineaorg-kubo	kubo1242		root	670	ROOT		tɔfɛ	t ɔ f ɛ
+445262	477931	transnewguineaorg-samo	samo1303		root	670	ROOT		toufe	t o u f e
+445263	477932	transnewguineaorg-samo	samo1303		root	670	ROOT		tofɛ	t o f ɛ
+448013	480682	johanssonsoundsymbolic-Odoodee	odoo1238		rotten	1728	ROTTEN		hunɛ	h u n ɛ
+449236	481905	transnewguineaorg-fembe	femb1238		round	1395	ROUND		shinemgi	s h i n e m g i
+449275	481944	transnewguineaorg-samo	samo1303		round	1395	ROUND		fugo̧sama	f u g o s a m a
+450691	483360	johanssonsoundsymbolic-Odoodee	odoo1238		run	1519	RUN		ɸiɑ	ɸ i ɑ
+453048	485717	transnewguineaorg-gobasi-bibo	goba1246		saliva	1503	SALIVA		mãkõũ	m ã k õ ũ
+453062	485731	transnewguineaorg-kubo	kubo1242		saliva	1503	SALIVA		mahãũ	m a h ã ũ
+453095	485764	transnewguineaorg-samo	samo1303		saliva	1503	SALIVA		mãkũ	m ã k ũ
+455058	487727	johanssonsoundsymbolic-Odoodee	odoo1238		same	200	SAME		ɔsɔ	ɔ s ɔ
+457124	489793	transnewguineaorg-fembe	femb1238		sand	671	SAND		hoifasiga	h o i f a s i g a
+457135	489804	transnewguineaorg-gobasi-bibo	goba1246		sand	671	SAND		bebes	b e b e s
+457136	489805	transnewguineaorg-gobasi-bibo	goba1246		sand	671	SAND		beb:s	b e bː s
+457183	489852	transnewguineaorg-kubo	kubo1242		sand	671	SAND		kowȩ	k o w e
+457256	489925	transnewguineaorg-samo	samo1303		sand	671	SAND		bobose	b o b o s e
+457257	489926	transnewguineaorg-samo	samo1303		sand	671	SAND		bɔbɔsɔ	b ɔ b ɔ s ɔ
+459395	492064	johanssonsoundsymbolic-Odoodee	odoo1238		say	1458	SAY		tɑkɑ	t ɑ k ɑ
+459826	492495	transnewguineaorg-gobasi-bibo	goba1246		say	1458	SAY		tã	t ã
+459840	492509	transnewguineaorg-kubo	kubo1242		say	1458	SAY		tã	t ã
+459878	492547	transnewguineaorg-samo	samo1303		say	1458	SAY		tã	t ã
+460388	493057	johanssonsoundsymbolic-Odoodee	odoo1238		scared	3033	SCARED		ɔbu	ɔ b u
+465142	497812	johanssonsoundsymbolic-Odoodee	odoo1238		see	1409	SEE		ɛgɛ	ɛ g ɛ
+465881	498551	transnewguineaorg-fembe	femb1238		see	1409	SEE		diguya	d i g u j a
+465882	498552	transnewguineaorg-fembe	femb1238		see	1409	SEE		anduguyou	a n d u g u j o u
+465896	498566	transnewguineaorg-gobasi-bibo	goba1246		see	1409	SEE		ogo-	o g o
+465952	498622	transnewguineaorg-kubo	kubo1242		see	1409	SEE		diguioy	d i g u i o j
+465953	498623	transnewguineaorg-kubo	kubo1242		see	1409	SEE		duguiɔ	d u g u i ɔ
+466038	498708	transnewguineaorg-samo	samo1303		see	1409	SEE		ogola	o g o l a
+466039	498709	transnewguineaorg-samo	samo1303		see	1409	SEE		ɔgɔla	ɔ g ɔ l a
+466698	499368	johanssonsoundsymbolic-Odoodee	odoo1238		seed	714	SEED		kɔ	k ɔ
+467166	499836	transnewguineaorg-fembe	femb1238		seed	714	SEED		kɔɔ	k ɔ ɔ
+467167	499837	transnewguineaorg-fembe	femb1238		seed	714	SEED		habe_fosage	h a b e + f o s a g e
+467174	499844	transnewguineaorg-gobasi-bibo	goba1246		seed	714	SEED		kol	k o l
+467202	499872	transnewguineaorg-kubo	kubo1242		seed	714	SEED		koo	k oː
+467203	499873	transnewguineaorg-kubo	kubo1242		seed	714	SEED		ko	k o
+467227	499897	transnewguineaorg-samo	samo1303		seed	714	SEED		kolo	k o l o
+467228	499898	transnewguineaorg-samo	samo1303		seed	714	SEED		kɔlɔ	k ɔ l ɔ
+470285	502956	johanssonsoundsymbolic-Odoodee	odoo1238		seven	1704	SEVEN		gɛbɛsigili	g ɛ b ɛ s i g i l i
+480056	512728	transnewguineaorg-gobasi-bibo	goba1246		shoot	1172	SHOOT		ina	i n a
+480082	512754	transnewguineaorg-kubo	kubo1242		shoot	1172	SHOOT		iano	i a n o
+480136	512808	transnewguineaorg-samo	samo1303		shoot	1172	SHOOT		enɔ	e n ɔ
+481600	514272	johanssonsoundsymbolic-Odoodee	odoo1238		short	1645	SHORT		dɛijɛɸɔ	d ɛ i j ɛ ɸ ɔ
+483384	516056	transnewguineaorg-fembe	femb1238		shoulder	1482	SHOULDER		biyago	b i j a g o
+483435	516107	transnewguineaorg-kubo	kubo1242		shoulder	1482	SHOULDER		ɔdɔme	ɔ d ɔ m e
+483501	516173	transnewguineaorg-samo	samo1303		shoulder	1482	SHOULDER		ɔdiɔ	ɔ d i ɔ
+490587	523259	johanssonsoundsymbolic-Odoodee	odoo1238		sit	1416	SIT		bɑdɔ	b ɑ d ɔ
+491101	523773	transnewguineaorg-fembe	femb1238		sit	1416	SIT		biyɔu	b i j ɔ u
+491102	523774	transnewguineaorg-fembe	femb1238		sit	1416	SIT		biaiae	b i a i a e
+491114	523786	transnewguineaorg-gobasi-bibo	goba1246		sit	1416	SIT		buo-	b u o
+491165	523837	transnewguineaorg-kubo	kubo1242		sit	1416	SIT		diyobodiyo	d i j o b o d i j o
+491166	523838	transnewguineaorg-kubo	kubo1242		sit	1416	SIT		diobodiɔ	d i o b o d i ɔ
+491254	523926	transnewguineaorg-samo	samo1303		sit	1416	SIT		buwola	b u w o l a
+491255	523927	transnewguineaorg-samo	samo1303		sit	1416	SIT		buɔla	b u ɔ l a
+492492	525164	johanssonsoundsymbolic-Odoodee	odoo1238		six	1703	SIX		de_bɔ	d e + b ɔ
+495430	528102	transnewguineaorg-fembe	femb1238		skin	763	SKIN		kɔ̃fɔ̃ya	k ɔ̃ f ɔ̃ j a
+495431	528103	transnewguineaorg-fembe	femb1238		skin	763	SKIN		golo	g o l o
+495446	528118	transnewguineaorg-gobasi-bibo	goba1246		skin	763	SKIN		sib	s i b
+495447	528119	transnewguineaorg-gobasi-bibo	goba1246		skin	763	SKIN		kiari	k i a r i
+495504	528176	transnewguineaorg-kubo	kubo1242		skin	763	SKIN		kolo	k o l o
+495505	528177	transnewguineaorg-kubo	kubo1242		skin	763	SKIN		kɔlɔ	k ɔ l ɔ
+495506	528178	transnewguineaorg-kubo	kubo1242		skin	763	SKIN		kɔrɔ	k ɔ r ɔ
+495596	528268	transnewguineaorg-samo	samo1303		skin	763	SKIN		kolofu	k o l o f u
+495597	528269	transnewguineaorg-samo	samo1303		skin	763	SKIN		kɔlɔfu	k ɔ l ɔ f u
+495598	528270	transnewguineaorg-samo	samo1303		skin	763	SKIN		kɔrɔfu	k ɔ r ɔ f u
+495599	528271	transnewguineaorg-samo	samo1303		skin	763	SKIN		sibi	s i b i
+499338	532010	johanssonsoundsymbolic-Odoodee	odoo1238		sleep	1585	SLEEP		tiɑ	t i ɑ
+500060	532733	transnewguineaorg-fembe	femb1238		sleep	1585	SLEEP		tiɔľu	t i ɔ ʎ u
+500061	532734	transnewguineaorg-fembe	femb1238		sleep	1585	SLEEP		dialu	d i a l u
+500072	532745	transnewguineaorg-gobasi-bibo	goba1246		sleep	1585	SLEEP		kie	k i e
+500073	532746	transnewguineaorg-gobasi-bibo	goba1246		sleep	1585	SLEEP		kia	k i a
+500126	532799	transnewguineaorg-kubo	kubo1242		sleep	1585	SLEEP		tiyaiyo	t i j a i j o
+500127	532800	transnewguineaorg-kubo	kubo1242		sleep	1585	SLEEP		tiaiɔ	t i a i ɔ
+500128	532801	transnewguineaorg-kubo	kubo1242		sleep	1585	SLEEP		tia	t i a
+500201	532874	transnewguineaorg-samo	samo1303		sleep	1585	SLEEP		kiyala	k i j a l a
+500202	532875	transnewguineaorg-samo	samo1303		sleep	1585	SLEEP		kiala	k i a l a
+500203	532876	transnewguineaorg-samo	samo1303		sleep	1585	SLEEP		kia	k i a
+502922	535596	johanssonsoundsymbolic-Odoodee	odoo1238		small	1246	SMALL		ɸɛɸɔkɔ	ɸ ɛ ɸ ɔ k ɔ
+503679	536353	transnewguineaorg-fembe	femb1238		small	1246	SMALL		fɔfekũ	f ɔ f e k ũ
+503680	536354	transnewguineaorg-fembe	femb1238		small	1246	SMALL		yafe	j a f e
+503692	536366	transnewguineaorg-gobasi-bibo	goba1246		small	1246	SMALL		gaumigu	g a u m i g u
+503747	536421	transnewguineaorg-kubo	kubo1242		small	1246	SMALL		fa̧fi	f a f i
+503748	536422	transnewguineaorg-kubo	kubo1242		small	1246	SMALL		fãfi	f ã f i
+503839	536513	transnewguineaorg-samo	samo1303		small	1246	SMALL		fȩya̧fo	f e j a f o
+503840	536514	transnewguineaorg-samo	samo1303		small	1246	SMALL		fẽafɔ̃	f ẽ a f ɔ̃
+507946	540622	transnewguineaorg-fembe	femb1238		smokeexhaust	778	SMOKE (EXHAUST)		dɔu_dahãi	d ɔ u + d a h ã i
+507947	540623	transnewguineaorg-fembe	femb1238		smokeexhaust	778	SMOKE (EXHAUST)		dae	d a e
+507962	540638	transnewguineaorg-gobasi-bibo	goba1246		smokeexhaust	778	SMOKE (EXHAUST)		dem	d e m
+507963	540639	transnewguineaorg-gobasi-bibo	goba1246		smokeexhaust	778	SMOKE (EXHAUST)		dem	d e m
+508011	540687	transnewguineaorg-kubo	kubo1242		smokeexhaust	778	SMOKE (EXHAUST)		daha̧i̧	d a h a i
+508012	540688	transnewguineaorg-kubo	kubo1242		smokeexhaust	778	SMOKE (EXHAUST)		dʌhaī	d ʌ h a iː
+508013	540689	transnewguineaorg-kubo	kubo1242		smokeexhaust	778	SMOKE (EXHAUST)		dahãi	d a h ã i
+508100	540776	transnewguineaorg-samo	samo1303		smokeexhaust	778	SMOKE (EXHAUST)		daha̧i̧	d a h a i
+508101	540777	transnewguineaorg-samo	samo1303		smokeexhaust	778	SMOKE (EXHAUST)		dʌhãi	d ʌ h ã i
+508102	540778	transnewguineaorg-samo	samo1303		smokeexhaust	778	SMOKE (EXHAUST)		dahãi	d a h ã i
+514156	546832	johanssonsoundsymbolic-Odoodee	odoo1238		some	1241	SOME		ɑbɔ	ɑ b ɔ
+519967	552643	transnewguineaorg-fembe	femb1238		speak	1623	SPEAK		tɔ̃	t ɔ̃
+519968	552644	transnewguineaorg-fembe	femb1238		speak	1623	SPEAK		tobo	t o b o
+519969	552645	transnewguineaorg-gobasi-bibo	goba1246		speak	1623	SPEAK		hwaiya	h w a i j a
+519984	552660	transnewguineaorg-kubo	kubo1242		speak	1623	SPEAK		toboiyo	t o b o i j o
+519985	552661	transnewguineaorg-kubo	kubo1242		speak	1623	SPEAK		tɔbɔiɔ	t ɔ b ɔ i ɔ
+519998	552674	transnewguineaorg-samo	samo1303		speak	1623	SPEAK		hwa̧na	h w a n a
+519999	552675	transnewguineaorg-samo	samo1303		speak	1623	SPEAK		tɔ̃__hwãla	t ɔ̃ + h w ã l a
+530121	562797	johanssonsoundsymbolic-Odoodee	odoo1238		stand	1442	STAND		tɔbudɔ	t ɔ b u d ɔ
+530606	563282	transnewguineaorg-fembe	femb1238		stand	1442	STAND		tɔfɔlu	t ɔ f ɔ l u
+530607	563283	transnewguineaorg-fembe	femb1238		stand	1442	STAND		dofara	d o f a r a
+530624	563300	transnewguineaorg-gobasi-bibo	goba1246		stand	1442	STAND		tafola-	t a f o l a
+530680	563356	transnewguineaorg-kubo	kubo1242		stand	1442	STAND		tofa̧diyo	t o f a d i j o
+530681	563357	transnewguineaorg-kubo	kubo1242		stand	1442	STAND		tɔfãdiɔ	t ɔ f ã d i ɔ
+530785	563461	transnewguineaorg-samo	samo1303		stand	1442	STAND		tofola	t o f o l a
+530786	563462	transnewguineaorg-samo	samo1303		stand	1442	STAND		tɔfola	t ɔ f o l a
+532939	565615	transnewguineaorg-fembe	femb1238		star	1430	STAR		kwidiahɔ̃	k w i d i a h ɔ̃
+532940	565616	transnewguineaorg-fembe	femb1238		star	1430	STAR		gudiaha	g u d i a h a
+532954	565630	transnewguineaorg-gobasi-bibo	goba1246		star	1430	STAR		gosomoli	g o s o m o l i
+533010	565686	transnewguineaorg-kubo	kubo1242		star	1430	STAR		gosomoi	g o s o m o i
+533011	565687	transnewguineaorg-kubo	kubo1242		star	1430	STAR		gɔsɔmoi	g ɔ s ɔ m o i
+533012	565688	transnewguineaorg-kubo	kubo1242		star	1430	STAR		gɔsɔmuy	g ɔ s ɔ m u j
+533106	565782	transnewguineaorg-samo	samo1303		star	1430	STAR		gosomo̧ni	g o s o m o n i
+533107	565783	transnewguineaorg-samo	samo1303		star	1430	STAR		gɔsɔmɔ̃nĩ	g ɔ s ɔ m ɔ̃ n ĩ
+533108	565784	transnewguineaorg-samo	samo1303		star	1430	STAR		gɔsɔmuy	g ɔ s ɔ m u j
+538923	571600	johanssonsoundsymbolic-Odoodee	odoo1238		stone	857	STONE		jɔ	j ɔ
+539660	572337	transnewguineaorg-fembe	femb1238		stone	857	STONE		yɔu	j ɔ u
+539661	572338	transnewguineaorg-fembe	femb1238		stone	857	STONE		yaw	j a w
+539676	572353	transnewguineaorg-gobasi-bibo	goba1246		stone	857	STONE		yo	j o
+539730	572407	transnewguineaorg-kubo	kubo1242		stone	857	STONE		yo	j o
+539731	572408	transnewguineaorg-kubo	kubo1242		stone	857	STONE		yɔ	j ɔ
+539825	572502	transnewguineaorg-samo	samo1303		stone	857	STONE		yo	j o
+539826	572503	transnewguineaorg-samo	samo1303		stone	857	STONE		yo	j o
+541820	574497	transnewguineaorg-samo	samo1303		straight	1404	STRAIGHT		mugu	m u g u
+544401	577078	johanssonsoundsymbolic-Odoodee	odoo1238		strong	785	STRONG		kitulugu	k i t u l u g u
+549064	581741	transnewguineaorg-fembe	femb1238		sun	1343	SUN		ʌsɔ̃	ʌ s ɔ̃
+549065	581742	transnewguineaorg-fembe	femb1238		sun	1343	SUN		aso	a s o
+549078	581755	transnewguineaorg-gobasi-bibo	goba1246		sun	1343	SUN		a̧s	a s
+549079	581756	transnewguineaorg-gobasi-bibo	goba1246		sun	1343	SUN		ãs	ã s
+549132	581809	transnewguineaorg-kubo	kubo1242		sun	1343	SUN		o̧so̧	o s o
+549133	581810	transnewguineaorg-kubo	kubo1242		sun	1343	SUN		ōsō	oː s oː
+549134	581811	transnewguineaorg-kubo	kubo1242		sun	1343	SUN		ãsã	ã s ã
+549226	581903	transnewguineaorg-samo	samo1303		sun	1343	SUN		oso̧	o s o
+549227	581904	transnewguineaorg-samo	samo1303		sun	1343	SUN		ɔ̃sɔ̃	ɔ̃ s ɔ̃
+549228	581905	transnewguineaorg-samo	samo1303		sun	1343	SUN		ãsã	ã s ã
+551724	584401	johanssonsoundsymbolic-Odoodee	odoo1238		sweatsubstance	125	SWEAT (SUBSTANCE)		dɛbiɑ	d ɛ b i ɑ
+555684	588361	transnewguineaorg-fembe	femb1238		swim	1439	SWIM		hwɔ̃e_tɔlɔ_ili	h w ɔ̃ e + t ɔ l ɔ + i l i
+555685	588362	transnewguineaorg-fembe	femb1238		swim	1439	SWIM		hoyanuli	h o j a n u l i
+555690	588367	transnewguineaorg-gobasi-bibo	goba1246		swim	1439	SWIM		tolofulo	t o l o f u l o
+555706	588383	transnewguineaorg-kubo	kubo1242		swim	1439	SWIM		to̧iyo	t o i j o
+555707	588384	transnewguineaorg-kubo	kubo1242		swim	1439	SWIM		hwi_toiɔ	h w i + t o i ɔ
+555731	588408	transnewguineaorg-samo	samo1303		swim	1439	SWIM		tolofiyaila	t o l o f i j a i l a
+555732	588409	transnewguineaorg-samo	samo1303		swim	1439	SWIM		hõ_tɔlɔfiyala	h õ + t ɔ l ɔ f i j a l a
+557795	590472	johanssonsoundsymbolic-Odoodee	odoo1238		tail	1220	TAIL		ho	h o
+558361	591038	transnewguineaorg-fembe	femb1238		tail	1220	TAIL		biyɔlu	b i j ɔ l u
+558362	591039	transnewguineaorg-fembe	femb1238		tail	1220	TAIL		biao	b i a o
+558381	591058	transnewguineaorg-gobasi-bibo	goba1246		tail	1220	TAIL		tulu	t u l u
+558435	591112	transnewguineaorg-kubo	kubo1242		tail	1220	TAIL		hobe	h o b e
+558436	591113	transnewguineaorg-kubo	kubo1242		tail	1220	TAIL		sɔ_hɔbe	s ɔ + h ɔ b e
+558544	591221	transnewguineaorg-samo	samo1303		tail	1220	TAIL		hoube	h o u b e
+558545	591222	transnewguineaorg-samo	samo1303		tail	1220	TAIL		sɔfo_hobe	s ɔ f o + h o b e
+559141	591818	johanssonsoundsymbolic-Odoodee	odoo1238		take	1749	TAKE		tɛ	t ɛ
+564633	597310	johanssonsoundsymbolic-Odoodee	odoo1238		ten	1515	TEN		dɛbɛgɛ_kɑle	d ɛ b ɛ g ɛ + k ɑ l e
+567182	599861	johanssonsoundsymbolic-Odoodee	odoo1238		that	78	THAT		ke	k e
+568456	601135	transnewguineaorg-fembe	femb1238		theeobliquecaseofyou	2304	THEE (OBLIQUE CASE OF YOU)		name	n a m e
+568472	601151	transnewguineaorg-gobasi-bibo	goba1246		theeobliquecaseofyou	2304	THEE (OBLIQUE CASE OF YOU)		nɔ̃	n ɔ̃
+568500	601179	transnewguineaorg-kubo	kubo1242		theeobliquecaseofyou	2304	THEE (OBLIQUE CASE OF YOU)		nã	n ã
+568501	601180	transnewguineaorg-kubo	kubo1242		theeobliquecaseofyou	2304	THEE (OBLIQUE CASE OF YOU)		nɔ̃	n ɔ̃
+568579	601258	transnewguineaorg-samo	samo1303		theeobliquecaseofyou	2304	THEE (OBLIQUE CASE OF YOU)		nɔ̃	n ɔ̃
+568580	601259	transnewguineaorg-samo	samo1303		theeobliquecaseofyou	2304	THEE (OBLIQUE CASE OF YOU)		nɔ̃	n ɔ̃
+568800	601479	johanssonsoundsymbolic-Odoodee	odoo1238		then	2921	THEN		ɛsɛmɛ	ɛ s ɛ m ɛ
+569257	601936	johanssonsoundsymbolic-Odoodee	odoo1238		there	1937	THERE		kosɔ	k o s ɔ
+570733	603412	johanssonsoundsymbolic-Odoodee	odoo1238		they	817	THEY		dibɑ	d i b ɑ
+572142	604821	johanssonsoundsymbolic-Odoodee	odoo1238		thick	1244	THICK		kɔudɑ	k ɔ u d ɑ
+573546	606225	johanssonsoundsymbolic-Odoodee	odoo1238		thin	2308	THIN		siɑ	s i ɑ
+574972	607651	johanssonsoundsymbolic-Odoodee	odoo1238		think	2271	THINK		golɛ	g o l ɛ
+578270	610949	johanssonsoundsymbolic-Odoodee	odoo1238		this	1214	THIS		hɑge	h ɑ g e
+580464	613147	johanssonsoundsymbolic-Odoodee	odoo1238		thou	1215	THOU		nɔ	n ɔ
+580883	613566	transnewguineaorg-fembe	femb1238		thou	1215	THOU		name	n a m e
+580886	613569	transnewguineaorg-gobasi-bibo	goba1246		thou	1215	THOU		no	n o
+580904	613587	transnewguineaorg-kubo	kubo1242		thou	1215	THOU		no̧	n o
+580932	613615	transnewguineaorg-samo	samo1303		thou	1215	THOU		no	n o
+583236	615921	johanssonsoundsymbolic-Odoodee	odoo1238		three	492	THREE		wɔlugumɑkɔlɑ	w ɔ l u g u m ɑ k ɔ l ɑ
+589260	621947	johanssonsoundsymbolic-Odoodee	odoo1238		tie	1917	TIE		tiɑ	t i ɑ
+589749	622436	transnewguineaorg-gobasi-bibo	goba1246		tie	1917	TIE		tiã	t i ã
+589779	622466	transnewguineaorg-kubo	kubo1242		tie	1917	TIE		tiga	t i g a
+589833	622520	transnewguineaorg-samo	samo1303		tie	1917	TIE		tiga	t i g a
+597105	629792	transnewguineaorg-fembe	femb1238		tongue	1205	TONGUE		i	i
+597106	629793	transnewguineaorg-fembe	femb1238		tongue	1205	TONGUE		e	e
+597118	629805	transnewguineaorg-gobasi-bibo	goba1246		tongue	1205	TONGUE		il	i l
+597119	629806	transnewguineaorg-gobasi-bibo	goba1246		tongue	1205	TONGUE		iri	i r i
+597169	629856	transnewguineaorg-kubo	kubo1242		tongue	1205	TONGUE		i	i
+597170	629857	transnewguineaorg-kubo	kubo1242		tongue	1205	TONGUE		i:	iː
+597171	629858	transnewguineaorg-kubo	kubo1242		tongue	1205	TONGUE		i	i
+597259	629946	transnewguineaorg-samo	samo1303		tongue	1205	TONGUE		mȩnema̧ni	m e n e m a n i
+597260	629947	transnewguineaorg-samo	samo1303		tongue	1205	TONGUE		mẽnɛmãnĩ	m ẽ n ɛ m ã n ĩ
+597261	629948	transnewguineaorg-samo	samo1303		tongue	1205	TONGUE		meremai	m e r e m a i
+599282	631969	transnewguineaorg-fembe	femb1238		tooth	1380	TOOTH		meyɔ	m e j ɔ
+599283	631970	transnewguineaorg-fembe	femb1238		tooth	1380	TOOTH		maeow	m a e o w
+599295	631982	transnewguineaorg-gobasi-bibo	goba1246		tooth	1380	TOOTH		mo̧i	m o i
+599345	632032	transnewguineaorg-kubo	kubo1242		tooth	1380	TOOTH		moyo	m o j o
+599346	632033	transnewguineaorg-kubo	kubo1242		tooth	1380	TOOTH		mɔyɔ	m ɔ j ɔ
+599347	632034	transnewguineaorg-kubo	kubo1242		tooth	1380	TOOTH		mɔ̃yə̃	m ɔ̃ j ə̃
+599434	632121	transnewguineaorg-samo	samo1303		tooth	1380	TOOTH		moyo̧	m o j o
+599435	632122	transnewguineaorg-samo	samo1303		tooth	1380	TOOTH		mɔ̃yɔ̃	m ɔ̃ j ɔ̃
+599436	632123	transnewguineaorg-samo	samo1303		tooth	1380	TOOTH		mɔ̃yə̃	m ɔ̃ j ə̃
+600321	633008	johanssonsoundsymbolic-Odoodee	odoo1238		touch	1892	TOUCH		sigɔ	s i g ɔ
+602938	635625	johanssonsoundsymbolic-Odoodee	odoo1238		tree	906	TREE		hɔmɔ	h ɔ m ɔ
+603696	636383	transnewguineaorg-fembe	femb1238		tree	906	TREE		hebẽ	h e b ẽ
+603697	636384	transnewguineaorg-fembe	femb1238		tree	906	TREE		habe	h a b e
+603709	636396	transnewguineaorg-gobasi-bibo	goba1246		tree	906	TREE		homu	h o m u
+603765	636452	transnewguineaorg-kubo	kubo1242		tree	906	TREE		home	h o m e
+603766	636453	transnewguineaorg-kubo	kubo1242		tree	906	TREE		hɔme	h ɔ m e
+603845	636532	transnewguineaorg-samo	samo1303		tree	906	TREE		home	h o m e
+603846	636533	transnewguineaorg-samo	samo1303		tree	906	TREE		hɔmãnẽ	h ɔ m ã n ẽ
+608229	640916	johanssonsoundsymbolic-Odoodee	odoo1238		twelve	1707	TWELVE		tɛbigi	t ɛ b i g i
+611447	644134	johanssonsoundsymbolic-Odoodee	odoo1238		two	1498	TWO		hɔmɑkɔlɑ	h ɔ m ɑ k ɔ l ɑ
+612173	644860	transnewguineaorg-fembe	femb1238		two	1498	TWO		sisãma	s i s ã m a
+612174	644861	transnewguineaorg-fembe	femb1238		two	1498	TWO		balo	b a l o
+612185	644872	transnewguineaorg-gobasi-bibo	goba1246		two	1498	TWO		behino̧w	b e h i n o w
+612236	644923	transnewguineaorg-kubo	kubo1242		two	1498	TWO		beya̧u̧	b e j a u
+612237	644924	transnewguineaorg-kubo	kubo1242		two	1498	TWO		beaũ	b e a ũ
+612320	645007	transnewguineaorg-samo	samo1303		two	1498	TWO		bȩnau	b e n a u
+612321	645008	transnewguineaorg-samo	samo1303		two	1498	TWO		bẽnãu	b ẽ n ã u
+616117	648805	johanssonsoundsymbolic-Odoodee	odoo1238		upperlegthigh	471	UPPER LEG (THIGH)		hɔmɔ	h ɔ m ɔ
+617246	649934	transnewguineaorg-samo	samo1303		urine	1142	URINE		ãr	ã r
+624938	677599	johanssonsoundsymbolic-Odoodee	odoo1238		where	1237	WHERE		kɑsɔmɔ	k ɑ s ɔ m ɔ
+628037	680698	transnewguineaorg-fembe	femb1238		white	1335	WHITE		ɔlɔwɔ	ɔ l ɔ w ɔ
+628038	680699	transnewguineaorg-fembe	femb1238		white	1335	WHITE		adodigi	a d o d i g i
+628051	680712	transnewguineaorg-gobasi-bibo	goba1246		white	1335	WHITE		seguwab	s e g u w a b
+628094	680755	transnewguineaorg-kubo	kubo1242		white	1335	WHITE		kowoko	k o w o k o
+628095	680756	transnewguineaorg-kubo	kubo1242		white	1335	WHITE		kɔwɔkɔ	k ɔ w ɔ k ɔ
+628171	680832	transnewguineaorg-samo	samo1303		white	1335	WHITE		olowate	o l o w a t e
+628172	680833	transnewguineaorg-samo	samo1303		white	1335	WHITE		ɔlɔwɔte	ɔ l ɔ w ɔ t e
+629761	682514	johanssonsoundsymbolic-Odoodee	odoo1238		who	1235	WHO		ɑgɑjɔ	ɑ g ɑ j ɔ
+630258	683011	transnewguineaorg-fembe	femb1238		who	1235	WHO		kɔ	k ɔ
+630259	683012	transnewguineaorg-fembe	femb1238		who	1235	WHO		gomeko	g o m e k o
+630270	683023	transnewguineaorg-gobasi-bibo	goba1246		who	1235	WHO		kumiba	k u m i b a
+630309	683062	transnewguineaorg-kubo	kubo1242		who	1235	WHO		komaba	k o m a b a
+630310	683063	transnewguineaorg-kubo	kubo1242		who	1235	WHO		kɔmaba	k ɔ m a b a
+630379	683132	transnewguineaorg-samo	samo1303		who	1235	WHO		ku̧ba	k u b a
+630380	683133	transnewguineaorg-samo	samo1303		who	1235	WHO		kũba	k ũ b a
+630783	683537	johanssonsoundsymbolic-Odoodee	odoo1238		why	1270	WHY		kɑse_mɑgɑjɔ	k ɑ s e + m ɑ g ɑ j ɔ
+635655	688409	transnewguineaorg-gobasi-bibo	goba1246		wind	960	WIND		wau	w a u
+635700	688454	transnewguineaorg-kubo	kubo1242		wind	960	WIND		wafu	w a f u
+635779	688533	transnewguineaorg-samo	samo1303		wind	960	WIND		wafu	w a f u
+637742	690496	transnewguineaorg-fembe	femb1238		wing	1257	WING		siyɔ_fuɔi	s i j ɔ + f u ɔ i
+637753	690507	transnewguineaorg-gobasi-bibo	goba1246		wing	1257	WING		ara:f-gib	a r aː f + g i b
+637797	690551	transnewguineaorg-kubo	kubo1242		wing	1257	WING		ɔdafɔdiɔ	ɔ d a f ɔ d i ɔ
+637867	690621	transnewguineaorg-samo	samo1303		wing	1257	WING		alafagibi	a l a f a g i b i
+637868	690622	transnewguineaorg-samo	samo1303		wing	1257	WING		arafe-gibi	a r a f e + g i b i
+640145	692900	johanssonsoundsymbolic-Odoodee	odoo1238		woman	962	WOMAN		sɔbɔ	s ɔ b ɔ
+640908	693663	transnewguineaorg-fembe	femb1238		woman	962	WOMAN		sʌbɔ_sãi	s ʌ b ɔ + s ã i
+640909	693664	transnewguineaorg-fembe	femb1238		woman	962	WOMAN		dobas̲ie	d o b a s i e
+640923	693678	transnewguineaorg-gobasi-bibo	goba1246		woman	962	WOMAN		uliya	u l i j a
+640973	693728	transnewguineaorg-kubo	kubo1242		woman	962	WOMAN		sobo	s o b o
+640974	693729	transnewguineaorg-kubo	kubo1242		woman	962	WOMAN		sɔbɔ	s ɔ b ɔ
+641056	693811	transnewguineaorg-samo	samo1303		woman	962	WOMAN		sobo	s o b o
+641057	693812	transnewguineaorg-samo	samo1303		woman	962	WOMAN		sɔbɔ	s ɔ b ɔ
+642115	694870	johanssonsoundsymbolic-Odoodee	odoo1238		word	1599	WORD		tɔ	t ɔ
+647883	700638	johanssonsoundsymbolic-Odoodee	odoo1238		year	1226	YEAR		dugɔ	d u g ɔ
+649867	703707	johanssonsoundsymbolic-Odoodee	odoo1238		yesterday	1174	YESTERDAY		ɛijɔ	ɛ i j ɔ
+651759	705599	johanssonsoundsymbolic-Odoodee	odoo1238		you	1213	YOU		nibɑ	n i b ɑ
+655145	708985	transnewguineaorg-gobasi-bibo	goba1246		youobliquecaseofyou	2312	YOU (OBLIQUE CASE OF YOU)		niɛ	n i ɛ
+655256	709096	transnewguineaorg-samo	samo1303		youobliquecaseofyou	2312	YOU (OBLIQUE CASE OF YOU)		ni	n i

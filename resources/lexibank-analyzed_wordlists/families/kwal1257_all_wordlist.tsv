@@ -1,0 +1,659 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+909	17060	transnewguineaorg-humene	hume1246		atop	57	ATOP		_o	o
+914	17065	transnewguineaorg-uare	uare1241		atop	57	ATOP		_ɣana	ɣ a n a
+2989	19140	transnewguineaorg-uare	uare1241		baby	1289	BABY		g·u'ṟag·a	g + u r a g + a
+8095	24246	transnewguineaorg-humene	hume1246		banana	868	BANANA		ˈhaʔi	h a ʔ i
+8155	24306	transnewguineaorg-mulaha	mula1254		banana	868	BANANA		eva	e v a
+8223	24374	transnewguineaorg-uare	uare1241		banana	868	BANANA		'haj₊o	h a j o
+8224	24375	transnewguineaorg-uare	uare1241		banana	868	BANANA		ˈhagi	h a g i
+9347	25498	transnewguineaorg-humene	hume1246		bark	1204	BARK		_kokavai	k o k a v a i
+9369	25520	transnewguineaorg-mulaha	mula1254		bark	1204	BARK		tubaiaigi	t u b a i a i g i
+9404	25555	transnewguineaorg-uare	uare1241		bark	1204	BARK		ɩre_o'g·aɣʌ	ɪ r e + o g + a ɣ ʌ
+9405	25556	transnewguineaorg-uare	uare1241		bark	1204	BARK		_oˈgaɣa	o g a ɣ a
+21252	37403	transnewguineaorg-humene	hume1246		behungry	1533	BE HUNGRY		eme_venefa	e m e + v e n e f a
+21280	37431	transnewguineaorg-mulaha	mula1254		behungry	1533	BE HUNGRY		ise	i s e
+21305	37456	transnewguineaorg-uare	uare1241		behungry	1533	BE HUNGRY		eˈviniheha	e v i n i h e h a
+23623	39774	transnewguineaorg-humene	hume1246		belly	1251	BELLY		eˈhi	e h i
+23686	39837	transnewguineaorg-mulaha	mula1254		belly	1251	BELLY		soweba	s o w e b a
+23767	39918	transnewguineaorg-uare	uare1241		belly	1251	BELLY		'içɩ	i ç ɪ
+23768	39919	transnewguineaorg-uare	uare1241		belly	1251	BELLY		iˈsi	i s i
+25843	41994	transnewguineaorg-humene	hume1246		beside	1816	BESIDE		enoʔio	e n o ʔ i o
+25847	41998	transnewguineaorg-uare	uare1241		beside	1816	BESIDE		_ɣarukanu	ɣ a r u k a n u
+26122	42273	transnewguineaorg-uare	uare1241		betelnut	217	BETELNUT		ˈʒore	ʒ o r e
+28809	44960	transnewguineaorg-humene	hume1246		big	1202	BIG		daˈgara_vai	d a g a r a + v a i
+28810	44961	transnewguineaorg-humene	hume1246		big	1202	BIG		vauvai	v a u v a i
+28884	45035	transnewguineaorg-mulaha	mula1254		big	1202	BIG		auki	a u k i
+28978	45129	transnewguineaorg-uare	uare1241		big	1202	BIG		'bɔṟo	b ɔ r o
+28979	45130	transnewguineaorg-uare	uare1241		big	1202	BIG		ˈboro	b o r o
+31154	47305	transnewguineaorg-humene	hume1246		bird	937	BIRD		_ˈiʔuva	i ʔ u v a
+31237	47388	transnewguineaorg-mulaha	mula1254		bird	937	BIRD		iguvi	i g u v i
+31331	47482	transnewguineaorg-uare	uare1241		bird	937	BIRD		'ninɩ	n i n ɪ
+31332	47483	transnewguineaorg-uare	uare1241		bird	937	BIRD		_ˈikuɣa	i k u ɣ a
+33280	49431	transnewguineaorg-humene	hume1246		bite	1403	BITE		vino-hE-	v i n o + h e
+33351	49502	transnewguineaorg-mulaha	mula1254		bite	1403	BITE		koi_iani	k o i + i a n i
+33433	49584	transnewguineaorg-uare	uare1241		bite	1403	BITE		vɩhɔne_ʔohe	v ɪ h ɔ n e + ʔ o h e
+33434	49585	transnewguineaorg-uare	uare1241		bite	1403	BITE		viho-nE-	v i h o + n e
+37406	53557	transnewguineaorg-humene	hume1246		blind	1653	BLIND		_be_heva	b e + h e v a
+37413	53564	transnewguineaorg-mulaha	mula1254		blind	1653	BLIND		ia_bai_urai	i a + b a i + u r a i
+37418	53569	transnewguineaorg-uare	uare1241		blind	1653	BLIND		ˈkuruɣa	k u r u ɣ a
+39522	55673	transnewguineaorg-humene	hume1246		blood	946	BLOOD		roˈo	r o o
+39600	55751	transnewguineaorg-mulaha	mula1254		blood	946	BLOOD		iˈaa	i aː
+39688	55839	transnewguineaorg-uare	uare1241		blood	946	BLOOD		iu:	i uː
+39689	55840	transnewguineaorg-uare	uare1241		blood	946	BLOOD		ˈruˈu	r u u
+41379	57530	transnewguineaorg-humene	hume1246		blowofwind	175	BLOW (OF WIND)		reˈvova_filaˈhe-	r e v o v a + f i l a h e
+41488	57639	transnewguineaorg-uare	uare1241		blowofwind	175	BLOW (OF WIND)		ʒaˈvara_feu-	ʒ a v a r a + f e u
+41886	58037	transnewguineaorg-humene	hume1246		blowwithmouth	176	BLOW (WITH MOUTH)		fu-nE_-	f u + n e
+41898	58049	transnewguineaorg-uare	uare1241		blowwithmouth	176	BLOW (WITH MOUTH)		ho-tE-	h o + t e
+43409	59560	transnewguineaorg-humene	hume1246		blunt	379	BLUNT		utuʔai	u t u ʔ a i
+43416	59567	transnewguineaorg-uare	uare1241		blunt	379	BLUNT		utuʔa	u t u ʔ a
+47749	63900	transnewguineaorg-humene	hume1246		bone	1394	BONE		eˈhine	e h i n e
+47833	63984	transnewguineaorg-mulaha	mula1254		bone	1394	BONE		inina	i n i n a
+47939	64090	transnewguineaorg-uare	uare1241		bone	1394	BONE		ɩ'ine	ɪ i n e
+47940	64091	transnewguineaorg-uare	uare1241		bone	1394	BONE		iˈsine	i s i n e
+50595	66746	transnewguineaorg-humene	hume1246		bow	994	BOW		ˈvaine	v a i n e
+50651	66802	transnewguineaorg-uare	uare1241		bow	994	BOW		ˈvaine	v a i n e
+52222	68373	transnewguineaorg-uare	uare1241		boy	1366	BOY		ɔ'hɔj₊e_kʰo'bɛʔa	ɔ h ɔ j e + kʰ o b ɛ ʔ a
+54242	70394	transnewguineaorg-humene	hume1246		branch	1531	BRANCH		_eˈʒaʔai	e ʒ a ʔ a i
+54258	70410	transnewguineaorg-mulaha	mula1254		branch	1531	BRANCH		rigi	r i g i
+54270	70422	transnewguineaorg-uare	uare1241		branch	1531	BRANCH		_eˈʒaɣa	e ʒ a ɣ a
+55620	71773	transnewguineaorg-humene	hume1246		breakdestroyorgetdestroyed	680	BREAK (DESTROY OR GET DESTROYED)		vahe-ʔE-	v a h e + ʔ e
+55675	71828	transnewguineaorg-uare	uare1241		breakdestroyorgetdestroyed	680	BREAK (DESTROY OR GET DESTROYED)		vahe-gE-	v a h e + g e
+57800	73953	transnewguineaorg-humene	hume1246		breast	1402	BREAST		nuˈune	n u u n e
+57882	74035	transnewguineaorg-mulaha	mula1254		breast	1402	BREAST		kobaiba	k o b a i b a
+57987	74140	transnewguineaorg-uare	uare1241		breast	1402	BREAST		'nune	n u n e
+57988	74141	transnewguineaorg-uare	uare1241		breast	1402	BREAST		nuˈne	n u n e
+61576	77729	transnewguineaorg-uare	uare1241		brother	1262	BROTHER		'nɛk·o	n ɛ k + o
+65025	81178	transnewguineaorg-uare	uare1241		burn	2102	BURN		ɩ'ṟi_ʔohe	ɪ r i + ʔ o h e
+65645	81798	transnewguineaorg-mulaha	mula1254		burnsomething	141	BURN (SOMETHING)		owai_aiagata	o w a i + a i a g a t a
+65650	81803	transnewguineaorg-uare	uare1241		burnsomething	141	BURN (SOMETHING)		ho-fE-	h o + f e
+66025	82178	transnewguineaorg-humene	hume1246		bury	1719	BURY		ori-ʒE-	o r i + ʒ e
+66045	82198	transnewguineaorg-mulaha	mula1254		bury	1719	BURY		guiata	g u i a t a
+66066	82219	transnewguineaorg-uare	uare1241		bury	1719	BURY		ku-rɛ-	k u + r ɛ
+66410	82563	transnewguineaorg-humene	hume1246		bush	1683	BUSH		roˈoni	r o o n i
+66419	82572	transnewguineaorg-mulaha	mula1254		bush	1683	BUSH		unuwa	u n u w a
+66424	82577	transnewguineaorg-uare	uare1241		bush	1683	BUSH		ˈdutu	d u t u
+67495	83648	transnewguineaorg-humene	hume1246		butterfly	1791	BUTTERFLY		ne	n e
+67525	83678	transnewguineaorg-mulaha	mula1254		butterfly	1791	BUTTERFLY		niva	n i v a
+67553	83706	transnewguineaorg-uare	uare1241		butterfly	1791	BUTTERFLY		ˈne	n e
+68002	84155	transnewguineaorg-humene	hume1246		buttocks	834	BUTTOCKS		niˈduhe	n i d u h e
+68030	84183	transnewguineaorg-mulaha	mula1254		buttocks	834	BUTTOCKS		wasira	w a s i r a
+68059	84212	transnewguineaorg-uare	uare1241		buttocks	834	BUTTOCKS		ˈharure	h a r u r e
+73358	89511	transnewguineaorg-humene	hume1246		carry	700	CARRY		ede-hE-	e d e + h e
+73401	89554	transnewguineaorg-mulaha	mula1254		carry	700	CARRY		pavaiana	p a v a i a n a
+73445	89598	transnewguineaorg-uare	uare1241		carry	700	CARRY		herate_onamE-	h e r a t e + o n a m e
+74607	90760	transnewguineaorg-humene	hume1246		cassowary	466	CASSOWARY		ʒaˈrama	ʒ a r a m a
+74656	90809	transnewguineaorg-mulaha	mula1254		cassowary	466	CASSOWARY		iaraba	i a r a b a
+74722	90875	transnewguineaorg-uare	uare1241		cassowary	466	CASSOWARY		'ut·i	u t + i
+74723	90876	transnewguineaorg-uare	uare1241		cassowary	466	CASSOWARY		ˈmohe	m o h e
+75768	91921	transnewguineaorg-uare	uare1241		catch	702	CATCH		ma_ʔohe	m a + ʔ o h e
+76967	93120	transnewguineaorg-uare	uare1241		ceaseorfinish	2115	CEASE OR FINISH		roɣeranE-	r o ɣ e r a n e
+80791	96944	transnewguineaorg-humene	hume1246		chest	1592	CHEST		oʔˈone	o ʔ o n e
+80819	96972	transnewguineaorg-mulaha	mula1254		chest	1592	CHEST		kobaba	k o b a b a
+80849	97002	transnewguineaorg-uare	uare1241		chest	1592	CHEST		one	o n e
+85914	102067	transnewguineaorg-humene	hume1246		chop	155	CHOP		ode-	o d e
+85915	102068	transnewguineaorg-humene	hume1246		chop	155	CHOP		vare-#E-	v a r e
+85960	102113	transnewguineaorg-uare	uare1241		chop	155	CHOP		o-dE-	o + d e
+92240	108393	transnewguineaorg-humene	hume1246		cloud	1489	CLOUD		ˈvoʒe	v o ʒ e
+92316	108469	transnewguineaorg-mulaha	mula1254		cloud	1489	CLOUD		dagadaga	d a g a d a g a
+92413	108566	transnewguineaorg-uare	uare1241		cloud	1489	CLOUD		mʌ'k·upe	m ʌ k + u p e
+92414	108567	transnewguineaorg-uare	uare1241		cloud	1489	CLOUD		ˈɣoʒe	ɣ o ʒ e
+96030	112183	transnewguineaorg-humene	hume1246		cold	1287	COLD		naʔuʔai	n a ʔ u ʔ a i
+96097	112250	transnewguineaorg-mulaha	mula1254		cold	1287	COLD		nanupa	n a n u p a
+96179	112332	transnewguineaorg-uare	uare1241		cold	1287	COLD		nʌ'huk·ʌ	n ʌ h u k + ʌ
+96180	112333	transnewguineaorg-uare	uare1241		cold	1287	COLD		naʔuʔai	n a ʔ u ʔ a i
+99686	115839	transnewguineaorg-humene	hume1246		come	1446	COME		ona-	o n a
+99773	115926	transnewguineaorg-mulaha	mula1254		come	1446	COME		kuwanakausa	k u w a n a k a u s a
+99865	116018	transnewguineaorg-uare	uare1241		come	1446	COME		ɔ'naⁱ_ʔohe	ɔ n ai + ʔ o h e
+99866	116019	transnewguineaorg-uare	uare1241		come	1446	COME		ona-	o n a
+101811	117964	transnewguineaorg-humene	hume1246		cooked	269	COOKED		oˈda	o d a
+101857	118010	transnewguineaorg-uare	uare1241		cooked	269	COOKED		oˈdoga	o d o g a
+103427	119580	transnewguineaorg-humene	hume1246		cooksomething	1100	COOK (SOMETHING)		voro-hE-	v o r o + h e
+103441	119594	transnewguineaorg-mulaha	mula1254		cooksomething	1100	COOK (SOMETHING)		ufali	u f a l i
+103460	119613	transnewguineaorg-uare	uare1241		cooksomething	1100	COOK (SOMETHING)		ɣoro-hE-	ɣ o r o + h e
+106589	122742	transnewguineaorg-humene	hume1246		cough	879	COUGH		iʔu-tE-	i ʔ u + t e
+106626	122779	transnewguineaorg-mulaha	mula1254		cough	879	COUGH		igebana	i g e b a n a
+106671	122824	transnewguineaorg-uare	uare1241		cough	879	COUGH		ɩk·u'tʰɛ_ʔohe	ɪ k + u tʰ ɛ + ʔ o h e
+106672	122825	transnewguineaorg-uare	uare1241		cough	879	COUGH		igu-tE-	i g u + t e
+110822	126975	transnewguineaorg-humene	hume1246		crooked	297	CROOKED		ˈbeoval	b e o v a l
+110872	127025	transnewguineaorg-uare	uare1241		crooked	297	CROOKED		ˈbeoɣa	b e o ɣ a
+113590	129743	transnewguineaorg-humene	hume1246		cry	1839	CRY		niʒanE-	n i ʒ a n e
+113637	129790	transnewguineaorg-mulaha	mula1254		cry	1839	CRY		poasini	p o a s i n i
+113688	129841	transnewguineaorg-uare	uare1241		cry	1839	CRY		nianE-	n i a n e
+115473	131626	transnewguineaorg-humene	hume1246		cut	1432	CUT		vare-#E-	v a r e
+115570	131723	transnewguineaorg-uare	uare1241		cut	1432	CUT		vari-ʔE-	v a r i + ʔ e
+123051	139206	transnewguineaorg-humene	hume1246		deafperson	458	DEAF PERSON		ohuvai	o h u v a i
+123058	139213	transnewguineaorg-mulaha	mula1254		deafperson	458	DEAF PERSON		akur_ai_posi	a k u r + a i + p o s i
+123063	139218	transnewguineaorg-uare	uare1241		deafperson	458	DEAF PERSON		_ohuvai	o h u v a i
+128012	144167	transnewguineaorg-uare	uare1241		die	1494	DIE		ṟu'daᵘ_ʔohe	r u d au + ʔ o h e
+128520	144675	transnewguineaorg-humene	hume1246		different	2504	DIFFERENT		aˈhoʔai	a h o ʔ a i
+128531	144686	transnewguineaorg-uare	uare1241		different	2504	DIFFERENT		aˈhoka	a h o k a
+128574	144729	transnewguineaorg-humene	hume1246		differentsexoldersibling	3039	DIFFERENT-SEX OLDER SIBLING		eˈʒehe	e ʒ e h e
+128601	144756	transnewguineaorg-mulaha	mula1254		differentsexoldersibling	3039	DIFFERENT-SEX OLDER SIBLING		iaukepa	i a u k e p a
+128602	144757	transnewguineaorg-mulaha	mula1254		differentsexoldersibling	3039	DIFFERENT-SEX OLDER SIBLING		iaukeba	i a u k e b a
+128630	144785	transnewguineaorg-uare	uare1241		differentsexoldersibling	3039	DIFFERENT-SEX OLDER SIBLING		eˈʒehe	e ʒ e h e
+130084	146239	transnewguineaorg-humene	hume1246		dig	1418	DIG		_o-ʔE-	o + ʔ e
+130132	146287	transnewguineaorg-mulaha	mula1254		dig	1418	DIG		isani	i s a n i
+130179	146334	transnewguineaorg-uare	uare1241		dig	1418	DIG		_ho-ʔE-	h o + ʔ e
+136478	152633	transnewguineaorg-humene	hume1246		dog	2009	DOG		ˈaba	a b a
+136566	152721	transnewguineaorg-mulaha	mula1254		dog	2009	DOG		aba	a b a
+136666	152821	transnewguineaorg-uare	uare1241		dog	2009	DOG		'ɣunɩ	ɣ u n ɪ
+136667	152822	transnewguineaorg-uare	uare1241		dog	2009	DOG		ˈaba	a b a
+139645	155800	transnewguineaorg-humene	hume1246		drawwater	1911	DRAW (WATER)		a-vE-	a + v e
+139653	155808	transnewguineaorg-uare	uare1241		drawwater	1911	DRAW (WATER)		a-bE-	a + b e
+140723	156878	transnewguineaorg-humene	hume1246		dreamsomething	1920	DREAM (SOMETHING)		uveʔeʒa-	u v e ʔ e ʒ a
+140754	156909	transnewguineaorg-mulaha	mula1254		dreamsomething	1920	DREAM (SOMETHING)		nihuana	n i h u a n a
+140785	156940	transnewguineaorg-uare	uare1241		dreamsomething	1920	DREAM (SOMETHING)		iɣunane-	i ɣ u n a n e
+142670	158825	transnewguineaorg-humene	hume1246		drink	1401	DRINK		a-nE-	a + n e
+142702	158857	transnewguineaorg-mulaha	mula1254		drink	1401	DRINK		ina	i n a
+142738	158893	transnewguineaorg-uare	uare1241		drink	1401	DRINK		k·ʌ'k·ɛ_ʔohe	k + ʌ k + ɛ + ʔ o h e
+142739	158894	transnewguineaorg-uare	uare1241		drink	1401	DRINK		ga-gE-	g a + g e
+147183	163338	transnewguineaorg-humene	hume1246		dryup	1786	DRY UP		kakirivai	k a k i r i v a i
+147332	163487	transnewguineaorg-uare	uare1241		dryup	1786	DRY UP		ɩ'miɣʌ	ɪ m i ɣ ʌ
+147333	163488	transnewguineaorg-uare	uare1241		dryup	1786	DRY UP		imira	i m i r a
+152009	168164	transnewguineaorg-humene	hume1246		ear	1247	EAR		aˈbi	a b i
+152090	168245	transnewguineaorg-mulaha	mula1254		ear	1247	EAR		akuru	a k u r u
+152196	168351	transnewguineaorg-uare	uare1241		ear	1247	EAR		'tʰɛɣʌ	tʰ ɛ ɣ ʌ
+152197	168352	transnewguineaorg-uare	uare1241		ear	1247	EAR		ˈteɣa	t e ɣ a
+154684	170839	transnewguineaorg-uare	uare1241		earthsoil	1228	EARTH (SOIL)		'habʌ	h a b ʌ
+157372	173529	transnewguineaorg-humene	hume1246		eat	1336	EAT		a-nE-	a + n e
+157464	173621	transnewguineaorg-mulaha	mula1254		eat	1336	EAT		inatu	i n a t u
+157572	173729	transnewguineaorg-uare	uare1241		eat	1336	EAT		aᵘ_ʔohe	au + ʔ o h e
+157573	173730	transnewguineaorg-uare	uare1241		eat	1336	EAT		a-nE-	a + n e
+159821	175979	transnewguineaorg-humene	hume1246		egg	744	EGG		ˈhava	h a v a
+159895	176053	transnewguineaorg-mulaha	mula1254		egg	744	EGG		iakeki	i a k e k i
+159983	176141	transnewguineaorg-uare	uare1241		egg	744	EGG		'maɣʌ	m a ɣ ʌ
+159984	176142	transnewguineaorg-uare	uare1241		egg	744	EGG		iˈsaɣa	i s a ɣ a
+162693	178851	transnewguineaorg-humene	hume1246		elbow	981	ELBOW		_kaˈkuʔa	k a k u ʔ a
+162738	178896	transnewguineaorg-mulaha	mula1254		elbow	981	ELBOW		komo	k o m o
+162739	178897	transnewguineaorg-mulaha	mula1254		elbow	981	ELBOW		agi	a g i
+162793	178951	transnewguineaorg-uare	uare1241		elbow	981	ELBOW		e'voṟe_j₊u'ɣuɣʌ	e v o r e + j u ɣ u ɣ ʌ
+162794	178952	transnewguineaorg-uare	uare1241		elbow	981	ELBOW		_ˈʔaʔuʔa	ʔ a ʔ u ʔ a
+164178	180336	transnewguineaorg-uare	uare1241		eleven	1706	ELEVEN		gaubanana_tu_tiba	g a u b a n a n a + t u + t i b a
+167278	183436	transnewguineaorg-humene	hume1246		evening	1629	EVENING		uˈnunu	u n u n u
+167282	183440	transnewguineaorg-mulaha	mula1254		evening	1629	EVENING		ena	e n a
+167284	183442	transnewguineaorg-uare	uare1241		evening	1629	EVENING		ɣoˈrava	ɣ o r a v a
+170419	186577	transnewguineaorg-humene	hume1246		eye	1248	EYE		uˈbuma	u b u m a
+170505	186663	transnewguineaorg-mulaha	mula1254		eye	1248	EYE		boivi	b o i v i
+170615	186773	transnewguineaorg-uare	uare1241		eye	1248	EYE		u'bumə	u b u m ə
+170616	186774	transnewguineaorg-uare	uare1241		eye	1248	EYE		uˈbuma	u b u m a
+180373	196532	transnewguineaorg-humene	hume1246		father	1217	FATHER		maka	m a k a
+180545	196704	transnewguineaorg-uare	uare1241		father	1217	FATHER		'mamʌ	m a m ʌ
+180546	196705	transnewguineaorg-uare	uare1241		father	1217	FATHER		ˈmama	m a m a
+182503	198663	transnewguineaorg-humene	hume1246		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		iʔˈai	i ʔ a i
+182638	198798	transnewguineaorg-uare	uare1241		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		'iɣə	i ɣ ə
+182639	198799	transnewguineaorg-uare	uare1241		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		iˈka	i k a
+184056	200216	transnewguineaorg-humene	hume1246		fearbeafraid	1419	FEAR (BE AFRAID)		fere-nE-	f e r e + n e
+184129	200289	transnewguineaorg-uare	uare1241		fearbeafraid	1419	FEAR (BE AFRAID)		riha-nE-	r i h a + n e
+185374	201534	transnewguineaorg-humene	hume1246		feather	1201	FEATHER		ˈmava	m a v a
+185398	201558	transnewguineaorg-mulaha	mula1254		feather	1201	FEATHER		abegi	a b e g i
+185435	201595	transnewguineaorg-uare	uare1241		feather	1201	FEATHER		ˈmaɣa	m a ɣ a
+187664	220317	transnewguineaorg-uare	uare1241		float	1574	FLOAT		ruhaoʔohE-	r u h a o ʔ o h e
+191682	224335	transnewguineaorg-humene	hume1246		flyinsect	1504	FLY (INSECT)		muˈdire	m u d i r e
+191722	224375	transnewguineaorg-mulaha	mula1254		flyinsect	1504	FLY (INSECT)		nanuia	n a n u i a
+191754	224407	transnewguineaorg-uare	uare1241		flyinsect	1504	FLY (INSECT)		muˈdire	m u d i r e
+193348	226001	transnewguineaorg-humene	hume1246		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		lafeʒE-	l a f e ʒ e
+193459	226112	transnewguineaorg-uare	uare1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		lʌfiu_ʔohe	l ʌ f i u + ʔ o h e
+193460	226113	transnewguineaorg-uare	uare1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		lafianE-	l a f i a n e
+194814	227467	transnewguineaorg-humene	hume1246		fog	249	FOG		ˈvoʒe	v o ʒ e
+194843	227496	transnewguineaorg-mulaha	mula1254		fog	249	FOG		ivaru	i v a r u
+194874	227527	transnewguineaorg-uare	uare1241		fog	249	FOG		ˈɣoʒe	ɣ o ʒ e
+196872	229525	transnewguineaorg-uare	uare1241		foot	1301	FOOT		mairafʌ	m a i r a f ʌ
+198743	231396	transnewguineaorg-humene	hume1246		forehead	123	FOREHEAD		eˈmere	e m e r e
+198762	231415	transnewguineaorg-mulaha	mula1254		forehead	123	FOREHEAD		beva	b e v a
+198790	231443	transnewguineaorg-uare	uare1241		forehead	123	FOREHEAD		ʒeˈhere	ʒ e h e r e
+203239	235892	transnewguineaorg-humene	hume1246		four	1500	FOUR		aˈheu_aˈheu	a h e u + a h e u
+203302	235955	transnewguineaorg-uare	uare1241		four	1500	FOUR		ɣʌ'j₊aɣʌ	ɣ ʌ j a ɣ ʌ
+203303	235956	transnewguineaorg-uare	uare1241		four	1500	FOUR		ɣaˈʒaga	ɣ a ʒ a g a
+206642	239295	transnewguineaorg-uare	uare1241		frog	503	FROG		fe'ɣɔj₊ʌ	f e ɣ ɔ j ʌ
+208385	241038	transnewguineaorg-humene	hume1246		fruit	1507	FRUIT		_inuʔai	i n u ʔ a i
+208431	241084	transnewguineaorg-mulaha	mula1254		fruit	1507	FRUIT		boivi	b o i v i
+208474	241127	transnewguineaorg-uare	uare1241		fruit	1507	FRUIT		_ˈmaɣa	m a ɣ a
+209792	242445	transnewguineaorg-humene	hume1246		full	1429	FULL		erevaʔa	e r e v a ʔ a
+209927	242580	transnewguineaorg-uare	uare1241		full	1429	FULL		ɩ'ṟiʌvoɣʌ	ɪ r i ʌ v o ɣ ʌ
+209928	242581	transnewguineaorg-uare	uare1241		full	1429	FULL		erevaʔa	e r e v a ʔ a
+210332	242985	transnewguineaorg-humene	hume1246		fur	580	FUR		teˈbore	t e b o r e
+210336	242989	transnewguineaorg-mulaha	mula1254		fur	580	FUR		teboari	t e b o a r i
+210340	242993	transnewguineaorg-uare	uare1241		fur	580	FUR		ˈnini	n i n i
+210812	243465	transnewguineaorg-humene	hume1246		garden	586	GARDEN		voˈore	v o o r e
+210900	243553	transnewguineaorg-uare	uare1241		garden	586	GARDEN		ˈnada	n a d a
+213977	246630	transnewguineaorg-uare	uare1241		girl	1646	GIRL		'lɔɣae_kʰo'bɛʔa	l ɔ ɣ a e + kʰ o b ɛ ʔ a
+215578	248231	transnewguineaorg-uare	uare1241		give	1447	GIVE		'inɩ_ʔohe	i n ɪ + ʔ o h e
+215579	248232	transnewguineaorg-uare	uare1241		give	1447	GIVE		haˈnoʔi	h a n o ʔ i
+217638	250292	transnewguineaorg-humene	hume1246		go	695	GO		onamE-	o n a m e
+217736	250390	transnewguineaorg-uare	uare1241		go	695	GO		onamE-	o n a m e
+218970	251626	transnewguineaorg-humene	hume1246		godowndescend	2014	GO DOWN (DESCEND)		_uʔuta-hE-	u ʔ u t a + h e
+219013	251669	transnewguineaorg-uare	uare1241		godowndescend	2014	GO DOWN (DESCEND)		_oɣo-#E-	o ɣ o
+221584	254240	transnewguineaorg-humene	hume1246		good	1035	GOOD		aˈhivai	a h i v a i
+221661	254317	transnewguineaorg-mulaha	mula1254		good	1035	GOOD		vasua	v a s u a
+221756	254412	transnewguineaorg-uare	uare1241		good	1035	GOOD		mʌ'nɔɣʌ	m ʌ n ɔ ɣ ʌ
+221757	254413	transnewguineaorg-uare	uare1241		good	1035	GOOD		maˈnoɣa	m a n o ɣ a
+223028	255684	transnewguineaorg-humene	hume1246		goupascend	705	GO UP (ASCEND)		_tila-hE-	t i l a + h e
+223071	255727	transnewguineaorg-uare	uare1241		goupascend	705	GO UP (ASCEND)		_i-tE-	i + t e
+229200	261856	transnewguineaorg-uare	uare1241		green	1425	GREEN		g·og·ɔg·	g + o g + ɔ g
+230526	263182	transnewguineaorg-humene	hume1246		ground	2159	GROUND		ˈraha	r a h a
+230615	263271	transnewguineaorg-uare	uare1241		ground	2159	GROUND		ˈhaba	h a b a
+235535	268191	transnewguineaorg-humene	hume1246		hairbody	189	HAIR (BODY)		iʔvuai	i ʔ v u a i
+235536	268192	transnewguineaorg-humene	hume1246		hairbody	189	HAIR (BODY)		oʔˈone_ˈiʔuva	o ʔ o n e + i ʔ u v a
+235635	268291	transnewguineaorg-mulaha	mula1254		hairbody	189	HAIR (BODY)		yoroba	j o r o b a
+235755	268411	transnewguineaorg-uare	uare1241		hairbody	189	HAIR (BODY)		'iku	i k u
+235756	268412	transnewguineaorg-uare	uare1241		hairbody	189	HAIR (BODY)		ˈiku	i k u
+235757	268413	transnewguineaorg-uare	uare1241		hairbody	189	HAIR (BODY)		oneˈikuɣa	o n e i k u ɣ a
+239141	271797	transnewguineaorg-uare	uare1241		hand	1277	HAND		e'voṟe	e v o r e
+244795	277452	transnewguineaorg-humene	hume1246		head	1256	HEAD		raˈfune	r a f u n e
+244892	277549	transnewguineaorg-mulaha	mula1254		head	1256	HEAD		yoarowai	j o a r o w a i
+245000	277657	transnewguineaorg-uare	uare1241		head	1256	HEAD		və'd·inɩ	v ə d + i n ɪ
+245001	277658	transnewguineaorg-uare	uare1241		head	1256	HEAD		vaˈdini	v a d i n i
+247667	280324	transnewguineaorg-humene	hume1246		hear	1408	HEAR		ohi-nE-	o h i + n e
+247731	280388	transnewguineaorg-mulaha	mula1254		hear	1408	HEAR		gouata	g o u a t a
+247811	280468	transnewguineaorg-uare	uare1241		hear	1408	HEAR		ɩk·i_ʔohe	ɪ k + i + ʔ o h e
+247812	280469	transnewguineaorg-uare	uare1241		hear	1408	HEAR		eke-#E-	e k e
+249065	281722	transnewguineaorg-humene	hume1246		heart	1223	HEART		ʒaˈmama	ʒ a m a m a
+249113	281770	transnewguineaorg-mulaha	mula1254		heart	1223	HEART		sowa	s o w a
+249171	281828	transnewguineaorg-uare	uare1241		heart	1223	HEART		j₊ʌ'mamʌ	j ʌ m a m ʌ
+249172	281829	transnewguineaorg-uare	uare1241		heart	1223	HEART		ʒaˈmama	ʒ a m a m a
+251201	283858	transnewguineaorg-humene	hume1246		heavy	1210	HEAVY		aˈduʔai	a d u ʔ a i
+251311	283968	transnewguineaorg-uare	uare1241		heavy	1210	HEAVY		ʌ'tukʌ	ʌ t u k ʌ
+251312	283969	transnewguineaorg-uare	uare1241		heavy	1210	HEAVY		aˈduka	a d u k a
+254933	287592	transnewguineaorg-humene	hume1246		here	136	HERE		-de	d e
+254965	287624	transnewguineaorg-mulaha	mula1254		here	136	HERE		-tu	t u
+254994	287653	transnewguineaorg-uare	uare1241		here	136	HERE		-ae	a e
+259065	291725	transnewguineaorg-humene	hume1246		hit	1433	HIT		mahi-nE-	m a h i + n e
+259162	291822	transnewguineaorg-uare	uare1241		hit	1433	HIT		maᵘ_ʔohe	m au + ʔ o h e
+259163	291823	transnewguineaorg-uare	uare1241		hit	1433	HIT		ma-nE-	m a + n e
+260902	293562	transnewguineaorg-humene	hume1246		hold	1448	HOLD		ahova-nE-	a h o v a + n e
+260979	293639	transnewguineaorg-uare	uare1241		hold	1448	HOLD		obo-nE-	o b o + n e
+265821	298481	transnewguineaorg-humene	hume1246		hot	1286	HOT		eʔeʔai	e ʔ e ʔ a i
+265865	298525	transnewguineaorg-mulaha	mula1254		hot	1286	HOT		siau	s i a u
+265913	298573	transnewguineaorg-uare	uare1241		hot	1286	HOT		ˈgegia	g e g i a
+266352	299012	transnewguineaorg-uare	uare1241		hotorwarm	2272	HOT OR WARM		k·ɩ'k·iʔʌ	k + ɪ k + i ʔ ʌ
+267982	300642	transnewguineaorg-humene	hume1246		house	1252	HOUSE		ne	n e
+268040	300700	transnewguineaorg-mulaha	mula1254		house	1252	HOUSE		niva	n i v a
+268110	300770	transnewguineaorg-uare	uare1241		house	1252	HOUSE		nɛ	n ɛ
+268111	300771	transnewguineaorg-uare	uare1241		house	1252	HOUSE		ne	n e
+270083	302743	transnewguineaorg-humene	hume1246		howmuch	531	HOW MUCH		naeʔae	n a e ʔ a e
+270090	302750	transnewguineaorg-uare	uare1241		howmuch	531	HOW MUCH		nuku	n u k u
+273386	306046	transnewguineaorg-humene	hume1246		husband	1200	HUSBAND		ˈehi	e h i
+273402	306062	transnewguineaorg-mulaha	mula1254		husband	1200	HUSBAND		veki	v e k i
+273419	306079	transnewguineaorg-uare	uare1241		husband	1200	HUSBAND		oˈhoʒe	o h o ʒ e
+275252	307912	transnewguineaorg-humene	hume1246		i	1209	I		ˈeme	e m e
+275325	307985	transnewguineaorg-mulaha	mula1254		i	1209	I		yokaba	j o k a b a
+275326	307986	transnewguineaorg-mulaha	mula1254		i	1209	I		nai	n a i
+275416	308076	transnewguineaorg-uare	uare1241		i	1209	I		'ɣe	ɣ e
+275417	308077	transnewguineaorg-uare	uare1241		i	1209	I		ˈeɣe	e ɣ e
+283864	316524	transnewguineaorg-humene	hume1246		jaw	798	JAW		ˈvaene	v a e n e
+283876	316536	transnewguineaorg-mulaha	mula1254		jaw	798	JAW		wasina	w a s i n a
+283877	316537	transnewguineaorg-mulaha	mula1254		jaw	798	JAW		wasena	w a s e n a
+283884	316544	transnewguineaorg-uare	uare1241		jaw	798	JAW		ˈɣaene	ɣ a e n e
+285118	317778	transnewguineaorg-humene	hume1246		jump	1829	JUMP		burahE-	b u r a h e
+285164	317824	transnewguineaorg-uare	uare1241		jump	1829	JUMP		rafatE-	r a f a t e
+288141	320801	transnewguineaorg-humene	hume1246		kill	1417	KILL		vaino-dE-	v a i n o + d e
+288244	320904	transnewguineaorg-uare	uare1241		kill	1417	KILL		maᵘ_ʔohe	m au + ʔ o h e
+288245	320905	transnewguineaorg-uare	uare1241		kill	1417	KILL		veno-dE-	v e n o + d e
+290989	323649	transnewguineaorg-humene	hume1246		knee	1371	KNEE		oˈmoti	o m o t i
+291140	323800	transnewguineaorg-uare	uare1241		knee	1371	KNEE		ɔ'bɛnə	ɔ b ɛ n ə
+291141	323801	transnewguineaorg-uare	uare1241		knee	1371	KNEE		oˈfena	o f e n a
+292425	325085	transnewguineaorg-uare	uare1241		knife	1352	KNIFE		ma'ɣiṟɩ	m a ɣ i r ɪ
+294796	327456	transnewguineaorg-uare	uare1241		knowsomething	1410	KNOW (SOMETHING)		e't·ɛɣʌ	e t + ɛ ɣ ʌ
+298147	330807	transnewguineaorg-humene	hume1246		late	477	LATE		veteboʔi	v e t e b o ʔ i
+298152	330812	transnewguineaorg-uare	uare1241		late	477	LATE		ˈvehuʔu	v e h u ʔ u
+299678	332338	transnewguineaorg-humene	hume1246		laugh	1355	LAUGH		evefE-	e v e f e
+299722	332382	transnewguineaorg-mulaha	mula1254		laugh	1355	LAUGH		isini	i s i n i
+299779	332439	transnewguineaorg-uare	uare1241		laugh	1355	LAUGH		eɣo'fɛ_ʔohe	e ɣ o f ɛ + ʔ o h e
+299780	332440	transnewguineaorg-uare	uare1241		laugh	1355	LAUGH		eɣofE-	e ɣ o f e
+302970	335630	transnewguineaorg-humene	hume1246		leaf	628	LEAF		_loavai	l o a v a i
+303115	335775	transnewguineaorg-uare	uare1241		leaf	628	LEAF		iṟe'loᵘɣʌ	i r e l o w ɣ ʌ
+303116	335776	transnewguineaorg-uare	uare1241		leaf	628	LEAF		_rouɣa	r o u ɣ a
+305940	338600	transnewguineaorg-humene	hume1246		lefthand	2182	LEFT HAND		enene	e n e n e
+305949	338609	transnewguineaorg-mulaha	mula1254		lefthand	2182	LEFT HAND		ia_kani	i a + k a n i
+305959	338619	transnewguineaorg-uare	uare1241		lefthand	2182	LEFT HAND		kauri	k a u r i
+306914	339574	transnewguineaorg-humene	hume1246		leg	1297	LEG		goˈenva	g o e n v a
+306975	339635	transnewguineaorg-mulaha	mula1254		leg	1297	LEG		koina	k o i n a
+307043	339703	transnewguineaorg-uare	uare1241		leg	1297	LEG		ɔdʌ	ɔ d ʌ
+307044	339704	transnewguineaorg-uare	uare1241		leg	1297	LEG		ˈoda	o d a
+310687	343347	transnewguineaorg-humene	hume1246		lierest	1411	LIE (REST)		baʒE-	b a ʒ e
+310691	343351	transnewguineaorg-uare	uare1241		lierest	1411	LIE (REST)		baʒE-	b a ʒ e
+313379	346039	transnewguineaorg-uare	uare1241		lightradiation	630	LIGHT (RADIATION)		i'huṟe	i h u r e
+317492	350152	transnewguineaorg-humene	hume1246		liver	1224	LIVER		vuˈune	v u u n e
+317596	350256	transnewguineaorg-uare	uare1241		liver	1224	LIVER		ʌ'ɣu	ʌ ɣ u
+317597	350257	transnewguineaorg-uare	uare1241		liver	1224	LIVER		ˈɣuga	ɣ u g a
+320467	353127	transnewguineaorg-humene	hume1246		long	1203	LONG		ˈfavai	f a v a i
+320550	353210	transnewguineaorg-mulaha	mula1254		long	1203	LONG		biroki	b i r o k i
+320635	353295	transnewguineaorg-uare	uare1241		long	1203	LONG		'faɣʌ	f a ɣ ʌ
+320636	353296	transnewguineaorg-uare	uare1241		long	1203	LONG		ˈfaɣa	f a ɣ a
+321928	354588	transnewguineaorg-humene	hume1246		lookfor	1468	LOOK FOR		va-vE-	v a + v e
+321945	354605	transnewguineaorg-uare	uare1241		lookfor	1468	LOOK FOR		va-ɣE-	v a + ɣ e
+324076	356736	transnewguineaorg-humene	hume1246		louse	1392	LOUSE		noˈmone	n o m o n e
+324161	356821	transnewguineaorg-mulaha	mula1254		louse	1392	LOUSE		uˈmana	u m a n a
+324259	356919	transnewguineaorg-uare	uare1241		louse	1392	LOUSE		'nɔmone	n ɔ m o n e
+324260	356920	transnewguineaorg-uare	uare1241		louse	1392	LOUSE		noˈmone	n o m o n e
+328486	361147	transnewguineaorg-humene	hume1246		makeajoke	2760	MAKE A JOKE		verihE-	v e r i h e
+328492	361153	transnewguineaorg-uare	uare1241		makeajoke	2760	MAKE A JOKE		ɣirihE-	ɣ i r i h e
+331204	363865	transnewguineaorg-humene	hume1246		man	1554	MAN		ˈvaʒe	v a ʒ e
+331205	363866	transnewguineaorg-humene	hume1246		man	1554	MAN		oˈhoʒ	o h o ʒ
+331372	364033	transnewguineaorg-uare	uare1241		man	1554	MAN		ohɔj_e	o h ɔ j + e
+331373	364034	transnewguineaorg-uare	uare1241		man	1554	MAN		ˈvaʒe	v a ʒ e
+331374	364035	transnewguineaorg-uare	uare1241		man	1554	MAN		oˈhoʒe	o h o ʒ e
+332720	365381	transnewguineaorg-humene	hume1246		many	1198	MANY		ˈvudeˈhune	v u d e h u n e
+332779	365440	transnewguineaorg-mulaha	mula1254		many	1198	MANY		hutuba	h u t u b a
+332844	365505	transnewguineaorg-uare	uare1241		many	1198	MANY		ɣe'haɣʌ	ɣ e h a ɣ ʌ
+332845	365506	transnewguineaorg-uare	uare1241		many	1198	MANY		ɣehaɣa_bagaɣa	ɣ e h a ɣ a + b a g a ɣ a
+345242	377903	transnewguineaorg-humene	hume1246		moon	1313	MOON		ˈbato	b a t o
+345321	377982	transnewguineaorg-mulaha	mula1254		moon	1313	MOON		vaisa	v a i s a
+345411	378072	transnewguineaorg-uare	uare1241		moon	1313	MOON		'batʰɔ	b a tʰ ɔ
+345412	378073	transnewguineaorg-uare	uare1241		moon	1313	MOON		ˈbato	b a t o
+346250	378911	transnewguineaorg-humene	hume1246		morning	1339	MORNING		oˈbobu	o b o b u
+346322	378983	transnewguineaorg-uare	uare1241		morning	1339	MORNING		o'hɛṟeb·au	o h ɛ r e b + a u
+346323	378984	transnewguineaorg-uare	uare1241		morning	1339	MORNING		oˈhereˈbaɣu	o h e r e b a ɣ u
+347952	380613	transnewguineaorg-humene	hume1246		mosquito	1509	MOSQUITO		beˈbero	b e b e r o
+348002	380663	transnewguineaorg-mulaha	mula1254		mosquito	1509	MOSQUITO		beberu	b e b e r u
+348063	380724	transnewguineaorg-uare	uare1241		mosquito	1509	MOSQUITO		karabibi	k a r a b i b i
+349910	382572	transnewguineaorg-humene	hume1246		mother	1216	MOTHER		noka	n o k a
+350101	382765	transnewguineaorg-uare	uare1241		mother	1216	MOTHER		'nanu	n a n u
+350102	382766	transnewguineaorg-uare	uare1241		mother	1216	MOTHER		ˈnau	n a u
+351516	384180	transnewguineaorg-humene	hume1246		mountain	639	MOUNTAIN		ˈmava	m a v a
+351586	384250	transnewguineaorg-mulaha	mula1254		mountain	639	MOUNTAIN		voivi	v o i v i
+351674	384338	transnewguineaorg-uare	uare1241		mountain	639	MOUNTAIN		'maɣʌ	m a ɣ ʌ
+351675	384339	transnewguineaorg-uare	uare1241		mountain	639	MOUNTAIN		ˈmaɣa	m a ɣ a
+354251	386915	transnewguineaorg-humene	hume1246		mouth	674	MOUTH		heˈdere	h e d e r e
+354324	386988	transnewguineaorg-mulaha	mula1254		mouth	674	MOUTH		abina	a b i n a
+354414	387078	transnewguineaorg-uare	uare1241		mouth	674	MOUTH		'hɛbe	h ɛ b e
+354415	387079	transnewguineaorg-uare	uare1241		mouth	674	MOUTH		ˈhebe	h e b e
+359064	391730	transnewguineaorg-humene	hume1246		name	1405	NAME		ni	n i
+359146	391812	transnewguineaorg-mulaha	mula1254		name	1405	NAME		waa_anu	w aː + a n u
+359241	391907	transnewguineaorg-uare	uare1241		name	1405	NAME		ni:	n iː
+359242	391908	transnewguineaorg-uare	uare1241		name	1405	NAME		ni	n i
+359764	392430	transnewguineaorg-humene	hume1246		napeofneck	1347	NAPE (OF NECK)		uˈtune	u t u n e
+359789	392455	transnewguineaorg-mulaha	mula1254		napeofneck	1347	NAPE (OF NECK)		oara	o a r a
+359814	392480	transnewguineaorg-uare	uare1241		napeofneck	1347	NAPE (OF NECK)		ˈunu	u n u
+360733	393399	transnewguineaorg-humene	hume1246		narrow	1267	NARROW		kilivai	k i l i v a i
+360748	393414	transnewguineaorg-uare	uare1241		narrow	1267	NARROW		ˈfaʔiɣa	f a ʔ i ɣ a
+362008	394674	transnewguineaorg-humene	hume1246		navel	1838	NAVEL		eˈmore	e m o r e
+362040	394706	transnewguineaorg-mulaha	mula1254		navel	1838	NAVEL		iboara	i b o a r a
+362064	394730	transnewguineaorg-uare	uare1241		navel	1838	NAVEL		iˈmuri	i m u r i
+363601	396267	transnewguineaorg-uare	uare1241		near	1942	NEAR		futuɣa	f u t u ɣ a
+365698	398365	transnewguineaorg-uare	uare1241		neck	1333	NECK		'ʔunu	ʔ u n u
+367552	400219	transnewguineaorg-humene	hume1246		netbag	293	NETBAG		aˈfane	a f a n e
+367585	400252	transnewguineaorg-mulaha	mula1254		netbag	293	NETBAG		nea	n e a
+367624	400291	transnewguineaorg-uare	uare1241		netbag	293	NETBAG		aˈfare	a f a r e
+369399	402066	transnewguineaorg-humene	hume1246		new	1231	NEW		ˈeriʔai	e r i ʔ a i
+369585	402252	transnewguineaorg-uare	uare1241		new	1231	NEW		ɩ'j₊ik·ʌ	ɪ j i k + ʌ
+369586	402253	transnewguineaorg-uare	uare1241		new	1231	NEW		iʒiga	i ʒ i g a
+372355	405022	transnewguineaorg-humene	hume1246		night	1233	NIGHT		ˈu	u
+372441	405108	transnewguineaorg-mulaha	mula1254		night	1233	NIGHT		wabua	w a b u a
+372530	405197	transnewguineaorg-uare	uare1241		night	1233	NIGHT		o'hɛṟe	o h ɛ r e
+372531	405198	transnewguineaorg-uare	uare1241		night	1233	NIGHT		oˈhere	o h e r e
+374826	407493	transnewguineaorg-humene	hume1246		no	1269	NO		mene-	m e n e
+374934	407601	transnewguineaorg-uare	uare1241		no	1269	NO		'mɛne	m ɛ n e
+374935	407602	transnewguineaorg-uare	uare1241		no	1269	NO		mene-	m e n e
+378214	410881	transnewguineaorg-humene	hume1246		nose	1221	NOSE		ʒaˈʒore	ʒ a ʒ o r e
+378300	410967	transnewguineaorg-mulaha	mula1254		nose	1221	NOSE		ine	i n e
+378408	411075	transnewguineaorg-uare	uare1241		nose	1221	NOSE		ĵ_̟ʌ'ĵ_̟ɔre	j ʌ j ɔ r e
+378409	411076	transnewguineaorg-uare	uare1241		nose	1221	NOSE		ʒaˈʒore	ʒ a ʒ o r e
+379536	412203	transnewguineaorg-uare	uare1241		not	1240	NOT		'mɛne	m ɛ n e
+386922	419589	transnewguineaorg-humene	hume1246		oldman	406	OLD MAN		ˈvaʒe_ˈvaoʔai	v a ʒ e + v a o ʔ a i
+386953	419620	transnewguineaorg-uare	uare1241		oldman	406	OLD MAN		ɔ'hɔj₊e_'bɔṟo	ɔ h ɔ j e + b ɔ r o
+386954	419621	transnewguineaorg-uare	uare1241		oldman	406	OLD MAN		ˈvaʒe_ʒuˈ_hiʔa	v a ʒ e + ʒ u + h i ʔ a
+387258	419925	transnewguineaorg-humene	hume1246		oldperson	725	OLD PERSON		teʔovai	t e ʔ o v a i
+387349	420016	transnewguineaorg-mulaha	mula1254		oldperson	725	OLD PERSON		negata	n e g a t a
+387452	420119	transnewguineaorg-uare	uare1241		oldperson	725	OLD PERSON		'voᵘɣʌ	v o w ɣ ʌ
+387453	420120	transnewguineaorg-uare	uare1241		oldperson	725	OLD PERSON		maˈhiga	m a h i g a
+388323	420990	transnewguineaorg-humene	hume1246		oldwoman	907	OLD WOMAN		noʔˈone_ˈvaoʔai	n o ʔ o n e + v a o ʔ a i
+388351	421018	transnewguineaorg-uare	uare1241		oldwoman	907	OLD WOMAN		'lɔɣae_'bɔṟo	l ɔ ɣ a e + b ɔ r o
+388352	421019	transnewguineaorg-uare	uare1241		oldwoman	907	OLD WOMAN		roˈɣai_ʒuˈhiʔa	r o ɣ a i + ʒ u h i ʔ a
+390487	423154	transnewguineaorg-humene	hume1246		one	1493	ONE		ˈtebo	t e b o
+390570	423237	transnewguineaorg-mulaha	mula1254		one	1493	ONE		pebogi	p e b o g i
+390669	423336	transnewguineaorg-uare	uare1241		one	1493	ONE		'tʰipʌ	tʰ i p ʌ
+390670	423337	transnewguineaorg-uare	uare1241		one	1493	ONE		ˈtiba	t i b a
+396536	429203	transnewguineaorg-humene	hume1246		painful	1129	PAINFUL		eva-	e v a
+396541	429208	transnewguineaorg-uare	uare1241		painful	1129	PAINFUL		gigi-	g i g i
+398105	430772	transnewguineaorg-humene	hume1246		palmofhand	1183	PALM OF HAND		_raˈfava	r a f a v a
+398111	430778	transnewguineaorg-uare	uare1241		palmofhand	1183	PALM OF HAND		_raˈfaɣa	r a f a ɣ a
+401155	433822	transnewguineaorg-humene	hume1246		path	2252	PATH		ˈebi	e b i
+401189	433856	transnewguineaorg-mulaha	mula1254		path	2252	PATH		tubaˈa	t u b a a
+401230	433897	transnewguineaorg-uare	uare1241		path	2252	PATH		ˈibi	i b i
+402399	435066	transnewguineaorg-uare	uare1241		pathorroad	2457	PATH OR ROAD		'ibɩ	i b ɪ
+406838	439505	transnewguineaorg-uare	uare1241		person	683	PERSON		'vaj₊e	v a j e
+409685	442352	transnewguineaorg-humene	hume1246		pig	1337	PIG		_aˈva	a v a
+409751	442418	transnewguineaorg-mulaha	mula1254		pig	1337	PIG		batuvi	b a t u v i
+409826	442493	transnewguineaorg-uare	uare1241		pig	1337	PIG		'ap·ʌ	a p + ʌ
+409827	442494	transnewguineaorg-uare	uare1241		pig	1337	PIG		_aˈvaɣa	a v a ɣ a
+415375	448042	transnewguineaorg-uare	uare1241		pond	2035	POND		tuʔura	t u ʔ u r a
+417971	450638	transnewguineaorg-humene	hume1246		pour	1487	POUR		e-vE-	e + v e
+418016	450683	transnewguineaorg-uare	uare1241		pour	1487	POUR		beu-ʔE-	b e u + ʔ e
+421513	454180	transnewguineaorg-humene	hume1246		pull	1455	PULL		ate-tE-	a t e + t e
+421585	454252	transnewguineaorg-uare	uare1241		pull	1455	PULL		hutu-bE-	h u t u + b e
+423200	455868	transnewguineaorg-humene	hume1246		push	1452	PUSH		doʔi-nE-	d o ʔ i + n e
+423265	455933	transnewguineaorg-uare	uare1241		push	1452	PUSH		duʔi-nE-	d u ʔ i + n e
+426102	458770	transnewguineaorg-humene	hume1246		rainingorrain	2108	RAINING OR RAIN		ˈʒeme	ʒ e m e
+426168	458836	transnewguineaorg-mulaha	mula1254		rainingorrain	2108	RAINING OR RAIN		iabara	i a b a r a
+426247	458915	transnewguineaorg-uare	uare1241		rainingorrain	2108	RAINING OR RAIN		ɩ'ruk·u	ɪ r u k + u
+426248	458916	transnewguineaorg-uare	uare1241		rainingorrain	2108	RAINING OR RAIN		iˈrugu	i r u g u
+430064	462732	transnewguineaorg-uare	uare1241		rat	1490	RAT		u'numɩ	u n u m ɪ
+433096	465764	transnewguineaorg-humene	hume1246		red	156	RED		heiˈvai	h e i v a i
+433166	465834	transnewguineaorg-mulaha	mula1254		red	156	RED		boareki	b o a r e k i
+433247	465915	transnewguineaorg-uare	uare1241		red	156	RED		kⁿʌ'naɣʌ	kⁿ ʌ n a ɣ ʌ
+433248	465916	transnewguineaorg-uare	uare1241		red	156	RED		kaˈnaɣa	k a n a ɣ a
+438882	471550	transnewguineaorg-humene	hume1246		righthand	2183	RIGHT HAND		eˈbune	e b u n e
+438889	471557	transnewguineaorg-mulaha	mula1254		righthand	2183	RIGHT HAND		itini	i t i n i
+438897	471565	transnewguineaorg-uare	uare1241		righthand	2183	RIGHT HAND		eˈdaʔe	e d a ʔ e
+441220	473888	transnewguineaorg-humene	hume1246		river	666	RIVER		voˈbune	v o b u n e
+441249	473917	transnewguineaorg-uare	uare1241		river	666	RIVER		ˈvou	v o u
+445148	477817	transnewguineaorg-humene	hume1246		root	670	ROOT		_viniʔai	v i n i ʔ a i
+445296	477965	transnewguineaorg-uare	uare1241		root	670	ROOT		ir_'tʰaik·a	i r + tʰ a i k + a
+445297	477966	transnewguineaorg-uare	uare1241		root	670	ROOT		_ˈtaiɣa	t a i ɣ a
+446862	479531	transnewguineaorg-humene	hume1246		rope	1218	ROPE		niˈhare	n i h a r e
+446922	479591	transnewguineaorg-uare	uare1241		rope	1218	ROPE		niˈhara	n i h a r a
+448225	480894	transnewguineaorg-uare	uare1241		rotten	1728	ROTTEN		luˈhuɣa	l u h u ɣ a
+449289	481958	transnewguineaorg-uare	uare1241		round	1395	ROUND		u'sug·a	u s u g + a
+451301	483970	transnewguineaorg-humene	hume1246		run	1519	RUN		turahE-	t u r a h e
+451377	484046	transnewguineaorg-uare	uare1241		run	1519	RUN		feṟane_ʔohe	f e r a n e + ʔ o h e
+451378	484047	transnewguineaorg-uare	uare1241		run	1519	RUN		turehE-	t u r e h e
+454339	487008	transnewguineaorg-humene	hume1246		salt	1274	SALT		voni	v o n i
+454368	487037	transnewguineaorg-mulaha	mula1254		salt	1274	SALT		oana	o a n a
+454405	487074	transnewguineaorg-uare	uare1241		salt	1274	SALT		ˈɣuni	ɣ u n i
+455212	487881	transnewguineaorg-humene	hume1246		samesexoldersibling	3037	SAME-SEX OLDER SIBLING		neʔˈohe_	n e ʔ o h e
+455213	487882	transnewguineaorg-humene	hume1246		samesexoldersibling	3037	SAME-SEX OLDER SIBLING		nikepa	n i k e p a
+455240	487909	transnewguineaorg-mulaha	mula1254		samesexoldersibling	3037	SAME-SEX OLDER SIBLING		nikepa	n i k e p a
+455272	487941	transnewguineaorg-uare	uare1241		samesexoldersibling	3037	SAME-SEX OLDER SIBLING		ˈneko	n e k o
+455363	488032	transnewguineaorg-humene	hume1246		samesexyoungersibling	3038	SAME-SEX YOUNGER SIBLING		neʔˈohe	n e ʔ o h e
+455388	488057	transnewguineaorg-mulaha	mula1254		samesexyoungersibling	3038	SAME-SEX YOUNGER SIBLING		nakepa	n a k e p a
+455389	488058	transnewguineaorg-mulaha	mula1254		samesexyoungersibling	3038	SAME-SEX YOUNGER SIBLING		nakeba	n a k e b a
+455416	488085	transnewguineaorg-uare	uare1241		samesexyoungersibling	3038	SAME-SEX YOUNGER SIBLING		ˈeʒe	e ʒ e
+457143	489812	transnewguineaorg-humene	hume1246		sand	671	SAND		niˈkuri	n i k u r i
+457295	489964	transnewguineaorg-uare	uare1241		sand	671	SAND		nɩ'ʔuṟɩ	n ɪ ʔ u r ɪ
+457296	489965	transnewguineaorg-uare	uare1241		sand	671	SAND		niʔˈuri	n i ʔ u r i
+459903	492572	transnewguineaorg-uare	uare1241		say	1458	SAY		ṟa_ʔohe	r a + ʔ o h e
+462250	494919	transnewguineaorg-humene	hume1246		scratch	1436	SCRATCH		vuʔi-tE-	v u ʔ i + t e
+462314	494983	transnewguineaorg-uare	uare1241		scratch	1436	SCRATCH		ɣuki-sE-	ɣ u k i + s e
+465903	498573	transnewguineaorg-humene	hume1246		see	1409	SEE		vodo-nE-	v o d o + n e
+465991	498661	transnewguineaorg-mulaha	mula1254		see	1409	SEE		babunari	b a b u n a r i
+466079	498749	transnewguineaorg-uare	uare1241		see	1409	SEE		hɔ'ṟɔne_ʔohe	h ɔ r ɔ n e + ʔ o h e
+466080	498750	transnewguineaorg-uare	uare1241		see	1409	SEE		horo-nE-	h o r o + n e
+467255	499925	transnewguineaorg-uare	uare1241		seed	714	SEED		e'j₊ɔne	e j ɔ n e
+470861	503532	transnewguineaorg-uare	uare1241		seven	1704	SEVEN		fuʔo_tu_aheu	f u ʔ o + t u + a h e u
+472415	505086	transnewguineaorg-humene	hume1246		sew	1457	SEW		bibi-ʒE-	b i b i + ʒ e
+472456	505127	transnewguineaorg-uare	uare1241		sew	1457	SEW		bibi-#E-	b i b i
+475378	508049	transnewguineaorg-humene	hume1246		sharp	1396	SHARP		musuʔai	m u s u ʔ a i
+475448	508119	transnewguineaorg-uare	uare1241		sharp	1396	SHARP		eʔaɣa	e ʔ a ɣ a
+480059	512731	transnewguineaorg-humene	hume1246		shoot	1172	SHOOT		pedi-nE-	p e d i + n e
+480161	512833	transnewguineaorg-uare	uare1241		shoot	1172	SHOOT		fuʔu-nE-	f u ʔ u + n e
+483399	516071	transnewguineaorg-humene	hume1246		shoulder	1482	SHOULDER		heˈra	h e r a
+483464	516136	transnewguineaorg-mulaha	mula1254		shoulder	1482	SHOULDER		pavai	p a v a i
+483527	516199	transnewguineaorg-uare	uare1241		shoulder	1482	SHOULDER		'heṟə	h e r ə
+483528	516200	transnewguineaorg-uare	uare1241		shoulder	1482	SHOULDER		ˈhera	h e r a
+484175	516847	transnewguineaorg-humene	hume1246		shovel	1901	SHOVEL		emi	e m i
+484224	516896	transnewguineaorg-uare	uare1241		shovel	1901	SHOVEL		imi	i m i
+486305	518977	transnewguineaorg-humene	hume1246		sick	1847	SICK		eme_oʔifa	e m e + o ʔ i f a
+486334	519006	transnewguineaorg-mulaha	mula1254		sick	1847	SICK		ɣoanine	ɣ o a n i n e
+486364	519036	transnewguineaorg-uare	uare1241		sick	1847	SICK		euˈɣiheha	e u ɣ i h e h a
+488655	521327	transnewguineaorg-humene	hume1246		sing	1261	SING		ane_la-hE-	a n e + l a + h e
+488664	521336	transnewguineaorg-mulaha	mula1254		sing	1261	SING		waurana	w a u r a n a
+488672	521344	transnewguineaorg-uare	uare1241		sing	1261	SING		bada_he-ʔE-	b a d a + h e + ʔ e
+489460	522132	transnewguineaorg-uare	uare1241		sister	1263	SISTER		'ɛj₊e	ɛ j e
+491120	523792	transnewguineaorg-humene	hume1246		sit	1416	SIT		radE-	r a d e
+491201	523873	transnewguineaorg-mulaha	mula1254		sit	1416	SIT		tauna	t a u n a
+491293	523965	transnewguineaorg-uare	uare1241		sit	1416	SIT		e'hɔṟe_ʔohe	e h ɔ r e + ʔ o h e
+491294	523966	transnewguineaorg-uare	uare1241		sit	1416	SIT		ehorE-	e h o r e
+493021	525693	transnewguineaorg-humene	hume1246		six	1703	SIX		eˈvole_ˈnae_ˈtebo	e v o l e + n a e + t e b o
+493049	525721	transnewguineaorg-uare	uare1241		six	1703	SIX		ˈfuʔotuˈtiba	f u ʔ o t u t i b a
+495453	528125	transnewguineaorg-humene	hume1246		skin	763	SKIN		aˈhere_kokava	a h e r e + k o k a v a
+495545	528217	transnewguineaorg-mulaha	mula1254		skin	763	SKIN		iaina	i a i n a
+495649	528321	transnewguineaorg-uare	uare1241		skin	763	SKIN		a'hiṟʟ	a h i r ʟ
+495650	528322	transnewguineaorg-uare	uare1241		skin	763	SKIN		aˈhiri	a h i r i
+497602	530274	transnewguineaorg-humene	hume1246		sky	1732	SKY		aˈdure	a d u r e
+497678	530350	transnewguineaorg-uare	uare1241		sky	1732	SKY		aˈdure	a d u r e
+500080	532753	transnewguineaorg-humene	hume1246		sleep	1585	SLEEP		baʒE-	b a ʒ e
+500161	532834	transnewguineaorg-mulaha	mula1254		sleep	1585	SLEEP		hunatu	h u n a t u
+500241	532914	transnewguineaorg-uare	uare1241		sleep	1585	SLEEP		b·a'j₊ɛ_ʔohe	b + a j ɛ + ʔ o h e
+500242	532915	transnewguineaorg-uare	uare1241		sleep	1585	SLEEP		baʒE-	b a ʒ e
+503699	536373	transnewguineaorg-humene	hume1246		small	1246	SMALL		ˈkirivai	k i r i v a i
+503786	536460	transnewguineaorg-mulaha	mula1254		small	1246	SMALL		kirigi	k i r i g i
+503880	536554	transnewguineaorg-uare	uare1241		small	1246	SMALL		kɔ'mɛʔə	k ɔ m ɛ ʔ ə
+503881	536555	transnewguineaorg-uare	uare1241		small	1246	SMALL		koˈbeɣa	k o b e ɣ a
+505774	538448	transnewguineaorg-humene	hume1246		smellperceive	1586	SMELL (PERCEIVE)		hoho-ʔE-	h o h o + ʔ e
+505801	538475	transnewguineaorg-mulaha	mula1254		smellperceive	1586	SMELL (PERCEIVE)		bona_utatu	b o n a + u t a t u
+505829	538503	transnewguineaorg-uare	uare1241		smellperceive	1586	SMELL (PERCEIVE)		hoho-gE-	h o h o + g e
+507969	540645	transnewguineaorg-humene	hume1246		smokeexhaust	778	SMOKE (EXHAUST)		vehi	v e h i
+508049	540725	transnewguineaorg-mulaha	mula1254		smokeexhaust	778	SMOKE (EXHAUST)		utubuna	u t u b u n a
+508145	540821	transnewguineaorg-uare	uare1241		smokeexhaust	778	SMOKE (EXHAUST)		'ɣiçɩ	ɣ i ç ɪ
+508146	540822	transnewguineaorg-uare	uare1241		smokeexhaust	778	SMOKE (EXHAUST)		ˈɣisi	ɣ i s i
+510649	543325	transnewguineaorg-humene	hume1246		snake	730	SNAKE		maita	m a i t a
+510712	543388	transnewguineaorg-mulaha	mula1254		snake	730	SNAKE		baita	b a i t a
+510793	543469	transnewguineaorg-uare	uare1241		snake	730	SNAKE		'mɔhe	m ɔ h e
+510794	543470	transnewguineaorg-uare	uare1241		snake	730	SNAKE		ɣoˈʒone	ɣ o ʒ o n e
+513862	546538	transnewguineaorg-humene	hume1246		solefoot	2666	SOLE (FOOT)		_raˈfava	r a f a v a
+513867	546543	transnewguineaorg-uare	uare1241		solefoot	2666	SOLE (FOOT)		_raˈfaɣa	r a f a ɣ a
+516073	548749	transnewguineaorg-humene	hume1246		sore	51	SORE		eˈdere	e d e r e
+516119	548795	transnewguineaorg-uare	uare1241		sore	51	SORE		iˈdiri	i d i r i
+519971	552647	transnewguineaorg-humene	hume1246		speak	1623	SPEAK		aʔoda-hE-	a ʔ o d a + h e
+520010	552686	transnewguineaorg-uare	uare1241		speak	1623	SPEAK		ɣoe-rE-	ɣ o e + r e
+520887	553563	transnewguineaorg-uare	uare1241		spear	945	SPEAR		'aurɩ	a u r ɪ
+530825	563501	transnewguineaorg-uare	uare1241		stand	1442	STAND		ed·au_ʔohe	e d + a u + ʔ o h e
+530826	563502	transnewguineaorg-uare	uare1241		stand	1442	STAND		edanE-	e d a n e
+531342	564018	transnewguineaorg-uare	uare1241		standup	570	STAND UP		dudu-nE-	d u d u + n e
+532961	565637	transnewguineaorg-humene	hume1246		star	1430	STAR		boˈʒova	b o ʒ o v a
+533047	565723	transnewguineaorg-mulaha	mula1254		star	1430	STAR		itu	i t u
+533160	565836	transnewguineaorg-uare	uare1241		star	1430	STAR		bu'juvə	b u j u v ə
+533161	565837	transnewguineaorg-uare	uare1241		star	1430	STAR		boˈʒoɣa	b o ʒ o ɣ a
+539683	572360	transnewguineaorg-humene	hume1246		stone	857	STONE		ˈhadi	h a d i
+539767	572444	transnewguineaorg-mulaha	mula1254		stone	857	STONE		aroba	a r o b a
+539870	572547	transnewguineaorg-uare	uare1241		stone	857	STONE		'had·ɩ	h a d + ɪ
+539871	572548	transnewguineaorg-uare	uare1241		stone	857	STONE		ˈhadi	h a d i
+541758	574435	transnewguineaorg-humene	hume1246		straight	1404	STRAIGHT		ˈdodovahoʔˈone	d o d o v a h o ʔ o n e
+541837	574514	transnewguineaorg-uare	uare1241		straight	1404	STRAIGHT		duˈduɣa	d u d u ɣ a
+547217	579894	transnewguineaorg-humene	hume1246		sugarcane	146	SUGAR CANE		ˈere	e r e
+547313	579990	transnewguineaorg-uare	uare1241		sugarcane	146	SUGAR CANE		'hak·ɩ	h a k + ɪ
+547314	579991	transnewguineaorg-uare	uare1241		sugarcane	146	SUGAR CANE		ˈema	e m a
+549086	581763	transnewguineaorg-humene	hume1246		sun	1343	SUN		maˈda	m a d a
+549170	581847	transnewguineaorg-mulaha	mula1254		sun	1343	SUN		bauwa	b a u w a
+549275	581952	transnewguineaorg-uare	uare1241		sun	1343	SUN		'madʌ	m a d ʌ
+549276	581953	transnewguineaorg-uare	uare1241		sun	1343	SUN		maˈda	m a d a
+550488	583165	transnewguineaorg-humene	hume1246		swallow	897	SWALLOW		onu-vE-	o n u + v e
+550531	583208	transnewguineaorg-uare	uare1241		swallow	897	SWALLOW		u-nE-	u + n e
+551834	584511	transnewguineaorg-humene	hume1246		sweatsubstance	125	SWEAT (SUBSTANCE)		oˈmoro	o m o r o
+553258	585935	transnewguineaorg-humene	hume1246		sweetpotato	159	SWEET POTATO		ˈkauaˈmose	k a u a m o s e
+553350	586027	transnewguineaorg-uare	uare1241		sweetpotato	159	SWEET POTATO		'kʰaemʌ	kʰ a e m ʌ
+553351	586028	transnewguineaorg-uare	uare1241		sweetpotato	159	SWEET POTATO		avaˈmohe	a v a m o h e
+554145	586822	transnewguineaorg-humene	hume1246		swell	1573	SWELL		vave-	v a v e
+554209	586886	transnewguineaorg-uare	uare1241		swell	1573	SWELL		menɛ-	m e n ɛ
+555749	588426	transnewguineaorg-uare	uare1241		swim	1439	SWIM		ɣemab·e_ʔohe	ɣ e m a b + e + ʔ o h e
+555750	588427	transnewguineaorg-uare	uare1241		swim	1439	SWIM		ɣemabE-	ɣ e m a b e
+558389	591066	transnewguineaorg-humene	hume1246		tail	1220	TAIL		_ˈiʔuva	i ʔ u v a
+558593	591270	transnewguineaorg-uare	uare1241		tail	1220	TAIL		ə'vaɣə	ə v a ɣ ə
+558594	591271	transnewguineaorg-uare	uare1241		tail	1220	TAIL		_ˈikuɣa	i k u ɣ a
+559622	592299	transnewguineaorg-humene	hume1246		take	1749	TAKE		ma-#E-	m a
+559670	592347	transnewguineaorg-uare	uare1241		take	1749	TAKE		ma-#E-	m a
+560740	593417	transnewguineaorg-humene	hume1246		taro	351	TARO		ˈmude	m u d e
+560810	593487	transnewguineaorg-mulaha	mula1254		taro	351	TARO		buwaˈa	b u w a a
+560885	593562	transnewguineaorg-uare	uare1241		taro	351	TARO		ˈmude	m u d e
+565192	597869	transnewguineaorg-humene	hume1246		ten	1515	TEN		evole_nae_nae_ne_ruruna	e v o l e + n a e + n a e + n e + r u r u n a
+565236	597913	transnewguineaorg-uare	uare1241		ten	1515	TEN		g·ʌu_bʌ'nanʌ	g + ʌ u + b ʌ n a n ʌ
+565237	597914	transnewguineaorg-uare	uare1241		ten	1515	TEN		gauˈbanana	g a u b a n a n a
+568476	601155	transnewguineaorg-humene	hume1246		theeobliquecaseofyou	2304	THEE (OBLIQUE CASE OF YOU)		ˈʒa	ʒ a
+568477	601156	transnewguineaorg-humene	hume1246		theeobliquecaseofyou	2304	THEE (OBLIQUE CASE OF YOU)		ˈva	v a
+568537	601216	transnewguineaorg-mulaha	mula1254		theeobliquecaseofyou	2304	THEE (OBLIQUE CASE OF YOU)		uwa	u w a
+568538	601217	transnewguineaorg-mulaha	mula1254		theeobliquecaseofyou	2304	THEE (OBLIQUE CASE OF YOU)		wai	w a i
+568613	601292	transnewguineaorg-uare	uare1241		theeobliquecaseofyou	2304	THEE (OBLIQUE CASE OF YOU)		ˈɣa	ɣ a
+571089	603768	transnewguineaorg-humene	hume1246		they	817	THEY		ʒe	ʒ e
+571131	603810	transnewguineaorg-mulaha	mula1254		they	817	THEY		wau	w a u
+571175	603854	transnewguineaorg-uare	uare1241		they	817	THEY		'j₊ɛɣe	j ɛ ɣ e
+571176	603855	transnewguineaorg-uare	uare1241		they	817	THEY		ˈʒe	ʒ e
+572485	605164	transnewguineaorg-humene	hume1246		thick	1244	THICK		ˈbaruvai	b a r u v a i
+572506	605185	transnewguineaorg-uare	uare1241		thick	1244	THICK		ˈbaruɣa	b a r u ɣ a
+572820	605499	transnewguineaorg-humene	hume1246		thigh	800	THIGH		maˈnine	m a n i n e
+572840	605519	transnewguineaorg-mulaha	mula1254		thigh	800	THIGH		kurina	k u r i n a
+572866	605545	transnewguineaorg-uare	uare1241		thigh	800	THIGH		maˈnine	m a n i n e
+576273	608952	transnewguineaorg-humene	hume1246		thinslim	1400	THIN (SLIM)		ˈʒeviʔai	ʒ e v i ʔ a i
+576292	608971	transnewguineaorg-uare	uare1241		thinslim	1400	THIN (SLIM)		ˈʒiɣia	ʒ i ɣ i a
+580952	613635	transnewguineaorg-uare	uare1241		thou	1215	THOU		'ɣae	ɣ a e
+583882	616567	transnewguineaorg-humene	hume1246		three	492	THREE		iˈvidu	i v i d u
+583955	616640	transnewguineaorg-uare	uare1241		three	492	THREE		u'ɣid·u	u ɣ i d + u
+583956	616641	transnewguineaorg-uare	uare1241		three	492	THREE		uˈɣidu	u ɣ i d u
+585018	617703	transnewguineaorg-humene	hume1246		throat	1346	THROAT		oˈno_	o n o
+585049	617734	transnewguineaorg-mulaha	mula1254		throat	1346	THROAT		godoi_	g o d o i
+585073	617758	transnewguineaorg-uare	uare1241		throat	1346	THROAT		ogoˈrabi_	o g o r a b i
+586476	619161	transnewguineaorg-humene	hume1246		throw	1456	THROW		fi-nE-	f i + n e
+586553	619238	transnewguineaorg-uare	uare1241		throw	1456	THROW		feu-nE	f e u + n e
+587024	619709	transnewguineaorg-uare	uare1241		thumb	1781	THUMB		e'voɾe_'uɣʌ	e v o ɾ e + u ɣ ʌ
+589752	622439	transnewguineaorg-humene	hume1246		tie	1917	TIE		otu-vE-	o t u + v e
+589861	622548	transnewguineaorg-uare	uare1241		tie	1917	TIE		au-tE-	a u + t e
+592206	624893	transnewguineaorg-uare	uare1241		tobacco	974	TOBACCO		'ɣuçi	ɣ u ç i
+594991	627678	transnewguineaorg-uare	uare1241		tomorrow	1329	TOMORROW		o'hɔɣɔre	o h ɔ ɣ ɔ r e
+597125	629812	transnewguineaorg-humene	hume1246		tongue	1205	TONGUE		maˈnane	m a n a n e
+597205	629892	transnewguineaorg-mulaha	mula1254		tongue	1205	TONGUE		bebura	b e b u r a
+597305	629992	transnewguineaorg-uare	uare1241		tongue	1205	TONGUE		mə'jane	m ə j a n e
+597306	629993	transnewguineaorg-uare	uare1241		tongue	1205	TONGUE		maˈʒane	m a ʒ a n e
+599300	631987	transnewguineaorg-humene	hume1246		tooth	1380	TOOTH		voˈnone	v o n o n e
+599383	632070	transnewguineaorg-mulaha	mula1254		tooth	1380	TOOTH		waina_	w a i n a
+599484	632171	transnewguineaorg-uare	uare1241		tooth	1380	TOOTH		ɣɔ'nɔne	ɣ ɔ n ɔ n e
+599485	632172	transnewguineaorg-uare	uare1241		tooth	1380	TOOTH		ɣoˈnone	ɣ o n o n e
+603717	636404	transnewguineaorg-humene	hume1246		tree	906	TREE		iˈbado	i b a d o
+603883	636570	transnewguineaorg-uare	uare1241		tree	906	TREE		'ire	i r e
+603884	636571	transnewguineaorg-uare	uare1241		tree	906	TREE		ire	i r e
+604197	636884	transnewguineaorg-humene	hume1246		treestump	241	TREE STUMP		_tomiʔai	t o m i ʔ a i
+604237	636924	transnewguineaorg-uare	uare1241		treestump	241	TREE STUMP		_maˈʒaɣa	m a ʒ a ɣ a
+605488	638175	transnewguineaorg-humene	hume1246		trunkoftree	776	TRUNK OF TREE		_rabovai	r a b o v a i
+605509	638196	transnewguineaorg-mulaha	mula1254		trunkoftree	776	TRUNK OF TREE		rigi	r i g i
+605536	638223	transnewguineaorg-uare	uare1241		trunkoftree	776	TRUNK OF TREE		_gaˈbaɣa	g a b a ɣ a
+607333	640020	transnewguineaorg-uare	uare1241		turn	1588	TURN		mirute-ʔE-	m i r u t e + ʔ e
+612361	645048	transnewguineaorg-uare	uare1241		two	1498	TWO		a'heᵘ	a h e w
+613754	646441	transnewguineaorg-humene	hume1246		understand	1536	UNDERSTAND		ohi-nE-	o h i + n e
+613758	646445	transnewguineaorg-uare	uare1241		understand	1536	UNDERSTAND		iki-hE-	i k i + h e
+621593	654281	transnewguineaorg-humene	hume1246		vomit	1278	VOMIT		mibuhe-dE-	m i b u h e + d e
+621632	654320	transnewguineaorg-mulaha	mula1254		vomit	1278	VOMIT		bidina	b i d i n a
+621672	654360	transnewguineaorg-uare	uare1241		vomit	1278	VOMIT		mibuhe-tE-	m i b u h e + t e
+625390	678051	transnewguineaorg-humene	hume1246		where	1237	WHERE		nau	n a u
+625432	678093	transnewguineaorg-mulaha	mula1254		where	1237	WHERE		natu	n a t u
+625481	678142	transnewguineaorg-uare	uare1241		where	1237	WHERE		noᵘʔe	n o w ʔ e
+625482	678143	transnewguineaorg-uare	uare1241		where	1237	WHERE		nou_	n o u
+628058	680719	transnewguineaorg-humene	hume1246		white	1335	WHITE		iˈrovai	i r o v a i
+628126	680787	transnewguineaorg-mulaha	mula1254		white	1335	WHITE		kuia	k u i a
+628206	680867	transnewguineaorg-uare	uare1241		white	1335	WHITE		u'ṟuɣʌ	u r u ɣ ʌ
+628207	680868	transnewguineaorg-uare	uare1241		white	1335	WHITE		uˈruɣa	u r u ɣ a
+630277	683030	transnewguineaorg-humene	hume1246		who	1235	WHO		enu	e n u
+630339	683092	transnewguineaorg-mulaha	mula1254		who	1235	WHO		ano	a n o
+630410	683163	transnewguineaorg-uare	uare1241		who	1235	WHO		'inɩu	i n ɪ u
+630411	683164	transnewguineaorg-uare	uare1241		who	1235	WHO		ˈiniu	i n i u
+631873	684627	transnewguineaorg-humene	hume1246		wide	1243	WIDE		raˈfavai	r a f a v a i
+631890	684644	transnewguineaorg-uare	uare1241		wide	1243	WIDE		raˈfaɣa	r a f a ɣ a
+633255	686009	transnewguineaorg-humene	hume1246		wife	1199	WIFE		uˈnune	u n u n e
+633275	686029	transnewguineaorg-mulaha	mula1254		wife	1199	WIFE		veki	v e k i
+633296	686050	transnewguineaorg-uare	uare1241		wife	1199	WIFE		loˈɣai	l o ɣ a i
+635662	688416	transnewguineaorg-humene	hume1246		wind	960	WIND		reˈvova	r e v o v a
+635733	688487	transnewguineaorg-mulaha	mula1254		wind	960	WIND		oraburiki	o r a b u r i k i
+635819	688573	transnewguineaorg-uare	uare1241		wind	960	WIND		j₊ʌ'vaṟʌ	j ʌ v a r ʌ
+635820	688574	transnewguineaorg-uare	uare1241		wind	960	WIND		ʒaˈvara	ʒ a v a r a
+637759	690513	transnewguineaorg-humene	hume1246		wing	1257	WING		ˈode	o d e
+637907	690661	transnewguineaorg-uare	uare1241		wing	1257	WING		'iʃə	i ʃ ə
+637908	690662	transnewguineaorg-uare	uare1241		wing	1257	WING		ˈudi	u d i
+640930	693685	transnewguineaorg-humene	hume1246		woman	962	WOMAN		noʔˈone	n o ʔ o n e
+641010	693765	transnewguineaorg-mulaha	mula1254		woman	962	WOMAN		tina	t i n a
+641098	693853	transnewguineaorg-uare	uare1241		woman	962	WOMAN		'lɔɣae	l ɔ ɣ a e
+641099	693854	transnewguineaorg-uare	uare1241		woman	962	WOMAN		noˈɣone	n o ɣ o n e
+641100	693855	transnewguineaorg-uare	uare1241		woman	962	WOMAN		roˈɣai	r o ɣ a i
+649374	703214	transnewguineaorg-uare	uare1241		yes	1268	YES		'ɔʔɛ	ɔ ʔ ɛ
+650544	704384	transnewguineaorg-uare	uare1241		yesterday	1174	YESTERDAY		o'hɔɣṟe	o h ɔ ɣ r e
+655150	708990	transnewguineaorg-humene	hume1246		youobliquecaseofyou	2312	YOU (OBLIQUE CASE OF YOU)		ʒa_	ʒ a
+655211	709051	transnewguineaorg-mulaha	mula1254		youobliquecaseofyou	2312	YOU (OBLIQUE CASE OF YOU)		wabihu	w a b i h u
+655289	709129	transnewguineaorg-uare	uare1241		youobliquecaseofyou	2312	YOU (OBLIQUE CASE OF YOU)		j₊ae	j a e
+655290	709130	transnewguineaorg-uare	uare1241		youobliquecaseofyou	2312	YOU (OBLIQUE CASE OF YOU)		ˈʒa	ʒ a

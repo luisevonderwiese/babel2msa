@@ -1,0 +1,2358 @@
+	ID	DOCULECT	GLOTTOCODE	ISO_CODE	CONCEPT	CONCEPTICON_ID	CONCEPTICON_GLOSS	FORM	IPA	TOKENS
+9105	25256	northeuralex-azj	nort2697		bark	1204	BARK		ɡɑbɯɡ	g ɑ b ɯ g
+9106	25257	northeuralex-bak	bash1264		bark	1204	BARK		qabɯq	q a b ɯ q
+9116	25267	northeuralex-chv	chuv1255		bark	1204	BARK		ˈχujər	χ u j ə r
+9150	25301	northeuralex-kaz	kaza1248		bark	1204	BARK		qɑbəq	q ɑ b ə q
+9202	25353	northeuralex-tat	tata1255		bark	1204	BARK		qɑbɤk	q ɑ b ɤ k
+9204	25355	northeuralex-tur	nucl1301		bark	1204	BARK		kabuk	k a b u k
+9207	25358	northeuralex-uzn	nort2690		bark	1204	BARK		qɒbiq	q ɒ b i q
+9250	25401	savelyevturkic-CrimeanTatar	crim1257		bark	1204	BARK		qabuq	q a b u q
+9251	25402	savelyevturkic-Dolgan	dolg1241		bark	1204	BARK		katɯrɯk	k a t ɯ r ɯ k
+9252	25403	savelyevturkic-Gagauz	gaga1249		bark	1204	BARK		kabuk	k a b u k
+9253	25404	savelyevturkic-KaraKalpak	kara1467		bark	1204	BARK		qabɯq	q a b ɯ q
+9254	25405	savelyevturkic-KarachayBalkar	kara1465		bark	1204	BARK		qabuq	q a b u q
+9255	25406	savelyevturkic-Karaim	kara1464		bark	1204	BARK		kabuk	k a b u k
+9256	25407	savelyevturkic-Khakas	khak1248		bark	1204	BARK		χaχpas	χ a χ p a s
+9257	25408	savelyevturkic-Khalaj	turk1303		bark	1204	BARK		qa:as	q aː a s
+9258	25409	savelyevturkic-Kirghiz	kirg1245		bark	1204	BARK		qabɯq	q a b ɯ q
+9259	25410	savelyevturkic-Kumyk	kumy1244		bark	1204	BARK		qabuq	q a b u q
+9260	25411	savelyevturkic-Nogai	noga1249		bark	1204	BARK		qabɯq	q a b ɯ q
+9261	25412	savelyevturkic-NorthAltai	nort2686		bark	1204	BARK		qaɣaʃ	q a ɣ a ʃ
+9262	25413	savelyevturkic-Salar	sala1264		bark	1204	BARK		koχ	k o χ
+9263	25414	savelyevturkic-SarygYugur	west2402		bark	1204	BARK		qazdɯq	q a z d ɯ q
+9264	25415	savelyevturkic-Shor	shor1247		bark	1204	BARK		qaqpaʃ	q a q p a ʃ
+9265	25416	savelyevturkic-SouthAltai	sout2694		bark	1204	BARK		tɕobra	tɕ o b r a
+9266	25417	savelyevturkic-Turkmen	turk1304		bark	1204	BARK		ɢabɯq	ɢ a b ɯ q
+9267	25418	savelyevturkic-Tuvan	tuvi1240		bark	1204	BARK		ʨøvyre:	tɕ ø v y r eː
+9268	25419	savelyevturkic-Uighur	uigh1240		bark	1204	BARK		qovzaq	q o v z a q
+9503	25654	wold-Sakha	yaku1245		bark	1204	BARK		χatɨrɨk	χ a t ɨ r ɨ k
+23120	39271	northeuralex-azj	nort2697		belly	1251	BELLY		ɡɑrɯn	g ɑ r ɯ n
+23121	39272	northeuralex-bak	bash1264		belly	1251	BELLY		qorhaq	q o r h a q
+23161	39312	northeuralex-kaz	kaza1248		belly	1251	BELLY		qɑɾən	q ɑ ɾ ə n
+23210	39361	northeuralex-tat	tata1255		belly	1251	BELLY		qorsak	q o r s a k
+23212	39363	northeuralex-tur	nucl1301		belly	1251	BELLY		kaɾɯn	k a ɾ ɯ n
+23215	39366	northeuralex-uzn	nort2690		belly	1251	BELLY		qɒrin	q ɒ r i n
+23462	39613	savelyevturkic-CrimeanTatar	crim1257		belly	1251	BELLY		qursaq	q u r s a q
+23463	39614	savelyevturkic-CrimeanTatar	crim1257		belly	1251	BELLY		qarɯn	q a r ɯ n
+23464	39615	savelyevturkic-Dolgan	dolg1241		belly	1251	BELLY		is	i s
+23465	39616	savelyevturkic-Gagauz	gaga1249		belly	1251	BELLY		karnɯ	k a r n ɯ
+23466	39617	savelyevturkic-KaraKalpak	kara1467		belly	1251	BELLY		? iʃ	i ʃ
+23467	39618	savelyevturkic-KaraKalpak	kara1467		belly	1251	BELLY		? qursaq	q u r s a q
+23468	39619	savelyevturkic-KaraKalpak	kara1467		belly	1251	BELLY		? qarɯn	q a r ɯ n
+23469	39620	savelyevturkic-KarachayBalkar	kara1465		belly	1251	BELLY		qarɯn	q a r ɯ n
+23470	39621	savelyevturkic-Karaim	kara1464		belly	1251	BELLY		kursaχ	k u r s a χ
+23471	39622	savelyevturkic-Karaim	kara1464		belly	1251	BELLY		karɯn	k a r ɯ n
+23472	39623	savelyevturkic-Khakas	khak1248		belly	1251	BELLY		ɘstɘ	ĭ s t ĭ
+23473	39624	savelyevturkic-Khakas	khak1248		belly	1251	BELLY		χarɯn	χ a r ɯ n
+23474	39625	savelyevturkic-Khalaj	turk1303		belly	1251	BELLY		qa(:)rɯn	q aː r ɯ n
+23475	39626	savelyevturkic-Kirghiz	kirg1245		belly	1251	BELLY		iʨ	i tɕ
+23476	39627	savelyevturkic-Kirghiz	kirg1245		belly	1251	BELLY		qursaq	q u r s a q
+23477	39628	savelyevturkic-Kumyk	kumy1244		belly	1251	BELLY		qursaq	q u r s a q
+23478	39629	savelyevturkic-Nogai	noga1249		belly	1251	BELLY		iʃ	i ʃ
+23479	39630	savelyevturkic-Nogai	noga1249		belly	1251	BELLY		qursaq	q u r s a q
+23480	39631	savelyevturkic-NorthAltai	nort2686		belly	1251	BELLY		itɕ	i tɕ
+23481	39632	savelyevturkic-NorthAltai	nort2686		belly	1251	BELLY		qarɯn	q a r ɯ n
+23482	39633	savelyevturkic-Salar	sala1264		belly	1251	BELLY		χusaχ	χ u s a χ
+23483	39634	savelyevturkic-SarygYugur	west2402		belly	1251	BELLY		iʨige, iʨike, iʨiki, iʨikɯ	i tɕ i g e
+23484	39635	savelyevturkic-SarygYugur	west2402		belly	1251	BELLY		qarɯn	q a r ɯ n
+23485	39636	savelyevturkic-Shor	shor1247		belly	1251	BELLY		qursaq	q u r s a q
+23486	39637	savelyevturkic-Shor	shor1247		belly	1251	BELLY		qarnɯ	q a r n ɯ
+23487	39638	savelyevturkic-SouthAltai	sout2694		belly	1251	BELLY		iʨ	i tɕ
+23488	39639	savelyevturkic-Turkmen	turk1304		belly	1251	BELLY		iʨ	i tɕ
+23489	39640	savelyevturkic-Turkmen	turk1304		belly	1251	BELLY		ɢarɯn	ɢ a r ɯ n
+23490	39641	savelyevturkic-Tuvan	tuvi1240		belly	1251	BELLY		iʒin	i ʒ i n
+23491	39642	savelyevturkic-Tuvan	tuvi1240		belly	1251	BELLY		χɯrɯn	χ ɯ r ɯ n
+23492	39643	savelyevturkic-Uighur	uigh1240		belly	1251	BELLY		iʨ	i tɕ
+23493	39644	savelyevturkic-Uighur	uigh1240		belly	1251	BELLY		qosaq	q o s a q
+23494	39645	savelyevturkic-Uighur	uigh1240		belly	1251	BELLY		qerin	q e r i n
+23885	40036	wold-Sakha	yaku1245		belly	1251	BELLY		is	i s
+28270	44421	northeuralex-azj	nort2697		big	1202	BIG		bœjyk	b œ j y k
+28271	44422	northeuralex-bak	bash1264		big	1202	BIG		ður	ð u r
+28282	44433	northeuralex-chv	chuv1255		big	1202	BIG		ˈpɯsək	p ɯ s ə k
+28312	44463	northeuralex-kaz	kaza1248		big	1202	BIG		ɑlpɑmsɑdɑj	ɑ l p ɑ m s ɑ d ɑ j
+28361	44512	northeuralex-tat	tata1255		big	1202	BIG		zur	z u r
+28363	44514	northeuralex-tur	nucl1301		big	1202	BIG		byjyk	b y j y k
+28366	44517	northeuralex-uzn	nort2690		big	1202	BIG		bujuk	b u j u k
+28648	44799	savelyevturkic-CrimeanTatar	crim1257		big	1202	BIG		byjyk	b y j y k
+28649	44800	savelyevturkic-Dolgan	dolg1241		big	1202	BIG		ulakan	u l a k a n
+28650	44801	savelyevturkic-Gagauz	gaga1249		big	1202	BIG		byyk	b y y k
+28651	44802	savelyevturkic-KaraKalpak	kara1467		big	1202	BIG		ylken	y l k e n
+28652	44803	savelyevturkic-KarachayBalkar	kara1465		big	1202	BIG		ullu	u l l u
+28653	44804	savelyevturkic-Karaim	kara1464		big	1202	BIG		ullu	u l l u
+28654	44805	savelyevturkic-Karaim	kara1464		big	1202	BIG		? bijik, byjyk	b i j i k
+28655	44806	savelyevturkic-Khakas	khak1248		big	1202	BIG		uluɣ	u l u ɣ
+28656	44807	savelyevturkic-Khalaj	turk1303		big	1202	BIG		bydyk, bidik	b y d y k
+28657	44808	savelyevturkic-Kumyk	kumy1244		big	1202	BIG		ullu	u l l u
+28658	44809	savelyevturkic-Nogai	noga1249		big	1202	BIG		yjken	y j k e n
+28659	44810	savelyevturkic-Salar	sala1264		big	1202	BIG		? ullɯ	u l l ɯ
+28660	44811	savelyevturkic-SarygYugur	west2402		big	1202	BIG		pezik	p e z i k
+28661	44812	savelyevturkic-Shor	shor1247		big	1202	BIG		uluɣ	u l u ɣ
+28662	44813	savelyevturkic-Turkmen	turk1304		big	1202	BIG		ulɯ	u l ɯ
+28663	44814	savelyevturkic-Tuvan	tuvi1240		big	1202	BIG		uluɣ	u l u ɣ
+29098	45249	wold-Sakha	yaku1245		big	1202	BIG		ulaχan	u l a χ a n
+29099	45250	wold-Sakha	yaku1245		big	1202	BIG		bödöŋ	b œ d œ ŋ
+30607	46758	northeuralex-azj	nort2697		bird	937	BIRD		ɡuʃ	g u ʃ
+30608	46759	northeuralex-bak	bash1264		bird	937	BIRD		qoʃ	q o ʃ
+30621	46772	northeuralex-chv	chuv1255		bird	937	BIRD		ˈkajək	k a j ə k
+30622	46773	northeuralex-chv	chuv1255		bird	937	BIRD		ʋɘˈɕ̬ɛn_ˈkajək	ʋ ɘ ɕ ɛ n + k a j ə k
+30652	46803	northeuralex-kaz	kaza1248		bird	937	BIRD		qʉs	q ʉ s
+30702	46853	northeuralex-tat	tata1255		bird	937	BIRD		qoʃ	q o ʃ
+30704	46855	northeuralex-tur	nucl1301		bird	937	BIRD		kuʃ	k u ʃ
+30707	46858	northeuralex-uzn	nort2690		bird	937	BIRD		quʃ	q u ʃ
+30957	47108	savelyevturkic-CrimeanTatar	crim1257		bird	937	BIRD		quʃ	q u ʃ
+30958	47109	savelyevturkic-Dolgan	dolg1241		bird	937	BIRD		køtør	k ø t ø r
+30959	47110	savelyevturkic-Gagauz	gaga1249		bird	937	BIRD		kuʃ	k u ʃ
+30960	47111	savelyevturkic-KaraKalpak	kara1467		bird	937	BIRD		qus	q u s
+30961	47112	savelyevturkic-KarachayBalkar	kara1465		bird	937	BIRD		qanatlɯ	q a n a t l ɯ
+30962	47113	savelyevturkic-Karaim	kara1464		bird	937	BIRD		kuʃ, kus	k u ʃ
+30963	47114	savelyevturkic-Khakas	khak1248		bird	937	BIRD		χus	χ u s
+30964	47115	savelyevturkic-Kirghiz	kirg1245		bird	937	BIRD		qanattu:	q a n a t t uː
+30965	47116	savelyevturkic-Kumyk	kumy1244		bird	937	BIRD		quʃ	q u ʃ
+30966	47117	savelyevturkic-Nogai	noga1249		bird	937	BIRD		qus	q u s
+30967	47118	savelyevturkic-NorthAltai	nort2686		bird	937	BIRD		quʃ	q u ʃ
+30968	47119	savelyevturkic-Salar	sala1264		bird	937	BIRD		quʃ	q u ʃ
+30969	47120	savelyevturkic-SarygYugur	west2402		bird	937	BIRD		qus, qos	q u s
+30970	47121	savelyevturkic-Shor	shor1247		bird	937	BIRD		quʃ	q u ʃ
+30971	47122	savelyevturkic-SouthAltai	sout2694		bird	937	BIRD		quʃ	q u ʃ
+30972	47123	savelyevturkic-Turkmen	turk1304		bird	937	BIRD		ɢuʃ	ɢ u ʃ
+30973	47124	savelyevturkic-Tuvan	tuvi1240		bird	937	BIRD		quʃ	q u ʃ
+30974	47125	savelyevturkic-Uighur	uigh1240		bird	937	BIRD		quʃ	q u ʃ
+31458	47609	wold-Sakha	yaku1245		bird	937	BIRD		kötör	k œ t œ r
+31459	47610	wold-Sakha	yaku1245		bird	937	BIRD		čɨːčaːχ	tʃ ɨː tʃ aː χ
+32944	49095	northeuralex-azj	nort2697		bite	1403	BITE		dɪʃlæmæk	d ɪ ʃ l æ m æ k
+32945	49096	northeuralex-bak	bash1264		bite	1403	BITE		teʃlæy	t e ʃ l æ y
+32956	49107	northeuralex-chv	chuv1255		bite	1403	BITE		ɕɯrt̬	ɕ ɯ r t
+32957	49108	northeuralex-chv	chuv1255		bite	1403	BITE		χɯp	χ ɯ p
+32991	49142	northeuralex-kaz	kaza1248		bite	1403	BITE		qɑbu	q ɑ b u
+32992	49143	northeuralex-kaz	kaza1248		bite	1403	BITE		təsteu	t ə s t e u
+32993	49144	northeuralex-kaz	kaza1248		bite	1403	BITE		qɑuəp_ɑlu	q ɑ u ə p + ɑ l u
+33039	49190	northeuralex-tat	tata1255		bite	1403	BITE		teʃlæʉ	t e ʃ l æ ʉ
+33041	49192	northeuralex-tur	nucl1301		bite	1403	BITE		ɯsɯɾmak	ɯ s ɯ ɾ m a k
+33044	49195	northeuralex-uzn	nort2690		bite	1403	BITE		tiʃlamɒq	t i ʃ l a m ɒ q
+33120	49271	savelyevturkic-CrimeanTatar	crim1257		bite	1403	BITE		tiʃle	t i ʃ l e
+33121	49272	savelyevturkic-Dolgan	dolg1241		bite	1403	BITE		ɯtɯr	ɯ t ɯ r
+33122	49273	savelyevturkic-Gagauz	gaga1249		bite	1403	BITE		dala	d a l a
+33123	49274	savelyevturkic-KaraKalpak	kara1467		bite	1403	BITE		tisle	t i s l e
+33124	49275	savelyevturkic-KarachayBalkar	kara1465		bite	1403	BITE		qap	q a p
+33125	49276	savelyevturkic-Karaim	kara1464		bite	1403	BITE		tiʃle, ʨiʃle etc.	t i ʃ l e
+33126	49277	savelyevturkic-Khakas	khak1248		bite	1403	BITE		ɯzɯr	ɯ z ɯ r
+33127	49278	savelyevturkic-Kirghiz	kirg1245		bite	1403	BITE		tiʃtø	t i ʃ t ø
+33128	49279	savelyevturkic-Kumyk	kumy1244		bite	1403	BITE		χap	χ a p
+33129	49280	savelyevturkic-Nogai	noga1249		bite	1403	BITE		tisle	t i s l e
+33130	49281	savelyevturkic-Nogai	noga1249		bite	1403	BITE		qap	q a p
+33131	49282	savelyevturkic-NorthAltai	nort2686		bite	1403	BITE		tiʃte	t i ʃ t e
+33132	49283	savelyevturkic-Salar	sala1264		bite	1403	BITE		ʨɯ:ʃle	tɕ ɯː ʃ l e
+33133	49284	savelyevturkic-SarygYugur	west2402		bite	1403	BITE		teste, tiste, tɯste	t e s t e
+33134	49285	savelyevturkic-Shor	shor1247		bite	1403	BITE		ɯzɯr	ɯ z ɯ r
+33135	49286	savelyevturkic-SouthAltai	sout2694		bite	1403	BITE		tiʃte	t i ʃ t e
+33136	49287	savelyevturkic-Turkmen	turk1304		bite	1403	BITE		diʃle	d i ʃ l e
+33137	49288	savelyevturkic-Tuvan	tuvi1240		bite	1403	BITE		ɯzɯr	ɯ z ɯ r
+33138	49289	savelyevturkic-Uighur	uigh1240		bite	1403	BITE		ʨiʃlɛ	tɕ i ʃ l æ
+33555	49706	wold-Sakha	yaku1245		bite	1403	BITE		ɨtɨr	ɨ t ɨ r
+35570	51721	northeuralex-azj	nort2697		black	163	BLACK		ɡɑrɑ	g ɑ r ɑ
+35571	51722	northeuralex-bak	bash1264		black	163	BLACK		qara	q a r a
+35581	51732	northeuralex-chv	chuv1255		black	163	BLACK		χuˈra	χ u r a
+35611	51762	northeuralex-kaz	kaza1248		black	163	BLACK		qɑɾɑ	q ɑ ɾ ɑ
+35655	51806	northeuralex-tat	tata1255		black	163	BLACK		qɑra	q ɑ r a
+35657	51808	northeuralex-tur	nucl1301		black	163	BLACK		kaɾa	k a ɾ a
+35658	51809	northeuralex-tur	nucl1301		black	163	BLACK		sijah	s i j a h
+35661	51812	northeuralex-uzn	nort2690		black	163	BLACK		qɒra	q ɒ r a
+35924	52075	savelyevturkic-CrimeanTatar	crim1257		black	163	BLACK		qara	q a r a
+35925	52076	savelyevturkic-Dolgan	dolg1241		black	163	BLACK		kara	k a r a
+35926	52077	savelyevturkic-Gagauz	gaga1249		black	163	BLACK		kara	k a r a
+35927	52078	savelyevturkic-KaraKalpak	kara1467		black	163	BLACK		qara	q a r a
+35928	52079	savelyevturkic-KarachayBalkar	kara1465		black	163	BLACK		qara	q a r a
+35929	52080	savelyevturkic-Karaim	kara1464		black	163	BLACK		kara, qara	k a r a
+35930	52081	savelyevturkic-Khakas	khak1248		black	163	BLACK		χara	χ a r a
+35931	52082	savelyevturkic-Khalaj	turk1303		black	163	BLACK		qara	q a r a
+35932	52083	savelyevturkic-Kirghiz	kirg1245		black	163	BLACK		qara	q a r a
+35933	52084	savelyevturkic-Kumyk	kumy1244		black	163	BLACK		qara	q a r a
+35934	52085	savelyevturkic-Nogai	noga1249		black	163	BLACK		qara	q a r a
+35935	52086	savelyevturkic-NorthAltai	nort2686		black	163	BLACK		qara	q a r a
+35936	52087	savelyevturkic-Salar	sala1264		black	163	BLACK		qara	q a r a
+35937	52088	savelyevturkic-SarygYugur	west2402		black	163	BLACK		qara	q a r a
+35938	52089	savelyevturkic-Shor	shor1247		black	163	BLACK		qara	q a r a
+35939	52090	savelyevturkic-SouthAltai	sout2694		black	163	BLACK		qara	q a r a
+35940	52091	savelyevturkic-Turkmen	turk1304		black	163	BLACK		ɢara	ɢ a r a
+35941	52092	savelyevturkic-Tuvan	tuvi1240		black	163	BLACK		qara	q a r a
+35942	52093	savelyevturkic-Uighur	uigh1240		black	163	BLACK		qara	q a r a
+36070	52221	wold-Sakha	yaku1245		black	163	BLACK		χara	χ a r a
+38984	55135	northeuralex-azj	nort2697		blood	946	BLOOD		ɡɑn	g ɑ n
+38985	55136	northeuralex-bak	bash1264		blood	946	BLOOD		qan	q a n
+38996	55147	northeuralex-chv	chuv1255		blood	946	BLOOD		jun	j u n
+39025	55176	northeuralex-kaz	kaza1248		blood	946	BLOOD		qɑn	q ɑ n
+39071	55222	northeuralex-tat	tata1255		blood	946	BLOOD		qɑn	q ɑ n
+39073	55224	northeuralex-tur	nucl1301		blood	946	BLOOD		kan	k a n
+39076	55227	northeuralex-uzn	nort2690		blood	946	BLOOD		qɒn	q ɒ n
+39331	55482	savelyevturkic-CrimeanTatar	crim1257		blood	946	BLOOD		qan	q a n
+39332	55483	savelyevturkic-Dolgan	dolg1241		blood	946	BLOOD		kaan	k aː n
+39333	55484	savelyevturkic-Gagauz	gaga1249		blood	946	BLOOD		kan	k a n
+39334	55485	savelyevturkic-KaraKalpak	kara1467		blood	946	BLOOD		qan	q a n
+39335	55486	savelyevturkic-KarachayBalkar	kara1465		blood	946	BLOOD		qan	q a n
+39336	55487	savelyevturkic-Karaim	kara1464		blood	946	BLOOD		kan, (k) qan	k a n
+39337	55488	savelyevturkic-Khakas	khak1248		blood	946	BLOOD		χan	χ a n
+39338	55489	savelyevturkic-Khalaj	turk1303		blood	946	BLOOD		qa:n	q aː n
+39339	55490	savelyevturkic-Kirghiz	kirg1245		blood	946	BLOOD		qan	q a n
+39340	55491	savelyevturkic-Kumyk	kumy1244		blood	946	BLOOD		qan	q a n
+39341	55492	savelyevturkic-Nogai	noga1249		blood	946	BLOOD		qan	q a n
+39342	55493	savelyevturkic-NorthAltai	nort2686		blood	946	BLOOD		qan	q a n
+39343	55494	savelyevturkic-Salar	sala1264		blood	946	BLOOD		qan	q a n
+39344	55495	savelyevturkic-SarygYugur	west2402		blood	946	BLOOD		qan	q a n
+39345	55496	savelyevturkic-Shor	shor1247		blood	946	BLOOD		qan	q a n
+39346	55497	savelyevturkic-SouthAltai	sout2694		blood	946	BLOOD		qan	q a n
+39347	55498	savelyevturkic-Turkmen	turk1304		blood	946	BLOOD		ɢa:n	ɢ aː n
+39348	55499	savelyevturkic-Tuvan	tuvi1240		blood	946	BLOOD		χan	χ a n
+39349	55500	savelyevturkic-Uighur	uigh1240		blood	946	BLOOD		qan	q a n
+39809	55960	wold-Sakha	yaku1245		blood	946	BLOOD		χaːn	χ aː n
+47207	63358	northeuralex-azj	nort2697		bone	1394	BONE		symyk	s y m y k
+47208	63359	northeuralex-bak	bash1264		bone	1394	BONE		hojæk	h o j æ k
+47218	63369	northeuralex-chv	chuv1255		bone	1394	BONE		ˈʂəmə	ʂ ə m ə
+47246	63397	northeuralex-kaz	kaza1248		bone	1394	BONE		ʒələk	ʒ ə l ə k
+47293	63444	northeuralex-tat	tata1255		bone	1394	BONE		sœjak	s œ j a k
+47295	63446	northeuralex-tur	nucl1301		bone	1394	BONE		kɛmik	k ɛ m i k
+47298	63449	northeuralex-uzn	nort2690		bone	1394	BONE		sujak	s u j a k
+47556	63707	savelyevturkic-CrimeanTatar	crim1257		bone	1394	BONE		kemik	k e m i k
+47557	63708	savelyevturkic-Dolgan	dolg1241		bone	1394	BONE		oŋuok	o ŋ u o k
+47558	63709	savelyevturkic-Gagauz	gaga1249		bone	1394	BONE		kemik	k e m i k
+47559	63710	savelyevturkic-KaraKalpak	kara1467		bone	1394	BONE		syjek	s y j e k
+47560	63711	savelyevturkic-KarachayBalkar	kara1465		bone	1394	BONE		syjek	s y j e k
+47561	63712	savelyevturkic-Karaim	kara1464		bone	1394	BONE		sivek, (k) syjek	s i v e k
+47562	63713	savelyevturkic-Khakas	khak1248		bone	1394	BONE		søøk	s øː k
+47563	63714	savelyevturkic-Kirghiz	kirg1245		bone	1394	BONE		søøk	s øː k
+47564	63715	savelyevturkic-Kumyk	kumy1244		bone	1394	BONE		syjek	s y j e k
+47565	63716	savelyevturkic-Nogai	noga1249		bone	1394	BONE		syjek	s y j e k
+47566	63717	savelyevturkic-NorthAltai	nort2686		bone	1394	BONE		søːk	s øː k
+47567	63718	savelyevturkic-Salar	sala1264		bone	1394	BONE		seniχ	s e n i χ
+47568	63719	savelyevturkic-SarygYugur	west2402		bone	1394	BONE		sɯmɯq	s ɯ m ɯ q
+47569	63720	savelyevturkic-Shor	shor1247		bone	1394	BONE		sø:k	s øː k
+47570	63721	savelyevturkic-SouthAltai	sout2694		bone	1394	BONE		søøk	s øː k
+47571	63722	savelyevturkic-Turkmen	turk1304		bone	1394	BONE		syŋk	s y ŋ k
+47572	63723	savelyevturkic-Tuvan	tuvi1240		bone	1394	BONE		søøk	s øː k
+47573	63724	savelyevturkic-Uighur	uigh1240		bone	1394	BONE		søŋɛk, syŋɛk, syjɛk	s ø ŋ ɛ k
+48064	64215	wold-Sakha	yaku1245		bone	1394	BONE		uŋuoχ	u ŋ u o χ
+57267	73420	northeuralex-azj	nort2697		breast	1402	BREAST		mæmæ	m æ m æ
+57268	73421	northeuralex-bak	bash1264		breast	1402	BREAST		kykræk	k y k r æ k
+57280	73433	northeuralex-chv	chuv1255		breast	1402	BREAST		ˈkəkər	k ə k ə r
+57309	73462	northeuralex-kaz	kaza1248		breast	1402	BREAST		oməɾɑu	o m ə ɾ ɑ u
+57353	73506	northeuralex-tat	tata1255		breast	1402	BREAST		tʉʃ	t ʉ ʃ
+57355	73508	northeuralex-tur	nucl1301		breast	1402	BREAST		kojun	k o j u n
+57358	73511	northeuralex-uzn	nort2690		breast	1402	BREAST		æmt͡ʃak	æ m tʃ a k
+57616	73769	savelyevturkic-CrimeanTatar	crim1257		breast	1402	BREAST		kokys	k o k y s
+57617	73770	savelyevturkic-Dolgan	dolg1241		breast	1402	BREAST		tyøs	t y ø s
+57618	73771	savelyevturkic-Gagauz	gaga1249		breast	1402	BREAST		gy:s	g yː s
+57619	73772	savelyevturkic-KaraKalpak	kara1467		breast	1402	BREAST		køkyrek	k ø k y r e k
+57620	73773	savelyevturkic-KaraKalpak	kara1467		breast	1402	BREAST		? tøs	t ø s
+57621	73774	savelyevturkic-KaraKalpak	kara1467		breast	1402	BREAST		gewde	g e w d e
+57622	73775	savelyevturkic-KarachayBalkar	kara1465		breast	1402	BREAST		køkyrek	k ø k y r e k
+57623	73776	savelyevturkic-KarachayBalkar	kara1465		breast	1402	BREAST		tøʃ	t ø ʃ
+57624	73777	savelyevturkic-Karaim	kara1464		breast	1402	BREAST		køkrɛk, kekrek, køkrek; køkis, køχis (k)	k ø k r ɛ k
+57625	73778	savelyevturkic-Karaim	kara1464		breast	1402	BREAST		tøʃ, tes	t ø ʃ
+57626	73779	savelyevturkic-Khakas	khak1248		breast	1402	BREAST		køgɘs, køksɘ	k ø g ĭ s
+57627	73780	savelyevturkic-Khalaj	turk1303		breast	1402	BREAST		ki:es, køjs	k iː e s
+57628	73781	savelyevturkic-Kirghiz	kirg1245		breast	1402	BREAST		køkyrøk	k ø k y r ø k
+57629	73782	savelyevturkic-Kumyk	kumy1244		breast	1402	BREAST		? køkyrek	k ø k y r e k
+57630	73783	savelyevturkic-Kumyk	kumy1244		breast	1402	BREAST		tøʃ	t ø ʃ
+57631	73784	savelyevturkic-Nogai	noga1249		breast	1402	BREAST		køkirek	k ø k i r e k
+57632	73785	savelyevturkic-NorthAltai	nort2686		breast	1402	BREAST		køgys	k ø g y s
+57633	73786	savelyevturkic-NorthAltai	nort2686		breast	1402	BREAST		tøʃ	t ø ʃ
+57634	73787	savelyevturkic-Salar	sala1264		breast	1402	BREAST		kyprɛχ	k y p r æ χ
+57635	73788	savelyevturkic-SarygYugur	west2402		breast	1402	BREAST		gøs	g ø s
+57636	73789	savelyevturkic-SarygYugur	west2402		breast	1402	BREAST		tos, tus, tys	t o s
+57637	73790	savelyevturkic-Shor	shor1247		breast	1402	BREAST		tøʃ	t ø ʃ
+57638	73791	savelyevturkic-SouthAltai	sout2694		breast	1402	BREAST		køgys	k ø g y s
+57639	73792	savelyevturkic-SouthAltai	sout2694		breast	1402	BREAST		tøʃ	t ø ʃ
+57640	73793	savelyevturkic-Turkmen	turk1304		breast	1402	BREAST		kykrek	k y k r e k
+57641	73794	savelyevturkic-Turkmen	turk1304		breast	1402	BREAST		døʃ	d ø ʃ
+57642	73795	savelyevturkic-Uighur	uigh1240		breast	1402	BREAST		køkrɛk, køksɛ	k ø k r ɛ k
+58112	74265	wold-Sakha	yaku1245		breast	1402	BREAST		emiːy	e m iː y
+64767	80920	savelyevturkic-CrimeanTatar	crim1257		burn	2102	BURN		jan	j a n
+64768	80921	savelyevturkic-Dolgan	dolg1241		burn	2102	BURN		gyde:rij	g y d eː r i j
+64769	80922	savelyevturkic-Gagauz	gaga1249		burn	2102	BURN		jan	j a n
+64770	80923	savelyevturkic-KaraKalpak	kara1467		burn	2102	BURN		ʒan	ʒ a n
+64771	80924	savelyevturkic-KarachayBalkar	kara1465		burn	2102	BURN		kyj	k y j
+64772	80925	savelyevturkic-Karaim	kara1464		burn	2102	BURN		jan	j a n
+64773	80926	savelyevturkic-Karaim	kara1464		burn	2102	BURN		kyv, kiv, tiv	k y v
+64774	80927	savelyevturkic-Khakas	khak1248		burn	2102	BURN		køj	k ø j
+64775	80928	savelyevturkic-Khalaj	turk1303		burn	2102	BURN		kien	k i e n
+64776	80929	savelyevturkic-Kirghiz	kirg1245		burn	2102	BURN		? ʥan	dʑ a n
+64777	80930	savelyevturkic-Kirghiz	kirg1245		burn	2102	BURN		kyj	k y j
+64778	80931	savelyevturkic-Kumyk	kumy1244		burn	2102	BURN		jan	j a n
+64779	80932	savelyevturkic-Nogai	noga1249		burn	2102	BURN		jan	j a n
+64780	80933	savelyevturkic-NorthAltai	nort2686		burn	2102	BURN		kyj	k y j
+64781	80934	savelyevturkic-Salar	sala1264		burn	2102	BURN		køj	k ø j
+64782	80935	savelyevturkic-SarygYugur	west2402		burn	2102	BURN		kyj	k y j
+64783	80936	savelyevturkic-Shor	shor1247		burn	2102	BURN		køj	k ø j
+64784	80937	savelyevturkic-SouthAltai	sout2694		burn	2102	BURN		kyj	k y j
+64785	80938	savelyevturkic-Turkmen	turk1304		burn	2102	BURN		jan	j a n
+64786	80939	savelyevturkic-Tuvan	tuvi1240		burn	2102	BURN		qɯp	q ɯ p
+64787	80940	savelyevturkic-Uighur	uigh1240		burn	2102	BURN		? jan	j a n
+64788	80941	savelyevturkic-Uighur	uigh1240		burn	2102	BURN		? køj	k ø j
+87031	103184	northeuralex-azj	nort2697		claw	72	CLAW		pænd͡ʒæ	p æ n dʒ æ
+87032	103185	northeuralex-bak	bash1264		claw	72	CLAW		tɯrnaq	t ɯ r n a q
+87044	103197	northeuralex-chv	chuv1255		claw	72	CLAW		t͡ɕɘrˈnɛ	tɕ ɘ r n ɛ
+87075	103228	northeuralex-kaz	kaza1248		claw	72	CLAW		təɾnɑq	t ə ɾ n ɑ q
+87123	103276	northeuralex-tat	tata1255		claw	72	CLAW		tɤrnak	t ɤ r n a k
+87125	103278	northeuralex-tur	nucl1301		claw	72	CLAW		pɛnt͡ʃɛ	p ɛ n tʃ ɛ
+87128	103281	northeuralex-uzn	nort2690		claw	72	CLAW		tirnɒq	t i r n ɒ q
+87137	103290	savelyevturkic-CrimeanTatar	crim1257		claw	72	CLAW		tɯrnaq	t ɯ r n a q
+87138	103291	savelyevturkic-Dolgan	dolg1241		claw	72	CLAW		tarbak	t a r b a k
+87139	103292	savelyevturkic-Gagauz	gaga1249		claw	72	CLAW		tɯrnak	t ɯ r n a k
+87140	103293	savelyevturkic-KaraKalpak	kara1467		claw	72	CLAW		tɯrnaq	t ɯ r n a q
+87141	103294	savelyevturkic-KarachayBalkar	kara1465		claw	72	CLAW		tɯrnaq	t ɯ r n a q
+87142	103295	savelyevturkic-Karaim	kara1464		claw	72	CLAW		tɯrnaχ	t ɯ r n a χ
+87143	103296	savelyevturkic-Khakas	khak1248		claw	72	CLAW		tɯrɣaχ	t ɯ r ɣ a χ
+87144	103297	savelyevturkic-Kirghiz	kirg1245		claw	72	CLAW		tɯrmaq	t ɯ r m a q
+87145	103298	savelyevturkic-Kumyk	kumy1244		claw	72	CLAW		tɯrnaq	t ɯ r n a q
+87146	103299	savelyevturkic-Nogai	noga1249		claw	72	CLAW		tɯrnaq	t ɯ r n a q
+87147	103300	savelyevturkic-NorthAltai	nort2686		claw	72	CLAW		tɯrvaq	t ɯ r v a q
+87148	103301	savelyevturkic-Shor	shor1247		claw	72	CLAW		tɯrɣaq	t ɯ r ɣ a q
+87149	103302	savelyevturkic-SouthAltai	sout2694		claw	72	CLAW		tɯrmaχ	t ɯ r m a χ
+87150	103303	savelyevturkic-Turkmen	turk1304		claw	72	CLAW		dɯrnaq	d ɯ r n a q
+87151	103304	savelyevturkic-Tuvan	tuvi1240		claw	72	CLAW		dɯrbaq	d ɯ r b a q
+87152	103305	savelyevturkic-Uighur	uigh1240		claw	72	CLAW		tirmaq	t i r m a q
+87360	103513	wold-Sakha	yaku1245		claw	72	CLAW		tɨŋɨraχ	t ɨ ŋ ɨ r a χ
+91887	108040	northeuralex-azj	nort2697		cloud	1489	CLOUD		bulud	b u l u d
+91888	108041	northeuralex-bak	bash1264		cloud	1489	CLOUD		bolot	b o l o t
+91899	108052	northeuralex-chv	chuv1255		cloud	1489	CLOUD		ˈpɘlɘt	p ɘ l ɘ t
+91931	108084	northeuralex-kaz	kaza1248		cloud	1489	CLOUD		bʉlt	b ʉ l t
+91979	108132	northeuralex-tat	tata1255		cloud	1489	CLOUD		bolɤt	b o l ɤ t
+91981	108134	northeuralex-tur	nucl1301		cloud	1489	CLOUD		bulut	b u l u t
+91984	108137	northeuralex-uzn	nort2690		cloud	1489	CLOUD		bulut	b u l u t
+92058	108211	savelyevturkic-CrimeanTatar	crim1257		cloud	1489	CLOUD		bulut	b u l u t
+92059	108212	savelyevturkic-Dolgan	dolg1241		cloud	1489	CLOUD		bɯlɯt	b ɯ l ɯ t
+92060	108213	savelyevturkic-Gagauz	gaga1249		cloud	1489	CLOUD		bulut	b u l u t
+92061	108214	savelyevturkic-KaraKalpak	kara1467		cloud	1489	CLOUD		bult	b u l t
+92062	108215	savelyevturkic-KarachayBalkar	kara1465		cloud	1489	CLOUD		bulut	b u l u t
+92063	108216	savelyevturkic-Karaim	kara1464		cloud	1489	CLOUD		bulut	b u l u t
+92064	108217	savelyevturkic-Khakas	khak1248		cloud	1489	CLOUD		pulut	p u l u t
+92065	108218	savelyevturkic-Khalaj	turk1303		cloud	1489	CLOUD		bulɯt	b u l ɯ t
+92066	108219	savelyevturkic-Kirghiz	kirg1245		cloud	1489	CLOUD		bulut	b u l u t
+92067	108220	savelyevturkic-Kumyk	kumy1244		cloud	1489	CLOUD		bulut	b u l u t
+92068	108221	savelyevturkic-Nogai	noga1249		cloud	1489	CLOUD		bulɯt	b u l ɯ t
+92069	108222	savelyevturkic-NorthAltai	nort2686		cloud	1489	CLOUD		pulut	p u l u t
+92070	108223	savelyevturkic-Salar	sala1264		cloud	1489	CLOUD		pulut, polut	p u l u t
+92071	108224	savelyevturkic-SarygYugur	west2402		cloud	1489	CLOUD		pulut, pɯlɯt	p u l u t
+92072	108225	savelyevturkic-Shor	shor1247		cloud	1489	CLOUD		pulut	p u l u t
+92073	108226	savelyevturkic-SouthAltai	sout2694		cloud	1489	CLOUD		bulut	b u l u t
+92074	108227	savelyevturkic-Turkmen	turk1304		cloud	1489	CLOUD		bulut	b u l u t
+92075	108228	savelyevturkic-Tuvan	tuvi1240		cloud	1489	CLOUD		bulut	b u l u t
+92076	108229	savelyevturkic-Uighur	uigh1240		cloud	1489	CLOUD		bulut	b u l u t
+92528	108681	wold-Sakha	yaku1245		cloud	1489	CLOUD		bɨlɨt	b ɨ l ɨ t
+95480	111633	northeuralex-azj	nort2697		cold	1287	COLD		sɔjuɡ	s ɔ j u g
+95481	111634	northeuralex-bak	bash1264		cold	1287	COLD		hɯuɯq	h ɯ u ɯ q
+95491	111644	northeuralex-chv	chuv1255		cold	1287	COLD		ˈsiʋɘ	s i ʋ ɘ
+95521	111674	northeuralex-kaz	kaza1248		cold	1287	COLD		ɑjɑzdə	ɑ j ɑ z d ə
+95570	111723	northeuralex-tat	tata1255		cold	1287	COLD		suɤk	s u ɤ k
+95571	111724	northeuralex-tat	tata1255		cold	1287	COLD		salqɤn	s a l q ɤ n
+95573	111726	northeuralex-tur	nucl1301		cold	1287	COLD		soːuk	s oː u k
+95576	111729	northeuralex-uzn	nort2690		cold	1287	COLD		sɒwuq	s ɒ w u q
+95848	112001	savelyevturkic-CrimeanTatar	crim1257		cold	1287	COLD		suvuq	s u v u q
+95849	112002	savelyevturkic-Dolgan	dolg1241		cold	1287	COLD		tɯmnɯ:	t ɯ m n ɯː
+95850	112003	savelyevturkic-Gagauz	gaga1249		cold	1287	COLD		su:k	s uː k
+95851	112004	savelyevturkic-KaraKalpak	kara1467		cold	1287	COLD		suwɯq	s u w ɯ q
+95852	112005	savelyevturkic-KarachayBalkar	kara1465		cold	1287	COLD		suwuq	s u w u q
+95853	112006	savelyevturkic-Karaim	kara1464		cold	1287	COLD		suvuk, suvuχ	s u v u k
+95854	112007	savelyevturkic-Khakas	khak1248		cold	1287	COLD		sooχ	s oː χ
+95855	112008	savelyevturkic-Khalaj	turk1303		cold	1287	COLD		? sovuq	s o v u q
+95856	112009	savelyevturkic-Khalaj	turk1303		cold	1287	COLD		bu:z	b uː z
+95857	112010	savelyevturkic-Kirghiz	kirg1245		cold	1287	COLD		suuq	s uː q
+95858	112011	savelyevturkic-Kumyk	kumy1244		cold	1287	COLD		suwuq	s u w u q
+95859	112012	savelyevturkic-Nogai	noga1249		cold	1287	COLD		suwɯq	s u w ɯ q
+95860	112013	savelyevturkic-NorthAltai	nort2686		cold	1287	COLD		soːq	s oː q
+95861	112014	savelyevturkic-Salar	sala1264		cold	1287	COLD		soχ	s o χ
+95862	112015	savelyevturkic-SarygYugur	west2402		cold	1287	COLD		? tot	t o t
+95863	112016	savelyevturkic-Shor	shor1247		cold	1287	COLD		so:q	s oː q
+95864	112017	savelyevturkic-SouthAltai	sout2694		cold	1287	COLD		sooq	s oː q
+95865	112018	savelyevturkic-Turkmen	turk1304		cold	1287	COLD		sowuq	s o w u q
+95866	112019	savelyevturkic-Tuvan	tuvi1240		cold	1287	COLD		sooq	s oː q
+95867	112020	savelyevturkic-Uighur	uigh1240		cold	1287	COLD		soɣuq	s o ɣ u q
+96308	112461	wold-Sakha	yaku1245		cold	1287	COLD		tɨmnɨː	t ɨ m n ɨː
+99151	115304	northeuralex-azj	nort2697		come	1446	COME		ɟælmæk	ɟ æ l m æ k
+99152	115305	northeuralex-bak	bash1264		come	1446	COME		kiley	k i l e y
+99165	115318	northeuralex-chv	chuv1255		come	1446	COME		kil	k i l
+99194	115347	northeuralex-kaz	kaza1248		come	1446	COME		ʒetu	ʒ e t u
+99240	115393	northeuralex-tat	tata1255		come	1446	COME		kilʉ	k i l ʉ
+99242	115395	northeuralex-tur	nucl1301		come	1446	COME		ɡɛlmɛk	g ɛ l m ɛ k
+99246	115399	northeuralex-uzn	nort2690		come	1446	COME		kɛlmɒq	k ɛ l m ɒ q
+99522	115675	savelyevturkic-CrimeanTatar	crim1257		come	1446	COME		kel	k e l
+99523	115676	savelyevturkic-Dolgan	dolg1241		come	1446	COME		kel	k e l
+99524	115677	savelyevturkic-Gagauz	gaga1249		come	1446	COME		gel	g e l
+99525	115678	savelyevturkic-KaraKalpak	kara1467		come	1446	COME		kel	k e l
+99526	115679	savelyevturkic-KarachayBalkar	kara1465		come	1446	COME		kel	k e l
+99527	115680	savelyevturkic-Karaim	kara1464		come	1446	COME		kel	k e l
+99528	115681	savelyevturkic-Khakas	khak1248		come	1446	COME		kil	k i l
+99529	115682	savelyevturkic-Khalaj	turk1303		come	1446	COME		kɛl	k æ l
+99530	115683	savelyevturkic-Kirghiz	kirg1245		come	1446	COME		kel	k e l
+99531	115684	savelyevturkic-Kumyk	kumy1244		come	1446	COME		gel	g e l
+99532	115685	savelyevturkic-Nogai	noga1249		come	1446	COME		kel	k e l
+99533	115686	savelyevturkic-NorthAltai	nort2686		come	1446	COME		kel	k e l
+99534	115687	savelyevturkic-Salar	sala1264		come	1446	COME		gel	g e l
+99535	115688	savelyevturkic-SarygYugur	west2402		come	1446	COME		kel	k e l
+99536	115689	savelyevturkic-Shor	shor1247		come	1446	COME		kel	k e l
+99537	115690	savelyevturkic-SouthAltai	sout2694		come	1446	COME		kel	k e l
+99538	115691	savelyevturkic-Turkmen	turk1304		come	1446	COME		gel	g e l
+99539	115692	savelyevturkic-Tuvan	tuvi1240		come	1446	COME		kel	k e l
+99540	115693	savelyevturkic-Uighur	uigh1240		come	1446	COME		kɛl	k æ l
+100008	116161	wold-Sakha	yaku1245		come	1446	COME		kel	k e l
+127359	143514	northeuralex-azj	nort2697		die	1494	DIE		œlmæk	œ l m æ k
+127360	143515	northeuralex-azj	nort2697		die	1494	DIE		væfɑt_ɛtmæk	v æ f ɑ t + ɛ t m æ k
+127361	143516	northeuralex-bak	bash1264		die	1494	DIE		yley	y l e y
+127371	143526	northeuralex-chv	chuv1255		die	1494	DIE		ʋil	ʋ i l
+127402	143557	northeuralex-kaz	kaza1248		die	1494	DIE		ølu	ø l u
+127403	143558	northeuralex-kaz	kaza1248		die	1494	DIE		qɑjtəs	q ɑ j t ə s
+127404	143559	northeuralex-kaz	kaza1248		die	1494	DIE		ʒɑntɑpsəɾu	ʒ ɑ n t ɑ p s ə ɾ u
+127451	143606	northeuralex-tat	tata1255		die	1494	DIE		ʉlʉ	ʉ l ʉ
+127452	143607	northeuralex-tat	tata1255		die	1494	DIE		dœnʔja_qujʊ	d œ n ʔ j a + q u j ʊ
+127453	143608	northeuralex-tat	tata1255		die	1494	DIE		wafat_bulu	w a f a t + b u l u
+127455	143610	northeuralex-tur	nucl1301		die	1494	DIE		œlmɛk	œ l m ɛ k
+127456	143611	northeuralex-tur	nucl1301		die	1494	DIE		vɛfat_ɛtmɛk	v ɛ f a t + ɛ t m ɛ k
+127459	143614	northeuralex-uzn	nort2690		die	1494	DIE		olmɒq	o l m ɒ q
+127727	143882	savelyevturkic-CrimeanTatar	crim1257		die	1494	DIE		øl	ø l
+127728	143883	savelyevturkic-Dolgan	dolg1241		die	1494	DIE		øl	ø l
+127729	143884	savelyevturkic-Gagauz	gaga1249		die	1494	DIE		øl	ø l
+127730	143885	savelyevturkic-KaraKalpak	kara1467		die	1494	DIE		øl	ø l
+127731	143886	savelyevturkic-KarachayBalkar	kara1465		die	1494	DIE		øl	ø l
+127732	143887	savelyevturkic-Karaim	kara1464		die	1494	DIE		øl	ø l
+127733	143888	savelyevturkic-Khakas	khak1248		die	1494	DIE		øl	ø l
+127734	143889	savelyevturkic-Kirghiz	kirg1245		die	1494	DIE		øl	ø l
+127735	143890	savelyevturkic-Kumyk	kumy1244		die	1494	DIE		øl	ø l
+127736	143891	savelyevturkic-Nogai	noga1249		die	1494	DIE		øl	ø l
+127737	143892	savelyevturkic-NorthAltai	nort2686		die	1494	DIE		øl	ø l
+127738	143893	savelyevturkic-Salar	sala1264		die	1494	DIE		ul	u l
+127739	143894	savelyevturkic-SarygYugur	west2402		die	1494	DIE		jul, (jyl, øl)	j u l
+127740	143895	savelyevturkic-Shor	shor1247		die	1494	DIE		øl	ø l
+127741	143896	savelyevturkic-SouthAltai	sout2694		die	1494	DIE		øl	ø l
+127742	143897	savelyevturkic-Turkmen	turk1304		die	1494	DIE		øl	ø l
+127743	143898	savelyevturkic-Tuvan	tuvi1240		die	1494	DIE		øl	ø l
+127744	143899	savelyevturkic-Uighur	uigh1240		die	1494	DIE		øl	ø l
+128128	144283	wold-Sakha	yaku1245		die	1494	DIE		öl	œ l
+135923	152078	northeuralex-azj	nort2697		dog	2009	DOG		ɪt	ɪ t
+135924	152079	northeuralex-azj	nort2697		dog	2009	DOG		kœpæk	k œ p æ k
+135925	152080	northeuralex-bak	bash1264		dog	2009	DOG		et	e t
+135936	152091	northeuralex-chv	chuv1255		dog	2009	DOG		ˈjɯtə	j ɯ t ə
+135969	152124	northeuralex-kaz	kaza1248		dog	2009	DOG		ɪjt	ɪ j t
+136014	152169	northeuralex-tat	tata1255		dog	2009	DOG		ɛt	ɛ t
+136016	152171	northeuralex-tur	nucl1301		dog	2009	DOG		it	i t
+136017	152172	northeuralex-tur	nucl1301		dog	2009	DOG		kœpɛk	k œ p ɛ k
+136020	152175	northeuralex-uzn	nort2690		dog	2009	DOG		it	i t
+136281	152436	savelyevturkic-CrimeanTatar	crim1257		dog	2009	DOG		køpek	k ø p e k
+136282	152437	savelyevturkic-Dolgan	dolg1241		dog	2009	DOG		ɯt	ɯ t
+136283	152438	savelyevturkic-Gagauz	gaga1249		dog	2009	DOG		køpek	k ø p e k
+136284	152439	savelyevturkic-KaraKalpak	kara1467		dog	2009	DOG		ijt	i j t
+136285	152440	savelyevturkic-KarachayBalkar	kara1465		dog	2009	DOG		it	i t
+136286	152441	savelyevturkic-Karaim	kara1464		dog	2009	DOG		it	i t
+136287	152442	savelyevturkic-Khakas	khak1248		dog	2009	DOG		adaj	a d a j
+136288	152443	savelyevturkic-Khalaj	turk1303		dog	2009	DOG		it	i t
+136289	152444	savelyevturkic-Kirghiz	kirg1245		dog	2009	DOG		it	i t
+136290	152445	savelyevturkic-Kumyk	kumy1244		dog	2009	DOG		it	i t
+136291	152446	savelyevturkic-Nogai	noga1249		dog	2009	DOG		ijt	i j t
+136292	152447	savelyevturkic-NorthAltai	nort2686		dog	2009	DOG		ijt	i j t
+136293	152448	savelyevturkic-Salar	sala1264		dog	2009	DOG		iʃt, (iʨt)	i ʃ t
+136294	152449	savelyevturkic-SarygYugur	west2402		dog	2009	DOG		ɯʃt, eʃt	ɯ ʃ t
+136295	152450	savelyevturkic-Shor	shor1247		dog	2009	DOG		adaj	a d a j
+136296	152451	savelyevturkic-SouthAltai	sout2694		dog	2009	DOG		i(j)t	i j t
+136297	152452	savelyevturkic-Turkmen	turk1304		dog	2009	DOG		it	i t
+136298	152453	savelyevturkic-Tuvan	tuvi1240		dog	2009	DOG		ɯt	ɯ t
+136299	152454	savelyevturkic-Uighur	uigh1240		dog	2009	DOG		iʃt	i ʃ t
+136792	152947	wold-Sakha	yaku1245		dog	2009	DOG		ɨt	ɨ t
+142384	158539	northeuralex-azj	nort2697		drink	1401	DRINK		ɪt͡ʃmɛk	ɪ tʃ m ɛ k
+142385	158540	northeuralex-bak	bash1264		drink	1401	DRINK		esey	e s e y
+142395	158550	northeuralex-chv	chuv1255		drink	1401	DRINK		ɘɕ	ɘ ɕ
+142424	158579	northeuralex-kaz	kaza1248		drink	1401	DRINK		əʃu	ə ʃ u
+142425	158580	northeuralex-kaz	kaza1248		drink	1401	DRINK		ʉɾtːɑu	ʉ ɾ tː ɑ u
+142469	158624	northeuralex-tat	tata1255		drink	1401	DRINK		ɛt͡ɕʉ	ɛ tɕ ʉ
+142471	158626	northeuralex-tur	nucl1301		drink	1401	DRINK		it͡ʃmɛk	i tʃ m ɛ k
+142474	158629	northeuralex-uzn	nort2690		drink	1401	DRINK		it͡ʃmɒq	i tʃ m ɒ q
+142549	158704	savelyevturkic-CrimeanTatar	crim1257		drink	1401	DRINK		iʨ	i tɕ
+142550	158705	savelyevturkic-Dolgan	dolg1241		drink	1401	DRINK		is	i s
+142551	158706	savelyevturkic-Gagauz	gaga1249		drink	1401	DRINK		iʨ	i tɕ
+142552	158707	savelyevturkic-KaraKalpak	kara1467		drink	1401	DRINK		iʃ	i ʃ
+142553	158708	savelyevturkic-KarachayBalkar	kara1465		drink	1401	DRINK		iʨ	i tɕ
+142554	158709	savelyevturkic-Karaim	kara1464		drink	1401	DRINK		iʨ, iʦ	i tɕ
+142555	158710	savelyevturkic-Khakas	khak1248		drink	1401	DRINK		ɘs	ĭ s
+142556	158711	savelyevturkic-Khalaj	turk1303		drink	1401	DRINK		iʨ	i tɕ
+142557	158712	savelyevturkic-Kirghiz	kirg1245		drink	1401	DRINK		iʨ	i tɕ
+142558	158713	savelyevturkic-Kumyk	kumy1244		drink	1401	DRINK		iʨ	i tɕ
+142559	158714	savelyevturkic-Nogai	noga1249		drink	1401	DRINK		iʃ	i ʃ
+142560	158715	savelyevturkic-NorthAltai	nort2686		drink	1401	DRINK		itɕ	i tɕ
+142561	158716	savelyevturkic-Salar	sala1264		drink	1401	DRINK		iʨ	i tɕ
+142562	158717	savelyevturkic-SarygYugur	west2402		drink	1401	DRINK		iʨ, iʃ, eʨ	i tɕ
+142563	158718	savelyevturkic-Shor	shor1247		drink	1401	DRINK		iʃ	i ʃ
+142564	158719	savelyevturkic-SouthAltai	sout2694		drink	1401	DRINK		iʨ	i tɕ
+142565	158720	savelyevturkic-Turkmen	turk1304		drink	1401	DRINK		iʨ	i tɕ
+142566	158721	savelyevturkic-Tuvan	tuvi1240		drink	1401	DRINK		iʃ	i ʃ
+142567	158722	savelyevturkic-Uighur	uigh1240		drink	1401	DRINK		iʨ	i tɕ
+142847	159002	wold-Sakha	yaku1245		drink	1401	DRINK		is	i s
+145948	162103	northeuralex-azj	nort2697		dry	1398	DRY		ɡuru	g u r u
+145949	162104	northeuralex-bak	bash1264		dry	1398	DRY		kipkæn	k i p k æ n
+145960	162115	northeuralex-chv	chuv1255		dry	1398	DRY		ˈtipɘ	t i p ɘ
+145992	162147	northeuralex-kaz	kaza1248		dry	1398	DRY		qʉɾʁɑq	q ʉ ɾ ʁ ɑ q
+146035	162190	northeuralex-tat	tata1255		dry	1398	DRY		qorɤ	q o r ɤ
+146037	162192	northeuralex-tur	nucl1301		dry	1398	DRY		kuɾu	k u ɾ u
+146040	162195	northeuralex-uzn	nort2690		dry	1398	DRY		quruq	q u r u q
+146307	162462	savelyevturkic-CrimeanTatar	crim1257		dry	1398	DRY		quru	q u r u
+146308	162463	savelyevturkic-Dolgan	dolg1241		dry	1398	DRY		kura:nak	k u r aː n a k
+146309	162464	savelyevturkic-Gagauz	gaga1249		dry	1398	DRY		kuru, kurak	k u r u
+146310	162465	savelyevturkic-KaraKalpak	kara1467		dry	1398	DRY		qurɣaq	q u r ɣ a q
+146311	162466	savelyevturkic-KarachayBalkar	kara1465		dry	1398	DRY		qurɣaq, quru	q u r ɣ a q
+146312	162467	savelyevturkic-Karaim	kara1464		dry	1398	DRY		kurɣak	k u r ɣ a k
+146313	162468	savelyevturkic-Khakas	khak1248		dry	1398	DRY		χuruɣ	χ u r u ɣ
+146314	162469	savelyevturkic-Khalaj	turk1303		dry	1398	DRY		qurruɣ	q u rː u ɣ
+146315	162470	savelyevturkic-Kirghiz	kirg1245		dry	1398	DRY		qurɣaq	q u r ɣ a q
+146316	162471	savelyevturkic-Kumyk	kumy1244		dry	1398	DRY		quru	q u r u
+146317	162472	savelyevturkic-Nogai	noga1249		dry	1398	DRY		qurɯ	q u r ɯ
+146318	162473	savelyevturkic-NorthAltai	nort2686		dry	1398	DRY		kuruɣ	k u r u ɣ
+146319	162474	savelyevturkic-Salar	sala1264		dry	1398	DRY		kuru	k u r u
+146320	162475	savelyevturkic-SarygYugur	west2402		dry	1398	DRY		qurlyɣ	q u r l y ɣ
+146321	162476	savelyevturkic-Shor	shor1247		dry	1398	DRY		quruɣ	q u r u ɣ
+146322	162477	savelyevturkic-SouthAltai	sout2694		dry	1398	DRY		qurɣaχ	q u r ɣ a χ
+146323	162478	savelyevturkic-Turkmen	turk1304		dry	1398	DRY		ɢurɯ	ɢ u r ɯ
+146324	162479	savelyevturkic-Tuvan	tuvi1240		dry	1398	DRY		qurɣaɣ	q u r ɣ a ɣ
+146325	162480	savelyevturkic-Uighur	uigh1240		dry	1398	DRY		quruq	q u r u q
+146459	162614	wold-Sakha	yaku1245		dry	1398	DRY		kuraːnaχ	k u r aː n a χ
+151472	167627	northeuralex-azj	nort2697		ear	1247	EAR		ɡulɑɡ	g u l ɑ g
+151473	167628	northeuralex-bak	bash1264		ear	1247	EAR		qolaq	q o l a q
+151483	167638	northeuralex-chv	chuv1255		ear	1247	EAR		χəlˈχa	χ ə l χ a
+151511	167666	northeuralex-kaz	kaza1248		ear	1247	EAR		qʉlɑq	q ʉ l ɑ q
+151554	167709	northeuralex-tat	tata1255		ear	1247	EAR		qolak	q o l a k
+151556	167711	northeuralex-tur	nucl1301		ear	1247	EAR		kulak	k u l a k
+151559	167714	northeuralex-uzn	nort2690		ear	1247	EAR		qulɒq	q u l ɒ q
+151813	167968	savelyevturkic-CrimeanTatar	crim1257		ear	1247	EAR		qulaq	q u l a q
+151814	167969	savelyevturkic-Dolgan	dolg1241		ear	1247	EAR		kulga:k	k u l g aː k
+151815	167970	savelyevturkic-Gagauz	gaga1249		ear	1247	EAR		kulak	k u l a k
+151816	167971	savelyevturkic-KaraKalpak	kara1467		ear	1247	EAR		qulaq	q u l a q
+151817	167972	savelyevturkic-KarachayBalkar	kara1465		ear	1247	EAR		qulaq	q u l a q
+151818	167973	savelyevturkic-Karaim	kara1464		ear	1247	EAR		kulak, kulaχ, qulaq	k u l a k
+151819	167974	savelyevturkic-Khakas	khak1248		ear	1247	EAR		χulaχ	χ u l a χ
+151820	167975	savelyevturkic-Khalaj	turk1303		ear	1247	EAR		qula:q	q u l aː q
+151821	167976	savelyevturkic-Kirghiz	kirg1245		ear	1247	EAR		qulaq	q u l a q
+151822	167977	savelyevturkic-Kumyk	kumy1244		ear	1247	EAR		qulaq	q u l a q
+151823	167978	savelyevturkic-Nogai	noga1249		ear	1247	EAR		qulaq	q u l a q
+151824	167979	savelyevturkic-NorthAltai	nort2686		ear	1247	EAR		qɯlaq	q ɯ l a q
+151825	167980	savelyevturkic-Salar	sala1264		ear	1247	EAR		qulaχ	q u l a χ
+151826	167981	savelyevturkic-SarygYugur	west2402		ear	1247	EAR		qulaq	q u l a q
+151827	167982	savelyevturkic-Shor	shor1247		ear	1247	EAR		qulaq	q u l a q
+151828	167983	savelyevturkic-SouthAltai	sout2694		ear	1247	EAR		qulaq	q u l a q
+151829	167984	savelyevturkic-Turkmen	turk1304		ear	1247	EAR		ɢulaq	ɢ u l a q
+151830	167985	savelyevturkic-Tuvan	tuvi1240		ear	1247	EAR		qulaq	q u l a q
+151831	167986	savelyevturkic-Uighur	uigh1240		ear	1247	EAR		qulaq	q u l a q
+152319	168474	wold-Sakha	yaku1245		ear	1247	EAR		kulgaːχ	k u l g aː χ
+154291	170446	northeuralex-azj	nort2697		earthsoil	1228	EARTH (SOIL)		jɛr_tɔrpɑɡ	j ɛ r + t ɔ r p ɑ g
+154292	170447	northeuralex-bak	bash1264		earthsoil	1228	EARTH (SOIL)		balsq	b a l s q
+154304	170459	northeuralex-chv	chuv1255		earthsoil	1228	EARTH (SOIL)		ɕɘr	ɕ ɘ r
+154334	170489	northeuralex-kaz	kaza1248		earthsoil	1228	EARTH (SOIL)		topəɾɑq	t o p ə ɾ ɑ q
+154388	170543	northeuralex-tat	tata1255		earthsoil	1228	EARTH (SOIL)		d͡ʑir	dʑ i r
+154390	170545	northeuralex-tur	nucl1301		earthsoil	1228	EARTH (SOIL)		topɾak	t o p ɾ a k
+154393	170548	northeuralex-uzn	nort2690		earthsoil	1228	EARTH (SOIL)		ɛr	ɛ r
+154466	170621	savelyevturkic-CrimeanTatar	crim1257		earthsoil	1228	EARTH (SOIL)		jer	j e r
+154467	170622	savelyevturkic-CrimeanTatar	crim1257		earthsoil	1228	EARTH (SOIL)		topraq	t o p r a q
+154468	170623	savelyevturkic-Dolgan	dolg1241		earthsoil	1228	EARTH (SOIL)		hir	h i r
+154469	170624	savelyevturkic-Dolgan	dolg1241		earthsoil	1228	EARTH (SOIL)		buor	b u o r
+154470	170625	savelyevturkic-Gagauz	gaga1249		earthsoil	1228	EARTH (SOIL)		jer	j e r
+154471	170626	savelyevturkic-Gagauz	gaga1249		earthsoil	1228	EARTH (SOIL)		toprak	t o p r a k
+154472	170627	savelyevturkic-KaraKalpak	kara1467		earthsoil	1228	EARTH (SOIL)		ʒer	ʒ e r
+154473	170628	savelyevturkic-KaraKalpak	kara1467		earthsoil	1228	EARTH (SOIL)		topɯraq	t o p ɯ r a q
+154474	170629	savelyevturkic-KarachayBalkar	kara1465		earthsoil	1228	EARTH (SOIL)		ʥer	dʑ e r
+154475	170630	savelyevturkic-KarachayBalkar	kara1465		earthsoil	1228	EARTH (SOIL)		topraq	t o p r a q
+154476	170631	savelyevturkic-Karaim	kara1464		earthsoil	1228	EARTH (SOIL)		jer	j e r
+154477	170632	savelyevturkic-Karaim	kara1464		earthsoil	1228	EARTH (SOIL)		topraq	t o p r a q
+154478	170633	savelyevturkic-Khakas	khak1248		earthsoil	1228	EARTH (SOIL)		ʨir	tɕ i r
+154479	170634	savelyevturkic-Khakas	khak1248		earthsoil	1228	EARTH (SOIL)		tobɯraχ	t o b ɯ r a χ
+154480	170635	savelyevturkic-Khalaj	turk1303		earthsoil	1228	EARTH (SOIL)		jer 'Ort; Erde'	j e r
+154481	170636	savelyevturkic-Khalaj	turk1303		earthsoil	1228	EARTH (SOIL)		? turpaq 'Staub, Erdboden'	t u r p a q
+154482	170637	savelyevturkic-Kirghiz	kirg1245		earthsoil	1228	EARTH (SOIL)		ʥer	dʑ e r
+154483	170638	savelyevturkic-Kirghiz	kirg1245		earthsoil	1228	EARTH (SOIL)		topuraq	t o p u r a q
+154484	170639	savelyevturkic-Kumyk	kumy1244		earthsoil	1228	EARTH (SOIL)		jer	j e r
+154485	170640	savelyevturkic-Kumyk	kumy1244		earthsoil	1228	EARTH (SOIL)		topuraq	t o p u r a q
+154486	170641	savelyevturkic-Nogai	noga1249		earthsoil	1228	EARTH (SOIL)		jer	j e r
+154487	170642	savelyevturkic-Nogai	noga1249		earthsoil	1228	EARTH (SOIL)		? topɯraq	t o p ɯ r a q
+154488	170643	savelyevturkic-NorthAltai	nort2686		earthsoil	1228	EARTH (SOIL)		tɕer	tɕ e r
+154489	170644	savelyevturkic-NorthAltai	nort2686		earthsoil	1228	EARTH (SOIL)		topraq	t o p r a q
+154490	170645	savelyevturkic-SarygYugur	west2402		earthsoil	1228	EARTH (SOIL)		? jer	j e r
+154491	170646	savelyevturkic-SarygYugur	west2402		earthsoil	1228	EARTH (SOIL)		torvaq, tɯrvaq	t o r v a q
+154492	170647	savelyevturkic-Shor	shor1247		earthsoil	1228	EARTH (SOIL)		? tɕer	tɕ e r
+154493	170648	savelyevturkic-Shor	shor1247		earthsoil	1228	EARTH (SOIL)		tobraq	t o b r a q
+154494	170649	savelyevturkic-SouthAltai	sout2694		earthsoil	1228	EARTH (SOIL)		ɟer	dʑ e r
+154495	170650	savelyevturkic-SouthAltai	sout2694		earthsoil	1228	EARTH (SOIL)		? tobraq	t o b r a q
+154496	170651	savelyevturkic-Turkmen	turk1304		earthsoil	1228	EARTH (SOIL)		jer	j e r
+154497	170652	savelyevturkic-Turkmen	turk1304		earthsoil	1228	EARTH (SOIL)		topraq	t o p r a q
+154498	170653	savelyevturkic-Tuvan	tuvi1240		earthsoil	1228	EARTH (SOIL)		dovuraq	d o v u r a q
+154499	170654	savelyevturkic-Uighur	uigh1240		earthsoil	1228	EARTH (SOIL)		jɛr	j æ r
+154500	170655	savelyevturkic-Uighur	uigh1240		earthsoil	1228	EARTH (SOIL)		topraq, (tupraq)	t o p r a q
+154789	170944	wold-Sakha	yaku1245		earthsoil	1228	EARTH (SOIL)		buor	b u o r
+157004	173159	northeuralex-azj	nort2697		eat	1336	EAT		jɛmæk	j ɛ m æ k
+157005	173160	northeuralex-bak	bash1264		eat	1336	EAT		aʃau	a ʃ a u
+157016	173171	northeuralex-chv	chuv1255		eat	1336	EAT		ɕi	ɕ i
+157044	173199	northeuralex-kaz	kaza1248		eat	1336	EAT		ʒeu	ʒ e u
+157045	173200	northeuralex-kaz	kaza1248		eat	1336	EAT		tɑmɑqtɑnu	t ɑ m ɑ q t ɑ n u
+157089	173244	northeuralex-tat	tata1255		eat	1336	EAT		aʃau	a ʃ a u
+157091	173246	northeuralex-tur	nucl1301		eat	1336	EAT		jɛmɛk	j ɛ m ɛ k
+157094	173249	northeuralex-uzn	nort2690		eat	1336	EAT		ɛmɒq	ɛ m ɒ q
+157172	173327	savelyevturkic-CrimeanTatar	crim1257		eat	1336	EAT		aʃa	a ʃ a
+157173	173328	savelyevturkic-Dolgan	dolg1241		eat	1336	EAT		aha:	a h aː
+157174	173329	savelyevturkic-Dolgan	dolg1241		eat	1336	EAT		hie	h i e
+157175	173330	savelyevturkic-Gagauz	gaga1249		eat	1336	EAT		i	i
+157176	173331	savelyevturkic-KaraKalpak	kara1467		eat	1336	EAT		ʒe	ʒ e
+157177	173332	savelyevturkic-KarachayBalkar	kara1465		eat	1336	EAT		aʃa	a ʃ a
+157178	173333	savelyevturkic-Karaim	kara1464		eat	1336	EAT		asa, aʃa	a s a
+157179	173334	savelyevturkic-Khakas	khak1248		eat	1336	EAT		ʨɘ	tɕ ĭ
+157180	173335	savelyevturkic-Khalaj	turk1303		eat	1336	EAT		je:e	j eː
+157181	173336	savelyevturkic-Kirghiz	kirg1245		eat	1336	EAT		ʥe	dʑ e
+157182	173337	savelyevturkic-Kumyk	kumy1244		eat	1336	EAT		aʃa	a ʃ a
+157183	173338	savelyevturkic-Nogai	noga1249		eat	1336	EAT		aʃa	a ʃ a
+157184	173339	savelyevturkic-Nogai	noga1249		eat	1336	EAT		je	j e
+157185	173340	savelyevturkic-NorthAltai	nort2686		eat	1336	EAT		tɕi	tɕ i
+157186	173341	savelyevturkic-Salar	sala1264		eat	1336	EAT		je, ji	j e
+157187	173342	savelyevturkic-SarygYugur	west2402		eat	1336	EAT		je, ji, ʥi	j e
+157188	173343	savelyevturkic-Shor	shor1247		eat	1336	EAT		tɕi:	tɕ iː
+157189	173344	savelyevturkic-SouthAltai	sout2694		eat	1336	EAT		aʒan	a ʒ a n
+157190	173345	savelyevturkic-SouthAltai	sout2694		eat	1336	EAT		ɟi	dʑ i
+157191	173346	savelyevturkic-Turkmen	turk1304		eat	1336	EAT		ij	i j
+157192	173347	savelyevturkic-Tuvan	tuvi1240		eat	1336	EAT		ʨemne, ʨi	tɕ e m n e
+157193	173348	savelyevturkic-Uighur	uigh1240		eat	1336	EAT		ji	j i
+157710	173868	wold-Sakha	yaku1245		eat	1336	EAT		sie	s i e
+157711	173869	wold-Sakha	yaku1245		eat	1336	EAT		ahaː	a h aː
+159285	175443	northeuralex-azj	nort2697		egg	744	EGG		jumurtɑ	j u m u r t ɑ
+159286	175444	northeuralex-bak	bash1264		egg	744	EGG		jomortqa	j o m o r t q a
+159296	175454	northeuralex-chv	chuv1255		egg	744	EGG		ɕəmarˈt̬a	ɕ ə m a r t a
+159324	175482	northeuralex-kaz	kaza1248		egg	744	EGG		ʒʉməɾtqɑ	ʒ ʉ m ə ɾ t q ɑ
+159372	175530	northeuralex-tat	tata1255		egg	744	EGG		kʉkæj	k ʉ k æ j
+159373	175531	northeuralex-tat	tata1255		egg	744	EGG		jomɤrqɑ	j o m ɤ r q ɑ
+159375	175533	northeuralex-tur	nucl1301		egg	744	EGG		jumuɾta	j u m u ɾ t a
+159379	175537	northeuralex-uzn	nort2690		egg	744	EGG		tuχum	t u χ u m
+159634	175792	savelyevturkic-CrimeanTatar	crim1257		egg	744	EGG		jɯmɯrta	j ɯ m ɯ r t a
+159635	175793	savelyevturkic-Dolgan	dolg1241		egg	744	EGG		hɯmɯ:t	h ɯ m ɯː t
+159636	175794	savelyevturkic-Gagauz	gaga1249		egg	744	EGG		jɯmɯrta	j ɯ m ɯ r t a
+159637	175795	savelyevturkic-Karaim	kara1464		egg	744	EGG		jumurtχa etc.	j u m u r t χ a
+159638	175796	savelyevturkic-Khakas	khak1248		egg	744	EGG		nɯmɯrχa	n ɯ m ɯ r χ a
+159639	175797	savelyevturkic-Khalaj	turk1303		egg	744	EGG		jumurqa	j u m u r q a
+159640	175798	savelyevturkic-Kirghiz	kirg1245		egg	744	EGG		ʥumurtqa	dʑ u m u r t q a
+159641	175799	savelyevturkic-Kumyk	kumy1244		egg	744	EGG		jɯmɯrtqa	j ɯ m ɯ r t q a
+159642	175800	savelyevturkic-Nogai	noga1249		egg	744	EGG		jumɯrtqa	j u m ɯ r t q a
+159643	175801	savelyevturkic-NorthAltai	nort2686		egg	744	EGG		nʲurtqa	nʲ u r t q a
+159644	175802	savelyevturkic-Salar	sala1264		egg	744	EGG		jomurta, jumotor etc.	j o m u r t a
+159645	175803	savelyevturkic-SarygYugur	west2402		egg	744	EGG		oja, uja	o j a
+159646	175804	savelyevturkic-Shor	shor1247		egg	744	EGG		nɯbɯrtqa	n ɯ b ɯ r t q a
+159647	175805	savelyevturkic-SouthAltai	sout2694		egg	744	EGG		b	dʑ ɯ m ɯ r t χ a
+159648	175806	savelyevturkic-Turkmen	turk1304		egg	744	EGG		jumurtɢa	j u m u r t ɢ a
+159649	175807	savelyevturkic-Tuvan	tuvi1240		egg	744	EGG		ʨuurɣa	tɕ uː r ɣ a
+160100	176258	wold-Sakha	yaku1245		egg	744	EGG		sɨmɨːt	s ɨ m ɨː t
+169870	186028	northeuralex-azj	nort2697		eye	1248	EYE		ɟœz	ɟ œ z
+169871	186029	northeuralex-bak	bash1264		eye	1248	EYE		kyð	k y ð
+169881	186039	northeuralex-chv	chuv1255		eye	1248	EYE		kuɕ	k u ɕ
+169911	186069	northeuralex-kaz	kaza1248		eye	1248	EYE		køz	k ø z
+169954	186112	northeuralex-tat	tata1255		eye	1248	EYE		kʉz	k ʉ z
+169956	186114	northeuralex-tur	nucl1301		eye	1248	EYE		ɡœz	g œ z
+169959	186117	northeuralex-uzn	nort2690		eye	1248	EYE		koz	k o z
+170217	186375	savelyevturkic-CrimeanTatar	crim1257		eye	1248	EYE		køz	k ø z
+170218	186376	savelyevturkic-Dolgan	dolg1241		eye	1248	EYE		karak	k a r a k
+170219	186377	savelyevturkic-Gagauz	gaga1249		eye	1248	EYE		gøz	g ø z
+170220	186378	savelyevturkic-KaraKalpak	kara1467		eye	1248	EYE		køz	k ø z
+170221	186379	savelyevturkic-KarachayBalkar	kara1465		eye	1248	EYE		køz	k ø z
+170222	186380	savelyevturkic-Karaim	kara1464		eye	1248	EYE		køz, kez	k ø z
+170223	186381	savelyevturkic-Khakas	khak1248		eye	1248	EYE		χaraχ	χ a r a χ
+170224	186382	savelyevturkic-Khalaj	turk1303		eye	1248	EYE		køz	k ø z
+170225	186383	savelyevturkic-Kirghiz	kirg1245		eye	1248	EYE		køz	k ø z
+170226	186384	savelyevturkic-Kumyk	kumy1244		eye	1248	EYE		gøz	g ø z
+170227	186385	savelyevturkic-Nogai	noga1249		eye	1248	EYE		køz	k ø z
+170228	186386	savelyevturkic-NorthAltai	nort2686		eye	1248	EYE		køs	k ø s
+170229	186387	savelyevturkic-Salar	sala1264		eye	1248	EYE		koz	k o z
+170230	186388	savelyevturkic-SarygYugur	west2402		eye	1248	EYE		kyz, køz	k y z
+170231	186389	savelyevturkic-Shor	shor1247		eye	1248	EYE		qaraq	q a r a q
+170232	186390	savelyevturkic-SouthAltai	sout2694		eye	1248	EYE		køs	k ø s
+170233	186391	savelyevturkic-Turkmen	turk1304		eye	1248	EYE		gøz	g ø z
+170234	186392	savelyevturkic-Tuvan	tuvi1240		eye	1248	EYE		qaraq	q a r a q
+170235	186393	savelyevturkic-Uighur	uigh1240		eye	1248	EYE		køz	k ø z
+170746	186904	wold-Sakha	yaku1245		eye	1248	EYE		χaraχ	χ a r a χ
+182228	198388	northeuralex-azj	nort2697		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		jɑɣ	j ɑ ɣ
+182229	198389	northeuralex-bak	bash1264		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		maj	m a j
+182242	198402	northeuralex-chv	chuv1255		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ɕu	ɕ u
+182279	198439	northeuralex-kaz	kaza1248		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		mɑj	m ɑ j
+182329	198489	northeuralex-tat	tata1255		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		maj	m a j
+182331	198491	northeuralex-tur	nucl1301		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		jaː	j aː
+182334	198494	northeuralex-uzn	nort2690		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		mɒj	m ɒ j
+182356	198516	savelyevturkic-CrimeanTatar	crim1257		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		jaɣ	j a ɣ
+182357	198517	savelyevturkic-Dolgan	dolg1241		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		hɯa	h ɯ a
+182358	198518	savelyevturkic-Gagauz	gaga1249		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ja:	j aː
+182359	198519	savelyevturkic-KaraKalpak	kara1467		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		maj	m a j
+182360	198520	savelyevturkic-KarachayBalkar	kara1465		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ʥaw	dʑ a w
+182361	198521	savelyevturkic-Karaim	kara1464		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		jav	j a v
+182362	198522	savelyevturkic-Khakas	khak1248		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		? ʨaɣ	tɕ a ɣ
+182363	198523	savelyevturkic-Khakas	khak1248		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		? ys	y s
+182364	198524	savelyevturkic-Khalaj	turk1303		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ja:aɣ	j aː ɣ
+182365	198525	savelyevturkic-Kirghiz	kirg1245		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		maj	m a j
+182366	198526	savelyevturkic-Kumyk	kumy1244		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		maj	m a j
+182367	198527	savelyevturkic-Nogai	noga1249		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		maj	m a j
+182368	198528	savelyevturkic-NorthAltai	nort2686		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		jɯɣ	j ɯ ɣ
+182369	198529	savelyevturkic-Salar	sala1264		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		jaɣ	j a ɣ
+182370	198530	savelyevturkic-SarygYugur	west2402		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		tø(j)naχ	t ø j n a χ
+182371	198531	savelyevturkic-Shor	shor1247		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		tɕaɣ	tɕ a ɣ
+182372	198532	savelyevturkic-SouthAltai	sout2694		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ɟu 'жир, сало'	dʑ u
+182373	198533	savelyevturkic-Turkmen	turk1304		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		jaɣ	j a ɣ
+182374	198534	savelyevturkic-Tuvan	tuvi1240		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		ys	y s
+182375	198535	savelyevturkic-Uighur	uigh1240		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		maj	m a j
+182376	198536	savelyevturkic-Uighur	uigh1240		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		jaɣ	j a ɣ
+182742	198902	wold-Sakha	yaku1245		fatorganicsubstance	323	FAT (ORGANIC SUBSTANCE)		sɨa	s ɨ a
+185113	201273	northeuralex-azj	nort2697		feather	1201	FEATHER		tyk	t y k
+185114	201274	northeuralex-azj	nort2697		feather	1201	FEATHER		lælæk	l æ l æ k
+185115	201275	northeuralex-bak	bash1264		feather	1201	FEATHER		qauɯrhɯn	q a u ɯ r h ɯ n
+185126	201286	northeuralex-chv	chuv1255		feather	1201	FEATHER		tɘk	t ɘ k
+185157	201317	northeuralex-kaz	kaza1248		feather	1201	FEATHER		qɑlɑmʉʃ	q ɑ l ɑ m ʉ ʃ
+185204	201364	northeuralex-tat	tata1255		feather	1201	FEATHER		jon	j o n
+185206	201366	northeuralex-tur	nucl1301		feather	1201	FEATHER		tyj	t y j
+185209	201369	northeuralex-uzn	nort2690		feather	1201	FEATHER		par	p a r
+185278	201438	savelyevturkic-CrimeanTatar	crim1257		feather	1201	FEATHER		qanat	q a n a t
+185279	201439	savelyevturkic-Dolgan	dolg1241		feather	1201	FEATHER		ty:	t yː
+185280	201440	savelyevturkic-Gagauz	gaga1249		feather	1201	FEATHER		tyj	t y j
+185281	201441	savelyevturkic-KarachayBalkar	kara1465		feather	1201	FEATHER		qanatlɯ tyk	t y k
+185282	201442	savelyevturkic-KarachayBalkar	kara1465		feather	1201	FEATHER		qanatlɯ tyk	q a n a t l ɯ + t y k
+185283	201443	savelyevturkic-Karaim	kara1464		feather	1201	FEATHER		tik	t i k
+185284	201444	savelyevturkic-Khakas	khak1248		feather	1201	FEATHER		ʨyg	tɕ y g
+185285	201445	savelyevturkic-Kumyk	kumy1244		feather	1201	FEATHER		tyk	t y k
+185286	201446	savelyevturkic-NorthAltai	nort2686		feather	1201	FEATHER		tyk	t y k
+185287	201447	savelyevturkic-Salar	sala1264		feather	1201	FEATHER		mimiluχ	m i m i l u χ
+185288	201448	savelyevturkic-Shor	shor1247		feather	1201	FEATHER		tɕyg	tɕ y g
+185289	201449	savelyevturkic-SouthAltai	sout2694		feather	1201	FEATHER		qanat	q a n a t
+185290	201450	savelyevturkic-Turkmen	turk1304		feather	1201	FEATHER		jelek	j e l e k
+185291	201451	savelyevturkic-Tuvan	tuvi1240		feather	1201	FEATHER		ʨyg	tɕ y g
+185524	201684	wold-Sakha	yaku1245		feather	1201	FEATHER		kuorsun	k u o r s u n
+193022	225675	northeuralex-azj	nort2697		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ut͡ʃmɑɡ	u tʃ m ɑ g
+193023	225676	northeuralex-bak	bash1264		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		osou	o s o u
+193034	225687	northeuralex-chv	chuv1255		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ʋɘɕ	ʋ ɘ ɕ
+193065	225718	northeuralex-kaz	kaza1248		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ʉʃu	ʉ ʃ u
+193115	225768	northeuralex-tat	tata1255		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ot͡ɕu	o tɕ u
+193117	225770	northeuralex-tur	nucl1301		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ut͡ʃmak	u tʃ m a k
+193120	225773	northeuralex-uzn	nort2690		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		ut͡ʃmɒq	u tʃ m ɒ q
+193194	225847	savelyevturkic-CrimeanTatar	crim1257		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʨ	u tɕ
+193195	225848	savelyevturkic-Dolgan	dolg1241		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		køt	k ø t
+193196	225849	savelyevturkic-Gagauz	gaga1249		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʨ	u tɕ
+193197	225850	savelyevturkic-KaraKalpak	kara1467		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʃ	u ʃ
+193198	225851	savelyevturkic-KarachayBalkar	kara1465		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʨ	u tɕ
+193199	225852	savelyevturkic-Karaim	kara1464		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʨ, uʦ	u tɕ
+193200	225853	savelyevturkic-Khakas	khak1248		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʨuχ	u tɕ u χ
+193201	225854	savelyevturkic-Khalaj	turk1303		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		? uʨ	u tɕ
+193202	225855	savelyevturkic-Kirghiz	kirg1245		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʨ	u tɕ
+193203	225856	savelyevturkic-Kumyk	kumy1244		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʨ	u tɕ
+193204	225857	savelyevturkic-Nogai	noga1249		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʃ	u ʃ
+193205	225858	savelyevturkic-NorthAltai	nort2686		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʨ	u tɕ
+193206	225859	savelyevturkic-Salar	sala1264		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʨ, uʃ, yʨ	u tɕ
+193207	225860	savelyevturkic-SarygYugur	west2402		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʃ, uʨ, yʨ	u ʃ
+193208	225861	savelyevturkic-Shor	shor1247		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		utɕuq	u tɕ u q
+193209	225862	savelyevturkic-SouthAltai	sout2694		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʨ	u tɕ
+193210	225863	savelyevturkic-Turkmen	turk1304		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʨ	u tɕ
+193211	225864	savelyevturkic-Tuvan	tuvi1240		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʃ	u ʃ
+193212	225865	savelyevturkic-Uighur	uigh1240		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		uʨ	u tɕ
+193573	226226	wold-Sakha	yaku1245		flymovethroughair	1441	FLY (MOVE THROUGH AIR)		köt	k œ t
+196404	229057	northeuralex-azj	nort2697		foot	1301	FOOT		ɑjɑɡ	ɑ j ɑ g
+196405	229058	northeuralex-bak	bash1264		foot	1301	FOOT		taban	t a b a n
+196417	229070	northeuralex-chv	chuv1255		foot	1301	FOOT		uˈra_laˈpi	u r a + l a p i
+196449	229102	northeuralex-kaz	kaza1248		foot	1301	FOOT		ɑjɑqbɑsə	ɑ j ɑ q b ɑ s ə
+196497	229150	northeuralex-tat	tata1255		foot	1301	FOOT		taban	t a b a n
+196499	229152	northeuralex-tur	nucl1301		foot	1301	FOOT		ajak	a j a k
+196502	229155	northeuralex-uzn	nort2690		foot	1301	FOOT		ɒjɒq	ɒ j ɒ q
+196954	229607	wold-Sakha	yaku1245		foot	1301	FOOT		ulluŋaχ	u lː u ŋ a χ
+196955	229608	wold-Sakha	yaku1245		foot	1301	FOOT		ataχ	a t a χ
+209471	242124	northeuralex-azj	nort2697		full	1429	FULL		dɔlu	d ɔ l u
+209472	242125	northeuralex-bak	bash1264		full	1429	FULL		tulɯ	t u l ɯ
+209483	242136	northeuralex-chv	chuv1255		full	1429	FULL		tuli	t u l i
+209510	242163	northeuralex-kaz	kaza1248		full	1429	FULL		tolə	t o l ə
+209557	242210	northeuralex-tat	tata1255		full	1429	FULL		tulɤ	t u l ɤ
+209559	242212	northeuralex-tur	nucl1301		full	1429	FULL		dolu	d o l u
+209560	242213	northeuralex-tur	nucl1301		full	1429	FULL		dolmuʃ	d o l m u ʃ
+209563	242216	northeuralex-uzn	nort2690		full	1429	FULL		tola	t o l a
+209638	242291	savelyevturkic-CrimeanTatar	crim1257		full	1429	FULL		tolu	t o l u
+209639	242292	savelyevturkic-Dolgan	dolg1241		full	1429	FULL		toloru	t o l o r u
+209640	242293	savelyevturkic-Gagauz	gaga1249		full	1429	FULL		dolu	d o l u
+209641	242294	savelyevturkic-KaraKalpak	kara1467		full	1429	FULL		tolɣan, tolɯq	t o l ɣ a n
+209642	242295	savelyevturkic-KarachayBalkar	kara1465		full	1429	FULL		tolu	t o l u
+209643	242296	savelyevturkic-Karaim	kara1464		full	1429	FULL		tolu	t o l u
+209644	242297	savelyevturkic-Khakas	khak1248		full	1429	FULL		toldɯra	t o l d ɯ r a
+209645	242298	savelyevturkic-Khalaj	turk1303		full	1429	FULL		tu(:)ola	t uː l a
+209646	242299	savelyevturkic-Kirghiz	kirg1245		full	1429	FULL		toltura	t o l t u r a
+209647	242300	savelyevturkic-Kumyk	kumy1244		full	1429	FULL		tolu	t o l u
+209648	242301	savelyevturkic-Nogai	noga1249		full	1429	FULL		tolɯ	t o l ɯ
+209649	242302	savelyevturkic-NorthAltai	nort2686		full	1429	FULL		toltɯra	t o l t ɯ r a
+209650	242303	savelyevturkic-Salar	sala1264		full	1429	FULL		tolu	t o l u
+209651	242304	savelyevturkic-SarygYugur	west2402		full	1429	FULL		tolo, tolu	t o l o
+209652	242305	savelyevturkic-Shor	shor1247		full	1429	FULL		toldura	t o l d u r a
+209653	242306	savelyevturkic-SouthAltai	sout2694		full	1429	FULL		tolo	t o l o
+209654	242307	savelyevturkic-Turkmen	turk1304		full	1429	FULL		dolɯ	d o l ɯ
+209655	242308	savelyevturkic-Tuvan	tuvi1240		full	1429	FULL		dolu	d o l u
+209656	242309	savelyevturkic-Uighur	uigh1240		full	1429	FULL		toluq, tola	t o l u q
+210031	242684	wold-Sakha	yaku1245		full	1429	FULL		toloru	t o l o r u
+214896	247549	northeuralex-azj	nort2697		give	1447	GIVE		vɛrmæk	v ɛ r m æ k
+214897	247550	northeuralex-bak	bash1264		give	1447	GIVE		birey	b i r e y
+214907	247560	northeuralex-chv	chuv1255		give	1447	GIVE		par	p a r
+214936	247589	northeuralex-kaz	kaza1248		give	1447	GIVE		beɾu	b e ɾ u
+214983	247636	northeuralex-tat	tata1255		give	1447	GIVE		birʉ	b i r ʉ
+214985	247638	northeuralex-tur	nucl1301		give	1447	GIVE		vɛɾmɛk	v ɛ ɾ m ɛ k
+214988	247641	northeuralex-uzn	nort2690		give	1447	GIVE		bɛrmɒq	b ɛ r m ɒ q
+215241	247894	savelyevturkic-CrimeanTatar	crim1257		give	1447	GIVE		ber	b e r
+215242	247895	savelyevturkic-Dolgan	dolg1241		give	1447	GIVE		bier	b i e r
+215243	247896	savelyevturkic-Gagauz	gaga1249		give	1447	GIVE		ver	v e r
+215244	247897	savelyevturkic-KaraKalpak	kara1467		give	1447	GIVE		ber	b e r
+215245	247898	savelyevturkic-KarachayBalkar	kara1465		give	1447	GIVE		ber	b e r
+215246	247899	savelyevturkic-Karaim	kara1464		give	1447	GIVE		ber, (k) ver	b e r
+215247	247900	savelyevturkic-Khakas	khak1248		give	1447	GIVE		pir	p i r
+215248	247901	savelyevturkic-Khalaj	turk1303		give	1447	GIVE		vier	v i e r
+215249	247902	savelyevturkic-Kirghiz	kirg1245		give	1447	GIVE		ber	b e r
+215250	247903	savelyevturkic-Kumyk	kumy1244		give	1447	GIVE		ber	b e r
+215251	247904	savelyevturkic-Nogai	noga1249		give	1447	GIVE		ber	b e r
+215252	247905	savelyevturkic-NorthAltai	nort2686		give	1447	GIVE		per	p e r
+215253	247906	savelyevturkic-Salar	sala1264		give	1447	GIVE		per, ver, ber	p e r
+215254	247907	savelyevturkic-SarygYugur	west2402		give	1447	GIVE		per	p e r
+215255	247908	savelyevturkic-Shor	shor1247		give	1447	GIVE		per	p e r
+215256	247909	savelyevturkic-SouthAltai	sout2694		give	1447	GIVE		ber	b e r
+215257	247910	savelyevturkic-Turkmen	turk1304		give	1447	GIVE		ber	b e r
+215258	247911	savelyevturkic-Tuvan	tuvi1240		give	1447	GIVE		ber	b e r
+215259	247912	savelyevturkic-Uighur	uigh1240		give	1447	GIVE		bɛr	b æ r
+215708	248361	wold-Sakha	yaku1245		give	1447	GIVE		bier	b i e r
+221037	253693	northeuralex-azj	nort2697		good	1035	GOOD		jɑχʃɯ	j ɑ χ ʃ ɯ
+221038	253694	northeuralex-bak	bash1264		good	1035	GOOD		jaqʃɯ	j a q ʃ ɯ
+221048	253704	northeuralex-chv	chuv1255		good	1035	GOOD		aˈʋan	a ʋ a n
+221049	253705	northeuralex-chv	chuv1255		good	1035	GOOD		ˈlajəχ	l a j ə χ
+221077	253733	northeuralex-kaz	kaza1248		good	1035	GOOD		ʒɑqsə	ʒ ɑ q s ə
+221125	253781	northeuralex-tat	tata1255		good	1035	GOOD		jaxʃɤ	j a x ʃ ɤ
+221127	253783	northeuralex-tur	nucl1301		good	1035	GOOD		iji	i j i
+221131	253787	northeuralex-uzn	nort2690		good	1035	GOOD		sɒz	s ɒ z
+221412	254068	savelyevturkic-CrimeanTatar	crim1257		good	1035	GOOD		jaχʃɯ	j a χ ʃ ɯ
+221413	254069	savelyevturkic-CrimeanTatar	crim1257		good	1035	GOOD		eji	e j i
+221414	254070	savelyevturkic-Dolgan	dolg1241		good	1035	GOOD		yčygej	y tɕ y g e j
+221415	254071	savelyevturkic-Gagauz	gaga1249		good	1035	GOOD		iji	i j i
+221416	254072	savelyevturkic-KaraKalpak	kara1467		good	1035	GOOD		ʒaqsɯ	ʒ a q s ɯ
+221417	254073	savelyevturkic-KarachayBalkar	kara1465		good	1035	GOOD		aʃχɯ	a ʃ χ ɯ
+221418	254074	savelyevturkic-KarachayBalkar	kara1465		good	1035	GOOD		igi	i g i
+221419	254075	savelyevturkic-Karaim	kara1464		good	1035	GOOD		jaχʃɯ, jaχsɯ	j a χ ʃ ɯ
+221420	254076	savelyevturkic-Khakas	khak1248		good	1035	GOOD		ʨaχsɯ	tɕ a χ s ɯ
+221421	254077	savelyevturkic-Kirghiz	kirg1245		good	1035	GOOD		ʥaqʃɯ	dʑ a q ʃ ɯ
+221422	254078	savelyevturkic-Kumyk	kumy1244		good	1035	GOOD		jaχʃɯ	j a χ ʃ ɯ
+221423	254079	savelyevturkic-Nogai	noga1249		good	1035	GOOD		jaχʃɯ	j a χ ʃ ɯ
+221424	254080	savelyevturkic-Nogai	noga1249		good	1035	GOOD		ijgi	i j g i
+221425	254081	savelyevturkic-NorthAltai	nort2686		good	1035	GOOD		ʥaqʃɯ	dʑ a q ʃ ɯ
+221426	254082	savelyevturkic-Salar	sala1264		good	1035	GOOD		jaχʃi, jaχʃara	j a χ ʃ i
+221427	254083	savelyevturkic-SarygYugur	west2402		good	1035	GOOD		jaχʃɯ	j a χ ʃ ɯ
+221428	254084	savelyevturkic-Shor	shor1247		good	1035	GOOD		tɕaqʃɯ	tɕ a q ʃ ɯ
+221429	254085	savelyevturkic-SouthAltai	sout2694		good	1035	GOOD		ɟaχšɯ	dʑ a χ ʃ ɯ
+221430	254086	savelyevturkic-Turkmen	turk1304		good	1035	GOOD		jaɢʃɯ	j a ɢ ʃ ɯ
+221431	254087	savelyevturkic-Tuvan	tuvi1240		good	1035	GOOD		eki	e k i
+221432	254088	savelyevturkic-Uighur	uigh1240		good	1035	GOOD		jaχʃɯ	j a χ ʃ ɯ
+221883	254539	wold-Sakha	yaku1245		good	1035	GOOD		üčügey	y tʃ y g e y
+221884	254540	wold-Sakha	yaku1245		good	1035	GOOD		ütüö	y t y œ
+228771	261427	northeuralex-azj	nort2697		green	1425	GREEN		jɑʃɯl	j ɑ ʃ ɯ l
+228772	261428	northeuralex-bak	bash1264		green	1425	GREEN		jæʃel	j æ ʃ e l
+228783	261439	northeuralex-chv	chuv1255		green	1425	GREEN		ˈsimɘs	s i m ɘ s
+228784	261440	northeuralex-chv	chuv1255		green	1425	GREEN		piɕˈmɛn	p i ɕ m ɛ n
+228785	261441	northeuralex-chv	chuv1255		green	1425	GREEN		əs_puχˈman	ə s + p u χ m a n
+228816	261472	northeuralex-kaz	kaza1248		green	1425	GREEN		ʒɑsəl	ʒ ɑ s ə l
+228871	261527	northeuralex-tat	tata1255		green	1425	GREEN		jaʃel	j a ʃ e l
+228873	261529	northeuralex-tur	nucl1301		green	1425	GREEN		jɛʃil	j ɛ ʃ i l
+228876	261532	northeuralex-uzn	nort2690		green	1425	GREEN		jaʃil	j a ʃ i l
+228951	261607	savelyevturkic-CrimeanTatar	crim1257		green	1425	GREEN		jeʃil	j e ʃ i l
+228952	261608	savelyevturkic-Dolgan	dolg1241		green	1425	GREEN		kyøk	k y ø k
+228953	261609	savelyevturkic-Gagauz	gaga1249		green	1425	GREEN		jeʃil	j e ʃ i l
+228954	261610	savelyevturkic-KaraKalpak	kara1467		green	1425	GREEN		køk	k ø k
+228955	261611	savelyevturkic-KarachayBalkar	kara1465		green	1425	GREEN		ʥaʃɯl	dʑ a ʃ ɯ l
+228956	261612	savelyevturkic-Karaim	kara1464		green	1425	GREEN		jesil	j e s i l
+228957	261613	savelyevturkic-Khakas	khak1248		green	1425	GREEN		(ot) køk	k ø k
+228958	261614	savelyevturkic-Khalaj	turk1303		green	1425	GREEN		kyøk, ki(:)ek	k y ø k
+228959	261615	savelyevturkic-Kirghiz	kirg1245		green	1425	GREEN		ʥaʃɯl	dʑ a ʃ ɯ l
+228960	261616	savelyevturkic-Kumyk	kumy1244		green	1425	GREEN		jaʃɯl	j a ʃ ɯ l
+228961	261617	savelyevturkic-Nogai	noga1249		green	1425	GREEN		jasɯl	j a s ɯ l
+228962	261618	savelyevturkic-NorthAltai	nort2686		green	1425	GREEN		tɕaʒɯl	tɕ a ʒ ɯ l
+228963	261619	savelyevturkic-Salar	sala1264		green	1425	GREEN		ja:ʃɯl	j aː ʃ ɯ l
+228964	261620	savelyevturkic-SarygYugur	west2402		green	1425	GREEN		jasɯl	j a s ɯ l
+228965	261621	savelyevturkic-Shor	shor1247		green	1425	GREEN		tɕaʒɯl	tɕ a ʒ ɯ l
+228966	261622	savelyevturkic-SouthAltai	sout2694		green	1425	GREEN		ɟaʒɯl	dʑ a ʒ ɯ l
+228967	261623	savelyevturkic-Turkmen	turk1304		green	1425	GREEN		jaʃɯl	j a ʃ ɯ l
+228968	261624	savelyevturkic-Uighur	uigh1240		green	1425	GREEN		jeʃil	j e ʃ i l
+228969	261625	savelyevturkic-Uighur	uigh1240		green	1425	GREEN		? køk	k ø k
+229305	261961	wold-Sakha	yaku1245		green	1425	GREEN		ot_küöχ	o t + k y œ χ
+234774	267430	northeuralex-azj	nort2697		hair	1040	HAIR		sɑt͡ʃ	s ɑ tʃ
+234775	267431	northeuralex-bak	bash1264		hair	1040	HAIR		sæs	s æ s
+234788	267444	northeuralex-chv	chuv1255		hair	1040	HAIR		ɕyɕ	ɕ y ɕ
+234818	267474	northeuralex-kaz	kaza1248		hair	1040	HAIR		qəl	q ə l
+234864	267520	northeuralex-tat	tata1255		hair	1040	HAIR		t͡ɕæt͡ɕ	tɕ æ tɕ
+234866	267522	northeuralex-tur	nucl1301		hair	1040	HAIR		sat͡ʃ	s a tʃ
+234869	267525	northeuralex-uzn	nort2690		hair	1040	HAIR		sɒt͡ʃ	s ɒ tʃ
+238613	271269	northeuralex-azj	nort2697		hand	1277	HAND		æl	æ l
+238614	271270	northeuralex-bak	bash1264		hand	1277	HAND		qul	q u l
+238615	271271	northeuralex-bak	bash1264		hand	1277	HAND		qul_suɣɯ	q u l + s u ɣ ɯ
+238626	271282	northeuralex-chv	chuv1255		hand	1277	HAND		ˈalə_sɯˈpi	a l ə + s ɯ p i
+238656	271312	northeuralex-kaz	kaza1248		hand	1277	HAND		qol	q o l
+238708	271364	northeuralex-tat	tata1255		hand	1277	HAND		qul	q u l
+238710	271366	northeuralex-tur	nucl1301		hand	1277	HAND		ɛl	ɛ l
+238713	271369	northeuralex-uzn	nort2690		hand	1277	HAND		qol	q o l
+239236	271892	wold-Sakha	yaku1245		hand	1277	HAND		iliː	i l iː
+244231	276888	northeuralex-azj	nort2697		head	1256	HEAD		bɑʃ	b ɑ ʃ
+244232	276889	northeuralex-bak	bash1264		head	1256	HEAD		baʃ	b a ʃ
+244243	276900	northeuralex-chv	chuv1255		head	1256	HEAD		puɕ	p u ɕ
+244274	276931	northeuralex-kaz	kaza1248		head	1256	HEAD		kælːæ	k æ lː æ
+244319	276976	northeuralex-tat	tata1255		head	1256	HEAD		baʃ	b a ʃ
+244321	276978	northeuralex-tur	nucl1301		head	1256	HEAD		baʃ	b a ʃ
+244322	276979	northeuralex-tur	nucl1301		head	1256	HEAD		kafa	k a f a
+244325	276982	northeuralex-uzn	nort2690		head	1256	HEAD		bɒʃ	b ɒ ʃ
+244591	277248	savelyevturkic-CrimeanTatar	crim1257		head	1256	HEAD		baʃ	b a ʃ
+244592	277249	savelyevturkic-Dolgan	dolg1241		head	1256	HEAD		bas	b a s
+244593	277250	savelyevturkic-Gagauz	gaga1249		head	1256	HEAD		baʃ	b a ʃ
+244594	277251	savelyevturkic-KarachayBalkar	kara1465		head	1256	HEAD		baʃ	b a ʃ
+244595	277252	savelyevturkic-Karaim	kara1464		head	1256	HEAD		baʃ, bas	b a ʃ
+244596	277253	savelyevturkic-Khakas	khak1248		head	1256	HEAD		pas	p a s
+244597	277254	savelyevturkic-Khalaj	turk1303		head	1256	HEAD		ba:ʃ	b aː ʃ
+244598	277255	savelyevturkic-Kirghiz	kirg1245		head	1256	HEAD		baʃ	b a ʃ
+244599	277256	savelyevturkic-Kumyk	kumy1244		head	1256	HEAD		baʃ	b a ʃ
+244600	277257	savelyevturkic-Nogai	noga1249		head	1256	HEAD		bas	b a s
+244601	277258	savelyevturkic-NorthAltai	nort2686		head	1256	HEAD		baʃ	b a ʃ
+244602	277259	savelyevturkic-Salar	sala1264		head	1256	HEAD		paʃ, baʃ	p a ʃ
+244603	277260	savelyevturkic-SarygYugur	west2402		head	1256	HEAD		paʃ	p a ʃ
+244604	277261	savelyevturkic-Shor	shor1247		head	1256	HEAD		paʃ	p a ʃ
+244605	277262	savelyevturkic-SouthAltai	sout2694		head	1256	HEAD		baʃ	b a ʃ
+244606	277263	savelyevturkic-Tuvan	tuvi1240		head	1256	HEAD		baʃ	b a ʃ
+244607	277264	savelyevturkic-Uighur	uigh1240		head	1256	HEAD		baʃ	b a ʃ
+245134	277791	wold-Sakha	yaku1245		head	1256	HEAD		bas	b a s
+245135	277792	wold-Sakha	yaku1245		head	1256	HEAD		töbö	t œ b œ
+247162	279819	northeuralex-azj	nort2697		hear	1408	HEAR		dujmɑɡ	d u j m ɑ g
+247163	279820	northeuralex-azj	nort2697		hear	1408	HEAR		ɛʃɪtmæk	ɛ ʃ ɪ t m æ k
+247164	279821	northeuralex-bak	bash1264		hear	1408	HEAR		iʃetey	i ʃ e t e y
+247174	279831	northeuralex-chv	chuv1255		hear	1408	HEAR		ilt̬	i l t
+247203	279860	northeuralex-kaz	kaza1248		hear	1408	HEAR		estu	e s t u
+247245	279902	northeuralex-tat	tata1255		hear	1408	HEAR		iʃetʉ	i ʃ e t ʉ
+247247	279904	northeuralex-tur	nucl1301		hear	1408	HEAR		dujmak	d u j m a k
+247248	279905	northeuralex-tur	nucl1301		hear	1408	HEAR		iʃitmɛk	i ʃ i t m ɛ k
+247251	279908	northeuralex-uzn	nort2690		hear	1408	HEAR		æʃitmɒq	æ ʃ i t m ɒ q
+247509	280166	savelyevturkic-CrimeanTatar	crim1257		hear	1408	HEAR		eʃit	e ʃ i t
+247510	280167	savelyevturkic-Dolgan	dolg1241		hear	1408	HEAR		ihit	i h i t
+247511	280168	savelyevturkic-Gagauz	gaga1249		hear	1408	HEAR		iʃit	i ʃ i t
+247512	280169	savelyevturkic-KaraKalpak	kara1467		hear	1408	HEAR		esit	e s i t
+247513	280170	savelyevturkic-KarachayBalkar	kara1465		hear	1408	HEAR		eʃit	e ʃ i t
+247514	280171	savelyevturkic-Karaim	kara1464		hear	1408	HEAR		esit, eʃit	e s i t
+247515	280172	savelyevturkic-Khakas	khak1248		hear	1408	HEAR		is (isterge inf.)	i s
+247516	280173	savelyevturkic-Khalaj	turk1303		hear	1408	HEAR		iʃyt	i ʃ y t
+247517	280174	savelyevturkic-Kirghiz	kirg1245		hear	1408	HEAR		uq	u q
+247518	280175	savelyevturkic-Kumyk	kumy1244		hear	1408	HEAR		eʃit	e ʃ i t
+247519	280176	savelyevturkic-Nogai	noga1249		hear	1408	HEAR		esit	e s i t
+247520	280177	savelyevturkic-NorthAltai	nort2686		hear	1408	HEAR		uq	u q
+247521	280178	savelyevturkic-Salar	sala1264		hear	1408	HEAR		iʃti	i ʃ t i
+247522	280179	savelyevturkic-SarygYugur	west2402		hear	1408	HEAR		tinna	t i nː a
+247523	280180	savelyevturkic-Shor	shor1247		hear	1408	HEAR		uq	u q
+247524	280181	savelyevturkic-SouthAltai	sout2694		hear	1408	HEAR		uq	u q
+247525	280182	savelyevturkic-Turkmen	turk1304		hear	1408	HEAR		eʃit	e ʃ i t
+247526	280183	savelyevturkic-Tuvan	tuvi1240		hear	1408	HEAR		dɯŋna	d ɯ ŋ n a
+247527	280184	savelyevturkic-Uighur	uigh1240		hear	1408	HEAR		iʃit	i ʃ i t
+247927	280584	wold-Sakha	yaku1245		hear	1408	HEAR		ihit	i h i t
+248746	281403	northeuralex-azj	nort2697		heart	1223	HEART		yræk	y r æ k
+248747	281404	northeuralex-bak	bash1264		heart	1223	HEART		joræk	j o r æ k
+248757	281414	northeuralex-chv	chuv1255		heart	1223	HEART		t͡ɕɘˈrɛ	tɕ ɘ r ɛ
+248786	281443	northeuralex-kaz	kaza1248		heart	1223	HEART		ʒʊɾek	ʒ ʊ ɾ e k
+248832	281489	northeuralex-tat	tata1255		heart	1223	HEART		jœræk	j œ r æ k
+248834	281491	northeuralex-tur	nucl1301		heart	1223	HEART		kalp	k a l p
+248835	281492	northeuralex-tur	nucl1301		heart	1223	HEART		jyɾɛk	j y ɾ ɛ k
+248838	281495	northeuralex-uzn	nort2690		heart	1223	HEART		qalb	q a l b
+248914	281571	savelyevturkic-CrimeanTatar	crim1257		heart	1223	HEART		jyrek	j y r e k
+248915	281572	savelyevturkic-Dolgan	dolg1241		heart	1223	HEART		hyrek	h y r e k
+248916	281573	savelyevturkic-Gagauz	gaga1249		heart	1223	HEART		yrek	y r e k
+248917	281574	savelyevturkic-KaraKalpak	kara1467		heart	1223	HEART		ʒyrek	ʒ y r e k
+248918	281575	savelyevturkic-KarachayBalkar	kara1465		heart	1223	HEART		ʥyrek	dʑ y r e k
+248919	281576	savelyevturkic-Karaim	kara1464		heart	1223	HEART		jirek	j i r e k
+248920	281577	savelyevturkic-Khakas	khak1248		heart	1223	HEART		ʨyrek	tɕ y r e k
+248921	281578	savelyevturkic-Khalaj	turk1303		heart	1223	HEART		jirɛk	j i r æ k
+248922	281579	savelyevturkic-Kirghiz	kirg1245		heart	1223	HEART		ʥyrek	dʑ y r e k
+248923	281580	savelyevturkic-Kumyk	kumy1244		heart	1223	HEART		jyrek	j y r e k
+248924	281581	savelyevturkic-Nogai	noga1249		heart	1223	HEART		jyrek	j y r e k
+248925	281582	savelyevturkic-NorthAltai	nort2686		heart	1223	HEART		tɕyrek	tɕ y r e k
+248926	281583	savelyevturkic-Salar	sala1264		heart	1223	HEART		jirig	j i r i g
+248927	281584	savelyevturkic-SarygYugur	west2402		heart	1223	HEART		jyrek, jørek	j y r e k
+248928	281585	savelyevturkic-Shor	shor1247		heart	1223	HEART		tɕyrek	tɕ y r e k
+248929	281586	savelyevturkic-SouthAltai	sout2694		heart	1223	HEART		ɟyrek	dʑ y r e k
+248930	281587	savelyevturkic-Turkmen	turk1304		heart	1223	HEART		jyrek	j y r e k
+248931	281588	savelyevturkic-Tuvan	tuvi1240		heart	1223	HEART		ʨyrek	tɕ y r e k
+248932	281589	savelyevturkic-Uighur	uigh1240		heart	1223	HEART		ʒyrɛk, jyrɛk	ʒ y r æ k
+249277	281934	wold-Sakha	yaku1245		heart	1223	HEART		süreχ	s y r e χ
+263588	296248	northeuralex-azj	nort2697		hornanatomy	1393	HORN (ANATOMY)		bujnuz	b u j n u z
+263589	296249	northeuralex-bak	bash1264		hornanatomy	1393	HORN (ANATOMY)		møɣøð	m ø ɣ ø ð
+263600	296260	northeuralex-chv	chuv1255		hornanatomy	1393	HORN (ANATOMY)		məjraˈk̬a	m ə j r a k a
+263629	296289	northeuralex-kaz	kaza1248		hornanatomy	1393	HORN (ANATOMY)		mʊjəz	m ʊ j ə z
+263675	296335	northeuralex-tat	tata1255		hornanatomy	1393	HORN (ANATOMY)		mœɡez	m œ g e z
+263677	296337	northeuralex-tur	nucl1301		hornanatomy	1393	HORN (ANATOMY)		bojnuz	b o j n u z
+263680	296340	northeuralex-uzn	nort2690		hornanatomy	1393	HORN (ANATOMY)		muɡiz	m u g i z
+263753	296413	savelyevturkic-CrimeanTatar	crim1257		hornanatomy	1393	HORN (ANATOMY)		bojnuz	b o j n u z
+263754	296414	savelyevturkic-Dolgan	dolg1241		hornanatomy	1393	HORN (ANATOMY)		muos	m u o s
+263755	296415	savelyevturkic-Gagauz	gaga1249		hornanatomy	1393	HORN (ANATOMY)		bujnuz	b u j n u z
+263756	296416	savelyevturkic-KaraKalpak	kara1467		hornanatomy	1393	HORN (ANATOMY)		myjiz	m y j i z
+263757	296417	savelyevturkic-KarachayBalkar	kara1465		hornanatomy	1393	HORN (ANATOMY)		myjyz	m y j y z
+263758	296418	savelyevturkic-Karaim	kara1464		hornanatomy	1393	HORN (ANATOMY)		myŋyz, miviz	m y ŋ y z
+263759	296419	savelyevturkic-Khakas	khak1248		hornanatomy	1393	HORN (ANATOMY)		myys	m y y s
+263760	296420	savelyevturkic-Kirghiz	kirg1245		hornanatomy	1393	HORN (ANATOMY)		myjyz	m y j y z
+263761	296421	savelyevturkic-Kumyk	kumy1244		hornanatomy	1393	HORN (ANATOMY)		myjyz	m y j y z
+263762	296422	savelyevturkic-Nogai	noga1249		hornanatomy	1393	HORN (ANATOMY)		myjiz	m y j i z
+263763	296423	savelyevturkic-NorthAltai	nort2686		hornanatomy	1393	HORN (ANATOMY)		myys	m y y s
+263764	296424	savelyevturkic-Salar	sala1264		hornanatomy	1393	HORN (ANATOMY)		moŋus	m o ŋ u s
+263765	296425	savelyevturkic-SarygYugur	west2402		hornanatomy	1393	HORN (ANATOMY)		moŋus	m o ŋ u s
+263766	296426	savelyevturkic-Shor	shor1247		hornanatomy	1393	HORN (ANATOMY)		my:s	m yː s
+263767	296427	savelyevturkic-SouthAltai	sout2694		hornanatomy	1393	HORN (ANATOMY)		myys	m y y s
+263768	296428	savelyevturkic-Tuvan	tuvi1240		hornanatomy	1393	HORN (ANATOMY)		mɯjɯs	m ɯ j ɨ s
+263769	296429	savelyevturkic-Uighur	uigh1240		hornanatomy	1393	HORN (ANATOMY)		? myŋgyz	m y ŋ g y z
+263919	296579	wold-Sakha	yaku1245		hornanatomy	1393	HORN (ANATOMY)		muos	m u o s
+274910	307570	northeuralex-azj	nort2697		i	1209	I		mæn	m æ n
+274911	307571	northeuralex-bak	bash1264		i	1209	I		min	m i n
+274921	307581	northeuralex-chv	chuv1255		i	1209	I		ep	e p
+274951	307611	northeuralex-kaz	kaza1248		i	1209	I		men	m e n
+274997	307657	northeuralex-tat	tata1255		i	1209	I		min	m i n
+274999	307659	northeuralex-tur	nucl1301		i	1209	I		bɛn	b ɛ n
+275002	307662	northeuralex-uzn	nort2690		i	1209	I		mɛn	m ɛ n
+275075	307735	savelyevturkic-CrimeanTatar	crim1257		i	1209	I		men	m e n
+275076	307736	savelyevturkic-Dolgan	dolg1241		i	1209	I		min	m i n
+275077	307737	savelyevturkic-Gagauz	gaga1249		i	1209	I		bɛn	b æ n
+275078	307738	savelyevturkic-KaraKalpak	kara1467		i	1209	I		men	m e n
+275079	307739	savelyevturkic-KarachayBalkar	kara1465		i	1209	I		men	m e n
+275080	307740	savelyevturkic-Karaim	kara1464		i	1209	I		men	m e n
+275081	307741	savelyevturkic-Khakas	khak1248		i	1209	I		min	m i n
+275082	307742	savelyevturkic-Khalaj	turk1303		i	1209	I		mɛn	m æ n
+275083	307743	savelyevturkic-Kirghiz	kirg1245		i	1209	I		men	m e n
+275084	307744	savelyevturkic-Kumyk	kumy1244		i	1209	I		men	m e n
+275085	307745	savelyevturkic-Nogai	noga1249		i	1209	I		men	m e n
+275086	307746	savelyevturkic-NorthAltai	nort2686		i	1209	I		men	m e n
+275087	307747	savelyevturkic-Salar	sala1264		i	1209	I		men	m e n
+275088	307748	savelyevturkic-SarygYugur	west2402		i	1209	I		men	m e n
+275089	307749	savelyevturkic-Shor	shor1247		i	1209	I		men	m e n
+275090	307750	savelyevturkic-SouthAltai	sout2694		i	1209	I		men	m e n
+275091	307751	savelyevturkic-Turkmen	turk1304		i	1209	I		men	m e n
+275092	307752	savelyevturkic-Tuvan	tuvi1240		i	1209	I		men	m e n
+275093	307753	savelyevturkic-Uighur	uigh1240		i	1209	I		mɛn	m æ n
+275545	308205	wold-Sakha	yaku1245		i	1209	I		min	m i n
+287811	320471	northeuralex-azj	nort2697		kill	1417	KILL		œldyrmæk	œ l d y r m æ k
+287812	320472	northeuralex-bak	bash1264		kill	1417	KILL		ylterey	y l t e r e y
+287823	320483	northeuralex-chv	chuv1255		kill	1417	KILL		ʋɘˈlɛr	ʋ ɘ l ɛ r
+287856	320516	northeuralex-kaz	kaza1248		kill	1417	KILL		qʉɾtu	q ʉ ɾ t u
+287857	320517	northeuralex-kaz	kaza1248		kill	1417	KILL		øltəɾu	ø l t ə ɾ u
+287912	320572	northeuralex-tat	tata1255		kill	1417	KILL		ʉterʉ	ʉ t e r ʉ
+287914	320574	northeuralex-tur	nucl1301		kill	1417	KILL		œldyɾmɛk	œ l d y ɾ m ɛ k
+287917	320577	northeuralex-uzn	nort2690		kill	1417	KILL		oldirmɒq	o l d i r m ɒ q
+288000	320660	savelyevturkic-CrimeanTatar	crim1257		kill	1417	KILL		øldyr	ø l d y r
+288001	320661	savelyevturkic-Dolgan	dolg1241		kill	1417	KILL		ølør	ø l ø r
+288002	320662	savelyevturkic-Gagauz	gaga1249		kill	1417	KILL		øldyr	ø l d y r
+288003	320663	savelyevturkic-KaraKalpak	kara1467		kill	1417	KILL		øltir	ø l t i r
+288004	320664	savelyevturkic-KarachayBalkar	kara1465		kill	1417	KILL		øltyr	ø l t y r
+288005	320665	savelyevturkic-Karaim	kara1464		kill	1417	KILL		øldir	ø l d i r
+288006	320666	savelyevturkic-Khakas	khak1248		kill	1417	KILL		ødɘr	ø d ĭ r
+288007	320667	savelyevturkic-Khalaj	turk1303		kill	1417	KILL		hilɛ:r	h i l ɛː r
+288008	320668	savelyevturkic-Kirghiz	kirg1245		kill	1417	KILL		øltyr	ø l t y r
+288009	320669	savelyevturkic-Kumyk	kumy1244		kill	1417	KILL		øltyr	ø l t y r
+288010	320670	savelyevturkic-Nogai	noga1249		kill	1417	KILL		øltir	ø l t i r
+288011	320671	savelyevturkic-NorthAltai	nort2686		kill	1417	KILL		øltør	ø l t ø r
+288012	320672	savelyevturkic-Salar	sala1264		kill	1417	KILL		ölter	ø l t e r
+288013	320673	savelyevturkic-SarygYugur	west2402		kill	1417	KILL		julur, (julɯr, jylyr, ylyr)	j u l u r
+288014	320674	savelyevturkic-Shor	shor1247		kill	1417	KILL		ødyr	ø d y r
+288015	320675	savelyevturkic-SouthAltai	sout2694		kill	1417	KILL		øltyr	ø l t y r
+288016	320676	savelyevturkic-Turkmen	turk1304		kill	1417	KILL		øldyr	ø l d y r
+288017	320677	savelyevturkic-Tuvan	tuvi1240		kill	1417	KILL		ølyr	ø l y r
+288018	320678	savelyevturkic-Uighur	uigh1240		kill	1417	KILL		øltyr	ø l t y r
+288353	321013	wold-Sakha	yaku1245		kill	1417	KILL		ölör	œ l œ r
+290483	323143	northeuralex-azj	nort2697		knee	1371	KNEE		dɪz	d ɪ z
+290484	323144	northeuralex-bak	bash1264		knee	1371	KNEE		tubɯq	t u b ɯ q
+290494	323154	northeuralex-chv	chuv1255		knee	1371	KNEE		t͡ɕɘrk̬uˈɕi	tɕ ɘ r k u ɕ i
+290523	323183	northeuralex-kaz	kaza1248		knee	1371	KNEE		təze	t ə z e
+290570	323230	northeuralex-tat	tata1255		knee	1371	KNEE		tez	t e z
+290572	323232	northeuralex-tur	nucl1301		knee	1371	KNEE		diz	d i z
+290575	323235	northeuralex-uzn	nort2690		knee	1371	KNEE		tiz	t i z
+290838	323498	savelyevturkic-CrimeanTatar	crim1257		knee	1371	KNEE		tiz	t i z
+290839	323499	savelyevturkic-Dolgan	dolg1241		knee	1371	KNEE		tobuk	t o b u k
+290840	323500	savelyevturkic-Gagauz	gaga1249		knee	1371	KNEE		dis'	d i sʲ
+290841	323501	savelyevturkic-KaraKalpak	kara1467		knee	1371	KNEE		dize	d i z e
+290842	323502	savelyevturkic-KarachayBalkar	kara1465		knee	1371	KNEE		tobuq	t o b u q
+290843	323503	savelyevturkic-Karaim	kara1464		knee	1371	KNEE		tyz, tiz, kiz	t y z
+290844	323504	savelyevturkic-Khakas	khak1248		knee	1371	KNEE		tɘzek, (tɘstenek)	t ĭ z e k
+290845	323505	savelyevturkic-Khalaj	turk1303		knee	1371	KNEE		ti:iz	t iː z
+290846	323506	savelyevturkic-Kirghiz	kirg1245		knee	1371	KNEE		tize	t i z e
+290847	323507	savelyevturkic-Kumyk	kumy1244		knee	1371	KNEE		tobuq	t o b u q
+290848	323508	savelyevturkic-Nogai	noga1249		knee	1371	KNEE		tiz	t i z
+290849	323509	savelyevturkic-NorthAltai	nort2686		knee	1371	KNEE		tize	t i z e
+290850	323510	savelyevturkic-Salar	sala1264		knee	1371	KNEE		tizeχ	t i z e χ
+290851	323511	savelyevturkic-SarygYugur	west2402		knee	1371	KNEE		tez, tiz	t e z
+290852	323512	savelyevturkic-Shor	shor1247		knee	1371	KNEE		tize	t i z e
+290853	323513	savelyevturkic-SouthAltai	sout2694		knee	1371	KNEE		tize	t i z e
+290854	323514	savelyevturkic-Turkmen	turk1304		knee	1371	KNEE		dɯz	d ɯ z
+290855	323515	savelyevturkic-Tuvan	tuvi1240		knee	1371	KNEE		dis(kek)	d i s k e k
+290856	323516	savelyevturkic-Uighur	uigh1240		knee	1371	KNEE		tiz	t i z
+291247	323907	wold-Sakha	yaku1245		knee	1371	KNEE		tobuk	t o b u k
+294472	327132	northeuralex-azj	nort2697		knowsomething	1410	KNOW (SOMETHING)		bɪlmæk	b ɪ l m æ k
+294473	327133	northeuralex-bak	bash1264		knowsomething	1410	KNOW (SOMETHING)		beley	b e l e y
+294483	327143	northeuralex-chv	chuv1255		knowsomething	1410	KNOW (SOMETHING)		pɘl	p ɘ l
+294484	327144	northeuralex-chv	chuv1255		knowsomething	1410	KNOW (SOMETHING)		ənˈk̬ar	ə n k a r
+294512	327172	northeuralex-kaz	kaza1248		knowsomething	1410	KNOW (SOMETHING)		xɑbɑɾdɑɾ_bolu	x ɑ b ɑ ɾ d ɑ ɾ + b o l u
+294559	327219	northeuralex-tat	tata1255		knowsomething	1410	KNOW (SOMETHING)		belʉ	b e l ʉ
+294561	327221	northeuralex-tur	nucl1301		knowsomething	1410	KNOW (SOMETHING)		bilmɛk	b i l m ɛ k
+294564	327224	northeuralex-uzn	nort2690		knowsomething	1410	KNOW (SOMETHING)		bilmɒq	b i l m ɒ q
+294627	327287	savelyevturkic-CrimeanTatar	crim1257		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294628	327288	savelyevturkic-Dolgan	dolg1241		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294629	327289	savelyevturkic-Gagauz	gaga1249		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294630	327290	savelyevturkic-KaraKalpak	kara1467		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294631	327291	savelyevturkic-KarachayBalkar	kara1465		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294632	327292	savelyevturkic-Karaim	kara1464		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294633	327293	savelyevturkic-Khakas	khak1248		knowsomething	1410	KNOW (SOMETHING)		pɘl	p ĭ l
+294634	327294	savelyevturkic-Khalaj	turk1303		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294635	327295	savelyevturkic-Kirghiz	kirg1245		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294636	327296	savelyevturkic-Kumyk	kumy1244		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294637	327297	savelyevturkic-Nogai	noga1249		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294638	327298	savelyevturkic-NorthAltai	nort2686		knowsomething	1410	KNOW (SOMETHING)		oŋna	o ŋ n a
+294639	327299	savelyevturkic-Salar	sala1264		knowsomething	1410	KNOW (SOMETHING)		bel	b e l
+294640	327300	savelyevturkic-SarygYugur	west2402		knowsomething	1410	KNOW (SOMETHING)		pel, pɯl, bel	p e l
+294641	327301	savelyevturkic-Shor	shor1247		knowsomething	1410	KNOW (SOMETHING)		pil	p i l
+294642	327302	savelyevturkic-SouthAltai	sout2694		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294643	327303	savelyevturkic-Turkmen	turk1304		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294644	327304	savelyevturkic-Tuvan	tuvi1240		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294645	327305	savelyevturkic-Uighur	uigh1240		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+294893	327553	wold-Sakha	yaku1245		knowsomething	1410	KNOW (SOMETHING)		bil	b i l
+302455	335115	northeuralex-azj	nort2697		leaf	628	LEAF		jɑrpɑɡ	j ɑ r p ɑ g
+302456	335116	northeuralex-bak	bash1264		leaf	628	LEAF		japraq	j a p r a q
+302467	335127	northeuralex-chv	chuv1255		leaf	628	LEAF		ˈɕulɕ̬ə	ɕ u l ɕ ə
+302496	335156	northeuralex-kaz	kaza1248		leaf	628	LEAF		ʒɑpəɾɑq	ʒ ɑ p ə ɾ ɑ q
+302541	335201	northeuralex-tat	tata1255		leaf	628	LEAF		jafrak	j a f r a k
+302543	335203	northeuralex-tur	nucl1301		leaf	628	LEAF		japɾak	j a p ɾ a k
+302546	335206	northeuralex-uzn	nort2690		leaf	628	LEAF		barɡ	b a r g
+302803	335463	savelyevturkic-CrimeanTatar	crim1257		leaf	628	LEAF		japraq	j a p r a q
+302804	335464	savelyevturkic-Dolgan	dolg1241		leaf	628	LEAF		hebirdek	h e b i r d e k
+302805	335465	savelyevturkic-Gagauz	gaga1249		leaf	628	LEAF		japrak	j a p r a k
+302806	335466	savelyevturkic-KaraKalpak	kara1467		leaf	628	LEAF		ʒapɯraq	ʒ a p ɯ r a q
+302807	335467	savelyevturkic-KarachayBalkar	kara1465		leaf	628	LEAF		ʨapraq	tɕ a p r a q
+302808	335468	savelyevturkic-Karaim	kara1464		leaf	628	LEAF		japraq	j a p r a q
+302809	335469	savelyevturkic-Khakas	khak1248		leaf	628	LEAF		pyr	p y r
+302810	335470	savelyevturkic-Kirghiz	kirg1245		leaf	628	LEAF		ʥalbɯraq	dʑ a l b ɯ r a q
+302811	335471	savelyevturkic-Kumyk	kumy1244		leaf	628	LEAF		japɯraq	j a p ɯ r a q
+302812	335472	savelyevturkic-Nogai	noga1249		leaf	628	LEAF		japɯraq	j a p ɯ r a q
+302813	335473	savelyevturkic-NorthAltai	nort2686		leaf	628	LEAF		tɕalbɯraq	tɕ a l b ɯ r a q
+302814	335474	savelyevturkic-NorthAltai	nort2686		leaf	628	LEAF		qavaq	q a v a q
+302815	335475	savelyevturkic-Salar	sala1264		leaf	628	LEAF		jarfaq	j a r f a q
+302816	335476	savelyevturkic-Shor	shor1247		leaf	628	LEAF		pyr	p y r
+302817	335477	savelyevturkic-SouthAltai	sout2694		leaf	628	LEAF		ɟalbraχ	dʑ a l b r a χ
+302818	335478	savelyevturkic-Turkmen	turk1304		leaf	628	LEAF		japraq	j a p r a q
+302819	335479	savelyevturkic-Tuvan	tuvi1240		leaf	628	LEAF		byry	b y r y
+302820	335480	savelyevturkic-Uighur	uigh1240		leaf	628	LEAF		jopurmaq	j o p u r m a q
+303229	335889	wold-Sakha	yaku1245		leaf	628	LEAF		sebirdeχ	s e b i r d e χ
+310558	343218	northeuralex-azj	nort2697		lierest	1411	LIE (REST)		uzɑnmɑɡ	u z ɑ n m ɑ g
+310559	343219	northeuralex-bak	bash1264		lierest	1411	LIE (REST)		jatɯu	j a t ɯ u
+310569	343229	northeuralex-chv	chuv1255		lierest	1411	LIE (REST)		ʋɯrt̬	ʋ ɯ r t
+310599	343259	northeuralex-kaz	kaza1248		lierest	1411	LIE (REST)		ʒɑtu	ʒ ɑ t u
+310648	343308	northeuralex-tat	tata1255		lierest	1411	LIE (REST)		jatu	j a t u
+310650	343310	northeuralex-tur	nucl1301		lierest	1411	LIE (REST)		jatmak	j a t m a k
+310653	343313	northeuralex-uzn	nort2690		lierest	1411	LIE (REST)		jɒtmɒq	j ɒ t m ɒ q
+317184	349844	northeuralex-azj	nort2697		liver	1224	LIVER		ɡɑrɑ_d͡ʒɪjær	g ɑ r ɑ + dʒ ɪ j æ r
+317185	349845	northeuralex-bak	bash1264		liver	1224	LIVER		bauɯr	b a u ɯ r
+317195	349855	northeuralex-chv	chuv1255		liver	1224	LIVER		pɘˈʋɛr	p ɘ ʋ ɛ r
+317225	349885	northeuralex-kaz	kaza1248		liver	1224	LIVER		bɑuəɾ	b ɑ u ə ɾ
+317268	349928	northeuralex-tat	tata1255		liver	1224	LIVER		bawɤr	b a w ɤ r
+317270	349930	northeuralex-tur	nucl1301		liver	1224	LIVER		kaɾad͡ʒijɛɾ	k a ɾ a dʒ i j ɛ ɾ
+317273	349933	northeuralex-uzn	nort2690		liver	1224	LIVER		baɣir	b a ɣ i r
+317348	350008	savelyevturkic-Dolgan	dolg1241		liver	1224	LIVER		bɯar	b ɯ a r
+317349	350009	savelyevturkic-KaraKalpak	kara1467		liver	1224	LIVER		bawɯr	b a w ɯ r
+317350	350010	savelyevturkic-KarachayBalkar	kara1465		liver	1224	LIVER		bawur	b a w u r
+317351	350011	savelyevturkic-Karaim	kara1464		liver	1224	LIVER		bavur, bawɯr, (k) baɣɯr	b a v u r
+317352	350012	savelyevturkic-Khakas	khak1248		liver	1224	LIVER		paar	p aː r
+317353	350013	savelyevturkic-Kirghiz	kirg1245		liver	1224	LIVER		boor	b oː r
+317354	350014	savelyevturkic-Kumyk	kumy1244		liver	1224	LIVER		bawur	b a w u r
+317355	350015	savelyevturkic-Nogai	noga1249		liver	1224	LIVER		bawɯr	b a w ɯ r
+317356	350016	savelyevturkic-NorthAltai	nort2686		liver	1224	LIVER		baɣɯr	b a ɣ ɯ r
+317357	350017	savelyevturkic-Salar	sala1264		liver	1224	LIVER		paɣɯr	p a ɣ ɯ r
+317358	350018	savelyevturkic-SarygYugur	west2402		liver	1224	LIVER		paɣɯr	p a ɣ ɯ r
+317359	350019	savelyevturkic-Shor	shor1247		liver	1224	LIVER		pa:r	p aː r
+317360	350020	savelyevturkic-SouthAltai	sout2694		liver	1224	LIVER		buur	b uː r
+317361	350021	savelyevturkic-Turkmen	turk1304		liver	1224	LIVER		baɣɯr	b a ɣ ɯ r
+317362	350022	savelyevturkic-Tuvan	tuvi1240		liver	1224	LIVER		baar	b aː r
+317363	350023	savelyevturkic-Uighur	uigh1240		liver	1224	LIVER		beɣir	b e ɣ i r
+317700	350360	wold-Sakha	yaku1245		liver	1224	LIVER		bɨar	b ɨ a r
+320116	352776	northeuralex-azj	nort2697		long	1203	LONG		uzun	u z u n
+320117	352777	northeuralex-bak	bash1264		long	1203	LONG		oðon	o ð o n
+320127	352787	northeuralex-chv	chuv1255		long	1203	LONG		ˈʋərəm	ʋ ə r ə m
+320157	352817	northeuralex-kaz	kaza1248		long	1203	LONG		sopɑq	s o p ɑ q
+320158	352818	northeuralex-kaz	kaza1248		long	1203	LONG		soɾɑjʁɑn	s o ɾ ɑ j ʁ ɑ n
+320202	352862	northeuralex-tat	tata1255		long	1203	LONG		ozɤn	o z ɤ n
+320204	352864	northeuralex-tur	nucl1301		long	1203	LONG		uzun	u z u n
+320207	352867	northeuralex-uzn	nort2690		long	1203	LONG		uzun	u z u n
+320283	352943	savelyevturkic-CrimeanTatar	crim1257		long	1203	LONG		uzun	u z u n
+320284	352944	savelyevturkic-Dolgan	dolg1241		long	1203	LONG		uhun	u h u n
+320285	352945	savelyevturkic-Gagauz	gaga1249		long	1203	LONG		uzun	u z u n
+320286	352946	savelyevturkic-KaraKalpak	kara1467		long	1203	LONG		uzɯn	u z ɯ n
+320287	352947	savelyevturkic-KarachayBalkar	kara1465		long	1203	LONG		uzun	u z u n
+320288	352948	savelyevturkic-Karaim	kara1464		long	1203	LONG		uzun	u z u n
+320289	352949	savelyevturkic-Khakas	khak1248		long	1203	LONG		uzun	u z u n
+320290	352950	savelyevturkic-Khalaj	turk1303		long	1203	LONG		uzu:n	u z uː n
+320291	352951	savelyevturkic-Kirghiz	kirg1245		long	1203	LONG		uzun	u z u n
+320292	352952	savelyevturkic-Kumyk	kumy1244		long	1203	LONG		uzun	u z u n
+320293	352953	savelyevturkic-Nogai	noga1249		long	1203	LONG		uzɯn	u z ɯ n
+320294	352954	savelyevturkic-NorthAltai	nort2686		long	1203	LONG		uzun	u z u n
+320295	352955	savelyevturkic-Salar	sala1264		long	1203	LONG		uzun	u z u n
+320296	352956	savelyevturkic-SarygYugur	west2402		long	1203	LONG		uzun, uzin, uzen	u z u n
+320297	352957	savelyevturkic-Shor	shor1247		long	1203	LONG		uzun	u z u n
+320298	352958	savelyevturkic-SouthAltai	sout2694		long	1203	LONG		uzun	u z u n
+320299	352959	savelyevturkic-Turkmen	turk1304		long	1203	LONG		uzɯn	u z ɯ n
+320300	352960	savelyevturkic-Tuvan	tuvi1240		long	1203	LONG		uzun	u z u n
+320301	352961	savelyevturkic-Uighur	uigh1240		long	1203	LONG		uzun	u z u n
+320755	353415	wold-Sakha	yaku1245		long	1203	LONG		uhun	u h u n
+323734	356394	northeuralex-azj	nort2697		louse	1392	LOUSE		bɪt	b ɪ t
+323735	356395	northeuralex-bak	bash1264		louse	1392	LOUSE		bet	b e t
+323746	356406	northeuralex-chv	chuv1255		louse	1392	LOUSE		pɯjt̬ə	p ɯ j t ə
+323771	356431	northeuralex-kaz	kaza1248		louse	1392	LOUSE		bɪjt	b ɪ j t
+323812	356472	northeuralex-tat	tata1255		louse	1392	LOUSE		bet	b e t
+323814	356474	northeuralex-tur	nucl1301		louse	1392	LOUSE		bit	b i t
+323817	356477	northeuralex-uzn	nort2690		louse	1392	LOUSE		bit	b i t
+323890	356550	savelyevturkic-CrimeanTatar	crim1257		louse	1392	LOUSE		bit	b i t
+323891	356551	savelyevturkic-KaraKalpak	kara1467		louse	1392	LOUSE		bijt	b i j t
+323892	356552	savelyevturkic-KarachayBalkar	kara1465		louse	1392	LOUSE		bit	b i t
+323893	356553	savelyevturkic-Karaim	kara1464		louse	1392	LOUSE		bit	b i t
+323894	356554	savelyevturkic-Khakas	khak1248		louse	1392	LOUSE		pɘt	p ĭ t
+323895	356555	savelyevturkic-Khalaj	turk1303		louse	1392	LOUSE		bit	b i t
+323896	356556	savelyevturkic-Kirghiz	kirg1245		louse	1392	LOUSE		bit	b i t
+323897	356557	savelyevturkic-Kumyk	kumy1244		louse	1392	LOUSE		bit	b i t
+323898	356558	savelyevturkic-Nogai	noga1249		louse	1392	LOUSE		bijt	b i j t
+323899	356559	savelyevturkic-NorthAltai	nort2686		louse	1392	LOUSE		pijt	p i j t
+323900	356560	savelyevturkic-Salar	sala1264		louse	1392	LOUSE		piʨt	p i tɕ t
+323901	356561	savelyevturkic-SarygYugur	west2402		louse	1392	LOUSE		pɯʃt, pɯʃ, pɯt	p ɯ ʃ t
+323902	356562	savelyevturkic-Shor	shor1247		louse	1392	LOUSE		pit	p i t
+323903	356563	savelyevturkic-SouthAltai	sout2694		louse	1392	LOUSE		bi(j)t	b i j t
+323904	356564	savelyevturkic-Turkmen	turk1304		louse	1392	LOUSE		bit	b i t
+323905	356565	savelyevturkic-Tuvan	tuvi1240		louse	1392	LOUSE		bɯt	b ɯ t
+323906	356566	savelyevturkic-Uighur	uigh1240		louse	1392	LOUSE		pit, (piʃt)	p i t
+330680	363341	northeuralex-azj	nort2697		man	1554	MAN		kɪʃɪ	k ɪ ʃ ɪ
+330681	363342	northeuralex-bak	bash1264		man	1554	MAN		ir	i r
+330692	363353	northeuralex-chv	chuv1255		man	1554	MAN		ar	a r
+330726	363387	northeuralex-kaz	kaza1248		man	1554	MAN		eɾkek	e ɾ k e k
+330727	363388	northeuralex-kaz	kaza1248		man	1554	MAN		eɾ_ɑdɑm	e ɾ + ɑ d ɑ m
+330786	363447	northeuralex-tat	tata1255		man	1554	MAN		ir	i r
+330788	363449	northeuralex-tur	nucl1301		man	1554	MAN		adam	a d a m
+330789	363450	northeuralex-tur	nucl1301		man	1554	MAN		ɛɾkɛk	ɛ ɾ k ɛ k
+330792	363453	northeuralex-uzn	nort2690		man	1554	MAN		ærkak	æ r k a k
+331023	363684	savelyevturkic-CrimeanTatar	crim1257		man	1554	MAN		erkek	e r k e k
+331024	363685	savelyevturkic-Dolgan	dolg1241		man	1554	MAN		er kihi	e r + k i h i
+331025	363686	savelyevturkic-Dolgan	dolg1241		man	1554	MAN		er kihi	e r + k i h i
+331026	363687	savelyevturkic-KaraKalpak	kara1467		man	1554	MAN		erkek	e r k e k
+331027	363688	savelyevturkic-KaraKalpak	kara1467		man	1554	MAN		er (adam)	e r + a d a m
+331028	363689	savelyevturkic-KarachayBalkar	kara1465		man	1554	MAN		erkiʃi	e r k i ʃ i
+331029	363690	savelyevturkic-KarachayBalkar	kara1465		man	1554	MAN		erkiʃi	e r k i ʃ i
+331030	363691	savelyevturkic-Karaim	kara1464		man	1554	MAN		? erkek	e r k e k
+331031	363692	savelyevturkic-Karaim	kara1464		man	1554	MAN		eren, ? er (kiʃi)	e r e n
+331032	363693	savelyevturkic-Karaim	kara1464		man	1554	MAN		? kiʃi, kisi, er (kiʃi)	k i ʃ i
+331033	363694	savelyevturkic-Khakas	khak1248		man	1554	MAN		ir kɘzɘ	i r + k ĭ z ĭ
+331034	363695	savelyevturkic-Khakas	khak1248		man	1554	MAN		ir kɘzɘ	i r + k ĭ z ĭ
+331035	363696	savelyevturkic-Khalaj	turk1303		man	1554	MAN		hɛr	h æ r
+331036	363697	savelyevturkic-Kirghiz	kirg1245		man	1554	MAN		erkek (kiʃi)	e r k e k + k i ʃ i
+331037	363698	savelyevturkic-Kirghiz	kirg1245		man	1554	MAN		?? (erkek) kiʃi	e r k e k + k i ʃ i
+331038	363699	savelyevturkic-Kumyk	kumy1244		man	1554	MAN		erkek	e r k e k
+331039	363700	savelyevturkic-Kumyk	kumy1244		man	1554	MAN		er (giʃi), eren	e r + g i ʃ i
+331040	363701	savelyevturkic-Kumyk	kumy1244		man	1554	MAN		eren	e r + g i ʃ i
+331041	363702	savelyevturkic-Nogai	noga1249		man	1554	MAN		erkek	e r k e k
+331042	363703	savelyevturkic-Nogai	noga1249		man	1554	MAN		er	e r
+331043	363704	savelyevturkic-NorthAltai	nort2686		man	1554	MAN		er	e r
+331044	363705	savelyevturkic-Salar	sala1264		man	1554	MAN		ɛr kiʃi	æ r + k i ʃ i
+331045	363706	savelyevturkic-Salar	sala1264		man	1554	MAN		ɛr kiʃi	æ r + k i ʃ i
+331046	363707	savelyevturkic-SarygYugur	west2402		man	1554	MAN		? erkek kise	e r k e k + k i s e
+331047	363708	savelyevturkic-SarygYugur	west2402		man	1554	MAN		eren (kise), ? er	e r e n + k i s e
+331048	363709	savelyevturkic-SarygYugur	west2402		man	1554	MAN		eren ? (kise), ? erkek kise	e r e n + k i s e
+331049	363710	savelyevturkic-Shor	shor1247		man	1554	MAN		er kiʒi	e r + k i ʒ i
+331050	363711	savelyevturkic-Shor	shor1247		man	1554	MAN		er kiʒi	e r + k i ʒ i
+331051	363712	savelyevturkic-SouthAltai	sout2694		man	1554	MAN		erkiʒi	e r k i ʒ i
+331052	363713	savelyevturkic-SouthAltai	sout2694		man	1554	MAN		erkiʒi	e r k i ʒ i
+331053	363714	savelyevturkic-Turkmen	turk1304		man	1554	MAN		erkek (adam)	e r k e k + a d a m
+331054	363715	savelyevturkic-Tuvan	tuvi1240		man	1554	MAN		er kiʒi	e r + k i ʒ i
+331055	363716	savelyevturkic-Tuvan	tuvi1240		man	1554	MAN		er kiʒi	e r + k i ʒ i
+331056	363717	savelyevturkic-Uighur	uigh1240		man	1554	MAN		ɛrkɛk	æ r k æ k
+331057	363718	savelyevturkic-Uighur	uigh1240		man	1554	MAN		ɛr (kiʃi), <erɛn (obsolete)>	ɛ r + k i ʃ i
+331058	363719	savelyevturkic-Uighur	uigh1240		man	1554	MAN		? ɛr (kiʃi)	ɛ r + k i ʃ i
+331502	364163	wold-Sakha	yaku1245		man	1554	MAN		er_kihi	e r + k i h i
+332565	365226	savelyevturkic-CrimeanTatar	crim1257		many	1198	MANY		ʨoq	tɕ o q
+332566	365227	savelyevturkic-Dolgan	dolg1241		many	1198	MANY		ygys	y g y s
+332567	365228	savelyevturkic-Gagauz	gaga1249		many	1198	MANY		ʨok	tɕ o k
+332568	365229	savelyevturkic-KaraKalpak	kara1467		many	1198	MANY		køp	k ø p
+332569	365230	savelyevturkic-KarachayBalkar	kara1465		many	1198	MANY		køb	k ø b
+332570	365231	savelyevturkic-Karaim	kara1464		many	1198	MANY		køp	k ø p
+332571	365232	savelyevturkic-Khakas	khak1248		many	1198	MANY		køp	k ø p
+332572	365233	savelyevturkic-Kirghiz	kirg1245		many	1198	MANY		køp	k ø p
+332573	365234	savelyevturkic-Kumyk	kumy1244		many	1198	MANY		køp	k ø p
+332574	365235	savelyevturkic-Nogai	noga1249		many	1198	MANY		køp	k ø p
+332575	365236	savelyevturkic-NorthAltai	nort2686		many	1198	MANY		køp	k ø p
+332576	365237	savelyevturkic-Salar	sala1264		many	1198	MANY		kop(ar)	k o p
+332577	365238	savelyevturkic-SarygYugur	west2402		many	1198	MANY		kep, (gep)	k e p
+332578	365239	savelyevturkic-Shor	shor1247		many	1198	MANY		køp	k ø p
+332579	365240	savelyevturkic-SouthAltai	sout2694		many	1198	MANY		køp	k ø p
+332580	365241	savelyevturkic-Turkmen	turk1304		many	1198	MANY		køp	k ø p
+332581	365242	savelyevturkic-Tuvan	tuvi1240		many	1198	MANY		χøj	χ ø j
+332582	365243	savelyevturkic-Uighur	uigh1240		many	1198	MANY		køp	k ø p
+332973	365634	wold-Sakha	yaku1245		many	1198	MANY		elbeχ	e l b e χ
+332974	365635	wold-Sakha	yaku1245		many	1198	MANY		ügüs	y g y s
+344710	377371	northeuralex-azj	nort2697		moon	1313	MOON		ɑj	ɑ j
+344711	377372	northeuralex-bak	bash1264		moon	1313	MOON		aj	a j
+344722	377383	northeuralex-chv	chuv1255		moon	1313	MOON		ˈujəχ	u j ə χ
+344753	377414	northeuralex-kaz	kaza1248		moon	1313	MOON		ɑj	ɑ j
+344798	377459	northeuralex-tat	tata1255		moon	1313	MOON		aj	a j
+344800	377461	northeuralex-tur	nucl1301		moon	1313	MOON		aj	a j
+344803	377464	northeuralex-uzn	nort2690		moon	1313	MOON		ɒj	ɒ j
+345059	377720	savelyevturkic-CrimeanTatar	crim1257		moon	1313	MOON		aj	a j
+345060	377721	savelyevturkic-Dolgan	dolg1241		moon	1313	MOON		ɯj	ɯ j
+345061	377722	savelyevturkic-Gagauz	gaga1249		moon	1313	MOON		aj	a j
+345062	377723	savelyevturkic-KaraKalpak	kara1467		moon	1313	MOON		aj	a j
+345063	377724	savelyevturkic-KarachayBalkar	kara1465		moon	1313	MOON		aj	a j
+345064	377725	savelyevturkic-Karaim	kara1464		moon	1313	MOON		aj	a j
+345065	377726	savelyevturkic-Khakas	khak1248		moon	1313	MOON		aj	a j
+345066	377727	savelyevturkic-Khalaj	turk1303		moon	1313	MOON		ha:aj	h aː j
+345067	377728	savelyevturkic-Kirghiz	kirg1245		moon	1313	MOON		aj	a j
+345068	377729	savelyevturkic-Kumyk	kumy1244		moon	1313	MOON		aj	a j
+345069	377730	savelyevturkic-Nogai	noga1249		moon	1313	MOON		aj	a j
+345070	377731	savelyevturkic-NorthAltai	nort2686		moon	1313	MOON		aj	a j
+345071	377732	savelyevturkic-Salar	sala1264		moon	1313	MOON		aj	a j
+345072	377733	savelyevturkic-SarygYugur	west2402		moon	1313	MOON		aj, (ej)	a j
+345073	377734	savelyevturkic-Shor	shor1247		moon	1313	MOON		aj	a j
+345074	377735	savelyevturkic-SouthAltai	sout2694		moon	1313	MOON		aj	a j
+345075	377736	savelyevturkic-Turkmen	turk1304		moon	1313	MOON		aj	a j
+345076	377737	savelyevturkic-Tuvan	tuvi1240		moon	1313	MOON		aj	a j
+345077	377738	savelyevturkic-Uighur	uigh1240		moon	1313	MOON		aj	a j
+345531	378192	wold-Sakha	yaku1245		moon	1313	MOON		ɨy	ɨ y
+351181	383845	northeuralex-azj	nort2697		mountain	639	MOUNTAIN		dɑɣ	d ɑ ɣ
+351182	383846	northeuralex-bak	bash1264		mountain	639	MOUNTAIN		tau	t a u
+351193	383857	northeuralex-chv	chuv1255		mountain	639	MOUNTAIN		tu	t u
+351227	383891	northeuralex-kaz	kaza1248		mountain	639	MOUNTAIN		tɑu	t ɑ u
+351279	383943	northeuralex-tat	tata1255		mountain	639	MOUNTAIN		tau	t a u
+351281	383945	northeuralex-tur	nucl1301		mountain	639	MOUNTAIN		daː	d aː
+351284	383948	northeuralex-uzn	nort2690		mountain	639	MOUNTAIN		tɒɣ	t ɒ ɣ
+353714	386378	northeuralex-azj	nort2697		mouth	674	MOUTH		ɑɣɯz	ɑ ɣ ɯ z
+353715	386379	northeuralex-bak	bash1264		mouth	674	MOUTH		auɯð	a u ɯ ð
+353725	386389	northeuralex-chv	chuv1255		mouth	674	MOUTH		ɕəˈʋar	ɕ ə ʋ a r
+353755	386419	northeuralex-kaz	kaza1248		mouth	674	MOUTH		ɑuəz	ɑ u ə z
+353798	386462	northeuralex-tat	tata1255		mouth	674	MOUTH		awɤz	a w ɤ z
+353799	386463	northeuralex-tat	tata1255		mouth	674	MOUTH		tamak	t a m a k
+353801	386465	northeuralex-tur	nucl1301		mouth	674	MOUTH		aːɯz	aː ɯ z
+353804	386468	northeuralex-uzn	nort2690		mouth	674	MOUTH		ɒɣiz	ɒ ɣ i z
+354064	386728	savelyevturkic-CrimeanTatar	crim1257		mouth	674	MOUTH		aɣɯz	a ɣ ɯ z
+354065	386729	savelyevturkic-Dolgan	dolg1241		mouth	674	MOUTH		ańak	a nʲ a k
+354066	386730	savelyevturkic-Gagauz	gaga1249		mouth	674	MOUTH		a:z	aː z
+354067	386731	savelyevturkic-KaraKalpak	kara1467		mouth	674	MOUTH		awɯz	a w ɯ z
+354068	386732	savelyevturkic-KarachayBalkar	kara1465		mouth	674	MOUTH		awuz	a w u z
+354069	386733	savelyevturkic-Karaim	kara1464		mouth	674	MOUTH		avuz	a v u z
+354070	386734	savelyevturkic-Khakas	khak1248		mouth	674	MOUTH		aas	aː s
+354071	386735	savelyevturkic-Khalaj	turk1303		mouth	674	MOUTH		a:ɣɯz	aː ɣ ɯ z
+354072	386736	savelyevturkic-Kirghiz	kirg1245		mouth	674	MOUTH		ooz	oː z
+354073	386737	savelyevturkic-Kumyk	kumy1244		mouth	674	MOUTH		awuz	a w u z
+354074	386738	savelyevturkic-Nogai	noga1249		mouth	674	MOUTH		awɯz	a w ɯ z
+354075	386739	savelyevturkic-NorthAltai	nort2686		mouth	674	MOUTH		aɣɯs	a ɣ ɯ s
+354076	386740	savelyevturkic-Salar	sala1264		mouth	674	MOUTH		aɣɯz	a ɣ ɯ z
+354077	386741	savelyevturkic-SarygYugur	west2402		mouth	674	MOUTH		aɣɯs, aχs	a ɣ ɯ s
+354078	386742	savelyevturkic-Shor	shor1247		mouth	674	MOUTH		aqsɯ	a q s ɯ
+354079	386743	savelyevturkic-SouthAltai	sout2694		mouth	674	MOUTH		oos	oː s
+354080	386744	savelyevturkic-Turkmen	turk1304		mouth	674	MOUTH		aɣɯz	a ɣ ɯ z
+354081	386745	savelyevturkic-Tuvan	tuvi1240		mouth	674	MOUTH		aas	aː s
+354082	386746	savelyevturkic-Uighur	uigh1240		mouth	674	MOUTH		eɣiz	e ɣ i z
+354531	387195	wold-Sakha	yaku1245		mouth	674	MOUTH		aỹaχ	a ỹ a χ
+358718	391383	northeuralex-azj	nort2697		name	1405	NAME		ɑd	ɑ d
+358719	391384	northeuralex-bak	bash1264		name	1405	NAME		isem	i s e m
+358730	391395	northeuralex-chv	chuv1255		name	1405	NAME		jat	j a t
+358758	391423	northeuralex-kaz	kaza1248		name	1405	NAME		ɑt	ɑ t
+358759	391424	northeuralex-kaz	kaza1248		name	1405	NAME		ɑtɑu	ɑ t ɑ u
+358803	391468	northeuralex-tat	tata1255		name	1405	NAME		isem	i s e m
+358805	391470	northeuralex-tur	nucl1301		name	1405	NAME		ad	a d
+358806	391471	northeuralex-tur	nucl1301		name	1405	NAME		isim	i s i m
+358809	391474	northeuralex-uzn	nort2690		name	1405	NAME		ɒt	ɒ t
+358884	391549	savelyevturkic-CrimeanTatar	crim1257		name	1405	NAME		ad	a d
+358885	391550	savelyevturkic-Dolgan	dolg1241		name	1405	NAME		a:t	aː t
+358886	391551	savelyevturkic-Gagauz	gaga1249		name	1405	NAME		ad	a d
+358887	391552	savelyevturkic-KaraKalpak	kara1467		name	1405	NAME		at	a t
+358888	391553	savelyevturkic-KarachayBalkar	kara1465		name	1405	NAME		at	a t
+358889	391554	savelyevturkic-Karaim	kara1464		name	1405	NAME		ad, at	a d
+358890	391555	savelyevturkic-Khakas	khak1248		name	1405	NAME		at	a t
+358891	391556	savelyevturkic-Khalaj	turk1303		name	1405	NAME		a:t	aː t
+358892	391557	savelyevturkic-Kirghiz	kirg1245		name	1405	NAME		at	a t
+358893	391558	savelyevturkic-Kumyk	kumy1244		name	1405	NAME		at	a t
+358894	391559	savelyevturkic-Nogai	noga1249		name	1405	NAME		at	a t
+358895	391560	savelyevturkic-NorthAltai	nort2686		name	1405	NAME		at	a t
+358896	391561	savelyevturkic-Salar	sala1264		name	1405	NAME		at	a t
+358897	391562	savelyevturkic-SarygYugur	west2402		name	1405	NAME		at	a t
+358898	391563	savelyevturkic-Shor	shor1247		name	1405	NAME		at	a t
+358899	391564	savelyevturkic-SouthAltai	sout2694		name	1405	NAME		at	a t
+358900	391565	savelyevturkic-Turkmen	turk1304		name	1405	NAME		at	a t
+358901	391566	savelyevturkic-Tuvan	tuvi1240		name	1405	NAME		at	a t
+358902	391567	savelyevturkic-Uighur	uigh1240		name	1405	NAME		at	a t
+359362	392028	wold-Sakha	yaku1245		name	1405	NAME		aːt	aː t
+365009	397676	northeuralex-azj	nort2697		neck	1333	NECK		bɔjun	b ɔ j u n
+365010	397677	northeuralex-bak	bash1264		neck	1333	NECK		mujɯn	m u j ɯ n
+365020	397687	northeuralex-chv	chuv1255		neck	1333	NECK		pɯr	p ɯ r
+365051	397718	northeuralex-kaz	kaza1248		neck	1333	NECK		mojən	m o j ə n
+365097	397764	northeuralex-tat	tata1255		neck	1333	NECK		buɡaz	b u g a z
+365099	397766	northeuralex-tur	nucl1301		neck	1333	NECK		bojun	b o j u n
+365100	397767	northeuralex-tur	nucl1301		neck	1333	NECK		ɡɛɾdan	g ɛ ɾ d a n
+365103	397770	northeuralex-uzn	nort2690		neck	1333	NECK		bojin	b o j i n
+365366	398033	savelyevturkic-CrimeanTatar	crim1257		neck	1333	NECK		bojun	b o j u n
+365367	398034	savelyevturkic-Dolgan	dolg1241		neck	1333	NECK		muoj	m u o j
+365368	398035	savelyevturkic-Gagauz	gaga1249		neck	1333	NECK		bojun	b o j u n
+365369	398036	savelyevturkic-KaraKalpak	kara1467		neck	1333	NECK		mojɯn	m o j ɯ n
+365370	398037	savelyevturkic-KarachayBalkar	kara1465		neck	1333	NECK		bojun	b o j u n
+365371	398038	savelyevturkic-Karaim	kara1464		neck	1333	NECK		bojun	b o j u n
+365372	398039	savelyevturkic-Khakas	khak1248		neck	1333	NECK		mojɯn	m o j ɯ n
+365373	398040	savelyevturkic-Khalaj	turk1303		neck	1333	NECK		buun	b uː n
+365374	398041	savelyevturkic-Kirghiz	kirg1245		neck	1333	NECK		mojun	m o j u n
+365375	398042	savelyevturkic-Kumyk	kumy1244		neck	1333	NECK		bojun	b o j u n
+365376	398043	savelyevturkic-Nogai	noga1249		neck	1333	NECK		mojɯn	m o j ɯ n
+365377	398044	savelyevturkic-NorthAltai	nort2686		neck	1333	NECK		mojɯn	m o j ɯ n
+365378	398045	savelyevturkic-Salar	sala1264		neck	1333	NECK		poinɯ	p o i n ɯ
+365379	398046	savelyevturkic-SarygYugur	west2402		neck	1333	NECK		moin	m o i n
+365380	398047	savelyevturkic-Shor	shor1247		neck	1333	NECK		mojun (3sg. mojnu)	m o j u n
+365381	398048	savelyevturkic-SouthAltai	sout2694		neck	1333	NECK		mojɯn	m o j ɯ n
+365382	398049	savelyevturkic-Turkmen	turk1304		neck	1333	NECK		bojun	b o j u n
+365383	398050	savelyevturkic-Tuvan	tuvi1240		neck	1333	NECK		mojun	m o j u n
+365384	398051	savelyevturkic-Uighur	uigh1240		neck	1333	NECK		bojun	b o j u n
+365810	398477	wold-Sakha	yaku1245		neck	1333	NECK		moːy	m oː y
+369056	401723	northeuralex-azj	nort2697		new	1231	NEW		jɛnɪ	j ɛ n ɪ
+369057	401724	northeuralex-bak	bash1264		new	1231	NEW		jaŋɯ	j a ŋ ɯ
+369068	401735	northeuralex-chv	chuv1255		new	1231	NEW		ˈɕɘnɘ	ɕ ɘ n ɘ
+369099	401766	northeuralex-kaz	kaza1248		new	1231	NEW		ʒɑŋɑ	ʒ ɑ ŋ ɑ
+369144	401811	northeuralex-tat	tata1255		new	1231	NEW		jaŋa	j a ŋ a
+369146	401813	northeuralex-tur	nucl1301		new	1231	NEW		jɛni	j ɛ n i
+369149	401816	northeuralex-uzn	nort2690		new	1231	NEW		jaŋi	j a ŋ i
+369224	401891	savelyevturkic-CrimeanTatar	crim1257		new	1231	NEW		jaŋɯ	j a ŋ ɯ
+369225	401892	savelyevturkic-Dolgan	dolg1241		new	1231	NEW		haŋa	h a ŋ a
+369226	401893	savelyevturkic-Gagauz	gaga1249		new	1231	NEW		jeni	j e n i
+369227	401894	savelyevturkic-KaraKalpak	kara1467		new	1231	NEW		ʒaŋa	ʒ a ŋ a
+369228	401895	savelyevturkic-KarachayBalkar	kara1465		new	1231	NEW		ʥaŋɯ	dʑ a ŋ ɯ
+369229	401896	savelyevturkic-Karaim	kara1464		new	1231	NEW		janɣɯ	j a n ɣ ɯ
+369230	401897	savelyevturkic-Khakas	khak1248		new	1231	NEW		naa	n aː
+369231	401898	savelyevturkic-Khalaj	turk1303		new	1231	NEW		jɛŋgi	j æ ŋ g i
+369232	401899	savelyevturkic-Kirghiz	kirg1245		new	1231	NEW		ʥaŋɯ	dʑ a ŋ ɯ
+369233	401900	savelyevturkic-Kumyk	kumy1244		new	1231	NEW		jaŋɯ	j a ŋ ɯ
+369234	401901	savelyevturkic-Nogai	noga1249		new	1231	NEW		jaŋɯ	j a ŋ ɯ
+369235	401902	savelyevturkic-NorthAltai	nort2686		new	1231	NEW		nʲaŋɯ	nʲ a ŋ ɯ
+369236	401903	savelyevturkic-Salar	sala1264		new	1231	NEW		jaŋɯ	j a ŋ ɯ
+369237	401904	savelyevturkic-SarygYugur	west2402		new	1231	NEW		jaŋɯ, jaŋa	j a ŋ ɯ
+369238	401905	savelyevturkic-Shor	shor1247		new	1231	NEW		na:	n aː
+369239	401906	savelyevturkic-SouthAltai	sout2694		new	1231	NEW		ɟaŋɯ	dʑ a ŋ ɯ
+369240	401907	savelyevturkic-Uighur	uigh1240		new	1231	NEW		jeŋi	j e ŋ i
+369702	402369	wold-Sakha	yaku1245		new	1231	NEW		saŋa	s a ŋ a
+371850	404517	northeuralex-azj	nort2697		night	1233	NIGHT		ɟɛd͡ʒæ	ɟ ɛ dʒ æ
+371851	404518	northeuralex-bak	bash1264		night	1233	NIGHT		tøn	t ø n
+371861	404528	northeuralex-chv	chuv1255		night	1233	NIGHT		kaɕ	k a ɕ
+371891	404558	northeuralex-kaz	kaza1248		night	1233	NIGHT		tʊn	t ʊ n
+371937	404604	northeuralex-tat	tata1255		night	1233	NIGHT		tœn	t œ n
+371939	404606	northeuralex-tur	nucl1301		night	1233	NIGHT		ɡɛd͡ʒɛ	g ɛ dʒ ɛ
+371942	404609	northeuralex-uzn	nort2690		night	1233	NIGHT		tun	t u n
+372172	404839	savelyevturkic-CrimeanTatar	crim1257		night	1233	NIGHT		geʥe	g e dʑ e
+372173	404840	savelyevturkic-Dolgan	dolg1241		night	1233	NIGHT		ty:n	t yː n
+372174	404841	savelyevturkic-Gagauz	gaga1249		night	1233	NIGHT		geʥɛ	g e dʑ ɛ
+372175	404842	savelyevturkic-KaraKalpak	kara1467		night	1233	NIGHT		tyn	t y n
+372176	404843	savelyevturkic-KarachayBalkar	kara1465		night	1233	NIGHT		keʨe	k e tɕ e
+372177	404844	savelyevturkic-Karaim	kara1464		night	1233	NIGHT		keʨɛ (t), keʦe (h)	k e tɕ ɛ
+372178	404845	savelyevturkic-Khakas	khak1248		night	1233	NIGHT		tyn	t y n
+372179	404846	savelyevturkic-Khakas	khak1248		night	1233	NIGHT		χaraa	χ a r aː
+372180	404847	savelyevturkic-Khalaj	turk1303		night	1233	NIGHT		ki:eʨɛ	k iː tɕ æ
+372181	404848	savelyevturkic-Kirghiz	kirg1245		night	1233	NIGHT		tyn	t y n
+372182	404849	savelyevturkic-Kumyk	kumy1244		night	1233	NIGHT		geʨe	g e tɕ e
+372183	404850	savelyevturkic-Nogai	noga1249		night	1233	NIGHT		tyn	t y n
+372184	404851	savelyevturkic-Nogai	noga1249		night	1233	NIGHT		keʃe	k e ʃ e
+372185	404852	savelyevturkic-NorthAltai	nort2686		night	1233	NIGHT		tyn	t y n
+372186	404853	savelyevturkic-Salar	sala1264		night	1233	NIGHT		geʥe	g e dʑ e
+372187	404854	savelyevturkic-SarygYugur	west2402		night	1233	NIGHT		tyn	t y n
+372188	404855	savelyevturkic-Shor	shor1247		night	1233	NIGHT		tyn	t y n
+372189	404856	savelyevturkic-SouthAltai	sout2694		night	1233	NIGHT		tyn	t y n
+372190	404857	savelyevturkic-Turkmen	turk1304		night	1233	NIGHT		giʥe	g i dʑ e
+372191	404858	savelyevturkic-Tuvan	tuvi1240		night	1233	NIGHT		dyn(e)	d y n e
+372192	404859	savelyevturkic-Uighur	uigh1240		night	1233	NIGHT		tyn	t y n
+372645	405312	wold-Sakha	yaku1245		night	1233	NIGHT		tüːn	t yː n
+377673	410340	northeuralex-azj	nort2697		nose	1221	NOSE		burun	b u r u n
+377674	410341	northeuralex-bak	bash1264		nose	1221	NOSE		tanau	t a n a u
+377684	410351	northeuralex-chv	chuv1255		nose	1221	NOSE		səmˈs̬a	s ə m s a
+377713	410380	northeuralex-kaz	kaza1248		nose	1221	NOSE		mʉɾən	m ʉ ɾ ə n
+377757	410424	northeuralex-tat	tata1255		nose	1221	NOSE		borɤn	b o r ɤ n
+377759	410426	northeuralex-tur	nucl1301		nose	1221	NOSE		buɾun	b u ɾ u n
+377762	410429	northeuralex-uzn	nort2690		nose	1221	NOSE		burun	b u r u n
+378018	410685	savelyevturkic-CrimeanTatar	crim1257		nose	1221	NOSE		burun	b u r u n
+378019	410686	savelyevturkic-Dolgan	dolg1241		nose	1221	NOSE		munnu	m u nː u
+378020	410687	savelyevturkic-Gagauz	gaga1249		nose	1221	NOSE		burnu	b u r n u
+378021	410688	savelyevturkic-KaraKalpak	kara1467		nose	1221	NOSE		murɯn	m u r ɯ n
+378022	410689	savelyevturkic-KarachayBalkar	kara1465		nose	1221	NOSE		burun	b u r u n
+378023	410690	savelyevturkic-Karaim	kara1464		nose	1221	NOSE		burun	b u r u n
+378024	410691	savelyevturkic-Khakas	khak1248		nose	1221	NOSE		purun	p u r u n
+378025	410692	savelyevturkic-Khalaj	turk1303		nose	1221	NOSE		burɯn	b u r ɯ n
+378026	410693	savelyevturkic-Kirghiz	kirg1245		nose	1221	NOSE		murun	m u r u n
+378027	410694	savelyevturkic-Kumyk	kumy1244		nose	1221	NOSE		burun	b u r u n
+378028	410695	savelyevturkic-Nogai	noga1249		nose	1221	NOSE		burɯn	b u r ɯ n
+378029	410696	savelyevturkic-NorthAltai	nort2686		nose	1221	NOSE		burun	b u r u n
+378030	410697	savelyevturkic-Salar	sala1264		nose	1221	NOSE		purnɯ	p u r n ɯ
+378031	410698	savelyevturkic-SarygYugur	west2402		nose	1221	NOSE		qaŋrɯq	q a ŋ r ɯ q
+378032	410699	savelyevturkic-Shor	shor1247		nose	1221	NOSE		purnu	p u r n u
+378033	410700	savelyevturkic-SouthAltai	sout2694		nose	1221	NOSE		tumʨuq	t u m tɕ u q
+378034	410701	savelyevturkic-Turkmen	turk1304		nose	1221	NOSE		burun	b u r u n
+378035	410702	savelyevturkic-Tuvan	tuvi1240		nose	1221	NOSE		? χaaj	χ aː j
+378036	410703	savelyevturkic-Tuvan	tuvi1240		nose	1221	NOSE		dumʨuq	d u m tɕ u q
+378037	410704	savelyevturkic-Uighur	uigh1240		nose	1221	NOSE		burun	b u r u n
+378525	411192	wold-Sakha	yaku1245		nose	1221	NOSE		murun	m u r u n
+379190	411857	northeuralex-azj	nort2697		not	1240	NOT		mɑ	m ɑ
+379191	411858	northeuralex-bak	bash1264		not	1240	NOT		tuɡel	t u g e l
+379202	411869	northeuralex-chv	chuv1255		not	1240	NOT		mar	m a r
+379241	411908	northeuralex-kaz	kaza1248		not	1240	NOT		emes	e m e s
+379291	411958	northeuralex-tat	tata1255		not	1240	NOT		tʉɡel	t ʉ g e l
+379293	411960	northeuralex-tur	nucl1301		not	1240	NOT		mi	m i
+379294	411961	northeuralex-tur	nucl1301		not	1240	NOT		dɛjil	d ɛ j i l
+379297	411964	northeuralex-uzn	nort2690		not	1240	NOT		æmas	æ m a s
+379332	411999	savelyevturkic-CrimeanTatar	crim1257		not	1240	NOT		mA	m a
+379333	412000	savelyevturkic-Dolgan	dolg1241		not	1240	NOT		bA	b a
+379334	412001	savelyevturkic-Gagauz	gaga1249		not	1240	NOT		mA	m a
+379335	412002	savelyevturkic-KaraKalpak	kara1467		not	1240	NOT		mA, bA, pA	m a
+379336	412003	savelyevturkic-KarachayBalkar	kara1465		not	1240	NOT		mA	m a
+379337	412004	savelyevturkic-Karaim	kara1464		not	1240	NOT		mA	m a
+379338	412005	savelyevturkic-Khakas	khak1248		not	1240	NOT		bV, pV, mV	b a
+379339	412006	savelyevturkic-Khalaj	turk1303		not	1240	NOT		mA	m a
+379340	412007	savelyevturkic-Kirghiz	kirg1245		not	1240	NOT		bA	b a
+379341	412008	savelyevturkic-Kumyk	kumy1244		not	1240	NOT		mA	m a
+379342	412009	savelyevturkic-Nogai	noga1249		not	1240	NOT		mA, bA, pA	m a
+379343	412010	savelyevturkic-NorthAltai	nort2686		not	1240	NOT		ba	b a
+379344	412011	savelyevturkic-Salar	sala1264		not	1240	NOT		mV	m a
+379345	412012	savelyevturkic-SarygYugur	west2402		not	1240	NOT		emes / emestro / emeser (Fut. I, III), mA, pA (Fut II, Past I, II), mEn, pEn	m a
+379346	412013	savelyevturkic-Shor	shor1247		not	1240	NOT		pA, bA, mA	p a
+379347	412014	savelyevturkic-SouthAltai	sout2694		not	1240	NOT		ma, ba	m a
+379348	412015	savelyevturkic-Turkmen	turk1304		not	1240	NOT		mA	m a
+379349	412016	savelyevturkic-Tuvan	tuvi1240		not	1240	NOT		mA, eves	m a
+379350	412017	savelyevturkic-Uighur	uigh1240		not	1240	NOT		mA	m a
+379591	412258	wold-Sakha	yaku1245		not	1240	NOT		suoχ	s u o χ
+389944	422611	northeuralex-azj	nort2697		one	1493	ONE		bɪr	b ɪ r
+389945	422612	northeuralex-bak	bash1264		one	1493	ONE		ber	b e r
+389956	422623	northeuralex-chv	chuv1255		one	1493	ONE		pɘr	p ɘ r
+389957	422624	northeuralex-chv	chuv1255		one	1493	ONE		pɘˈrɛ	p ɘ r ɛ
+389986	422653	northeuralex-kaz	kaza1248		one	1493	ONE		bəɾ	b ə ɾ
+390032	422699	northeuralex-tat	tata1255		one	1493	ONE		ber	b e r
+390034	422701	northeuralex-tur	nucl1301		one	1493	ONE		biɾ	b i ɾ
+390037	422704	northeuralex-uzn	nort2690		one	1493	ONE		bir	b i r
+390300	422967	savelyevturkic-CrimeanTatar	crim1257		one	1493	ONE		bir	b i r
+390301	422968	savelyevturkic-Dolgan	dolg1241		one	1493	ONE		bi:r	b iː r
+390302	422969	savelyevturkic-Gagauz	gaga1249		one	1493	ONE		bir	b i r
+390303	422970	savelyevturkic-KaraKalpak	kara1467		one	1493	ONE		bir	b i r
+390304	422971	savelyevturkic-KarachayBalkar	kara1465		one	1493	ONE		bir	b i r
+390305	422972	savelyevturkic-Karaim	kara1464		one	1493	ONE		bir	b i r
+390306	422973	savelyevturkic-Khakas	khak1248		one	1493	ONE		pɘr	p ĭ r
+390307	422974	savelyevturkic-Khalaj	turk1303		one	1493	ONE		bi:	b iː
+390308	422975	savelyevturkic-Kirghiz	kirg1245		one	1493	ONE		bir	b i r
+390309	422976	savelyevturkic-Kumyk	kumy1244		one	1493	ONE		bir	b i r
+390310	422977	savelyevturkic-Nogai	noga1249		one	1493	ONE		bir	b i r
+390311	422978	savelyevturkic-NorthAltai	nort2686		one	1493	ONE		pir	p i r
+390312	422979	savelyevturkic-Salar	sala1264		one	1493	ONE		bir	b i r
+390313	422980	savelyevturkic-SarygYugur	west2402		one	1493	ONE		per, pɯr	p e r
+390314	422981	savelyevturkic-Shor	shor1247		one	1493	ONE		pir	p i r
+390315	422982	savelyevturkic-SouthAltai	sout2694		one	1493	ONE		bir	b i r
+390316	422983	savelyevturkic-Turkmen	turk1304		one	1493	ONE		bir	b i r
+390317	422984	savelyevturkic-Tuvan	tuvi1240		one	1493	ONE		bir	b i r
+390318	422985	savelyevturkic-Uighur	uigh1240		one	1493	ONE		bir	b i r
+390797	423464	wold-Sakha	yaku1245		one	1493	ONE		biːr	b iː r
+406511	439178	northeuralex-azj	nort2697		person	683	PERSON		ɑdɑm	ɑ d ɑ m
+406512	439179	northeuralex-azj	nort2697		person	683	PERSON		ɪnsɑn	ɪ n s ɑ n
+406513	439180	northeuralex-bak	bash1264		person	683	PERSON		keʃe	k e ʃ e
+406527	439194	northeuralex-chv	chuv1255		person	683	PERSON		ɕɯn	ɕ ɯ n
+406528	439195	northeuralex-chv	chuv1255		person	683	PERSON		eˈtɛm	e t ɛ m
+406561	439228	northeuralex-kaz	kaza1248		person	683	PERSON		ɑdɑm	ɑ d ɑ m
+406612	439279	northeuralex-tat	tata1255		person	683	PERSON		adæm	a d æ m
+406613	439280	northeuralex-tat	tata1255		person	683	PERSON		insan	i n s a n
+406615	439282	northeuralex-tur	nucl1301		person	683	PERSON		insan	i n s a n
+406619	439286	northeuralex-uzn	nort2690		person	683	PERSON		ɒdam	ɒ d a m
+406667	439334	savelyevturkic-Dolgan	dolg1241		person	683	PERSON		kihi	k i h i
+406668	439335	savelyevturkic-Karaim	kara1464		person	683	PERSON		kiʃi	k i ʃ i
+406669	439336	savelyevturkic-Khakas	khak1248		person	683	PERSON		kɘzɘ	k ĭ z ĭ
+406670	439337	savelyevturkic-Kirghiz	kirg1245		person	683	PERSON		kiʃi	k i ʃ i
+406671	439338	savelyevturkic-Kumyk	kumy1244		person	683	PERSON		giʃi	g i ʃ i
+406672	439339	savelyevturkic-Nogai	noga1249		person	683	PERSON		kisi	k i s i
+406673	439340	savelyevturkic-NorthAltai	nort2686		person	683	PERSON		kiʒi	k i ʒ i
+406674	439341	savelyevturkic-Salar	sala1264		person	683	PERSON		kiʃ	k i ʃ
+406675	439342	savelyevturkic-SarygYugur	west2402		person	683	PERSON		kise, (kese, kse)	k i s e
+406676	439343	savelyevturkic-Shor	shor1247		person	683	PERSON		kiʒi	k i ʒ i
+406677	439344	savelyevturkic-SouthAltai	sout2694		person	683	PERSON		kiʒi	k i ʒ i
+406678	439345	savelyevturkic-Tuvan	tuvi1240		person	683	PERSON		kiʒi	k i ʒ i
+406679	439346	savelyevturkic-Uighur	uigh1240		person	683	PERSON		kiʃi	k i ʃ i
+406936	439603	wold-Sakha	yaku1245		person	683	PERSON		kihi	k i h i
+432747	465415	northeuralex-azj	nort2697		red	156	RED		ɡɯrmɯzɯ	g ɯ r m ɯ z ɯ
+432748	465416	northeuralex-bak	bash1264		red	156	RED		matur	m a t u r
+432749	465417	northeuralex-bak	bash1264		red	156	RED		hɯlɯu	h ɯ l ɯ u
+432750	465418	northeuralex-bak	bash1264		red	156	RED		sibær	s i b æ r
+432761	465429	northeuralex-chv	chuv1255		red	156	RED		ˈχɘrlɘ	χ ɘ r l ɘ
+432792	465460	northeuralex-kaz	kaza1248		red	156	RED		qəzəl	q ə z ə l
+432836	465504	northeuralex-tat	tata1255		red	156	RED		qɤzɤl	q ɤ z ɤ l
+432838	465506	northeuralex-tur	nucl1301		red	156	RED		kɯɾmɯzɯ	k ɯ ɾ m ɯ z ɯ
+432841	465509	northeuralex-uzn	nort2690		red	156	RED		qizil	q i z i l
+432919	465587	savelyevturkic-CrimeanTatar	crim1257		red	156	RED		kɯzil	k ɯ z i l
+432920	465588	savelyevturkic-Dolgan	dolg1241		red	156	RED		kɯhɯl	k ɯ h ɯ l
+432921	465589	savelyevturkic-KaraKalpak	kara1467		red	156	RED		qɯzɯl	q ɯ z ɯ l
+432922	465590	savelyevturkic-KarachayBalkar	kara1465		red	156	RED		qɯzɯl	q ɯ z ɯ l
+432923	465591	savelyevturkic-Karaim	kara1464		red	156	RED		kɯzɯl, kizɯl	k ɯ z ɯ l
+432924	465592	savelyevturkic-Khakas	khak1248		red	156	RED		χɯzɯl	χ ɯ z ɯ l
+432925	465593	savelyevturkic-Khalaj	turk1303		red	156	RED		qɯzɯl	q ɯ z ɯ l
+432926	465594	savelyevturkic-Kirghiz	kirg1245		red	156	RED		qɯzɯl	q ɯ z ɯ l
+432927	465595	savelyevturkic-Kumyk	kumy1244		red	156	RED		qɯzɯl	q ɯ z ɯ l
+432928	465596	savelyevturkic-Nogai	noga1249		red	156	RED		qɯzɯl	q ɯ z ɯ l
+432929	465597	savelyevturkic-NorthAltai	nort2686		red	156	RED		qɯzɯl	q ɯ z ɯ l
+432930	465598	savelyevturkic-Salar	sala1264		red	156	RED		qɯsɯl, qɯzɯl	q ɯ s ɯ l
+432931	465599	savelyevturkic-SarygYugur	west2402		red	156	RED		qɯzɯl	q ɯ z ɯ l
+432932	465600	savelyevturkic-Shor	shor1247		red	156	RED		qɯzɯl	q ɯ z ɯ l
+432933	465601	savelyevturkic-SouthAltai	sout2694		red	156	RED		qɯzɯl	q ɯ z ɯ l
+432934	465602	savelyevturkic-Turkmen	turk1304		red	156	RED		ɢɯzɯl	ɢ ɯ z ɯ l
+432935	465603	savelyevturkic-Tuvan	tuvi1240		red	156	RED		qɯzɯl	q ɯ z ɯ l
+432936	465604	savelyevturkic-Uighur	uigh1240		red	156	RED		qizil	q i z i l
+433360	466028	wold-Sakha	yaku1245		red	156	RED		kɨhɨl	k ɨ h ɨ l
+441536	474205	northeuralex-azj	nort2697		road	667	ROAD		kyt͡ʃæ	k y tʃ æ
+441537	474206	northeuralex-bak	bash1264		road	667	ROAD		uram	u r a m
+441548	474217	northeuralex-chv	chuv1255		road	667	ROAD		ɕyˈrɛʋ	ɕ y r ɛ ʋ
+441549	474218	northeuralex-chv	chuv1255		road	667	ROAD		ɕul_ɕyrɛˈni	ɕ u l + ɕ y r ɛ n i
+441582	474251	northeuralex-kaz	kaza1248		road	667	ROAD		ʒol	ʒ o l
+441632	474301	northeuralex-tat	tata1255		road	667	ROAD		uram	u r a m
+441634	474303	northeuralex-tur	nucl1301		road	667	ROAD		jol	j o l
+441635	474304	northeuralex-tur	nucl1301		road	667	ROAD		d͡ʒadːɛ	dʒ a dː ɛ
+441638	474307	northeuralex-uzn	nort2690		road	667	ROAD		kot͡ʃa	k o tʃ a
+441766	474435	wold-Sakha	yaku1245		road	667	ROAD		suol	s u o l
+444623	477292	northeuralex-azj	nort2697		root	670	ROOT		kœk	k œ k
+444624	477293	northeuralex-bak	bash1264		root	670	ROOT		tamɯr	t a m ɯ r
+444636	477305	northeuralex-chv	chuv1255		root	670	ROOT		tɯˈmar	t ɯ m a r
+444668	477337	northeuralex-kaz	kaza1248		root	670	ROOT		tʊbəɾ	t ʊ b ə ɾ
+444714	477383	northeuralex-tat	tata1255		root	670	ROOT		tamɤr	t a m ɤ r
+444716	477385	northeuralex-tur	nucl1301		root	670	ROOT		kœk	k œ k
+444719	477388	northeuralex-uzn	nort2690		root	670	ROOT		tub	t u b
+444720	477389	northeuralex-uzn	nort2690		root	670	ROOT		tɒmir	t ɒ m i r
+444976	477645	savelyevturkic-CrimeanTatar	crim1257		root	670	ROOT		tamɯr	t a m ɯ r
+444977	477646	savelyevturkic-Dolgan	dolg1241		root	670	ROOT		hilis	h i l i s
+444978	477647	savelyevturkic-Gagauz	gaga1249		root	670	ROOT		køk	k ø k
+444979	477648	savelyevturkic-KaraKalpak	kara1467		root	670	ROOT		tamɯr	t a m ɯ r
+444980	477649	savelyevturkic-KarachayBalkar	kara1465		root	670	ROOT		tamɯr	t a m ɯ r
+444981	477650	savelyevturkic-Karaim	kara1464		root	670	ROOT		tamur	t a m u r
+444982	477651	savelyevturkic-Kirghiz	kirg1245		root	670	ROOT		tamɯr	t a m ɯ r
+444983	477652	savelyevturkic-Kumyk	kumy1244		root	670	ROOT		tamur	t a m u r
+444984	477653	savelyevturkic-Nogai	noga1249		root	670	ROOT		tamɯr	t a m ɯ r
+444985	477654	savelyevturkic-NorthAltai	nort2686		root	670	ROOT		tazɯl	t a z ɯ l
+444986	477655	savelyevturkic-Salar	sala1264		root	670	ROOT		o(:)zeχ	o z e χ
+444987	477656	savelyevturkic-SarygYugur	west2402		root	670	ROOT		jɯltɯs	j ɯ l t ɯ s
+444988	477657	savelyevturkic-Shor	shor1247		root	670	ROOT		tɕɯltɯs	tɕ ɯ l t ɯ s
+444989	477658	savelyevturkic-Shor	shor1247		root	670	ROOT		? tazɯl	t a z ɯ l
+444990	477659	savelyevturkic-SouthAltai	sout2694		root	670	ROOT		tazɯl	t a z ɯ l
+444991	477660	savelyevturkic-Turkmen	turk1304		root	670	ROOT		køk	k ø k
+444992	477661	savelyevturkic-Tuvan	tuvi1240		root	670	ROOT		dazɯl	d a z ɯ l
+444993	477662	savelyevturkic-Uighur	uigh1240		root	670	ROOT		tomur	t o m u r
+444994	477663	savelyevturkic-Uighur	uigh1240		root	670	ROOT		jiltiz, ʒiltiz [dial. iltiz]	j i l t i z
+445415	478084	wold-Sakha	yaku1245		root	670	ROOT		silis	s i l i s
+445416	478085	wold-Sakha	yaku1245		root	670	ROOT		törüt	t œ r y t
+448987	481656	northeuralex-azj	nort2697		round	1395	ROUND		juvɑrlɑɡ	j u v ɑ r l ɑ g
+448988	481657	northeuralex-bak	bash1264		round	1395	ROUND		tyŋæræk	t y ŋ æ r æ k
+448999	481668	northeuralex-chv	chuv1255		round	1395	ROUND		ɕaʋˈra	ɕ a ʋ r a
+449028	481697	northeuralex-kaz	kaza1248		round	1395	ROUND		domɑlɑq	d o m ɑ l ɑ q
+449076	481745	northeuralex-tat	tata1255		round	1395	ROUND		tʉɡæræk	t ʉ g æ r æ k
+449078	481747	northeuralex-tur	nucl1301		round	1395	ROUND		juvaɾlak	j u v a ɾ l a k
+449081	481750	northeuralex-uzn	nort2690		round	1395	ROUND		jumalɒq	j u m a l ɒ q
+449147	481816	savelyevturkic-CrimeanTatar	crim1257		round	1395	ROUND		? tomalaq (2D, 3D?)	t o m a l a q
+449148	481817	savelyevturkic-Dolgan	dolg1241		round	1395	ROUND		tøgyryk	t ø g y r y k
+449149	481818	savelyevturkic-Gagauz	gaga1249		round	1395	ROUND		juvarlak	j u v a r l a k
+449150	481819	savelyevturkic-KaraKalpak	kara1467		round	1395	ROUND		domalaq, dumalaq (3D + body parts)	d o m a l a q
+449151	481820	savelyevturkic-KaraKalpak	kara1467		round	1395	ROUND		ʒumalaq, ʒumɯrɯ  (3D + body parts)	ʒ u m a l a q
+449152	481821	savelyevturkic-Karaim	kara1464		round	1395	ROUND		jumalak	j u m a l a k
+449153	481822	savelyevturkic-Khakas	khak1248		round	1395	ROUND		nɯmalaχ (3D)	n ɯ m a l a χ
+449154	481823	savelyevturkic-Khakas	khak1248		round	1395	ROUND		terpek (2D)	t e r p e k
+449155	481824	savelyevturkic-Khalaj	turk1303		round	1395	ROUND		gildir (3D)	g i l d i r
+449156	481825	savelyevturkic-Kirghiz	kirg1245		round	1395	ROUND		tegerek (2D), toɣoloq (3D)	t e g e r e k
+449157	481826	savelyevturkic-Kirghiz	kirg1245		round	1395	ROUND		ʥumuru (3D)	dʑ u m u r u
+449158	481827	savelyevturkic-Nogai	noga1249		round	1395	ROUND		tɯmalaq	t ɯ m a l a q
+449159	481828	savelyevturkic-SouthAltai	sout2694		round	1395	ROUND		teɣerik	t e ɣ e r i k
+449160	481829	savelyevturkic-Uighur	uigh1240		round	1395	ROUND		domulaq (3D)	d o m u l a q
+449161	481830	savelyevturkic-Uighur	uigh1240		round	1395	ROUND		jumulaq, ʒumulaq (2D, 3D)	j u m u l a q
+449379	482048	wold-Sakha	yaku1245		round	1395	ROUND		tögürük	t œ g y r y k
+456636	489305	northeuralex-azj	nort2697		sand	671	SAND		ɡum	g u m
+456637	489306	northeuralex-bak	bash1264		sand	671	SAND		qom	q o m
+456647	489316	northeuralex-chv	chuv1255		sand	671	SAND		ˈχəjər	χ ə j ə r
+456680	489349	northeuralex-kaz	kaza1248		sand	671	SAND		qʉm	q ʉ m
+456727	489396	northeuralex-tat	tata1255		sand	671	SAND		qom	q o m
+456729	489398	northeuralex-tur	nucl1301		sand	671	SAND		kum	k u m
+456732	489401	northeuralex-uzn	nort2690		sand	671	SAND		qum	q u m
+456982	489651	savelyevturkic-CrimeanTatar	crim1257		sand	671	SAND		qum	q u m
+456983	489652	savelyevturkic-Dolgan	dolg1241		sand	671	SAND		kumak	k u m a k
+456984	489653	savelyevturkic-Gagauz	gaga1249		sand	671	SAND		kum	k u m
+456985	489654	savelyevturkic-KaraKalpak	kara1467		sand	671	SAND		qum	q u m
+456986	489655	savelyevturkic-KarachayBalkar	kara1465		sand	671	SAND		qum	q u m
+456987	489656	savelyevturkic-Karaim	kara1464		sand	671	SAND		kum	k u m
+456988	489657	savelyevturkic-Khakas	khak1248		sand	671	SAND		χum	χ u m
+456989	489658	savelyevturkic-Kirghiz	kirg1245		sand	671	SAND		qum	q u m
+456990	489659	savelyevturkic-Kumyk	kumy1244		sand	671	SAND		χum	χ u m
+456991	489660	savelyevturkic-Kumyk	kumy1244		sand	671	SAND		qajɯr	q a j ɯ r
+456992	489661	savelyevturkic-Nogai	noga1249		sand	671	SAND		qum	q u m
+456993	489662	savelyevturkic-Nogai	noga1249		sand	671	SAND		qajɯr	q a j ɯ r
+456994	489663	savelyevturkic-NorthAltai	nort2686		sand	671	SAND		quvaq	q u v a q
+456995	489664	savelyevturkic-Salar	sala1264		sand	671	SAND		? kum	k u m
+456996	489665	savelyevturkic-SarygYugur	west2402		sand	671	SAND		qum, qom	q u m
+456997	489666	savelyevturkic-Shor	shor1247		sand	671	SAND		qumaq	q u m a q
+456998	489667	savelyevturkic-Turkmen	turk1304		sand	671	SAND		ʨɛge	tɕ æ g e
+456999	489668	savelyevturkic-Uighur	uigh1240		sand	671	SAND		qum	q u m
+457418	490087	wold-Sakha	yaku1245		sand	671	SAND		kumaχ	k u m a χ
+459560	492229	northeuralex-azj	nort2697		say	1458	SAY		dɛmæk	d ɛ m æ k
+459561	492230	northeuralex-azj	nort2697		say	1458	SAY		sœjmɛk	s œ j m ɛ k
+459562	492231	northeuralex-bak	bash1264		say	1458	SAY		æjtey	æ j t e y
+459573	492242	northeuralex-chv	chuv1255		say	1458	SAY		tɛ	t ɛ
+459603	492272	northeuralex-kaz	kaza1248		say	1458	SAY		deu	d e u
+459604	492273	northeuralex-kaz	kaza1248		say	1458	SAY		ɑjtu	ɑ j t u
+459659	492328	northeuralex-tat	tata1255		say	1458	SAY		dijʊ	d i j ʊ
+459660	492329	northeuralex-tat	tata1255		say	1458	SAY		æjtʉ	æ j t ʉ
+459662	492331	northeuralex-tur	nucl1301		say	1458	SAY		dɛmɛk	d ɛ m ɛ k
+459663	492332	northeuralex-tur	nucl1301		say	1458	SAY		sœjlɛmɛk	s œ j l ɛ m ɛ k
+459667	492336	northeuralex-uzn	nort2690		say	1458	SAY		ajtmɒq	a j t m ɒ q
+459711	492380	savelyevturkic-CrimeanTatar	crim1257		say	1458	SAY		ajt	a j t
+459712	492381	savelyevturkic-Dolgan	dolg1241		say	1458	SAY		die	d i e
+459713	492382	savelyevturkic-Gagauz	gaga1249		say	1458	SAY		de	d e
+459714	492383	savelyevturkic-Gagauz	gaga1249		say	1458	SAY		søle	s ø l e
+459715	492384	savelyevturkic-KaraKalpak	kara1467		say	1458	SAY		ajt	a j t
+459716	492385	savelyevturkic-KaraKalpak	kara1467		say	1458	SAY		de	d e
+459717	492386	savelyevturkic-KarachayBalkar	kara1465		say	1458	SAY		ajt	a j t
+459718	492387	savelyevturkic-KarachayBalkar	kara1465		say	1458	SAY		de	d e
+459719	492388	savelyevturkic-Karaim	kara1464		say	1458	SAY		ajt	a j t
+459720	492389	savelyevturkic-Khakas	khak1248		say	1458	SAY		ʨooχta	tɕ oː χ t a
+459721	492390	savelyevturkic-Khalaj	turk1303		say	1458	SAY		ha:j	h aː j
+459722	492391	savelyevturkic-Kirghiz	kirg1245		say	1458	SAY		ajt	a j t
+459723	492392	savelyevturkic-Kirghiz	kirg1245		say	1458	SAY		de	d e
+459724	492393	savelyevturkic-Kumyk	kumy1244		say	1458	SAY		de	d e
+459725	492394	savelyevturkic-Nogai	noga1249		say	1458	SAY		ajt	a j t
+459726	492395	savelyevturkic-Nogai	noga1249		say	1458	SAY		de	d e
+459727	492396	savelyevturkic-NorthAltai	nort2686		say	1458	SAY		ajt	a j t
+459728	492397	savelyevturkic-NorthAltai	nort2686		say	1458	SAY		de	d e
+459729	492398	savelyevturkic-Salar	sala1264		say	1458	SAY		ej(i)ʃa	e j i ʃ a
+459730	492399	savelyevturkic-Salar	sala1264		say	1458	SAY		tɛ, ti	t æ
+459731	492400	savelyevturkic-SarygYugur	west2402		say	1458	SAY		? aj(t)	a j t
+459732	492401	savelyevturkic-SarygYugur	west2402		say	1458	SAY		ti	t i
+459733	492402	savelyevturkic-Shor	shor1247		say	1458	SAY		ajt	a j t
+459734	492403	savelyevturkic-SouthAltai	sout2694		say	1458	SAY		ajt	a j t
+459735	492404	savelyevturkic-SouthAltai	sout2694		say	1458	SAY		de	d e
+459736	492405	savelyevturkic-Turkmen	turk1304		say	1458	SAY		ajt	a j t
+459737	492406	savelyevturkic-Turkmen	turk1304		say	1458	SAY		dij	d i j
+459738	492407	savelyevturkic-Tuvan	tuvi1240		say	1458	SAY		ʨuɣa:la	tɕ u ɣ aː l a
+459739	492408	savelyevturkic-Uighur	uigh1240		say	1458	SAY		ejt	e j t
+459740	492409	savelyevturkic-Uighur	uigh1240		say	1458	SAY		dɛ	d æ
+460005	492674	wold-Sakha	yaku1245		say	1458	SAY		et	e t
+460006	492675	wold-Sakha	yaku1245		say	1458	SAY		die	d i e
+465373	498043	northeuralex-azj	nort2697		see	1409	SEE		ɟœrmæk	ɟ œ r m æ k
+465374	498044	northeuralex-bak	bash1264		see	1409	SEE		kyrey	k y r e y
+465384	498054	northeuralex-chv	chuv1255		see	1409	SEE		kur	k u r
+465413	498083	northeuralex-kaz	kaza1248		see	1409	SEE		køɾu	k ø ɾ u
+465459	498129	northeuralex-tat	tata1255		see	1409	SEE		kʉrʉ	k ʉ r ʉ
+465461	498131	northeuralex-tur	nucl1301		see	1409	SEE		ɡœɾmɛk	g œ ɾ m ɛ k
+465464	498134	northeuralex-uzn	nort2690		see	1409	SEE		kormɒq	k o r m ɒ q
+465724	498394	savelyevturkic-CrimeanTatar	crim1257		see	1409	SEE		kør	k ø r
+465725	498395	savelyevturkic-Dolgan	dolg1241		see	1409	SEE		kør	k ø r
+465726	498396	savelyevturkic-Gagauz	gaga1249		see	1409	SEE		gør	g ø r
+465727	498397	savelyevturkic-KaraKalpak	kara1467		see	1409	SEE		kør	k ø r
+465728	498398	savelyevturkic-KarachayBalkar	kara1465		see	1409	SEE		kør	k ø r
+465729	498399	savelyevturkic-Karaim	kara1464		see	1409	SEE		kør, ker	k ø r
+465730	498400	savelyevturkic-Khakas	khak1248		see	1409	SEE		kør	k ø r
+465731	498401	savelyevturkic-Khalaj	turk1303		see	1409	SEE		ker	k e r
+465732	498402	savelyevturkic-Kirghiz	kirg1245		see	1409	SEE		kør	k ø r
+465733	498403	savelyevturkic-Kumyk	kumy1244		see	1409	SEE		gør	g ø r
+465734	498404	savelyevturkic-Nogai	noga1249		see	1409	SEE		kør	k ø r
+465735	498405	savelyevturkic-NorthAltai	nort2686		see	1409	SEE		kør	k ø r
+465736	498406	savelyevturkic-Salar	sala1264		see	1409	SEE		kør	k ø r
+465737	498407	savelyevturkic-SarygYugur	west2402		see	1409	SEE		kør, kyr	k ø r
+465738	498408	savelyevturkic-Shor	shor1247		see	1409	SEE		kør	k ø r
+465739	498409	savelyevturkic-SouthAltai	sout2694		see	1409	SEE		kør	k ø r
+465740	498410	savelyevturkic-Turkmen	turk1304		see	1409	SEE		gør	g ø r
+465741	498411	savelyevturkic-Tuvan	tuvi1240		see	1409	SEE		kør	k ø r
+465742	498412	savelyevturkic-Uighur	uigh1240		see	1409	SEE		kør	k ø r
+466219	498889	wold-Sakha	yaku1245		see	1409	SEE		kör	k œ r
+466898	499568	northeuralex-azj	nort2697		seed	714	SEED		ækɪn	æ k ɪ n
+466899	499569	northeuralex-bak	bash1264		seed	714	SEED		orloq	o r l o q
+466908	499578	northeuralex-chv	chuv1255		seed	714	SEED		ˈʋərə	ʋ ə r ə
+466936	499606	northeuralex-kaz	kaza1248		seed	714	SEED		tʉqəm	t ʉ q ə m
+466981	499651	northeuralex-tat	tata1255		seed	714	SEED		orlɤk	o r l ɤ k
+466983	499653	northeuralex-tur	nucl1301		seed	714	SEED		ɛkin	ɛ k i n
+466986	499656	northeuralex-uzn	nort2690		seed	714	SEED		ækin	æ k i n
+467060	499730	savelyevturkic-CrimeanTatar	crim1257		seed	714	SEED		urluq	u r l u q
+467061	499731	savelyevturkic-KarachayBalkar	kara1465		seed	714	SEED		urluq	u r l u q
+467062	499732	savelyevturkic-Karaim	kara1464		seed	714	SEED		urluk	u r l u k
+467063	499733	savelyevturkic-Kirghiz	kirg1245		seed	714	SEED		uruq	u r u q
+467064	499734	savelyevturkic-Kumyk	kumy1244		seed	714	SEED		urluq	u r l u q
+467065	499735	savelyevturkic-Nogai	noga1249		seed	714	SEED		urlɯq	u r l ɯ q
+467066	499736	savelyevturkic-Salar	sala1264		seed	714	SEED		urluχ	u r l u χ
+467067	499737	savelyevturkic-Uighur	uigh1240		seed	714	SEED		uruq	u r u q
+467355	500025	wold-Sakha	yaku1245		seed	714	SEED		sieme	s i e m e
+490806	523478	northeuralex-azj	nort2697		sit	1416	SIT		ɔturmɑɡ	ɔ t u r m ɑ g
+490807	523479	northeuralex-bak	bash1264		sit	1416	SIT		ultɯrɯu	u l t ɯ r ɯ u
+490819	523491	northeuralex-chv	chuv1255		sit	1416	SIT		lar	l a r
+490847	523519	northeuralex-kaz	kaza1248		sit	1416	SIT		otəɾu	o t ə ɾ u
+490890	523562	northeuralex-tat	tata1255		sit	1416	SIT		utɤru	u t ɤ r u
+490892	523564	northeuralex-tur	nucl1301		sit	1416	SIT		otuɾmak	o t u ɾ m a k
+490895	523567	northeuralex-uzn	nort2690		sit	1416	SIT		otirmɒq	o t i r m ɒ q
+490938	523610	savelyevturkic-CrimeanTatar	crim1257		sit	1416	SIT		otur	o t u r
+490939	523611	savelyevturkic-Dolgan	dolg1241		sit	1416	SIT		olor	o l o r
+490940	523612	savelyevturkic-Gagauz	gaga1249		sit	1416	SIT		otur	o t u r
+490941	523613	savelyevturkic-KaraKalpak	kara1467		sit	1416	SIT		otɯr	o t ɯ r
+490942	523614	savelyevturkic-KarachayBalkar	kara1465		sit	1416	SIT		oltur	o l t u r
+490943	523615	savelyevturkic-Karaim	kara1464		sit	1416	SIT		oltur	o l t u r
+490944	523616	savelyevturkic-Khakas	khak1248		sit	1416	SIT		odɯr	o d ɯ r
+490945	523617	savelyevturkic-Khalaj	turk1303		sit	1416	SIT		juor	j u o r
+490946	523618	savelyevturkic-Kirghiz	kirg1245		sit	1416	SIT		o(l)tur	o l t u r
+490947	523619	savelyevturkic-Kumyk	kumy1244		sit	1416	SIT		oltur	o l t u r
+490948	523620	savelyevturkic-Nogai	noga1249		sit	1416	SIT		oltɯr	o l t ɯ r
+490949	523621	savelyevturkic-NorthAltai	nort2686		sit	1416	SIT		otur	o t u r
+490950	523622	savelyevturkic-Salar	sala1264		sit	1416	SIT		otɯr	o t ɯ r
+490951	523623	savelyevturkic-SarygYugur	west2402		sit	1416	SIT		oltur	o l t u r
+490952	523624	savelyevturkic-Shor	shor1247		sit	1416	SIT		odur	o d u r
+490953	523625	savelyevturkic-SouthAltai	sout2694		sit	1416	SIT		otɯr	o t ɯ r
+490954	523626	savelyevturkic-Turkmen	turk1304		sit	1416	SIT		otur	o t u r
+490955	523627	savelyevturkic-Tuvan	tuvi1240		sit	1416	SIT		olur	o l u r
+490956	523628	savelyevturkic-Uighur	uigh1240		sit	1416	SIT		oltur	o l t u r
+491386	524058	wold-Sakha	yaku1245		sit	1416	SIT		olor	o l o r
+494908	527580	northeuralex-azj	nort2697		skin	763	SKIN		dærɪ	d æ r ɪ
+494909	527581	northeuralex-bak	bash1264		skin	763	SKIN		tire	t i r e
+494919	527591	northeuralex-chv	chuv1255		skin	763	SKIN		tir	t i r
+494949	527621	northeuralex-kaz	kaza1248		skin	763	SKIN		teɾə	t e ɾ ə
+494998	527670	northeuralex-tat	tata1255		skin	763	SKIN		tire	t i r e
+495000	527672	northeuralex-tur	nucl1301		skin	763	SKIN		d͡ʒilt	dʒ i l t
+495003	527675	northeuralex-uzn	nort2690		skin	763	SKIN		tɛri	t ɛ r i
+495270	527942	savelyevturkic-CrimeanTatar	crim1257		skin	763	SKIN		teri	t e r i
+495271	527943	savelyevturkic-Dolgan	dolg1241		skin	763	SKIN		tiri:	t i r iː
+495272	527944	savelyevturkic-Gagauz	gaga1249		skin	763	SKIN		deri	d e r i
+495273	527945	savelyevturkic-KaraKalpak	kara1467		skin	763	SKIN		teri	t e r i
+495274	527946	savelyevturkic-KarachayBalkar	kara1465		skin	763	SKIN		teri	t e r i
+495275	527947	savelyevturkic-Karaim	kara1464		skin	763	SKIN		teri	t e r i
+495276	527948	savelyevturkic-Khakas	khak1248		skin	763	SKIN		te:r	t eː r
+495277	527949	savelyevturkic-Khalaj	turk1303		skin	763	SKIN		tɛri	t æ r i
+495278	527950	savelyevturkic-Kirghiz	kirg1245		skin	763	SKIN		teri	t e r i
+495279	527951	savelyevturkic-Kumyk	kumy1244		skin	763	SKIN		teri	t e r i
+495280	527952	savelyevturkic-Nogai	noga1249		skin	763	SKIN		teri	t e r i
+495281	527953	savelyevturkic-NorthAltai	nort2686		skin	763	SKIN		tere	t e r e
+495282	527954	savelyevturkic-Salar	sala1264		skin	763	SKIN		tir	t i r
+495283	527955	savelyevturkic-SarygYugur	west2402		skin	763	SKIN		ter(i), tere	t e r i
+495284	527956	savelyevturkic-Shor	shor1247		skin	763	SKIN		tere	t e r e
+495285	527957	savelyevturkic-SouthAltai	sout2694		skin	763	SKIN		tere	t e r e
+495286	527958	savelyevturkic-Turkmen	turk1304		skin	763	SKIN		deri	d e r i
+495287	527959	savelyevturkic-Tuvan	tuvi1240		skin	763	SKIN		keʃ	k e ʃ
+495288	527960	savelyevturkic-Uighur	uigh1240		skin	763	SKIN		terɛ	t e r æ
+495781	528453	wold-Sakha	yaku1245		skin	763	SKIN		tiriː	t i r iː
+499567	532240	northeuralex-azj	nort2697		sleep	1585	SLEEP		ujumɑɡ	u j u m ɑ g
+499568	532241	northeuralex-bak	bash1264		sleep	1585	SLEEP		joqlau	j o q l a u
+499581	532254	northeuralex-chv	chuv1255		sleep	1585	SLEEP		ˈɕɯʋər	ɕ ɯ ʋ ə r
+499612	532285	northeuralex-kaz	kaza1248		sleep	1585	SLEEP		ʉjəqtɑu	ʉ j ə q t ɑ u
+499658	532331	northeuralex-tat	tata1255		sleep	1585	SLEEP		joklau	j o k l a u
+499660	532333	northeuralex-tur	nucl1301		sleep	1585	SLEEP		ujumak	u j u m a k
+499663	532336	northeuralex-uzn	nort2690		sleep	1585	SLEEP		uχlamɒq	u χ l a m ɒ q
+499920	532593	savelyevturkic-CrimeanTatar	crim1257		sleep	1585	SLEEP		juqla	j u q l a
+499921	532594	savelyevturkic-Dolgan	dolg1241		sleep	1585	SLEEP		utuj	u t u j
+499922	532595	savelyevturkic-Gagauz	gaga1249		sleep	1585	SLEEP		uju	u j u
+499923	532596	savelyevturkic-KaraKalpak	kara1467		sleep	1585	SLEEP		ujqɯla	u j q ɯ l a
+499924	532597	savelyevturkic-KarachayBalkar	kara1465		sleep	1585	SLEEP		ʥuqla	dʑ u q l a
+499925	532598	savelyevturkic-Karaim	kara1464		sleep	1585	SLEEP		jukla	j u k l a
+499926	532599	savelyevturkic-Khakas	khak1248		sleep	1585	SLEEP		uzu	u z u
+499927	532600	savelyevturkic-Khalaj	turk1303		sleep	1585	SLEEP		jat	j a t
+499928	532601	savelyevturkic-Kirghiz	kirg1245		sleep	1585	SLEEP		uqta	u q t a
+499929	532602	savelyevturkic-Kumyk	kumy1244		sleep	1585	SLEEP		juχla	j u χ l a
+499930	532603	savelyevturkic-Nogai	noga1249		sleep	1585	SLEEP		ujqla	u j q l a
+499931	532604	savelyevturkic-NorthAltai	nort2686		sleep	1585	SLEEP		ujqta	u j q t a
+499932	532605	savelyevturkic-Salar	sala1264		sleep	1585	SLEEP		uχla	u χ l a
+499933	532606	savelyevturkic-SarygYugur	west2402		sleep	1585	SLEEP		uzu	u z u
+499934	532607	savelyevturkic-Shor	shor1247		sleep	1585	SLEEP		uzu	u z u
+499935	532608	savelyevturkic-SouthAltai	sout2694		sleep	1585	SLEEP		u(ju)χta	u j u χ t a
+499936	532609	savelyevturkic-Turkmen	turk1304		sleep	1585	SLEEP		uqla	u q l a
+499937	532610	savelyevturkic-Turkmen	turk1304		sleep	1585	SLEEP		jat	j a t
+499938	532611	savelyevturkic-Tuvan	tuvi1240		sleep	1585	SLEEP		udu	u d u
+499939	532612	savelyevturkic-Uighur	uigh1240		sleep	1585	SLEEP		uχla	u χ l a
+500362	533035	wold-Sakha	yaku1245		sleep	1585	SLEEP		utuy	u t u y
+503150	535824	northeuralex-azj	nort2697		small	1246	SMALL		kɪt͡ʃɪk	k ɪ tʃ ɪ k
+503151	535825	northeuralex-bak	bash1264		small	1246	SMALL		bælækæs	b æ l æ k æ s
+503162	535836	northeuralex-chv	chuv1255		small	1246	SMALL		ˈpɘt͡ɕɘk	p ɘ tɕ ɘ k
+503197	535871	northeuralex-kaz	kaza1248		small	1246	SMALL		kəʃkene	k ə ʃ k e n e
+503198	535872	northeuralex-kaz	kaza1248		small	1246	SMALL		qɑɾʁɑdɑj	q ɑ ɾ ʁ ɑ d ɑ j
+503249	535923	northeuralex-tat	tata1255		small	1246	SMALL		ket͡ɕkenæ	k e tɕ k e n æ
+503251	535925	northeuralex-tur	nucl1301		small	1246	SMALL		ufak	u f a k
+503252	535926	northeuralex-tur	nucl1301		small	1246	SMALL		kyt͡ʃyk	k y tʃ y k
+503256	535930	northeuralex-uzn	nort2690		small	1246	SMALL		kit͡ʃik	k i tʃ i k
+503544	536218	savelyevturkic-CrimeanTatar	crim1257		small	1246	SMALL		ufaʨɯq	u f a tɕ ɯ q
+503545	536219	savelyevturkic-Dolgan	dolg1241		small	1246	SMALL		kyččygyj	k y tʃː y g y j
+503546	536220	savelyevturkic-Gagauz	gaga1249		small	1246	SMALL		kyʨyʥyk	k y tɕ y dʑ y k
+503547	536221	savelyevturkic-KaraKalpak	kara1467		small	1246	SMALL		kiʃkene, kiʃkentaj	k i ʃ k e n e
+503548	536222	savelyevturkic-KarachayBalkar	kara1465		small	1246	SMALL		gitʨe	g i t tɕ e
+503549	536223	savelyevturkic-Karaim	kara1464		small	1246	SMALL		kiʨi, kiʦi	k i tɕ i
+503550	536224	savelyevturkic-Khakas	khak1248		small	1246	SMALL		kɘʨiʥek	k ĭ tɕ i dʑ e k
+503551	536225	savelyevturkic-Kirghiz	kirg1245		small	1246	SMALL		kiʨine(kej)	k i tɕ i n e k e j
+503552	536226	savelyevturkic-Kumyk	kumy1244		small	1246	SMALL		giʨʨi	g i tʃː i
+503553	536227	savelyevturkic-Nogai	noga1249		small	1246	SMALL		kiʃkej	k i ʃ k e j
+503554	536228	savelyevturkic-NorthAltai	nort2686		small	1246	SMALL		kiʥig	k i dʑ i g
+503555	536229	savelyevturkic-Salar	sala1264		small	1246	SMALL		kiʨi, kiʥi	k i tɕ i
+503556	536230	savelyevturkic-SarygYugur	west2402		small	1246	SMALL		kiʨig	k i tɕ i g
+503557	536231	savelyevturkic-Shor	shor1247		small	1246	SMALL		kitɕig	k i tɕ i g
+503558	536232	savelyevturkic-SouthAltai	sout2694		small	1246	SMALL		kiʨi(k)	k i tɕ i
+503559	536233	savelyevturkic-Turkmen	turk1304		small	1246	SMALL		kiʨi(ʥik)	k i tɕ i dʑ i k
+503560	536234	savelyevturkic-Uighur	uigh1240		small	1246	SMALL		kiʨik	k i tɕ i k
+504011	536685	wold-Sakha	yaku1245		small	1246	SMALL		kɨra	k ɨ r a
+504012	536686	wold-Sakha	yaku1245		small	1246	SMALL		kɨččɨgɨy	k ɨ tʃː ɨ g ɨ y
+504013	536687	wold-Sakha	yaku1245		small	1246	SMALL		bɨčɨkaːn	b ɨ tʃ ɨ k aː n
+507431	540107	northeuralex-azj	nort2697		smokeexhaust	778	SMOKE (EXHAUST)		tysty	t y s t y
+507432	540108	northeuralex-bak	bash1264		smokeexhaust	778	SMOKE (EXHAUST)		tøtøn	t ø t ø n
+507444	540120	northeuralex-chv	chuv1255		smokeexhaust	778	SMOKE (EXHAUST)		ˈtɘtɘm	t ɘ t ɘ m
+507476	540152	northeuralex-kaz	kaza1248		smokeexhaust	778	SMOKE (EXHAUST)		tʊtən	t ʊ t ə n
+507520	540196	northeuralex-tat	tata1255		smokeexhaust	778	SMOKE (EXHAUST)		tœten	t œ t e n
+507522	540198	northeuralex-tur	nucl1301		smokeexhaust	778	SMOKE (EXHAUST)		duman	d u m a n
+507525	540201	northeuralex-uzn	nort2690		smokeexhaust	778	SMOKE (EXHAUST)		tutun	t u t u n
+507775	540451	savelyevturkic-CrimeanTatar	crim1257		smokeexhaust	778	SMOKE (EXHAUST)		tytyn	t y t y n
+507776	540452	savelyevturkic-Dolgan	dolg1241		smokeexhaust	778	SMOKE (EXHAUST)		buruo	b u r u o
+507777	540453	savelyevturkic-Gagauz	gaga1249		smokeexhaust	778	SMOKE (EXHAUST)		tytyn	t y t y n
+507778	540454	savelyevturkic-KaraKalpak	kara1467		smokeexhaust	778	SMOKE (EXHAUST)		tytin	t y t i n
+507779	540455	savelyevturkic-KarachayBalkar	kara1465		smokeexhaust	778	SMOKE (EXHAUST)		tytyn	t y t y n
+507780	540456	savelyevturkic-Karaim	kara1464		smokeexhaust	778	SMOKE (EXHAUST)		tytyn, tytsy etc.	t y t y n
+507781	540457	savelyevturkic-Khakas	khak1248		smokeexhaust	778	SMOKE (EXHAUST)		tydyn	t y d y n
+507782	540458	savelyevturkic-Khakas	khak1248		smokeexhaust	778	SMOKE (EXHAUST)		? ɯs	ɯ s
+507783	540459	savelyevturkic-Khalaj	turk1303		smokeexhaust	778	SMOKE (EXHAUST)		tityn	t i t y n
+507784	540460	savelyevturkic-Kirghiz	kirg1245		smokeexhaust	778	SMOKE (EXHAUST)		tytyn	t y t y n
+507785	540461	savelyevturkic-Kumyk	kumy1244		smokeexhaust	778	SMOKE (EXHAUST)		tytyn	t y t y n
+507786	540462	savelyevturkic-Nogai	noga1249		smokeexhaust	778	SMOKE (EXHAUST)		tytin	t y t i n
+507787	540463	savelyevturkic-NorthAltai	nort2686		smokeexhaust	778	SMOKE (EXHAUST)		tydøk	t y d ø k
+507788	540464	savelyevturkic-Salar	sala1264		smokeexhaust	778	SMOKE (EXHAUST)		ʦyʦyn, ʥyʥyn	ts y ts y n
+507789	540465	savelyevturkic-SarygYugur	west2402		smokeexhaust	778	SMOKE (EXHAUST)		ɯs	ɯ s
+507790	540466	savelyevturkic-Shor	shor1247		smokeexhaust	778	SMOKE (EXHAUST)		tydyn	t y d y n
+507791	540467	savelyevturkic-SouthAltai	sout2694		smokeexhaust	778	SMOKE (EXHAUST)		ɯʃ	ɯ ʃ
+507792	540468	savelyevturkic-Turkmen	turk1304		smokeexhaust	778	SMOKE (EXHAUST)		tysse	t y s s e
+507793	540469	savelyevturkic-Tuvan	tuvi1240		smokeexhaust	778	SMOKE (EXHAUST)		ɯʃ	ɯ ʃ
+507794	540470	savelyevturkic-Uighur	uigh1240		smokeexhaust	778	SMOKE (EXHAUST)		is, ɛs	i s
+508261	540937	wold-Sakha	yaku1245		smokeexhaust	778	SMOKE (EXHAUST)		buruo	b u r u o
+530271	562947	northeuralex-azj	nort2697		stand	1442	STAND		durmɑɡ	d u r m ɑ g
+530272	562948	northeuralex-bak	bash1264		stand	1442	STAND		torou	t o r o u
+530282	562958	northeuralex-chv	chuv1255		stand	1442	STAND		tər	t ə r
+530311	562987	northeuralex-kaz	kaza1248		stand	1442	STAND		tʉɾu	t ʉ ɾ u
+530357	563033	northeuralex-tat	tata1255		stand	1442	STAND		toru	t o r u
+530359	563035	northeuralex-tur	nucl1301		stand	1442	STAND		duɾmak	d u ɾ m a k
+530362	563038	northeuralex-uzn	nort2690		stand	1442	STAND		turmɒq	t u r m ɒ q
+530437	563113	savelyevturkic-CrimeanTatar	crim1257		stand	1442	STAND		tur	t u r
+530438	563114	savelyevturkic-Dolgan	dolg1241		stand	1442	STAND		tur	t u r
+530439	563115	savelyevturkic-Gagauz	gaga1249		stand	1442	STAND		dur	d u r
+530440	563116	savelyevturkic-KaraKalpak	kara1467		stand	1442	STAND		tur	t u r
+530441	563117	savelyevturkic-KarachayBalkar	kara1465		stand	1442	STAND		tur	t u r
+530442	563118	savelyevturkic-Karaim	kara1464		stand	1442	STAND		tur	t u r
+530443	563119	savelyevturkic-Khakas	khak1248		stand	1442	STAND		tur	t u r
+530444	563120	savelyevturkic-Khalaj	turk1303		stand	1442	STAND		tur	t u r
+530445	563121	savelyevturkic-Kirghiz	kirg1245		stand	1442	STAND		tur	t u r
+530446	563122	savelyevturkic-Kumyk	kumy1244		stand	1442	STAND		tur	t u r
+530447	563123	savelyevturkic-Nogai	noga1249		stand	1442	STAND		tur	t u r
+530448	563124	savelyevturkic-NorthAltai	nort2686		stand	1442	STAND		tur	t u r
+530449	563125	savelyevturkic-Salar	sala1264		stand	1442	STAND		? dɯr	d ɯ r
+530450	563126	savelyevturkic-SarygYugur	west2402		stand	1442	STAND		tur	t u r
+530451	563127	savelyevturkic-Shor	shor1247		stand	1442	STAND		tur	t u r
+530452	563128	savelyevturkic-SouthAltai	sout2694		stand	1442	STAND		tur	t u r
+530453	563129	savelyevturkic-Turkmen	turk1304		stand	1442	STAND		dur	d u r
+530454	563130	savelyevturkic-Tuvan	tuvi1240		stand	1442	STAND		tur	t u r
+530455	563131	savelyevturkic-Uighur	uigh1240		stand	1442	STAND		tur	t u r
+530916	563592	wold-Sakha	yaku1245		stand	1442	STAND		tur	t u r
+532601	565277	northeuralex-azj	nort2697		star	1430	STAR		ulduz	u l d u z
+532602	565278	northeuralex-bak	bash1264		star	1430	STAR		jondoð	j o n d o ð
+532614	565290	northeuralex-chv	chuv1255		star	1430	STAR		ˈɕəlt̬ər	ɕ ə l t ə r
+532649	565325	northeuralex-kaz	kaza1248		star	1430	STAR		ʒʉldəz	ʒ ʉ l d ə z
+532695	565371	northeuralex-tat	tata1255		star	1430	STAR		joldɤz	j o l d ɤ z
+532697	565373	northeuralex-tur	nucl1301		star	1430	STAR		jɯldɯz	j ɯ l d ɯ z
+532700	565376	northeuralex-uzn	nort2690		star	1430	STAR		julduz	j u l d u z
+532776	565452	savelyevturkic-CrimeanTatar	crim1257		star	1430	STAR		jɯldɯz	j ɯ l d ɯ z
+532777	565453	savelyevturkic-Dolgan	dolg1241		star	1430	STAR		hulus	h u l u s
+532778	565454	savelyevturkic-Gagauz	gaga1249		star	1430	STAR		jɯldɯz	j ɯ l d ɯ z
+532779	565455	savelyevturkic-KaraKalpak	kara1467		star	1430	STAR		ʒuldɯz	ʒ u l d ɯ z
+532780	565456	savelyevturkic-KarachayBalkar	kara1465		star	1430	STAR		ʥulduz	dʑ u l d u z
+532781	565457	savelyevturkic-Karaim	kara1464		star	1430	STAR		julduz, jolduz, jɯldɯz	j u l d u z
+532782	565458	savelyevturkic-Khakas	khak1248		star	1430	STAR		ʨɯltɯs	tɕ ɯ l t ɯ s
+532783	565459	savelyevturkic-Khalaj	turk1303		star	1430	STAR		julduz	j u l d u z
+532784	565460	savelyevturkic-Kirghiz	kirg1245		star	1430	STAR		ʥɯldɯz	dʑ ɯ l d ɯ z
+532785	565461	savelyevturkic-Kumyk	kumy1244		star	1430	STAR		julduz	j u l d u z
+532786	565462	savelyevturkic-Nogai	noga1249		star	1430	STAR		juldɯz	j u l d ɯ z
+532787	565463	savelyevturkic-NorthAltai	nort2686		star	1430	STAR		jɯldɯs	j ɯ l d ɯ s
+532788	565464	savelyevturkic-Salar	sala1264		star	1430	STAR		jultus, jiltis	j u l t u s
+532789	565465	savelyevturkic-SarygYugur	west2402		star	1430	STAR		jultɯs, jɯltɯs	j u l t ɯ s
+532790	565466	savelyevturkic-Shor	shor1247		star	1430	STAR		tɕɯltɯs	tɕ ɯ l t ɯ s
+532791	565467	savelyevturkic-SouthAltai	sout2694		star	1430	STAR		ɟɯldɯs	dʑ ɯ l d ɯ s
+532792	565468	savelyevturkic-Turkmen	turk1304		star	1430	STAR		jɯldɯz	j ɯ l d ɯ z
+532793	565469	savelyevturkic-Tuvan	tuvi1240		star	1430	STAR		sɯldɯs	s ɯ l d ɯ s
+532794	565470	savelyevturkic-Uighur	uigh1240		star	1430	STAR		jultuz, ʒultuz	j u l t u z
+533282	565958	wold-Sakha	yaku1245		star	1430	STAR		sulus	s u l u s
+539139	571816	northeuralex-azj	nort2697		stone	857	STONE		dɑʃ	d ɑ ʃ
+539140	571817	northeuralex-bak	bash1264		stone	857	STONE		taʃ	t a ʃ
+539152	571829	northeuralex-chv	chuv1255		stone	857	STONE		t͡ɕul	tɕ u l
+539183	571860	northeuralex-kaz	kaza1248		stone	857	STONE		tɑs	t ɑ s
+539228	571905	northeuralex-tat	tata1255		stone	857	STONE		taʃ	t a ʃ
+539230	571907	northeuralex-tur	nucl1301		stone	857	STONE		taʃ	t a ʃ
+539233	571910	northeuralex-uzn	nort2690		stone	857	STONE		tɒʃ	t ɒ ʃ
+539489	572166	savelyevturkic-CrimeanTatar	crim1257		stone	857	STONE		taʃ	t a ʃ
+539490	572167	savelyevturkic-Dolgan	dolg1241		stone	857	STONE		ta:s	t aː s
+539491	572168	savelyevturkic-Gagauz	gaga1249		stone	857	STONE		taʃ	t a ʃ
+539492	572169	savelyevturkic-KaraKalpak	kara1467		stone	857	STONE		tas	t a s
+539493	572170	savelyevturkic-KarachayBalkar	kara1465		stone	857	STONE		taʃ	t a ʃ
+539494	572171	savelyevturkic-Karaim	kara1464		stone	857	STONE		taʃ	t a ʃ
+539495	572172	savelyevturkic-Khakas	khak1248		stone	857	STONE		tas	t a s
+539496	572173	savelyevturkic-Khalaj	turk1303		stone	857	STONE		ta:aʃ	t aː ʃ
+539497	572174	savelyevturkic-Kirghiz	kirg1245		stone	857	STONE		taʃ	t a ʃ
+539498	572175	savelyevturkic-Kumyk	kumy1244		stone	857	STONE		taʃ	t a ʃ
+539499	572176	savelyevturkic-Nogai	noga1249		stone	857	STONE		tas	t a s
+539500	572177	savelyevturkic-NorthAltai	nort2686		stone	857	STONE		taʃ	t a ʃ
+539501	572178	savelyevturkic-Salar	sala1264		stone	857	STONE		taʃ	t a ʃ
+539502	572179	savelyevturkic-SarygYugur	west2402		stone	857	STONE		tas	t a s
+539503	572180	savelyevturkic-Shor	shor1247		stone	857	STONE		taʃ	t a ʃ
+539504	572181	savelyevturkic-SouthAltai	sout2694		stone	857	STONE		taʃ	t a ʃ
+539505	572182	savelyevturkic-Turkmen	turk1304		stone	857	STONE		daʃ	d a ʃ
+539506	572183	savelyevturkic-Tuvan	tuvi1240		stone	857	STONE		daʃ	d a ʃ
+539507	572184	savelyevturkic-Uighur	uigh1240		stone	857	STONE		taʃ	t a ʃ
+548529	581206	northeuralex-azj	nort2697		sun	1343	SUN		ɟynæʃ	ɟ y n æ ʃ
+548530	581207	northeuralex-bak	bash1264		sun	1343	SUN		qojaʃ	q o j a ʃ
+548540	581217	northeuralex-chv	chuv1255		sun	1343	SUN		χɘˈʋɛl	χ ɘ ʋ ɛ l
+548571	581248	northeuralex-kaz	kaza1248		sun	1343	SUN		kʊn	k ʊ n
+548618	581295	northeuralex-tat	tata1255		sun	1343	SUN		qojaʃ	q o j a ʃ
+548620	581297	northeuralex-tur	nucl1301		sun	1343	SUN		ɡynɛʃ	g y n ɛ ʃ
+548623	581300	northeuralex-uzn	nort2690		sun	1343	SUN		qujɒʃ	q u j ɒ ʃ
+548898	581575	savelyevturkic-CrimeanTatar	crim1257		sun	1343	SUN		kyneʃ	k y n e ʃ
+548899	581576	savelyevturkic-Dolgan	dolg1241		sun	1343	SUN		kyn	k y n
+548900	581577	savelyevturkic-Gagauz	gaga1249		sun	1343	SUN		gyn	g y n
+548901	581578	savelyevturkic-Gagauz	gaga1249		sun	1343	SUN		gyneʃ	g y n e ʃ
+548902	581579	savelyevturkic-KaraKalpak	kara1467		sun	1343	SUN		kyn	k y n
+548903	581580	savelyevturkic-KarachayBalkar	kara1465		sun	1343	SUN		kyn	k y n
+548904	581581	savelyevturkic-Karaim	kara1464		sun	1343	SUN		kujaʃ	k u j a ʃ
+548905	581582	savelyevturkic-Khakas	khak1248		sun	1343	SUN		kyn	k y n
+548906	581583	savelyevturkic-Khalaj	turk1303		sun	1343	SUN		kyn, kin	k y n
+548907	581584	savelyevturkic-Kirghiz	kirg1245		sun	1343	SUN		kyn	k y n
+548908	581585	savelyevturkic-Kumyk	kumy1244		sun	1343	SUN		gyn(eʃ)	g y n
+548909	581586	savelyevturkic-Kumyk	kumy1244		sun	1343	SUN		gyn(eʃ)	g y n e ʃ
+548910	581587	savelyevturkic-Nogai	noga1249		sun	1343	SUN		kyn	k y n
+548911	581588	savelyevturkic-NorthAltai	nort2686		sun	1343	SUN		kyn	k y n
+548912	581589	savelyevturkic-Salar	sala1264		sun	1343	SUN		kun	k u n
+548913	581590	savelyevturkic-SarygYugur	west2402		sun	1343	SUN		kyn, (kun)	k y n
+548914	581591	savelyevturkic-Shor	shor1247		sun	1343	SUN		kyn	k y n
+548915	581592	savelyevturkic-SouthAltai	sout2694		sun	1343	SUN		kyn	k y n
+548916	581593	savelyevturkic-Turkmen	turk1304		sun	1343	SUN		gyn	g y n
+548917	581594	savelyevturkic-Tuvan	tuvi1240		sun	1343	SUN		χyn	χ y n
+548918	581595	savelyevturkic-Uighur	uigh1240		sun	1343	SUN		kyn	k y n
+549402	582079	wold-Sakha	yaku1245		sun	1343	SUN		kün	k y n
+555469	588146	northeuralex-azj	nort2697		swim	1439	SWIM		yzmɛk	y z m ɛ k
+555470	588147	northeuralex-bak	bash1264		swim	1439	SWIM		joðøy	j o ð ø y
+555480	588157	northeuralex-chv	chuv1255		swim	1439	SWIM		iʂ	i ʂ
+555510	588187	northeuralex-kaz	kaza1248		swim	1439	SWIM		ʒʊzu	ʒ ʊ z u
+555511	588188	northeuralex-kaz	kaza1248		swim	1439	SWIM		mɑltu	m ɑ l t u
+555512	588189	northeuralex-kaz	kaza1248		swim	1439	SWIM		qɑləqtɑu	q ɑ l ə q t ɑ u
+555560	588237	northeuralex-tat	tata1255		swim	1439	SWIM		jœzʉ	j œ z ʉ
+555562	588239	northeuralex-tur	nucl1301		swim	1439	SWIM		jyzmɛk	j y z m ɛ k
+555566	588243	northeuralex-uzn	nort2690		swim	1439	SWIM		suzmɒq	s u z m ɒ q
+555610	588287	savelyevturkic-CrimeanTatar	crim1257		swim	1439	SWIM		jalda	j a l d a
+555611	588288	savelyevturkic-Dolgan	dolg1241		swim	1439	SWIM		? køp	k ø p
+555612	588289	savelyevturkic-Gagauz	gaga1249		swim	1439	SWIM		yz	y z
+555613	588290	savelyevturkic-KaraKalpak	kara1467		swim	1439	SWIM		ʒyz	ʒ y z
+555614	588291	savelyevturkic-KarachayBalkar	kara1465		swim	1439	SWIM		ʥyz	dʑ y z
+555615	588292	savelyevturkic-Karaim	kara1464		swim	1439	SWIM		jyz	j y z
+555616	588293	savelyevturkic-Khakas	khak1248		swim	1439	SWIM		ʨys	tɕ y s
+555617	588294	savelyevturkic-Khalaj	turk1303		swim	1439	SWIM		kirun	k i r u n
+555618	588295	savelyevturkic-Kirghiz	kirg1245		swim	1439	SWIM		syz	s y z
+555619	588296	savelyevturkic-Kumyk	kumy1244		swim	1439	SWIM		jyz	j y z
+555620	588297	savelyevturkic-Nogai	noga1249		swim	1439	SWIM		jalda	j a l d a
+555621	588298	savelyevturkic-Nogai	noga1249		swim	1439	SWIM		jyz	j y z
+555622	588299	savelyevturkic-NorthAltai	nort2686		swim	1439	SWIM		jys	j y s
+555623	588300	savelyevturkic-Salar	sala1264		swim	1439	SWIM		ʨum	tɕ u m
+555624	588301	savelyevturkic-SarygYugur	west2402		swim	1439	SWIM		? qaj	q a j
+555625	588302	savelyevturkic-Shor	shor1247		swim	1439	SWIM		tɕys	tɕ y s
+555626	588303	savelyevturkic-SouthAltai	sout2694		swim	1439	SWIM		ɟys	dʑ y s
+555627	588304	savelyevturkic-Turkmen	turk1304		swim	1439	SWIM		jyz	j y z
+555628	588305	savelyevturkic-Tuvan	tuvi1240		swim	1439	SWIM		eʃt	e ʃ t
+555629	588306	savelyevturkic-Uighur	uigh1240		swim	1439	SWIM		yz	y z
+555833	588510	wold-Sakha	yaku1245		swim	1439	SWIM		χarbaː	χ a r b aː
+555834	588511	wold-Sakha	yaku1245		swim	1439	SWIM		uhun	u h u n
+558012	590689	northeuralex-azj	nort2697		tail	1220	TAIL		ɡujruɡ	g u j r u g
+558013	590690	northeuralex-bak	bash1264		tail	1220	TAIL		qojroq	q o j r o q
+558023	590700	northeuralex-chv	chuv1255		tail	1220	TAIL		χyˈrɛ	χ y r ɛ
+558056	590733	northeuralex-kaz	kaza1248		tail	1220	TAIL		qʉjɾəq	q ʉ j ɾ ə q
+558104	590781	northeuralex-tat	tata1255		tail	1220	TAIL		qojrɤk	q o j r ɤ k
+558106	590783	northeuralex-tur	nucl1301		tail	1220	TAIL		kujɾuk	k u j ɾ u k
+558109	590786	northeuralex-uzn	nort2690		tail	1220	TAIL		qujruq	q u j r u q
+558185	590862	savelyevturkic-CrimeanTatar	crim1257		tail	1220	TAIL		qujruq	q u j r u q
+558186	590863	savelyevturkic-Dolgan	dolg1241		tail	1220	TAIL		kuturuk	k u t u r u k
+558187	590864	savelyevturkic-Gagauz	gaga1249		tail	1220	TAIL		kujruk	k u j r u k
+558188	590865	savelyevturkic-KaraKalpak	kara1467		tail	1220	TAIL		qujrɯq	q u j r ɯ q
+558189	590866	savelyevturkic-KarachayBalkar	kara1465		tail	1220	TAIL		qujruq	q u j r u q
+558190	590867	savelyevturkic-Karaim	kara1464		tail	1220	TAIL		kujruk	k u j r u k
+558191	590868	savelyevturkic-Khakas	khak1248		tail	1220	TAIL		χuzuruχ	χ u z u r u χ
+558192	590869	savelyevturkic-Khalaj	turk1303		tail	1220	TAIL		qurduq	q u r d u q
+558193	590870	savelyevturkic-Kirghiz	kirg1245		tail	1220	TAIL		qujruq	q u j r u q
+558194	590871	savelyevturkic-Kumyk	kumy1244		tail	1220	TAIL		qujruq	q u j r u q
+558195	590872	savelyevturkic-Nogai	noga1249		tail	1220	TAIL		qujrɯq	q u j r ɯ q
+558196	590873	savelyevturkic-NorthAltai	nort2686		tail	1220	TAIL		qujruq	q u j r u q
+558197	590874	savelyevturkic-Salar	sala1264		tail	1220	TAIL		quruχ, kuruχ	q u r u χ
+558198	590875	savelyevturkic-SarygYugur	west2402		tail	1220	TAIL		quz(u)ruq	q u z u r u q
+558199	590876	savelyevturkic-Shor	shor1247		tail	1220	TAIL		quzuruq	q u z u r u q
+558200	590877	savelyevturkic-SouthAltai	sout2694		tail	1220	TAIL		qujruq	q u j r u q
+558201	590878	savelyevturkic-Turkmen	turk1304		tail	1220	TAIL		ɢujruq	ɢ u j r u q
+558202	590879	savelyevturkic-Tuvan	tuvi1240		tail	1220	TAIL		quduruq	q u d u r u q
+558203	590880	savelyevturkic-Uighur	uigh1240		tail	1220	TAIL		qujruq	q u j r u q
+558720	591397	wold-Sakha	yaku1245		tail	1220	TAIL		kuturuk	k u t u r u k
+567398	600077	northeuralex-azj	nort2697		that	78	THAT		ɔ	ɔ
+567399	600078	northeuralex-bak	bash1264		that	78	THAT		ul	u l
+567412	600091	northeuralex-chv	chuv1255		that	78	THAT		ɕaʋ	ɕ a ʋ
+567443	600122	northeuralex-kaz	kaza1248		that	78	THAT		sol	s o l
+567495	600174	northeuralex-tat	tata1255		that	78	THAT		ul	u l
+567497	600176	northeuralex-tur	nucl1301		that	78	THAT		o	o
+567498	600177	northeuralex-tur	nucl1301		that	78	THAT		ʃu	ʃ u
+567501	600180	northeuralex-uzn	nort2690		that	78	THAT		nariɡi	n a r i g i
+567560	600239	savelyevturkic-CrimeanTatar	crim1257		that	78	THAT		o	o
+567561	600240	savelyevturkic-Dolgan	dolg1241		that	78	THAT		ol	o l
+567562	600241	savelyevturkic-Gagauz	gaga1249		that	78	THAT		o	o
+567563	600242	savelyevturkic-KaraKalpak	kara1467		that	78	THAT		ol	o l
+567564	600243	savelyevturkic-KarachayBalkar	kara1465		that	78	THAT		o(l)	o l
+567565	600244	savelyevturkic-Karaim	kara1464		that	78	THAT		ol	o l
+567566	600245	savelyevturkic-Khakas	khak1248		that	78	THAT		ol	o l
+567567	600246	savelyevturkic-Khalaj	turk1303		that	78	THAT		o	o
+567568	600247	savelyevturkic-Kirghiz	kirg1245		that	78	THAT		tigi	t i g i
+567569	600248	savelyevturkic-Kumyk	kumy1244		that	78	THAT		o	o
+567570	600249	savelyevturkic-Nogai	noga1249		that	78	THAT		ol	o l
+567571	600250	savelyevturkic-NorthAltai	nort2686		that	78	THAT		ol	o l
+567572	600251	savelyevturkic-Salar	sala1264		that	78	THAT		(v)u	v u
+567573	600252	savelyevturkic-SarygYugur	west2402		that	78	THAT		ol	o l
+567574	600253	savelyevturkic-Shor	shor1247		that	78	THAT		ol	o l
+567575	600254	savelyevturkic-SouthAltai	sout2694		that	78	THAT		ol	o l
+567576	600255	savelyevturkic-Turkmen	turk1304		that	78	THAT		ol	o l
+567577	600256	savelyevturkic-Tuvan	tuvi1240		that	78	THAT		? døø	d øː
+567578	600257	savelyevturkic-Uighur	uigh1240		that	78	THAT		u	u
+567722	600401	wold-Sakha	yaku1245		that	78	THAT		ol	o l
+578496	611176	northeuralex-azj	nort2697		this	1214	THIS		bu	b u
+578497	611177	northeuralex-bak	bash1264		this	1214	THIS		bɯl	b ɯ l
+578498	611178	northeuralex-bak	bash1264		this	1214	THIS		oʃo	o ʃ o
+578510	611190	northeuralex-chv	chuv1255		this	1214	THIS		ku	k u
+578511	611191	northeuralex-chv	chuv1255		this	1214	THIS		ɕak	ɕ a k
+578544	611224	northeuralex-kaz	kaza1248		this	1214	THIS		bʉ	b ʉ
+578545	611225	northeuralex-kaz	kaza1248		this	1214	THIS		osə	o s ə
+578594	611274	northeuralex-tat	tata1255		this	1214	THIS		bu	b u
+578596	611276	northeuralex-tur	nucl1301		this	1214	THIS		bu	b u
+578599	611279	northeuralex-uzn	nort2690		this	1214	THIS		oʃa	o ʃ a
+578660	611340	savelyevturkic-CrimeanTatar	crim1257		this	1214	THIS		bu	b u
+578661	611341	savelyevturkic-Dolgan	dolg1241		this	1214	THIS		bu	b u
+578662	611342	savelyevturkic-Gagauz	gaga1249		this	1214	THIS		bu	b u
+578663	611343	savelyevturkic-KaraKalpak	kara1467		this	1214	THIS		bul	b u l
+578664	611344	savelyevturkic-KarachayBalkar	kara1465		this	1214	THIS		bu	b u
+578665	611345	savelyevturkic-Karaim	kara1464		this	1214	THIS		bu	b u
+578666	611346	savelyevturkic-Khakas	khak1248		this	1214	THIS		pu	p u
+578667	611347	savelyevturkic-Khalaj	turk1303		this	1214	THIS		bo	b o
+578668	611348	savelyevturkic-Kirghiz	kirg1245		this	1214	THIS		bu	b u
+578669	611349	savelyevturkic-Kumyk	kumy1244		this	1214	THIS		bu	b u
+578670	611350	savelyevturkic-Nogai	noga1249		this	1214	THIS		bu	b u
+578671	611351	savelyevturkic-NorthAltai	nort2686		this	1214	THIS		po	p o
+578672	611352	savelyevturkic-Salar	sala1264		this	1214	THIS		bu	b u
+578673	611353	savelyevturkic-SarygYugur	west2402		this	1214	THIS		pu	p u
+578674	611354	savelyevturkic-Shor	shor1247		this	1214	THIS		po	p o
+578675	611355	savelyevturkic-SouthAltai	sout2694		this	1214	THIS		pu	p u
+578676	611356	savelyevturkic-Turkmen	turk1304		this	1214	THIS		bu	b u
+578677	611357	savelyevturkic-Tuvan	tuvi1240		this	1214	THIS		bo	b o
+578678	611358	savelyevturkic-Uighur	uigh1240		this	1214	THIS		bu	b u
+578795	611475	wold-Sakha	yaku1245		this	1214	THIS		bu	b u
+578796	611476	wold-Sakha	yaku1245		this	1214	THIS		iti	i t i
+580616	613299	northeuralex-azj	nort2697		thou	1215	THOU		sæn	s æ n
+580617	613300	northeuralex-bak	bash1264		thou	1215	THOU		hin	h i n
+580627	613310	northeuralex-chv	chuv1255		thou	1215	THOU		es	e s
+580660	613343	northeuralex-kaz	kaza1248		thou	1215	THOU		sen	s e n
+580703	613386	northeuralex-tat	tata1255		thou	1215	THOU		sin	s i n
+580705	613388	northeuralex-tur	nucl1301		thou	1215	THOU		sɛn	s ɛ n
+580708	613391	northeuralex-uzn	nort2690		thou	1215	THOU		sɛn	s ɛ n
+580772	613455	savelyevturkic-CrimeanTatar	crim1257		thou	1215	THOU		sen	s e n
+580773	613456	savelyevturkic-Dolgan	dolg1241		thou	1215	THOU		en	e n
+580774	613457	savelyevturkic-Gagauz	gaga1249		thou	1215	THOU		sɛn	s æ n
+580775	613458	savelyevturkic-KaraKalpak	kara1467		thou	1215	THOU		sen	s e n
+580776	613459	savelyevturkic-KarachayBalkar	kara1465		thou	1215	THOU		sen	s e n
+580777	613460	savelyevturkic-Karaim	kara1464		thou	1215	THOU		sen	s e n
+580778	613461	savelyevturkic-Khakas	khak1248		thou	1215	THOU		sin	s i n
+580779	613462	savelyevturkic-Khalaj	turk1303		thou	1215	THOU		sɛn	s æ n
+580780	613463	savelyevturkic-Kirghiz	kirg1245		thou	1215	THOU		sen	s e n
+580781	613464	savelyevturkic-Kumyk	kumy1244		thou	1215	THOU		sen	s e n
+580782	613465	savelyevturkic-Nogai	noga1249		thou	1215	THOU		siz	s i z
+580783	613466	savelyevturkic-NorthAltai	nort2686		thou	1215	THOU		sen	s e n
+580784	613467	savelyevturkic-Salar	sala1264		thou	1215	THOU		sen	s e n
+580785	613468	savelyevturkic-SarygYugur	west2402		thou	1215	THOU		sen	s e n
+580786	613469	savelyevturkic-Shor	shor1247		thou	1215	THOU		sen	s e n
+580787	613470	savelyevturkic-SouthAltai	sout2694		thou	1215	THOU		sen	s e n
+580788	613471	savelyevturkic-Turkmen	turk1304		thou	1215	THOU		sen	s e n
+580789	613472	savelyevturkic-Tuvan	tuvi1240		thou	1215	THOU		sen	s e n
+580790	613473	savelyevturkic-Uighur	uigh1240		thou	1215	THOU		sɛn	s æ n
+581056	613739	wold-Sakha	yaku1245		thou	1215	THOU		en	e n
+596581	629268	northeuralex-azj	nort2697		tongue	1205	TONGUE		dɪl	d ɪ l
+596582	629269	northeuralex-bak	bash1264		tongue	1205	TONGUE		tel	t e l
+596592	629279	northeuralex-chv	chuv1255		tongue	1205	TONGUE		t͡ɕɘlˈχɛ	tɕ ɘ l χ ɛ
+596625	629312	northeuralex-kaz	kaza1248		tongue	1205	TONGUE		təl	t ə l
+596668	629355	northeuralex-tat	tata1255		tongue	1205	TONGUE		tel	t e l
+596670	629357	northeuralex-tur	nucl1301		tongue	1205	TONGUE		dil	d i l
+596673	629360	northeuralex-uzn	nort2690		tongue	1205	TONGUE		til	t i l
+596929	629616	savelyevturkic-CrimeanTatar	crim1257		tongue	1205	TONGUE		til	t i l
+596930	629617	savelyevturkic-Dolgan	dolg1241		tongue	1205	TONGUE		tɯl	t ɯ l
+596931	629618	savelyevturkic-Gagauz	gaga1249		tongue	1205	TONGUE		dil	d i l
+596932	629619	savelyevturkic-KaraKalpak	kara1467		tongue	1205	TONGUE		til	t i l
+596933	629620	savelyevturkic-KarachayBalkar	kara1465		tongue	1205	TONGUE		til	t i l
+596934	629621	savelyevturkic-Karaim	kara1464		tongue	1205	TONGUE		til	t i l
+596935	629622	savelyevturkic-Khakas	khak1248		tongue	1205	TONGUE		tɘl	t ĭ l
+596936	629623	savelyevturkic-Khalaj	turk1303		tongue	1205	TONGUE		til	t i l
+596937	629624	savelyevturkic-Kirghiz	kirg1245		tongue	1205	TONGUE		til	t i l
+596938	629625	savelyevturkic-Kumyk	kumy1244		tongue	1205	TONGUE		til	t i l
+596939	629626	savelyevturkic-Nogai	noga1249		tongue	1205	TONGUE		til	t i l
+596940	629627	savelyevturkic-NorthAltai	nort2686		tongue	1205	TONGUE		til	t i l
+596941	629628	savelyevturkic-Salar	sala1264		tongue	1205	TONGUE		ʦil	ts i l
+596942	629629	savelyevturkic-SarygYugur	west2402		tongue	1205	TONGUE		tel	t e l
+596943	629630	savelyevturkic-Shor	shor1247		tongue	1205	TONGUE		til	t i l
+596944	629631	savelyevturkic-SouthAltai	sout2694		tongue	1205	TONGUE		til	t i l
+596945	629632	savelyevturkic-Turkmen	turk1304		tongue	1205	TONGUE		dil	d i l
+596946	629633	savelyevturkic-Tuvan	tuvi1240		tongue	1205	TONGUE		dɯl	d ɯ l
+596947	629634	savelyevturkic-Uighur	uigh1240		tongue	1205	TONGUE		til	t i l
+597421	630108	wold-Sakha	yaku1245		tongue	1205	TONGUE		tɨl	t ɨ l
+598756	631443	northeuralex-azj	nort2697		tooth	1380	TOOTH		dɪʃ	d ɪ ʃ
+598757	631444	northeuralex-bak	bash1264		tooth	1380	TOOTH		teʃ	t e ʃ
+598767	631454	northeuralex-chv	chuv1255		tooth	1380	TOOTH		ʂəl	ʂ ə l
+598796	631483	northeuralex-kaz	kaza1248		tooth	1380	TOOTH		təs	t ə s
+598840	631527	northeuralex-tat	tata1255		tooth	1380	TOOTH		teʃ	t e ʃ
+598842	631529	northeuralex-tur	nucl1301		tooth	1380	TOOTH		diʃ	d i ʃ
+598845	631532	northeuralex-uzn	nort2690		tooth	1380	TOOTH		tiʃ	t i ʃ
+599106	631793	savelyevturkic-CrimeanTatar	crim1257		tooth	1380	TOOTH		tiʃ	t i ʃ
+599107	631794	savelyevturkic-Dolgan	dolg1241		tooth	1380	TOOTH		ti:s	t iː s
+599108	631795	savelyevturkic-Gagauz	gaga1249		tooth	1380	TOOTH		diʃ	d i ʃ
+599109	631796	savelyevturkic-KaraKalpak	kara1467		tooth	1380	TOOTH		tis	t i s
+599110	631797	savelyevturkic-KarachayBalkar	kara1465		tooth	1380	TOOTH		tiʃ	t i ʃ
+599111	631798	savelyevturkic-Karaim	kara1464		tooth	1380	TOOTH		tis (h), tiʃ (tk), diʃ (k)	t i s
+599112	631799	savelyevturkic-Khakas	khak1248		tooth	1380	TOOTH		tɘs	t ĭ s
+599113	631800	savelyevturkic-Khalaj	turk1303		tooth	1380	TOOTH		ti:iʃ	t iː ʃ
+599114	631801	savelyevturkic-Kirghiz	kirg1245		tooth	1380	TOOTH		tiʃ	t i ʃ
+599115	631802	savelyevturkic-Kumyk	kumy1244		tooth	1380	TOOTH		tiʃ	t i ʃ
+599116	631803	savelyevturkic-Nogai	noga1249		tooth	1380	TOOTH		tis	t i s
+599117	631804	savelyevturkic-NorthAltai	nort2686		tooth	1380	TOOTH		tiʃ	t i ʃ
+599118	631805	savelyevturkic-Salar	sala1264		tooth	1380	TOOTH		tiʨ	t i tɕ
+599119	631806	savelyevturkic-SarygYugur	west2402		tooth	1380	TOOTH		tɯs, tes	t ɯ s
+599120	631807	savelyevturkic-Shor	shor1247		tooth	1380	TOOTH		tiʃ	t i ʃ
+599121	631808	savelyevturkic-SouthAltai	sout2694		tooth	1380	TOOTH		tiʃ	t i ʃ
+599122	631809	savelyevturkic-Turkmen	turk1304		tooth	1380	TOOTH		diʃ	d i ʃ
+599123	631810	savelyevturkic-Uighur	uigh1240		tooth	1380	TOOTH		ʨiʃ	tɕ i ʃ
+599606	632293	wold-Sakha	yaku1245		tooth	1380	TOOTH		tiːs	t iː s
+603178	635865	northeuralex-azj	nort2697		tree	906	TREE		ɑɣɑd͡ʒ	ɑ ɣ ɑ dʒ
+603179	635866	northeuralex-bak	bash1264		tree	906	TREE		aɣas	a ɣ a s
+603190	635877	northeuralex-chv	chuv1255		tree	906	TREE		ˈjɯʋəɕ	j ɯ ʋ ə ɕ
+603221	635908	northeuralex-kaz	kaza1248		tree	906	TREE		ɑʁɑʃ	ɑ ʁ ɑ ʃ
+603222	635909	northeuralex-kaz	kaza1248		tree	906	TREE		dɑɾɑq	d ɑ ɾ ɑ q
+603265	635952	northeuralex-tat	tata1255		tree	906	TREE		aɡat͡ɕ	a g a tɕ
+603267	635954	northeuralex-tur	nucl1301		tree	906	TREE		aːat͡ʃ	aː a tʃ
+603270	635957	northeuralex-uzn	nort2690		tree	906	TREE		daraχt	d a r a χ t
+603533	636220	savelyevturkic-CrimeanTatar	crim1257		tree	906	TREE		terek	t e r e k
+603534	636221	savelyevturkic-Dolgan	dolg1241		tree	906	TREE		mas	m a s
+603535	636222	savelyevturkic-Gagauz	gaga1249		tree	906	TREE		a:ʨ	aː tɕ
+603536	636223	savelyevturkic-KaraKalpak	kara1467		tree	906	TREE		aɣaʃ	a ɣ a ʃ
+603537	636224	savelyevturkic-KarachayBalkar	kara1465		tree	906	TREE		terek	t e r e k
+603538	636225	savelyevturkic-Karaim	kara1464		tree	906	TREE		tørɛk	t ø r æ k
+603539	636226	savelyevturkic-Khakas	khak1248		tree	906	TREE		aɣas	a ɣ a s
+603540	636227	savelyevturkic-Khalaj	turk1303		tree	906	TREE		haɣaʨ	h a ɣ a tɕ
+603541	636228	savelyevturkic-Kirghiz	kirg1245		tree	906	TREE		ʥɯɣaʨ	dʑ ɯ ɣ a tɕ
+603542	636229	savelyevturkic-Kumyk	kumy1244		tree	906	TREE		terek	t e r e k
+603543	636230	savelyevturkic-Nogai	noga1249		tree	906	TREE		terek	t e r e k
+603544	636231	savelyevturkic-NorthAltai	nort2686		tree	906	TREE		aɣaʃ	a ɣ a ʃ
+603545	636232	savelyevturkic-Salar	sala1264		tree	906	TREE		aɣaʨ	a ɣ a tɕ
+603546	636233	savelyevturkic-SarygYugur	west2402		tree	906	TREE		terek, (terik)	t e r e k
+603547	636234	savelyevturkic-Shor	shor1247		tree	906	TREE		aɣaʃ	a ɣ a ʃ
+603548	636235	savelyevturkic-SouthAltai	sout2694		tree	906	TREE		aγaʃ	a ɣ a ʃ
+603549	636236	savelyevturkic-Turkmen	turk1304		tree	906	TREE		aɣaʨ	a ɣ a tɕ
+603550	636237	savelyevturkic-Tuvan	tuvi1240		tree	906	TREE		ɯjaʃ	ɯ j a ʃ
+603551	636238	savelyevturkic-Uighur	uigh1240		tree	906	TREE		jaɣaʨ	j a ɣ a tɕ
+604014	636701	wold-Sakha	yaku1245		tree	906	TREE		mas	m a s
+611652	644339	northeuralex-azj	nort2697		two	1498	TWO		ɪkɪ	ɪ k ɪ
+611653	644340	northeuralex-bak	bash1264		two	1498	TWO		ike	i k e
+611654	644341	northeuralex-bak	bash1264		two	1498	TWO		ikæy	i k æ y
+611665	644352	northeuralex-chv	chuv1255		two	1498	TWO		ik	i k
+611666	644353	northeuralex-chv	chuv1255		two	1498	TWO		ˈikɘ	i k ɘ
+611667	644354	northeuralex-chv	chuv1255		two	1498	TWO		ˈikɘ	i k ɘ
+611696	644383	northeuralex-kaz	kaza1248		two	1498	TWO		ekə	e k ə
+611740	644427	northeuralex-tat	tata1255		two	1498	TWO		ike	i k e
+611742	644429	northeuralex-tur	nucl1301		two	1498	TWO		iki	i k i
+611745	644432	northeuralex-uzn	nort2690		two	1498	TWO		ikːi	i kː i
+612004	644691	savelyevturkic-CrimeanTatar	crim1257		two	1498	TWO		eki	e k i
+612005	644692	savelyevturkic-Dolgan	dolg1241		two	1498	TWO		ikki	i kː i
+612006	644693	savelyevturkic-Gagauz	gaga1249		two	1498	TWO		iki	i k i
+612007	644694	savelyevturkic-KaraKalpak	kara1467		two	1498	TWO		eki	e k i
+612008	644695	savelyevturkic-KarachayBalkar	kara1465		two	1498	TWO		eki	e k i
+612009	644696	savelyevturkic-Karaim	kara1464		two	1498	TWO		eki	e k i
+612010	644697	savelyevturkic-Khakas	khak1248		two	1498	TWO		ɘkɘ	ĭ k ĭ
+612011	644698	savelyevturkic-Khalaj	turk1303		two	1498	TWO		ɛkki	æ kː i
+612012	644699	savelyevturkic-Kirghiz	kirg1245		two	1498	TWO		eki	e k i
+612013	644700	savelyevturkic-Kumyk	kumy1244		two	1498	TWO		eki	e k i
+612014	644701	savelyevturkic-Nogai	noga1249		two	1498	TWO		eki	e k i
+612015	644702	savelyevturkic-NorthAltai	nort2686		two	1498	TWO		eki	e k i
+612016	644703	savelyevturkic-Salar	sala1264		two	1498	TWO		iʃki, iʨki	i ʃ k i
+612017	644704	savelyevturkic-SarygYugur	west2402		two	1498	TWO		iʃke	i ʃ k e
+612018	644705	savelyevturkic-Shor	shor1247		two	1498	TWO		ijgi	i j g i
+612019	644706	savelyevturkic-SouthAltai	sout2694		two	1498	TWO		eki	e k i
+612020	644707	savelyevturkic-Turkmen	turk1304		two	1498	TWO		iki	i k i
+612021	644708	savelyevturkic-Tuvan	tuvi1240		two	1498	TWO		iji	i j i
+612022	644709	savelyevturkic-Uighur	uigh1240		two	1498	TWO		ikki	i kː i
+612491	645178	wold-Sakha	yaku1245		two	1498	TWO		ikki	i kː i
+627528	680189	northeuralex-azj	nort2697		white	1335	WHITE		ɑɣ	ɑ ɣ
+627529	680190	northeuralex-bak	bash1264		white	1335	WHITE		aq	a q
+627539	680200	northeuralex-chv	chuv1255		white	1335	WHITE		ˈʂurə	ʂ u r ə
+627568	680229	northeuralex-kaz	kaza1248		white	1335	WHITE		ɑq	ɑ q
+627613	680274	northeuralex-tat	tata1255		white	1335	WHITE		ak	a k
+627615	680276	northeuralex-tur	nucl1301		white	1335	WHITE		ak	a k
+627616	680277	northeuralex-tur	nucl1301		white	1335	WHITE		bɛjaz	b ɛ j a z
+627619	680280	northeuralex-uzn	nort2690		white	1335	WHITE		ɒq	ɒ q
+627883	680544	savelyevturkic-CrimeanTatar	crim1257		white	1335	WHITE		aq	a q
+627884	680545	savelyevturkic-Gagauz	gaga1249		white	1335	WHITE		ak	a k
+627885	680546	savelyevturkic-KaraKalpak	kara1467		white	1335	WHITE		aq	a q
+627886	680547	savelyevturkic-KarachayBalkar	kara1465		white	1335	WHITE		aq	a q
+627887	680548	savelyevturkic-Karaim	kara1464		white	1335	WHITE		ak	a k
+627888	680549	savelyevturkic-Khakas	khak1248		white	1335	WHITE		aχ	a χ
+627889	680550	savelyevturkic-Khalaj	turk1303		white	1335	WHITE		hyryn (hirin)	h y r y n
+627890	680551	savelyevturkic-Kirghiz	kirg1245		white	1335	WHITE		aq	a q
+627891	680552	savelyevturkic-Kumyk	kumy1244		white	1335	WHITE		aq	a q
+627892	680553	savelyevturkic-Nogai	noga1249		white	1335	WHITE		aq	a q
+627893	680554	savelyevturkic-NorthAltai	nort2686		white	1335	WHITE		aq	a q
+627894	680555	savelyevturkic-Salar	sala1264		white	1335	WHITE		aχ	a χ
+627895	680556	savelyevturkic-SarygYugur	west2402		white	1335	WHITE		aq	a q
+627896	680557	savelyevturkic-Shor	shor1247		white	1335	WHITE		aq	a q
+627897	680558	savelyevturkic-SouthAltai	sout2694		white	1335	WHITE		aq	a q
+627898	680559	savelyevturkic-Turkmen	turk1304		white	1335	WHITE		aq	a q
+627899	680560	savelyevturkic-Tuvan	tuvi1240		white	1335	WHITE		aq	a q
+627900	680561	savelyevturkic-Uighur	uigh1240		white	1335	WHITE		aq	a q
+628323	680984	wold-Sakha	yaku1245		white	1335	WHITE		maɣan	m a ɣ a n
+628324	680985	wold-Sakha	yaku1245		white	1335	WHITE		ürüŋ	y r y ŋ
+629985	682738	northeuralex-azj	nort2697		who	1235	WHO		kɪm	k ɪ m
+629986	682739	northeuralex-bak	bash1264		who	1235	WHO		qem	q e m
+629996	682749	northeuralex-chv	chuv1255		who	1235	WHO		kam	k a m
+630028	682781	northeuralex-kaz	kaza1248		who	1235	WHO		kəm	k ə m
+630078	682831	northeuralex-tat	tata1255		who	1235	WHO		kem	k e m
+630080	682833	northeuralex-tur	nucl1301		who	1235	WHO		kim	k i m
+630083	682836	northeuralex-uzn	nort2690		who	1235	WHO		kim	k i m
+630150	682903	savelyevturkic-CrimeanTatar	crim1257		who	1235	WHO		kim	k i m
+630151	682904	savelyevturkic-Dolgan	dolg1241		who	1235	WHO		kim	k i m
+630152	682905	savelyevturkic-Gagauz	gaga1249		who	1235	WHO		kim	k i m
+630153	682906	savelyevturkic-KaraKalpak	kara1467		who	1235	WHO		kim	k i m
+630154	682907	savelyevturkic-KarachayBalkar	kara1465		who	1235	WHO		kim	k i m
+630155	682908	savelyevturkic-Karaim	kara1464		who	1235	WHO		kim	k i m
+630156	682909	savelyevturkic-Khakas	khak1248		who	1235	WHO		kem	k e m
+630157	682910	savelyevturkic-Khalaj	turk1303		who	1235	WHO		kim	k i m
+630158	682911	savelyevturkic-Kirghiz	kirg1245		who	1235	WHO		kim	k i m
+630159	682912	savelyevturkic-Kumyk	kumy1244		who	1235	WHO		kim	k i m
+630160	682913	savelyevturkic-Nogai	noga1249		who	1235	WHO		kim	k i m
+630161	682914	savelyevturkic-NorthAltai	nort2686		who	1235	WHO		kem	k e m
+630162	682915	savelyevturkic-Salar	sala1264		who	1235	WHO		kem	k e m
+630163	682916	savelyevturkic-SarygYugur	west2402		who	1235	WHO		k`im	k i m
+630164	682917	savelyevturkic-Shor	shor1247		who	1235	WHO		kem	k e m
+630165	682918	savelyevturkic-SouthAltai	sout2694		who	1235	WHO		kem	k e m
+630166	682919	savelyevturkic-Turkmen	turk1304		who	1235	WHO		kim	k i m
+630167	682920	savelyevturkic-Tuvan	tuvi1240		who	1235	WHO		qɯm	q ɯ m
+630168	682921	savelyevturkic-Uighur	uigh1240		who	1235	WHO		kim	k i m
+630527	683280	wold-Sakha	yaku1245		who	1235	WHO		kim	k i m
+640360	693115	northeuralex-azj	nort2697		woman	962	WOMAN		ɡɑdɯn	g ɑ d ɯ n
+640361	693116	northeuralex-bak	bash1264		woman	962	WOMAN		qatɯn	q a t ɯ n
+640372	693127	northeuralex-chv	chuv1255		woman	962	WOMAN		χɘˈrarəm	χ ɘ r a r ə m
+640406	693161	northeuralex-kaz	kaza1248		woman	962	WOMAN		bɪjke	b ɪ j k e
+640407	693162	northeuralex-kaz	kaza1248		woman	962	WOMAN		qɑtən	q ɑ t ə n
+640461	693216	northeuralex-tat	tata1255		woman	962	WOMAN		xatɤn	x a t ɤ n
+640463	693218	northeuralex-tur	nucl1301		woman	962	WOMAN		bajan	b a j a n
+640466	693221	northeuralex-uzn	nort2690		woman	962	WOMAN		ajɒl	a j ɒ l
+640734	693489	savelyevturkic-CrimeanTatar	crim1257		woman	962	WOMAN		? qadɯn	q a d ɯ n
+640735	693490	savelyevturkic-CrimeanTatar	crim1257		woman	962	WOMAN		? qɯsqajaqlɯ	q ɯ s q a j a q l ɯ
+640736	693491	savelyevturkic-Gagauz	gaga1249		woman	962	WOMAN		karɯ	k a r ɯ
+640737	693492	savelyevturkic-KaraKalpak	kara1467		woman	962	WOMAN		qatɯn	q a t ɯ n
+640738	693493	savelyevturkic-KarachayBalkar	kara1465		woman	962	WOMAN		tiʃirɯw	t i ʃ i r ɯ w
+640739	693494	savelyevturkic-Karaim	kara1464		woman	962	WOMAN		qatɯn	q a t ɯ n
+640740	693495	savelyevturkic-Khakas	khak1248		woman	962	WOMAN		ipʨɘ kɘzɘ	i p tɕ ĭ + k ĭ z ĭ
+640741	693496	savelyevturkic-Khakas	khak1248		woman	962	WOMAN		ipʨɘ kɘzɘ	i p tɕ ĭ + k ĭ z ĭ
+640742	693497	savelyevturkic-Khalaj	turk1303		woman	962	WOMAN		kiʃi	k i ʃ i
+640743	693498	savelyevturkic-Kumyk	kumy1244		woman	962	WOMAN		qatɯn giʃi	q a t ɯ n + g i ʃ i
+640744	693499	savelyevturkic-Kumyk	kumy1244		woman	962	WOMAN		qatɯn giʃi	q a t ɯ n + g i ʃ i
+640745	693500	savelyevturkic-Nogai	noga1249		woman	962	WOMAN		χatɯnqïz	χ a t ɯ n q ɯ z
+640746	693501	savelyevturkic-Nogai	noga1249		woman	962	WOMAN		χatɯn	χ a t ɯ n
+640747	693502	savelyevturkic-Nogai	noga1249		woman	962	WOMAN		qɯsqajaqlɯ	q ɯ s q a j a q l ɯ
+640748	693503	savelyevturkic-NorthAltai	nort2686		woman	962	WOMAN		qat	q a t
+640749	693504	savelyevturkic-NorthAltai	nort2686		woman	962	WOMAN		tiʒi+kiʒi	t i ʒ i + k i ʒ i
+640750	693505	savelyevturkic-NorthAltai	nort2686		woman	962	WOMAN		eptɕi	e p tɕ i
+640751	693506	savelyevturkic-NorthAltai	nort2686		woman	962	WOMAN		tiʒi+kiʒi	t i ʒ i + k i ʒ i
+640752	693507	savelyevturkic-Salar	sala1264		woman	962	WOMAN		qa:tɯn ke:ʃ	q aː t ɯ n + k eː ʃ
+640753	693508	savelyevturkic-Salar	sala1264		woman	962	WOMAN		qa:tɯn ke:ʃ	q aː t ɯ n + k eː ʃ
+640754	693509	savelyevturkic-SarygYugur	west2402		woman	962	WOMAN		sɛʥdɯɣ, (ʃɛʥdɯq)	s æ ʒ d ɯ ɣ
+640755	693510	savelyevturkic-Shor	shor1247		woman	962	WOMAN		tiʒi kiʒi	t i ʒ i + k i ʒ i
+640756	693511	savelyevturkic-Shor	shor1247		woman	962	WOMAN		? eptɕi (kiʒi)	e p tɕ i + k i ʒ i
+640757	693512	savelyevturkic-Shor	shor1247		woman	962	WOMAN		tiʒi kiʒi	t i ʒ i + k i ʒ i
+640758	693513	savelyevturkic-SouthAltai	sout2694		woman	962	WOMAN		yjkiʒi	y j k i ʒ i
+640759	693514	savelyevturkic-SouthAltai	sout2694		woman	962	WOMAN		yjkiʒi	y j k i ʒ i
+640760	693515	savelyevturkic-Tuvan	tuvi1240		woman	962	WOMAN		? χereeʒen (kiʒi)	χ e r eː ʒ e n + k i ʒ i
+641222	693977	wold-Sakha	yaku1245		woman	962	WOMAN		ʤaχtar	dʒ a χ t a r
+649088	702928	wold-Sakha	yaku1245		yellow	1424	YELLOW		saharχay	s a h a r χ a y
+649089	702929	wold-Sakha	yaku1245		yellow	1424	YELLOW		araɣas	a r a ɣ a s
