@@ -4,7 +4,7 @@ import pandas as pd
 
 
 stat_dicts = []
-language_set = "all"
+language_set = "lexibank-analyzed_families"
 
 base_dir = os.path.join("results", language_set)
 
