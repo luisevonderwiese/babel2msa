@@ -1,5 +1,7 @@
 import os
 import json
+import traceback
+
 from categorical import CategoricalData
 
 
@@ -72,6 +74,7 @@ for family in families:
         try:
             pipeline.detect_cognates(wordlist_path, wordlist_cognate_path, redo)
         except Exception as e: 
+            traceback.print_exc()
             print(e)
             continue
         cd = CategoricalData.from_edictor_tsv(wordlist_cognate_path)

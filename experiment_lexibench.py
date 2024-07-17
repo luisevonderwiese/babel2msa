@@ -75,6 +75,8 @@ for dataset in datasets:
         if not os.path.isfile(glottolog_tree_path) or redo:
             print("Writing tree")
             tree = cd.get_glottolog_tree()
+            if tree is None:
+                continue
             tree.write(format = 1, outfile = glottolog_tree_path)
 
         pipeline.sparsity_plot(cd, sparsity_plot_path, redo)

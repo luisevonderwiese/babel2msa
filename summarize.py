@@ -4,7 +4,8 @@ import pandas as pd
 
 
 stat_dicts = []
-language_set = "empirical"
+language_set = "all"
+
 base_dir = os.path.join("results", language_set)
 
 statistics_dir = os.path.join(base_dir, "statistics")
@@ -14,6 +15,6 @@ for stats_file in os.listdir(statistics_dir):
 
 df = pd.DataFrame.from_dict(stat_dicts)
 df = df.sort_values(['name'], ascending=[1])
-with pd.option_context('display.max_rows', None, 'display.max_columns', None):
+with pd.option_context('display.max_rows', None, 'display.max_columns', None, 'display.expand_frame_repr', False):
     print(df.round(3))
 
