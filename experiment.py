@@ -18,12 +18,6 @@ import util
 import pipeline
 import patch_lingpy
 
-language_set = "all"
-name = "filter"
-num_ids = 100 
-use_epitran = False  
-redo = True
-bn = BabelNet.getInstance()
 
 def run_experiments(bn, language_set, name, num_ids, use_epitran, redo):
     if name.startswith("filter"):
@@ -140,7 +134,6 @@ def run_experiments(bn, language_set, name, num_ids, use_epitran, redo):
         json.dump(stat_dict, outfile)
 
 
-language_set = "all"
 redo = False
 bn = BabelNet.getInstance()
 for language_set in ["all", "main", "ielex"]:

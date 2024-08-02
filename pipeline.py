@@ -218,11 +218,11 @@ def ranking_from_synsetfilter(bn, synsetfilter_path, ranking_path, langs, epitra
     counts_df = counts_df.sort_values(['count'], ascending=[0])
         
     with open(ranking_path, 'w+') as ranking_file:
-        ranking_file.write("\t".join(["babelid", "concept"]) + "\n")
+        ranking_file.write("\t".join(["babelid", "concept", "count"]) + "\n")
 
     for i, row in counts_df.iterrows():
         with open(ranking_path, 'a') as ranking_file:
-            ranking_file.write("\t".join([row["babelid"], row["concept"]]) + "\n")
+            ranking_file.write("\t".join([row["babelid"], row["concept"], str(row["count"])]) + "\n")
 
 
 
