@@ -87,47 +87,55 @@ def get_glotto_iso_map():
 def check_ipatok_lexibank_analyzed():
     df = pd.read_csv(os.path.join("resources", "lexibank-analyzed_wordlists", "lexibank-anaylzed_wordlist.tsv"), sep = "\t")
     df.astype("str")
-    correct = 0
-    wrong = 0
+    ipatok_wrong = 0
+    lingpy_wrong = 0
+    overall = 0
     for i, row in df.iterrows():
         ipa = row["IPA"]
         tokens = row["TOKENS"]
         if ipa == ipa and ipa != "" and ipa != "nan":
             if tokens == tokens and tokens != "" and tokens != "nan":
+                overall += 1
                 tokens2 = " ".join(tokenise(ipa))
-                #tokens2 = "".join(ipa2tokens(ipa.replace(" ", "")))
-                if tokens2 == tokens:
-                    correct += 1
-                else:
-                    wrong += 1
-    print("correct", str(correct))
-    print("wrong", str(wrong))
+                tokens3 = "".join(ipa2tokens(ipa.replace(" ", "")))
+                if tokens2 != tokens:
+                    ipatok_wrong += 1
+                if tokens3 != tokens:
+                    lingpy_wrong += 1
+    print("lexibank-analyzed")
+    print("error rate ipatok:", str(100 * (ipatok_wrong / overall)))
+    print("error rate lingpy:", str(100 * (lingpy_wrong / overall)))
 
 
 def check_ipatok(df):
-    correct = 0
-    wrong = 0
+    overall = 0
+    ipatok_wrong = 0
+    lingpy_wrong = 0
     for i, row in df.iterrows():
         ipa = row["rawIPA"]
         tokens = row["IPA"]
         if ipa == ipa and ipa != "" and ipa != "nan":
             if tokens == tokens and tokens != "" and tokens != "nan":
+                overall += 1
                 tokens = tokens.split(" ")
                 tokens2 = tokenise(ipa)
-                #tokens2 = "".join(ipa2tokens(ipa.replace(" ", "")))
-                if tokens2 == tokens:
-                    correct += 1
-                else:
-                    wrong += 1
-    print("correct", str(correct))
-    print("wrong", str(wrong))
+                tokens3 = "".join(ipa2tokens(ipa.replace(" ", "")))
+                if tokens2 != tokens:
+                    ipatok_wrong += 1
+                if tokens3 != tokens:
+                    lingpy_wrong += 1
+    print("northeuralex")
+    print("error rate ipatok:", str(100 * (ipatok_wrong / overall)))
+    print("error rate lingpy:", str(100 * (lingpy_wrong / overall)))
 
 def check_epitran(df, relevant_glottocodes):
     results = []
+    dolgo_model = rc('dolgo')
     for glottocode in relevant_glottocodes:
         print(glottocode)
-        correct = 0
+        overall = 0
         wrong = 0
+        dolgo_wrong = 0
         res = get_epitran(glotto_iso_map[glottocode], epitran_dict)
         assert(res is not None)
         epi = res[0]
@@ -144,49 +152,22 @@ def check_epitran(df, relevant_glottocodes):
                     print(e)
                     wrong += 1
                     continue
-                if ipa2 == ipa:
-                    correct += 1
-                else:
+
+                tokens = tokenise(ipa)
+                dolgo = [token2class(token, dolgo_model) for token in tokens]
+                ipa2 = epi.transliterate(form)
+                tokens2 = tokenise(ipa2)
+                dolgo2 = [token2class(token, dolgo_model) for token in tokens2]
+                overall += 1
+                if ipa2 != ipa:
                     wrong +=1
-        results.append([glottocode, mode, correct, wrong])
-    print(tabulate(results, headers=["glottocode", "epi mode", "correct", "wrong"]))
+                if dolgo != dolgo2:
+                    dolgo_wrong +=1
+
+        results.append([glottocode, "$" + str(round(100 * (wrong / overall), 2)) + " \%$", "$" + str(round(100 * (dolgo_wrong / overall), 2)) + " \%$"])
+    print(tabulate(results, tablefmt = "latex_raw", headers=["glottocode", "error rate", "dolgo error rate"]))
 
 
-def check_epitran_dolgo(df, relevant_glottocodes):
-    results = []
-    dolgo_model = rc('dolgo')
-    for glottocode in relevant_glottocodes:
-        print(glottocode)
-        correct = 0
-        wrong = 0
-        res = get_epitran(glotto_iso_map[glottocode], epitran_dict)
-        assert(res is not None)
-        epi = res[0]
-        mode = res[1]
-        sub_df = df[df["Glottocode"] == glottocode]
-        for i, row in sub_df.iterrows():
-            ipa = row["rawIPA"]
-            form = row["Word_Form"]
-            if ipa == ipa and ipa != "" and ipa != "nan" \
-                and form == form and form != "" and form != "nan":
-                    #tokens = "".join(ipa2tokens(ipa.replace(" ", "")))
-                    tokens = tokenise(ipa)
-                    #space_tokens = " ".join(tokens)
-                    dolgo = [token2class(token, dolgo_model) for token in tokens]
-                    #space_dolgo = [token2class(token, dolgo_model) for token in space_tokens]
-                    ipa2 = epi.transliterate(form)
-                    tokens2 = tokenise(ipa2)
-                    #space_tokens2 = " ".join(tokens2)
-                    dolgo2 = [token2class(token, dolgo_model) for token in tokens2]
-                    #space_dolgo2 = [token2class(token, dolgo_model) for token in space_tokens2]
-                    if dolgo == dolgo2:
-                        correct += 1
-                    else:
-                        wrong +=1
-        results.append([glottocode, mode, correct, wrong])
-    print(tabulate(results, headers=["glottocode", "epi mode", "correct", "wrong"]))
-
-check_ipatok_lexibank_analyzed()
 
 df = pd.read_csv(os.path.join("resources", "northeuralex-0.9-forms.tsv"), sep = "\t")
 df.astype("str")
@@ -201,6 +182,6 @@ for glottocode in glottocodes:
     if iso in epitran_dict:
         relevant_glottocodes.append(glottocode)
 
-#check_ipatok(df)
+check_ipatok(df)
+check_ipatok_lexibank_analyzed()
 check_epitran(df, relevant_glottocodes)
-check_epitran_dolgo(df, relevant_glottocodes)
