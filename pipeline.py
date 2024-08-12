@@ -18,7 +18,7 @@ from it.uniroma1.lcl.jlt.util import Language
 
 
 def get_languages(language_set):
-    assert(language_set in ["all", "ielex", "main"])
+    assert(language_set in ["all", "iecor", "main"])
     langs = Language.values()
     codes = [util.get_code(lang) for lang in langs]
     iso_glotto_map = util.get_iso_glotto_map()
@@ -30,7 +30,8 @@ def get_languages(language_set):
         if code in iso_glotto_map:
             if language_set == "all" or iso_glotto_map[code][0] in subset_glottocodes:
                 selected_langs.append(langs[l])
-    return set(selected_langs)
+    result = set(selected_langs)
+    return result
 
 def old_filter_synsets(bn, synsetfilter_path, langs, epitran_langs, redo):
     if os.path.isfile(synsetfilter_path) and not redo:
