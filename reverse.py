@@ -97,7 +97,7 @@ def check_ipatok_lexibank_analyzed():
             if tokens == tokens and tokens != "" and tokens != "nan":
                 overall += 1
                 tokens2 = " ".join(tokenise(ipa))
-                tokens3 = "".join(ipa2tokens(ipa.replace(" ", "")))
+                tokens3 = " ".join(ipa2tokens(ipa.replace(" ", "")))
                 if tokens2 != tokens:
                     ipatok_wrong += 1
                 if tokens3 != tokens:
@@ -119,7 +119,7 @@ def check_ipatok(df):
                 overall += 1
                 tokens = tokens.split(" ")
                 tokens2 = tokenise(ipa)
-                tokens3 = "".join(ipa2tokens(ipa.replace(" ", "")))
+                tokens3 = ipa2tokens(ipa.replace(" ", ""))
                 if tokens2 != tokens:
                     ipatok_wrong += 1
                 if tokens3 != tokens:
@@ -184,4 +184,4 @@ for glottocode in glottocodes:
 
 check_ipatok(df)
 check_ipatok_lexibank_analyzed()
-check_epitran(df, relevant_glottocodes)
+#check_epitran(df, relevant_glottocodes)
