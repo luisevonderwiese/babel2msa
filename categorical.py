@@ -142,6 +142,28 @@ class CategoricalData:
         possible_values.sort()
         return possible_values
 
+    def bin_column_entropy(self, code):
+        code = code.replace("-", "")
+        entropy = 0
+        for char in ["0", "1"]:
+            count = code.count(char)
+            if count == 0:
+                entropy_x = 0
+            else:
+                prob = count / len(code)
+                entropy_x = prob * math.log2(prob)
+            entropy += entropy_x
+        return -entropy
+
+
+    def bin_entropy(self):
+        entropy = 0
+        for char_idx in range(self.num_chars()):
+            codes = self.encode_bin(char_idx)
+            for code in codes:
+                entropy += self.bin_column_entropy(code)
+        return entropy
+
 
     def bin_cross_validation_data(self, path):
         random.seed(2)
