@@ -4,3 +4,5 @@ BabelNet-API-5.3/
 __pycache__/
 .nfs*
 resources/synsetfilter.tsv
+resources/lexibank-analyzed_wordlists/lexibank-anaylzed_wordlist.tsv
+resources/lexibank-analyzed_wordlists/families/all_all_wordlist.tsv
