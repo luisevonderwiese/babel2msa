@@ -87,6 +87,18 @@ def get_iso_glotto_map():
             iso_glotto_map[iso].append(row["ID"])
     return iso_glotto_map
 
+def get_glotto_iso_map():
+    df = pd.read_csv(os.path.join("resources", "languages.csv"))
+    glotto_iso_map = {}
+    for i, row in df.iterrows():
+        iso = row["ISO639P3code"]
+        glotto = row["ID"]
+        if iso == iso:
+            assert(not glotto in glotto_iso_map)
+            glotto_iso_map[glotto] =  iso
+    return glotto_iso_map
+
+
 def get_glottocodes(codes):
     all_glottocodes = []
     iso_glotto_map = get_iso_glotto_map()
