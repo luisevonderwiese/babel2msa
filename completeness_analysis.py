@@ -15,8 +15,8 @@ if not os.path.isdir(plots_dir):
     os.makedirs(plots_dir)
 
 for pre in ["main", "iecor"]:
-    lexibank_path = os.path.join("results", pre, "wordlist_cognate", "swadesh100_epitran_wordlist_cognate.tsv")
-    babelnet_path = os.path.join("results", "lexibank-analyzed_languagelists", "wordlist_cognate",  pre + "_swadesh100_wordlist_cognate.tsv")
+    lexibank_path = os.path.join("results", "lexibank-analyzed_languagelists", "wordlist_cognate",  pre + "_swadesh100_wordlist_cognate.tsv")
+    babelnet_path = os.path.join("results", pre, "wordlist_cognate", "swadesh100_epitran_wordlist_cognate.tsv")
     lexibank_cd = CategoricalData.from_edictor_tsv(lexibank_path)
     babelnet_cd = CategoricalData.from_edictor_tsv(babelnet_path)
     lexibank_glottocodes = set(lexibank_cd.glottocodes)
