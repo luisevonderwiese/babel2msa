@@ -195,6 +195,28 @@ class CategoricalData:
     def get_glottolog_tree(self):
         return glottolog.get_tree(self.glottocodes, self.taxon_ids)
 
+    def subset_with_glottocodes(self, input_glottocodes):
+        temp_matrix = [[] for char_ids in range(self.num_chars())]
+        other_taxon_ids = []
+        other_glottocodes = []
+        for taxon_idx, taxon_id in enumerate(self.taxon_ids):
+            glottocode = self.glottocodes[taxon_idx]
+            if glottocode in input_glottocodes:
+                other_taxon_ids.append(taxon_id)
+                other_glottocodes.append(glottocode)
+                for char_idx in range(self.num_chars()):
+                    temp_matrix[char_idx].append(self.matrix[char_idx][taxon_idx])
+        other_matrix = []
+        other_char_ids = []
+        for char_idx in range(self.num_chars()):
+            for taxon_idx in range(len(other_taxon_ids)):
+                if len(temp_matrix[char_idx][taxon_idx]) > 0:
+                    other_matrix.append(temp_matrix[char_idx])
+                    other_char_ids.append(self.char_ids[char_idx])
+                    break
+        return CategoricalData(other_taxon_ids, other_char_ids, other_matrix, other_glottocodes)
+
+
     def split_families(self):
         languages_dict = {}
         glottocodes_dict = {}
