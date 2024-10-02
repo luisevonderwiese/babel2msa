@@ -5,7 +5,6 @@ import re
 import pandas as pd
 from ete3 import Tree
 import numpy as np
-from termcolor import colored
 import json
 
 family_dict = None

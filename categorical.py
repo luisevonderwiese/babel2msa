@@ -3,7 +3,6 @@ import pandas as pd
 from Bio.AlignIO.PhylipIO import RelaxedPhylipWriter
 from Bio.SeqRecord import SeqRecord
 from Bio.Align import MultipleSeqAlignment
-from termcolor import colored
 import math
 import os
 import csv

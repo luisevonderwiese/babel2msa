@@ -1,0 +1,16 @@
+name: babelnet
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - pypythia
+  - ete3
+  - anaconda::jpype1
+  - iso-639
+  - tabulate
+  - biopython
+  - pip
+  - pip:
+    - epitran
+    - ipatok
+    - lingpy
