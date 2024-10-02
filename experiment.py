@@ -136,7 +136,6 @@ def run_experiments(bn, language_set, name, num_ids, use_epitran, redo):
 
 redo = False
 bn = BabelNet.getInstance()
-#run_experiments(bn, "all", "swadesh100", float("nan"), False, False)
 for language_set in ["all", "main", "iecor"]:
     for name in ["swadesh100", "swadesh200", "core-wordnet"]:
         for use_epitran in [True, False]:
