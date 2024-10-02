@@ -2,7 +2,7 @@
 Project for generating wordlists and character matrices for phylogenetic inference from the Index of [BabelNet](https://babelnet.org/)
 
 ## Requierments:
-- Install JDK and set JAVA_HOME
+- Install JDK and set `JAVA_HOME`
 - Set up the Conda Environment
 ```
 conda env create -f environment.yml
