@@ -1,7 +1,7 @@
 # Babel2MSA
 Project for generating wordlists and character matrices for phylogenetic inference from the Index of [BabelNet](https://babelnet.org/)
 
-## Requierments:
+## Requirements:
 - Install JDK and set `JAVA_HOME`
 - Set up the Conda Environment
 ```
