@@ -13,7 +13,7 @@ import jpype
 import jpype.imports
 from jpype.types import *
 
-# Launch the JVM
+#Launch the JVM
 jpype.startJVM(classpath=['BabelNet-API-5.3/lib/*', 'BabelNet-API-5.3/babelnet-api-5.3.jar', 'config'])
 
 
@@ -137,7 +137,10 @@ for d in [wordlist_dir, wordlist_cognate_dir, msa_dir, glottolog_tree_dir, pythi
 wordlist_paths = [os.path.join(wordlist_dir,  name + "_wordlist.tsv") for name in names]
 #generate_wordlists(wordlist_paths)
 
-
+ground_truths = {name: 0 for name in names}
+df = pd.read_parquet('results/northeuralex/all_data.parquet')
+for i, row in df.iterrows():
+    ground_truths[row["verbose_name"].split(".")[0]] = row["difficult"]
 for name in names:
     wordlist_path = os.path.join(wordlist_dir,  name + "_wordlist.tsv")
     wordlist_cognate_path = os.path.join(wordlist_cognate_dir,  name + "_wordlist_cognate.tsv")
@@ -150,17 +153,19 @@ for name in names:
     pythia_prefix = os.path.join(pythia_dir, name)
     best_tree_path = raxml_prefix + ".raxml.bestTree"
 
-    pipeline.detect_cognates(wordlist_path, wordlist_cognate_path, redo)
-    cd = CategoricalData.from_edictor_tsv(wordlist_cognate_path)
-    cd.write_msa(bin_msa_path, "bin")
-    tree = cd.get_glottolog_tree()
-    tree.write(format = 1, outfile = glottolog_tree_path)
-    pipeline.run_raxmlng(bin_msa_path, "BIN+G", raxml_prefix, redo)
-    pipeline.run_pythia(bin_msa_path, pythia_prefix, redo)
+    #pipeline.detect_cognates(wordlist_path, wordlist_cognate_path, redo)
+    #cd = CategoricalData.from_edictor_tsv(wordlist_cognate_path)
+    #cd.write_msa(bin_msa_path, "bin")
+    #tree = cd.get_glottolog_tree()
+    #tree.write(format = 1, outfile = glottolog_tree_path)
+    #pipeline.run_raxmlng(bin_msa_path, "BIN+G", raxml_prefix, redo)
+    #pipeline.run_pythia(bin_msa_path, pythia_prefix, redo)
     print(name)
     print("GQ distance")
     print(util.gq_distance(glottolog_tree_path, best_tree_path))
     print("Pythia difficulty score")
     print(util.get_difficulty(pythia_prefix))
+    print("Ground truth difficulty")
+    print(ground_truths[name])
 
 
