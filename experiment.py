@@ -14,9 +14,9 @@ jpype.startJVM(classpath=['BabelNet-API-5.3/lib/*', 'BabelNet-API-5.3/babelnet-a
 from it.uniroma1.lcl.babelnet import BabelNet
 from it.uniroma1.lcl.jlt.util import Language
 
+import patch_lingpy
 import util
 import pipeline
-import patch_lingpy
 
 
 def run_experiments(bn, language_set, name, num_ids, use_epitran, redo):
@@ -39,12 +39,12 @@ def run_experiments(bn, language_set, name, num_ids, use_epitran, redo):
     base_dir = os.path.join("results", language_set)
 
     if mode == "conceptlist":
-        conceptlist_dir = os.path.join("resources", "conceptlist")
+        conceptlist_dir = os.path.join("results", "conceptlist")
         conceptlist_path = os.path.join(conceptlist_dir, name + ".tsv")
         assert(os.path.isfile(conceptlist_path))
 
     if mode == "synsetfilter":
-        synsetfilter_path = os.path.join("resources", "synsetfilter.tsv")
+        synsetfilter_path = os.path.join("results", "synsetfilter.tsv")
         ranking_dir = os.path.join(base_dir, "ranking")
         if not os.path.isdir(ranking_dir):
             os.makedirs(ranking_dir)
@@ -96,7 +96,6 @@ def run_experiments(bn, language_set, name, num_ids, use_epitran, redo):
         pipeline.ranking_from_synsetfilter(bn, synsetfilter_path, ranking_path, langs, epitran_langs, redo)
         pipeline.babelids_from_ranking(bn, ranking_path, babelids_path, num_ids, redo)
 
-
     if os.path.isfile(statistics_path):
         with open(statistics_path) as json_file:
             stat_dict = json.load(json_file)
@@ -108,7 +107,6 @@ def run_experiments(bn, language_set, name, num_ids, use_epitran, redo):
 
     pipeline.generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances, redo)
     pipeline.detect_cognates(wordlist_path, wordlist_cognate_path, redo)
-
     cd = CategoricalData.from_edictor_tsv(wordlist_cognate_path)
     if not os.path.isfile(bin_msa_path) or redo:
         print("Writing MSA")
@@ -138,10 +136,10 @@ redo = False
 bn = BabelNet.getInstance()
 for language_set in ["all", "main", "iecor"]:
     for name in ["swadesh100", "swadesh200", "core-wordnet"]:
-        for use_epitran in [True, False]:
+        for use_epitran in [False, True]:
             run_experiments(bn, language_set, name, float("nan"), use_epitran, redo)
     name = "filter"
     for num_ids in [100, 200, 5000]:
-        for use_epitran in [True, False]:
+        for use_epitran in [False, True]:
             run_experiments(bn, language_set, name, num_ids, use_epitran, redo)
 
