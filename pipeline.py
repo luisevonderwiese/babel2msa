@@ -317,7 +317,7 @@ def generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances
     with open(wordlist_path, "w+") as wordlist_file:
         wordlist_file.write("\t".join(["ID","DOCULECT","GLOTTOCODE", "ISO_CODE", "CONCEPT","CONCEPTICON_ID", "CONCEPTICON_GLOSS", "FORM", "IPA", "TOKENS"]) + "\n")
 
-    ID = 0
+    ID = 1
     for c, row in id_df.iterrows():
         babelid = row["babelid"]
         concept = row["concept"]
