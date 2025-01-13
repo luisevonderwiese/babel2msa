@@ -219,7 +219,8 @@ def my_corrdist(
         simA = sum([(1.0 + factor) * scorer[seqA[i],seqA[i]] for i in range(M)])
         simB = sum([(1.0 + factor) * scorer[seqB[i],seqB[i]] for i in range(N)])
         if simA + simB == 0:
-            dist = 0.0
+            #print("seqA:", seqA, "seqB:", seqB)
+            dist = 1.0
         else:
             dist = 1 - ( ( 2 * sim ) / ( simA + simB ) )
 
