@@ -14,3 +14,4 @@ dependencies:
     - epitran
     - ipatok
     - lingpy
+    - pysem

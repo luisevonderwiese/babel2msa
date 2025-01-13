@@ -3,6 +3,8 @@ import pandas as pd
 
 from ipatok import tokenise
 from lingpy import *
+from pysem.glosses import to_concepticon
+
 from categorical import CategoricalData
 import util
 
@@ -168,7 +170,6 @@ def babelids_from_synsetfilter(bn, synsetfilter_path, babelids_path, num_ids, us
     print("Retrieving BabelIDs...")
     mode = name.split("_")[1]
     df = pd.read_csv(synsetfilter_path, sep = "\t", dtype={'en_concept':'string'})
-    concepticon_map = util.get_concepticon_map()
     if use_epitran:
         df = df.sort_values(['ipa_epi_count'], ascending=[0])
     else:
@@ -187,10 +188,12 @@ def babelids_from_synsetfilter(bn, synsetfilter_path, babelids_path, num_ids, us
         cnt += 1
         concept = row["en_concept"]
         print(concept)
-        if concept in concepticon_map:
-            concepticon_id, concepticon_gloss = concepticon_map[concept]
-        else:
+        matches = to_concepticon([{"gloss": concept}], language="en", max_matches=1)[concept]
+        if len(matches) == 0:
             concepticon_id, concepticon_gloss = ("", "")
+        else:
+            match = matches[0]
+            concepticon_id, concepticon_gloss = (match[0], match[1])
 
         with open(babelids_path, 'a') as babelids_file:
             babelids_file.write("\t".join([concept, row["babelid"], str(concepticon_id), concepticon_gloss]) + "\n")
@@ -234,7 +237,6 @@ def babelids_from_ranking(bn, ranking_path, babelids_path, num_ids, redo):
         return
     assert(os.path.isfile(ranking_path))
     print("Retrieving BabelIDs...")
-    concepticon_map = util.get_concepticon_map()
     cnt = 0
     df = pd.read_csv(ranking_path, sep = "\t")
     df = df.astype(str)
@@ -247,11 +249,12 @@ def babelids_from_ranking(bn, ranking_path, babelids_path, num_ids, redo):
         cnt += 1
         concept = row["concept"]
         print(concept)
-        if concept in concepticon_map:
-            concepticon_id, concepticon_gloss = concepticon_map[concept]
-        else:
+        matches = to_concepticon([{"gloss": concept}], language="en", max_matches=1)[concept]
+        if len(matches) == 0:
             concepticon_id, concepticon_gloss = ("", "")
-
+        else:
+            match = matches[0]
+            concepticon_id, concepticon_gloss = (match[0], match[1])
         with open(babelids_path, 'a') as babelids_file:
             babelids_file.write("\t".join([concept, row["babelid"], str(concepticon_id), concepticon_gloss]) + "\n")
 

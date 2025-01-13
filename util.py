@@ -62,19 +62,6 @@ def has_code(l):
         return False
 
 
-def get_concepticon_map():
-    with open(os.path.join("resources", "conceptset.json"), "r") as conceptset_file:
-        j = json.load(conceptset_file)
-    concepticon_map = {}
-    for label in  j["conceptset_labels"]:
-        ID = int(j["conceptset_labels"][label][0])
-        gloss = j["conceptset_labels"][label][1]
-        concepticon_map[label] = (ID, gloss)
-    for label in  j["alternative_labels"]:
-        ID = int(j["alternative_labels"][label][0])
-        gloss = j["alternative_labels"][label][1]
-        concepticon_map[label] = (ID, gloss)
-    return concepticon_map
 
 def get_iso_glotto_map():
     df = pd.read_csv(os.path.join("resources", "languages.csv"))
