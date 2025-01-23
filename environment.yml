@@ -13,5 +13,5 @@ dependencies:
   - pip:
     - epitran
     - ipatok
-    - lingpy
+    - lingpy>=2.6.13
     - pysem

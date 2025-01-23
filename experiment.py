@@ -14,7 +14,6 @@ jpype.startJVM(classpath=['BabelNet-API-5.3/lib/*', 'BabelNet-API-5.3/babelnet-a
 from it.uniroma1.lcl.babelnet import BabelNet
 from it.uniroma1.lcl.jlt.util import Language
 
-import patch_lingpy
 import util
 import pipeline
 

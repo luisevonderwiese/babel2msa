@@ -183,12 +183,10 @@ def process_ipa(ipa):
     ipa = ipa.replace(" ̝", "")
     ipa = ipa.replace("ˤː", "ʕ")
     ipa = ipa.replace("я", "ʁ")
-    ipa = ipa.replace("ǀ", "")
     ipa = ipa.replace("і", "i")
     ipa = ipa.replace("ӏ", "ɪ")
     ipa = ipa.replace("ṯ", "ʈ")
     ipa = ipa.replace("ہ", "")
-    ipa = ipa.replace("!", "")
     for char in ipa:
         if char not in phonetic_alphabet:
             return ipa, False
