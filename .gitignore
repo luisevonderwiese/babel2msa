@@ -1,4 +1,5 @@
 results/
+results_old/
 BabelNet-5.0/
 BabelNet-API-5.3/
 __pycache__/
