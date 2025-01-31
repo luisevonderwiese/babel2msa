@@ -18,9 +18,9 @@ from it.uniroma1.lcl.jlt.util import Language
 
 import util
 import pipeline
-import patch_lingpy
 import matplotlib.pyplot as plt
 language_set = "lexibank-analyzed"
+#domain = "languagelists"
 domain = "families"
 redo = False
 
@@ -41,8 +41,12 @@ for family in families:
         continue
     print(full_name)
     wordlist_cognate_path = os.path.join(wordlist_cognate_dir, full_name + "_wordlist_cognate.tsv")
-
-
+    try:
+        pipeline.detect_cognates(wordlist_path, wordlist_cognate_path, redo)
+    except Exception as e:
+        traceback.print_exc()
+        print(e)
+        continue
     try:
         cd = CategoricalData.from_edictor_tsv(wordlist_cognate_path)
     except:
