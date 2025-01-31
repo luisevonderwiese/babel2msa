@@ -15,10 +15,8 @@ conda env create -f environment.yml
 ```
 python convert_core_wordnet.py
 python experiment.py
-python analyze_synsetfilter.py
+# python analyze_synsetfilter.py
 python completeness_analysis.py
-python experiment_lexibench.py
-python experiment_lexibank_analyzed.py
 python summarize.py
 python entropies_lexibench.py
 python entropies_lexibank_analyzed.py

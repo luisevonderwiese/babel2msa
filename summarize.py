@@ -2,7 +2,7 @@ import os
 import json
 import pandas as pd
 
-for language_set in ["all", "iecor", "lexibank-analyzed_families", "lexibank-analyzed_languagelists", "lexibench", "main"]:
+for language_set in ["all", "iecor","main"]:
     print(language_set)
     stat_dicts = []
 
