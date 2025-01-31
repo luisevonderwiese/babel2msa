@@ -2,6 +2,7 @@ import os
 import pandas as pd
 
 from ipatok import tokenise
+from lingpy.compare.sanity import average_coverage
 from lingpy import *
 from pysem.glosses import to_concepticon
 
@@ -366,6 +367,14 @@ def generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances
                 wordlist_file.write("\t".join([str(ID), doculects[l], str(glottocodes[l]), codes[l], str(c) + "_" + str(concept), str(concepticon_id), concepticon_gloss, form, ipa, tokens]) + "\n")
             ID += 1
         print(concept, str(form_count), str(ipa_count), str(ipa_epi_count))
+
+
+def AMC(wordlist_path):
+    wl = Wordlist(wordlist_path)
+    try:
+        return average_coverage(wl)
+    except:
+        return float("nan")
 
 
 def detect_cognates(wordlist_path, wordlist_cognate_path, redo):

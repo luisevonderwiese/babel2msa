@@ -16,7 +16,6 @@ from it.uniroma1.lcl.jlt.util import Language
 
 import util
 import pipeline
-import patch_lingpy
 
 language_set = "lexibench"
 redo = False
@@ -66,6 +65,7 @@ for dataset in datasets:
             stat_dict["dataset"] = dataset
             stat_dict["conceptlist"] = conceptlist
 
+        stat_dict["AMC"] = pipeline.AMC(wordlist_cognate_path)
         cd = CategoricalData.from_edictor_tsv(wordlist_cognate_path)
         if cd.num_taxa() < 4:
             continue

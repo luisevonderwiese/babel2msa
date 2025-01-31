@@ -18,14 +18,14 @@ import util
 import pipeline
 
 
-def run_experiments(bn, language_set, name, num_ids, use_epitran, redo):
+def run_experiments(bn, language_set, name, num_ids, epitran_instances = [], redo = False):
     if name.startswith("filter"):
         mode = "synsetfilter"
     else:
         mode = "conceptlist"
 
 
-    if use_epitran:
+    if len(epitran_instances) > 0:
         full_name = name + "_epitran"
     else:
         full_name = name
@@ -78,12 +78,10 @@ def run_experiments(bn, language_set, name, num_ids, use_epitran, redo):
 
 
     langs = pipeline.get_languages(language_set) 
-    if use_epitran:
-        epitran_instances = util.get_epitran_instances(langs)
-        #epitran_instances = [None for l in range(len(langs))]
+    if len(epitran_instances) > 0:
+        epitran_langs = [lang for l, lang in enumerate(langs) if epitran_instances[l] is not None]
     else:
-        epitran_instances = [None for l in range(len(langs))] 
-    epitran_langs = [lang for l, lang in enumerate(langs) if epitran_instances[l] is not None]
+        epitran_langs = []
 
     #pipeline.languages_statistics(langs, epitran_instances)
 
@@ -102,9 +100,10 @@ def run_experiments(bn, language_set, name, num_ids, use_epitran, redo):
         stat_dict = {}
         stat_dict["name"] = full_name
         stat_dict["num_ids"] = num_ids
-        stat_dict["use_epitran"] = use_epitran
+        stat_dict["use_epitran"] = (len(epitran_instances) == 0)
 
     pipeline.generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances, redo)
+    stat_dict["AMC"] = pipeline.AMC(wordlist_path)
     pipeline.detect_cognates(wordlist_path, wordlist_cognate_path, redo)
     cd = CategoricalData.from_edictor_tsv(wordlist_cognate_path)
     if not os.path.isfile(bin_msa_path) or redo:
@@ -133,12 +132,13 @@ def run_experiments(bn, language_set, name, num_ids, use_epitran, redo):
 
 redo = False
 bn = BabelNet.getInstance()
+epitran_instances = util.get_epitran_instances(pipeline.get_languages("all"))
 for language_set in ["all", "main", "iecor"]:
     for name in ["swadesh100", "swadesh200", "core-wordnet"]:
-        for use_epitran in [False, True]:
-            run_experiments(bn, language_set, name, float("nan"), use_epitran, redo)
+        for e in [epitran_instances, []]:
+            run_experiments(bn, language_set, name, float("nan"), e, redo)
     name = "filter"
     for num_ids in [100, 200, 5000]:
-        for use_epitran in [False, True]:
-            run_experiments(bn, language_set, name, num_ids, use_epitran, redo)
+        for e in [epitran_instances, []]:
+            run_experiments(bn, language_set, name, num_ids, e, redo)
 

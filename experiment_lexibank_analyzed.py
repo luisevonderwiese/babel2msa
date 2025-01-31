@@ -18,10 +18,10 @@ from it.uniroma1.lcl.jlt.util import Language
 
 import util
 import pipeline
-import patch_lingpy
 
 language_set = "lexibank-analyzed"
-domain = "languagelists"
+domain = "families"
+#domain = "languagelists"
 redo = False
 
 base_dir = os.path.join("results", language_set + "_" + domain)
@@ -72,6 +72,14 @@ for family in families:
             stat_dict["conceptlist"] = conceptlist
 
         try:
+            stat_dict["AMC"] = pipeline.AMC(wordlist_path)
+        except Exception as e:
+            stat_dict["AMC"] = float("nan")
+            traceback.print_exc()
+            print(e)
+            continue
+
+        try:
             pipeline.detect_cognates(wordlist_path, wordlist_cognate_path, redo)
         except Exception as e: 
             traceback.print_exc()
@@ -83,7 +91,7 @@ for family in families:
         if not os.path.isfile(bin_msa_path) or redo:
             print("Writing MSA")
             cd.write_msa(bin_msa_path, "bin")
-        if not os.path.isfile(glottolog_tree_path) or redo:
+       if not os.path.isfile(glottolog_tree_path) or redo:
             print("Writing tree")
             tree = cd.get_glottolog_tree()
             if tree is None:
