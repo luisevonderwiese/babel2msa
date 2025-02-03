@@ -133,11 +133,11 @@ bn = BabelNet.getInstance()
 #bn = None
 epitran_instances = util.get_epitran_instances(pipeline.get_languages("all"))
 for language_set in ["all", "dense", "iecor"]:
-    for name in ["swadesh100", "swadesh200", "core-wordnet"]:
+    for name in ["swadesh100", "core-wordnet"]:
         for e in [epitran_instances, []]:
             run_experiments(bn, language_set, name, float("nan"), e, redo)
     name = "filter"
-    for num_ids in [100, 200, 5000]:
+    for num_ids in [5000]:
         for e in [epitran_instances, []]:
             run_experiments(bn, language_set, name, num_ids, e, redo)
 
