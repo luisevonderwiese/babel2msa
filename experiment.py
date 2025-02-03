@@ -31,8 +31,6 @@ def run_experiments(bn, language_set, name, num_ids, epitran_instances = [], red
         full_name = name
 
 
-    bn = BabelNet.getInstance()
-
     assert(mode in ["conceptlist", "synsetfilter"])
 
     base_dir = os.path.join("results", language_set)
@@ -90,8 +88,8 @@ def run_experiments(bn, language_set, name, num_ids, epitran_instances = [], red
 
     if mode == "synsetfilter":
         pipeline.filter_synsets(bn, synsetfilter_path)
-        pipeline.ranking_from_synsetfilter(bn, synsetfilter_path, ranking_path, langs, epitran_langs, redo)
-        pipeline.babelids_from_ranking(bn, ranking_path, babelids_path, num_ids, redo)
+        pipeline.ranking_from_synsetfilter(synsetfilter_path, ranking_path, langs, epitran_langs, redo)
+        pipeline.babelids_from_ranking(ranking_path, babelids_path, num_ids, redo)
 
     if os.path.isfile(statistics_path):
         with open(statistics_path) as json_file:
@@ -132,6 +130,7 @@ def run_experiments(bn, language_set, name, num_ids, epitran_instances = [], red
 
 redo = False
 bn = BabelNet.getInstance()
+#bn = None
 epitran_instances = util.get_epitran_instances(pipeline.get_languages("all"))
 for language_set in ["all", "main", "iecor"]:
     for name in ["swadesh100", "swadesh200", "core-wordnet"]:

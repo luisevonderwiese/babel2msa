@@ -36,63 +36,13 @@ def get_languages(language_set):
     result = set(selected_langs)
     return result
 
-def old_filter_synsets(bn, synsetfilter_path, langs, epitran_langs, redo):
-    if os.path.isfile(synsetfilter_path) and not redo:
-        print("Synset filter present")
-        return
-    print("Filtering synsets...")
-    if len(epitran_langs) == 0:
-        print("Set use_epitran=True for generating synset filter")
-        assert(False)
-    it = bn.getSynsetIterator()
-    with open(synsetfilter_path, "w+") as filter_file:
-        filter_file.write("\t".join(["babelid","en_concept","form_count", "ipa_count", "ipa_epi_count", "en_sense", "keysense"]) + "\n")
-    c = 0
-    while it.hasNext():
-        synset = it.next()
-        if str(synset.getType()) != "Concept":
-            continue
-        en_sense_opt = synset.getMainSense(Language.EN)
-        if en_sense_opt.isPresent():
-            en_sense = True
-            if en_sense_opt.get().isKeySense():
-                keysense = True
-            else:
-                keysense = False
-        else:
-            en_sense = False
-            keysense = False
-        c += 1
-        concept = ""
-        if en_sense:
-            concept = en_sense_opt.get().getSimpleLemma()
-        form_count = 0
-        ipa_count = 0
-        ipa_epi_count = 0
-        for l, lang in enumerate(langs):
-            sense_opt = synset.getMainSense(lang)
-            if not sense_opt.isPresent():
-                continue
-            form_count += 1
-            sense = sense_opt.get()
-            if concept == "":
-                concept = sense.getSimpleLemma()
-            transcriptions = sense.getPronunciations().getTranscriptions()
-            if len(transcriptions) != 0:
-                ipa_count += 1
-            elif lang in epitran_langs:
-                ipa_epi_count += 1
-        if ipa_count == 0:
-            continue
-        print(concept)
-        with open(synsetfilter_path, "a") as filter_file:
-            filter_file.write("\t".join([str(synset.getID()),str(concept),str(form_count), str(ipa_count), str(ipa_epi_count), str(en_sense), str(keysense)]) + "\n")
-
 
 def filter_synsets(bn, synsetfilter_path):
     if os.path.isfile(synsetfilter_path):
         print("Synset filter present")
         return
+    if bn is None:
+        raise Exception("Place synsetfilter in results dir or use BabelNet Indices to regenerate")
     print("Filtering synsets...")
     it = bn.getSynsetIterator()
     langs = Language.values()
@@ -145,6 +95,8 @@ def babelids_from_conceptlist(bn, conceptlist_path, babelids_path, langs, epitra
     if os.path.isfile(babelids_path) and not redo:
         print("Synsets present")
         return
+    if bn is None:
+        raise Exception("Place babelids in results dir or use BabelNet Indices to regenerate")
     print("Determining synsets...")
     conceptlist_df = pd.read_csv(conceptlist_path, sep = "\t")
     conceptlist_df = conceptlist_df.astype("str")
@@ -163,43 +115,7 @@ def babelids_from_conceptlist(bn, conceptlist_path, babelids_path, langs, epitra
         with open(babelids_path, 'a') as babelids_file:
             babelids_file.write("\t".join([concept, str(synset.getID()), row["CONCEPTICON_ID"], row["CONCEPTICON_GLOSS"]]) + "\n")
     
-def babelids_from_synsetfilter(bn, synsetfilter_path, babelids_path, num_ids, use_epitran, name, redo):
-    if os.path.isfile(babelids_path) and not redo:
-        print("Synsets present")
-        return
-    assert(os.path.isfile(synsetfilter_path))
-    print("Retrieving BabelIDs...")
-    mode = name.split("_")[1]
-    df = pd.read_csv(synsetfilter_path, sep = "\t", dtype={'en_concept':'string'})
-    if use_epitran:
-        df = df.sort_values(['ipa_epi_count'], ascending=[0])
-    else:
-        df = df.sort_values(['ipa_count'], ascending=[0])
-    cnt = 0
-    with open(babelids_path, 'w+') as babelids_file:
-        babelids_file.write("\t".join(["concept", "babelid", "concepticon_id", "concepticon_gloss"]) + "\n")
-
-    for i, row in df.iterrows():
-        if cnt == num_ids:
-            break
-        if mode == "english" and not row["en_sense"]:
-            continue
-        if mode == "keysense" and not row["keysense"]:
-            continue
-        cnt += 1
-        concept = row["en_concept"]
-        print(concept)
-        matches = to_concepticon([{"gloss": concept}], language="en", max_matches=1)[concept]
-        if len(matches) == 0:
-            concepticon_id, concepticon_gloss = ("", "")
-        else:
-            match = matches[0]
-            concepticon_id, concepticon_gloss = (match[0], match[1])
-
-        with open(babelids_path, 'a') as babelids_file:
-            babelids_file.write("\t".join([concept, row["babelid"], str(concepticon_id), concepticon_gloss]) + "\n")
-
-def ranking_from_synsetfilter(bn, synsetfilter_path, ranking_path, langs, epitran_langs, redo):
+def ranking_from_synsetfilter(synsetfilter_path, ranking_path, langs, epitran_langs, redo):
     if os.path.isfile(ranking_path) and not redo:
         print("Ranking present")
         return
@@ -232,7 +148,7 @@ def ranking_from_synsetfilter(bn, synsetfilter_path, ranking_path, langs, epitra
 
 
 
-def babelids_from_ranking(bn, ranking_path, babelids_path, num_ids, redo):
+def babelids_from_ranking(ranking_path, babelids_path, num_ids, redo):
     if os.path.isfile(babelids_path) and not redo:
         print("Synsets present")
         return
@@ -310,6 +226,8 @@ def generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances
     if os.path.isfile(wordlist_path) and not redo:
         print("Wordlist present")
         return
+    if bn is None:
+        raise Exception("Place wordlists in results dir or use BabelNet Indices to regenerate") 
     print("Generating wordlist...")
     assert(os.path.isfile(babelids_path))
     codes = [util.get_code(lang) for lang in langs]
