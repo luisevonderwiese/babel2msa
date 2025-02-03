@@ -21,7 +21,7 @@ from it.uniroma1.lcl.jlt.util import Language
 
 
 def get_languages(language_set):
-    assert(language_set in ["all", "iecor", "main"])
+    assert(language_set in ["all", "iecor", "dense"])
     langs = Language.values()
     codes = [util.get_code(lang) for lang in langs]
     iso_glotto_map = util.get_iso_glotto_map()

@@ -132,7 +132,7 @@ redo = False
 bn = BabelNet.getInstance()
 #bn = None
 epitran_instances = util.get_epitran_instances(pipeline.get_languages("all"))
-for language_set in ["all", "main", "iecor"]:
+for language_set in ["all", "dense", "iecor"]:
     for name in ["swadesh100", "swadesh200", "core-wordnet"]:
         for e in [epitran_instances, []]:
             run_experiments(bn, language_set, name, float("nan"), e, redo)
