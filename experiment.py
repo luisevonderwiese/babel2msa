@@ -1,6 +1,7 @@
 import os
 import json
-from categorical import CategoricalData
+from cognate import CognateData
+from glottolog import GlottologWrapper
 
 
 import jpype
@@ -20,7 +21,7 @@ import pipeline
 USE_BABELNET_INDICES = True 
 
 
-def run_experiments(bn, language_set, name, num_ids, epitran_instances = [], redo = False):
+def run_experiments(bn, language_set, name, num_ids, glottolog_wrapper, epitran_instances = [], redo = False):
     if name.startswith("filter"):
         mode = "synsetfilter"
     else:
@@ -105,10 +106,10 @@ def run_experiments(bn, language_set, name, num_ids, epitran_instances = [], red
     pipeline.generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances, redo)
     stat_dict["AMC"] = pipeline.AMC(wordlist_path)
     pipeline.detect_cognates(wordlist_path, wordlist_cognate_path, redo)
-    cd = CategoricalData.from_edictor_tsv(wordlist_cognate_path)
+    cd = CognateData.from_edictor_tsv(wordlist_cognate_path, glottolog_wrapper)
     if not os.path.isfile(bin_msa_path) or redo:
         print("Writing MSA")
-        cd.write_msa(bin_msa_path, "bin")
+        cd.write_bin_msa(bin_msa_path)
     if not os.path.isfile(glottolog_tree_path) or redo:
         print("Writing tree")
         tree = cd.get_glottolog_tree()
@@ -135,13 +136,13 @@ if USE_BABELNET_INDICES:
     bn = BabelNet.getInstance()
 else:
     bn = None
+glottolog_wrapper = GlottologWrapper("resources/glottolog")
 epitran_instances = util.get_epitran_instances(pipeline.get_languages("all"))
 for language_set in ["all", "dense", "iecor"]:
     for name in ["swadesh100", "core-wordnet"]:
         for e in [epitran_instances, []]:
-            run_experiments(bn, language_set, name, float("nan"), e, redo)
+            run_experiments(bn, language_set, name, float("nan"), glottolog_wrapper, e, redo)
     name = "filter"
-    for num_ids in [5000]:
-        for e in [epitran_instances, []]:
-            run_experiments(bn, language_set, name, num_ids, e, redo)
+    for e in [epitran_instances, []]:
+        run_experiments(bn, language_set, name, 5000, glottolog_wrapper, e, redo)
 

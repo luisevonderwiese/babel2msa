@@ -1,6 +1,6 @@
 import os
 import json
-from categorical import CategoricalData
+from cognate import CognateData
 
 
 import jpype
@@ -40,7 +40,7 @@ for dataset in datasets:
 
     print(full_name)
     try:
-        cd = CategoricalData.from_edictor_tsv(wordlist_cognate_path)
+        cd = CognateData.from_edictor_tsv(wordlist_cognate_path)
     except:
         continue
     if cd.num_taxa() < 4:

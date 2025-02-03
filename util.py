@@ -95,6 +95,8 @@ def get_glottocodes(codes):
             assert(len(glottocodes) == 1)
             if glottocodes[0] != glottocodes[0]:
                 all_glottocodes.append("")
+            elif glottocodes[0] == "nan":
+                all_glottocodes.append("")
             else:
                 all_glottocodes.append(glottocodes[0])
         else:

@@ -13,6 +13,13 @@ conda env create -f environment.yml
 alternatively:
 - Place precompiled data in `results/` and set `USE_BABELNET_INDICES = False` in `experiment.py`
 
+- Download [Glottolog v5.1](https://github.com/glottolog/glottolog) into `resources/glottolog`:
+```
+cd  resources/
+git clone https://github.com/glottolog/glottolog.git
+cd glottolog/
+git checkout tags/v5.1
+```
 
 ## Execution:
 ```

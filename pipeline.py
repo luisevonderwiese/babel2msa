@@ -6,7 +6,6 @@ from lingpy.compare.sanity import average_coverage
 from lingpy import *
 from pysem.glosses import to_concepticon
 
-from categorical import CategoricalData
 import util
 
 import matplotlib.pyplot as plt

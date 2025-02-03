@@ -2,7 +2,7 @@ import os
 import json
 import traceback
 
-from categorical import CategoricalData
+from cognate import CognateData
 
 
 import jpype
@@ -48,7 +48,7 @@ for family in families:
         print(e)
         continue
     try:
-        cd = CategoricalData.from_edictor_tsv(wordlist_cognate_path)
+        cd = CognateData.from_edictor_tsv(wordlist_cognate_path)
     except:
         continue
     if cd.num_taxa() < 4:
