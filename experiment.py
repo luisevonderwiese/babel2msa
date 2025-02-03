@@ -17,6 +17,8 @@ from it.uniroma1.lcl.jlt.util import Language
 import util
 import pipeline
 
+USE_BABELNET_INDICES = True 
+
 
 def run_experiments(bn, language_set, name, num_ids, epitran_instances = [], redo = False):
     if name.startswith("filter"):
@@ -129,8 +131,10 @@ def run_experiments(bn, language_set, name, num_ids, epitran_instances = [], red
 
 
 redo = False
-bn = BabelNet.getInstance()
-#bn = None
+if USE_BABELNET_INDICES:
+    bn = BabelNet.getInstance()
+else:
+    bn = None
 epitran_instances = util.get_epitran_instances(pipeline.get_languages("all"))
 for language_set in ["all", "dense", "iecor"]:
     for name in ["swadesh100", "core-wordnet"]:
