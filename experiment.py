@@ -69,11 +69,9 @@ def run_experiments(bn, language_set, name, num_ids, glottolog_wrapper, epitran_
     statistics_path = os.path.join(statistics_dir, full_name + "_statistics.json")
     raxml_dir = os.path.join(base_dir, "raxml", full_name)
     raxml_prefix = os.path.join(raxml_dir, "inference")
-    pythia_dir = os.path.join(base_dir, "pythia")
-    pythia_prefix = os.path.join(pythia_dir, full_name)
     best_tree_path = raxml_prefix + ".raxml.bestTree"
 
-    for d in [babelids_dir, wordlist_dir, wordlist_cognate_dir, msa_dir, glottolog_tree_dir, plots_dir, sparsity_plots_dir, statistics_dir, raxml_dir, pythia_dir]:
+    for d in [babelids_dir, wordlist_dir, wordlist_cognate_dir, msa_dir, glottolog_tree_dir, plots_dir, sparsity_plots_dir, statistics_dir, raxml_dir]:
         if not os.path.isdir(d):
             os.makedirs(d)
 
@@ -122,10 +120,6 @@ def run_experiments(bn, language_set, name, num_ids, glottolog_wrapper, epitran_
     if "gq_dist" not in stat_dict or redo:
         stat_dict["gq_dist"]  = util.gq_distance(glottolog_tree_path, best_tree_path)
     print("GQ distance to glottolog:", str(stat_dict["gq_dist"]))
-
-    pipeline.run_pythia(bin_msa_path, pythia_prefix, redo)
-    if "difficulty" not in stat_dict or redo:
-        stat_dict["difficulty"] = util.get_difficulty(pythia_prefix)
 
     with open(statistics_path, "w+") as outfile:
         json.dump(stat_dict, outfile)
