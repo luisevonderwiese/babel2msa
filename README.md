@@ -33,3 +33,5 @@ python entropies_lexibank_analyzed.py
 python reverse.py
 python northeuralex_signal.py
 ```
+## Ground Truth Difficulties
+Computation of ground truth difficulty scores in [separate repo](https://github.com/luisevonderwiese/difficulty-prediction-training-data/tree/language_data). See there for details.
