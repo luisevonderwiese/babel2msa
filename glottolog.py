@@ -55,6 +55,39 @@ class GlottologWrapper:
 
         glot.write(outfile = self.full_tree_path, format=9)
 
+    def get_iso_glotto_map(self):
+        ig_map = {}
+        for languoid in self.glottolog.languoids(exclude_pseudo_families=True):
+            if languoid.category != "Family" and languoid.iso:
+                iso = languoid.iso
+                if not languoid.iso in ig_map:
+                    ig_map[iso] = []
+                ig_map[iso].append(languoid.glottocode)
+        return ig_map
+
+    def get_iso(self, glottocode):
+        l = self.glottolog.languoid(glottocode)
+        if l:
+            return l.iso
+        return None
+    
+    def get_glottocodes(self, iso_codes):
+        all_glottocodes = []
+        iso_glotto_map = self.get_iso_glotto_map()
+        for code in iso_codes:
+            if code in iso_glotto_map:
+                glottocodes = iso_glotto_map[code]
+                assert(len(glottocodes) == 1)
+                if glottocodes[0] != glottocodes[0]:
+                    all_glottocodes.append("")
+                elif glottocodes[0] == "nan":
+                    all_glottocodes.append("")
+                else:
+                    all_glottocodes.append(glottocodes[0])
+            else:
+                all_glottocodes.append("")
+        return all_glottocodes
+
 
     def get_tree(self, glottocodes, languages):
         tree = copy.deepcopy(self.full_tree)
@@ -78,3 +111,5 @@ class GlottologWrapper:
                     child.add_features(new = True)
         return tree
 
+
+    

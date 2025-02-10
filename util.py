@@ -63,45 +63,6 @@ def has_code(l):
 
 
 
-def get_iso_glotto_map():
-    df = pd.read_csv(os.path.join("resources", "languages.csv"))
-    iso_glotto_map = {}
-    for i, row in df.iterrows():
-        iso = row["ISO639P3code"]
-        if iso == iso:
-            if not iso in iso_glotto_map:
-                iso_glotto_map[iso] = []
-            iso_glotto_map[iso].append(row["ID"])
-    return iso_glotto_map
-
-def get_glotto_iso_map():
-    df = pd.read_csv(os.path.join("resources", "languages.csv"))
-    glotto_iso_map = {}
-    for i, row in df.iterrows():
-        iso = row["ISO639P3code"]
-        glotto = row["ID"]
-        if iso == iso:
-            assert(not glotto in glotto_iso_map)
-            glotto_iso_map[glotto] =  iso
-    return glotto_iso_map
-
-
-def get_glottocodes(codes):
-    all_glottocodes = []
-    iso_glotto_map = get_iso_glotto_map()
-    for code in codes:
-        if code in iso_glotto_map:
-            glottocodes = iso_glotto_map[code]
-            assert(len(glottocodes) == 1)
-            if glottocodes[0] != glottocodes[0]:
-                all_glottocodes.append("")
-            elif glottocodes[0] == "nan":
-                all_glottocodes.append("")
-            else:
-                all_glottocodes.append(glottocodes[0])
-        else:
-            all_glottocodes.append("")
-    return all_glottocodes
 
 def get_doculects(langs):
     doculects = []
@@ -242,15 +203,6 @@ def get_concept_label(synset, langs):
 
 
 
-def get_difficulty(pythia_prefix):
-    with open(pythia_prefix, "r") as outfile:
-        lines = outfile.readlines()
-        if len(lines) == 0:
-            return float("nan")
-        return float(lines[0])
-
-
-
 def gq_distance(tree_name1, tree_name2):
     if tree_name1 is None or tree_name2 is None:
         return float('nan')
@@ -268,27 +220,3 @@ def gq_distance(tree_name1, tree_name2):
 
 
 
-def write_padded_msa(msa_path, outpath):
-    with open(msa_path, "r") as msa_file:
-        msa_string = msa_file.read()
-    parts = msa_string.split("\n\n")
-    lines = parts[-1].split("\n")
-    block_size = len(lines[1].split(" ")[-1])
-    if block_size == 10:
-        padding_size = 10
-        append_string = " ----------"
-    else:
-        padding_size = 10 - block_size
-        append_string = "-" * padding_size
-    if len(parts) != 1:
-        msa_string = "\n\n".join(parts[:-1] + ["\n".join([line + append_string for line in lines[:-1]] + [lines[-1]])])
-    else:
-        msa_string = "\n".join([lines[0]] + [line + append_string for line in lines[1:-1]] + [lines[-1]])
-
-    parts = msa_string.split("\n")
-    sub_parts = parts[0].split(" ")
-
-    msa_string = "\n".join([" ".join(sub_parts[:-1] + [str(int(sub_parts[-1]) + padding_size)])] + parts[1:])
-
-    with open(outpath, "w+") as new_msa_file:
-        new_msa_file.write(msa_string)

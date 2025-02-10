@@ -76,13 +76,13 @@ def run_experiments(bn, language_set, name, num_ids, glottolog_wrapper, epitran_
             os.makedirs(d)
 
 
-    langs = pipeline.get_languages(language_set) 
+    langs = pipeline.get_languages(language_set, glottolog_wrapper) 
     if len(epitran_instances) > 0:
         epitran_langs = [lang for l, lang in enumerate(langs) if epitran_instances[l] is not None]
     else:
         epitran_langs = []
 
-    #pipeline.languages_statistics(langs, epitran_instances)
+    #pipeline.languages_statistics(langs, epitran_instances, glottolog_wrapper)
 
     if mode == "conceptlist":
         pipeline.babelids_from_conceptlist(bn, conceptlist_path, babelids_path, langs, epitran_langs, redo)
@@ -101,7 +101,7 @@ def run_experiments(bn, language_set, name, num_ids, glottolog_wrapper, epitran_
         stat_dict["num_ids"] = num_ids
         stat_dict["use_epitran"] = (len(epitran_instances) == 0)
 
-    pipeline.generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances, redo)
+    pipeline.generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances, glottolog_wrapper, redo)
     stat_dict["AMC"] = pipeline.AMC(wordlist_path)
     pipeline.detect_cognates(wordlist_path, wordlist_cognate_path, redo)
     cd = CognateData.from_edictor_tsv(wordlist_cognate_path, glottolog_wrapper)
@@ -131,7 +131,7 @@ if USE_BABELNET_INDICES:
 else:
     bn = None
 glottolog_wrapper = GlottologWrapper("resources/glottolog")
-epitran_instances = util.get_epitran_instances(pipeline.get_languages("all"))
+epitran_instances = util.get_epitran_instances(pipeline.get_languages("all", glottolog_wrapper))
 for language_set in ["all", "dense", "iecor"]:
     for name in ["swadesh100", "core-wordnet"]:
         for e in [epitran_instances, []]:

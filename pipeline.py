@@ -19,11 +19,11 @@ from it.uniroma1.lcl.babelnet import BabelNetQuery
 from it.uniroma1.lcl.jlt.util import Language
 
 
-def get_languages(language_set):
+def get_languages(language_set, glottolog_wrapper):
     assert(language_set in ["all", "iecor", "dense"])
     langs = Language.values()
     codes = [util.get_code(lang) for lang in langs]
-    iso_glotto_map = util.get_iso_glotto_map()
+    iso_glotto_map = glottolog_wrapper.get_iso_glotto_map()
     if language_set != "all":
         with open(os.path.join("resources", language_set + "_languages.txt"), "r") as lang_file:
             subset_glottocodes = lang_file.read().split("\n")
@@ -176,10 +176,10 @@ def babelids_from_ranking(ranking_path, babelids_path, num_ids, redo):
 
 
 
-def languages_statistics(langs, epitran_instances):
+def languages_statistics(langs, epitran_instances, glottolog_wrapper):
     codes = [util.get_code(lang) for lang in langs]
     doculects = util.get_doculects(langs)
-    glottocodes = util.get_glottocodes(codes)
+    glottocodes = glottolog_wrapper.get_glottocodes(codes)
     epitran_dict = {}
     with open(os.path.join("resources", "epitran_codes.txt"), "r") as codes_file:
         epitran_codes = codes_file.readlines()
@@ -221,7 +221,7 @@ def languages_statistics(langs, epitran_instances):
 
 
 
-def generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances, redo):
+def generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances, glottolog_wrapper, redo):
     if os.path.isfile(wordlist_path) and not redo:
         print("Wordlist present")
         return
@@ -231,7 +231,7 @@ def generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances
     assert(os.path.isfile(babelids_path))
     codes = [util.get_code(lang) for lang in langs]
     doculects = util.get_doculects(langs)
-    glottocodes = util.get_glottocodes(codes)
+    glottocodes = glottolog_wrapper.get_glottocodes(codes)
     
     id_df = pd.read_csv(babelids_path, sep = "\t")
     id_df = id_df.astype("str")
