@@ -7,4 +7,5 @@ __pycache__/
 resources/glottolog/
 resources/lexibank-analyzed_wordlists
 resources/lexibank-analyzed_wordlists/lexibank-anaylzed_wordlist.tsv
+resources/lexibench_metadata.tsv
 .nfs*
