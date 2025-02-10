@@ -6,7 +6,8 @@ from epitran.backoff import Backoff
 
 from ipatok import tokenise
 
-from categorical import CategoricalData
+from cognate import CognateData
+from glottolog import GlottologWrapper
 
 
 import jpype
@@ -60,16 +61,15 @@ def get_epitran(code, epitran_dict):
 
 
 
-def generate_wordlists(wordlist_paths):
+def generate_wordlists(wordlist_paths, glottolog_wrapper):
     df = pd.read_csv(os.path.join("resources", "northeuralex-0.9-forms.tsv"), sep = "\t")
     df = df.astype("str")
-    gi_map = util.get_glotto_iso_map()
     epitran_dict = get_epitran_dict()
     epitran_instances = {}
     for glottocode in set(df["Glottocode"]):
-        if glottocode in gi_map:
+        iso_code = glottolog_wrapper.get_iso(glottocode)
+        if iso_code:
             print(glottocode)
-            iso_code = gi_map[glottocode]
             epi = get_epitran(iso_code, epitran_dict)
             if epi is not None:
                 epitran_instances[iso_code] = epi
@@ -82,9 +82,9 @@ def generate_wordlists(wordlist_paths):
     for c, row in df.iterrows():
         doculect = row["Language_ID"]
         glottocode = row["Glottocode"]
-        if glottocode not in gi_map:
+        iso_code = glottolog_wrapper.get_iso(glottocode)
+        if not iso_code:
             continue
-        iso_code = gi_map[glottocode]
         if iso_code not in epitran_instances:
             continue
         concept = row["Concept_ID"]
@@ -122,6 +122,7 @@ def generate_wordlists(wordlist_paths):
 results_dir = os.path.join("results", "northeuralex")
 names = ["original", "ipatok", "epitran"]
 redo = False
+glottolog_wrapper = GlottologWrapper("resources/glottolog/")
 
 wordlist_dir = os.path.join(results_dir,"wordlist")
 wordlist_cognate_dir = os.path.join(results_dir, "wordlist_cognate")
@@ -134,7 +135,7 @@ for d in [wordlist_dir, wordlist_cognate_dir, msa_dir, glottolog_tree_dir]:
 
 
 wordlist_paths = [os.path.join(wordlist_dir,  name + "_wordlist.tsv") for name in names]
-#generate_wordlists(wordlist_paths)
+#generate_wordlists(wordlist_paths, glottolog_wrapper)
 
 for name in names:
     wordlist_path = os.path.join(wordlist_dir,  name + "_wordlist.tsv")
@@ -148,8 +149,8 @@ for name in names:
     best_tree_path = raxml_prefix + ".raxml.bestTree"
 
     #pipeline.detect_cognates(wordlist_path, wordlist_cognate_path, redo)
-    #cd = CategoricalData.from_edictor_tsv(wordlist_cognate_path)
-    #cd.write_msa(bin_msa_path, "bin")
+    #cd = CognateData.from_edictor_tsv(wordlist_cognate_path, glottolog_wrapper)
+    #cd.write_bin_msa(bin_msa_path)
     #tree = cd.get_glottolog_tree()
     #tree.write(format = 1, outfile = glottolog_tree_path)
     #pipeline.run_raxmlng(bin_msa_path, "BIN+G", raxml_prefix, redo)
