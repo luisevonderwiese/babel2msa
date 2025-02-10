@@ -6,4 +6,5 @@ BabelNet-API-5.3/
 __pycache__/
 resources/glottolog/
 resources/lexibank-analyzed_wordlists
+resources/lexibank-analyzed_wordlists/lexibank-anaylzed_wordlist.tsv
 .nfs*
