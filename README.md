@@ -28,8 +28,6 @@ python experiment.py
 # python analyze_synsetfilter.py
 python completeness_analysis.py
 python summarize.py
-python entropies_lexibench.py
-python entropies_lexibank_analyzed.py
 python reverse.py
 python northeuralex_signal.py
 ```
