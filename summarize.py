@@ -2,7 +2,7 @@ import os
 import json
 import pandas as pd
 
-for language_set in ["all", "iecor","main"]:
+for language_set in ["all", "iecor", "dense"]:
     print(language_set)
     stat_dicts = []
 

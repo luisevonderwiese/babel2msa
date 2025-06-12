@@ -39,7 +39,7 @@ def run_experiments(bn, language_set, name, num_ids, glottolog_wrapper, epitran_
     base_dir = os.path.join("results", language_set)
 
     if mode == "conceptlist":
-        conceptlist_dir = os.path.join("results", "conceptlist")
+        conceptlist_dir = os.path.join("resources", "conceptlist")
         conceptlist_path = os.path.join(conceptlist_dir, name + ".tsv")
         assert(os.path.isfile(conceptlist_path))
 
@@ -69,20 +69,23 @@ def run_experiments(bn, language_set, name, num_ids, glottolog_wrapper, epitran_
     statistics_path = os.path.join(statistics_dir, full_name + "_statistics.json")
     raxml_dir = os.path.join(base_dir, "raxml", full_name)
     raxml_prefix = os.path.join(raxml_dir, "inference")
+    label_dir = os.path.join(base_dir, "difficulty_label", full_name)
+    label_prefix = os.path.join(label_dir, "label")
+
     best_tree_path = raxml_prefix + ".raxml.bestTree"
 
-    for d in [babelids_dir, wordlist_dir, wordlist_cognate_dir, msa_dir, glottolog_tree_dir, plots_dir, sparsity_plots_dir, statistics_dir, raxml_dir]:
+    for d in [babelids_dir, wordlist_dir, wordlist_cognate_dir, msa_dir, glottolog_tree_dir, plots_dir, sparsity_plots_dir, statistics_dir, raxml_dir, label_dir]:
         if not os.path.isdir(d):
             os.makedirs(d)
 
 
     langs = pipeline.get_languages(language_set, glottolog_wrapper) 
     if len(epitran_instances) > 0:
-        epitran_langs = [lang for l, lang in enumerate(langs) if epitran_instances[l] is not None]
+        epitran_langs = [lang for l, lang in enumerate(langs) if epitran_instances[lang] is not None]
     else:
         epitran_langs = []
 
-    #pipeline.languages_statistics(langs, epitran_instances, glottolog_wrapper)
+    pipeline.languages_statistics(langs, epitran_instances, glottolog_wrapper)
 
     if mode == "conceptlist":
         pipeline.babelids_from_conceptlist(bn, conceptlist_path, babelids_path, langs, epitran_langs, redo)
@@ -100,7 +103,6 @@ def run_experiments(bn, language_set, name, num_ids, glottolog_wrapper, epitran_
         stat_dict["name"] = full_name
         stat_dict["num_ids"] = num_ids
         stat_dict["use_epitran"] = (len(epitran_instances) == 0)
-
     pipeline.generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances, glottolog_wrapper, redo)
     stat_dict["AMC"] = pipeline.AMC(wordlist_path)
     pipeline.detect_cognates(wordlist_path, wordlist_cognate_path, redo)
@@ -117,26 +119,30 @@ def run_experiments(bn, language_set, name, num_ids, glottolog_wrapper, epitran_
     stat_dict = pipeline.statistics(wordlist_path, plots_dir, stat_dict, redo)
     stat_dict = pipeline.cognate_statistics(wordlist_cognate_path, plots_dir, stat_dict, redo)
     pipeline.run_raxmlng(bin_msa_path, "BIN+G", raxml_prefix, redo)
-    if "gq_dist" not in stat_dict or redo:
+    if "gq_dist" not in stat_dict or True:
         stat_dict["gq_dist"]  = util.gq_distance(glottolog_tree_path, best_tree_path)
     print("GQ distance to glottolog:", str(stat_dict["gq_dist"]))
-
+    pipeline.calculate_label(bin_msa_path, label_prefix, redo)
+    if "ground_truth_difficulty" not in stat_dict or redo:
+        stat_dict["ground_truth_difficulty"] = pipeline.get_label(label_prefix)
+    print("Ground truth difficulty:", str(stat_dict["ground_truth_difficulty"]))
     with open(statistics_path, "w+") as outfile:
         json.dump(stat_dict, outfile)
 
-
-redo = False
+redo = True 
 if USE_BABELNET_INDICES:
     bn = BabelNet.getInstance()
 else:
     bn = None
 glottolog_wrapper = GlottologWrapper("resources/glottolog")
-epitran_instances = util.get_epitran_instances(pipeline.get_languages("all", glottolog_wrapper))
-for language_set in ["all", "dense", "iecor"]:
+all_langs = pipeline.get_languages("all", glottolog_wrapper)
+no_epitran_instances = {lang:None for lang in all_langs}
+epitran_instances = util.get_epitran_instances(all_langs)
+for language_set in ["dense", "iecor", "all"]:
     for name in ["swadesh100", "core-wordnet"]:
-        for e in [epitran_instances, []]:
+        for e in [epitran_instances, no_epitran_instances]:
             run_experiments(bn, language_set, name, float("nan"), glottolog_wrapper, e, redo)
     name = "filter"
-    for e in [epitran_instances, []]:
+    for e in [epitran_instances, no_epitran_instances]:
         run_experiments(bn, language_set, name, 5000, glottolog_wrapper, e, redo)
 

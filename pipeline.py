@@ -4,7 +4,6 @@ import pandas as pd
 from ipatok import tokenise
 from lingpy.compare.sanity import average_coverage
 from lingpy import *
-from pysem.glosses import to_concepticon
 
 import util
 
@@ -23,18 +22,18 @@ def get_languages(language_set, glottolog_wrapper):
     assert(language_set in ["all", "iecor", "dense"])
     langs = Language.values()
     codes = [util.get_code(lang) for lang in langs]
-    iso_glotto_map = glottolog_wrapper.get_iso_glotto_map()
     if language_set != "all":
         with open(os.path.join("resources", language_set + "_languages.txt"), "r") as lang_file:
             subset_glottocodes = lang_file.read().split("\n")
     selected_langs = []
     for l, code in enumerate(codes):
-        if code in iso_glotto_map:
-            if language_set == "all" or iso_glotto_map[code][0] in subset_glottocodes:
-                selected_langs.append(langs[l])
+        glottocode = glottolog_wrapper.get_glotto(code)
+        if not glottocode:
+            continue
+        if language_set == "all" or glottocode in subset_glottocodes:
+            selected_langs.append(langs[l])
     result = set(selected_langs)
     return result
-
 
 def filter_synsets(bn, synsetfilter_path):
     if os.path.isfile(synsetfilter_path):
@@ -83,7 +82,6 @@ def filter_synsets(bn, synsetfilter_path):
                 result_vector.append("10")
         if ipa_count == 0:
             continue
-        print(concept)
         with open(synsetfilter_path, "a") as filter_file:
             filter_file.write("\t".join([str(synset.getID()),str(concept)] + result_vector) + "\n")
 
@@ -105,7 +103,6 @@ def babelids_from_conceptlist(bn, conceptlist_path, babelids_path, langs, epitra
         concept = row["ENGLISH"].split(" ")[0]
         concept = concept.replace("*", "")
         concept = concept.strip("()")
-        print(concept)
         query = BabelNetQuery.Builder(concept).from_(Language.EN).POS(UniversalPOS.valueOf(row["POS"])).to(langs).build()
         synsets = bn.getSynsets(query)
         if len(synsets) == 0 or synsets[0] is None:
@@ -164,13 +161,7 @@ def babelids_from_ranking(ranking_path, babelids_path, num_ids, redo):
             break
         cnt += 1
         concept = row["concept"]
-        print(concept)
-        matches = to_concepticon([{"gloss": concept}], language="en", max_matches=1)[concept]
-        if len(matches) == 0:
-            concepticon_id, concepticon_gloss = ("", "")
-        else:
-            match = matches[0]
-            concepticon_id, concepticon_gloss = (match[0], match[1])
+        concepticon_id, concepticon_gloss = ("", "")
         with open(babelids_path, 'a') as babelids_file:
             babelids_file.write("\t".join([concept, row["babelid"], str(concepticon_id), concepticon_gloss]) + "\n")
 
@@ -180,15 +171,6 @@ def languages_statistics(langs, epitran_instances, glottolog_wrapper):
     codes = [util.get_code(lang) for lang in langs]
     doculects = util.get_doculects(langs)
     glottocodes = glottolog_wrapper.get_glottocodes(codes)
-    epitran_dict = {}
-    with open(os.path.join("resources", "epitran_codes.txt"), "r") as codes_file:
-        epitran_codes = codes_file.readlines()
-        epitran_codes = [code[:-1] for code in epitran_codes]
-    for code in epitran_codes:
-        lang = code.split("-")[0]
-        if not lang in epitran_dict:
-            epitran_dict[lang] = []
-        epitran_dict[lang].append(code)
 
     bitstrings = []
     relevant = []
@@ -201,7 +183,7 @@ def languages_statistics(langs, epitran_instances, glottolog_wrapper):
             bitstring += "0"
         else:
             bitstring += "1"
-        if codes[l] in epitran_dict:
+        if epitran_instances[lang] is not None:
             bitstring += "1"
         else:
             bitstring += "0"
@@ -261,13 +243,14 @@ def generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances
                 form = str(sense.getSimpleLemma()).replace("_", " ")
                 ipa  = str(list(transcriptions)[0].split(",")[0]).strip("[]").strip("/")
                 ipa_count += 1
-            elif epitran_instances[l] is not None:
+            elif epitran_instances[lang] is not None:
                 form = str(sense.getSimpleLemma()).replace("_", " ")
-                epi = epitran_instances[l]
+                epi = epitran_instances[lang]
                 try:
                     ipa = epi.transliterate(form)
                     ipa_epi_count += 1
-                except:
+                except Exception as e:
+                    print(e)
                     continue
             else:
                 continue
@@ -279,11 +262,10 @@ def generate_wordlist(bn, babelids_path, wordlist_path, langs, epitran_instances
             if len(tokens) == 0:
                 continue
             tokens = " ".join(tokens)
-            print("writing")
             with open(wordlist_path, "a") as wordlist_file:
                 wordlist_file.write("\t".join([str(ID), doculects[l], str(glottocodes[l]), codes[l], str(c) + "_" + str(concept), str(concepticon_id), concepticon_gloss, form, ipa, tokens]) + "\n")
             ID += 1
-        print(concept, str(form_count), str(ipa_count), str(ipa_epi_count))
+        #print(concept, str(form_count), str(ipa_count), str(ipa_epi_count))
 
 
 def AMC(wordlist_path):
@@ -319,24 +301,6 @@ def run_raxmlng(msa_path, model, prefix, redo, args = ""):
     command += " " + args + " --redo"
     os.system(command)
 
-def run_pythia(msa_path, pythia_prefix, redo):
-    if os.path.isfile(pythia_prefix) and not redo:
-        print("Pythia results present")
-        return
-    assert(os.path.isfile(msa_path))
-    print("Running pythia...")
-    command = "pythia -m " + msa_path + " -o " + pythia_prefix + " -r ./bin/raxml-ng -p predictors/latest.pckl --removeDuplicates -v"
-    print(command)
-    os.system(command)
-    d = util.get_difficulty(pythia_prefix)
-    if d != d:
-        os.remove(pythia_prefix)
-        util.write_padded_msa(msa_path, "temp.phy")
-        command = "pythia -m temp.phy -o " + pythia_prefix + " -r ./bin/raxml-ng -p predictors/latest.pckl --removeDuplicates -v"
-        print(command)
-        os.system(command)
-        os.remove("temp.phy")
-
 
 def sparsity_plot(cd, sparsity_plot_path, redo):
     if os.path.isfile(sparsity_plot_path) and not redo:
@@ -352,7 +316,6 @@ def sparsity_plot(cd, sparsity_plot_path, redo):
     x = len(data[0]) / (factor * 10)
     if x < y:
         x = len(data[0]) / factor
-    print(str(x), str(y))
     fig, ax = plt.subplots(figsize = (x, y))
     ax.imshow(data, cmap='Greys', interpolation='nearest', aspect = 'auto')
     plt.tight_layout()
@@ -438,3 +401,32 @@ def cognate_statistics(wordlist_cognate_path, plots_dir, stat_dict, redo):
 
     return stat_dict
 
+
+def calculate_label(msa_path, prefix, redo):
+    if os.path.isfile(prefix + ".labelGen.log") and not redo:
+        return
+    print("Calculating difficulty label")
+    command = "label"
+    command += " -m " + msa_path
+    command += " -i  bin/iqtree2"
+    command += " -p " + prefix
+    os.system(command)
+    try:
+        get_label(prefix)
+    except ValueError:
+        print("trying with padded msa")
+        util.write_padded_msa(msa_path, "temp.phy")
+        command = "label"
+        command += " -m temp.phy"
+        command += " -i  bin/iqtree2"
+        command += " -p " + prefix
+        os.system(command)
+        os.remove("temp.phy")
+
+def get_label(prefix):
+    with open(prefix + ".labelGen.log", "r", encoding="utf-8") as out_file:
+        lines = out_file.readlines()
+    for line in lines:
+        if line.startswith("Ground Truth Difficulty"):
+            return float(line.split(" ")[-1])
+    raise ValueError("Error during label calculation")

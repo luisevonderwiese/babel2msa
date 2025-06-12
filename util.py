@@ -5,7 +5,8 @@ import json
 import epitran
 from epitran.backoff import Backoff
 import subprocess
-
+from ete3 import Tree
+from Bio import AlignIO
 
 
 from it.uniroma1.lcl.babelnet import BabelNet
@@ -71,6 +72,9 @@ def get_doculects(langs):
         doculect = doculect.replace("(", "")
         doculect = doculect.replace(")", "")
         doculect = doculect.replace(" ", "_")
+        doculect = doculect.replace("'", "")
+        doculect = doculect.replace("å", "a")
+        doculect = doculect.replace("ü", "u")
         doculects.append(str(doculect))
     return doculects
 
@@ -78,7 +82,7 @@ def get_doculects(langs):
 
 def get_epitran_instances(langs):
     print("Loading epitran")
-    epitran_instances = []
+    epitran_instances = {} 
     epitran_dict = {}
     with open(os.path.join("resources", "epitran_codes.txt"), "r") as codes_file:
         epitran_codes = codes_file.readlines()
@@ -92,22 +96,23 @@ def get_epitran_instances(langs):
         code = get_code(lang)
         if code in epitran_dict:
             epitran_codes = epitran_dict[code]
-            print(lang.getName())
             if len(epitran_codes) == 1:
                 try:
-                    epitran_instances.append(epitran.Epitran(epitran_codes[0]))
+                    epitran_instances[lang] = epitran.Epitran(epitran_codes[0])
                 except Exception as e:
-                    epitran_instances.append(None)
+                    print(e)
+                    epitran_instances[lang] = None
             else:
                 try:
-                    if codes[0].startswith("cmn"):
-                        epitran_instances.append(Backoff(epitran_codes, cedict_file='resources/cedict_1_0_ts_utf-8_mdbg.txt'))
+                    if epitran_codes[0].startswith("cmn"):
+                        epitran_instances[lang] = Backoff(epitran_codes, cedict_file='resources/cedict_1_0_ts_utf-8_mdbg.txt')
                     else:
-                        epitran_instances.append(Backoff(epitran_codes))
+                        epitran_instances[lang] = Backoff(epitran_codes)
                 except Exception as e:
-                    epitran_instances.append(None)
+                    print(e)
+                    epitran_instances[lang] = None
         else:
-            epitran_instances.append(None)
+            epitran_instances[lang] = None
     return epitran_instances
 
 
@@ -205,12 +210,16 @@ def get_concept_label(synset, langs):
 
 def gq_distance(tree_name1, tree_name2):
     if tree_name1 is None or tree_name2 is None:
+        print("A Tree is None")
         return float('nan')
     if tree_name1 != tree_name1 or tree_name2 != tree_name2:
+        print("A tere is nan")
         return float("nan")
+    
     os.system("./bin/qdist " + tree_name1 + " " + tree_name2 + " >out.txt")
     lines = open("out.txt").readlines()
     if len(lines) < 2: #error occurred
+        print("error:")
         print(lines)
         return float('nan')
     res_q = float(lines[1].split("\t")[-3])
@@ -219,4 +228,27 @@ def gq_distance(tree_name1, tree_name2):
     return qdist
 
 
+def write_padded_msa(msa_path, outpath):
+    with open(msa_path, "r", encoding="utf-8") as msa_file:
+        msa_string = msa_file.read()
+    parts = msa_string.split("\n\n")
+    lines = parts[-1].split("\n")
+    block_size = len(lines[1].split(" ")[-1])
+    if block_size == 10:
+        padding_size = 10
+        append_string = " ----------"
+    else:
+        padding_size = 10 - block_size
+        append_string = "-" * padding_size
+    if len(parts) != 1:
+        msa_string = "\n\n".join(parts[:-1] + ["\n".join([line + append_string for line in lines])])
+    else:
+        msa_string = "\n".join([lines[0]] + [line + append_string for line in lines[1:]])
 
+    parts = msa_string.split("\n")
+    sub_parts = parts[0].split(" ")
+
+    msa_string = "\n".join([" ".join(sub_parts[:-1] + [str(int(sub_parts[-1]) + padding_size)])] + parts[1:])
+
+    with open(outpath, "w+", encoding="utf-8") as new_msa_file:
+        new_msa_file.write(msa_string)

@@ -1,100 +1,64 @@
 import os
-import re
-import numpy as np
-import copy
 from pyglottolog import Glottolog
 from ete3 import Tree
 
-
 class GlottologWrapper:
     def __init__(self, glottolog_path = "../glottolog"):
+        print("Initializing glottolog...")
         self.glottolog = Glottolog(glottolog_path)
-        self.full_tree_path = os.path.join(glottolog_path, "glottolog.tre")
-        if not os.path.isfile(self.full_tree_path):
-            self.extract_full_glottolog_tree()
-        self.full_tree = Tree(self.full_tree_path)
-
-
-
-    def extract_full_glottolog_tree(self):
-        print("Extracting Glottolog Tree ... this might take a while ...")
-        #code adapted from gerhard jaeger
-        raw = self.glottolog.newick_tree()
-        trees = []
-        # each line is a tree. bring in proper format and read with ete3
-        for i, ln in enumerate(raw.split("\n")):
-            ln = ln.strip()
-            ln = re.sub(r"\'[A-Z][^[]*\[", "[", ln)
-            ln = re.sub(r"\][^']*\'", "]", ln)
-            ln = re.sub(r"\[|\]", "", ln)
-            ln = ln.replace(":1", "")
-            trees.append(Tree(ln, format=1))
-        # place all trees below a single root
-        glot = Tree()
-        for t in trees:
-            glot.add_child(t)
-
-        #insert missing, i.e. isolated languages below the root
-        tTaxa = [nd.name for nd in glot.traverse() if nd.name != '']
-        gTaxa = [languoid.glottocode for languoid in self.glottolog.languoids(exclude_pseudo_families=True)]
-        for taxon in gTaxa:
-            if taxon not in tTaxa:
-                glot.add_child(name=taxon)
-
-        #if there is a inner node with a name (i.e. corresponds to a language),the name of this node is removed
-        # and a child(i.e.leaf) with this name is inserted
-        nonLeaves = [nd.name for nd in glot.traverse() if nd.name != '' and not nd.is_leaf()]
-        for i, nm in enumerate(nonLeaves):
-            nd = glot & nm
-            nd.name = ''
-            nd.add_child(name=nm)
-
-        # only keep languages which are listed in languages.csv
-        gTaxa = np.intersect1d(gTaxa, glot.get_leaf_names())
-        glot.prune([glot&x for x in gTaxa])
-
-        glot.write(outfile = self.full_tree_path, format=9)
-
-    def get_iso_glotto_map(self):
-        ig_map = {}
-        for languoid in self.glottolog.languoids(exclude_pseudo_families=True):
-            if languoid.category != "Family" and languoid.iso:
-                iso = languoid.iso
-                if not languoid.iso in ig_map:
-                    ig_map[iso] = []
-                ig_map[iso].append(languoid.glottocode)
-        return ig_map
+        self.languoid_dict = self.glottolog.languoids_by_code()
+        self.lgs = {lg.id: lg for lg in self.glottolog.languoids()}
+        print("done")
 
     def get_iso(self, glottocode):
         l = self.glottolog.languoid(glottocode)
         if l:
             return l.iso
         return None
+
+    def get_glotto(self, iso):
+        if not iso in self.languoid_dict:
+            return None
+        return self.languoid_dict[iso].glottocode
     
     def get_glottocodes(self, iso_codes):
         all_glottocodes = []
-        iso_glotto_map = self.get_iso_glotto_map()
         for code in iso_codes:
-            if code in iso_glotto_map:
-                glottocodes = iso_glotto_map[code]
-                assert(len(glottocodes) == 1)
-                if glottocodes[0] != glottocodes[0]:
-                    all_glottocodes.append("")
-                elif glottocodes[0] == "nan":
-                    all_glottocodes.append("")
-                else:
-                    all_glottocodes.append(glottocodes[0])
+            glottocode = self.get_glotto(code)
+            assert(glottocode)
+            if glottocode:
+                all_glottocodes.append(glottocode)
             else:
                 all_glottocodes.append("")
         return all_glottocodes
 
 
     def get_tree(self, glottocodes, languages):
-        tree = copy.deepcopy(self.full_tree)
+        family_gcs = set() 
+        for gc in glottocodes:
+            if self.lgs[gc].lineage:
+                family_gcs.add(self.lgs[gc].lineage[0][1])
+            else:
+                family_gcs.add(gc)
+        tree = Tree()
+        for family_gc in family_gcs:
+            tree_str = "(" + str(self.lgs[family_gc].newick_node(template='{l.id}').newick) + ");"
+            family_tree = Tree(tree_str, format = 1)
+            tree.add_child(family_tree)
         try:
             tree.prune([tree&glottocode for glottocode in glottocodes])
-        except: #node not found due to wrong / deprecated glottocodes
+        except Exception as e: #node not found due to wrong / deprecated glottocodes
+            print(e)
             return None
+
+        #case that glottocodes are assigned to inner nodes
+        for node in tree.traverse():
+            if not node.is_leaf() and node.name in glottocodes:
+                gc =  node.name
+                node.name = ""
+                node.add_child(name = gc)
+                node.resolve_polytomy(recursive=False)
+
         for leaf in tree.iter_leaves():
             leaf.add_features(new = False)
         for leaf in tree.iter_leaves():
@@ -110,6 +74,3 @@ class GlottologWrapper:
                 for child in leaf.children:
                     child.add_features(new = True)
         return tree
-
-
-    

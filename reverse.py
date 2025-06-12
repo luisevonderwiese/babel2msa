@@ -167,8 +167,6 @@ def check_epitran(df, relevant_glottocodes):
         results.append([glottocode, "$" + str(round(100 * (wrong / overall), 2)) + " \%$", "$" + str(round(100 * (dolgo_wrong / overall), 2)) + " \%$"])
     print(tabulate(results, tablefmt = "latex_raw", headers=["glottocode", "error rate", "dolgo error rate"]))
 
-
-
 df = pd.read_csv(os.path.join("resources", "northeuralex-0.9-forms.tsv"), sep = "\t")
 df.astype("str")
 glottocodes = list(set(df["Glottocode"]))
@@ -184,4 +182,4 @@ for glottocode in glottocodes:
 
 check_ipatok(df)
 check_ipatok_lexibank_analyzed()
-#check_epitran(df, relevant_glottocodes)
+check_epitran(df, relevant_glottocodes)

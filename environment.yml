@@ -1,12 +1,13 @@
-name: babelnet
+name: babel2msa
 channels:
   - conda-forge
   - anaconda
 dependencies:
+  - python >=3.9,<3.13
   - pypythia
   - ete3
+  - legacy-cgi
   - anaconda::jpype1
-  - iso-639
   - tabulate
   - biopython
   - pip
@@ -14,5 +15,6 @@ dependencies:
     - epitran
     - ipatok
     - lingpy>=2.6.13
-    - pysem
     - pyglottolog
+    - iso639-lang
+    - pythialabelgenerator

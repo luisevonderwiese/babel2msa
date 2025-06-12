@@ -135,7 +135,7 @@ for d in [wordlist_dir, wordlist_cognate_dir, msa_dir, glottolog_tree_dir]:
 
 
 wordlist_paths = [os.path.join(wordlist_dir,  name + "_wordlist.tsv") for name in names]
-#generate_wordlists(wordlist_paths, glottolog_wrapper)
+generate_wordlists(wordlist_paths, glottolog_wrapper)
 
 for name in names:
     wordlist_path = os.path.join(wordlist_dir,  name + "_wordlist.tsv")
@@ -146,16 +146,23 @@ for name in names:
     if not os.path.isdir(raxml_dir):
         os.makedirs(raxml_dir)
     raxml_prefix = os.path.join(raxml_dir, "inference")
+    label_dir = os.path.join(results_dir, "difficulty_label", name)
+    if not os.path.isdir(label_dir):
+        os.makedirs(label_dir)
+    label_prefix = os.path.join(label_dir, "label")
     best_tree_path = raxml_prefix + ".raxml.bestTree"
 
-    #pipeline.detect_cognates(wordlist_path, wordlist_cognate_path, redo)
-    #cd = CognateData.from_edictor_tsv(wordlist_cognate_path, glottolog_wrapper)
-    #cd.write_bin_msa(bin_msa_path)
-    #tree = cd.get_glottolog_tree()
-    #tree.write(format = 1, outfile = glottolog_tree_path)
-    #pipeline.run_raxmlng(bin_msa_path, "BIN+G", raxml_prefix, redo)
+    pipeline.detect_cognates(wordlist_path, wordlist_cognate_path, redo)
+    cd = CognateData.from_edictor_tsv(wordlist_cognate_path, glottolog_wrapper)
+    cd.write_bin_msa(bin_msa_path)
+    tree = cd.get_glottolog_tree()
+    tree.write(format = 1, outfile = glottolog_tree_path)
+    pipeline.run_raxmlng(bin_msa_path, "BIN+G", raxml_prefix, redo)
+    pipeline.calculate_label(bin_msa_path, label_prefix, redo)
     print(name)
     print("GQ distance")
     print(util.gq_distance(glottolog_tree_path, best_tree_path))
+    print("ground truth difficulty")
+    print(pipeline.get_label(label_prefix))
 
 
