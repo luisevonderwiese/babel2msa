@@ -135,7 +135,7 @@ for d in [wordlist_dir, wordlist_cognate_dir, msa_dir, glottolog_tree_dir]:
 
 
 wordlist_paths = [os.path.join(wordlist_dir,  name + "_wordlist.tsv") for name in names]
-generate_wordlists(wordlist_paths, glottolog_wrapper)
+#generate_wordlists(wordlist_paths, glottolog_wrapper)
 
 for name in names:
     wordlist_path = os.path.join(wordlist_dir,  name + "_wordlist.tsv")
