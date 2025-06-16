@@ -10,8 +10,8 @@ conda env create -f environment.yml
 - Install `lex_lookup` (for `epitran`) as explained [here](https://github.com/dmort27/epitran)
 - Install [BabelNet-API Version 5.3](https://babelnet.org/downloads) in `BabelNet-API-5.3/`
 - Place [BabelNet-Index Version 5.0](https://babelnet.org/downloads) in `BabelNet-5.0/` and set `USE_BABELNET_INDICES = True` in `experiment.py`
-alternatively:
-- Place precompiled data in `results/` and set `USE_BABELNET_INDICES = False` in `experiment.py`
+alternatively (if you don't have access to BabelNet):
+- Move `results_precompiled/` to `results/` and set `USE_BABELNET_INDICES = False` in `experiment.py`
 
 - Download [Glottolog v5.1](https://github.com/glottolog/glottolog) into `resources/glottolog`:
 ```
@@ -25,11 +25,9 @@ git checkout tags/v5.1
 ```
 python convert_core_wordnet.py
 python experiment.py
-# python analyze_synsetfilter.py
+python analyze_synsetfilter.py
 python completeness_analysis.py
 python summarize.py
 python reverse.py
 python northeuralex_signal.py
 ```
-## Ground Truth Difficulties
-Computation of ground truth difficulty scores in [separate repo](https://github.com/luisevonderwiese/difficulty-prediction-training-data/tree/language_data). See there for details.
