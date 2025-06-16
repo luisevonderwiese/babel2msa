@@ -1,5 +1,5 @@
 import os
-from categorical import CategoricalData
+from cognate import CognateData
 
 import jpype
 import jpype.imports
@@ -15,10 +15,15 @@ if not os.path.isdir(plots_dir):
     os.makedirs(plots_dir)
 
 for pre in ["dense", "iecor"]:
-    lexibank_path = os.path.join("results", "lexibank-analyzed_languagelists", "wordlist_cognate",  pre + "_swadesh100_wordlist_cognate.tsv")
+    lexibank_wl_path = os.path.join("resources/lexibank-analyzed_wordlists/swadesh100", pre + "_swadesh100_wordlist.tsv")
+    wordlist_cognate_dir = "results/lexibank-analyzed/wordlist_cognate"
+    if not os.path.isdir(wordlist_cognate_dir):
+        os.makedirs(wordlist_cognate_dir)
+    lexibank_path = os.path.join(wordlist_cognate_dir, pre + "_swadesh100_wordlist_cognate.tsv")
+    pipeline.detect_cognates(lexibank_wl_path, lexibank_path, False)
     babelnet_path = os.path.join("results", pre, "wordlist_cognate", "swadesh100_epitran_wordlist_cognate.tsv")
-    lexibank_cd = CategoricalData.from_edictor_tsv(lexibank_path)
-    babelnet_cd = CategoricalData.from_edictor_tsv(babelnet_path)
+    lexibank_cd = CognateData.from_edictor_tsv(lexibank_path)
+    babelnet_cd = CognateData.from_edictor_tsv(babelnet_path)
     lexibank_glottocodes = set(lexibank_cd.glottocodes)
     babelnet_glottocodes = set(babelnet_cd.glottocodes)
     common_glottocodes = lexibank_glottocodes.intersection(babelnet_glottocodes)

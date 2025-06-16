@@ -166,3 +166,24 @@ class CognateData:
             for code in codes:
                 entropy += self.bin_column_entropy(code)
         return entropy
+
+    def subset_with_glottocodes(self, input_glottocodes):
+        temp_matrix = [[] for concept_ids in range(self.num_concepts())]
+        other_language_ids = []
+        other_glottocodes = []
+        for language_idx, language_id in enumerate(self.language_ids):
+            glottocode = self.glottocodes[language_idx]
+            if glottocode in input_glottocodes:
+                other_language_ids.append(language_id)
+                other_glottocodes.append(glottocode)
+                for concept_idx in range(self.num_concepts()):
+                    temp_matrix[concept_idx].append(self.matrix[concept_idx][language_idx])
+        other_matrix = []
+        other_concept_ids = []
+        for concept_idx in range(self.num_concepts()):
+            for language_idx in range(len(other_language_ids)):
+                if len(temp_matrix[concept_idx][language_idx]) > 0:
+                    other_matrix.append(temp_matrix[concept_idx])
+                    other_concept_ids.append(self.concept_ids[concept_idx])
+                    break
+        return CognateData(other_language_ids, other_concept_ids, other_matrix, other_glottocodes)
