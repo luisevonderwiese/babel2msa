@@ -11,7 +11,7 @@ conda env create -f environment.yml
 - Install [BabelNet-API Version 5.3](https://babelnet.org/downloads) in `BabelNet-API-5.3/`
 - Place [BabelNet-Index Version 5.0](https://babelnet.org/downloads) in `BabelNet-5.0/` and set `USE_BABELNET_INDICES = True` in `experiment.py`
 alternatively (if you don't have access to BabelNet):
-- Move `results_precompiled/` to `results/` and set `USE_BABELNET_INDICES = False` in `experiment.py`
+- Unzip `results_precompiled.zip`, place the files in `results/` and set `USE_BABELNET_INDICES = False` in `experiment.py`
 
 - Download [Glottolog v5.1](https://github.com/glottolog/glottolog) into `resources/glottolog`:
 ```

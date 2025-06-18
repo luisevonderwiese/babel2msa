@@ -21,18 +21,24 @@ import pipeline
 USE_BABELNET_INDICES = True 
 
 
-def run_experiments(bn, language_set, name, num_ids, glottolog_wrapper, epitran_instances = [], redo = False):
+def run_experiments(bn, language_set, name, num_ids, glottolog_wrapper, epitran_instances, redo = False):
     if name.startswith("filter"):
         mode = "synsetfilter"
     else:
         mode = "conceptlist"
-
-
-    if len(epitran_instances) > 0:
-        full_name = name + "_epitran"
+    
+    langs = pipeline.get_languages(language_set, glottolog_wrapper)
+    use_epitran = False
+    full_name = name
+    for lang in langs:
+        if epitran_instances[lang] is not None:
+            use_epitran = True
+            full_name = name + "_epitran"
+            break
+    if use_epitran:
+        epitran_langs = [lang for l, lang in enumerate(langs) if epitran_instances[lang] is not None]
     else:
-        full_name = name
-
+        epitran_langs = []
 
     assert(mode in ["conceptlist", "synsetfilter"])
 
@@ -119,7 +125,7 @@ def run_experiments(bn, language_set, name, num_ids, glottolog_wrapper, epitran_
     stat_dict = pipeline.statistics(wordlist_path, plots_dir, stat_dict, redo)
     stat_dict = pipeline.cognate_statistics(wordlist_cognate_path, plots_dir, stat_dict, redo)
     pipeline.run_raxmlng(bin_msa_path, "BIN+G", raxml_prefix, redo)
-    if "gq_dist" not in stat_dict or True:
+    if "gq_dist" not in stat_dict or redo:
         stat_dict["gq_dist"]  = util.gq_distance(glottolog_tree_path, best_tree_path)
     print("GQ distance to glottolog:", str(stat_dict["gq_dist"]))
     pipeline.calculate_label(bin_msa_path, label_prefix, redo)
@@ -129,7 +135,7 @@ def run_experiments(bn, language_set, name, num_ids, glottolog_wrapper, epitran_
     with open(statistics_path, "w+") as outfile:
         json.dump(stat_dict, outfile)
 
-redo = True 
+redo = False 
 if USE_BABELNET_INDICES:
     bn = BabelNet.getInstance()
 else:
